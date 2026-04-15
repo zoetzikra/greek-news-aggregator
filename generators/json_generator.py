@@ -39,12 +39,12 @@ class JSONGenerator:
 
     def _generate_summary(self, report: DailyReport, date_dir: Path):
         """Generate the daily summary JSON."""
-        # Top 5 items per category
+        # All items per category, sorted by importance
         top_items_by_cat = {}
         for cat, cat_report in report.categories.items():
             top_items_by_cat[cat] = [
                 self._item_to_json(item)
-                for item in cat_report.top_items[:5]
+                for item in cat_report.top_items
             ]
 
         summary = {
