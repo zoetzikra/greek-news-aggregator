@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T18:00:00+00:00",
+  "category": "economy",
+  "item_count": 5,
+  "themes": {
+    "el": [
+      "Δημοσιονομική υπέρβαση",
+      "Ανανέωση Στουρνάρα",
+      "Προβλέψεις ΔΝΤ",
+      "Κατώτατος μισθός",
+      "Πακέτο ανακούφισης"
+    ],
+    "en": [
+      "Fiscal outperformance",
+      "Stournaras renewal",
+      "IMF forecasts",
+      "Minimum wage increase",
+      "Relief package"
+    ]
+  },
+  "items": [
+    {
+      "id": "ac121f5e4d7c",
+      "title": "Greece to Renew Bank of Greece Governor Stournaras for a Third Term",
+      "url": "https://greekreporter.com/2026/04/15/greece-renews-bank-greece-governor-stournaras-third-term/",
+      "author": "Tasos Kokkinidis",
+      "published": "2026-04-15T08:00:00+00:00",
+      "source": "Kathimerini / GreekReporter",
+      "source_type": "web",
+      "category": "economy",
+      "importance": 90,
+      "summary": {
+        "el": "Η ελληνική κυβέρνηση πρότεινε την ανανέωση της θητείας του Διοικητή της Τράπεζας της Ελλάδος Γιάννη Στουρνάρα για τρίτη συνεχόμενη φορά, καθιστώντας τον τον πρώτο Διοικητή που υπηρετεί τρεις συνεχόμενες θητείες από το 2014. Ο Στουρνάρας εκπροσωπεί επίσης την Ελλάδα στο Διοικητικό Συμβούλιο της Ευρωπαϊκής Κεντρικής Τράπεζας.",
+        "en": "The Greek government proposed renewing the term of Bank of Greece Governor Yannis Stournaras for a third consecutive term, making him the first central banker to serve three consecutive terms since he took office in 2014. Stournaras, 70, also represents Greece on the Governing Council of the European Central Bank."
+      },
+      "tags": {
+        "el": [
+          "Τράπεζα Ελλάδος",
+          "Στουρνάρας",
+          "κεντρική τράπεζα",
+          "οικονομία"
+        ],
+        "en": [
+          "Bank of Greece",
+          "Stournaras",
+          "central bank",
+          "economy"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "606b1a4f2607",
+      "title": "Greece Is Set to Reveal Yet More Outperformance on Budget Goals",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/greece-is-set-to-reveal-yet-more-outperformance-on-budget-goals",
+      "author": "Bloomberg",
+      "published": "2026-04-15T09:00:00+00:00",
+      "source": "Bloomberg",
+      "source_type": "web",
+      "category": "economy",
+      "importance": 88,
+      "summary": {
+        "el": "Η Ελλάδα αναμένεται να ανακοινώσει νέα υπέρβαση των δημοσιονομικών της στόχων, με το πρωτογενές πλεόνασμα για το 2025 να εκτιμάται στο 4,8-4,9% του ΑΕΠ — σημαντικά πάνω από τον αρχικό στόχο 3,7%. Το μεγαλύτερο μέρος της υπέρβασης αποδίδεται στην εντατικοποίηση της καταπολέμησης της φοροδιαφυγής.",
+        "en": "Greece is set to announce another outperformance on its key fiscal metrics, with the primary budget surplus for 2025 expected to come in at around 4.8–4.9% of GDP, well above the 3.7% forecast. Much of the surplus is attributed to intensified action against tax evasion, which brought approximately €2.2 billion in additional revenues."
+      },
+      "tags": {
+        "el": [
+          "δημοσιονομικό πλεόνασμα",
+          "ΑΕΠ",
+          "φοροδιαφυγή",
+          "προϋπολογισμός"
+        ],
+        "en": [
+          "fiscal surplus",
+          "GDP",
+          "tax evasion",
+          "budget"
+        ]
+      },
+      "sentiment": "positive"
+    },
+    {
+      "id": "259e7faafc12",
+      "title": "IMF Foresees 1.8% Growth, 3.5% Inflation in Greece in 2026",
+      "url": "https://www.keeptalkinggreece.com/2026/04/14/imf-outlook-report-growth-inflation-greece-2026/",
+      "author": "Keep Talking Greece",
+      "published": "2026-04-14T10:00:00+00:00",
+      "source": "Keep Talking Greece",
+      "source_type": "web",
+      "category": "economy",
+      "importance": 82,
+      "summary": {
+        "el": "Το Διεθνές Νομισματικό Ταμείο προβλέπει ανάπτυξη 1,8% για την ελληνική οικονομία το 2026, με πληθωρισμό 3,5% και μείωση ανεργίας από 8,9% σε 7,4%. Οι προβλέψεις αντικατοπτρίζουν πιέσεις από τις εντάσεις στη Μέση Ανατολή και τα αμερικανικά δασμολόγια.",
+        "en": "The IMF forecasts 1.8% economic growth for Greece in 2026, with inflation rising to 3.5% and unemployment falling from 8.9% to 7.4%. The projections reflect downward pressure from Middle East tensions and US tariff policies, which are weighing on tourism and agricultural exports."
+      },
+      "tags": {
+        "el": [
+          "ΔΝΤ",
+          "ανάπτυξη",
+          "πληθωρισμός",
+          "ανεργία"
+        ],
+        "en": [
+          "IMF",
+          "growth",
+          "inflation",
+          "unemployment"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "255256c4dde4",
+      "title": "Greek Government Rolls Out €300M Relief Plan Amid Middle East Fuel Crisis",
+      "url": "https://greekreporter.com/2026/03/23/greece-relief-plan-middle-east-fuel-crisis/",
+      "author": "GreekReporter",
+      "published": "2026-03-23T09:00:00+00:00",
+      "source": "GreekReporter",
+      "source_type": "web",
+      "category": "economy",
+      "importance": 75,
+      "summary": {
+        "el": "Η ελληνική κυβέρνηση ανακοίνωσε πακέτο ανακούφισης ύψους 300 εκατ. ευρώ για την προστασία νοικοκυριών και επιχειρήσεων από τις οικονομικές επιπτώσεις της κρίσης καυσίμων λόγω των εντάσεων στη Μέση Ανατολή. Το πακέτο παρουσιάστηκε προσωπικά από τον Πρωθυπουργό Κυριάκο Μητσοτάκη.",
+        "en": "The Greek government announced a €300 million relief package to shield households and businesses from the economic fallout of the fuel crisis triggered by Middle East tensions. The package was personally presented by Prime Minister Kyriakos Mitsotakis and includes subsidies for energy-intensive sectors."
+      },
+      "tags": {
+        "el": [
+          "ανακούφιση",
+          "καύσιμα",
+          "Μέση Ανατολή",
+          "Μητσοτάκης",
+          "ενέργεια"
+        ],
+        "en": [
+          "relief",
+          "fuel",
+          "Middle East",
+          "Mitsotakis",
+          "energy"
+        ]
+      },
+      "sentiment": "positive"
+    },
+    {
+      "id": "min_wage_2026",
+      "title": "Greece Monthly Minimum Wage Rises to €920 from April 1, 2026",
+      "url": "https://www.keeptalkinggreece.com/",
+      "author": "Keep Talking Greece",
+      "published": "2026-04-01T00:00:00+00:00",
+      "source": "Keep Talking Greece",
+      "source_type": "web",
+      "category": "economy",
+      "importance": 70,
+      "summary": {
+        "el": "Ο κατώτατος μισθός στην Ελλάδα αυξήθηκε σε 920 ευρώ μηνιαίως από την 1η Απριλίου 2026, σηματοδοτώντας την έκτη αύξηση του κατώτατου μισθού από το 2019. Η αύξηση αποσκοπεί στη στήριξη των εργαζομένων εν μέσω αυξημένου πληθωρισμού.",
+        "en": "Greece's monthly minimum wage increased to €920 from April 1, 2026, marking the sixth minimum wage increase since 2019. The adjustment aims to support workers amid elevated inflation, though economists note it remains below the cost of living in major urban centers."
+      },
+      "tags": {
+        "el": [
+          "κατώτατος μισθός",
+          "εργασία",
+          "εισόδημα"
+        ],
+        "en": [
+          "minimum wage",
+          "labor",
+          "income"
+        ]
+      },
+      "sentiment": "positive"
+    }
+  ]
+}

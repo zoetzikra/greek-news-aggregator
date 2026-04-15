@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T18:00:00+00:00",
+  "category": "culture",
+  "item_count": 1,
+  "themes": {
+    "el": [
+      "Τουρισμός και νησιά"
+    ],
+    "en": [
+      "Tourism and islands"
+    ]
+  },
+  "items": [
+    {
+      "id": "418fc27b8bb1",
+      "title": "Greek Islands Skopelos and Andros Named Among Euronews 'Surprise Destinations' for 2026",
+      "url": "https://athens-times.com/housing-support-for-tenants-and-increased-housing-supply-full-package-of-measures-from-2026/",
+      "author": "Athens Times",
+      "published": "2026-04-10T08:00:00+00:00",
+      "source": "Athens Times / Euronews",
+      "source_type": "web",
+      "category": "culture",
+      "importance": 55,
+      "summary": {
+        "el": "Τα ελληνικά νησιά Σκόπελος και Άνδρος συμπεριλήφθηκαν στη λίστα του Euronews με τους «προορισμούς-έκπληξη» για το 2026, αναδεικνύοντας την ομορφιά και τη γαλήνη που προσφέρουν πέρα από τους παραδοσιακούς τουριστικούς χώρους.",
+        "en": "The Greek islands of Skopelos and Andros have been featured in Euronews' list of 'surprise destinations' for 2026, highlighting their natural beauty and tranquility as alternatives to more crowded tourist hotspots in the Mediterranean."
+      },
+      "tags": {
+        "el": [
+          "τουρισμός",
+          "Σκόπελος",
+          "Άνδρος",
+          "νησιά",
+          "Euronews"
+        ],
+        "en": [
+          "tourism",
+          "Skopelos",
+          "Andros",
+          "islands",
+          "Euronews"
+        ]
+      },
+      "sentiment": "positive"
+    }
+  ]
+}

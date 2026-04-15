@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T18:00:00+00:00",
+  "category": "politics",
+  "item_count": 2,
+  "themes": {
+    "el": [
+      "Άμυνα και προϋπολογισμός",
+      "Αντιπολίτευση και εκλογικές δυνάμεις"
+    ],
+    "en": [
+      "Defense spending and budget",
+      "Opposition and electoral dynamics"
+    ]
+  },
+  "items": [
+    {
+      "id": "8fb6fd39775a",
+      "title": "Greece 2026: External Shocks Risk Derailing Fragile Economic Revival",
+      "url": "https://balkaninsight.com/2026/01/05/greece-2026-external-shocks-rask-derailing-fragile-economic-revival/",
+      "author": "Balkan Insight",
+      "published": "2026-01-05T09:00:00+00:00",
+      "source": "Balkan Insight",
+      "source_type": "web",
+      "category": "politics",
+      "importance": 72,
+      "summary": {
+        "el": "Ανάλυση αποτυπώνει πώς οι εξωτερικές πιέσεις — εμπορικές εντάσεις, κρίση καυσίμων, μείωση ευρωπαϊκών κεφαλαίων — ενδέχεται να διαταράξουν την οικονομική ανάκαμψη της Ελλάδας, επηρεάζοντας και τη δημοτικότητα της κυβέρνησης Μητσοτάκη.",
+        "en": "An analysis examines how external pressures — trade tensions, the fuel crisis, and tapering EU Recovery Fund inflows — risk undermining Greece's economic revival, with potential political consequences for the Mitsotakis government heading into the latter part of its term."
+      },
+      "tags": {
+        "el": [
+          "Μητσοτάκης",
+          "πολιτική",
+          "οικονομία",
+          "ΕΕ",
+          "ΤΑΑ"
+        ],
+        "en": [
+          "Mitsotakis",
+          "politics",
+          "economy",
+          "EU",
+          "RRF"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "b361338961b6",
+      "title": "Greece 2026: Can the Opposition Challenge Mitsotakis' Hegemony?",
+      "url": "https://greekreporter.com/2025/12/29/greece-2026-mitsotakis-hegemony-opposition-weak/",
+      "author": "GreekReporter",
+      "published": "2025-12-29T10:00:00+00:00",
+      "source": "GreekReporter",
+      "source_type": "web",
+      "category": "politics",
+      "importance": 65,
+      "summary": {
+        "el": "Αν και η δημοτικότητα Μητσοτάκη έχει υποχωρήσει λόγω σκανδάλων (Predator, Τέμπη, Golden Dawn), η αντιπολίτευση παραμένει αδύναμη. Η ΝΔ διατηρεί σημαντικό προβάδισμα στις δημοσκοπήσεις για το 2026.",
+        "en": "Despite a drop in Mitsotakis's polling numbers due to the Predator spyware scandal, the Tempi rail disaster, and rising living costs, the Greek opposition remains fragmented and weak. The ruling New Democracy party maintains a commanding lead heading into 2026."
+      },
+      "tags": {
+        "el": [
+          "Μητσοτάκης",
+          "αντιπολίτευση",
+          "ΝΔ",
+          "δημοσκοπήσεις"
+        ],
+        "en": [
+          "Mitsotakis",
+          "opposition",
+          "New Democracy",
+          "polls"
+        ]
+      },
+      "sentiment": "neutral"
+    }
+  ]
+}

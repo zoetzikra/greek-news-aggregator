@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T18:00:00+00:00",
+  "category": "world",
+  "item_count": 3,
+  "themes": {
+    "el": [
+      "Mirage-Ουκρανία",
+      "Τραμπ και Ελλάδα",
+      "Δασμοί ΗΠΑ"
+    ],
+    "en": [
+      "Mirage-Ukraine",
+      "Trump and Greece",
+      "US tariffs"
+    ]
+  },
+  "items": [
+    {
+      "id": "e69b8826cd57",
+      "title": "France Pressures Greece on Mirage 2000-5 Transfer to Ukraine With Rafale Discount Deal",
+      "url": "https://en.defence-ua.com/news/france_pressures_greece_on_mirage_2000_5_transfer_to_ukraine_with_rafale_discount_deal_athens_still_resists-18115.html",
+      "author": "Defense Express",
+      "published": "2026-04-10T12:00:00+00:00",
+      "source": "Defense Express / Kathimerini",
+      "source_type": "web",
+      "category": "world",
+      "importance": 85,
+      "summary": {
+        "el": "Η Γαλλία εντείνει την πίεση προς την Ελλάδα για τη μεταβίβαση των Mirage 2000-5 στην Ουκρανία, προσφέροντας Rafale σε εκπτωτική τιμή ως αντάλλαγμα. Η Αθήνα εξακολουθεί να αντιστέκεται, επικαλούμενη ότι τα αεροσκάφη παραμένουν ζωτικής σημασίας για την εθνική αεράμυνα έως ότου παραδοθεί ικανός αριθμός Rafale. Η σύμβαση συντήρησης των Mirage λήγει το 2027.",
+        "en": "France is intensifying pressure on Greece to transfer its Mirage 2000-5 fleet to Ukraine, offering a discount on additional Rafale jets as an incentive. Athens continues to resist, arguing the aircraft remain vital to national air defense until the Rafale transition is complete. The Mirage maintenance contract expires in 2027, adding urgency to the issue."
+      },
+      "tags": {
+        "el": [
+          "Mirage 2000-5",
+          "Ουκρανία",
+          "Γαλλία",
+          "άμυνα",
+          "Rafale"
+        ],
+        "en": [
+          "Mirage 2000-5",
+          "Ukraine",
+          "France",
+          "defense",
+          "Rafale"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "4b530969d6b4",
+      "title": "The Second Trump Era: Has it Strengthened or Weakened Greece?",
+      "url": "https://greekreporter.com/2026/04/14/trump-era-strengthened-or-weakened-greece/",
+      "author": "GreekReporter",
+      "published": "2026-04-14T08:00:00+00:00",
+      "source": "GreekReporter",
+      "source_type": "web",
+      "category": "world",
+      "importance": 78,
+      "summary": {
+        "el": "Καθώς η δεύτερη προεδρία Τραμπ συμπληρώνει τους πρώτους μήνες της, η Ελλάδα βρίσκεται σε διπλωματικό δίλημμα: η στρατιωτική συνεργασία με τις ΗΠΑ βρίσκεται σε ιστορικά υψηλά επίπεδα, αλλά οι αμερικανικές πιέσεις για δασμούς και η ανησυχία για την Τουρκία δημιουργούν νέες προκλήσεις.",
+        "en": "As the second Trump presidency passes its mid-term mark, Greece navigates a complex diplomatic landscape: military ties with the US are at historic highs, with Greek defense spending reaching nearly 4% of GDP, but US tariff pressure on Greek agricultural exports and the pivot toward Turkey as a strategic partner create new challenges for Athens."
+      },
+      "tags": {
+        "el": [
+          "Τραμπ",
+          "ΗΠΑ",
+          "εξωτερική πολιτική",
+          "ΝΑΤΟ",
+          "Τουρκία"
+        ],
+        "en": [
+          "Trump",
+          "USA",
+          "foreign policy",
+          "NATO",
+          "Turkey"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "65f712921ab9",
+      "title": "How Trump's Tariffs Affect Greece's Economy and Trade",
+      "url": "https://www.macropolis.gr/?i=portal.en.the-agora.15381",
+      "author": "Macropolis",
+      "published": "2026-04-08T10:00:00+00:00",
+      "source": "Macropolis",
+      "source_type": "web",
+      "category": "world",
+      "importance": 72,
+      "summary": {
+        "el": "Ανάλυση των επιπτώσεων των αμερικανικών δασμών Τραμπ στην ελληνική οικονομία δείχνει ότι οι ελληνικές αγροτικές εξαγωγές αντιμετωπίζουν σημαντικές προκλήσεις στη διαπραγμάτευση αμερικανικής αγοράς. Η Αθήνα πρέπει να πλοηγηθεί με προσοχή στον εμπορικό πόλεμο ΗΠΑ-ΕΕ.",
+        "en": "An analysis of the impact of Trump's tariffs on Greece reveals that Greek agricultural exports — a cornerstone of the regional economy — face significant headwinds in US markets. Athens must carefully navigate the US-EU trade dispute while preserving its strong bilateral ties with Washington."
+      },
+      "tags": {
+        "el": [
+          "δασμοί",
+          "εμπόριο",
+          "ΗΠΑ",
+          "αγροτικά προϊόντα",
+          "ΕΕ"
+        ],
+        "en": [
+          "tariffs",
+          "trade",
+          "USA",
+          "agricultural exports",
+          "EU"
+        ]
+      },
+      "sentiment": "negative"
+    }
+  ]
+}

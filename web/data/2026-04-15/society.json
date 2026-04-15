@@ -1,0 +1,112 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T18:00:00+00:00",
+  "category": "society",
+  "item_count": 3,
+  "themes": {
+    "el": [
+      "Στεγαστική κρίση",
+      "Ενοίκια",
+      "Υγεία και νομοθεσία"
+    ],
+    "en": [
+      "Housing crisis",
+      "Rents",
+      "Health legislation"
+    ]
+  },
+  "items": [
+    {
+      "id": "9aa2c1a1f0e6",
+      "title": "Rent Crisis in Greece: An Entire Monthly Salary for a Two-Bedroom Apartment",
+      "url": "https://greekreporter.com/2026/04/15/rent-crisis-greece-entire-monthly-salary-two-bedroom-apartment/",
+      "author": "Tasos Kokkinidis",
+      "published": "2026-04-15T07:00:00+00:00",
+      "source": "GreekReporter",
+      "source_type": "web",
+      "category": "society",
+      "importance": 88,
+      "summary": {
+        "el": "Νέα μελέτη του Κέντρου Φιλελεύθερων Μελετών (ΚΕΦιΜ) αποκαλύπτει ότι η αναλογία ενοικίου-εισοδήματος για διαμέρισμα δύο υπνοδωματίων στην Αττική έχει φτάσει στο 93,6%, έναντι ευρωπαϊκού μέσου 46%. Για ένα διαμέρισμα ενός υπνοδωματίου, η αναλογία είναι 70,2%. Οι αιτίες περιλαμβάνουν περιορισμένη νέα κατοικία, χρυσές βίζες και κενές ιδιοκτησίες.",
+        "en": "A new study by the Center for Liberal Studies (KEFiM) reveals that the rent-to-income ratio for a two-bedroom apartment in the Attica region has reached 93.6%, compared to an EU average of 46%. For a one-bedroom apartment, the ratio stands at 70.2%. The crisis is driven by limited new construction, the Golden Visa program, and vacant properties kept off the market."
+      },
+      "tags": {
+        "el": [
+          "ενοίκια",
+          "στέγαση",
+          "κρίση",
+          "Αττική",
+          "ΚΕΦιΜ"
+        ],
+        "en": [
+          "rents",
+          "housing",
+          "crisis",
+          "Attica",
+          "KEFiM"
+        ]
+      },
+      "sentiment": "negative"
+    },
+    {
+      "id": "ceb3ef837c61",
+      "title": "Inside Greece's New Housing Plan: Winners, Losers and Risks",
+      "url": "https://www.tovima.com/finance/inside-greeces-new-housing-plan-winners-losers-and-risks/",
+      "author": "To Vima",
+      "published": "2026-04-10T09:00:00+00:00",
+      "source": "To Vima",
+      "source_type": "web",
+      "category": "society",
+      "importance": 78,
+      "summary": {
+        "el": "Ανάλυση του νέου κυβερνητικού σχεδίου για τη στέγαση αποτυπώνει ποιοι θα ωφεληθούν και ποιοι θα επιβαρυνθούν από τα μέτρα, επισημαίνοντας παράλληλα τους κινδύνους εφαρμογής. Οικονομολόγοι εκφράζουν επιφυλακτικότητα για την αποτελεσματικότητα.",
+        "en": "An analysis of the Greek government's new housing plan breaks down who benefits and who loses under the proposed measures, while flagging implementation risks. Economists remain skeptical about the plan's effectiveness in meaningfully reducing rent levels in the short term."
+      },
+      "tags": {
+        "el": [
+          "κατοικία",
+          "κυβερνητικό σχέδιο",
+          "ενοίκια",
+          "αγορά ακινήτων"
+        ],
+        "en": [
+          "housing",
+          "government plan",
+          "rents",
+          "real estate"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "health_cannabis_2026",
+      "title": "Greece Opens Consultation on New Cannabis and Tobacco Control Legislation",
+      "url": "https://www.keeptalkinggreece.com/",
+      "author": "Keep Talking Greece",
+      "published": "2026-04-12T10:00:00+00:00",
+      "source": "Keep Talking Greece",
+      "source_type": "web",
+      "category": "society",
+      "importance": 65,
+      "summary": {
+        "el": "Το υπουργείο Υγείας άνοιξε δημόσια διαβούλευση για νομοσχέδιο που θα αυστηροποιεί τους ελέγχους σε κάνναβη, νικοτίνη και καπνικά προϊόντα, ενώ προωθεί ευρύτερες μεταρρυθμίσεις στο σύστημα υγείας, συμπεριλαμβανομένου νέου ταμείου για καινοτόμα φάρμακα.",
+        "en": "Greece's Health Ministry opened a public consultation on draft legislation that would tighten controls on cannabis, nicotine, and tobacco products, while also advancing broader healthcare reforms including a new fund for innovative medicines and a restructuring of primary care services."
+      },
+      "tags": {
+        "el": [
+          "υγεία",
+          "κάνναβη",
+          "καπνός",
+          "νομοθεσία"
+        ],
+        "en": [
+          "health",
+          "cannabis",
+          "tobacco",
+          "legislation"
+        ]
+      },
+      "sentiment": "neutral"
+    }
+  ]
+}
