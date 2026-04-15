@@ -1,0 +1,110 @@
+name: Daily News Pipeline
+
+on:
+  schedule:
+    # Run at 7:00 AM Athens time (EET/EEST)
+    # UTC+2 in winter, UTC+3 in summer
+    # 4:00 AM UTC covers summer (EEST = UTC+3 → 7 AM)
+    - cron: '0 4 * * *'
+  workflow_dispatch:  # Allow manual triggering
+    inputs:
+      date:
+        description: 'Target date (YYYY-MM-DD). Leave empty for today.'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pipeline"
+  cancel-in-progress: false
+
+jobs:
+  collect-and-analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PRESSREADER_API_KEY: ${{ secrets.PRESSREADER_API_KEY }}
+          TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+          TARGET_DATE: ${{ inputs.date || '' }}
+          TZ: 'Europe/Athens'
+        run: |
+          python run_pipeline.py \
+            --config-dir ./config \
+            --data-dir ./data \
+            --web-dir ./web \
+            -v
+
+      - name: Commit data files
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add web/data/ data/
+          git diff --staged --quiet || git commit -m "Daily news update: $(date +%Y-%m-%d)"
+          git push
+
+  build-frontend:
+    needs: collect-and-analyze
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main  # Get the latest commit with data
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Build frontend
+        working-directory: frontend
+        env:
+          BASE_PATH: '/${{ github.event.repository.name }}'
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: build-frontend
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

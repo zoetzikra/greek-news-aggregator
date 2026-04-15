@@ -1,0 +1,10 @@
+# Twitter/X accounts to monitor for Greek news
+# Add one handle per line (with or without @)
+# Uncomment and customize:
+
+# @ekaboreas
+# @ekaboreas
+# @Aboreas_
+# @in_aboreas
+# @protaboreas_gr
+# @kathaboreas_int

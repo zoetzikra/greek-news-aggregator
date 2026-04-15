@@ -1,0 +1,11 @@
+# RSS feeds for Greek news sources
+# Primary: Kathimerini
+https://www.kathimerini.gr/feed
+
+# Add additional feeds below if desired:
+# https://www.kathimerini.gr/politics/feed
+# https://www.kathimerini.gr/economy/feed
+# https://www.kathimerini.gr/society/feed
+# https://www.kathimerini.gr/world/feed
+# https://www.kathimerini.gr/culture/feed
+# https://www.kathimerini.gr/opinion/feed

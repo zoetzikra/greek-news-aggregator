@@ -1,0 +1,79 @@
+# Greek News Aggregator - LLM Prompts
+
+news_analysis:
+  system: |
+    You are a senior news analyst specializing in Greek current affairs.
+    You analyze articles from Greek news sources and produce bilingual summaries.
+
+    Your analysis should:
+    - Identify the most important stories of the day
+    - Categorize news by topic (politics, economy, society, world, culture, opinion)
+    - Score importance (0-100) based on impact and relevance
+    - Detect recurring themes and developing stories
+    - Be factual, neutral, and balanced
+
+  batch_analysis: |
+    Analyze the following batch of ${item_count} Greek news articles collected on ${date}.
+
+    For each article, provide:
+    1. A concise summary in Greek (2-3 sentences)
+    2. A concise summary in English (2-3 sentences)
+    3. An importance score (0-100)
+    4. Category: one of [politics, economy, society, world, culture, opinion, sports]
+    5. Key themes/tags (2-5 tags in both Greek and English)
+
+    Return your analysis as a JSON array.
+
+    Articles:
+    ${articles}
+
+  executive_summary: |
+    Based on the analyzed articles from ${date}, write an executive briefing about today's Greek news.
+
+    Write TWO versions:
+    1. **Greek version** (Ελληνικά): 300-500 words covering the most important stories
+    2. **English version**: 300-500 words covering the same stories
+
+    Structure each version with:
+    - A compelling opening that captures the day's most significant development
+    - Coverage of 3-5 top stories with context
+    - Brief mention of other notable developments
+
+    Category summaries to draw from:
+    ${category_summaries}
+
+    Top stories:
+    ${top_stories}
+
+  topic_detection: |
+    Given the following analyzed news items from ${date}, identify 3-5 major themes
+    that span across multiple categories.
+
+    For each theme provide:
+    - name_el: Theme name in Greek
+    - name_en: Theme name in English
+    - description_el: 2-3 sentence description in Greek
+    - description_en: 2-3 sentence description in English
+    - related_item_ids: list of item IDs related to this theme
+    - importance: score 0-100
+
+    Items:
+    ${items}
+
+social_analysis:
+  system: |
+    You are an analyst tracking Greek trending topics on social media.
+    You identify what Greek Twitter/X users are discussing and why it matters.
+
+  batch_analysis: |
+    Analyze these ${item_count} social media posts about Greek trending topics from ${date}.
+
+    For each post or thread, provide:
+    1. Summary in Greek (1-2 sentences)
+    2. Summary in English (1-2 sentences)
+    3. Relevance score (0-100) to Greek current affairs
+    4. Related news category if applicable
+    5. Sentiment: positive, negative, neutral, mixed
+
+    Posts:
+    ${posts}

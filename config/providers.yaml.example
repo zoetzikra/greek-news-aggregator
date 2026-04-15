@@ -1,0 +1,40 @@
+# Greek News Aggregator - Provider Configuration
+# Copy this to providers.yaml and fill in your API keys
+
+llm:
+  mode: "anthropic"
+  api_key: "${ANTHROPIC_API_KEY}"
+  model: "claude-sonnet-4-20250514"
+  timeout: 300
+
+sources:
+  # PressReader API for Kathimerini digital edition
+  pressreader:
+    api_key: "${PRESSREADER_API_KEY}"
+    base_url: "https://api.prod.pressreader.com"
+    publication_cid: "9GBR"  # Kathimerini Digital CID - verify this
+
+  # Kathimerini RSS feeds (fallback / supplement)
+  kathimerini_rss:
+    enabled: true
+    feeds:
+      - "https://www.kathimerini.gr/feed"
+      - "https://www.kathimerini.gr/politics/feed"
+      - "https://www.kathimerini.gr/economy/feed"
+      - "https://www.kathimerini.gr/society/feed"
+      - "https://www.kathimerini.gr/world/feed"
+      - "https://www.kathimerini.gr/culture/feed"
+      - "https://www.kathimerini.gr/opinion/feed"
+
+  # Twitter/X - optional trending topics
+  twitter:
+    enabled: false
+    api_key: "${TWITTERAPI_IO_KEY}"
+    accounts: []  # Add handles in config/twitter_accounts.txt
+
+pipeline:
+  base_url: "https://your-username.github.io/greek-news-aggregator"
+  lookback_hours: 24
+  language:
+    source: "el"
+    summaries: ["el", "en"]  # Bilingual output
