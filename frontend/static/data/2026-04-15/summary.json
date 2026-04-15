@@ -327,6 +327,156 @@
             ]
           },
           "sentiment": "negative"
+        },
+        {
+          "title": "Συνάντηση Μητσοτάκη με Αντόνιο Κόστα – Επί τάπητος οι εξελίξεις στη Μέση Ανατολή",
+          "url": "https://www.kathimerini.gr/politics/564176410/synantisi-mitsotaki-me-antonio-kosta-epi-tapitos-oi-exelixeis-sti-mesi-anatoli/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T21:09:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο πρωθυπουργός Μητσοτάκης συναντήθηκε με τον πρόεδρο του Ευρωπαϊκού Συμβουλίου Αντόνιο Κόστα· συζητήθηκαν εξελίξεις στη Μέση Ανατολή και Ιράν.",
+            "en": "PM Mitsotakis met EU Council President António Costa at the Maximus Mansion; they discussed the latest developments in the Middle East and Iran peace prospects."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Μητσοτάκης",
+              "ΕΕ",
+              "Μέση Ανατολή"
+            ],
+            "en": [
+              "politics",
+              "Mitsotakis",
+              "EU",
+              "Middle East"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ποια ρουσφέτια ζητούν σήμερα οι ψηφοφόροι",
+          "url": "https://www.kathimerini.gr/politics/564170143/poia-roysfetia-zitoyn-simera-oi-psifoforoi/",
+          "source": "Kathimerini",
+          "published": "2026-04-14T22:15:08+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Εκτενής ανάλυση της κουλτούρας «ρουσφετιού» στην ελληνική πολιτική, με αφορμή ομολογία Λοβέρδου και παράδειγμα ΟΠΕΚΕΠΕ.",
+            "en": "In-depth analysis of Greece's political patronage ('rousfeti') culture, prompted by Loverdos's admission and the OPEKAPO example."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ρουσφέτι",
+              "διαφθορά"
+            ],
+            "en": [
+              "politics",
+              "patronage",
+              "corruption"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Στον «Ευαγγελισμό» με λιποθυμικό επεισόδιο ο Γιώργος Μυλωνάκης",
+          "url": "https://www.kathimerini.gr/politics/564175465/ston-eyaggelismo-me-lipothymiko-epeisodio-o-giorgos-mylonakis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:57:20+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Εκτακτη είδηση: υφυπουργός Μυλωνάκης διακομίστηκε στον Ευαγγελισμό με ρήξη ανευρύσματος εγκεφάλου· νοσηλεύεται διασωληνωμένος σε ΜΕΘ.",
+            "en": "Breaking: Deputy minister Mylonakis rushed to Evangelismos hospital with a burst brain aneurysm; he is intubated in ICU with the PM visiting immediately."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Μυλωνάκης",
+              "υγεία",
+              "έκτακτο"
+            ],
+            "en": [
+              "politics",
+              "Mylonakis",
+              "health",
+              "breaking"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Νέες προκλήσεις της Αγκυρας",
+          "url": "https://www.kathimerini.gr/politics/564174733/nees-prokliseis-tis-agkyras-2/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T07:36:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Η Άγκυρα εντείνει τις προκλήσεις αναδεικνύοντας τη σχέση Ελλάδας-Κύπρου με Ισραήλ, επιχειρώντας να παρουσιάσει την Αθήνα ως «βάση» του Νετανιάχου.",
+            "en": "Ankara escalates provocations by highlighting Greece-Cyprus ties with Israel, attempting to portray Athens as a 'base' for Netanyahu — fuelling Turkish domestic narratives."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Ελλάδα",
+              "Ισραήλ",
+              "εξωτερική πολιτική"
+            ],
+            "en": [
+              "Turkey",
+              "Greece",
+              "Israel",
+              "foreign policy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Εντός και Εκτός: Πόσο πιο χαμηλά;",
+          "url": "https://www.kathimerini.gr/politics/564174730/entos-kai-ektos-poso-pio-chamila/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T07:48:02+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Υπουργείο Αμυνας ανοίγει μεγάλες ασκήσεις σε ελληνικές αμυντικές εταιρείες τεχνολογίας: δοκιμές drones, anti-drones και αισθητήρων σε πραγματικές συνθήκες.",
+            "en": "The Defence Ministry is opening major exercises to Greek high-tech companies to test drones, anti-drones and sensor systems under real operational conditions."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "τεχνολογία",
+              "Ελλάδα"
+            ],
+            "en": [
+              "defence",
+              "technology",
+              "Greece"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Θεοχάρης: Το πτυχίο μου είναι από το Imperial College του Λονδίνου, αναγνωρισμένο από τον ΔΟΑΤΑΠ",
+          "url": "https://www.kathimerini.gr/politics/564174520/theocharis-to-ptychio-moy-einai-apo-to-imperial-college-toy-londinoy-anagnorismeno-apo-ton-doatap/",
+          "source": "Kathimerini",
+          "published": "2026-04-14T21:55:53+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Υφυπουργός Εξωτερικών Θεοχάρης απαντά: το πτυχίο του είναι από Imperial College London, αναγνωρισμένο από ΔΟΑΤΑΠ, και αποκαλεί «αθλιότητες» τις κατηγορίες.",
+            "en": "Deputy FM Theokharis responds to degree allegations: his qualification is from Imperial College London, recognised by DOATAP, calling the claims 'slanders'."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Θεοχάρης",
+              "ΟΠΕΚΕΠΕ"
+            ],
+            "en": [
+              "politics",
+              "Theokharis",
+              "OPEKAPO"
+            ]
+          },
+          "sentiment": "neutral"
         }
       ]
     },
@@ -540,6 +690,154 @@
             ]
           },
           "sentiment": "neutral"
+        },
+        {
+          "title": "Μείωση αεροπορικών κρατήσεων από Ευρώπη και ΗΠΑ ενόψει καλοκαιριού",
+          "url": "https://www.kathimerini.gr/visual/infographics/564175105/meiosi-aeroporikon-kratiseon-apo-eyropi-kai-ipa-enopsei-kalokairioy/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:38:00+03:00",
+          "importance": 65,
+          "summary": {
+            "el": "Αεροπορικές κρατήσεις από Ευρώπη και ΗΠΑ για Ελλάδα μειώνονται ενόψει καλοκαιριού, λόγω αβεβαιότητας από τον πόλεμο στη Μέση Ανατολή.",
+            "en": "Air bookings from Europe and the US to Greece are declining ahead of the summer season, due to uncertainty from the Middle East war and elevated airfare costs."
+          },
+          "tags": {
+            "el": [
+              "τουρισμός",
+              "οικονομία",
+              "αεροπορικά"
+            ],
+            "en": [
+              "tourism",
+              "economy",
+              "airfares"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τραπεζικός δανεισμός δύο ταχυτήτων στις επιχειρήσεις",
+          "url": "https://www.kathimerini.gr/economy/business/564175138/trapezikos-daneismos-dyo-tachytiton-stis-epicheiriseis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:33:48+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ο ΟΟΣΑ επιβεβαιώνει τη δυσκολία των ΜΜΕ στην Ελλάδα να αποκτήσουν τραπεζικό δανεισμό, ενώ η ΕΚΤ εντοπίζει έλλειψη ειδικευμένου προσωπικού.",
+            "en": "OECD confirms Greek SMEs' difficulty in accessing bank credit, while the ECB identifies shortage of skilled personnel as the sector's biggest problem."
+          },
+          "tags": {
+            "el": [
+              "ΜΜΕ",
+              "οικονομία",
+              "τράπεζες",
+              "ΟΟΣΑ"
+            ],
+            "en": [
+              "SMEs",
+              "economy",
+              "banks",
+              "OECD"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Αύριο η αυτόματη υποβολή από την ΑΑΔΕ των προσυμπληρωμένων δηλώσεων",
+          "url": "https://www.kathimerini.gr/economy/local/564175096/ayrio-i-aytomati-ypovoli-apo-tin-aade-ton-prosympliromenon-diloseon/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T08:23:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Αύριο η ΑΑΔΕ υποβάλλει αυτόματα 1,5 εκατ. προσυμπληρωμένες φορολογικές δηλώσεις: ποια 5 σημεία πρέπει να ελέγξουν οι πολίτες πριν.",
+            "en": "Tomorrow the Tax Authority auto-submits 1.5 million pre-filled tax returns: here are the 5 key points citizens should check before then."
+          },
+          "tags": {
+            "el": [
+              "φορολογία",
+              "ΑΑΔΕ",
+              "οικονομία"
+            ],
+            "en": [
+              "taxation",
+              "AADE",
+              "economy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Στην ψηφιακή κάρτα οι συχνότερες παραβάσεις στην αγορά εργασίας",
+          "url": "https://www.kathimerini.gr/economy/564175153/stin-psifiaki-karta-oi-sychnoteres-paravaseis-stin-agora-ergasias/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:50:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η παραβατικότητα στην αγορά εργασίας παραμένει σε υψηλά επίπεδα παρά την επέκταση της ψηφιακής κάρτας εργασίας: νέα στοιχεία Επιθεώρησης Εργασίας.",
+            "en": "Labour market violations remain high despite the digital work card's expansion; new Labour Inspection data reveals persistent non-compliance in the private sector."
+          },
+          "tags": {
+            "el": [
+              "εργασία",
+              "οικονομία",
+              "παραβατικότητα"
+            ],
+            "en": [
+              "labour",
+              "economy",
+              "violations"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η υβριδική εργασία «κλειδί» για απασχόληση με μειωμένο ωράριο",
+          "url": "https://www.kathimerini.gr/economy/local/564175150/i-yvridiki-ergasia-kleidi-gia-apascholisi-me-meiomeno-orario/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:45:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η υβριδική εργασία αποδεικνύεται «κλειδί» για μερική απασχόληση: ο 1 στους 2 part-timers λέει ότι θα αποχωρήσει αν υποχρεωθεί να πάει γραφείο.",
+            "en": "Hybrid work proves key to part-time employment: 1 in 2 part-timers say they would quit if forced back to the office, due to rising commuting costs."
+          },
+          "tags": {
+            "el": [
+              "εργασία",
+              "υβριδική εργασία",
+              "οικονομία"
+            ],
+            "en": [
+              "labour",
+              "hybrid work",
+              "economy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Στα 3-4 GW το πλεόνασμα παραγωγής ενέργειας τις ημέρες του Πάσχα",
+          "url": "https://www.kathimerini.gr/economy/local/564175141/sta-3-4-gw-to-pleonasma-paragogis-energeias-tis-imeres-toy-pascha/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:25:07+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Το Πάσχα δημιούργησε πλεόνασμα ενέργειας 3-4 GW από ΑΠΕ: ο ΑΔΜΗΕ το διαχειρίστηκε με εξαγωγές και τηλερύθμιση.",
+            "en": "Easter created a 3-4 GW renewable energy surplus; IPTO managed it through electricity exports and remote regulation of RES plants."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "ΑΠΕ",
+              "ΑΔΜΗΕ",
+              "Πάσχα"
+            ],
+            "en": [
+              "energy",
+              "renewables",
+              "IPTO",
+              "Easter"
+            ]
+          },
+          "sentiment": "positive"
         }
       ]
     },
@@ -740,6 +1038,150 @@
               "livestock",
               "Lesbos",
               "protest"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Γλυφάδα: Μηνύσεις από τον δήμο για τους βανδαλισμούς σε σχολείο – «Ο λογαριασμός θα πάει στους ενόχους»",
+          "url": "https://www.kathimerini.gr/society/564176329/glyfada-minyseis-apo-ton-dimo-gia-toys-vandalismoys-se-scholeio-o-logariasmos-tha-paei-stoys-enochoys/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:53:00+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Ο δήμαρχος Γλυφάδας καταθέτει μηνύσεις για βανδαλισμό σχολείου: κλοπή χρημάτων και 6 υπολογιστών από γραφεία.",
+            "en": "Glyfada mayor files charges after school vandalism: cash and 6 computers stolen from offices, causing significant damage to school infrastructure."
+          },
+          "tags": {
+            "el": [
+              "βανδαλισμός",
+              "σχολεία",
+              "Γλυφάδα"
+            ],
+            "en": [
+              "vandalism",
+              "schools",
+              "Glyfada"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Αφρικανική σκόνη: Τα συμπτώματα που πρέπει να κινητοποιούν τους πολίτες",
+          "url": "https://www.kathimerini.gr/life/health/564175876/afrikaniki-skoni-ta-symptomata-poy-prepei-na-kinitopoioyn-toys-polites/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T18:00:14+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Ο επικεφαλής του ΕΟΔΥ συμβουλεύει για την αφρικανική σκόνη: τα συμπτώματα που πρέπει να κινητοποιούν τους πολίτες.",
+            "en": "EODY's chief scientific advisor outlines updated guidance on African dust: which symptoms require citizen action and how to protect vulnerable groups."
+          },
+          "tags": {
+            "el": [
+              "υγεία",
+              "ΕΟΔΥ",
+              "αφρικανική σκόνη"
+            ],
+            "en": [
+              "health",
+              "EODY",
+              "African dust"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "ΕΛ.ΑΣ.: Τρεις συλλήψεις για κόντρες στον Λυκαβηττό [βίντεο]",
+          "url": "https://www.kathimerini.gr/society/564176191/el-as-treis-syllipseis-gia-kontres-ston-lykavitto-vinteo/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:22:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Τρεις οδηγοί συνελήφθησαν για αυτοσχέδιες κόντρες στον Λυκαβηττό· η Τροχαία έκοψε 10 κλήσεις και αφαίρεσε 5 άδειες.",
+            "en": "Three drivers arrested for illegal street races at Lycabettus Hill; traffic police issued 10 fines and revoked 5 licences in a targeted operation."
+          },
+          "tags": {
+            "el": [
+              "τροχαία",
+              "κόντρες",
+              "Λυκαβηττός"
+            ],
+            "en": [
+              "traffic",
+              "street racing",
+              "Lycabettus"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Η «δίωξη» της πικροδάφνης από τον ΕΟΔΥ",
+          "url": "https://www.kathimerini.gr/society/564176125/i-dioxi-tis-pikrodafnis-apo-ton-eody/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T18:45:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "ΕΟΔΥ συστήνει σήμανση πικροδάφνης ως τοξικής και περίφραξη σε δημόσιους χώρους: 15-20 δηλητηριάσεις παιδιών ετησίως.",
+            "en": "EODY recommends labelling oleander plants as toxic and fencing them in public spaces, following 15-20 child poisoning cases annually."
+          },
+          "tags": {
+            "el": [
+              "υγεία",
+              "ΕΟΔΥ",
+              "δηλητηρίαση"
+            ],
+            "en": [
+              "health",
+              "EODY",
+              "poisoning"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Επιχείρηση «Spark–Down»: Δύο συλλήψεις στη Νίκαια για πυροτεχνήματα",
+          "url": "https://www.kathimerini.gr/society/564176311/epicheirisi-spark-down-dyo-syllipseis-sti-nikaia-gia-pyrotechnimata/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:42:00+00:00",
+          "importance": 40,
+          "summary": {
+            "el": "Επιχείρηση «Spark-Down» στη Νίκαια: 2 συλλήψεις για πυροτεχνήματα (ένας 42χρονος, ένας 14χρονος)· συνελήφθη και ο γονέας του ανηλίκου.",
+            "en": "'Spark-Down' operation in Nikea: 2 arrested for illegal fireworks including a 14-year-old; the minor's parent also arrested for negligent supervision."
+          },
+          "tags": {
+            "el": [
+              "αστυνομία",
+              "πυροτεχνήματα",
+              "Νίκαια"
+            ],
+            "en": [
+              "police",
+              "fireworks",
+              "Nikea"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Αφρικανική σκόνη και λασποβροχές έως την Παρασκευή – Οι χάρτες του meteo",
+          "url": "https://www.kathimerini.gr/society/564175975/afrikaniki-skoni-kai-laspovroches-eos-tin-paraskeyi-oi-chartes-toy-meteo/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T16:45:00+00:00",
+          "importance": 38,
+          "summary": {
+            "el": "Αφρικανική σκόνη συνεχίζεται έως Παρασκευή: εντονότερες λασποβροχές νότια, μειωμένη ορατότητα σε Αθήνα.",
+            "en": "African dust continues through Friday; more intense mud-rain expected in southern Greece, with reduced visibility in Athens."
+          },
+          "tags": {
+            "el": [
+              "καιρός",
+              "αφρικανική σκόνη",
+              "περιβάλλον"
+            ],
+            "en": [
+              "weather",
+              "African dust",
+              "environment"
             ]
           },
           "sentiment": "neutral"
@@ -949,6 +1391,154 @@
               "UK",
               "Erasmus",
               "Brexit"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Το μεγάλο πείραμα του Ozempic",
+          "url": "https://www.kathimerini.gr/world/564176068/to-megalo-peirama-toy-ozempic/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T22:01:55+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Εκτενές αφιέρωμα για το Ozempic: οι λανθασμένες αρχικές υποθέσεις για τον μηχανισμό απώλειας βάρους, οι τυχαίες ανακαλύψεις και η επιφυλακτικότητα ειδικών.",
+            "en": "An in-depth feature on Ozempic: the wrong initial assumptions about its weight-loss mechanism, accidental clinical discoveries, and specialist caution about patient enthusiasm."
+          },
+          "tags": {
+            "el": [
+              "υγεία",
+              "Ozempic",
+              "επιστήμη"
+            ],
+            "en": [
+              "health",
+              "Ozempic",
+              "science"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Εφοδος της Ε.Ε. στα γραφεία της Ferrero – Ερευνα για παραβίαση των κανόνων ανταγωνισμού",
+          "url": "https://www.kathimerini.gr/world/564175990/efodos-tis-e-e-sti-ferrero-ereyna-gia-paraviasi-ton-kanonon-antagonismoy/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T17:36:49+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Η ΕΕ έκανε έφοδο στα γραφεία της Ferrero (Nutella) για έρευνα παραβίασης κανόνων ανταγωνισμού· η εταιρεία δηλώνει πλήρη συνεργασία.",
+            "en": "EU officials raided Ferrero's (Nutella) offices as part of an antitrust investigation; the company says it is fully cooperating."
+          },
+          "tags": {
+            "el": [
+              "ΕΕ",
+              "Ferrero",
+              "ανταγωνισμός",
+              "οικονομία"
+            ],
+            "en": [
+              "EU",
+              "Ferrero",
+              "antitrust",
+              "economy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "«Κοιμόταν σε σκουπίδια»: Ο εφιάλτης του 9χρονου που ζούσε κλειδωμένος σε βαν",
+          "url": "https://www.kathimerini.gr/world/564176392/koimotan-se-skoypidia-o-efialtis-toy-9chronoy-poy-zoyse-kleidomenos-se-van/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T22:15:55+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "9χρονο παιδί στην Αλσατία κρατήθηκε κλεισμένο επί ένα χρόνο σε βαν από τον πατέρα του· ο εισαγγελέας αποκάλυψε λεπτομέρειες για το «κοιμόταν σε σκουπίδια».",
+            "en": "A 9-year-old child in Alsace was locked in a van for a year by his father; a prosecutor revealed shocking details including that the boy slept among rubbish."
+          },
+          "tags": {
+            "el": [
+              "κοινωνία",
+              "παιδί",
+              "κακοποίηση"
+            ],
+            "en": [
+              "society",
+              "child abuse",
+              "France"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τραμπ: Ανάρτησε AI εικόνα στην οποία τον αγκαλιάζει ο Ιησούς",
+          "url": "https://www.kathimerini.gr/world/564176221/tramp-anartise-ai-eikona-stin-opoia-ton-agkaliazei-o-iisoys/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:29:33+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Ο Τραμπ ανάρτησε AI εικόνα που τον απεικονίζει αγκαλιά με τον Ιησού, δύο μέρες μετά σφοδρή κριτική για σύγκριση του εαυτού του με τον Ιησού.",
+            "en": "Trump posted an AI-generated image showing Jesus embracing him, just two days after deleting a controversial post comparing himself to Jesus that drew fierce criticism."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "ΗΠΑ",
+              "πολιτική"
+            ],
+            "en": [
+              "Trump",
+              "USA",
+              "politics"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Το Associated Press γράφει για «πόλεμο» Ελλάδας – Τουρκίας για τον πατσά",
+          "url": "https://www.kathimerini.gr/world/564176287/to-associated-press-grafei-gia-polemo-elladas-toyrkias-gia-ton-patsa/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:57:04+00:00",
+          "importance": 38,
+          "summary": {
+            "el": "Το Associated Press καλύπτει τη διαμάχη Ελλάδας-Τουρκίας για τον πατσά, με Έλληνα εστιάτορα να επιδιώκει ένταξη του φαγητού στην πολιτιστική κληρονομιά.",
+            "en": "AP covers the Greece-Turkey dispute over patsas (tripe soup), with a Greek restaurant owner pushing to register the dish as Greek cultural heritage."
+          },
+          "tags": {
+            "el": [
+              "Ελλάδα",
+              "Τουρκία",
+              "πολιτισμός",
+              "γαστρονομία"
+            ],
+            "en": [
+              "Greece",
+              "Turkey",
+              "culture",
+              "gastronomy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Παριζιάνος «αγόρασε» με 100 ευρώ αυθεντικό Πικάσο του ενός εκατομμυρίου",
+          "url": "https://www.kathimerini.gr/world/564176065/parizianos-agorase-me-100-eyro-aythentiko-pikaso-toy-enos-ekatommyrioy/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T18:34:49+00:00",
+          "importance": 35,
+          "summary": {
+            "el": "Κάτοικος Παρισιού κέρδισε πίνακα Πικάσο αξίας άνω του 1 εκατ. ευρώ με συμμετοχή 100 ευρώ σε λαχειοφόρο του Christie's.",
+            "en": "A Paris resident won a Picasso painting worth over €1 million by spending just €100 on a lottery ticket at Christie's auction house."
+          },
+          "tags": {
+            "el": [
+              "τέχνη",
+              "Πικάσο",
+              "Γαλλία"
+            ],
+            "en": [
+              "art",
+              "Picasso",
+              "France"
             ]
           },
           "sentiment": "positive"
@@ -1165,6 +1755,102 @@
             ]
           },
           "sentiment": "positive"
+        },
+        {
+          "title": "Είναι ο Πάπας woke;",
+          "url": "https://www.kathimerini.gr/opinion/564175747/einai-o-papas-woke/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:00:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Στεργίου: Είναι ο Πάπας woke; — Ο Τραμπ λέει «ναι», ο Βανς του λέει «επικεντρώσου σε ζητήματα ηθικής», αλλά ποιος ορίζει τη θρησκευτική πολιτική;",
+            "en": "Stergioou: Is the Pope 'woke'? Trump says yes, Vance told him to 'focus on moral issues' — but who gets to define what a pope should say about war and Gaza?"
+          },
+          "tags": {
+            "el": [
+              "Πάπας",
+              "Τραμπ",
+              "Γάζα",
+              "θρησκεία"
+            ],
+            "en": [
+              "Pope",
+              "Trump",
+              "Gaza",
+              "religion"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ποιο είναι το πιο σημαντικό;",
+          "url": "https://www.kathimerini.gr/opinion/564174859/poio-einai-to-pio-simantiko/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:04:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Μαγκλίνης: Η αποστολή Αρτεμις ΙΙ έφτασε κοντά στη Σελήνη — ποιο όμως είναι το πιο σημαντικό επίτευγμα; Η διαστημική εξερεύνηση ή οι κρίσεις στη Γη;",
+            "en": "Maglinis: The Artemis II mission reached the moon's vicinity — but which is more important, space exploration or addressing the wars and crises back on Earth?"
+          },
+          "tags": {
+            "el": [
+              "επιστήμη",
+              "διάστημα",
+              "NASA",
+              "φιλοσοφία"
+            ],
+            "en": [
+              "science",
+              "space",
+              "NASA",
+              "philosophy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Αξεσουάρ μιμήσεων",
+          "url": "https://www.kathimerini.gr/opinion/564174673/axesoyar-mimiseon/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:01:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Στέντωρ: Σατιρική παρατήρηση για τη μίμηση της Λατινοπούλου προς Ζωή Κωνσταντοπούλου στην τηλεόραση — «δύο Ζωές πρωί πρωί;»",
+            "en": "Stendor: Satirical take on Latinopoulou's TV imitation of Zoe Konstantopoulou — 'two Zoes at breakfast?' — pointing to the shared anti-system aesthetic."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "σάτιρα",
+              "τηλεόραση"
+            ],
+            "en": [
+              "politics",
+              "satire",
+              "television"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Θα γνωριζόμασταν στον ηλεκτρικό, αλλά δεν είναι ρομαντικά",
+          "url": "https://www.kathimerini.gr/opinion/564173836/tha-gnorizomastan-ston-ilektriko-alla-den-einai-romantika/",
+          "source": "Kathimerini",
+          "published": "2026-04-14T20:00:23+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Θα γνωριζόμασταν στον ηλεκτρικό, αλλά δεν είναι ρομαντικά",
+            "en": "Θα γνωριζόμασταν στον ηλεκτρικό, αλλά δεν είναι ρομαντικά"
+          },
+          "tags": {
+            "el": [
+              "opinion"
+            ],
+            "en": [
+              "opinion"
+            ]
+          },
+          "sentiment": "neutral"
         }
       ]
     },
@@ -1369,6 +2055,78 @@
               "culture",
               "Athens",
               "events"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Η Νικόλ Κίντμαν εκπαιδεύεται ως «death doula»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564175309/i-nikol-kintman-ekpaideyetai-os-death-doula/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T07:44:27+00:00",
+          "importance": 40,
+          "summary": {
+            "el": "Η Νικόλ Κίντμαν εκπαιδεύεται ως «death doula» — συνοδεύει ανθρώπους στο τέλος της ζωής τους, μετά τον θάνατο της μητέρας της.",
+            "en": "Nicole Kidman is training as a 'death doula' — accompanying people through end of life — a journey prompted by her mother's death."
+          },
+          "tags": {
+            "el": [
+              "διασημότητες",
+              "Κίντμαν",
+              "φροντίδα"
+            ],
+            "en": [
+              "celebrities",
+              "Kidman",
+              "death doula"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "«Ο Ρομπέν των Δασών»: Αποκλειστική πρεμιέρα στο ΑΝΤ1+",
+          "url": "https://www.kathimerini.gr/culture/tv/564176023/o-rompen-ton-dason-se-apokleistiki-premiera-sto-ant1/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:25:00+00:00",
+          "importance": 38,
+          "summary": {
+            "el": "Η σειρά «Ρομπέν των Δασών» κάνει πρεμιέρα στο ΑΝΤ1+ σε σύγχρονη εκδοχή με κινηματογραφική αισθητική.",
+            "en": "A modern reimagining of Robin Hood makes its Greek streaming premiere on ANT1+, promising cinematic aesthetics and a deeper look at the legendary character."
+          },
+          "tags": {
+            "el": [
+              "τηλεόραση",
+              "σειρές",
+              "ΑΝΤ1+"
+            ],
+            "en": [
+              "television",
+              "series",
+              "ANT1+"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Ο τραγουδιστής του «Καλημέρα ήλιε» έχει σήμερα γενέθλια",
+          "url": "https://www.kathimerini.gr/culture/564174178/o-tragoydistis-toy-kalimera-ilie-echei-simera-genethlia/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T08:00:00+00:00",
+          "importance": 35,
+          "summary": {
+            "el": "Σήμερα γενέθλια ο Κώστας Σμοκοβίτης, τραγουδιστής του «Καλημέρα ήλιε»: μια αναδρομή στη ζωή και την καριέρα του.",
+            "en": "Birthday tribute to Kostas Smokovitis, singer of 'Good Morning Sun': a look back at the life and career of one of Greek pop music's enduring figures."
+          },
+          "tags": {
+            "el": [
+              "μουσική",
+              "Σμοκοβίτης",
+              "Ελλάδα"
+            ],
+            "en": [
+              "music",
+              "Smokovitis",
+              "Greece"
             ]
           },
           "sentiment": "positive"
