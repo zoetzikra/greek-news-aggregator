@@ -1,10 +1,13 @@
 name: Deploy to GitHub Pages
 
-# Triggers when data files are pushed (from the Cowork scheduled task)
+# Triggers when data files or frontend source is pushed
 on:
   push:
     paths:
       - 'web/data/**'
+      - 'frontend/src/**'
+      - 'frontend/package.json'
+      - 'frontend/svelte.config.js'
     branches:
       - main
   workflow_dispatch:  # Also allow manual triggering
