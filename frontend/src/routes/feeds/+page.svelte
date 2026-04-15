@@ -1,18 +1,19 @@
 <script>
   let lang = $state('el');
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
   onMount(() => {
     const saved = localStorage?.getItem?.('lang');
     if (saved) lang = saved;
   });
 
   const feeds = [
-    { name: { el: 'Κύριο Feed', en: 'Main Feed' }, url: '/data/feeds/main.xml', desc: { el: 'Ημερήσια σύνοψη + κορυφαία', en: 'Daily summary + top stories' }},
-    { name: { el: 'Πολιτική', en: 'Politics' }, url: '/data/feeds/politics.xml', desc: { el: 'Πολιτικά νέα', en: 'Political news' }},
-    { name: { el: 'Οικονομία', en: 'Economy' }, url: '/data/feeds/economy.xml', desc: { el: 'Οικονομικά νέα', en: 'Economic news' }},
-    { name: { el: 'Κοινωνία', en: 'Society' }, url: '/data/feeds/society.xml', desc: { el: 'Κοινωνικά νέα', en: 'Social news' }},
-    { name: { el: 'Κόσμος', en: 'World' }, url: '/data/feeds/world.xml', desc: { el: 'Διεθνή νέα', en: 'International news' }},
-    { name: { el: 'Πολιτισμός', en: 'Culture' }, url: '/data/feeds/culture.xml', desc: { el: 'Πολιτιστικά νέα', en: 'Cultural news' }},
+    { name: { el: 'Κύριο Feed', en: 'Main Feed' }, url: `${base}/data/feeds/main.xml`, desc: { el: 'Ημερήσια σύνοψη + κορυφαία', en: 'Daily summary + top stories' }},
+    { name: { el: 'Πολιτική', en: 'Politics' }, url: `${base}/data/feeds/politics.xml`, desc: { el: 'Πολιτικά νέα', en: 'Political news' }},
+    { name: { el: 'Οικονομία', en: 'Economy' }, url: `${base}/data/feeds/economy.xml`, desc: { el: 'Οικονομικά νέα', en: 'Economic news' }},
+    { name: { el: 'Κοινωνία', en: 'Society' }, url: `${base}/data/feeds/society.xml`, desc: { el: 'Κοινωνικά νέα', en: 'Social news' }},
+    { name: { el: 'Κόσμος', en: 'World' }, url: `${base}/data/feeds/world.xml`, desc: { el: 'Διεθνή νέα', en: 'International news' }},
+    { name: { el: 'Πολιτισμός', en: 'Culture' }, url: `${base}/data/feeds/culture.xml`, desc: { el: 'Πολιτιστικά νέα', en: 'Cultural news' }},
   ];
 </script>
 

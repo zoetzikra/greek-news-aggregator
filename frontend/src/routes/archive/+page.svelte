@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
 
   let dates = $state([]);
   let loading = $state(true);
@@ -10,7 +11,7 @@
     if (savedLang) lang = savedLang;
 
     try {
-      const res = await fetch('/data/index.json');
+      const res = await fetch(`${base}/data/index.json`);
       if (res.ok) {
         const data = await res.json();
         dates = data.dates || [];

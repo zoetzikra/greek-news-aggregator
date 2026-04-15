@@ -1,6 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { page } from '$app/stores';
+  import { base } from '$app/paths';
 
   let summary = $state(null);
   let loading = $state(true);
@@ -31,7 +32,7 @@
 
     try {
       // Load index to get available dates
-      const indexRes = await fetch('/data/index.json');
+      const indexRes = await fetch(`${base}/data/index.json`);
       if (!indexRes.ok) throw new Error('No data available yet');
       const index = await indexRes.json();
 
@@ -39,7 +40,7 @@
       if (!currentDate) throw new Error('No dates available');
 
       // Load summary for the date
-      const summaryRes = await fetch(`/data/${currentDate}/summary.json`);
+      const summaryRes = await fetch(`${base}/data/${currentDate}/summary.json`);
       if (!summaryRes.ok) throw new Error(`No data for ${currentDate}`);
       summary = await summaryRes.json();
     } catch (e) {
