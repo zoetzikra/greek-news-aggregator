@@ -1,0 +1,14 @@
+{
+  "last_updated": "2026-04-15T22:30:00+00:00",
+  "dates": [
+    "2026-04-15"
+  ],
+  "available_categories": [
+    "economy",
+    "society",
+    "world",
+    "politics",
+    "culture"
+  ],
+  "feed_url": "data/feeds/main.xml"
+}

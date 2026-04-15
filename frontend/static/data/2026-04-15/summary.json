@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T22:30:00+00:00",
+  "source_note": "Articles scraped directly from kathimerini.gr section pages (full text). 79 articles from 6 sections over 24h window.",
+  "executive_summary": {
+    "el": "Η Τετάρτη 15 Απριλίου 2026 σηματοδοτείται από τρεις κυρίαρχες θεματικές.\n\nΣτο διεθνές μέτωπο, η γεωπολιτική αστάθεια κυριαρχεί: ΗΠΑ και Ιράν κινούνται προς συμφωνία-πλαίσιο για να τερματίσουν τον πόλεμο, με το Ιράν να προτείνει ελεύθερη ναυτική διέλευση μέσω Ομάν στα Στενά του Ορμούζ. Αποκάλυψη του Reuters: χάκερ με ρωσικές συνδέσεις παραβίασαν 27 λογαριασμούς email του ΓΕΕΘΑ, στοχεύοντας στρατιωτικούς ακολούθους στην Ινδία και Βοσνία. Ο ισραηλινός στρατός ολοκληρώνει την κατάληψη της πόλης Μπιν Ζαμπέλ στο νότιο Λίβανο, ενώ κλιμακώνονται οι εντάσεις στη νεκρή ζώνη της Κύπρου. Στην Ουγγαρία, ο Ορμπαν υπέστη ιστορική εκλογική ήττα.\n\nΣτο εσωτερικό πολιτικό μέτωπο, το σκάνδαλο ΟΠΕΚΕΠΕ εντείνεται: η Καθημερινή δημοσιεύει αποσπάσματα από επίσημο έγγραφο Ευρωπαϊκής Εισαγγελίας με βαρύτατες ενδείξεις διαφθοράς («θα γίνει κάτω από το τραπέζι, WhatsApp μόνο»). Η κυβέρνηση προτείνει ανανέωση Στουρνάρα στην ΤτΕ. Ο υφυπουργός Μυλωνάκης νοσηλεύεται στη ΜΕΘ μετά από ρήξη ανευρύσματος εγκεφάλου — ο χειρουργός μιλά για «10 μέρες αγωνίας».\n\nΣτο οικονομικό μέτωπο, ο αποκλεισμός Ορμούζ ενισχύει τη ζήτηση αμερικανικού πετρελαίου και βαθαίνει την ευρωπαϊκή ενεργειακή κρίση — η ΕΕ ετοιμάζει δέσμη μέτρων για 22/4. Εντωμεταξύ, μελέτη ΚΕΦίΜ καταγράφει ότι ένα τριάρι στην Αθήνα κοστίζει 93,6% του μέσου μηνιαίου εισοδήματος σε ενοίκιο.",
+    "en": "Wednesday, April 15, 2026 is defined by three dominant themes.\n\nGeopolitical instability dominates: the US and Iran are moving toward a framework deal, with Iran proposing free ship passage through the Strait of Hormuz via Oman. A major Reuters revelation: Russia-linked hackers breached 27 GEETHA (Greek armed forces) email accounts, targeting military attachés in India and Bosnia. The IDF is completing its capture of Bin Jubeil in southern Lebanon, while tensions escalate in Cyprus's buffer zone with Turkish-Cypriot troops deploying tanks. In Hungary, Orbán suffered a historic electoral defeat.\n\nOn the domestic political front, the OPEKAPO agricultural subsidies scandal intensifies: Kathimerini publishes excerpts from the European Prosecutor's official document containing bombshell exchanges ('it'll be done under the table, WhatsApp only'). The government proposes renewing Bank of Greece Governor Stournaras. Deputy minister Mylonakis is in ICU after a brain aneurysm rupture — his surgeon warns of '10 days of anguish'.\n\nOn the economic front, the Hormuz blockade deepens Europe's energy crisis — the EU is preparing a response package for April 22. Meanwhile, a KEFiM study reveals that renting a 3-bedroom flat in Athens consumes 93.6% of an average household's monthly income — a figure that lays bare the scale of Greece's housing crisis."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "ΗΠΑ–Ιράν: Κρίση Ορμούζ",
+        "en": "US-Iran: Hormuz Crisis"
+      },
+      "description": {
+        "el": "ΗΠΑ και Ιράν κινούνται προς συμφωνία, με Ιράν να προτείνει ναυτική λύση μέσω Ομάν. Ο αποκλεισμός επηρεάζει 20% της θαλάσσιας ενέργειας παγκοσμίως.",
+        "en": "US and Iran move toward a deal; Iran proposes free passage via Oman. The blockade restricts 20% of seaborne energy globally, deepening the EU's energy crisis."
+      },
+      "related_items": [
+        "ce18de06de7c",
+        "2f8797f27757",
+        "7dd8faa1ed39",
+        "8d47348443b0",
+        "4bb132574e20",
+        "12e168e56de0"
+      ],
+      "importance": 95
+    },
+    {
+      "name": {
+        "el": "ΟΠΕΚΕΠΕ: Σκάνδαλο Επιδοτήσεων",
+        "en": "OPEKAPO: Subsidies Scandal"
+      },
+      "description": {
+        "el": "Αποσπάσματα από έγγραφο Ευρωπαϊκής Εισαγγελίας αποκαλύπτουν καταδικαστικές συνομιλίες. Έρχονται νέες δικογραφίες και ψηφοφορία για άρση ασυλίας ΝΔ βουλευτών.",
+        "en": "European Prosecutor's document excerpts reveal damning conversations. More indictments and parliamentary immunity votes are expected to follow."
+      },
+      "related_items": [
+        "120d100faa03",
+        "e6eb0e055264",
+        "7704f4a2d2fa",
+        "d1f33f27caea",
+        "d165c7a28b15",
+        "99c4de09a25d"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "ΓΕΕΘΑ: Ρωσική Κυβερνοεπίθεση",
+        "en": "GEETHA: Russian Cyberattack"
+      },
+      "description": {
+        "el": "Χάκερ με ρωσικές συνδέσεις παραβίασαν 27 emails του ΓΕΕΘΑ, συμπεριλαμβανομένων ακολούθων και Κέντρου Ψυχικής Υγείας Ενόπλων Δυνάμεων.",
+        "en": "Russia-linked hackers breached 27 GEETHA email accounts, including military attachés abroad and the Armed Forces' Mental Health Centre."
+      },
+      "related_items": [
+        "c30892f79503"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Στεγαστική Κρίση: Ένας Μισθός σε Ενοίκιο",
+        "en": "Housing Crisis: A Whole Salary on Rent"
+      },
+      "description": {
+        "el": "Μελέτη ΚΕΦίΜ/Eurostat: τριάρι στην Αθήνα κοστίζει 93,6% μηνιαίου εισοδήματος. Η Ελλάδα στην κορυφή της ΕΕ σε αβιώσιμες συνθήκες στέγασης.",
+        "en": "KEFiM/Eurostat study: a 3-bedroom Athens flat costs 93.6% of the average monthly income in rent, placing Greece among the EU's worst housing affordability crises."
+      },
+      "related_items": [
+        "4d57c6bd5573"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Υφυπουργός Μυλωνάκης: Ρήξη Ανευρύσματος",
+        "en": "Deputy Minister Mylonakis: Brain Aneurysm"
+      },
+      "description": {
+        "el": "Ο Γιώργος Μυλωνάκης νοσηλεύεται σε ΜΕΘ μετά από ρήξη ανευρύσματος εγκεφάλου. Η κατάστασή του «σοβαρή αλλά ελεγχόμενη».",
+        "en": "Deputy PM's aide Mylonakis is in ICU after a brain aneurysm rupture; his condition is 'serious but controlled' with a critical 10-day window ahead."
+      },
+      "related_items": [
+        "1e6c3456333e",
+        "5767ead3f557",
+        "f09ade2fa8d0"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Ουγγαρία: Τέλος εποχής Ορμπαν",
+        "en": "Hungary: End of the Orbán Era"
+      },
+      "description": {
+        "el": "Ιστορική ήττα Ορμπαν στις εκλογές της Ουγγαρίας. Τρεις αρθρογράφοι αναλύουν τι σημαίνει αυτό για τον ευρωπαϊκό λαϊκισμό.",
+        "en": "Orbán's historic electoral defeat in Hungary prompts three Kathimerini columnists to analyse the implications for European populism and democracy."
+      },
+      "related_items": [
+        "c359794e0eb0",
+        "d0ee318faae4",
+        "2104bf79120a"
+      ],
+      "importance": 75
+    },
+    {
+      "name": {
+        "el": "Κεφαλονιά: Δίκη για τη 19χρονη",
+        "en": "Kefalonia Trial: The 19-Year-Old's Death"
+      },
+      "description": {
+        "el": "Νέες καταθέσεις και βίντεο-ντοκουμέντο στη δίκη για το θάνατο της 19χρονης. «Έλεγα να καλέσουμε ασθενοφόρο, φοβόντουσαν μην μπλέξουμε».",
+        "en": "New testimony and surveillance footage emerge in the trial for the 19-year-old's death: 'I said we should call an ambulance, they were afraid of getting involved'."
+      },
+      "related_items": [
+        "291d53a060d2",
+        "3495e6945892"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 79,
+  "categories": {
+    "politics": 14,
+    "economy": 14,
+    "society": 14,
+    "world": 14,
+    "opinion": 12,
+    "culture": 11
+  }
+}

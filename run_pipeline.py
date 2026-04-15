@@ -39,8 +39,8 @@ def main():
                         help="Configuration directory")
     parser.add_argument("--data-dir", default="./data",
                         help="Data output directory")
-    parser.add_argument("--web-dir", default="./web",
-                        help="Web output directory")
+    parser.add_argument("--web-dir", default="./frontend/static",
+                        help="Web output directory (SvelteKit static assets)")
     parser.add_argument("--lookback", type=int, default=24,
                         help="Hours to look back for content (default: 24)")
     parser.add_argument("--resume", action="store_true",
