@@ -1,116 +1,224 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T18:00:00+00:00",
+  "generated_at": "2026-04-15T18:56:38.998550+00:00",
   "category": "world",
-  "item_count": 3,
+  "item_count": 39,
   "themes": {
     "el": [
-      "Mirage-Ουκρανία",
-      "Τραμπ και Ελλάδα",
-      "Δασμοί ΗΠΑ"
+      "ΗΠΑ",
+      "Ο πόλεμος στη Μέση Ανατολή «βο",
+      "Μέση Ανατολή"
     ],
-    "en": [
-      "Mirage-Ukraine",
-      "Trump and Greece",
-      "US tariffs"
-    ]
+    "en": []
   },
   "items": [
     {
-      "id": "e69b8826cd57",
-      "title": "France Pressures Greece on Mirage 2000-5 Transfer to Ukraine With Rafale Discount Deal",
-      "url": "https://en.defence-ua.com/news/france_pressures_greece_on_mirage_2000_5_transfer_to_ukraine_with_rafale_discount_deal_athens_still_resists-18115.html",
-      "author": "Defense Express",
-      "published": "2026-04-10T12:00:00+00:00",
-      "source": "Defense Express / Kathimerini",
-      "source_type": "web",
+      "id": "71c439494dc1",
+      "title": "ΗΠΑ – Ιράν: Κοντά σε συμφωνία-πλαίσιο για τον τερματισμό του πολέμου",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFpJRG90c1VCODl6a2d4cDg5N0dJUEJKWW1mNjJzQ2VJUE0zd2ZSY0xiR2g1WW5NWFdIVGpLcjdyQ3J5RHNNb3dNWnphcU5QOFFFQkhGdTZVVUY1anlvbXRGSnA0d3ZlSlVsLV9nLVpRZXZRQ2s4LXI4ZGpEVlJicEZvRURfNmRKWGVWMEdiNGNxa3MtZW1qZkljVWhMMVVBYmRId2hTaGFDWHZ6Y3c?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T14:53:47+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 95,
+      "summary": {
+        "el": "Σύμφωνα με πληροφορίες, ΗΠΑ και Ιράν βρίσκονται κοντά σε συμφωνία-πλαίσιο για τον τερματισμό του πολέμου, με τις διαπραγματεύσεις να λαμβάνουν χώρα σε κλίμα προσεκτικής αισιοδοξίας. Παράλληλα, η Καθημερινή αναφέρει «ομίχλη» στα Στενά και στις πολύπλοκες γεωπολιτικές διαπραγματεύσεις.",
+        "en": "The US and Iran are reportedly close to a framework agreement to end the war, with negotiations proceeding amid cautious optimism. Kathimerini describes 'fog' in the Straits and in the complex geopolitical negotiations, as talks continue in Washington while Lebanon faces bombardment."
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "068fd5496949",
+      "title": "Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUG91aEg4UURlWWlSR0lrWW4xa2RPU1lET3NuSzZvb19yT185ejhDbExqbFVLOXBVS3dJcHhlbmotNXFQc2xLRE1aV3ZTMHNjc2NwdVVpdG9Pd0EwanNJZFV6RGh0b0stYVZwT1Fmc2ZCN0VCb2RFb0M3Zl96ZFR3MEpVTENQVXFHQjhKM3dKd2Nrajhoc3ZtNEFYYkhqRDA?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T13:28:21+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 90,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands",
+        "en": "Kathimerini article: Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands"
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "0dfa0a5dc0fd",
+      "title": "Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEoyazl6WTVVeTZFYld4Z1lZMEM1ZTBUUzIwT1RmU1BCV0VJUUVTNTRmUEJEbEVRVEtTSHpXWEZ3eUdXX0twazZ0SFM5TmlNbWRSODNWaEtXRVRITlh2YnZwRklnakdFWG9LSVVFdF9fTks0cF9KMXB4M1prMms2eVlmQ1I4MGgzX0hGQW9pMGFkN2VWM2t0YXluQUNpNldFWkZTX2hhNFBPQUl4clJj?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T05:21:44+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 90,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν",
+        "en": "Kathimerini article: Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν"
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "1070c34bb95c",
+      "title": "Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3NyOTJqUFZKa2o0SUlZV001RXdMMXBrTHg0NnVvTkhSc3phWWd3YTJ2MXJfWG9mY20wNmQwaFViVXJjOFdDOTJJUnR6YzQ1ODVzYVFMTE5QTzhMbFlMS2k2aURLSkFUUGF4eEM1VTctZFVITGJqb3IyQkh3bTA3SmFZd21GaFBobEs1ZjRTUGc4eVBFQ0hr?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T17:09:00+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 88,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+        "en": "Kathimerini article: Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ"
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "f3e405a93bf1",
+      "title": "Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1RpVklUbElXa2lrdnhhRHJZN0xHSWF3eGNVS2Jzc043RFV6bFc1VFhwZkJucGZUbHBrZ3F0emZla0lOdmN4dF9MU1NhMUpFVzlDeXJVcHJYaWowTVBXbGhqaEhSanZ6ejFMOWVUaGxMS18yYTRNajRKQVVkU0FmYW5VU2xEY2tLWmFzd3hRRWQzSGRobWIwU0ZrRDVDZW1mdXNFT3NZMXRPcmZaOW9VZVAtZzh0QUZlcEs2djJKY2lvSEdJUlE?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T13:23:26+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 88,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά",
+        "en": "Kathimerini article: Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά"
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "639f1edc49c5",
+      "title": "FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHhBNThjSTNrUjJFdmp0QXltamhGcmF6R1c3X2tUZ3Vaa00tUXlKZHJrZ19JeTdwemRtTzlXdWNkSFhUNWtTbWkyb3hXQ21vR1Y3Y1c4RS1DMXFVZFNVaEVKOWozWGMxM0pBMlRGSnVoVTZPSmwzNUJBdGpFaWNQeHJDc3NiOHlYdFQ5MUxjWlBodDZSQjlBWUIzd1l0bVktT3F5UjRCX3pUUVh1akxFOFJ5UWh0ejg?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T04:55:04+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 87,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ",
+        "en": "Kathimerini article: FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ"
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "5b72fdf05ef4",
+      "title": "Τραμπ κατά Πάουελ: «Θα χρειαστεί να τον απολύσω αν δεν φύγει εγκαίρως»",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU1wYXhXSnVSQWVENkJ0cjlYaDZ0cnM5WTk2VTR2RGNqdEN4eEVYWW11OHZ0U2lSVGhpYTUyb0VEYlVhRFNzbUVjU3dMaG5abDY1M3EyVXdMa0dLcmgyOUtYcG82dFk2bjM4QzI5YWh6RTBiUTJsUWpVaUdpQmpCM05HMGphNGpseXViWXhUVFYyeWhaUUJvWjN6OFgxMlVLUmNuZmUxLWM3OHhkVE5EVmtvNA?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T13:15:49+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "world",
+      "importance": 86,
+      "summary": {
+        "el": "Ο Τραμπ εκδήλωσε δημόσια τη δυσαρέσκειά του προς τον πρόεδρο της Fed Τζερόμ Πάουελ, με δηλώσεις που εκνευρίζουν τις αγορές.",
+        "en": "Trump publicly attacked Fed Chair Jerome Powell, threatening to fire him if he doesn't lower rates, rattling global financial markets."
+      },
+      "tags": {
+        "el": [
+          "διεθνή",
+          "γεωπολιτική"
+        ],
+        "en": [
+          "international",
+          "geopolitics"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "638317010f28",
+      "title": "Reuters: Το ΓΕΕΘΑ στόχος χάκερ που συνδέονται με τη Ρωσία",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzh5WjZ3dnhKR3FzREljNHhMejFFLVFvcEpBa1ZyMG8xV05nMkdnelFfZlZVVlUxSDdGYXhLTGFoWDFSSnRNQUpmSWd6YmJCWFhTckVhRklnS1ZFR3h6T2xqX2lwdzFQREw4Sk1XR1NTSjF4Rlc4RFktM1VleUVGYmQzby1TVmZqUzFEY2lMRFI3OXc?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T18:20:52+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
       "category": "world",
       "importance": 85,
       "summary": {
-        "el": "Η Γαλλία εντείνει την πίεση προς την Ελλάδα για τη μεταβίβαση των Mirage 2000-5 στην Ουκρανία, προσφέροντας Rafale σε εκπτωτική τιμή ως αντάλλαγμα. Η Αθήνα εξακολουθεί να αντιστέκεται, επικαλούμενη ότι τα αεροσκάφη παραμένουν ζωτικής σημασίας για την εθνική αεράμυνα έως ότου παραδοθεί ικανός αριθμός Rafale. Η σύμβαση συντήρησης των Mirage λήγει το 2027.",
-        "en": "France is intensifying pressure on Greece to transfer its Mirage 2000-5 fleet to Ukraine, offering a discount on additional Rafale jets as an incentive. Athens continues to resist, arguing the aircraft remain vital to national air defense until the Rafale transition is complete. The Mirage maintenance contract expires in 2027, adding urgency to the issue."
+        "el": "Σύμφωνα με το Reuters, το Γενικό Επιτελείο Εθνικής Άμυνας (ΓΕΕΘΑ) έπεσε θύμα κυβερνοεπίθεσης από χάκερ που συνδέονται με τη Ρωσία, εγείροντας σοβαρά ζητήματα εθνικής ασφάλειας.",
+        "en": "According to Reuters, Greece's National Defence General Staff (GEETHA) was targeted by hackers linked to Russia, raising serious national security concerns."
       },
       "tags": {
         "el": [
-          "Mirage 2000-5",
-          "Ουκρανία",
-          "Γαλλία",
-          "άμυνα",
-          "Rafale"
+          "διεθνή",
+          "γεωπολιτική"
         ],
         "en": [
-          "Mirage 2000-5",
-          "Ukraine",
-          "France",
-          "defense",
-          "Rafale"
+          "international",
+          "geopolitics"
         ]
       },
       "sentiment": "neutral"
-    },
-    {
-      "id": "4b530969d6b4",
-      "title": "The Second Trump Era: Has it Strengthened or Weakened Greece?",
-      "url": "https://greekreporter.com/2026/04/14/trump-era-strengthened-or-weakened-greece/",
-      "author": "GreekReporter",
-      "published": "2026-04-14T08:00:00+00:00",
-      "source": "GreekReporter",
-      "source_type": "web",
-      "category": "world",
-      "importance": 78,
-      "summary": {
-        "el": "Καθώς η δεύτερη προεδρία Τραμπ συμπληρώνει τους πρώτους μήνες της, η Ελλάδα βρίσκεται σε διπλωματικό δίλημμα: η στρατιωτική συνεργασία με τις ΗΠΑ βρίσκεται σε ιστορικά υψηλά επίπεδα, αλλά οι αμερικανικές πιέσεις για δασμούς και η ανησυχία για την Τουρκία δημιουργούν νέες προκλήσεις.",
-        "en": "As the second Trump presidency passes its mid-term mark, Greece navigates a complex diplomatic landscape: military ties with the US are at historic highs, with Greek defense spending reaching nearly 4% of GDP, but US tariff pressure on Greek agricultural exports and the pivot toward Turkey as a strategic partner create new challenges for Athens."
-      },
-      "tags": {
-        "el": [
-          "Τραμπ",
-          "ΗΠΑ",
-          "εξωτερική πολιτική",
-          "ΝΑΤΟ",
-          "Τουρκία"
-        ],
-        "en": [
-          "Trump",
-          "USA",
-          "foreign policy",
-          "NATO",
-          "Turkey"
-        ]
-      },
-      "sentiment": "neutral"
-    },
-    {
-      "id": "65f712921ab9",
-      "title": "How Trump's Tariffs Affect Greece's Economy and Trade",
-      "url": "https://www.macropolis.gr/?i=portal.en.the-agora.15381",
-      "author": "Macropolis",
-      "published": "2026-04-08T10:00:00+00:00",
-      "source": "Macropolis",
-      "source_type": "web",
-      "category": "world",
-      "importance": 72,
-      "summary": {
-        "el": "Ανάλυση των επιπτώσεων των αμερικανικών δασμών Τραμπ στην ελληνική οικονομία δείχνει ότι οι ελληνικές αγροτικές εξαγωγές αντιμετωπίζουν σημαντικές προκλήσεις στη διαπραγμάτευση αμερικανικής αγοράς. Η Αθήνα πρέπει να πλοηγηθεί με προσοχή στον εμπορικό πόλεμο ΗΠΑ-ΕΕ.",
-        "en": "An analysis of the impact of Trump's tariffs on Greece reveals that Greek agricultural exports — a cornerstone of the regional economy — face significant headwinds in US markets. Athens must carefully navigate the US-EU trade dispute while preserving its strong bilateral ties with Washington."
-      },
-      "tags": {
-        "el": [
-          "δασμοί",
-          "εμπόριο",
-          "ΗΠΑ",
-          "αγροτικά προϊόντα",
-          "ΕΕ"
-        ],
-        "en": [
-          "tariffs",
-          "trade",
-          "USA",
-          "agricultural exports",
-          "EU"
-        ]
-      },
-      "sentiment": "negative"
     }
   ]
 }

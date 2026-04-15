@@ -1,77 +1,221 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T18:00:00+00:00",
+  "generated_at": "2026-04-15T18:56:38.998550+00:00",
   "category": "politics",
-  "item_count": 2,
+  "item_count": 16,
   "themes": {
     "el": [
-      "Άμυνα και προϋπολογισμός",
-      "Αντιπολίτευση και εκλογικές δυνάμεις"
+      "ΟΠΕΚΕΠΕ",
+      "Τα επόμενα βήματα για την υπόθ",
+      "Υπόθεση ΟΠΕΚΕΠΕ"
     ],
-    "en": [
-      "Defense spending and budget",
-      "Opposition and electoral dynamics"
-    ]
+    "en": []
   },
   "items": [
     {
-      "id": "8fb6fd39775a",
-      "title": "Greece 2026: External Shocks Risk Derailing Fragile Economic Revival",
-      "url": "https://balkaninsight.com/2026/01/05/greece-2026-external-shocks-rask-derailing-fragile-economic-revival/",
-      "author": "Balkan Insight",
-      "published": "2026-01-05T09:00:00+00:00",
-      "source": "Balkan Insight",
-      "source_type": "web",
+      "id": "316769c0b8a7",
+      "title": "ΟΠΕΚΕΠΕ: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0JLT1ZnanRBbklOODZkS0J6ZFRha3Q3UUpTSjk2Z1lMZU1pR0NNQVV3NzJ1Uy1DY3JzYlNtLXFmR3gyYmQ5YTdDRFhyQm9XYUdUekF1M1d0Z1ppUWM3NnBlaU9OZkFvWlZqVXB4NWlUZFFkZmwyeHJFOXhfbzhHcEhfNWdoY2t6RDVsSmxQRlBINER2MnBlNnVvYm9BNkVlZjRIYVRib0N4akdNM0lNcQ?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T12:48:22+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
       "category": "politics",
-      "importance": 72,
+      "importance": 80,
       "summary": {
-        "el": "Ανάλυση αποτυπώνει πώς οι εξωτερικές πιέσεις — εμπορικές εντάσεις, κρίση καυσίμων, μείωση ευρωπαϊκών κεφαλαίων — ενδέχεται να διαταράξουν την οικονομική ανάκαμψη της Ελλάδας, επηρεάζοντας και τη δημοτικότητα της κυβέρνησης Μητσοτάκη.",
-        "en": "An analysis examines how external pressures — trade tensions, the fuel crisis, and tapering EU Recovery Fund inflows — risk undermining Greece's economic revival, with potential political consequences for the Mitsotakis government heading into the latter part of its term."
+        "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+        "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
       },
       "tags": {
         "el": [
-          "Μητσοτάκης",
           "πολιτική",
-          "οικονομία",
-          "ΕΕ",
-          "ΤΑΑ"
+          "κυβέρνηση"
         ],
         "en": [
-          "Mitsotakis",
           "politics",
-          "economy",
-          "EU",
-          "RRF"
+          "government"
         ]
       },
       "sentiment": "neutral"
     },
     {
-      "id": "b361338961b6",
-      "title": "Greece 2026: Can the Opposition Challenge Mitsotakis' Hegemony?",
-      "url": "https://greekreporter.com/2025/12/29/greece-2026-mitsotakis-hegemony-opposition-weak/",
-      "author": "GreekReporter",
-      "published": "2025-12-29T10:00:00+00:00",
-      "source": "GreekReporter",
-      "source_type": "web",
+      "id": "022520592539",
+      "title": "Τα επόμενα βήματα για την υπόθεση του ΟΠΕΚΕΠΕ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0JiUnJuMTZJUlk5RVNvODNZOFM4dnlJWGRqSERERXNOLTBkRXZiS0JKTDgzRDFDcWJZYmZENldsMDBlOE9jWEoxaGd5b2NqTU5xTDJNODZWS0xtMWFHeGRzellGOTl4WDhXWE9oWC1Bcm56Z3FZekFNcXFPcHpqTVExMUs4VHFLSUVscDVvazZneVAxYUxFRWZGQkZNWG5UaGtoUkpsNA?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T07:35:51+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
       "category": "politics",
-      "importance": 65,
+      "importance": 80,
       "summary": {
-        "el": "Αν και η δημοτικότητα Μητσοτάκη έχει υποχωρήσει λόγω σκανδάλων (Predator, Τέμπη, Golden Dawn), η αντιπολίτευση παραμένει αδύναμη. Η ΝΔ διατηρεί σημαντικό προβάδισμα στις δημοσκοπήσεις για το 2026.",
-        "en": "Despite a drop in Mitsotakis's polling numbers due to the Predator spyware scandal, the Tempi rail disaster, and rising living costs, the Greek opposition remains fragmented and weak. The ruling New Democracy party maintains a commanding lead heading into 2026."
+        "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+        "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
       },
       "tags": {
         "el": [
-          "Μητσοτάκης",
-          "αντιπολίτευση",
-          "ΝΔ",
-          "δημοσκοπήσεις"
+          "πολιτική",
+          "κυβέρνηση"
         ],
         "en": [
-          "Mitsotakis",
-          "opposition",
-          "New Democracy",
-          "polls"
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "461ad953988a",
+      "title": "Υπόθεση ΟΠΕΚΕΠΕ: «Θα γίνει κάτω από το τραπέζι»",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUFBUjJHY1hfUmV0eG9XVFlUajBqVHJMSTNnSVRHc01KcTREUFQ1LVZMQS1mRUU2Y0M0a3c2TmFwVjdmMzBYaUVxelVnaU00dXR6MGt2M1BkUG9qcXZSYUtxbkJqZVBXSVh0RXh0ZWJhVFhJZTREQ0lJMGZRX3ZFcC0zdXlNNXJad2I4M1FMS1htUXhKTkN4SEl6U2J2M0R3czhj?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T04:29:51+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 80,
+      "summary": {
+        "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+        "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "40a3e550d054",
+      "title": "Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjY0RFN2R1V2E0Zy02LVAwVG8wYW5POXctZGpDN1VkZ1ZaYW9LdlFHR3AxZUxJdmxXYUxYN1lpSUw5Z19SbUdUb19OTW9mc1c4X01HWE9VYWVZT25JSmVhOWY5U0s3VEwtTUVmTkY0VFVrZEZseFRMcXZ6UVo?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T11:20:00+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 78,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ",
+        "en": "Kathimerini article: Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ"
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "0487decb1666",
+      "title": "Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2RtM1FNQ1RWRjgwVVFfYWJkUVU4UkZFUWtDZ3dmNm5oYk9LRDZTZEZyaERjMFYwQlNPX2hoRDRUMnU1RkhpWXEzQ3RmQThMd3RISmt5TjJhTHZXeENBVXFWeFo2T1g1d3Rab0kyTkZJdzBubHRnWlZ0NWFSYkhvS3MxUVBIMmt3UkV2OEpsejBXdmlOVHFOVWx2Y21UVk95UERWMU4ybHlRX1NiSmhLZXd1d2hERWtOS01nQWh3?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T07:08:03+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 72,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς",
+        "en": "Kathimerini article: Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς"
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "f44305a8fe02",
+      "title": "Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέα - Μακεδονικό Πρακτορείο Ειδήσεων",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHg3Y3VZUzM5ZTdlMGc2eGF4eVAtcEFJTUJjc1k5RTUzenlnal9vMHBfTFMwZ2pNME5fYkhLUlktQzRBNV9tV2R0NGdEMmUyYlpNMmNscXN5MXdrS04wcjNEN3pzalFFUFRka1ZXYm1CVGlhQ25IS25WbWFRRDRFemMtRnpPMVZ5MEkyRXAyYnJwc0dSWWoyNld4dkZvN1g5RWFJN1Nnd1lKTk9fOE9BSmRvLUV5SWxicFotTUtjUFFDaHFnaEJNZkxQRjFUcGdMOFFOOUtWRTQzeXhIWDFFX0VJaVE0ZjE1V2tQWW9xQjJCc2lF?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T17:10:54+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 55,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέ",
+        "en": "Kathimerini article: Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέ"
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "eb08d18a8a65",
+      "title": "Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlJiVEwwam40LW4tSl82T2ZzeFdRLXNhTTJiVUpqeEZYeWR6clZXbk5peDRPRmVPN2ZWUWZmSzNfRDVQMkZpVHpDdW9uTkpsSE96RmtWQnhWbDhNQlFVeXI2aVlaS2R2TFp0RndzeW9rNXFBcWxVVjZ2aE5mWnFQQ3NZeThWbWcyamZVcE1VZWlvUWE5eDEwQWhTbGNQYk1P?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T16:05:05+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 55,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση",
+        "en": "Kathimerini article: Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση"
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
+        ]
+      },
+      "sentiment": "neutral"
+    },
+    {
+      "id": "247d7d38c5f9",
+      "title": "Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmlYNjl5bEdRZlVRYkNqbzRPTnlubU9DLTlRWVhEcHJNLXc2MjlRT0dFUkFuS2RtbGxuc3duR3Z0VjdmYVVMWmNlM25MTWFRX2VZZVg4RGtWeGxiSEZtVDFWV0pGdU0wTXl6YmdFMWJHUkdaQ2lxQ1d6T241RW5Ra2JYT3c?oc=5",
+      "author": "Καθημερινή",
+      "published": "2026-04-15T15:49:00+00:00",
+      "source": "Kathimerini",
+      "source_type": "rss",
+      "category": "politics",
+      "importance": 55,
+      "summary": {
+        "el": "Άρθρο της Καθημερινής: Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ",
+        "en": "Kathimerini article: Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ"
+      },
+      "tags": {
+        "el": [
+          "πολιτική",
+          "κυβέρνηση"
+        ],
+        "en": [
+          "politics",
+          "government"
         ]
       },
       "sentiment": "neutral"

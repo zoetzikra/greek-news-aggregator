@@ -1,390 +1,1256 @@
 {
   "date": "2026-04-15",
-  "generated_at": "2026-04-15T18:00:00+00:00",
-  "source_note": "RSS feed returned 403; articles collected via web search fallback from GreekReporter, Bloomberg, Keep Talking Greece, Tovima, and other sources.",
+  "generated_at": "2026-04-15T18:56:38.998550+00:00",
+  "source_note": "Articles collected via Google News RSS (Kathimerini official feeds removed). 171 articles from 24h window.",
   "executive_summary": {
-    "el": "Η Ελλάδα βρίσκεται σήμερα, 15 Απριλίου 2026, στο επίκεντρο σημαντικών οικονομικών, πολιτικών και κοινωνικών εξελίξεων. Στο οικονομικό μέτωπο, η κυβέρνηση ανακοίνωσε την ανανέωση της θητείας του Διοικητή της Τράπεζας της Ελλάδος Γιάννη Στουρνάρα για τρίτη συνεχόμενη φορά, τεκμηριώνοντας τη σταθερότητα της νομισματικής πολιτικής. Παράλληλα, αναμένεται να ανακοινωθεί νέα υπέρβαση των δημοσιονομικών στόχων: το πρωτογενές πλεόνασμα εκτιμάται στο 4,8-4,9% του ΑΕΠ για το 2025, σημαντικά υψηλότερα από τον στόχο του 3,7%. Το ΔΝΤ προβλέπει ανάπτυξη 1,8% και πληθωρισμό 3,5% για φέτος, σε ένα περιβάλλον παγκόσμιων αβεβαιοτήτων.\n\nΣτο κοινωνικό επίπεδο, η στεγαστική κρίση παραμένει η πιο οξεία πρόκληση: νέα μελέτη του ΚΕΦιΜ αποκαλύπτει ότι η ενοικίαση διαμερίσματος δύο υπνοδωματίων στην Αττική απαιτεί ολόκληρο το μηνιαίο εισόδημα του μέσου νοικοκυριού, με αναλογία ενοικίου-εισοδήματος στο 93,6%, πολύ υψηλότερα από τον ευρωπαϊκό μέσο όρο 46%. Η κυβέρνηση έχει ανακοινώσει πακέτο μέτρων στήριξης ενοικιαστών και αύξησης της προσφοράς κατοικιών.\n\nΣε διεθνές επίπεδο, η Ελλάδα βρίσκεται σε διπλωματικό δίλημμα: η Γαλλία ασκεί πίεση για τη μεταβίβαση των Mirage 2000-5 στην Ουκρανία, προσφέροντας Rafale σε μειωμένη τιμή, αλλά η Αθήνα αντιστέκεται, επικαλούμενη εθνικές αμυντικές ανάγκες. Ταυτόχρονα, η δεύτερη θητεία Τραμπ επαναφέρει στο προσκήνιο τις αμερικανo-ελληνικές σχέσεις, με τη χώρα να επενδύει στη διατήρηση ισχυρών δεσμών τόσο με την Ουάσινγκτον όσο και με τις Βρυξέλλες.",
-    "en": "Greece finds itself at the center of major economic, political, and social developments on April 15, 2026. On the economic front, the government announced the renewal of Bank of Greece Governor Yannis Stournaras for a historic third consecutive term, underscoring monetary policy continuity. Separately, Greece is set to announce another fiscal outperformance: the primary budget surplus is estimated at 4.8–4.9% of GDP for 2025, well above the 3.7% target. The IMF projects 1.8% GDP growth and 3.5% inflation for the year, amid ongoing global uncertainties driven by Middle East tensions and US trade policy.\n\nOn the social front, the housing crisis remains the country's most acute challenge. A new study by the Center for Liberal Studies (KEFiM) reveals that renting a two-bedroom apartment in the Attica region now consumes 93.6% of an average household's monthly income — far above the EU average of 46%. The government has announced a package of tenant relief measures and policies to boost housing supply, though economists remain cautious about their impact.\n\nOn the international stage, Greece faces a delicate diplomatic balancing act. France is intensifying pressure on Athens to transfer its Mirage 2000-5 fighter jets to Ukraine in exchange for a discounted Rafale deal, but Greece continues to resist, citing national defense requirements until the Rafale transition is complete. Meanwhile, the second Trump administration is reshaping US-Greek relations, with Athens navigating between its NATO obligations, its commitment to the EU, and American pressure on trade tariffs that threaten Greek agricultural exports."
+    "el": "Η Τετάρτη 15 Απριλίου 2026 σηματοδοτείται από τρεις κυρίαρχες θεματικές.\n\nΣτο διεθνές μέτωπο, η γεωπολιτική αστάθεια κυριαρχεί: ΗΠΑ και Ιράν βρίσκονται κοντά σε συμφωνία-πλαίσιο για τον τερματισμό του πολέμου σύμφωνα με διεθνή ΜΜΕ, ενώ η Καθημερινή αναφέρει «ομίχλη» στα Στενά και στις πολύπλοκες διαπραγματεύσεις. Ο Τραμπ αυξάνει την ένταση δηλώνοντας ότι ανοίγει τα Στενά του Ορμούζ για την Κίνα, ενώ απειλεί να απολύσει τον πρόεδρο της Fed Πάουελ. Σοβαρή αποκάλυψη του Reuters: το ΓΕΕΘΑ έπεσε θύμα χάκερ με ρωσικές συνδέσεις. Στη Μέση Ανατολή, σχεδιάζεται νέος γύρος διαπραγματεύσεων Ισραήλ–Λιβάνου, ενώ ο Λίβανος αντιμετωπίζει νέες εντάσεις. Ο Ορμπαν αντιμετωπίζει πολιτικές υποτροπές στην Ουγγαρία.\n\nΣτο εσωτερικό οικονομικό μέτωπο, η κυβέρνηση προτείνει ανανέωση της θητείας Στουρνάρα στην ΤτΕ για τρίτη θητεία, ενισχύοντας τη σταθερότητα. Η Ελλάδα βγήκε επιτυχώς στις αγορές με 10ετές ομόλογο. Ωστόσο, η στεγαστική κρίση βαθαίνει: νέα στοιχεία δείχνουν ότι η χώρα κατέχει τη 2η θέση στην ΕΕ σε αύξηση ενοικίων το 2025.\n\nΣτην εσωτερική πολιτική, η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί, με τον υπουργό Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση αλλά να ενισχύεται από το Μαξίμου.",
+    "en": "Wednesday, April 15, 2026 is defined by three dominant themes.\n\nInternational instability dominates: the US and Iran are reportedly close to a framework agreement to end the war, as Kathimerini describes 'fog in the Straits' amid complex negotiations. Trump escalates tensions by declaring he will open the Strait of Hormuz to China, while threatening to fire Fed Chair Powell — rattling global markets. A major Reuters revelation: Greece's National Defence General Staff (GEETHA) was targeted by Russia-linked hackers. In the Middle East, a new round of Israel-Lebanon talks is being planned while Lebanon faces new military tensions. Orbán faces political setbacks in Hungary.\n\nOn the domestic economic front, the government proposes renewing Bank of Greece Governor Stournaras for a third term. Greece successfully issued a 10-year bond despite global turbulence. However, the housing crisis deepens: new data confirms Greece ranks 2nd in the EU for rent increases in 2025, with Athenians spending an entire monthly salary on rent alone.\n\nOn the domestic political front, the OPEKAPO agricultural subsidies scandal continues to dominate, with Minister Lazaridis under opposition fire but supported by the Prime Minister's office."
   },
   "top_topics": [
     {
-      "name": {"el": "Ανανέωση Στουρνάρα & Δημοσιονομική Επίδοση", "en": "Stournaras Renewal & Fiscal Outperformance"},
-      "description": {
-        "el": "Η κυβέρνηση ανακοινώνει την ανανέωση της θητείας του Διοικητή της Τράπεζας της Ελλάδος και αναμένεται να αποκαλύψει νέα υπέρβαση δημοσιονομικών στόχων με πρωτογενές πλεόνασμα 4,8-4,9% του ΑΕΠ.",
-        "en": "The government announces the renewal of Bank of Greece Governor Stournaras for a third term while preparing to reveal fiscal outperformance with a primary surplus of 4.8–4.9% of GDP for 2025."
+      "name": {
+        "el": "ΗΠΑ–Ιράν: Ελπίδες Συμφωνίας",
+        "en": "US-Iran: Hopes for a Deal"
       },
-      "related_items": ["ac121f5e4d7c", "606b1a4f2607"],
-      "importance": 90
+      "description": {
+        "el": "Ελπίδες για νέο γύρο διαπραγματεύσεων και συμφωνία-πλαίσιο, εν μέσω ναυτικού αποκλεισμού.",
+        "en": "Hopes for a new negotiating round and framework agreement, amid ongoing naval blockade."
+      },
+      "related_items": [
+        "71c439494dc1",
+        "068fd5496949",
+        "0dfa0a5dc0fd"
+      ],
+      "importance": 95
     },
     {
-      "name": {"el": "Στεγαστική Κρίση", "en": "Housing Crisis"},
-      "description": {
-        "el": "Νέα έρευνα αποκαλύπτει ότι τα ενοίκια στην Ελλάδα αντιστοιχούν πλέον σε ολόκληρο το μηνιαίο εισόδημα για ένα διαμέρισμα δύο υπνοδωματίων — δείκτης πολύ υψηλότερος από τον ευρωπαϊκό μέσο.",
-        "en": "New research reveals that rents in Greece now equal an entire monthly salary for a two-bedroom apartment — a ratio far above the EU average — as the housing crisis deepens."
+      "name": {
+        "el": "Οικονομία: Ομόλογο & Στουρνάρας",
+        "en": "Economy: Bond Issue & Stournaras"
       },
-      "related_items": ["9aa2c1a1f0e6", "ceb3ef837c61", "418fc27b8bb1"],
+      "description": {
+        "el": "Ελλάδα στις αγορές με 10ετές ομόλογο, ανανέωση Στουρνάρα, ΔΝΤ πρωταθλήτρια στο χρέος.",
+        "en": "Greece returns to markets with 10-year bond, Stournaras renewal proposed, IMF praises debt reduction."
+      },
+      "related_items": [
+        "5714a77116a2",
+        "0e1d56bea8d5",
+        "cd136b8e0e81"
+      ],
       "importance": 88
     },
     {
-      "name": {"el": "Ελλάδα-Γαλλία-Ουκρανία: Η Πίεση για τα Mirage", "en": "Greece-France-Ukraine: Mirage Jet Pressure"},
-      "description": {
-        "el": "Η Γαλλία εντείνει την πίεση προς την Αθήνα για τη μεταβίβαση των Mirage 2000-5 στην Ουκρανία, προσφέροντας Rafale σε εκπτωτική τιμή. Η Ελλάδα εξακολουθεί να αντιστέκεται.",
-        "en": "France is intensifying pressure on Greece to transfer its Mirage 2000-5 jets to Ukraine, offering a discounted Rafale deal. Athens continues to resist, citing national security needs."
+      "name": {
+        "el": "ΓΕΕΘΑ: Κυβερνοεπίθεση από Ρωσία",
+        "en": "GEETHA: Russian Cyberattack"
       },
-      "related_items": ["e69b8826cd57"],
+      "description": {
+        "el": "Το Γενικό Επιτελείο Εθνικής Άμυνας έπεσε θύμα χάκερ με ρωσικές συνδέσεις.",
+        "en": "Greece's defence headquarters targeted by Russia-linked hackers according to Reuters."
+      },
+      "related_items": [
+        "638317010f28"
+      ],
       "importance": 85
     },
     {
-      "name": {"el": "ΔΝΤ & Οικονομικές Προοπτικές 2026", "en": "IMF & Economic Outlook 2026"},
-      "description": {
-        "el": "Το ΔΝΤ προβλέπει ανάπτυξη 1,8% και πληθωρισμό 3,5% για το 2026, με μείωση ανεργίας στο 7,4% — αλλά με κινδύνους από τις διεθνείς εντάσεις.",
-        "en": "The IMF forecasts 1.8% growth and 3.5% inflation for Greece in 2026, with unemployment falling to 7.4%, though global risks from Middle East tensions and US tariffs remain elevated."
+      "name": {
+        "el": "Υπόθεση ΟΠΕΚΕΠΕ",
+        "en": "OPEKAPO Scandal"
       },
-      "related_items": ["259e7faafc12", "8fb6fd39775a"],
-      "importance": 82
+      "description": {
+        "el": "Η υπόθεση επιδοτήσεων ΟΠΕΚΕΠΕ συνεχίζει να αιματοκυλά την κυβέρνηση.",
+        "en": "The agricultural subsidies scandal continues to pressure the government, with new revelations daily."
+      },
+      "related_items": [
+        "316769c0b8a7",
+        "022520592539",
+        "461ad953988a",
+        "40a3e550d054"
+      ],
+      "importance": 80
     },
     {
-      "name": {"el": "Ελλάδα στη Σκιά του Τραμπ: Διπλωματική Ισορροπία", "en": "Greece Under Trump: Diplomatic Balancing Act"},
-      "description": {
-        "el": "Καθώς η δεύτερη θητεία Τραμπ μεσουρανεί, η Ελλάδα ισορροπεί μεταξύ της σχέσης με την Ουάσινγκτον, της ευρωπαϊκής δέσμευσης και των επιπτώσεων των αμερικανικών δασμών.",
-        "en": "As the second Trump administration reaches its mid-term, Greece walks a diplomatic tightrope between Washington, the EU, and the economic fallout of US tariffs on Greek exports."
+      "name": {
+        "el": "Στεγαστική Κρίση",
+        "en": "Housing Crisis"
       },
-      "related_items": ["4b530969d6b4", "65f712921ab9"],
-      "importance": 78
+      "description": {
+        "el": "Ελλάδα 2η στην ΕΕ σε αύξηση ενοικίων, Αθηναίοι δαπανούν ολόκληρο μηνιάτικο για ενοίκιο.",
+        "en": "Greece 2nd in EU for rent increases; Athenians spend entire monthly salary on rent."
+      },
+      "related_items": [
+        "858f20031370",
+        "189155985d96"
+      ],
+      "importance": 82
     }
   ],
   "categories": {
-    "economy": {
-      "item_count": 5,
+    "world": {
+      "item_count": 39,
       "themes": {
-        "el": ["Δημοσιονομική υπέρβαση", "Ανανέωση Στουρνάρα", "Προβλέψεις ΔΝΤ", "Κατώτατος μισθός", "Πακέτο ανακούφισης"],
-        "en": ["Fiscal outperformance", "Stournaras renewal", "IMF forecasts", "Minimum wage increase", "Relief package"]
+        "el": [
+          "ΗΠΑ",
+          "Ο πόλεμος στη Μέση Ανατολή «βο",
+          "Μέση Ανατολή"
+        ],
+        "en": []
       },
       "top_items": [
         {
-          "id": "ac121f5e4d7c",
-          "title": "Greece to Renew Bank of Greece Governor Stournaras for a Third Term",
-          "url": "https://greekreporter.com/2026/04/15/greece-renews-bank-greece-governor-stournaras-third-term/",
-          "author": "Tasos Kokkinidis",
-          "published": "2026-04-15T08:00:00+00:00",
-          "source": "Kathimerini / GreekReporter",
-          "source_type": "web",
-          "category": "economy",
+          "id": "71c439494dc1",
+          "title": "ΗΠΑ – Ιράν: Κοντά σε συμφωνία-πλαίσιο για τον τερματισμό του πολέμου",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNFpJRG90c1VCODl6a2d4cDg5N0dJUEJKWW1mNjJzQ2VJUE0zd2ZSY0xiR2g1WW5NWFdIVGpLcjdyQ3J5RHNNb3dNWnphcU5QOFFFQkhGdTZVVUY1anlvbXRGSnA0d3ZlSlVsLV9nLVpRZXZRQ2s4LXI4ZGpEVlJicEZvRURfNmRKWGVWMEdiNGNxa3MtZW1qZkljVWhMMVVBYmRId2hTaGFDWHZ6Y3c?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T14:53:47+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
+          "importance": 95,
+          "summary": {
+            "el": "Σύμφωνα με πληροφορίες, ΗΠΑ και Ιράν βρίσκονται κοντά σε συμφωνία-πλαίσιο για τον τερματισμό του πολέμου, με τις διαπραγματεύσεις να λαμβάνουν χώρα σε κλίμα προσεκτικής αισιοδοξίας. Παράλληλα, η Καθημερινή αναφέρει «ομίχλη» στα Στενά και στις πολύπλοκες γεωπολιτικές διαπραγματεύσεις.",
+            "en": "The US and Iran are reportedly close to a framework agreement to end the war, with negotiations proceeding amid cautious optimism. Kathimerini describes 'fog' in the Straits and in the complex geopolitical negotiations, as talks continue in Washington while Lebanon faces bombardment."
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "068fd5496949",
+          "title": "Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUG91aEg4UURlWWlSR0lrWW4xa2RPU1lET3NuSzZvb19yT185ejhDbExqbFVLOXBVS3dJcHhlbmotNXFQc2xLRE1aV3ZTMHNjc2NwdVVpdG9Pd0EwanNJZFV6RGh0b0stYVZwT1Fmc2ZCN0VCb2RFb0M3Zl96ZFR3MEpVTENQVXFHQjhKM3dKd2Nrajhoc3ZtNEFYYkhqRDA?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:28:21+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
           "importance": 90,
           "summary": {
-            "el": "Η ελληνική κυβέρνηση πρότεινε την ανανέωση της θητείας του Διοικητή της Τράπεζας της Ελλάδος Γιάννη Στουρνάρα για τρίτη συνεχόμενη φορά, καθιστώντας τον τον πρώτο Διοικητή που υπηρετεί τρεις συνεχόμενες θητείες από το 2014. Ο Στουρνάρας εκπροσωπεί επίσης την Ελλάδα στο Διοικητικό Συμβούλιο της Ευρωπαϊκής Κεντρικής Τράπεζας.",
-            "en": "The Greek government proposed renewing the term of Bank of Greece Governor Yannis Stournaras for a third consecutive term, making him the first central banker to serve three consecutive terms since he took office in 2014. Stournaras, 70, also represents Greece on the Governing Council of the European Central Bank."
+            "el": "Άρθρο της Καθημερινής: Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands",
+            "en": "Kathimerini article: Ο πόλεμος στη Μέση Ανατολή «βούλιαξε» τα πολυτελή brands"
           },
           "tags": {
-            "el": ["Τράπεζα Ελλάδος", "Στουρνάρας", "κεντρική τράπεζα", "οικονομία"],
-            "en": ["Bank of Greece", "Stournaras", "central bank", "economy"]
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
           },
           "sentiment": "neutral"
         },
         {
-          "id": "606b1a4f2607",
-          "title": "Greece Is Set to Reveal Yet More Outperformance on Budget Goals",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-15/greece-is-set-to-reveal-yet-more-outperformance-on-budget-goals",
-          "author": "Bloomberg",
-          "published": "2026-04-15T09:00:00+00:00",
-          "source": "Bloomberg",
-          "source_type": "web",
-          "category": "economy",
+          "id": "0dfa0a5dc0fd",
+          "title": "Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEoyazl6WTVVeTZFYld4Z1lZMEM1ZTBUUzIwT1RmU1BCV0VJUUVTNTRmUEJEbEVRVEtTSHpXWEZ3eUdXX0twazZ0SFM5TmlNbWRSODNWaEtXRVRITlh2YnZwRklnakdFWG9LSVVFdF9fTks0cF9KMXB4M1prMms2eVlmQ1I4MGgzX0hGQW9pMGFkN2VWM2t0YXluQUNpNldFWkZTX2hhNFBPQUl4clJj?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T05:21:44+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
+          "importance": 90,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν",
+            "en": "Kathimerini article: Μέση Ανατολή – Live: «Παράθυρο» για νέο γύρο διαπραγματεύσεων HΠΑ – Ιράν"
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1070c34bb95c",
+          "title": "Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3NyOTJqUFZKa2o0SUlZV001RXdMMXBrTHg0NnVvTkhSc3phWWd3YTJ2MXJfWG9mY20wNmQwaFViVXJjOFdDOTJJUnR6YzQ1ODVzYVFMTE5QTzhMbFlMS2k2aURLSkFUUGF4eEM1VTctZFVITGJqb3IyQkh3bTA3SmFZd21GaFBobEs1ZjRTUGc4eVBFQ0hr?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:09:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
           "importance": 88,
           "summary": {
-            "el": "Η Ελλάδα αναμένεται να ανακοινώσει νέα υπέρβαση των δημοσιονομικών της στόχων, με το πρωτογενές πλεόνασμα για το 2025 να εκτιμάται στο 4,8-4,9% του ΑΕΠ — σημαντικά πάνω από τον αρχικό στόχο 3,7%. Το μεγαλύτερο μέρος της υπέρβασης αποδίδεται στην εντατικοποίηση της καταπολέμησης της φοροδιαφυγής.",
-            "en": "Greece is set to announce another outperformance on its key fiscal metrics, with the primary budget surplus for 2025 expected to come in at around 4.8–4.9% of GDP, well above the 3.7% forecast. Much of the surplus is attributed to intensified action against tax evasion, which brought approximately €2.2 billion in additional revenues."
+            "el": "Άρθρο της Καθημερινής: Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+            "en": "Kathimerini article: Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ"
           },
           "tags": {
-            "el": ["δημοσιονομικό πλεόνασμα", "ΑΕΠ", "φοροδιαφυγή", "προϋπολογισμός"],
-            "en": ["fiscal surplus", "GDP", "tax evasion", "budget"]
-          },
-          "sentiment": "positive"
-        },
-        {
-          "id": "259e7faafc12",
-          "title": "IMF Foresees 1.8% Growth, 3.5% Inflation in Greece in 2026",
-          "url": "https://www.keeptalkinggreece.com/2026/04/14/imf-outlook-report-growth-inflation-greece-2026/",
-          "author": "Keep Talking Greece",
-          "published": "2026-04-14T10:00:00+00:00",
-          "source": "Keep Talking Greece",
-          "source_type": "web",
-          "category": "economy",
-          "importance": 82,
-          "summary": {
-            "el": "Το Διεθνές Νομισματικό Ταμείο προβλέπει ανάπτυξη 1,8% για την ελληνική οικονομία το 2026, με πληθωρισμό 3,5% και μείωση ανεργίας από 8,9% σε 7,4%. Οι προβλέψεις αντικατοπτρίζουν πιέσεις από τις εντάσεις στη Μέση Ανατολή και τα αμερικανικά δασμολόγια.",
-            "en": "The IMF forecasts 1.8% economic growth for Greece in 2026, with inflation rising to 3.5% and unemployment falling from 8.9% to 7.4%. The projections reflect downward pressure from Middle East tensions and US tariff policies, which are weighing on tourism and agricultural exports."
-          },
-          "tags": {
-            "el": ["ΔΝΤ", "ανάπτυξη", "πληθωρισμός", "ανεργία"],
-            "en": ["IMF", "growth", "inflation", "unemployment"]
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
           },
           "sentiment": "neutral"
         },
         {
-          "id": "255256c4dde4",
-          "title": "Greek Government Rolls Out €300M Relief Plan Amid Middle East Fuel Crisis",
-          "url": "https://greekreporter.com/2026/03/23/greece-relief-plan-middle-east-fuel-crisis/",
-          "author": "GreekReporter",
-          "published": "2026-03-23T09:00:00+00:00",
-          "source": "GreekReporter",
-          "source_type": "web",
-          "category": "economy",
-          "importance": 75,
-          "summary": {
-            "el": "Η ελληνική κυβέρνηση ανακοίνωσε πακέτο ανακούφισης ύψους 300 εκατ. ευρώ για την προστασία νοικοκυριών και επιχειρήσεων από τις οικονομικές επιπτώσεις της κρίσης καυσίμων λόγω των εντάσεων στη Μέση Ανατολή. Το πακέτο παρουσιάστηκε προσωπικά από τον Πρωθυπουργό Κυριάκο Μητσοτάκη.",
-            "en": "The Greek government announced a €300 million relief package to shield households and businesses from the economic fallout of the fuel crisis triggered by Middle East tensions. The package was personally presented by Prime Minister Kyriakos Mitsotakis and includes subsidies for energy-intensive sectors."
-          },
-          "tags": {
-            "el": ["ανακούφιση", "καύσιμα", "Μέση Ανατολή", "Μητσοτάκης", "ενέργεια"],
-            "en": ["relief", "fuel", "Middle East", "Mitsotakis", "energy"]
-          },
-          "sentiment": "positive"
-        },
-        {
-          "id": "min_wage_2026",
-          "title": "Greece Monthly Minimum Wage Rises to €920 from April 1, 2026",
-          "url": "https://www.keeptalkinggreece.com/",
-          "author": "Keep Talking Greece",
-          "published": "2026-04-01T00:00:00+00:00",
-          "source": "Keep Talking Greece",
-          "source_type": "web",
-          "category": "economy",
-          "importance": 70,
-          "summary": {
-            "el": "Ο κατώτατος μισθός στην Ελλάδα αυξήθηκε σε 920 ευρώ μηνιαίως από την 1η Απριλίου 2026, σηματοδοτώντας την έκτη αύξηση του κατώτατου μισθού από το 2019. Η αύξηση αποσκοπεί στη στήριξη των εργαζομένων εν μέσω αυξημένου πληθωρισμού.",
-            "en": "Greece's monthly minimum wage increased to €920 from April 1, 2026, marking the sixth minimum wage increase since 2019. The adjustment aims to support workers amid elevated inflation, though economists note it remains below the cost of living in major urban centers."
-          },
-          "tags": {
-            "el": ["κατώτατος μισθός", "εργασία", "εισόδημα"],
-            "en": ["minimum wage", "labor", "income"]
-          },
-          "sentiment": "positive"
-        }
-      ]
-    },
-    "society": {
-      "item_count": 3,
-      "themes": {
-        "el": ["Στεγαστική κρίση", "Ενοίκια", "Υγεία και νομοθεσία"],
-        "en": ["Housing crisis", "Rents", "Health legislation"]
-      },
-      "top_items": [
-        {
-          "id": "9aa2c1a1f0e6",
-          "title": "Rent Crisis in Greece: An Entire Monthly Salary for a Two-Bedroom Apartment",
-          "url": "https://greekreporter.com/2026/04/15/rent-crisis-greece-entire-monthly-salary-two-bedroom-apartment/",
-          "author": "Tasos Kokkinidis",
-          "published": "2026-04-15T07:00:00+00:00",
-          "source": "GreekReporter",
-          "source_type": "web",
-          "category": "society",
+          "id": "f3e405a93bf1",
+          "title": "Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1RpVklUbElXa2lrdnhhRHJZN0xHSWF3eGNVS2Jzc043RFV6bFc1VFhwZkJucGZUbHBrZ3F0emZla0lOdmN4dF9MU1NhMUpFVzlDeXJVcHJYaWowTVBXbGhqaEhSanZ6ejFMOWVUaGxMS18yYTRNajRKQVVkU0FmYW5VU2xEY2tLWmFzd3hRRWQzSGRobWIwU0ZrRDVDZW1mdXNFT3NZMXRPcmZaOW9VZVAtZzh0QUZlcEs2djJKY2lvSEdJUlE?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:23:26+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
           "importance": 88,
           "summary": {
-            "el": "Νέα μελέτη του Κέντρου Φιλελεύθερων Μελετών (ΚΕΦιΜ) αποκαλύπτει ότι η αναλογία ενοικίου-εισοδήματος για διαμέρισμα δύο υπνοδωματίων στην Αττική έχει φτάσει στο 93,6%, έναντι ευρωπαϊκού μέσου 46%. Για ένα διαμέρισμα ενός υπνοδωματίου, η αναλογία είναι 70,2%. Οι αιτίες περιλαμβάνουν περιορισμένη νέα κατοικία, χρυσές βίζες και κενές ιδιοκτησίες.",
-            "en": "A new study by the Center for Liberal Studies (KEFiM) reveals that the rent-to-income ratio for a two-bedroom apartment in the Attica region has reached 93.6%, compared to an EU average of 46%. For a one-bedroom apartment, the ratio stands at 70.2%. The crisis is driven by limited new construction, the Golden Visa program, and vacant properties kept off the market."
+            "el": "Άρθρο της Καθημερινής: Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά",
+            "en": "Kathimerini article: Τραμπ: Ανοίγω τα Στενά του Ορμούζ για την Κίνα – Ο Σι θα μου κάνει μια μεγάλη αγκαλιά"
           },
           "tags": {
-            "el": ["ενοίκια", "στέγαση", "κρίση", "Αττική", "ΚΕΦιΜ"],
-            "en": ["rents", "housing", "crisis", "Attica", "KEFiM"]
-          },
-          "sentiment": "negative"
-        },
-        {
-          "id": "ceb3ef837c61",
-          "title": "Inside Greece's New Housing Plan: Winners, Losers and Risks",
-          "url": "https://www.tovima.com/finance/inside-greeces-new-housing-plan-winners-losers-and-risks/",
-          "author": "To Vima",
-          "published": "2026-04-10T09:00:00+00:00",
-          "source": "To Vima",
-          "source_type": "web",
-          "category": "society",
-          "importance": 78,
-          "summary": {
-            "el": "Ανάλυση του νέου κυβερνητικού σχεδίου για τη στέγαση αποτυπώνει ποιοι θα ωφεληθούν και ποιοι θα επιβαρυνθούν από τα μέτρα, επισημαίνοντας παράλληλα τους κινδύνους εφαρμογής. Οικονομολόγοι εκφράζουν επιφυλακτικότητα για την αποτελεσματικότητα.",
-            "en": "An analysis of the Greek government's new housing plan breaks down who benefits and who loses under the proposed measures, while flagging implementation risks. Economists remain skeptical about the plan's effectiveness in meaningfully reducing rent levels in the short term."
-          },
-          "tags": {
-            "el": ["κατοικία", "κυβερνητικό σχέδιο", "ενοίκια", "αγορά ακινήτων"],
-            "en": ["housing", "government plan", "rents", "real estate"]
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
           },
           "sentiment": "neutral"
         },
         {
-          "id": "health_cannabis_2026",
-          "title": "Greece Opens Consultation on New Cannabis and Tobacco Control Legislation",
-          "url": "https://www.keeptalkinggreece.com/",
-          "author": "Keep Talking Greece",
-          "published": "2026-04-12T10:00:00+00:00",
-          "source": "Keep Talking Greece",
-          "source_type": "web",
-          "category": "society",
-          "importance": 65,
+          "id": "639f1edc49c5",
+          "title": "FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHhBNThjSTNrUjJFdmp0QXltamhGcmF6R1c3X2tUZ3Vaa00tUXlKZHJrZ19JeTdwemRtTzlXdWNkSFhUNWtTbWkyb3hXQ21vR1Y3Y1c4RS1DMXFVZFNVaEVKOWozWGMxM0pBMlRGSnVoVTZPSmwzNUJBdGpFaWNQeHJDc3NiOHlYdFQ5MUxjWlBodDZSQjlBWUIzd1l0bVktT3F5UjRCX3pUUVh1akxFOFJ5UWh0ejg?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T04:55:04+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
+          "importance": 87,
           "summary": {
-            "el": "Το υπουργείο Υγείας άνοιξε δημόσια διαβούλευση για νομοσχέδιο που θα αυστηροποιεί τους ελέγχους σε κάνναβη, νικοτίνη και καπνικά προϊόντα, ενώ προωθεί ευρύτερες μεταρρυθμίσεις στο σύστημα υγείας, συμπεριλαμβανομένου νέου ταμείου για καινοτόμα φάρμακα.",
-            "en": "Greece's Health Ministry opened a public consultation on draft legislation that would tighten controls on cannabis, nicotine, and tobacco products, while also advancing broader healthcare reforms including a new fund for innovative medicines and a restructuring of primary care services."
+            "el": "Άρθρο της Καθημερινής: FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ",
+            "en": "Kathimerini article: FT: Το Ιράν χρησιμοποίησε κινεζικό δορυφόρο για να πλήξει βάσεις των ΗΠΑ"
           },
           "tags": {
-            "el": ["υγεία", "κάνναβη", "καπνός", "νομοθεσία"],
-            "en": ["health", "cannabis", "tobacco", "legislation"]
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
           },
           "sentiment": "neutral"
-        }
-      ]
-    },
-    "world": {
-      "item_count": 3,
-      "themes": {
-        "el": ["Mirage-Ουκρανία", "Τραμπ και Ελλάδα", "Δασμοί ΗΠΑ"],
-        "en": ["Mirage-Ukraine", "Trump and Greece", "US tariffs"]
-      },
-      "top_items": [
+        },
         {
-          "id": "e69b8826cd57",
-          "title": "France Pressures Greece on Mirage 2000-5 Transfer to Ukraine With Rafale Discount Deal",
-          "url": "https://en.defence-ua.com/news/france_pressures_greece_on_mirage_2000_5_transfer_to_ukraine_with_rafale_discount_deal_athens_still_resists-18115.html",
-          "author": "Defense Express",
-          "published": "2026-04-10T12:00:00+00:00",
-          "source": "Defense Express / Kathimerini",
-          "source_type": "web",
+          "id": "5b72fdf05ef4",
+          "title": "Τραμπ κατά Πάουελ: «Θα χρειαστεί να τον απολύσω αν δεν φύγει εγκαίρως»",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU1wYXhXSnVSQWVENkJ0cjlYaDZ0cnM5WTk2VTR2RGNqdEN4eEVYWW11OHZ0U2lSVGhpYTUyb0VEYlVhRFNzbUVjU3dMaG5abDY1M3EyVXdMa0dLcmgyOUtYcG82dFk2bjM4QzI5YWh6RTBiUTJsUWpVaUdpQmpCM05HMGphNGpseXViWXhUVFYyeWhaUUJvWjN6OFgxMlVLUmNuZmUxLWM3OHhkVE5EVmtvNA?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:15:49+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "world",
+          "importance": 86,
+          "summary": {
+            "el": "Ο Τραμπ εκδήλωσε δημόσια τη δυσαρέσκειά του προς τον πρόεδρο της Fed Τζερόμ Πάουελ, με δηλώσεις που εκνευρίζουν τις αγορές.",
+            "en": "Trump publicly attacked Fed Chair Jerome Powell, threatening to fire him if he doesn't lower rates, rattling global financial markets."
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "638317010f28",
+          "title": "Reuters: Το ΓΕΕΘΑ στόχος χάκερ που συνδέονται με τη Ρωσία",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzh5WjZ3dnhKR3FzREljNHhMejFFLVFvcEpBa1ZyMG8xV05nMkdnelFfZlZVVlUxSDdGYXhLTGFoWDFSSnRNQUpmSWd6YmJCWFhTckVhRklnS1ZFR3h6T2xqX2lwdzFQREw4Sk1XR1NTSjF4Rlc4RFktM1VleUVGYmQzby1TVmZqUzFEY2lMRFI3OXc?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T18:20:52+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
           "category": "world",
           "importance": 85,
           "summary": {
-            "el": "Η Γαλλία εντείνει την πίεση προς την Ελλάδα για τη μεταβίβαση των Mirage 2000-5 στην Ουκρανία, προσφέροντας Rafale σε εκπτωτική τιμή ως αντάλλαγμα. Η Αθήνα εξακολουθεί να αντιστέκεται, επικαλούμενη ότι τα αεροσκάφη παραμένουν ζωτικής σημασίας για την εθνική αεράμυνα έως ότου παραδοθεί ικανός αριθμός Rafale. Η σύμβαση συντήρησης των Mirage λήγει το 2027.",
-            "en": "France is intensifying pressure on Greece to transfer its Mirage 2000-5 fleet to Ukraine, offering a discount on additional Rafale jets as an incentive. Athens continues to resist, arguing the aircraft remain vital to national air defense until the Rafale transition is complete. The Mirage maintenance contract expires in 2027, adding urgency to the issue."
+            "el": "Σύμφωνα με το Reuters, το Γενικό Επιτελείο Εθνικής Άμυνας (ΓΕΕΘΑ) έπεσε θύμα κυβερνοεπίθεσης από χάκερ που συνδέονται με τη Ρωσία, εγείροντας σοβαρά ζητήματα εθνικής ασφάλειας.",
+            "en": "According to Reuters, Greece's National Defence General Staff (GEETHA) was targeted by hackers linked to Russia, raising serious national security concerns."
           },
           "tags": {
-            "el": ["Mirage 2000-5", "Ουκρανία", "Γαλλία", "άμυνα", "Rafale"],
-            "en": ["Mirage 2000-5", "Ukraine", "France", "defense", "Rafale"]
+            "el": [
+              "διεθνή",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "international",
+              "geopolitics"
+            ]
           },
           "sentiment": "neutral"
-        },
-        {
-          "id": "4b530969d6b4",
-          "title": "The Second Trump Era: Has it Strengthened or Weakened Greece?",
-          "url": "https://greekreporter.com/2026/04/14/trump-era-strengthened-or-weakened-greece/",
-          "author": "GreekReporter",
-          "published": "2026-04-14T08:00:00+00:00",
-          "source": "GreekReporter",
-          "source_type": "web",
-          "category": "world",
-          "importance": 78,
-          "summary": {
-            "el": "Καθώς η δεύτερη προεδρία Τραμπ συμπληρώνει τους πρώτους μήνες της, η Ελλάδα βρίσκεται σε διπλωματικό δίλημμα: η στρατιωτική συνεργασία με τις ΗΠΑ βρίσκεται σε ιστορικά υψηλά επίπεδα, αλλά οι αμερικανικές πιέσεις για δασμούς και η ανησυχία για την Τουρκία δημιουργούν νέες προκλήσεις.",
-            "en": "As the second Trump presidency passes its mid-term mark, Greece navigates a complex diplomatic landscape: military ties with the US are at historic highs, with Greek defense spending reaching nearly 4% of GDP, but US tariff pressure on Greek agricultural exports and the pivot toward Turkey as a strategic partner create new challenges for Athens."
-          },
-          "tags": {
-            "el": ["Τραμπ", "ΗΠΑ", "εξωτερική πολιτική", "ΝΑΤΟ", "Τουρκία"],
-            "en": ["Trump", "USA", "foreign policy", "NATO", "Turkey"]
-          },
-          "sentiment": "neutral"
-        },
-        {
-          "id": "65f712921ab9",
-          "title": "How Trump's Tariffs Affect Greece's Economy and Trade",
-          "url": "https://www.macropolis.gr/?i=portal.en.the-agora.15381",
-          "author": "Macropolis",
-          "published": "2026-04-08T10:00:00+00:00",
-          "source": "Macropolis",
-          "source_type": "web",
-          "category": "world",
-          "importance": 72,
-          "summary": {
-            "el": "Ανάλυση των επιπτώσεων των αμερικανικών δασμών Τραμπ στην ελληνική οικονομία δείχνει ότι οι ελληνικές αγροτικές εξαγωγές αντιμετωπίζουν σημαντικές προκλήσεις στη διαπραγμάτευση αμερικανικής αγοράς. Η Αθήνα πρέπει να πλοηγηθεί με προσοχή στον εμπορικό πόλεμο ΗΠΑ-ΕΕ.",
-            "en": "An analysis of the impact of Trump's tariffs on Greece reveals that Greek agricultural exports — a cornerstone of the regional economy — face significant headwinds in US markets. Athens must carefully navigate the US-EU trade dispute while preserving its strong bilateral ties with Washington."
-          },
-          "tags": {
-            "el": ["δασμοί", "εμπόριο", "ΗΠΑ", "αγροτικά προϊόντα", "ΕΕ"],
-            "en": ["tariffs", "trade", "USA", "agricultural exports", "EU"]
-          },
-          "sentiment": "negative"
         }
       ]
     },
     "politics": {
-      "item_count": 2,
+      "item_count": 16,
       "themes": {
-        "el": ["Άμυνα και προϋπολογισμός", "Αντιπολίτευση και εκλογικές δυνάμεις"],
-        "en": ["Defense spending and budget", "Opposition and electoral dynamics"]
+        "el": [
+          "ΟΠΕΚΕΠΕ",
+          "Τα επόμενα βήματα για την υπόθ",
+          "Υπόθεση ΟΠΕΚΕΠΕ"
+        ],
+        "en": []
       },
       "top_items": [
         {
-          "id": "8fb6fd39775a",
-          "title": "Greece 2026: External Shocks Risk Derailing Fragile Economic Revival",
-          "url": "https://balkaninsight.com/2026/01/05/greece-2026-external-shocks-rask-derailing-fragile-economic-revival/",
-          "author": "Balkan Insight",
-          "published": "2026-01-05T09:00:00+00:00",
-          "source": "Balkan Insight",
-          "source_type": "web",
+          "id": "316769c0b8a7",
+          "title": "ΟΠΕΚΕΠΕ: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0JLT1ZnanRBbklOODZkS0J6ZFRha3Q3UUpTSjk2Z1lMZU1pR0NNQVV3NzJ1Uy1DY3JzYlNtLXFmR3gyYmQ5YTdDRFhyQm9XYUdUekF1M1d0Z1ppUWM3NnBlaU9OZkFvWlZqVXB4NWlUZFFkZmwyeHJFOXhfbzhHcEhfNWdoY2t6RDVsSmxQRlBINER2MnBlNnVvYm9BNkVlZjRIYVRib0N4akdNM0lNcQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T12:48:22+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
           "category": "politics",
-          "importance": 72,
+          "importance": 80,
           "summary": {
-            "el": "Ανάλυση αποτυπώνει πώς οι εξωτερικές πιέσεις — εμπορικές εντάσεις, κρίση καυσίμων, μείωση ευρωπαϊκών κεφαλαίων — ενδέχεται να διαταράξουν την οικονομική ανάκαμψη της Ελλάδας, επηρεάζοντας και τη δημοτικότητα της κυβέρνησης Μητσοτάκη.",
-            "en": "An analysis examines how external pressures — trade tensions, the fuel crisis, and tapering EU Recovery Fund inflows — risk undermining Greece's economic revival, with potential political consequences for the Mitsotakis government heading into the latter part of its term."
+            "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+            "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
           },
           "tags": {
-            "el": ["Μητσοτάκης", "πολιτική", "οικονομία", "ΕΕ", "ΤΑΑ"],
-            "en": ["Mitsotakis", "politics", "economy", "EU", "RRF"]
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
           },
           "sentiment": "neutral"
         },
         {
-          "id": "b361338961b6",
-          "title": "Greece 2026: Can the Opposition Challenge Mitsotakis' Hegemony?",
-          "url": "https://greekreporter.com/2025/12/29/greece-2026-mitsotakis-hegemony-opposition-weak/",
-          "author": "GreekReporter",
-          "published": "2025-12-29T10:00:00+00:00",
-          "source": "GreekReporter",
-          "source_type": "web",
+          "id": "022520592539",
+          "title": "Τα επόμενα βήματα για την υπόθεση του ΟΠΕΚΕΠΕ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0JiUnJuMTZJUlk5RVNvODNZOFM4dnlJWGRqSERERXNOLTBkRXZiS0JKTDgzRDFDcWJZYmZENldsMDBlOE9jWEoxaGd5b2NqTU5xTDJNODZWS0xtMWFHeGRzellGOTl4WDhXWE9oWC1Bcm56Z3FZekFNcXFPcHpqTVExMUs4VHFLSUVscDVvazZneVAxYUxFRWZGQkZNWG5UaGtoUkpsNA?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T07:35:51+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
           "category": "politics",
-          "importance": 65,
+          "importance": 80,
           "summary": {
-            "el": "Αν και η δημοτικότητα Μητσοτάκη έχει υποχωρήσει λόγω σκανδάλων (Predator, Τέμπη, Golden Dawn), η αντιπολίτευση παραμένει αδύναμη. Η ΝΔ διατηρεί σημαντικό προβάδισμα στις δημοσκοπήσεις για το 2026.",
-            "en": "Despite a drop in Mitsotakis's polling numbers due to the Predator spyware scandal, the Tempi rail disaster, and rising living costs, the Greek opposition remains fragmented and weak. The ruling New Democracy party maintains a commanding lead heading into 2026."
+            "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+            "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
           },
           "tags": {
-            "el": ["Μητσοτάκης", "αντιπολίτευση", "ΝΔ", "δημοσκοπήσεις"],
-            "en": ["Mitsotakis", "opposition", "New Democracy", "polls"]
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "461ad953988a",
+          "title": "Υπόθεση ΟΠΕΚΕΠΕ: «Θα γίνει κάτω από το τραπέζι»",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUFBUjJHY1hfUmV0eG9XVFlUajBqVHJMSTNnSVRHc01KcTREUFQ1LVZMQS1mRUU2Y0M0a3c2TmFwVjdmMzBYaUVxelVnaU00dXR6MGt2M1BkUG9qcXZSYUtxbkJqZVBXSVh0RXh0ZWJhVFhJZTREQ0lJMGZRX3ZFcC0zdXlNNXJad2I4M1FMS1htUXhKTkN4SEl6U2J2M0R3czhj?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T04:29:51+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 80,
+          "summary": {
+            "el": "Η υπόθεση ΟΠΕΚΕΠΕ συνεχίζει να απασχολεί την πολιτική σκηνή, με τον υπουργό Μακάριο Λαζαρίδη να δέχεται πυρά από την αντιπολίτευση, ενώ το Μαξίμου εμφανίζεται να τον στηρίζει. Νέα αποκάλυψη: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές.",
+            "en": "The OPEKAPO scandal continues to dominate political news, with Minister Lazaridis facing opposition fire while the Prime Minister's office supports him. A new revelation emerged: a 71-year-old was sending fraudulent invoices from inside prison."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "40a3e550d054",
+          "title": "Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjY0RFN2R1V2E0Zy02LVAwVG8wYW5POXctZGpDN1VkZ1ZaYW9LdlFHR3AxZUxJdmxXYUxYN1lpSUw5Z19SbUdUb19OTW9mc1c4X01HWE9VYWVZT25JSmVhOWY5U0s3VEwtTUVmTkY0VFVrZEZseFRMcXZ6UVo?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T11:20:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 78,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ",
+            "en": "Kathimerini article: Μακάριος Λαζαρίδης: Τον στηρίζει το Μαξίμου - ΤΑ ΝΕΑ"
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0487decb1666",
+          "title": "Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2RtM1FNQ1RWRjgwVVFfYWJkUVU4UkZFUWtDZ3dmNm5oYk9LRDZTZEZyaERjMFYwQlNPX2hoRDRUMnU1RkhpWXEzQ3RmQThMd3RISmt5TjJhTHZXeENBVXFWeFo2T1g1d3Rab0kyTkZJdzBubHRnWlZ0NWFSYkhvS3MxUVBIMmt3UkV2OEpsejBXdmlOVHFOVWx2Y21UVk95UERWMU4ybHlRX1NiSmhLZXd1d2hERWtOS01nQWh3?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T07:08:03+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 72,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς",
+            "en": "Kathimerini article: Ο προσανατολισμός Τσίπρα και το «παιχνίδι» στον χώρο της Αριστεράς"
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f44305a8fe02",
+          "title": "Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέα - Μακεδονικό Πρακτορείο Ειδήσεων",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHg3Y3VZUzM5ZTdlMGc2eGF4eVAtcEFJTUJjc1k5RTUzenlnal9vMHBfTFMwZ2pNME5fYkhLUlktQzRBNV9tV2R0NGdEMmUyYlpNMmNscXN5MXdrS04wcjNEN3pzalFFUFRka1ZXYm1CVGlhQ25IS25WbWFRRDRFemMtRnpPMVZ5MEkyRXAyYnJwc0dSWWoyNld4dkZvN1g5RWFJN1Nnd1lKTk9fOE9BSmRvLUV5SWxicFotTUtjUFFDaHFnaEJNZkxQRjFUcGdMOFFOOUtWRTQzeXhIWDFFX0VJaVE0ZjE1V2tQWW9xQjJCc2lF?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:10:54+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέ",
+            "en": "Kathimerini article: Συναντήσεις Μ. Σχοινά με Ευρωπαίους Επιτρόπους - Στόχος νέο κεφάλαιο εμπιστοσύνης με τις Βρυξέλλες για τον αγροτικό τομέ"
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "eb08d18a8a65",
+          "title": "Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlJiVEwwam40LW4tSl82T2ZzeFdRLXNhTTJiVUpqeEZYeWR6clZXbk5peDRPRmVPN2ZWUWZmSzNfRDVQMkZpVHpDdW9uTkpsSE96RmtWQnhWbDhNQlFVeXI2aVlaS2R2TFp0RndzeW9rNXFBcWxVVjZ2aE5mWnFQQ3NZeThWbWcyamZVcE1VZWlvUWE5eDEwQWhTbGNQYk1P?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T16:05:05+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση",
+            "en": "Kathimerini article: Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση"
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "247d7d38c5f9",
+          "title": "Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmlYNjl5bEdRZlVRYkNqbzRPTnlubU9DLTlRWVhEcHJNLXc2MjlRT0dFUkFuS2RtbGxuc3duR3Z0VjdmYVVMWmNlM25MTWFRX2VZZVg4RGtWeGxiSEZtVDFWV0pGdU0wTXl6YmdFMWJHUkdaQ2lxQ1d6T241RW5Ra2JYT3c?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T15:49:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "politics",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ",
+            "en": "Kathimerini article: Ελλάδα – Τουρκία: Τι έρχεται; - ΤΑ ΝΕΑ"
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 16,
+      "themes": {
+        "el": [
+          "Ανανέωση θητείας Στουρνάρα στη",
+          "Στις αγορές η Ελλάδα",
+          "Ελλάδα vs Ιταλία"
+        ],
+        "en": []
+      },
+      "top_items": [
+        {
+          "id": "5714a77116a2",
+          "title": "Ανανέωση θητείας Στουρνάρα στην ΤτΕ προτείνει η κυβέρνηση",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX19lSW9SbWI5eGt4RHczcUFKZlFDYlBIUUNNa1F0UGo5RWg2ZEZKakpEMmZnUFI4b091czJ6bGJaRERmc3FuSjdNbkRiTUxnUDYxZk8tT0ZPY3NXMkJZdzNHRFNjUlNxSzZycjA0d0pzRVJ0RVZ6cmJPbFUxRk5CYktUd1RnNjBSVXNyQlNjR3N1WHpqQTZIVVJTdUhMQ0xJRGZ3MTdiVXM?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T08:46:39+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 88,
+          "summary": {
+            "el": "Η κυβέρνηση προτείνει την ανανέωση της θητείας του Γιάννη Στουρνάρα στην Τράπεζα της Ελλάδος για τρίτη συνεχόμενη θητεία, τεκμηριώνοντας τη συνέχεια στη νομισματική πολιτική.",
+            "en": "The Greek government proposes renewing Yannis Stournaras's term at the Bank of Greece for a third consecutive term, underlining continuity in monetary policy."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0e1d56bea8d5",
+          "title": "Στις αγορές η Ελλάδα: Νέα έξοδος με 10ετές ομόλογο εν μέσω αναταράξεων - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxNVWxxMTBMZXJHUm10eXVCLUFmek9wR21qYlBMR1dXN0dYR3hHaEowaWFqbmttd25hQXVfbTdlQWNUc0taOTU5TXJPMjVhcGNJR3EwVzJxNzlza2l3c3A0eEFYZ3RyQ3A3bzE1cFlFVVlGOVhYMEcyZnF3U3FrQmJEbFlYZTRHUXVoMEpoaVF6cWpDaEZ4WjF3RUxHN0c5WFZoWnZUdUpDZTBZdHJfUlhWZVp2VE53UENVYkVOdWhGRnVLYTdBdDJTWnRjZGdTTXl3MllEY3p6VXkzNTFzbmRTZmM3cjhkdDBtNm4zYm5TS3RnM2hRQ21KU2NNZ3ZaUlVBbTdUTkJ4NUplUGJyUVNVcWI1OG9QWmdEeEF6b1VuMTEtWkpkcUJQaVJFUHpTdlNma0JtNmJfWTBoNUo2QWROWnp5TmpFTUdEZXgxNmtnZTd2SWR4aEVjUElMbWZkZnFjdk5USmlWa0ZlWmRrcVg4d1l5R2NUd3pXS21IeVJzVkhXM2xkbi00Q3p2TllXaWxxLXJNYXlvcmNBaktXM2MtbXZhUGgzcENTTGxoS2hLNmhsSUxiRW4tN2ZNMTFiUzdXaWlmY0ViaEFpRXNDdTVULUdCS21Tel9qWVdTMVJoazNTSzFkcUhSSXNUU1FJNWZiMmZUdFJRdGFuSGZEUkw0bk55bmtIWUxDQlY5XzBEd21nYldEdTFCakd3N2tLS1U5a0hjRUVXRHZ1Y3NDQkhsanhxYlhwNGZKVl9YRldfSjVlNkN2c1lRQ0Z4d04wUXlOWGV2SS1KVW81RUgwb2FLcGlDbWZzVktwUXhyMWhZVkI?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-14T23:59:32+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 85,
+          "summary": {
+            "el": "Η Ελλάδα πραγματοποίησε νέα επιτυχημένη έξοδο στις αγορές με έκδοση 10ετούς ομολόγου, εν μέσω διεθνών αναταράξεων.",
+            "en": "Greece successfully returned to bond markets with a new 10-year bond issue, demonstrating sustained investor confidence despite international turbulence."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "cd136b8e0e81",
+          "title": "Ελλάδα vs Ιταλία: Ποιος κερδίζει τη μάχη του χρέους το 2026 σύμφωνα με το ΔΝΤ; - ΤΟ ΒΗΜΑ",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkdkaG9Oc1RNeVJDTFhwYVVYZmlJalhyRVQyajMtYl9BaVlkUk1mWjdHV2VhbFh0LXRSQ2JCcW9STXUzdlZYaHQwOENrVFZyV24za0FFV0xnMWpBeTlnQTRZYnZ1bzd4bWlGNGtpeTM1ODMtcmlGc1dPUVUwREw3cndaUUpONEhTYUpkZ2R2LWoyNjRoaE5zaUc5dnRLajBOaE85YVd1TE0weEhZdWhGaF9OOF9kTzd1SmfSAb8BQVVfeXFMTlBNRUVYdTdxa2g1Z1I2bHUtUFZFT215UWtWQlE5blpweTJsdFMyME11bDhqQlZYdTlTMmtlQ2I4ZFZDeThkaExXMzIxOEdLY1RPaE9ESUI4MjRLbkdRRUtna0xkVHVhMW51MEl6U0R1UFpYVGhzcGllaXpYMzc5eC16cjZReUx4bV91YU5iOC1kWU1DY01aTDFTWkxWSXNRdTQxejNmd0RCZGZLMUpyaXlKU0pqN2prTkZZNlkyQlU?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:27:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 84,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ελλάδα vs Ιταλία: Ποιος κερδίζει τη μάχη του χρέους το 2026 σύμφωνα με το ΔΝΤ; - ΤΟ ΒΗΜΑ",
+            "en": "Kathimerini article: Ελλάδα vs Ιταλία: Ποιος κερδίζει τη μάχη του χρέους το 2026 σύμφωνα με το ΔΝΤ; - ΤΟ ΒΗΜΑ"
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0ee16c9cb4da",
+          "title": "Έκθεση ΔΝΤ: «Πρωταθλήτρια κόσμου» η Ελλάδα στη μείωση του χρέους - insider.gr",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlRtbVBlX1BIQ0VvQ2ljWjRqR0hkZXh4cEJnTjBlTlpSSF9oV29GSzNnZWF6bU5yb0x2blRBNUpnUnZXNXdJc29CT1djRERQeE9OekRzaGtXMnVqN1c0UWg4VlptbEtpUm56d1V6cTJhQk5NOGtSTGJkVHRMX0wzSkVqVFFwN1NOaDRycE5rVkJJX2JTa1doUV9yYzEyNG55eVpoWkN30gGrAUFVX3lxTE5SVURGVnNzc1lFa1IwanRnQTU0YWJCdHowZHpSQy05LVhmYVlaTGQ3T0JrSFJIWVZBajRuRzZ6alZUbGs4SFJPVnY3VXpWY0tuM2FxUzJmcjlQcnBPYmM1RjM4cU5VMU9uWUd0UlkxZVF2bTdSbzE0UmkteVNGdXJGZldaRGVOam9GVnMyQ0dGSkd2OFI5TkFBX0JJUVhPM1VCTFM0M05PNElHcw?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:00:06+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 84,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Έκθεση ΔΝΤ: «Πρωταθλήτρια κόσμου» η Ελλάδα στη μείωση του χρέους - insider.gr",
+            "en": "Kathimerini article: Έκθεση ΔΝΤ: «Πρωταθλήτρια κόσμου» η Ελλάδα στη μείωση του χρέους - insider.gr"
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "858f20031370",
+          "title": "Ενοίκια: Δεύτερη στην ΕΕ η Ελλάδα στην αύξηση τιμών το 2025 – Σοκαριστικά στοιχεία - ΤΟ ΒΗΜΑ",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczZ0RHhDTGt3WHFCeUVXNU51MGNLc1MzYmwzUEk1TUIxOFJCY0lZQ0lpWkFsNm9qbjlrX0lVQnJ6Q2tRTWVtTGd1b3ZKcEhaMW93QjJOOG9jeEY2T0RkaEpIaG5hcXBsYXc1ZGNoZXVvMzV1aEkyVVBYbmxTZlk2M0pkcTJWVFB4RnVGZ1dOWnV1U1BNQTlQMm1INkhJczFVXzJXSmhoNGJQRTZfRVFSS1gxZ1Z6Z0NRY2FPMnBSa9IBxAFBVV95cUxNTE1ta0ZVTi00bGJ3STkwd2VlT0VPYVVBQmtoM3h5ZDhrYnhwQm5jdHZGQ1NtSFBRUmhnY3RRSVNFQXhIVnlqUmNsSVVaQkIxU2V5b0E0S28xMTY3cDFuaVJLYkdnWjFUUzI4Y2hzTWRIWVJoUUxmS1ZnUzJpODRwZ3ozMGt3QzdrTTY3ZHdLUzJfbjFSR1FYMHFMRlNiOGN6SE03VThUYVYzN2EyZnRoREN2ZHp3RnFDVXg2a3pMYUx3eHBG?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T06:08:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 82,
+          "summary": {
+            "el": "Νέα στοιχεία δείχνουν ότι η Ελλάδα κατέγραψε τη δεύτερη μεγαλύτερη αύξηση ενοικίων στην ΕΕ το 2025, ενώ οι Αθηναίοι δαπανούν πλέον ένα ολόκληρο μηνιάτικο μόνο για το ενοίκιό τους.",
+            "en": "New data shows Greece recorded the second-largest rent increase in the EU in 2025, with Athenians now spending an entire monthly salary just on rent — placing Greece second in the EU for rent affordability crisis."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "bfc218322725",
+          "title": "ΚΕΦΙΜ - Η Ελλάδα κατέγραψε τη δεύτερη μεγαλύτερη αύξηση ενοικίων στην ΕΕ το 2025 - Taxheaven",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRmsxa2pGWFlDdnJkTUZQcmtXMEYxWFZYUS1nQ19sQm52bDZreGJUQUYybXFRUmpDMkZTekxjOHJ6QW1MWVZUdUxReW5QenR4cXVhS0RNbHNTZURuNUpmaWpVZlV5WmdoV0Jlc01xemJINHZZWEcxM3ZfMmZ6TWFDZ0lTWGNVVHBrUE5GYjRjQmhCak5xcmpPU0xYYzk4TWw4Y3luODJMXy04M3BybkVoNGVvUV9TQQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T14:40:24+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: ΚΕΦΙΜ - Η Ελλάδα κατέγραψε τη δεύτερη μεγαλύτερη αύξηση ενοικίων στην ΕΕ το 2025 - Taxheaven",
+            "en": "Kathimerini article: ΚΕΦΙΜ - Η Ελλάδα κατέγραψε τη δεύτερη μεγαλύτερη αύξηση ενοικίων στην ΕΕ το 2025 - Taxheaven"
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7ac384df30c2",
+          "title": "Τι λουλούδια αγοράζουν οι Αθηναίοι;",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnhBQ0YtRFNpeVpTR1Rjc2RpT1gwa2ROV1M4dlhDZ29UVklZMTJUOWlhZ01BOFc4SXBKb1J2YWEwR3pkWms1cjB1MmZZRmxjSWZIdmlVaVM5b2g1Ry1rQ0RXUV90MkJucHpvNGxEVUFZblAxcE42SEs1cERSSWJYdmN1ZDNEb1FiY1lEODhtdw?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T14:11:19+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Τι λουλούδια αγοράζουν οι Αθηναίοι;",
+            "en": "Kathimerini article: Τι λουλούδια αγοράζουν οι Αθηναίοι;"
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "bab64dbdf896",
+          "title": "Μπλε τιμολόγια: Γιατί η σταθερότητα στο ρεύμα κερδίζει έδαφος",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0diRnJ5bm8xaDZjNGpleVAxbV9oUGthYV9xQWdTZGdVS1UxZm9MMTJvLXcxMy0xcEFaMVFreWZjSXk5NEowTzN5NENpVTBFajJ6T3BDSTMwT0xxb2dXUlFDOWpadzIxWjFOc1hqSG8tY2d3Ny1rWl9RT3RNUG9DZ2JwU1hpOGZ5ZE5Bb0lyV3MtQnI5NExoSGNlM3k4cGQyU09hNEJLWU9PUUw0V0E?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:15:06+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "economy",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Μπλε τιμολόγια: Γιατί η σταθερότητα στο ρεύμα κερδίζει έδαφος",
+            "en": "Kathimerini article: Μπλε τιμολόγια: Γιατί η σταθερότητα στο ρεύμα κερδίζει έδαφος"
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "αγορές"
+            ],
+            "en": [
+              "economy",
+              "markets"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 89,
+      "themes": {
+        "el": [
+          "Πρωτοσέλιδο - Εφημερίδα Η Καθη",
+          "Σε πλήρη ισχύ από το 2027 η «ψ",
+          "«Ομίχλη» στα Στενά και στις δι"
+        ],
+        "en": []
+      },
+      "top_items": [
+        {
+          "id": "6deee4032cba",
+          "title": "«Ομίχλη» στα Στενά και στις διαπραγματεύσεις",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRE5ULWhkV0tNSWRVZ1FnTkcycEFnY2lYRHgzNThzNWdjN0RyaEx1Qm10OHFNU0Y5Yzg4WHhXaUo4eVFSZEQ5UGpXUWtEMm1yN0I5RGN0N2ZaWnh0cHItZkQtNS1CLU5HbGZmODAwOGphMzA1WS1HTjBDZE15OTlaRE1fV2RkVE50WUY3eVJBd1QzN3lUZkNaRGVFay02RDdxM2pV?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T03:32:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 93,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: «Ομίχλη» στα Στενά και στις διαπραγματεύσεις",
+            "en": "Kathimerini article: «Ομίχλη» στα Στενά και στις διαπραγματεύσεις"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "d5e1b68318c5",
+          "title": "Πρωτοσέλιδο - Εφημερίδα Η Καθημερινή 15/4/2026 - «Ομίχλη» στα Στενά και στις διαπραγματεύσεις - frontpages.gr",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3lZQ0MxcFcwTzVoRl95RllheTNheUN3RnV4S09pdWVwMUhxZklkWGo4WmNKQjZuMFp3NHgyOHdEeE9KSFktbzJlcmVEZHZRZmdmZXF2Y1dHQ2lQX2FYT19jRm1IY0dpYjk2QU5SVnNCaDhhaV9ORkxIN2JrUVJXN180MGNsX2JnaXFhdDFEQkFEWE5DWUdZT0FhYTBrYTlySUtyTlljNDhLajE0ODBCNi1xUDRwanc?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-14T21:00:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 93,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Πρωτοσέλιδο - Εφημερίδα Η Καθημερινή 15/4/2026 - «Ομίχλη» στα Στενά και στις διαπραγματεύσεις - frontpages.gr",
+            "en": "Kathimerini article: Πρωτοσέλιδο - Εφημερίδα Η Καθημερινή 15/4/2026 - «Ομίχλη» στα Στενά και στις διαπραγματεύσεις - frontpages.gr"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "8bd698a5d37e",
+          "title": "Σε πλήρη ισχύ από το 2027 η «ψηφιακή ασπίδα» στα μέσα κοινωνικής δικτύωσης για τους ανηλίκους - ertnews.gr",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFkbFk4RExERVFKbWhyNWVVZGVnVllVY3RXZkNTc1V6WmJXaXFpNXNMb0pUdG5sR1hHSl9taDlXTl94aGcxZnRrakxGZzhHdERJc1RKUE1UWXZZOV9CQnpBZm8wWVAwU1lxVmFyY3FzNUhKdTRpaXB2eWkxQk9oNnV5cmlxWlBaUmpBVFNDNFl0S2xEOEsxNGhmTHlZZF9lS25ncHp1XzF2dWlRc2otNkRKa0dRNVhvcU1ZeVU2cDg2TFVCSmp6T0JfRElwQnl4SmloTVNBVUjSAd4BQVVfeXFMTVh3bG1NU3lOLVN5WU9UbkxiMVBBdzROaUQzaXhrUGtYNTdWTkp4N3hFcU1yNTVURUI3VHFLTjhVcTdRY2hUTUZjaXpBajdHMEoxZm9DbFpuWmRERjFzeks3TU1LMkxVY3lMQzdoaTVKSDNTbUEwYVhiUGhaNjUtN3JRcHI5YzA4ZGgwbEt5RktiOFptWlpiQldTTEsyTVAyLVV5UnBGQk4zZFNQb2FkOEhNWmhuNlpra3FFYlluM0o5WXQ3NHhxQWJpWnNzWVVIdHlNOGNKVDhQYzBFMTJ3?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T04:46:40+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 72,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Σε πλήρη ισχύ από το 2027 η «ψηφιακή ασπίδα» στα μέσα κοινωνικής δικτύωσης για τους ανηλίκους - ertnews.gr",
+            "en": "Kathimerini article: Σε πλήρη ισχύ από το 2027 η «ψηφιακή ασπίδα» στα μέσα κοινωνικής δικτύωσης για τους ανηλίκους - ertnews.gr"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "d30017ff3981",
+          "title": "Πανελλαδικές: Αυξάνονται τα αιτήματα για προφορική εξέταση",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONFdyVzVUbjd0Z3pLVXRMX0hmeldSYUhKRUVwajZhMk1lcnNYVFNtYUhTaGdTSTZsMmtmT3N1OUxjRDRqdHJldjFfbFRSNk9HTk41TVF1dDlReVg1VUU4VnAzSS10TDNRYUYyN1ZNWTdNbE1rRU9LNjE3UUFYZFJCZWZnazY5OWw1NEV2Vzk5SHBKSE5CVUxSdUpfQzlpd082Q1RnQkpSQmxyRkVuSHMzN25FNlY?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T08:24:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 68,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Πανελλαδικές: Αυξάνονται τα αιτήματα για προφορική εξέταση",
+            "en": "Kathimerini article: Πανελλαδικές: Αυξάνονται τα αιτήματα για προφορική εξέταση"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "ed90b092b3b6",
+          "title": "Αίγιο: Μία σύλληψη για απόπειρα ανθρωποκτονίας",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjBQQUJGejRTQWJ4NmRIZHI4X1cxWnI2TU9uY0NlT1c4QkpUZjgyS0dqeEFvV2o3b3NKaVZlZ200ZzdjOW16dzBIRktHTnlodEFtTGJpQm5BOElQNHlOS0RJbURUUU9uUmVHdXVudzFkVEduWUJqSjM0ajlZcWxoLWRDWWd5OU11QnM1Y3ZxWlg2clFCeFBUWg?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:58:29+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Αίγιο: Μία σύλληψη για απόπειρα ανθρωποκτονίας",
+            "en": "Kathimerini article: Αίγιο: Μία σύλληψη για απόπειρα ανθρωποκτονίας"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "dd99cde158ee",
+          "title": "Η Ελλάδα στηρίζει ανθρωπιστική βοήθεια και ενότητα του Σουδάν - BusinessDaily",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmNMNHdaUXpIalQtSVB5aHRJN0h5YjQtWFI1eEFIN2VuUUcxSGxqQTFhenhoc0Q2VWF1d19ScVdXMTlfcjZTcWpDRDVaRU9jTlRqcDVJODFIMGoyY01VY2pOWlRsLUlPbkJwSUFRRjZVczRyRnpIdGJVZjhvR0l6WS0wVEVKb2tSTjdraDJnVk5wWWItWDFudkxHRnBOOGhhQkNwQ0NFeEZyeFFpWnozWVZCVWVtVHFNMXc?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:05:46+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Η Ελλάδα στηρίζει ανθρωπιστική βοήθεια και ενότητα του Σουδάν - BusinessDaily",
+            "en": "Kathimerini article: Η Ελλάδα στηρίζει ανθρωπιστική βοήθεια και ενότητα του Σουδάν - BusinessDaily"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "38e25561d477",
+          "title": "Η ιστορική μνήμη αποτελεί κόκκινη γραμμή",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGtkU3pkOEViRFVZSU5YQmp0YURMb3l1RGltbXBPd0FXckVlYjJDbzVJZWdUc2FoUW9qS3kzX09MWFBHQl9NSlhTQ3lLT09JeHJ3VWVJNVEwaVc5Q3NZNThKNXE0SlBudEllTjlWeXNJZlF3QUFmZFNSb1Jlcm1mNHFBZ2JLR1poX0ltcFc2TQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:05:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Η ιστορική μνήμη αποτελεί κόκκινη γραμμή",
+            "en": "Kathimerini article: Η ιστορική μνήμη αποτελεί κόκκινη γραμμή"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "a8c95e55d417",
+          "title": "Να είσαι πλούσιος",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OWmVzdkVQQmZMb18tVU13QUFFZ0x5VUFteUlUWEttLVVFVnc2aUNLdmJFWm5JUGxLVVFwc2RQZS1wdk1tU2ZCNFVUMlF2M1F2RzJFd2xoZkJ5QWU3R1dTdjIwOW9MUXNzcWdMSUROMGU?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:02:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "society",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Να είσαι πλούσιος",
+            "en": "Kathimerini article: Να είσαι πλούσιος"
+          },
+          "tags": {
+            "el": [
+              "κοινωνία"
+            ],
+            "en": [
+              "society"
+            ]
           },
           "sentiment": "neutral"
         }
       ]
     },
     "culture": {
-      "item_count": 1,
+      "item_count": 7,
       "themes": {
-        "el": ["Τουρισμός και νησιά"],
-        "en": ["Tourism and islands"]
+        "el": [
+          "«Η πτώση των δικτατοριών και η",
+          "Ο Ρομπέν των Δασών",
+          "Mε κεντρικό τίτλο «The Shock o"
+        ],
+        "en": []
       },
       "top_items": [
         {
-          "id": "418fc27b8bb1",
-          "title": "Greek Islands Skopelos and Andros Named Among Euronews 'Surprise Destinations' for 2026",
-          "url": "https://athens-times.com/housing-support-for-tenants-and-increased-housing-supply-full-package-of-measures-from-2026/",
-          "author": "Athens Times",
-          "published": "2026-04-10T08:00:00+00:00",
-          "source": "Athens Times / Euronews",
-          "source_type": "web",
+          "id": "2f1bcd9ec395",
+          "title": "«Η πτώση των δικτατοριών και η άνθιση του νέου κινηματογράφου / Ελλάδα – Ισπανία»: Επτά σημαντικές ελληνικές ταινίες στην Ταινιοθήκη της Πορτογαλίας - ελculture",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMjR3UGVEdHQxN3dBb3NxdnpGTktyQ2t1UkRRSU9FeVdRWU5FS0lONzlvRTJoUU5ESnp2cGlZcTUyYXFHb1BWNjVGaFBQUy1xVkpWdUQxN2hKQ09qRDAtSGtfWkduUXVIZk9uZnpyWnVndUZSazR2cU5MUjFwMzlCZzBLTHlIVGRSbFUxUl8tNWhBX1p2Q0pHMlpKaElBUjk5X0d6ekhhNUVJUzFtb3VNNTlIWXdkU3NQY1RiRC1qSVNwVlI5TGVYc0tCVUswSFdUY0JtLWc2Q3RhcGFsaWRxYWJrS0FmaXdMclVuTEM1czBCSHMydkV1TA?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T12:40:01+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 68,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: «Η πτώση των δικτατοριών και η άνθιση του νέου κινηματογράφου / Ελλάδα – Ισπανία»: Επτά σημαντικές ελληνικές ταινίες στη",
+            "en": "Kathimerini article: «Η πτώση των δικτατοριών και η άνθιση του νέου κινηματογράφου / Ελλάδα – Ισπανία»: Επτά σημαντικές ελληνικές ταινίες στη"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "48d93467d30d",
+          "title": "Ο Ρομπέν των Δασών: Σε αποκλειστική πρεμιέρα στο ΑΝΤ1+",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNazFmZG1GZjl5ZmxlUkVqcmUwLTBaRm5udG9fUWFmdnl6bTVIRzU5SjhoeUluRlFtSkFKdWJmRzk3RjlKMGxyU2xTcXNoaXdiSlJ3VUVPM3pNWVk1Smp1dmFoTWtlMmNyVlc2YTdlR2NnbktBOW5ocGk5cEs0U1JOSUk0aGhUUFR1dGNSZ2pRYTBPbjh5c2RjS2NjTVh1b2p2SFhR?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T17:25:00+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
           "category": "culture",
           "importance": 55,
           "summary": {
-            "el": "Τα ελληνικά νησιά Σκόπελος και Άνδρος συμπεριλήφθηκαν στη λίστα του Euronews με τους «προορισμούς-έκπληξη» για το 2026, αναδεικνύοντας την ομορφιά και τη γαλήνη που προσφέρουν πέρα από τους παραδοσιακούς τουριστικούς χώρους.",
-            "en": "The Greek islands of Skopelos and Andros have been featured in Euronews' list of 'surprise destinations' for 2026, highlighting their natural beauty and tranquility as alternatives to more crowded tourist hotspots in the Mediterranean."
+            "el": "Άρθρο της Καθημερινής: Ο Ρομπέν των Δασών: Σε αποκλειστική πρεμιέρα στο ΑΝΤ1+",
+            "en": "Kathimerini article: Ο Ρομπέν των Δασών: Σε αποκλειστική πρεμιέρα στο ΑΝΤ1+"
           },
           "tags": {
-            "el": ["τουρισμός", "Σκόπελος", "Άνδρος", "νησιά", "Euronews"],
-            "en": ["tourism", "Skopelos", "Andros", "islands", "Euronews"]
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
           },
-          "sentiment": "positive"
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0109af0bab0d",
+          "title": "Mε κεντρικό τίτλο «The Shock of the New» (Το Σοκ του Νέου), πραγματοποιείται φέτος το 11ο Οικονομικό Φόρουμ των Δελφών - Μακεδονικό Πρακτορείο Ειδήσεων",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdm1wNVFaQmxHbjV4dWdJdzRrelU5bXpCTTdlVXVRdWUtTXQ2bXRpMTNBQldZYkpMU25LYWxjTUN5VVktWFNGSS1EUHhvVW5NR0FfN1NqT2lIbF94Y0lNWnJhOVgyMUxEdk5nZmdYQ1pQaVZmVW82b1BSVDJqTzVWdnVGM2pFUVV1T3FDRjhjOWJrSEpycEg5VlhRa0kxQTBWcl9VR1lqczNndzVrU3kyUktCb0FnUTNsamloa09KQnpwVTdLUW45QkxJMEtDbnpWSkNCbGlDZHppZDd3cnh4YXJ5VmRHR2szeFdlTWM5Zw?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:22:17+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Mε κεντρικό τίτλο «The Shock of the New» (Το Σοκ του Νέου), πραγματοποιείται φέτος το 11ο Οικονομικό Φόρουμ των Δελφών -",
+            "en": "Kathimerini article: Mε κεντρικό τίτλο «The Shock of the New» (Το Σοκ του Νέου), πραγματοποιείται φέτος το 11ο Οικονομικό Φόρουμ των Δελφών -"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "70a33f7cf7e8",
+          "title": "Το Στέμμα μετά την Ελισάβετ- Την Κυριακή 19/4 με την «Καθημερινή»",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDdVWVlQMXFaYmtPcndvYXNqaUtYd3o1VEV3Y3dVeDhZS3FIb3V4cGNLelBHallEN01UV3c2YUZaUXpFb1BJOWRYMUozMGJxOUFucjV1WE1mVzFRZGNHSnV0QTVlTUhudXIwTlY1cDRRdkstMjdBTjZOZlhYeExFcFdIYU9fOElWbUlFaVNiREpBTnhTbFd4QWdEQVd0dUN1Uzd6bThZaERnZ01BdmExdml2Z3lnamRtS1E?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T12:54:27+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Το Στέμμα μετά την Ελισάβετ- Την Κυριακή 19/4 με την «Καθημερινή»",
+            "en": "Kathimerini article: Το Στέμμα μετά την Ελισάβετ- Την Κυριακή 19/4 με την «Καθημερινή»"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "474f450b63c5",
+          "title": "Σχολείο: Πολλαπλό βιβλίο με λίγες «σελίδες»",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGNtM25PZXpUQ1lHWnlRY1JxRlgwUWJ4Y2FYS1lKQmJnRWtTWml4dzBNUGl1UzVBcHN1dGRENHoxT08zSWRQV3dRMF9xU1p5Z3otWTAwdU8xQm4tMkVlc1hNRTluQlczaXFVNTVOVlpjWjkzQ0VrYUk1dWt1UDRTbW5Dd2N5Q1FVZ3NabWt2ck14WlhDMFh6REg1c3BRWlRn?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T09:30:18+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Σχολείο: Πολλαπλό βιβλίο με λίγες «σελίδες»",
+            "en": "Kathimerini article: Σχολείο: Πολλαπλό βιβλίο με λίγες «σελίδες»"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "b393927603f2",
+          "title": "«Τάπερ με Σούσι» ξανά στο Θέατρο Κύκλος - Πρωινός Λόγος",
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNbkZBT2VVYTBGWVYyc094aEF6dFlkWjIwVFlIQmFCdkVLdWVJNmtVNGlCU3JmWVV1elI2RkU0ZTFkTUFJb056b2JVT3JST3NuemR1cmZBQmQ3SVhLSFgzX2w1bWU2YVZsT2V0ZTNvY01obGpHazNsbjljMWwwVTlZcFd2X00zVnhuUXlCMHB1V1pYSHhxU1FlMVVMQTBnZzExODRtTlNBWWdXWFEtXy1WdjFBOF9Uc0V6Q1pQN3NIZHkwNWtoWmJ2ZVducVljdU9XMU9FM1FfOTBfeTBiUUEyWTZUTHdNcjJ3bVU0amdJR0NrRnVBSEN2aUhyLUNxcFZTeWRvSzkwTk5QMjJIdU01aUxmczFfUmVkaWVNbXR5azM5NURQYUNVRy1IQlFnWVRNMjlKSXhJcEhicU5Rdm5aaFRFZlg4elA2WGNURFNwaVR3VUxrbWNRYVVkX1ROOUN3eERlblBpRnFsblFsckFLVFBqakJLTGd6NlM2dlRTOE1WQ2FlY3NaaWJpWDFCcWRqaGZnWGVraEc0VEhkSVRHSWJHbzMzWHpsLVQ2Wkg5ekFvdnJlVjRFbG9lWVBSRXNS?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T09:01:58+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: «Τάπερ με Σούσι» ξανά στο Θέατρο Κύκλος - Πρωινός Λόγος",
+            "en": "Kathimerini article: «Τάπερ με Σούσι» ξανά στο Θέατρο Κύκλος - Πρωινός Λόγος"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "035fab324990",
+          "title": "Joep Beving – Η μυσταγωγική γοητεία του μινιμαλισμού, για πρώτη φορά στην Ελλάδα - η ναυτεμπορικη",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFE2VXFTT1p6OEQ2aWZhUjY3U2gwTWE5bExjeUZLMVVSUzZFb0sxbVhWZVptT09WS2JxT2pCZFlHZ0FGLVlyNkxPZkdmSjRGU0dFai1KYTRNTnZ1MXVCT2Z6eGJKaWJfVkJHa1ZOdkdidzFoejhhQUFIVFJ5aFdDemtlWVB3RGJfNkRUSzF6b2QtQ3ViWkpYcklJeDQ0cGlCOEpwbzVmUjZzZVhFSE1pTFExZTNYQnpjVEdQeXpVMUdDSDVPT1p3?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T06:31:08+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Joep Beving – Η μυσταγωγική γοητεία του μινιμαλισμού, για πρώτη φορά στην Ελλάδα - η ναυτεμπορικη",
+            "en": "Kathimerini article: Joep Beving – Η μυσταγωγική γοητεία του μινιμαλισμού, για πρώτη φορά στην Ελλάδα - η ναυτεμπορικη"
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός"
+            ],
+            "en": [
+              "culture"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "sports": {
+      "item_count": 4,
+      "themes": {
+        "el": [
+          "Ο Χουάν Μούσο ξεγύμνωσε ένα έπ",
+          "Ανατροπή για την Ελλάδα στη Eu",
+          "Επιστροφή και προετοιμασία στο"
+        ],
+        "en": []
+      },
+      "top_items": [
+        {
+          "id": "08b0661ace4c",
+          "title": "Ανατροπή για την Ελλάδα στη Eurovision: Η νέα θέση του Akyla – Ποια χώρα είναι το φαβορί (vid) - Gazzetta.gr",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjRsLTMzVjFKT0RSeEduLVZnTl83MWhfOVd6NjhYUkdaMVdHXzlEOXlBRzZKdm9mQU81OWNqNjB6ODgxREw2OEN6VWdCd1l1aXdDaUQzWnhWRVJFZ3ZiaDJyS25SOU5HOFE4Q1NYOTZHbWpXUjYtUzRPekpUUU9CbnVSeTUyblRpNEU1a2V6TVFLdlNoZFFfVWY0dnk3SVprbWFkWXNsQWszVGNZY3U4QjJBQnhnVlZXdV85aNIBwgFBVV95cUxOY1pYQjRjX280aUItVXc1T2Y4NjhmRlNkLXlTQzVJSlMtc3BqUXVaN3dUZENIOVNEdEhKZVhRd25GOWt3Q3o3OGJWM1BLcnF2WXZ4dW53QmhYaDhjVm1XSWNjYUxzc1BfcHAwQ245VkNCSG1nNkQ1MGM5eUpnSjlOcTMtbTFSc3R3cFhoNF9FQ284UGM3eE13MTdpTURDazNNTHAxZktiX053VEl5UXJQSXg1TGdTOXE0ZTZQS2RHNEFlQQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T15:43:37+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "sports",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ανατροπή για την Ελλάδα στη Eurovision: Η νέα θέση του Akyla – Ποια χώρα είναι το φαβορί (vid) - Gazzetta.gr",
+            "en": "Kathimerini article: Ανατροπή για την Ελλάδα στη Eurovision: Η νέα θέση του Akyla – Ποια χώρα είναι το φαβορί (vid) - Gazzetta.gr"
+          },
+          "tags": {
+            "el": [
+              "αθλητισμός"
+            ],
+            "en": [
+              "sports"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "d31c91a1f9ec",
+          "title": "Επιστροφή και προετοιμασία στον ΠΑΣ ενόψει Καβάλας - Πρωινός Λόγος",
+          "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxNOVlHWjlkNlZ2ZnZSeXc1X3NyTGdNQm1YRHZjNmR6YlViSnpnUXhaY1hmQjlUSXRablpET2FEQ0YyNE9FdmZZZ1ZycGxqZTFvZzNIVklnSUVxWFdmRlVpTjkzbS1BaXBEdXUwYjNFTGY0TkdxS1dBdXJrZGZJNTFUSHp3R3NUNkVEYzhybFV1R0JfdlUwc2U5MjhFMk1MWW1BOEcxVWRBRTdJZUw4S2RQc1Y1TVdFZEhjVVB5Zm1Hb0FPVnN0cWdJMVNEY0NfQV9wdE96TWZuQS04b0QycnRZYnAxazJOdUphVHUtV0lYbzBjRWQ4eUZPRDMzdm1jQzRXM1VYTk9iT2pBeWgydGtVRUlGNjNxRlNuOE56S2lyazNvQ2hMNy1wMExkeXZSZmdzYndNZHVKYl9XNXdMcVMtM1ZmalpHRlppQWI0N0VJSXU5VVdtQWVtYUJ0dzFUbFdvUWRQSnhybFk5ejNoZTNsOVhBcXdWanJmRVotcVljWVpwM0Fpb2hWNmMzZHBZT19OU3Nac3ZCX2tlbnd2YXNHZnFRYS1IOXFmMjczeTR4b05lS0lvT1pxbnlQUFJCYi1YVm1Gc0RPRktxM2NsUVRMLTJCb1hIS2l5QzNSUElmYjJna3haQzBKVUFvdWVQRDZ6Z0staDVrQWpLNllYNmwzX2F6V1Q1ZGdYeFlQUTZNeTBReGpVRU80aw?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T13:51:13+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "sports",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Επιστροφή και προετοιμασία στον ΠΑΣ ενόψει Καβάλας - Πρωινός Λόγος",
+            "en": "Kathimerini article: Επιστροφή και προετοιμασία στον ΠΑΣ ενόψει Καβάλας - Πρωινός Λόγος"
+          },
+          "tags": {
+            "el": [
+              "αθλητισμός"
+            ],
+            "en": [
+              "sports"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "71ed1a4122b5",
+          "title": "Ο Χουάν Μούσο ξεγύμνωσε ένα έπος",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUVyM3JQRHFPTU4zdktjYjA3WDFIN1NwOFRVN1E5Rkw3OXBlOUg3cWlQR2VROFNRSlpwQkpvVWRCSUNfUEp5TTlPRDNtTGs5OUlfanpPQ3B0a3lsWklxRnkxTl9VLW1RTUdCM2o2OENHOUJoVUlPQXliSVhSNnRKS0tkbFdVQQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T09:54:19+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "sports",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Ο Χουάν Μούσο ξεγύμνωσε ένα έπος",
+            "en": "Kathimerini article: Ο Χουάν Μούσο ξεγύμνωσε ένα έπος"
+          },
+          "tags": {
+            "el": [
+              "αθλητισμός"
+            ],
+            "en": [
+              "sports"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "78bbbce29f8c",
+          "title": "Νέος προπονητής της Κατσικάς ο Σιαφάκας - Πρωινός Λόγος",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQbXpBNlFwM2NnbXFBTGxmSWxieDZxdkkwRm9fWk0za3pqV2M2bm1WTGNLNHZma0Zpem4wMldHWHZXTXltZExOTWxHdDNTSjQ1Z0JIOHVpRnhWUkVLYXBvWkxseVkyYXQyUlZ1a1BPNEtONjdEREJNRFExaUVsRjZ4ZXBudmgyLThpcVRBUVdhUjFvcjh6OHRtTFhCWlFuaUd5YmgtUlNydFM2bTN4ZWo3OVhfVWVuVElxTnNjZHROMUhUQzhzR0l2dFpMNXZQUWJBVnNRUk9Tdmt1aUJPYkJOVE0yRmplWkpQUlZtbjRGMmMxUVpmSzhyeFJJVzRYc1haOTRmWlZROUhIN2RDNWhSVzc2RWdTRk5yVTJRV0xMdVlOd1c5TVhjOWc5V1IzT3dTWEk3YjhXa2RlMzFGX19JNEJPUko1eF9XWnRCWHlmWXlNd0RWcUJiQm5mRmo5SDVoT3pPRGs2dExsTnlEX013VGUwQWJXOGdRcWx3eGh5ay0tUQ?oc=5",
+          "author": "Καθημερινή",
+          "published": "2026-04-15T09:01:58+00:00",
+          "source": "Kathimerini",
+          "source_type": "rss",
+          "category": "sports",
+          "importance": 55,
+          "summary": {
+            "el": "Άρθρο της Καθημερινής: Νέος προπονητής της Κατσικάς ο Σιαφάκας - Πρωινός Λόγος",
+            "en": "Kathimerini article: Νέος προπονητής της Κατσικάς ο Σιαφάκας - Πρωινός Λόγος"
+          },
+          "tags": {
+            "el": [
+              "αθλητισμός"
+            ],
+            "en": [
+              "sports"
+            ]
+          },
+          "sentiment": "neutral"
         }
       ]
     }
   },
   "stats": {
-    "news_items": 14,
-    "total": 14,
-    "categories_covered": 5,
-    "collection_method": "web_search_fallback",
-    "rss_status": "403_forbidden"
+    "news_items": 171,
+    "total": 171,
+    "categories_covered": 6,
+    "collection_method": "google_news_rss",
+    "rss_status": "google_news_200_ok"
   }
 }
