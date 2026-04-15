@@ -123,11 +123,1257 @@
   ],
   "article_count": 79,
   "categories": {
-    "politics": 14,
-    "economy": 14,
-    "society": 14,
-    "world": 14,
-    "opinion": 12,
-    "culture": 11
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Υπόθεση ΟΠΕΚΕΠΕ: «Θα γίνει κάτω από το τραπέζι»",
+          "url": "https://www.kathimerini.gr/society/reportaz/564174745/ypothesi-opekepe-tha-ginei-kato-apo-to-trapezi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T07:29:51+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Αποκλειστικά αποσπάσματα από το επίσημο έγγραφο της Ευρωπαϊκής Εισαγγελίας για ΟΠΕΚΕΠΕ: «θα γίνει κάτω από το τραπέζι, WhatsApp μόνο».",
+            "en": "Exclusive excerpts from the European Prosecutor's official OPEKAPO document: 'it'll be done under the table, WhatsApp only' — verbatim exchanges between an MP and the OPEKAPO president."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ΟΠΕΚΕΠΕ",
+              "διαφθορά",
+              "Ευρωπαϊκή Εισαγγελία"
+            ],
+            "en": [
+              "politics",
+              "OPEKAPO",
+              "corruption",
+              "European Prosecutor"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τα επόμενα βήματα για την υπόθεση του ΟΠΕΚΕΠΕ",
+          "url": "https://www.kathimerini.gr/politics/parliament/564174727/ta-epomena-vimata-gia-tin-ypothesi-toy-opekepe/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:35:51+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Οι επόμενες βουλευτικές ψηφοφορίες για το σκάνδαλο ΟΠΕΚΕΠΕ: δύο δικογραφίες για άρση ασυλίας ΝΔ βουλευτών βρίσκονται σε εξέλιξη, με κι άλλες να έρχονται.",
+            "en": "The next parliamentary votes on the OPEKAPO scandal: two indictments seeking immunity removal for ND MPs are in progress, with more to follow."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ΟΠΕΚΕΠΕ",
+              "Βουλή",
+              "ΝΔ"
+            ],
+            "en": [
+              "politics",
+              "OPEKAPO",
+              "parliament",
+              "ND"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η στρατηγική του Μαξίμου για τη «μάχη» στη Βουλή",
+          "url": "https://www.kathimerini.gr/politics/government/564174715/i-stratigiki-toy-maximoy-gia-ti-machi-sti-voyli/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:37:55+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Το Μαξίμου προετοιμάζει στρατηγική για την αυριανή κοινοβουλευτική μάχη για το κράτος δικαίου, με όλους τους αντιπολιτευτικούς αρχηγούς σε επίθεση.",
+            "en": "Maximus is preparing its strategy for tomorrow's parliamentary debate on the rule of law, facing attacks from all opposition party leaders."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Βουλή",
+              "κράτος δικαίου",
+              "Μητσοτάκης"
+            ],
+            "en": [
+              "politics",
+              "parliament",
+              "rule of law",
+              "Mitsotakis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ανανέωση θητείας Στουρνάρα στην ΤτΕ προτείνει η κυβέρνηση",
+          "url": "https://www.kathimerini.gr/politics/564175618/ananeosi-thiteias-stoyrnara-stin-tte-proteinei-i-kyvernisi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T11:46:39+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η κυβέρνηση προτείνει ανανέωση της θητείας Στουρνάρα ως διοικητή Τράπεζας Ελλάδος για τρίτη φορά, σε ένδειξη σταθερότητας στο χρηματοπιστωτικό σύστημα.",
+            "en": "The government proposes renewing Stournaras as Bank of Greece Governor for a third term, signalling institutional stability in the country's financial system."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "Τράπεζα Ελλάδος",
+              "Στουρνάρας"
+            ],
+            "en": [
+              "economy",
+              "Bank of Greece",
+              "Stournaras"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Γιώργος Μυλωνάκης: «Σοβαρή αλλά ελεγχόμενη» η κατάστασή του – Το ιατρικό ανακοινωθέν",
+          "url": "https://www.kathimerini.gr/politics/564175678/giorgos-mylonakis-sovari-alla-elegchomeni-i-katastasi-toy-to-iatriko-anakoinothen/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T14:18:31+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Η κατάσταση του υφυπουργού Μυλωνάκη μετά εγχείρηση εμβολισμού ανευρύσματος εγκεφάλου κρίνεται «σοβαρή αλλά ελεγχόμενη»· ο χειρουργός μιλά για «10 μέρες αγωνίας».",
+            "en": "Deputy minister Mylonakis's condition after brain aneurysm embolisation is 'serious but controlled'; the neurosurgeon warns of '10 days of anguish' ahead."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Μυλωνάκης",
+              "υγεία"
+            ],
+            "en": [
+              "politics",
+              "Mylonakis",
+              "health"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η στήριξη δεν είναι δεδομένη",
+          "url": "https://www.kathimerini.gr/politics/564174670/i-stirixi-den-einai-dedomeni/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T07:54:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ανάλυση: η υποστήριξη Μαξίμου στον Λαζαρίδη δεν είναι άνευ όρων — «εφόσον δεν αλλάξει κάτι, δεν προκύψει κάτι φοβερό».",
+            "en": "Analysis: Maximus's support for Lazaridis is not unconditional — 'it holds as long as nothing changes, nothing terrible surfaces', according to government sources."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "Λαζαρίδης",
+              "ΟΠΕΚΕΠΕ",
+              "κυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "Lazaridis",
+              "OPEKAPO",
+              "government"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Αντιπολιτευτικά πυρά για τον Μακάριο Λαζαρίδη",
+          "url": "https://www.kathimerini.gr/politics/parties/564174712/antipoliteytika-pyra-gia-ton-makario-lazaridi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T06:42:00+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Η αντιπολίτευση ετοιμάζει ευρεία επίθεση εναντίον της κυβέρνησης στη συζήτηση για το κράτος δικαίου, με φόντο την υπόθεση Λαζαρίδη.",
+            "en": "The opposition prepares a broad attack on the government in the rule-of-law debate, with the Lazaridis scandal as the central flashpoint."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "αντιπολίτευση",
+              "κράτος δικαίου"
+            ],
+            "en": [
+              "politics",
+              "opposition",
+              "rule of law"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "ΠΑΣΟΚ κατά κυβέρνησης για Λαζαρίδη: Εχει γίνει έρευνα για τη δεύτερη πρόσληψη στη Γραμματεία Ισότητας;",
+          "url": "https://www.kathimerini.gr/politics/564175417/pasok-kata-kyvernisis-gia-lazaridi-echei-ginei-ereyna-gia-ti-deyteri-proslipsi-sti-grammateia-isotitas/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:15:37+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Το ΠΑΣΟΚ πιέζει για τη δεύτερη πρόσληψη Λαζαρίδη στη Γραμματεία Ισότητας, κρατώντας ζωντανό το σκάνδαλο πτυχίου εν όψει συζήτησης για κράτος δικαίου.",
+            "en": "PASOK presses on a second Lazaridis appointment at the Equality Secretariat, keeping the degree scandal alive ahead of the rule-of-law parliamentary debate."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ΠΑΣΟΚ",
+              "Λαζαρίδης",
+              "ΟΠΕΚΕΠΕ"
+            ],
+            "en": [
+              "politics",
+              "PASOK",
+              "Lazaridis",
+              "OPEKAPO"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ενας μισθός σε ενοίκιο για τριάρι στην Αθήνα",
+          "url": "https://www.kathimerini.gr/visual/infographics/564175093/enas-misthos-se-enoikio-gia-triari-stin-athina/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T08:16:02+03:00",
+          "importance": 88,
+          "summary": {
+            "el": "Αποκαλυπτική μελέτη ΚΕΦίΜ/Eurostat: για ένα τριάρι στην Αθήνα, το μέσο νοικοκυριό ξοδεύει 93,6% του μηνιαίου εισοδήματός του σε ενοίκιο.",
+            "en": "Revelatory KEFiM/Eurostat study: renting a 3-bedroom flat in Athens consumes 93.6% of an average household's monthly income — vs 46% for the EU average."
+          },
+          "tags": {
+            "el": [
+              "στέγαση",
+              "ενοίκια",
+              "κοινωνία",
+              "Αθήνα"
+            ],
+            "en": [
+              "housing",
+              "rents",
+              "society",
+              "Athens"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ο αποκλεισμός Ορμούζ αυξάνει τη ζήτηση για αμερικανικό αργό",
+          "url": "https://www.kathimerini.gr/economy/international/564175165/o-apokleismos-ormoyz-ayxanei-ti-zitisi-gia-amerikaniko-argo/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T11:08:00+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Ο αποκλεισμός Ορμούζ περιορίζει 20% της θαλάσσιας ενέργειας και οδηγεί ασιατικούς αγοραστές στο αμερικανικό πετρέλαιο, ενισχύοντας το έλλειμμα προσφοράς.",
+            "en": "The Hormuz blockade restricts 20% of seaborne energy, driving Asian buyers toward US crude and deepening the global supply deficit — with Europe facing the biggest exposure."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "πετρέλαιο",
+              "Στενά Ορμούζ",
+              "οικονομία"
+            ],
+            "en": [
+              "energy",
+              "oil",
+              "Strait of Hormuz",
+              "economy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Εγκλωβισμένοι σε «zugzwang»",
+          "url": "https://www.kathimerini.gr/economy/international/564175078/egklovismenoi-se-zugzwang/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T13:15:00+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Αναλυτικό κείμενο για την κρίση Ορμούζ ως «zugzwang» στο σκάκι: κάθε κίνηση ΗΠΑ, Ιράν, Κίνας επιδεινώνει την κατάσταση.",
+            "en": "'Zugzwang' analysis of the Hormuz crisis: every move by the US, Iran, or China worsens the situation — a chess term for a trap from which there is no good escape."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "ενέργεια",
+              "Στενά Ορμούζ",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "economy",
+              "energy",
+              "Strait of Hormuz",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Δέσμη μέτρων για την ενεργειακή κρίση από Ε.Ε. στις 22 Απριλίου",
+          "url": "https://www.kathimerini.gr/economy/international/564175162/desmi-metron-gia-tin-energeiaki-krisi-apo-e-e-stis-22-aprilioy/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T08:53:00+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η ΕΕ ετοιμάζει δέσμη μέτρων για την ενεργειακή κρίση (22/4): πλήρωση αποθεμάτων φυσικού αερίου και παρεμβάσεις στους λογαριασμούς ενέργειας.",
+            "en": "The EU is preparing an energy crisis package for April 22, including gas storage fill plans and guidelines for temporary household energy bill interventions."
+          },
+          "tags": {
+            "el": [
+              "ΕΕ",
+              "ενέργεια",
+              "κρίση",
+              "Βρυξέλλες"
+            ],
+            "en": [
+              "EU",
+              "energy",
+              "crisis",
+              "Brussels"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ο πόλεμος και η αύξηση του χρέους",
+          "url": "https://www.kathimerini.gr/economy/international/564175213/o-polemos-kai-i-ayxisi-toy-chreoys/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T11:47:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ανάλυση: ο πόλεμος (Ιράν, Ουκρανία) και ο ανταγωνισμός ΗΠΑ-Κίνας ωθούν κυβερνήσεις παγκοσμίως σε αύξηση χρέους για αμυντικές δαπάνες.",
+            "en": "Analysis: the wars in Iran and Ukraine, combined with US-China rivalry, are pushing governments worldwide to increase debt to fund rising defence spending."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "χρέος",
+              "άμυνα",
+              "πόλεμος"
+            ],
+            "en": [
+              "economy",
+              "debt",
+              "defence",
+              "war"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Περιορίζεται η διαφορά επιτοκίων μεταξύ Ελλάδας και Ευρωζώνης",
+          "url": "https://www.kathimerini.gr/economy/local/564175144/periorizetai-i-diafora-epitokion-metaxy-elladas-kai-eyrozonis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:08:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Το spread ελληνικών επιτοκίων έναντι Ευρωζώνης έπεσε κάτω από μισή μονάδα — ιστορικό χαμηλό για στεγαστικά και επιχειρηματικά δάνεια.",
+            "en": "The Greek interest rate spread vs the eurozone fell below half a percentage point — a historic low for both mortgage and business loans."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "επιτόκια",
+              "τράπεζες",
+              "Ελλάδα"
+            ],
+            "en": [
+              "economy",
+              "interest rates",
+              "banks",
+              "Greece"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Επιλέγουν Ελλάδα για διακοπές οι Τούρκοι",
+          "url": "https://www.kathimerini.gr/visual/infographics/564175108/epilegoyn-ellada-gia-diakopes-oi-toyrkoi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:15:39+03:00",
+          "importance": 68,
+          "summary": {
+            "el": "Οι Τούρκοι τουρίστες έχουν γίνει σημαντική πηγή εισοδήματος για τα νησιά του Αιγαίου: επίσημα τουρκικά στατιστικά επιβεβαιώνουν αυτή την τάση.",
+            "en": "Turkish tourists have become a significant revenue source for the Aegean islands — official Turkish statistics now confirm what was previously anecdotal knowledge."
+          },
+          "tags": {
+            "el": [
+              "τουρισμός",
+              "Ελλάδα",
+              "Τουρκία",
+              "οικονομία"
+            ],
+            "en": [
+              "tourism",
+              "Greece",
+              "Turkey",
+              "economy"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Οι πλούσιοι της Μέσης Ανατολής ψάχνουν σπίτια στην Ευρώπη",
+          "url": "https://www.kathimerini.gr/economy/international/564175219/oi-ploysioi-tis-mesis-anatolis-psachnoyn-spitia-stin-eyropi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T12:42:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Πλούσιοι της Μέσης Ανατολής αναζητούν κατοικίες στο Λονδίνο, Μονακό, Ελβετία: ο πόλεμος οδηγεί σε φυγή κεφαλαίων προς Ευρώπη.",
+            "en": "Wealthy Middle Easterners are seeking homes in London, Monaco, and Switzerland; the war is driving capital flight toward safe European havens."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "ακίνητα",
+              "Μέση Ανατολή",
+              "Ευρώπη"
+            ],
+            "en": [
+              "economy",
+              "real estate",
+              "Middle East",
+              "Europe"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Γιώργος Μυλωνάκης: «Εχουμε 10 μέρες αγωνίας» λέει ο γιατρός που τον χειρούργησε",
+          "url": "https://www.kathimerini.gr/society/564176425/giorgos-mylonakis-echoyme-10-meres-agonias-leei-o-giatros-poy-ton-cheiroyrgise/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T21:46:13+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Ο νευροχειρουργός που χειρούργησε τον Μυλωνάκη λέει ότι το επόμενο 10ήμερο είναι ιδιαίτερα κρίσιμο — «10 μέρες αγωνίας».",
+            "en": "The neurosurgeon who operated on Mylonakis says the next 10 days are critical: 'We acted fast and the aneurysm was immediately excluded' — but danger remains."
+          },
+          "tags": {
+            "el": [
+              "υγεία",
+              "Μυλωνάκης",
+              "νευροχειρουργική"
+            ],
+            "en": [
+              "health",
+              "Mylonakis",
+              "neurosurgery"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κεφαλονιά: «Ελεγα να καλέσουμε ασθενοφόρο, φοβόντουσαν μην μπλέξουμε» – Τι κατέθεσε φίλος της 19χρονης",
+          "url": "https://www.kathimerini.gr/society/564176341/kefalonia-elega-na-kalesoyme-asthenoforo-fovontoysan-min-mplexoyme-ti-katethese-filos-tis-19chronis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:34:38+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "23χρονος κατέθεσε στη δίκη Κεφαλονιάς: «έλεγα να καλέσουμε ασθενοφόρο, φοβόντουσαν μην μπλέξουμε» — αποκαλύψεις για τη 19χρονη.",
+            "en": "Key testimony in the Kefalonia trial: 'I said we should call an ambulance, they were afraid of getting involved' — the 23-year-old's statement about the 19-year-old's death."
+          },
+          "tags": {
+            "el": [
+              "έγκλημα",
+              "Κεφαλονιά",
+              "δίκη",
+              "νεολαία"
+            ],
+            "en": [
+              "crime",
+              "Kefalonia",
+              "trial",
+              "youth"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "ΟΠΕΚΕΠΕ: Τα πλαστά παραστατικά του 71χρονου για επιδοτούμενες καλλιέργειες στο Κιλκίς",
+          "url": "https://www.kathimerini.gr/society/564176008/opekepe-sporoi-gia-vamvaki-kai-sitari-ta-plasta-parastatika-toy-71chronoy/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T17:31:50+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Λεπτομέρειες για τα πλαστά παραστατικά πιστοποίησης σπόρων που διακινούσαν εταιρείες του 71χρονου ΟΠΕΚΕΠΕ στο Κιλκίς.",
+            "en": "Details of the fake seed certification labels used by the 71-year-old's OPEKAPO-linked companies in Kilkis to fraudulently claim agricultural subsidies."
+          },
+          "tags": {
+            "el": [
+              "ΟΠΕΚΕΠΕ",
+              "απάτη",
+              "αγρότες",
+              "Κιλκίς"
+            ],
+            "en": [
+              "OPEKAPO",
+              "fraud",
+              "farmers",
+              "Kilkis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "ΟΠΕΚΕΠΕ: 71χρονος έστελνε εικονικά τιμολόγια μέσα από τις φυλακές",
+          "url": "https://www.kathimerini.gr/society/564175885/opekepe-71chronos-estelne-eikonika-timologia-mesa-apo-tis-fylakes/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T15:48:22+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "ΟΠΕΚΕΠΕ: 71χρονος διαχειριστής εικονικών εταιρειών έστελνε πλαστά τιμολόγια από τη φυλακή, με ζημία πάνω από 220.000 ευρώ.",
+            "en": "OPEKAPO: a 71-year-old manager of shell companies was sending fake invoices from inside prison, causing over €220,000 in damage to the subsidy system."
+          },
+          "tags": {
+            "el": [
+              "ΟΠΕΚΕΠΕ",
+              "απάτη",
+              "αγροτικές επιδοτήσεις"
+            ],
+            "en": [
+              "OPEKAPO",
+              "fraud",
+              "agricultural subsidies"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Αίγιο: Μία σύλληψη για απόπειρα ανθρωποκτονίας",
+          "url": "https://www.kathimerini.gr/society/564176377/aigio-mia-syllipsi-gia-apopeira-anthropoktonias/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:58:29+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Μία σύλληψη για απόπειρα ανθρωποκτονίας στο Αίγιο· αναζητούνται 5 ακόμα άνδρες, ενώ ερευνάται συμπλοκή 30 ατόμων.",
+            "en": "One arrested for attempted murder in Aigio; 5 more suspects sought as police also investigate a separate brawl involving 30 people in the same case."
+          },
+          "tags": {
+            "el": [
+              "έγκλημα",
+              "αστυνομία",
+              "Αίγιο"
+            ],
+            "en": [
+              "crime",
+              "police",
+              "Aigio"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ομόνοια: Γιατρός έγραφε συνταγές για ναρκωτικά χάπια με το αζημίωτο",
+          "url": "https://www.kathimerini.gr/society/564175981/omonoia-giatros-egrafe-syntages-gia-narkotika-chapia-me-to-azimioto/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T17:22:00+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Γιατρός στην Ομόνοια συνελήφθη γιατί πουλούσε συνταγές ναρκωτικών χαπιών: βρέθηκαν 21 συνταγές στην κατοχή του.",
+            "en": "A doctor in Omonia was arrested for selling narcotic prescriptions; police found 21 prescriptions on him during a pedestrian check in central Athens."
+          },
+          "tags": {
+            "el": [
+              "αστυνομία",
+              "ναρκωτικά",
+              "Ομόνοια"
+            ],
+            "en": [
+              "police",
+              "narcotics",
+              "Omonia"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ελεγκτικό Συνέδριο: Γιατί καθυστερεί η κτηματογράφηση",
+          "url": "https://www.kathimerini.gr/society/564176164/elegktiko-synedrio-giati-kathysterei-i-ktimatografisi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:05:05+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Το Ελεγκτικό Συνέδριο ερευνά γιατί η κτηματογράφηση καθυστερεί και κατά πόσο αποδίδει το εθνικό κτηματολόγιο.",
+            "en": "The Court of Audit investigates why the national cadastral mapping remains incomplete and whether the land registry is functioning effectively."
+          },
+          "tags": {
+            "el": [
+              "κτηματολόγιο",
+              "δικαιοσύνη",
+              "ακίνητα"
+            ],
+            "en": [
+              "cadastre",
+              "justice",
+              "real estate"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Μυτιλήνη: Χωρίς φορτηγά αναχωρεί το πλοίο – Νέα κινητοποίηση την Πέμπτη",
+          "url": "https://www.kathimerini.gr/society/564176134/mytilini-choris-fortiga-anachorei-to-ploio-nea-kinitopoiisi-tin-pempti/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T18:55:00+00:00",
+          "importance": 48,
+          "summary": {
+            "el": "Κτηνοτρόφοι Μυτιλήνης εμποδίζουν φορτηγά στο πλοίο «Blue Star Patmos»: νέα κινητοποίηση την Πέμπτη.",
+            "en": "Lesbos livestock farmers blocked trucks from boarding the Blue Star Patmos ferry; a fresh protest action is planned for Thursday."
+          },
+          "tags": {
+            "el": [
+              "αγρότες",
+              "κτηνοτρόφοι",
+              "Μυτιλήνη",
+              "διαμαρτυρία"
+            ],
+            "en": [
+              "farmers",
+              "livestock",
+              "Lesbos",
+              "protest"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Reuters: Το ΓΕΕΘΑ στόχος χάκερ που συνδέονται με τη Ρωσία",
+          "url": "https://www.kathimerini.gr/world/564176383/reuters-stochos-roson-chaker-email-toy-geetha/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T21:20:52+00:00",
+          "importance": 92,
+          "summary": {
+            "el": "Reuters αποκαλύπτει: χάκερ με ρωσικές συνδέσεις παραβίασαν 27 λογαριασμούς email του ΓΕΕΘΑ, στοχεύοντας και στρατιωτικούς ακολούθους σε Ινδία και Βοσνία.",
+            "en": "Reuters reveals: Russia-linked hackers breached 27 email accounts managed by Greece's National Defence General Staff, targeting military attachés in India and Bosnia."
+          },
+          "tags": {
+            "el": [
+              "ασφάλεια",
+              "Ελλάδα",
+              "Ρωσία",
+              "κυβερνοεπίθεση"
+            ],
+            "en": [
+              "security",
+              "Greece",
+              "Russia",
+              "cyberattack"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Πώς ΗΠΑ και Ιράν μπορούν να φτάσουν σε συμφωνία που θα παρουσιάσουν και οι δύο ως νίκη",
+          "url": "https://www.kathimerini.gr/world/564176368/pos-ipa-kai-iran-mporoyn-na-ftasoyn-se-symfonia-poy-tha-paroysiasoyn-kai-oi-dyo-os-niki/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T22:25:02+00:00",
+          "importance": 90,
+          "summary": {
+            "el": "ΗΠΑ και Ιράν κινούνται προς συμφωνία-πλαίσιο για να τερματίσουν τον πόλεμο, αν και κανείς δεν θεωρεί τον συμβιβασμό ιδανικό. Κρίσιμο ζήτημα παραμένει το αφήγημα που θα «πουλήσει» ο καθένας στο κοινό του.",
+            "en": "The US and Iran are moving toward a framework deal to end the war, though neither side finds the compromise ideal. The critical question is the narrative each side will sell to its domestic audience."
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "ΗΠΑ",
+              "Ιράν",
+              "πόλεμος"
+            ],
+            "en": [
+              "world",
+              "USA",
+              "Iran",
+              "war"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Στενά του Ορμούζ: Το Ιράν πρότεινε να περνούν ανεμπόδιστα τα πλοία από την πλευρά του Ομάν",
+          "url": "https://www.kathimerini.gr/world/564176437/stena-toy-ormoyz-to-iran-proteine-na-pernoyn-anempodista-ta-ploia-apo-tin-pleyra-toy-oman/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T22:14:50+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Το Ιράν πρότεινε να επιτρέπει ελεύθερη διέλευση πλοίων από τα Στενά του Ορμούζ μέσω της πλευράς του Ομάν, υπό την προϋπόθεση ότι η Ουάσιγκτον θα ικανοποιήσει αιτήματά του.",
+            "en": "Iran proposed allowing free ship passage through the Strait of Hormuz via the Omani side, provided Washington meets Iranian demands — a significant diplomatic signal."
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "Ιράν",
+              "Στενά Ορμούζ",
+              "ναυτιλία"
+            ],
+            "en": [
+              "world",
+              "Iran",
+              "Strait of Hormuz",
+              "diplomacy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "«Οι δυνάμεις μας θα μείνουν στον Λίβανο για όσο καιρό απαιτηθεί»",
+          "url": "https://www.kathimerini.gr/world/564176170/oi-dynameis-mas-tha-meinoyn-ston-livano-gia-oso-kairo-apaitithei/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:20:33+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο ισραηλινός στρατός ολοκληρώνει την κατάληψη της πόλης Μπιν Ζαμπέλ στον νότιο Λίβανο, βασικό προπύργιο της Χεζμπολάχ, με ανταπόκριση από το μέτωπο.",
+            "en": "The IDF is completing its capture of Bin Jubeil in southern Lebanon, a key Hezbollah stronghold, with an on-the-ground dispatch from an Israeli military correspondent."
+          },
+          "tags": {
+            "el": [
+              "Ισραήλ",
+              "Λίβανος",
+              "πόλεμος",
+              "Χεζμπολάχ"
+            ],
+            "en": [
+              "Israel",
+              "Lebanon",
+              "war",
+              "Hezbollah"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κύπρος: Ενταση στη νεκρή ζώνη μεταξύ κυανόκρανων και κατοχικών δυνάμεων",
+          "url": "https://www.kathimerini.gr/world/564175948/kypros-entasi-sti-nekri-zoni-metaxy-oynfikyp-kai-katochikon-dynameon/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T17:14:17+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Έκρυθμη κατάσταση στη νεκρή ζώνη στην Κύπρο: τουρκοκυπριακή πλευρά τοποθέτησε τουρκική σημαία, μετέφερε 15 άρματα μάχης, ενεπλάκησαν κυανόκρανοι ΟΗΕ.",
+            "en": "Heightened tensions in Cyprus's buffer zone: the Turkish-Cypriot side planted a Turkish flag, deployed 15 tanks, and triggered UN peacekeepers' response."
+          },
+          "tags": {
+            "el": [
+              "Κύπρος",
+              "Τουρκία",
+              "ΟΗΕ",
+              "κατεχόμενα"
+            ],
+            "en": [
+              "Cyprus",
+              "Turkey",
+              "UN",
+              "occupied territories"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κεφαλονιά: Βίντεο με τη 19χρονη που τη μεταφέρουν ημιλιπόθυμη στην πλατεία",
+          "url": "https://www.kathimerini.gr/world/564176071/kefalonia-vinteo-me-tin-19chroni-poy-ti-metaferoyn-imilipothymi-stin-plateia/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T19:27:45+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Νέο βίντεο-ντοκουμέντο από την υπόθεση θανάτου της 19χρονης στην Κεφαλονιά: η κάμερα αποτύπωσε τη μεταφορά της ημιλιπόθυμης στην πλατεία.",
+            "en": "New surveillance footage emerged in the Kefalonia case of the 19-year-old's death, showing her being carried semi-conscious to the central square."
+          },
+          "tags": {
+            "el": [
+              "κοινωνία",
+              "Κεφαλονιά",
+              "έγκλημα"
+            ],
+            "en": [
+              "society",
+              "crime",
+              "Kefalonia"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τουρκία: Στους εννέα οι νεκροί από την επίθεση σε σχολείο – Το μήνυμα του δράστη στα social",
+          "url": "https://www.kathimerini.gr/world/564176083/toyrkia-stoys-ennea-oi-nekroi-apo-tin-enopli-epithesi-se-scholeio/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T18:21:37+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Εννέα νεκροί (8 μαθητές, 1 καθηγητής) από επίθεση ενόπλου σε σχολείο στο Καχραμάνμαρας· αρχές εστιάζουν στο προφίλ του δράστη.",
+            "en": "Nine killed (8 students, 1 teacher) in a school shooting in Kahramanmaras, Turkey; authorities are focusing on the attacker's identity and social media posts."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "βία",
+              "σχολεία"
+            ],
+            "en": [
+              "Turkey",
+              "violence",
+              "schools"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "H Βρετανία επιστρέφει στο Erasmus έξι χρόνια μετά το Brexit",
+          "url": "https://www.kathimerini.gr/world/564176350/h-vretania-epistrefei-sto-erasmus-exi-chronia-meta-apo-to-brexit/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:46:05+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Βρετανία και ΕΕ υπέγραψαν συμφωνία επανένταξης στο Erasmus από το 2027, εξι χρόνια μετά το Brexit, με 30% μειωμένη συνεισφορά.",
+            "en": "Britain and the EU signed an agreement for UK re-entry into the Erasmus programme from 2027, six years after Brexit, at a 30% reduced contribution rate."
+          },
+          "tags": {
+            "el": [
+              "ΕΕ",
+              "Βρετανία",
+              "Erasmus",
+              "Brexit"
+            ],
+            "en": [
+              "EU",
+              "UK",
+              "Erasmus",
+              "Brexit"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        {
+          "title": "Ριβιέρα η Γάζα και… Τέξας το Ιράν",
+          "url": "https://www.kathimerini.gr/opinion/564174619/riviera-i-gaza-kai-texas-to-iran/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:13:00+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Παπαχελάς: Ο Τραμπ σχεδιάζει να κάνει τη Γάζα «ριβιέρα» και το Ιράν «Τέξας», αλλά η πραγματικότητα της Μέσης Ανατολής αντιστέκεται.",
+            "en": "Papachelas: Trump plans to make Gaza a 'Riviera' and Iran a 'Texas', but Middle Eastern realities resist such neat reconfigurations of post-imperial maps."
+          },
+          "tags": {
+            "el": [
+              "διεθνή",
+              "Τραμπ",
+              "Μέση Ανατολή",
+              "ανάλυση"
+            ],
+            "en": [
+              "world",
+              "Trump",
+              "Middle East",
+              "analysis"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+          "url": "https://www.kathimerini.gr/opinion/564174871/i-eleytheri-naysiplo-a-kai-ta-stena-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:09:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Σώκου: Νομική ανάλυση του ναυτικού αποκλεισμού Τραμπ — η ελεύθερη ναυσιπλοΐα ως θεσμός διεθνούς δικαίου απειλείται.",
+            "en": "Sokou: Legal analysis of Trump's naval blockade — free navigation as an international law institution is under unprecedented threat."
+          },
+          "tags": {
+            "el": [
+              "διεθνές δίκαιο",
+              "ναυτιλία",
+              "Τραμπ",
+              "Ιράν"
+            ],
+            "en": [
+              "international law",
+              "navigation",
+              "Trump",
+              "Iran"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ο λαϊκισμός δεν είναι μονόδρομος",
+          "url": "https://www.kathimerini.gr/opinion/564175042/o-laikismos-den-einai-monodromos/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:12:00+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Θεοδωρόπουλος: Ο Ορμπαν δεν έχασε λόγω κόπωσης· το ερώτημα είναι γιατί κυβέρνησε 16 χρόνια — και τι λέει αυτό για την ευρωπαϊκή δημοκρατία.",
+            "en": "Theodoropoulos: Orbán lost not because of fatigue but because of the distance Europe has opened with Trumpism — a sign of the EU's democratic resilience."
+          },
+          "tags": {
+            "el": [
+              "Ουγγαρία",
+              "Ορμπαν",
+              "δημοκρατία",
+              "Ευρώπη"
+            ],
+            "en": [
+              "Hungary",
+              "Orbán",
+              "democracy",
+              "Europe"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Βίκτορ Ορμπαν: Υποτροπές",
+          "url": "https://www.kathimerini.gr/opinion/564175045/viktor-ormpan-ypotropes/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:10:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Τσιντσίνης: Η Ουγγαρία ήταν η πρώτη της ανατολικής Ευρώπης που απελευθερώθηκε — και τώρα η πρώτη που έδιωξε τον λαϊκισμό.",
+            "en": "Tsintsinis: Hungary was the first Eastern European country to be liberated — and now the first to eject populism, in an act of democratic self-recovery."
+          },
+          "tags": {
+            "el": [
+              "Ουγγαρία",
+              "Ευρώπη",
+              "λαϊκισμός",
+              "δημοκρατία"
+            ],
+            "en": [
+              "Hungary",
+              "Europe",
+              "populism",
+              "democracy"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Το αντάμωμα που γίνεται… reunion",
+          "url": "https://www.kathimerini.gr/opinion/564174874/to-antamoma-poy-ginetai-reunion/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:03:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Αντωνίου: Το πασχαλινό «αντάμωμα» γίνεται reunion — οι Έλληνες της διασποράς επιστρέφουν σε μια χώρα που αδυνατεί να τους κρατήσει.",
+            "en": "Antoniou: Easter reunions have become expat 'reunions' — Greeks from the diaspora return to a country that still cannot offer the stability to keep them."
+          },
+          "tags": {
+            "el": [
+              "κοινωνία",
+              "brain drain",
+              "Πάσχα",
+              "Ελλάδα"
+            ],
+            "en": [
+              "society",
+              "brain drain",
+              "Easter",
+              "Greece"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Διαρκής επαγρύπνηση",
+          "url": "https://www.kathimerini.gr/opinion/564174625/diarkis-epagrypnisi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:14:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Κύριο άρθρο: Ο αποκλεισμός ανηλίκων από social media είναι αναγκαίος, αλλά χωρίς συνεχή επαγρύπνηση κινδυνεύει να παραμείνει χαρτί.",
+            "en": "Editorial: Banning minors from social media is necessary but, without constant vigilance, risks becoming a dead letter as teens migrate to darker corners of the net."
+          },
+          "tags": {
+            "el": [
+              "κοινωνία",
+              "social media",
+              "ανήλικοι",
+              "τεχνολογία"
+            ],
+            "en": [
+              "society",
+              "social media",
+              "minors",
+              "technology"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Το «άγιο ρουσφέτι»",
+          "url": "https://www.kathimerini.gr/opinion/564174835/to-agio-roysfeti/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:07:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Μανδραβέλης: Το «άγιο ρουσφέτι» — ο Λοβέρδος λέει «όλοι ζητούν χάρες», αλλά η εξομολόγηση δεν αθωώνει, απλώς ισοπεδώνει τη διαφθορά.",
+            "en": "Mandraveli: 'Everyone asks for favours' says Loverdos, but this confessional solidarity doesn't justify corruption, it merely normalises it."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ρουσφέτι",
+              "διαφθορά",
+              "ανάλυση"
+            ],
+            "en": [
+              "politics",
+              "patronage",
+              "corruption",
+              "analysis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η ιστορική μνήμη αποτελεί κόκκινη γραμμή",
+          "url": "https://www.kathimerini.gr/opinion/564174862/i-istoriki-mnimi-apotelei-kokkini-grammi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:05:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Μουμτζής: Η ήττα Ορμπαν δεν ήταν απλώς κόπωση ψηφοφόρων — η ιστορική μνήμη της Κεντρικής Ευρώπης αποτελεί κόκκινη γραμμή.",
+            "en": "Moumt2is: Orbán's defeat wasn't just voter fatigue — Central European historical memory of occupation acts as a red line against authoritarian drift."
+          },
+          "tags": {
+            "el": [
+              "Ουγγαρία",
+              "Ορμπαν",
+              "ιστορία",
+              "Ευρώπη"
+            ],
+            "en": [
+              "Hungary",
+              "Orbán",
+              "history",
+              "Europe"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "title": "Αρχαιολογικό Μουσείο: «Γέφυρα» αρχιτεκτονικής και εκθεμάτων",
+          "url": "https://www.kathimerini.gr/culture/museums/564174925/archaiologiko-moyseio-gefyra-architektonikis-kai-ekthematon/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T15:22:20+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Αποκαλύπτονται λεπτομέρειες της μουσειογραφικής προμελέτης του νέου Εθνικού Αρχαιολογικού Μουσείου: θέαση 360°, γήινη παλέτα, minimal πολυμέσα.",
+            "en": "Details emerge of the new National Archaeological Museum's redesign: 360° viewing of key exhibits, earthy colour palette, and minimal multimedia for a classical feel."
+          },
+          "tags": {
+            "el": [
+              "αρχαιολογία",
+              "μουσείο",
+              "Αθήνα",
+              "πολιτισμός"
+            ],
+            "en": [
+              "archaeology",
+              "museum",
+              "Athens",
+              "culture"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Σερ Τζον Ελιοτ Γκάρντινερ στην «Κ»: Ο Μπαχ είχε τις εμμονές του, αλλά είναι παρηγοριά",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564168598/ser-tzon-eliot-gkarntiner-stin-k-o-mpach-eiche-tis-emmones-toy-alla-einai-parigoria/",
+          "source": "Kathimerini",
+          "published": "2026-04-14T23:17:27+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Εκτενής συνέντευξη με τον αρχιμουσικό σερ Τζον Ελιοτ Γκάρντινερ: «Ο Μπαχ είχε τις εμμονές του, αλλά η μουσική του είναι παρηγοριά».",
+            "en": "Extensive interview with conductor Sir John Eliot Gardiner: 'Bach had his obsessions, but his music is a consolation' — ahead of his Athens concert."
+          },
+          "tags": {
+            "el": [
+              "μουσική",
+              "κλασική μουσική",
+              "Γκάρντινερ",
+              "Μπαχ"
+            ],
+            "en": [
+              "music",
+              "classical",
+              "Gardiner",
+              "Bach"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Το Χόλιγουντ υπογράφει ενάντια στη συγχώνευση",
+          "url": "https://www.kathimerini.gr/culture/cinema/564174919/to-choligoynt-ypografei-enantia-sti-sygchoneysi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:27:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "1.000 στελέχη του Hollywood υπογράφουν ανοιχτή επιστολή κατά της συγχώνευσης Warner-Paramount που απειλεί να αλλάξει τη βιομηχανία.",
+            "en": "1,000 Hollywood insiders sign an open letter opposing the Warner-Paramount $110 billion merger, warning it would concentrate too much power in one studio."
+          },
+          "tags": {
+            "el": [
+              "Hollywood",
+              "κινηματογράφος",
+              "Warner",
+              "Paramount"
+            ],
+            "en": [
+              "Hollywood",
+              "cinema",
+              "Warner",
+              "Paramount"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ask Mona: η πλατφόρμα που δίνει «φωνή» στα έργα τέχνης",
+          "url": "https://www.kathimerini.gr/culture/564174898/ask-mona-i-platforma-poy-dinei-foni-sta-erga-technis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T13:44:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "«Ask Mona» στο Λούβρο: πλατφόρμα ΑΙ που δίνει «φωνή» στα εκθέματα — τα ίδια τα αγάλματα μιλούν για τη ζωή τους.",
+            "en": "'Ask Mona' at the Louvre: an AI platform that gives voice to artworks, letting statues speak about their history — a new form of immersive museum experience."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "μουσείο",
+              "Λούβρο",
+              "πολιτισμός"
+            ],
+            "en": [
+              "AI",
+              "museum",
+              "Louvre",
+              "culture"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Oταν οι τουρίστες ανακάλυψαν το ελληνικό Πάσχα, που ο Τομ Χανκς ήδη ήξερε",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564174667/otan-oi-toyristes-anakalypsan-to-elliniko-pascha-poy-o-tom-chanks-idi-ixere/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T11:17:00+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Τουρίστες ανακαλύπτουν το ελληνικό Πάσχα: η Μεγάλη Παρασκευή στο Μοναστηράκι έφερε 2.000 επισκέπτες — ο Τομ Χανκς το ήξερε ήδη.",
+            "en": "Tourists discover Greek Easter: 2,000 visitors queued for Good Friday services at Monastiraki — a sign that religious traditions are becoming a tourism draw."
+          },
+          "tags": {
+            "el": [
+              "τουρισμός",
+              "Πάσχα",
+              "Αθήνα",
+              "πολιτισμός"
+            ],
+            "en": [
+              "tourism",
+              "Easter",
+              "Athens",
+              "culture"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "«Ο Αρχοντας των Δαχτυλιδιών»: Επιστρέφουν Γκάνταλφ και Φρόντο – Ποιος είναι ο νέος Αραγκορν",
+          "url": "https://www.kathimerini.gr/culture/cinema/564175453/o-archontas-ton-dachtylidion-epistrefoyn-gkantalf-kai-fronto-poios-einai-o-neos-aragkorn/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:45:23+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Ανακοινώθηκε το καστ της νέας ταινίας «Άρχοντας των Δαχτυλιδιών: Κυνήγι του Γκόλουμ»: Τζέιμι Ντόρναν ως νέος Αραγκόρν, Γκάνταλφ και Φρόντο επιστρέφουν.",
+            "en": "The cast of 'Lord of the Rings: The Hunt for Gollum' is announced: Jamie Dornan as the new Aragorn, with Gandalf and Frodo reprised by the originals."
+          },
+          "tags": {
+            "el": [
+              "κινηματογράφος",
+              "Άρχοντας Δαχτυλιδιών",
+              "Hollywood"
+            ],
+            "en": [
+              "cinema",
+              "Lord of the Rings",
+              "Hollywood"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "«Ink»: «Αργεί» η βιογραφική ταινία του Ρούπερτ Μέρντοχ",
+          "url": "https://www.kathimerini.gr/culture/564174169/ink-argei-i-viografiki-tainia-toy-roypert-merntoch/",
+          "source": "Kathimerini",
+          "published": "2026-04-14T23:58:32+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Η βιογραφική ταινία «Ink» για τον Ρούπερτ Μέρντοχ του Ντάνι Μπόιλ μεταφέρεται για το 2027.",
+            "en": "Danny Boyle's Rupert Murdoch biopic 'Ink' is pushed back to 2027 by Studiocanal, ending hopes of a festival run this autumn."
+          },
+          "tags": {
+            "el": [
+              "κινηματογράφος",
+              "Μέρντοχ",
+              "Μπόιλ"
+            ],
+            "en": [
+              "cinema",
+              "Murdoch",
+              "Boyle"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Πού βγαίνουμε σήμερα Τετάρτη; Προτάσεις για θέατρο, συναυλίες, εκθέσεις, εκδηλώσεις",
+          "url": "https://www.kathimerini.gr/culture/agenda/564174922/poy-vgainoyme-simera-tetarti-protaseis-gia-theatro-synaylies-ektheseis-ekdiloseis-122/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T08:45:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Οδηγός εκδηλώσεων Αθήνας για Τετάρτη 15/4: θέατρο «Άννα Μπολένα» από τη ΛΕΣ, εκθέσεις, συναυλίες.",
+            "en": "Athens entertainment guide for Wednesday 15/4: Opera 'Anna Boleyna' at the Greek National Opera, gallery exhibitions, concerts and cultural events."
+          },
+          "tags": {
+            "el": [
+              "πολιτισμός",
+              "Αθήνα",
+              "εκδηλώσεις"
+            ],
+            "en": [
+              "culture",
+              "Athens",
+              "events"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
   }
 }
