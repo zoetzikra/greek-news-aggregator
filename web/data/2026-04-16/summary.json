@@ -1,0 +1,107 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T10:20:21.289266+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 79 articles over 24h.",
+  "executive_summary": {
+    "el": "Η 16η Απριλίου 2026 σημαδεύτηκε από τέσσερα κυρίαρχα θέματα στην ελληνική και διεθνή επικαιρότητα. Στο εσωτερικό, η κατάσταση της υγείας του υφυπουργού παρά τω Πρωθυπουργώ Γιώργου Μυλωνάκη, ο οποίος νοσηλεύεται διασωληνωμένος μετά από ρήξη ανευρύσματος, κυριάρχησε στο πολιτικό τοπίο. Η Βουλή φιλοξένησε οξεία αντιπαράθεση μεταξύ κυβέρνησης και αντιπολίτευσης για κράτος δικαίου, ΟΠΕΚΕΠΕ και την υπόθεση Λαζαρίδη, με τον Ανδρουλάκη να ζητά παραίτηση κυβέρνησης.\n\nΣτο διεθνές μέτωπο, ο πόλεμος στην Ουκρανία εντάθηκε με τη φονικότερη ρωσική επίθεση του 2026 στο Κίεβο, με 16 νεκρούς. Παράλληλα στη Μέση Ανατολή, ανοίγει «παράθυρο» για διπλωματική λύση: η Κίνα πίεσε το Ιράν να ανοίξει τα Στενά του Ορμούζ, ενώ ο Τραμπ προαναγγέλλει συνομιλίες Ισραήλ-Λιβάνου.\n\nΟικονομικά, ο πόλεμος αφήνει ορατά αποτυπώματα στην ελληνική αγορά: ο πληθωρισμός εκτινάχθηκε σε 3,9% ετήσια τον Μάρτιο, κυρίως λόγω των καυσίμων, ενώ πάνω από τις μισές πτήσεις προς Μέση Ανατολή παραμένουν ακυρωμένες. Ο Τραμπ απείλησε εκ νέου να απολύσει τον πρόεδρο της Fed Πάουελ, αυξάνοντας την αβεβαιότητα στις αγορές.\n\nΣε πολιτισμικό επίπεδο, η Ελλάδα φιλοξενεί σύντομα το 11ο Διεθνές Οικονομικό Συνέδριο Δελφών, ενώ τα αποτελέσματα του ελληνικού Πάσχα για τον τουρισμό κινούν το ενδιαφέρον διεθνώς.",
+    "en": "April 16, 2026 was defined by four dominant stories in Greek and international news. Domestically, the health condition of Deputy Minister Giorgos Mylonakis—hospitalised and intubated after an aneurysm rupture—dominated the political landscape. Parliament hosted a fierce clash between government and opposition over rule of law, the OPEKAUPE agricultural subsidy scandal and the Lazaridis appointment affair, with PASOK leader Androulakis demanding the government's resignation.\n\nOn the international front, the Ukraine war escalated with Russia's deadliest 2026 attack on Kyiv killing 16 people including a 12-year-old. Meanwhile in the Middle East, a diplomatic opening emerged: China pressed Iran to reopen the Hormuz Strait, while Trump announced new Israel-Lebanon leadership talks and White House officials expressed optimism about a US-Iran deal.\n\nEconomically, the war is leaving a visible mark on Greece: inflation jumped to 3.9% annually in March, driven mainly by fuel prices, while more than half of flights to the Middle East remain cancelled at Athens airport. Trump's renewed threat to fire Fed Chair Jerome Powell added to global market uncertainty.\n\nOn the cultural front, Greece is preparing for the 11th Delphi Economic Forum later this month, while foreign tourists' discovery of Greek Easter generated international media interest. The new Conrad Athens hotel, replacing the historic Hilton, announced its opening for April 23."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Κρίση υγείας Μυλωνάκη και πολιτικό κλίμα",
+        "en": "Mylonakis health crisis and political climate"
+      },
+      "description": {
+        "el": "Ο υφυπουργός παρά τω Πρωθυπουργώ Γιώργος Μυλωνάκης νοσηλεύεται διασωληνωμένος μετά από ρήξη ανευρύσματος, ενώ η κατάστασή του χαρακτηρίζεται σταθερή. Η υγεία του κυριάρχησε στη σημερινή συζήτηση στη Βουλή.",
+        "en": "Deputy Minister Giorgos Mylonakis is hospitalised intubated after an aneurysm rupture with stable condition. His health dominated today's parliamentary debate."
+      },
+      "related_items": [
+        "3c517e1d050e",
+        "65cc9901a9b3",
+        "5767ead3f557",
+        "88bd6e96118e",
+        "373cdb9b30f7"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Πόλεμος στη Μέση Ανατολή: Ορμούζ, Ιράν, διπλωματία",
+        "en": "Middle East war: Hormuz, Iran, diplomacy"
+      },
+      "description": {
+        "el": "Η Κίνα πίεσε το Ιράν να ανοίξει τα Στενά του Ορμούζ, ενώ ανοίγει «παράθυρο» για συμφωνία ΗΠΑ-Ιράν. Ο Τραμπ προαναγγέλλει νέες συνομιλίες Ισραήλ-Λιβάνου.",
+        "en": "China pressed Iran to reopen the Hormuz Strait, while a window for a US-Iran deal appears. Trump announced new Israel-Lebanon leader talks."
+      },
+      "related_items": [
+        "f19e5696b0ce",
+        "74f685e74ea3",
+        "3369170d21b0",
+        "4270bf22d571",
+        "12e168e56de0"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Πόλεμος Ουκρανίας: Φονικότερη επίθεση του 2026",
+        "en": "Ukraine war: Deadliest attack of 2026"
+      },
+      "description": {
+        "el": "Η Ρωσία εξαπέλυσε την πιο αιματηρή της επίθεση φέτος στο Κίεβο, με 16 νεκρούς. Η σύγκρουση δεν δείχνει σημάδια αποκλιμάκωσης.",
+        "en": "Russia launched its deadliest 2026 attack on Kyiv, killing 16 people including a 12-year-old. The conflict shows no signs of de-escalation."
+      },
+      "related_items": [
+        "7d5db38b8fb9",
+        "985bbd16a6a5",
+        "f19e5696b0ce"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Πληθωρισμός και οικονομικός αντίκτυπος πολέμου στην Ελλάδα",
+        "en": "Inflation and war's economic impact on Greece"
+      },
+      "description": {
+        "el": "Ο πόλεμος στη Μέση Ανατολή ωθεί τον ελληνικό πληθωρισμό σε 3,9% ετήσια, με τα καύσιμα σε διψήφιες αυξήσεις. Πάνω από οι μισές πτήσεις προς Μέση Ανατολή δεν εκτελούνται.",
+        "en": "The Middle East war is pushing Greek inflation to 3.9% annually, with fuel prices at double-digit increases. Over half the flights to the Middle East remain grounded."
+      },
+      "related_items": [
+        "c2ca8ced4911",
+        "ee2328dc6f1d",
+        "bee99106b1b6",
+        "917de29e7c23"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Κράτος δικαίου, ΟΠΕΚΕΠΕ και Λαζαρίδης",
+        "en": "Rule of law, OPEKAUPE and Lazaridis affair"
+      },
+      "description": {
+        "el": "Η Βουλή φιλοξένησε έντονη αντιπαράθεση για κράτος δικαίου, ΟΠΕΚΕΠΕ και τη διαμάχη για τον διορισμό υφυπουργού Λαζαρίδη. Η ΕνΔΕ καταδίκασε παρεμβάσεις κατά της Ευρωπαϊκής Εισαγγελίας.",
+        "en": "Parliament hosted an intense debate on rule of law, OPEKAUPE scandal and the Lazaridis appointment controversy. The Judges Union condemned interference against the European Public Prosecutor."
+      },
+      "related_items": [
+        "d5134d10ec4a",
+        "a03bd1621e2e",
+        "bae12cacb73f",
+        "c22218a01251",
+        "6b38815821e1"
+      ],
+      "importance": 78
+    }
+  ],
+  "article_count": 79,
+  "categories": {
+    "politics": 14,
+    "economy": 14,
+    "society": 13,
+    "world": 14,
+    "opinion": 11,
+    "culture": 13
+  }
+}
