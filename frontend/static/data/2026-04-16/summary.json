@@ -97,11 +97,815 @@
   ],
   "article_count": 79,
   "categories": {
-    "politics": 14,
-    "economy": 14,
-    "society": 13,
-    "world": 14,
-    "opinion": 11,
-    "culture": 13
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Γιώργος Μυλωνάκης: Σταθερή η κατάστασή του, παραμένει διασωληνωμένος στη ΜΕΘ",
+          "url": "https://www.kathimerini.gr/politics/564177598/giorgos-mylonakis-statheri-i-katastasi-toy-paramenei-diasolinomenos-sti-meth/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T12:56:15+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Ο υφυπουργός παρά τω Πρωθυπουργώ Γιώργος Μυλωνάκης παραμένει διασωληνωμένος στη ΜΕΘ του «Ευαγγελισμού», με σταθερή κατάστασή του σύμφωνα με νέο ιατρικό ανακοινωθέν. Είχε υποστεί εγκεφαλικό επεισόδιο ύστερα από ρήξη ανευρύσματος.",
+            "en": "Deputy Minister Giorgos Mylonakis remains intubated in the ICU of 'Evangelismos' hospital with stable condition per a new medical bulletin. He suffered a stroke following an aneurysm rupture."
+          },
+          "tags": {
+            "el": [
+              "Μυλωνάκης",
+              "Ευαγγελισμός",
+              "ΜΕΘ",
+              "εγκεφαλικό"
+            ],
+            "en": [
+              "Mylonakis",
+              "Evangelismos",
+              "ICU",
+              "stroke"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Παραμένουν κρίσιμες οι επόμενες ώρες για τον Γιώργο Μυλωνάκη",
+          "url": "https://www.kathimerini.gr/politics/government/564176602/paramenoyn-krisimes-oi-epomenes-ores-gia-ton-giorgo-mylonaki/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T06:42:00+00:00",
+          "importance": 83,
+          "summary": {
+            "el": "Ο υφυπουργός παρά τω Πρωθυπουργώ Γιώργος Μυλωνάκης κατέρρευσε στο Μέγαρο Μαξίμου και νοσηλεύεται διασωληνωμένος με ρήξη ανευρύσματος. Οι επόμενες ώρες κρίνονται αποφασιστικές για την έκβαση της υγείας του.",
+            "en": "Deputy PM minister Giorgos Mylonakis collapsed at the Maximos Mansion and is hospitalised intubated after an aneurysm rupture. The next few hours are considered critical for his recovery."
+          },
+          "tags": {
+            "el": [
+              "Μυλωνάκης",
+              "Μαξίμου",
+              "ανεύρυσμα",
+              "εγκεφαλικό"
+            ],
+            "en": [
+              "Mylonakis",
+              "Maximos",
+              "aneurysm",
+              "stroke"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Γιώργος Μυλωνάκης: «Σοβαρή αλλά ελεγχόμενη» η κατάστασή του – Το ιατρικό ανακοινωθέν",
+          "url": "https://www.kathimerini.gr/politics/564175678/giorgos-mylonakis-sovari-alla-elegchomeni-i-katastasi-toy-to-iatriko-anakoinothen/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T14:18:31+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Το νοσοκομείο Ευαγγελισμός ανακοίνωσε ότι η κατάσταση του Μυλωνάκη είναι «σοβαρή αλλά ελεγχόμενη» μετά την επιτυχή διαδικασία εμβολισμού αγγείου. Παραμένει στη ΜΕΘ για εντατική παρακολούθηση.",
+            "en": "Evangelismos hospital announced Mylonakis's condition as 'serious but controlled' following a successful vascular embolisation procedure. He remains in the ICU under intensive monitoring."
+          },
+          "tags": {
+            "el": [
+              "Μυλωνάκης",
+              "Ευαγγελισμός",
+              "εμβολισμός",
+              "ΜΕΘ"
+            ],
+            "en": [
+              "Mylonakis",
+              "hospital",
+              "embolisation",
+              "ICU"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Μητσοτάκης σε αντιπολίτευση: «Ανασύρετε αφορμές διχασμού» – Αιχμές κατά Ευρωπαϊκής Εισαγγελίας για ΟΠΕΚΕΠΕ",
+          "url": "https://www.kathimerini.gr/politics/564177217/mitsotakis-se-antipoliteysi-anasyrete-aformes-dichasmoy-aichmes-kata-eyropaikis-eisaggelias-gia-opekepe/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T12:39:50+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Ο πρωθυπουργός Μητσοτάκης κατηγόρησε την αντιπολίτευση για «ανασύρεις αφορμών διχασμού» στη Βουλή, αναφερόμενος στην κατάσταση Μυλωνάκη ως παράδειγμα τοξικού πολιτικού κλίματος. Επίσης απηύθυνε αιχμές κατά της Ευρωπαϊκής Εισαγγελίας για την υπόθεση ΟΠΕΚΕΠΕ.",
+            "en": "PM Mitsotakis accused the opposition of 'reviving divisive pretexts' in parliament, citing Mylonakis's condition as an example of a toxic political climate. He also criticised the European Public Prosecutor's Office over the OPEKAUPE case."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "Βουλή",
+              "ΟΠΕΚΕΠΕ",
+              "ΠΑΣΟΚ"
+            ],
+            "en": [
+              "Mitsotakis",
+              "Parliament",
+              "OPEKAUPE",
+              "PASOK"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ανδρουλάκης: Μονόδρομος η παραίτηση της κυβέρνησης και οι εκλογές",
+          "url": "https://www.kathimerini.gr/politics/564177226/androylakis-monodromos-i-paraitisi-tis-kyvernisis-kai-oi-ekloges/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T12:31:01+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο αρχηγός του ΠΑΣΟΚ Νίκος Ανδρουλάκης ζήτησε από το βήμα της Ολομέλειας παραίτηση κυβέρνησης και πρόωρες εκλογές, αποκαλώντας τον Μητσοτάκη «αρχιτέκτονα τοξικότητας». Έθεσε ζητήματα υποκλοπών και ΟΠΕΚΕΠΕ.",
+            "en": "PASOK leader Nikos Androulakis called from the parliament floor for the government's resignation and early elections, branding Mitsotakis the 'architect of toxicity'. He raised the wiretapping and OPEKAUPE issues."
+          },
+          "tags": {
+            "el": [
+              "Ανδρουλάκης",
+              "ΠΑΣΟΚ",
+              "παραίτηση",
+              "εκλογές"
+            ],
+            "en": [
+              "Androulakis",
+              "PASOK",
+              "resignation",
+              "elections"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ξανά στο στόχαστρο του Τραμπ ο Τζερόμ Πάουελ της Fed",
+          "url": "https://www.kathimerini.gr/economy/international/564177115/xana-sto-stochastro-toy-tramp-o-tzerom-paoyel-tis-fed/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T08:07:00+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο Τραμπ απείλησε ότι θα απολύσει τον πρόεδρο της Fed Τζερόμ Πάουελ αν δεν παραιτηθεί «εγκαίρως», ανεβάζοντας τους κινδύνους για την ανεξαρτησία της κεντρικής τράπεζας. Ανακοίνωσε επίσης έρευνα κατά του Πάουελ.",
+            "en": "Trump threatened to fire Fed Chair Jerome Powell if he does not resign 'in time', raising risks to central bank independence. He also announced a Justice Department investigation against Powell."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Πάουελ",
+              "Fed",
+              "κεντρική τράπεζα"
+            ],
+            "en": [
+              "Trump",
+              "Powell",
+              "Fed",
+              "central bank"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ο πόλεμος στον Κόλπο «πέρασε» στις τιμές",
+          "url": "https://www.kathimerini.gr/visual/infographics/564176992/o-polemos-ston-kolpo-perase-stis-times/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T09:53:09+03:00",
+          "importance": 80,
+          "summary": {
+            "el": "Τα πρώτα σημάδια του πολέμου στη Μέση Ανατολή στις ελληνικές τιμές έγιναν ορατά με άλμα πληθωρισμού 2,6% μηνιαία και 3,9% ετήσια τον Μάρτιο. Τα καύσιμα με διψήφιες αυξήσεις είναι ο κύριος μοχλός μετάδοσης.",
+            "en": "The first impact of the Middle East war on Greek prices became visible with inflation jumping 2.6% monthly and 3.9% annually in March. Fuel prices with double-digit increases are the main transmission channel."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "ενέργεια",
+              "ΕΛΣΤΑΤ",
+              "καύσιμα"
+            ],
+            "en": [
+              "inflation",
+              "energy",
+              "ELSTAT",
+              "fuel"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "To μπλόκο στο Ορμούζ και οι σχέσεις ΗΠΑ – Κίνας",
+          "url": "https://www.kathimerini.gr/economy/international/564177109/to-mploko-sto-ormoyz-kai-oi-scheseis-ipa-kinas/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T11:27:04+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Η Κίνα χαρακτήρισε «επικίνδυνο» τον ναυτικό αποκλεισμό του Ορμούζ, ενώ ο Τραμπ ετοιμάζεται να επισκεφθεί το Πεκίνο σε τέσσερις εβδομάδες. Το δίλημμα για τις ΗΠΑ είναι πώς να εμποδίσουν τον πόλεμο Ιράν-ΗΠΑ να υπονομεύσει τη σχέση με Κίνα.",
+            "en": "China labelled the Hormuz blockade 'dangerous and irresponsible' as Trump prepares to visit Beijing in four weeks. The US dilemma is how to prevent the Iran conflict from undermining the US-China detente."
+          },
+          "tags": {
+            "el": [
+              "Ορμούζ",
+              "Τραμπ",
+              "Κίνα",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "Hormuz",
+              "Trump",
+              "China",
+              "US-China"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Δεν εκτελείται άνω του 50% των πτήσεων προς Μέση Ανατολή",
+          "url": "https://www.kathimerini.gr/economy/564177037/den-ekteleitai-ano-toy-50-ton-ptiseon-pros-mesi-anatoli/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T09:07:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Πάνω από τις μισές πτήσεις προς Μέση Ανατολή δεν εκτελούνται στο ΔΑΑ λόγω του πολέμου. Ο CEO του αεροδρομίου εκτιμά ότι η αγορά Κόλπου δεν έχει χαθεί πλήρως για το 2026.",
+            "en": "More than half of flights to the Middle East are not operating at Athens International Airport due to the war. The AIA CEO estimates the Gulf market is not entirely lost for 2026."
+          },
+          "tags": {
+            "el": [
+              "ΔΑΑ",
+              "πτήσεις",
+              "Μέση Ανατολή",
+              "τουρισμός"
+            ],
+            "en": [
+              "Athens airport",
+              "flights",
+              "Middle East",
+              "aviation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Το στοίχημα της γεώτρησης στο Ιόνιο",
+          "url": "https://www.kathimerini.gr/economy/local/564176977/to-stoichima-tis-geotrisis-sto-ionio/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T11:10:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η Energean σχεδιάζει ερευνητική γεώτρηση στο Ιόνιο (δομή Ασωπός 1) για τον Φεβρουάριο 2027, με πιθανότητα επιτυχίας 16%. Οι γεωλόγοι είναι αισιόδοξοι για ύπαρξη κοιτάσματος φυσικού αερίου.",
+            "en": "Energean plans an exploratory well in the Ionian Sea (Asopos 1 structure) for February 2027 with a 16% success probability. Geologists are optimistic about a natural gas find."
+          },
+          "tags": {
+            "el": [
+              "Energean",
+              "Ιόνιο",
+              "φυσικό αέριο",
+              "γεώτρηση"
+            ],
+            "en": [
+              "Energean",
+              "Ionian",
+              "natural gas",
+              "drilling"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "title": "Τα ίχνη των κατασκόπων στον Θερμαϊκό",
+          "url": "https://www.kathimerini.gr/visual/infographics/564176566/ta-ichni-ton-kataskopon-ston-thermaiko/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T11:57:02+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Αποκαλύπτεται κατασκοπευτικό δίκτυο με ρωσική εμπλοκή που δρούσε στον Θερμαϊκό, συνδεδεμένο με σύλληψη στη Θεσσαλονίκη και στόχους στη Λιθουανία. Το θρίλερ είχε αρχίσει το Μάιο 2025 στην Αλεξανδρούπολη.",
+            "en": "A Russian-linked spy network operating in the Thermaic Gulf is exposed, connected to an arrest in Thessaloniki and targets in Lithuania. The operation began in May 2025 in Alexandroupoli."
+          },
+          "tags": {
+            "el": [
+              "κατασκοπεία",
+              "Ρωσία",
+              "Θεσσαλονίκη",
+              "Αλεξανδρούπολη"
+            ],
+            "en": [
+              "espionage",
+              "Russia",
+              "Thessaloniki",
+              "spy network"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Μεταναστευτικό: «Καμπανάκι» για αυξημένες ροές ενόψει καλοκαιριού",
+          "url": "https://www.kathimerini.gr/visual/infographics/564176620/metanasteytiko-kampanaki-gia-ayximenes-roes-enopsei-kalokairioy/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T10:52:28+03:00",
+          "importance": 72,
+          "summary": {
+            "el": "Εννέα περιστατικά με σκάφη σε κίνδυνο σε 48 ώρες νότια της Κρήτης αποτελούν «καμπανάκι» για αυξημένες μεταναστευτικές ροές από Λιβύη το καλοκαίρι. Διασώθηκαν 381 άνθρωποι.",
+            "en": "Nine boat-in-distress incidents in 48 hours south of Crete ring alarm bells for increased summer migration flows from Libya. A total of 381 people were rescued."
+          },
+          "tags": {
+            "el": [
+              "μεταναστευτικό",
+              "Κρήτη",
+              "Λιβύη",
+              "Γαύδος"
+            ],
+            "en": [
+              "migration",
+              "Crete",
+              "Libya",
+              "sea rescue"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Μεταναστευτικό: Οι «βαρκάρηδες», ο γνωστός Μάικ και οι επαναπροωθήσεις",
+          "url": "https://www.kathimerini.gr/society/564176617/metanasteytiko-oi-varkarides-o-gnostos-maik-kai-oi-epanaproothiseis/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T08:14:10+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Αποκαλύπτεται η δράση πέντε συνοριοφυλάκων στον Έβρο που σχημάτισαν ειδική ομάδα «βαρκάρηδων» για παράνομες διακινήσεις μεταναστών, σύμφωνα με έρευνα του BBC. Η ΕΛ.ΑΣ. υπεράσπισε τις τακτικές επαναπροώθησης.",
+            "en": "Five Evros border guards who formed a special 'boatmen' team for illegal migrant pushbacks are exposed per a BBC investigation. Greek police defended their pushback tactics."
+          },
+          "tags": {
+            "el": [
+              "Έβρος",
+              "συνοριοφύλακες",
+              "επαναπροωθήσεις",
+              "BBC"
+            ],
+            "en": [
+              "Evros",
+              "border guards",
+              "pushbacks",
+              "BBC"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Θεσσαλονίκη: Δικογραφία κατά 61χρονου για βιασμό της ανήλικης ανιψιάς του",
+          "url": "https://www.kathimerini.gr/society/564177352/thessaloniki-dikografia-kata-61chronoy-gia-viasmo-tis-anilikis-anipsias-toy/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T09:20:33+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Σχηματίστηκε δικογραφία κατά 61χρονου στη Θεσσαλονίκη για βιασμό ανήλικης ανιψιάς του από το 2017, όταν εκείνη ήταν 5 ετών. Η υπόθεση αποκαλύφθηκε μετά από καταγγελία.",
+            "en": "Charges were filed against a 61-year-old in Thessaloniki for raping his underage niece since 2017, when she was five years old. The case was revealed following a complaint."
+          },
+          "tags": {
+            "el": [
+              "Θεσσαλονίκη",
+              "βιασμός",
+              "ανήλικη",
+              "δικογραφία"
+            ],
+            "en": [
+              "Thessaloniki",
+              "rape",
+              "minor",
+              "charges"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κυψέλη: Από τα έργα του μετρό το υγρό τσιμέντο που πλημμύρισε τους δρόμους",
+          "url": "https://www.kathimerini.gr/society/564177391/kypseli-apo-ta-erga-toy-metro-to-ygro-tsimento-poy-plimmyrise-toys-dromoys/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T10:01:04+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Διαρροή υγρού τσιμέντου από τις εργασίες κατασκευής της γραμμής 4 του μετρό οδήγησε στο κλείσιμο δύο δρόμων στην Κυψέλη. Η διαρροή συνδέεται με τα υπόγεια έργα μεταξύ των σταθμών Κυψέλης και Δικαστηρίων.",
+            "en": "A wet concrete leak from Athens Metro Line 4 construction forced the closure of two streets in Kypseli. The leak is linked to underground works between Kypseli and Dikastiria stations."
+          },
+          "tags": {
+            "el": [
+              "μετρό",
+              "Κυψέλη",
+              "γραμμή 4",
+              "τσιμέντο"
+            ],
+            "en": [
+              "metro",
+              "Kypseli",
+              "Line 4",
+              "Athens"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ουκρανία: Η πιο φονική ρωσική επίθεση φέτος άφησε πίσω της 16 νεκρούς – Εκκληση Ζελένσκι",
+          "url": "https://www.kathimerini.gr/world/564177445/oykrania-i-pio-foniki-rosiki-epithesi-fetos-afise-piso-tis-16-nekroys-ekklisi-zelenski/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T10:59:35+00:00",
+          "importance": 90,
+          "summary": {
+            "el": "Η Ρωσία εξαπέλυσε την πιο φονική επίθεση του 2026 στο Κίεβο και άλλες πόλεις, σκοτώνοντας 16 ανθρώπους συμπεριλαμβανομένου 12χρονου. Ο Ζελένσκι κάλεσε σε διεθνή αντίδραση.",
+            "en": "Russia launched its deadliest attack of 2026 on Kyiv and other Ukrainian cities, killing 16 people including a 12-year-old. Zelenskyy called for international response."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "Κίεβο",
+              "βομβαρδισμός"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "Kyiv",
+              "attack"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "LIVE/Μέση Ανατολή: «Παράθυρο» για συμφωνία ΗΠΑ-Ιράν – Νέες συνομιλίες Ισραήλ – Λιβάνου",
+          "url": "https://www.kathimerini.gr/world/564177247/live-mesi-anatoli-parathyro-gia-symfonia-ipa-iran-nees-synomilies-israil-livanoy/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T08:31:44+03:00",
+          "importance": 88,
+          "summary": {
+            "el": "Ανοίγει «παράθυρο» για συμφωνία ΗΠΑ-Ιράν με αισιοδοξία από τον Λευκό Οίκο, ενώ ο Τραμπ προαναγγέλλει συνομιλίες Ισραήλ-Λιβάνου. Οι εξελίξεις στη Μέση Ανατολή αλλάζουν ρυθμό γρήγορα.",
+            "en": "A window for a US-Iran deal is opening with White House optimism, while Trump announces Israel-Lebanon leader talks. Middle East developments are shifting rapidly."
+          },
+          "tags": {
+            "el": [
+              "ΗΠΑ",
+              "Ιράν",
+              "Ισραήλ",
+              "Λίβανος"
+            ],
+            "en": [
+              "US",
+              "Iran",
+              "Israel",
+              "Lebanon"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Πολύνεκρη νύχτα σε Ουκρανία και Ρωσία με συνεχιζόμενη ανταλλαγή πληγμάτων",
+          "url": "https://www.kathimerini.gr/world/564177169/pente-nekroi-se-oykrania-kai-rosia-sti-synechizomeni-antallagi-pligmaton/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T07:26:59+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Σε μία από τις φονικότερες νύχτες του 2026, 14 άμαχοι στην Ουκρανία και 2 παιδιά στη Ρωσία σκοτώθηκαν σε ανταλλαγή αεροπορικών πληγμάτων. Ο πόλεμος δεν δείχνει σημάδια αποκλιμάκωσης.",
+            "en": "In one of 2026's deadliest nights, 14 Ukrainian civilians and 2 Russian children were killed in an exchange of air strikes. The war shows no signs of de-escalation."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "βομβαρδισμός",
+              "άμαχοι"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "airstrikes",
+              "civilians"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Εκκληση Κίνας προς Ιράν να ανοίξει τα Στενά του Ορμούζ",
+          "url": "https://www.kathimerini.gr/world/564177283/ekklisi-kinas-pros-iran-na-anoixei-ta-stena-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T08:47:00+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο Κινέζος υπουργός Εξωτερικών Γουάνγκ Γι κάλεσε το Ιράν να αποκαταστήσει την ελεύθερη ναυσιπλοΐα στα Στενά του Ορμούζ, δηλώνοντας σεβασμό στην ιρανική κυριαρχία. Η ΕΕ και η Κίνα ανησυχούν για τον αντίκτυπο στο εμπόριο.",
+            "en": "Chinese FM Wang Yi called on Iran to restore free navigation through the Hormuz Strait while respecting Iranian sovereignty. The EU and China are concerned about the trade impact."
+          },
+          "tags": {
+            "el": [
+              "Κίνα",
+              "Ορμούζ",
+              "Ιράν",
+              "ναυσιπλοΐα"
+            ],
+            "en": [
+              "China",
+              "Hormuz",
+              "Iran",
+              "navigation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ιράν: Σε «κρίσιμη κατάσταση» λόγω καρδιακής προσβολής η φυλακισμένη νομπελίστρια Ειρήνης Μοχαμαντί",
+          "url": "https://www.kathimerini.gr/world/564177280/iran-se-krisimi-katastasi-logo-kardiakis-prosvolis-i-fylakismeni-nompelistria-eirinis-mochamanti/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T08:31:47+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η φυλακισμένη Ιρανή νομπελίστρια Ειρήνης Ναργκίς Μοχαμαντί βρίσκεται σε κρίσιμη κατάσταση μετά από καρδιακή προσβολή, αναφέρει ο αδελφός της. Η 53χρονη αγωνίστρια υπέφερε ήδη από σοβαρά προβλήματα υγείας.",
+            "en": "Imprisoned Iranian Nobel laureate Narges Mohammadi is in critical condition following a heart attack, her brother reports. The 53-year-old activist had already suffered serious health problems."
+          },
+          "tags": {
+            "el": [
+              "Μοχαμαντί",
+              "Ιράν",
+              "Νόμπελ",
+              "φυλακή"
+            ],
+            "en": [
+              "Mohammadi",
+              "Iran",
+              "Nobel",
+              "prisoner"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "title": "Η ελεύθερη ναυσιπλοΐα και τα Στενά του Ορμούζ",
+          "url": "https://www.kathimerini.gr/opinion/564174871/i-eleytheri-naysiplo-a-kai-ta-stena-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:09:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η Κατερίνα Σώκου αναλύει τον ναυτικό αποκλεισμό του Ορμούζ ως «απροσδόκητη κίνηση» που θόρυβησε και τους συμμάχους των ΗΠΑ. Εξετάζει τις νομικές και γεωπολιτικές επιπτώσεις για την ελεύθερη ναυσιπλοΐα.",
+            "en": "Katerina Sokou analyses the Hormuz naval blockade as an 'unexpected move' that alarmed even US allies. She examines the legal and geopolitical implications for freedom of navigation."
+          },
+          "tags": {
+            "el": [
+              "Ορμούζ",
+              "ελεύθερη ναυσιπλοΐα",
+              "Τραμπ",
+              "διεθνές δίκαιο"
+            ],
+            "en": [
+              "Hormuz",
+              "freedom of navigation",
+              "Trump",
+              "international law"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ο λαϊκισμός δεν είναι μονόδρομος",
+          "url": "https://www.kathimerini.gr/opinion/564175042/o-laikismos-den-einai-monodromos/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:12:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ο Τάκης Θεοδωρόπουλος αναλύει την ήττα Ορμπαν στην Ουγγαρία και τα όρια του λαϊκισμού. Υποστηρίζει ότι ο λαϊκισμός δεν είναι μονόδρομος και ότι οι πολίτες τελικά θέλουν εναλλαγή.",
+            "en": "Takis Theodoropoulos analyses Orbán's defeat in Hungary and the limits of populism. He argues populism is not inevitable and that citizens ultimately seek change."
+          },
+          "tags": {
+            "el": [
+              "Ορμπαν",
+              "Ουγγαρία",
+              "λαϊκισμός",
+              "εκλογές"
+            ],
+            "en": [
+              "Orban",
+              "Hungary",
+              "populism",
+              "elections"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Το αντάμωμα που γίνεται… reunion",
+          "url": "https://www.kathimerini.gr/opinion/564174874/to-antamoma-poy-ginetai-reunion/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:03:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Η Δώρα Αντωνίου γράφει για τον πόνο του πασχαλινού αντάμωματος που μετατρέπεται σε πικρό «reunion» λόγω της ελληνικής διασποράς. Καταγράφει μαρτυρίες Ελλήνων που έφυγαν για Γερμανία και άλλες χώρες.",
+            "en": "Dora Antoniou writes about the bittersweet Easter reunion as Greek diaspora returns home. She records testimonies of Greeks who emigrated to Germany and other countries."
+          },
+          "tags": {
+            "el": [
+              "διασπορά",
+              "Πάσχα",
+              "brain drain",
+              "αποδημία"
+            ],
+            "en": [
+              "diaspora",
+              "Easter",
+              "brain drain",
+              "emigration"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Βίκτορ Ορμπαν: Υποτροπές",
+          "url": "https://www.kathimerini.gr/opinion/564175045/viktor-ormpan-ypotropes/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:10:00+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Ο Μιχάλης Τσιντσίνης σχολιάζει την ήττα Ορμπαν μέσα από ιστορικό πρίσμα για την Κεντρική Ευρώπη. Εξετάζει πώς η ευρωπαϊκή ολοκλήρωση επηρέασε αυτές τις χώρες μετά το 1989.",
+            "en": "Michalis Tsintsiinis comments on Orbán's defeat through a historical lens on Central Europe. He examines how European integration influenced these countries after 1989."
+          },
+          "tags": {
+            "el": [
+              "Ορμπαν",
+              "Ουγγαρία",
+              "Ευρώπη",
+              "ιστορία"
+            ],
+            "en": [
+              "Orban",
+              "Hungary",
+              "Europe",
+              "history"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Διαρκής επαγρύπνηση",
+          "url": "https://www.kathimerini.gr/opinion/564174625/diarkis-epagrypnisi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T20:14:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Το κύριο άρθρο της Καθημερινής υπογραμμίζει ότι ο αποκλεισμός ανηλίκων από τα κοινωνικά δίκτυα είναι αναγκαίος αλλά ανεπαρκής. Θα χρειαστεί διαρκής προσπάθεια και εφαρμογή για να μην πέσει το μέτρο σε αχρησία.",
+            "en": "Kathimerini's editorial notes that banning minors from social networks is necessary but insufficient. Sustained effort and enforcement will be needed to prevent the measure from becoming ineffective."
+          },
+          "tags": {
+            "el": [
+              "ανήλικοι",
+              "κοινωνικά δίκτυα",
+              "αποκλεισμός",
+              "ψηφιακή ασφάλεια"
+            ],
+            "en": [
+              "minors",
+              "social media",
+              "ban",
+              "digital safety"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "title": "Το Χόλιγουντ υπογράφει ενάντια στη συγχώνευση",
+          "url": "https://www.kathimerini.gr/culture/cinema/564174919/to-choligoynt-ypografei-enantia-sti-sygchoneysi/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T10:27:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Χίλια στελέχη της βιομηχανίας του Χόλιγουντ υπέγραψαν δημόσια επιστολή κατά της συγχώνευσης Warner Bros Discovery-Paramount, ζητώντας την ακύρωση της συμφωνίας αξίας 110,9 δισ. δολαρίων. Οι ανησυχίες αφορούν τον ανταγωνισμό και την ποικιλία.",
+            "en": "A thousand Hollywood industry figures signed a public letter opposing the Warner Bros Discovery-Paramount merger valued at $110.9 billion, demanding its cancellation. Concerns centre on competition and diversity."
+          },
+          "tags": {
+            "el": [
+              "Χόλιγουντ",
+              "Warner",
+              "Paramount",
+              "συγχώνευση"
+            ],
+            "en": [
+              "Hollywood",
+              "Warner",
+              "Paramount",
+              "merger"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "«Το σοκ του νέου», βασικό θέμα στο 11ο Διεθνές Οικονομικό Συνέδριο των Δελφών",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564176554/to-sok-toy-neoy-vasiko-thema-sto-11o-diethnes-oikonomiko-synedrio-ton-delfon/",
+          "source": "Kathimerini",
+          "published": "2026-04-16T12:52:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Το 11ο Διεθνές Οικονομικό Συνέδριο των Δελφών θα πραγματοποιηθεί 22-25 Απριλίου με θέμα «Το σοκ του νέου», αντικατοπτρίζοντας την πρωτοφανή παγκόσμια πραγματικότητα. Εκατοντάδες διακεκριμένοι ομιλητές από Ελλάδα και εξωτερικό.",
+            "en": "The 11th Delphi Economic Forum takes place April 22-25 with the theme 'The Shock of the New', reflecting an unprecedented global reality. Hundreds of distinguished speakers from Greece and abroad."
+          },
+          "tags": {
+            "el": [
+              "Δελφοί",
+              "οικονομικό συνέδριο",
+              "τεχνολογία",
+              "παγκοσμιοποίηση"
+            ],
+            "en": [
+              "Delphi",
+              "economic forum",
+              "technology",
+              "globalisation"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Αρχαιολογικό Μουσείο: «Γέφυρα» αρχιτεκτονικής και εκθεμάτων",
+          "url": "https://www.kathimerini.gr/culture/museums/564174925/archaiologiko-moyseio-gefyra-architektonikis-kai-ekthematon/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T15:22:20+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Νέες λεπτομέρειες για τη μουσειογραφική προμελέτη του Εθνικού Αρχαιολογικού Μουσείου αποκαλύπτουν εκθέματα με θέαση 360 μοιρών και μεικτό σύστημα φωτισμού. Το νέο σχέδιο προβλέπει μια «γέφυρα» αρχιτεκτονικής και εκθεμάτων.",
+            "en": "New details of the National Archaeological Museum's museographical study reveal 360-degree viewing of exhibits and a mixed lighting system. The new plan envisions a 'bridge' of architecture and exhibits."
+          },
+          "tags": {
+            "el": [
+              "Αρχαιολογικό Μουσείο",
+              "μουσειογραφία",
+              "αρχαιολογία",
+              "Αθήνα"
+            ],
+            "en": [
+              "National Archaeological Museum",
+              "museography",
+              "archaeology",
+              "Athens"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "«Ο Αρχοντας των Δαχτυλιδιών»: Επιστρέφουν Γκάνταλφ και Φρόντο – Ποιος είναι ο νέος Αραγκορν",
+          "url": "https://www.kathimerini.gr/culture/cinema/564175453/o-archontas-ton-dachtylidion-epistrefoyn-gkantalf-kai-fronto-poios-einai-o-neos-aragkorn/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T09:45:23+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ανακοινώθηκε το επίσημο καστ της νέας ταινίας «Ο Αρχοντας των Δαχτυλιδιών: Το κυνήγι του Γκόλουμ», με τον Ίαν ΜακΚέλεν ως Γκάνταλφ και νέο ηθοποιό στον ρόλο του Αραγκορν. Η παραγωγή επιστρέφει στον κόσμο του Τόλκιν.",
+            "en": "The official cast of 'The Lord of the Rings: The Hunt for Gollum' was announced, with Ian McKellen as Gandalf and a new actor as Aragorn. The production returns to Tolkien's world."
+          },
+          "tags": {
+            "el": [
+              "Lord of the Rings",
+              "Γκόλουμ",
+              "Warner",
+              "κινηματογράφος"
+            ],
+            "en": [
+              "Lord of the Rings",
+              "Gollum",
+              "Warner",
+              "cinema"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Ask Mona: η πλατφόρμα που δίνει «φωνή» στα έργα τέχνης",
+          "url": "https://www.kathimerini.gr/culture/564174898/ask-mona-i-platforma-poy-dinei-foni-sta-erga-technis/",
+          "source": "Kathimerini",
+          "published": "2026-04-15T13:44:00+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Η πλατφόρμα Ask Mona επιτρέπει στους επισκέπτες να «μιλούν» με έργα τέχνης μέσω τεχνητής νοημοσύνης. Η πλατφόρμα, που ξεκίνησε στο Λούβρο, εισάγεται τώρα και σε ελληνικούς χώρους.",
+            "en": "The Ask Mona platform lets visitors 'converse' with artworks through artificial intelligence. The platform, which started at the Louvre, is now being introduced to Greek venues."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "μουσείο",
+              "Ask Mona",
+              "τέχνη"
+            ],
+            "en": [
+              "AI",
+              "museum",
+              "Ask Mona",
+              "art"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
   }
 }

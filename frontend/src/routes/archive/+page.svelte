@@ -38,7 +38,7 @@
 {:else}
   <div class="grid gap-3 md:grid-cols-3 lg:grid-cols-4">
     {#each dates as date}
-      <a href="/?date={date}"
+      <a href="{base}/?date={date}"
          class="block p-4 rounded-lg border border-[var(--color-border)] hover:border-primary-400 bg-[var(--color-bg-secondary)] transition">
         <div class="font-medium">
           {new Date(date + 'T00:00:00').toLocaleDateString(lang === 'el' ? 'el-GR' : 'en-US', {
