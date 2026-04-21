@@ -1,0 +1,912 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T14:18:38.930008+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 71 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχήθηκε από την παραίτηση του υφυπουργού Αγροτικής Ανάπτυξης Μακάριου Λαζαρίδη και την ορκωμοσία του διαδόχου του Αθανάσιου Καββαδά, ενώ η Επιτροπή Δεοντολογίας της Βουλής εισηγήθηκε ομόφωνα την άρση ασυλίας των βουλευτών της Ν.Δ. Χαράλαμπου Αθανασίου και Τάσου Χατζηβασιλείου για τη δικογραφία ΟΠΕΚΕΠΕ. Ο κοινοβουλευτικός εκπρόσωπος της Ν.Δ. Δημήτρης Μαρκόπουλος απέρριψε ως «ανυπόστατες» τις φήμες περί μη ύπαρξης πτυχίου, ενώ ο Άδωνις Γεωργιάδης προανήγγειλε μήνυση κατά του Μάριου Σαλμά.\n\nΣτη γεωπολιτική σκηνή, το Ιράν δήλωσε ότι δεν θα συνεχίσει τις διαπραγματεύσεις με τις ΗΠΑ μετά το ρεσάλτο σε ιρανικό πλοίο και απείλησε με αντίποινα, ενώ η Τεχεράνη προετοιμάζει αντίδραση τρεις ημέρες πριν εκπνεύσει η εκεχειρία. Η πρεσβεία των ΗΠΑ στη Βαγδάτη κάλεσε τους Αμερικανούς να φύγουν «αμέσως» από το Ιράκ, ο Τούρκος ΥΠΕΞ Φιντάν χαρακτήρισε «προτεραιότητα απειλής» τη συμμαχία Ελλάδας-Κύπρου-Ισραήλ, και ο φιλορώσος Ρούμεν Ράντεφ κέρδισε τις εκλογές στη Βουλγαρία.\n\nΣτην οικονομία, ο κλάδος διύλισης δηλώνει επάρκεια καυσίμων για δύο μήνες αλλά προειδοποιεί ότι η κατάσταση θα δυσκολέψει αν παραμείνει κλειστό το Ορμούζ, ενώ ο Στουρνάρας —τρίτη θητεία στην ΤτΕ— μιλά για δημοσιονομικό χώρο στοχευμένων μέτρων και κίνδυνο στασιμοπληθωρισμού. Η Κομισιόν προτείνει τηλεργασία και μείωση ΦΠΑ σε αντλίες θερμότητας, ενώ το Conrad Athens ανοίγει ξανά τις πύλες του στο πρώην κτίριο του Hilton.\n\nΣτην κοινωνία, η 13χρονη μαθήτρια που έπεσε από μπαλκόνι στο 7ο Γυμνάσιο Χαϊδαρίου νοσηλεύεται διασωληνωμένη ενώ η υπουργός Παιδείας επισκέφθηκε το νοσοκομείο. 52 δασικές πυρκαγιές εκδηλώθηκαν το Σαββατοκύριακο, ο σεισμός 7,5 Ρίχτερ στην Ιαπωνία προκάλεσε προειδοποίηση τσουνάμι, και ένα ιαπωνικό φιλμ για το Καμπούκι έσπασε ταμειακό ρεκόρ 130 εκατ. δολαρίων.",
+    "en": "The day was dominated by the resignation of Deputy Rural Development Minister Makarios Lazaridis and the swearing-in of his successor Athanasios Kavvadas. The parliamentary Ethics Committee unanimously recommended lifting the immunity of New Democracy MPs Charalambos Athanasiou and Tasos Chatzivasileiou in the OPEKEPE farm-subsidy case. ND parliamentary spokesperson Dimitris Markopoulos dismissed as baseless rumors he lacks a university degree, while Health Minister Adonis Georgiadis announced lawsuits against former MP Marios Salmas.\n\nOn the geopolitical front, Iran said it would not continue negotiations with Washington after the US boarding of an Iranian vessel and threatened retaliation, as Tehran prepares a response three days before the ceasefire expires. The US Embassy in Baghdad urged Americans to leave Iraq 'immediately', Turkish Foreign Minister Fidan called the Greece-Cyprus-Israel alliance a 'priority threat', and pro-Russian Rumen Radev won Bulgaria's snap elections.\n\nOn the economy, Greece's refining industry says it has fuel cover for two months but warns conditions will worsen if the Strait of Hormuz stays closed, while Bank of Greece Governor Yannis Stournaras — now starting a third term — spoke of fiscal space for targeted measures and stagflation risk. The European Commission is proposing to promote teleworking and cut VAT on heat pumps, while the Conrad Athens reopens in the historic former Hilton building.\n\nIn society, the 13-year-old student who fell from a balcony at Haidari Junior High remains in intensive care while the Education Minister visited the hospital. Firefighters tackled 52 weekend wildfires, a magnitude 7.5 earthquake off Japan triggered tsunami warnings, and a Japanese film about Kabuki broke the country's all-time box-office record at nearly $130 million."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Παραίτηση Λαζαρίδη, Καββαδάς & ΟΠΕΚΕΠΕ",
+        "en": "Lazaridis resignation, Kavvadas & OPEKEPE"
+      },
+      "description": {
+        "el": "Η παραίτηση Λαζαρίδη, η ορκωμοσία Καββαδά και η ομόφωνη εισήγηση για άρση ασυλίας δύο βουλευτών της Ν.Δ. στον ΟΠΕΚΕΠΕ επεκτείνουν τη συζήτηση για το κράτος δικαίου και την πολιτική ευθύνη.",
+        "en": "Lazaridis's resignation, Kavvadas's swearing-in and the unanimous recommendation to lift two ND MPs' immunity in the OPEKEPE case extend the debate over the rule of law and political accountability."
+      },
+      "related_items": [
+        "fe33f55ebe00",
+        "6408e358fbc8",
+        "dc582df2359b",
+        "1859b8116825",
+        "e08060477a66",
+        "a6210634e333",
+        "00ad1fc3616d"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Κατάρρευση διαπραγματεύσεων ΗΠΑ-Ιράν",
+        "en": "US-Iran negotiations collapse"
+      },
+      "description": {
+        "el": "Το Ιράν δεν θα συνεχίσει τις διαπραγματεύσεις μετά το ρεσάλτο αμερικανικού πολεμικού σε ιρανικό πλοίο και απειλεί με αντίποινα, ενώ η πρεσβεία των ΗΠΑ στη Βαγδάτη ζητά άμεση εκκένωση Αμερικανών από το Ιράκ.",
+        "en": "Iran will not continue negotiations after a US Navy boarding of an Iranian ship and is threatening retaliation, while the US Embassy in Baghdad is ordering immediate evacuation of Americans from Iraq."
+      },
+      "related_items": [
+        "1b23a8c3bc9b",
+        "f1f064cc2936",
+        "aacf7f0f05d1",
+        "2eb01745757e",
+        "abf4c5aff09d"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση & ελληνική οικονομία",
+        "en": "Energy crisis & Greek economy"
+      },
+      "description": {
+        "el": "Ο κλάδος διύλισης δηλώνει επάρκεια καυσίμων για δύο μήνες, ο Στουρνάρας ανανεώνει τη θητεία του υποστηρίζοντας στοχευμένα μέτρα, η Κομισιόν προτείνει τηλεργασία και η ανάπτυξη προβλέπεται στο 1,8%.",
+        "en": "Refiners say Greece has two months of fuel cover, Stournaras is renewed at the Bank of Greece backing targeted support, the European Commission pushes telework, and growth is forecast at just 1.8%."
+      },
+      "related_items": [
+        "d0132a6effbc",
+        "5556846e2182",
+        "a9d83ace1687",
+        "4c4b6dcf5275",
+        "264f69ed0127",
+        "0d6df2160f16"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικές σχέσεις & Φιντάν",
+        "en": "Greece-Turkey relations & Fidan"
+      },
+      "description": {
+        "el": "Ο Τούρκος ΥΠΕΞ Φιντάν χαρακτηρίζει την τριμερή Ελλάδας-Κύπρου-Ισραήλ «προτεραιότητα απειλής» για την Τουρκία, ενώ η Αθήνα αναζητά σύστημα αυτοπροστασίας για τα F-16 Viper και διαβάζει το νέο παζλ της περιοχής.",
+        "en": "Turkish FM Fidan calls the Greece-Cyprus-Israel triangle a \"priority threat\" for Turkey, while Athens hunts for electronic warfare kits for its F-16 Vipers and reads the region's shifting strategic puzzle."
+      },
+      "related_items": [
+        "d1c521a2c488",
+        "987eca98ab36",
+        "1f5ae658700b"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Πτώση 13χρονης στο Χαϊδάρι",
+        "en": "13-year-old's fall in Haidari"
+      },
+      "description": {
+        "el": "Μαθήτρια 13 ετών έπεσε από μπαλκόνι πρώτου ορόφου του 7ου Γυμνασίου Χαϊδαρίου και νοσηλεύεται διασωληνωμένη στο Παίδων. Η υπουργός Παιδείας επισκέφθηκε το νοσοκομείο και ξεκίνησε διερεύνηση των συνθηκών.",
+        "en": "A 13-year-old girl fell from a first-floor balcony at the 7th Junior High of Haidari and remains intubated at a children's hospital. The Education Minister visited the hospital and a full investigation of the incident is underway."
+      },
+      "related_items": [
+        "a47a1ebc2bfc",
+        "e98fda826904"
+      ],
+      "importance": 80
+    }
+  ],
+  "article_count": 71,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ο Αθανάσιος Καββαδάς ο νέος υφυπουργός Αγροτικής Ανάπτυξης, μετά την παραίτηση Λαζαρίδη",
+          "url": "https://www.kathimerini.gr/politics/564183559/o-athanasios-kavvathas-o-neos-yfypoyrgos-agrotikis-anaptyxis-meta-tin-paraitisi-lazaridi/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T12:39:01+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Ο βουλευτής Λευκάδας Αθανάσιος Καββαδάς, απόστρατος ανώτερος αξιωματικός της Πολεμικής Αεροπορίας και επιχειρηματίας, αναλαμβάνει υφυπουργός Αγροτικής Ανάπτυξης μετά την παραίτηση του Μακάριου Λαζαρίδη. Η ανακοίνωση έγινε από τον κυβερνητικό εκπρόσωπο το μεσημέρι της Δευτέρας.",
+            "en": "Lefkada MP Athanasios Kavvadas, a retired senior Air Force officer and businessman, is the new Deputy Minister of Rural Development, replacing Makarios Lazaridis who resigned. The government spokesperson announced the appointment on Monday at noon."
+          },
+          "tags": {
+            "el": [
+              "Καββαδάς",
+              "Λαζαρίδης",
+              "Αγροτικής Ανάπτυξης",
+              "παραίτηση"
+            ],
+            "en": [
+              "Kavvadas",
+              "Lazaridis",
+              "Rural Development",
+              "resignation"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Το νέο παζλ Ελλάδας – Τουρκίας – Ισραήλ",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564181162/to-neo-pazl-elladas-toyrkias-israil/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T07:33:23+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ανάλυση για την εντεινόμενη ελληνοτουρκική ένταση, τη ρητορική περί «περικύκλωσης» της Άγκυρας και τις ζυμώσεις για τα F-35, όπως τις διαβάζει η Αθήνα μέσα από τους διαύλους του ΝΑΤΟ. Η Τουρκία στοχεύει να αναδείξει ως «προσωρινά» τα ελληνικά μέτρα θωράκισης και να διεκδικήσει θέση σε περιφερειακές πρωτοβουλίες.",
+            "en": "An analysis of rising Greece-Turkey tensions, the 'encirclement' rhetoric from Ankara and the jockeying over F-35s, as Athens reads them through NATO channels. Turkey's aim is to paint Greek defense-reinforcement measures as 'temporary' and to claim space in regional initiatives."
+          },
+          "tags": {
+            "el": [
+              "Ελλάδα",
+              "Τουρκία",
+              "ΝΑΤΟ",
+              "F-35"
+            ],
+            "en": [
+              "Greece",
+              "Turkey",
+              "NATO",
+              "F-35"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τούρκος ΥΠΕΞ: Προτεραιότητα απειλής από τη συμμαχία Ελλάδας-Κύπρου-Ισραήλ",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564182860/toyrkos-ypex-proteraiotita-apeilis-apo-ti-symmachia-elladas-kyproy-israil/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T14:49:28+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο Τούρκος υπουργός Εξωτερικών Χακάν Φιντάν δήλωσε ότι η στρατιωτική συμμαχία Ισραήλ-Ελλάδας-Κύπρου αποτελεί «σαφή προτεραιότητα απειλής» για την Τουρκία και άλλες χώρες της περιοχής. Απαντώντας σε ερώτηση της «Κ», υποστήριξε ότι «κανένας δεν μας διαβεβαίωσε» ότι η συμμαχία δεν στρέφεται κατά της Άγκυρας.",
+            "en": "Turkish Foreign Minister Hakan Fidan said the military alliance of Israel, Greece and Cyprus constitutes a 'clear priority threat' for Turkey and other regional countries. Answering a Kathimerini question, he maintained that 'no one has assured us' the alliance is not directed against Ankara."
+          },
+          "tags": {
+            "el": [
+              "Φιντάν",
+              "Τουρκία",
+              "Ελλάδα",
+              "Ισραήλ"
+            ],
+            "en": [
+              "Fidan",
+              "Turkey",
+              "Greece",
+              "Israel"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Βουλή – Επιτροπή Δεοντολογίας: Ομόφωνη εισήγηση για άρση ασυλίας Αθανασίου και Χατζηβασιλείου",
+          "url": "https://www.kathimerini.gr/politics/564183676/voyli-epitropi-deontologias-omofoni-eisigisi-gia-arsi-asylias-athanasioy-kai-chatzivasileioy/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T14:19:09+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η Επιτροπή Δεοντολογίας της Βουλής εισηγείται ομόφωνα προς την Ολομέλεια την άρση ασυλίας των βουλευτών της Ν.Δ. Χαράλαμπου Αθανασίου και Τάσου Χατζηβασιλείου για τη δικογραφία του ΟΠΕΚΕΠΕ. Ο Χατζηβασιλείου δηλώνει απερίφραστα την επιθυμία του να αρθεί η ασυλία και εμπιστοσύνη στην ελληνική Δικαιοσύνη.",
+            "en": "The parliamentary Ethics Committee has unanimously recommended the plenary lift the immunity of New Democracy MPs Charalambos Athanasiou and Tasos Chatzivasileiou over the OPEKEPE farm-subsidy case. Chatzivasileiou publicly requested the lifting of his own immunity and expressed confidence in Greek justice."
+          },
+          "tags": {
+            "el": [
+              "ΟΠΕΚΕΠΕ",
+              "άρση ασυλίας",
+              "Βουλή",
+              "Ν.Δ."
+            ],
+            "en": [
+              "OPEKEPE",
+              "immunity lift",
+              "parliament",
+              "New Democracy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Θεωρείο: Ιδιο κόστος με ΟΠΕΚΕΠΕ",
+          "url": "https://www.kathimerini.gr/politics/564182155/theoreio-idio-kostos-me-opekepe/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T07:55:16+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Η στήλη Θεωρείο εκτιμά ότι το πολιτικό κόστος της υπόθεσης Λαζαρίδη για την κυβέρνηση μπορεί να αγγίξει εκείνο του ΟΠΕΚΕΠΕ, καθώς η εικόνα που εκπέμφθηκε ήταν «πολύ κακή για τον πυρήνα των ψηφοφόρων της Ν.Δ.». Η υπόθεση μονοπώλησε την επικαιρότητα της εβδομάδας και παραμένει ζωντανή παρά την παραίτηση.",
+            "en": "Kathimerini's Theoreio column estimates the political cost of the Lazaridis affair could equal that of the OPEKEPE scandal, because the episode's optics were 'very bad' for New Democracy's core voters. The story dominated last week's news and remains live despite the resignation."
+          },
+          "tags": {
+            "el": [
+              "Θεωρείο",
+              "Λαζαρίδης",
+              "δημοσκοπήσεις",
+              "Ν.Δ."
+            ],
+            "en": [
+              "Theoreio",
+              "Lazaridis",
+              "polling",
+              "New Democracy"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "title": "Εχουμε επάρκεια καυσίμων για δύο μήνες",
+          "url": "https://www.kathimerini.gr/economy/564181573/echoyme-eparkeia-kaysimon-gia-dyo-mines/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T08:02:54+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο κλάδος διύλισης δηλώνει «πλήρως διασφαλισμένος» για δύο μήνες σε επάρκεια καυσίμων, αλλά προειδοποιεί ότι αν δεν αποκατασταθεί η ναυσιπλοΐα στα Στενά του Ορμούζ η κατάσταση θα δυσκολέψει. Τα «μαξιλάρια ασφαλείας» όπως τα υψηλά αποθέματα και η πλεονάζουσα παραγωγή των ελληνικών διυλιστηρίων αρχίζουν να πιέζονται.",
+            "en": "Greece's refining industry says it is 'fully secured' on fuel supply for two months, but warns conditions will worsen if navigation through the Strait of Hormuz is not restored. Safety cushions such as high inventories and spare capacity at Greek refineries are starting to feel the strain."
+          },
+          "tags": {
+            "el": [
+              "καύσιμα",
+              "Ορμούζ",
+              "διυλιστήρια",
+              "εφοδιασμός"
+            ],
+            "en": [
+              "fuels",
+              "Hormuz",
+              "refineries",
+              "supply"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Γιάννης Στουρνάρας: Υπάρχει χώρος για στοχευμένα μέτρα στήριξης",
+          "url": "https://www.kathimerini.gr/economy/564181624/giannis-stoyrnaras-yparchei-choros-gia-stocheymena-metra-stirixis/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T07:59:58+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο διοικητής της Τράπεζας της Ελλάδος Γιάννης Στουρνάρας, μετά την ανανέωση της θητείας του για τρίτη φορά, υποστηρίζει ότι υπάρχει δημοσιονομικός χώρος για νέα στοχευμένα και προσωρινά μέτρα στήριξης. Προειδοποιεί για κίνδυνο στασιμοπληθωριστικών φαινομένων λόγω του πολέμου και προτείνει επιτροπή για επανεξέταση του φορολογικού συστήματος.",
+            "en": "Bank of Greece Governor Yannis Stournaras, after his term was renewed for a third time, argues there is fiscal space for new targeted and temporary support measures. He warns of stagflation risks from the war and proposes a commission to overhaul the tax system, modeled on the 2002 Georgakopoulos committee."
+          },
+          "tags": {
+            "el": [
+              "Στουρνάρας",
+              "ΤτΕ",
+              "στασιμοπληθωρισμός",
+              "φορολογικό"
+            ],
+            "en": [
+              "Stournaras",
+              "Bank of Greece",
+              "stagflation",
+              "tax system"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Τι αλλάζει στην προστασία α΄ κατοικίας",
+          "url": "https://www.kathimerini.gr/economy/564181594/ti-allazei-stin-prostasia-a-katoikias/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T14:00:30+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Το υπουργείο Εθνικής Οικονομίας αναμένεται να ψηφίσει μέχρι το τέλος του μήνα διάταξη για τη στοχευμένη προστασία της πρώτης κατοικίας μέσω του εξωδικαστικού μηχανισμού. Οι οφειλέτες με «κόκκινα» δάνεια θα μπορούν να διεκδικήσουν ρύθμιση ειδικά για την κύρια κατοικία, διαχωρίζοντάς την από τα υπόλοιπα χρέη και την υπόλοιπη περιουσία.",
+            "en": "Greece's National Economy Ministry is expected to legislate by month's end a targeted primary-residence protection scheme through the out-of-court mechanism. Borrowers with non-performing loans will be able to restructure debt specifically for their main home, ring-fencing it from other debts and assets."
+          },
+          "tags": {
+            "el": [
+              "πρώτη κατοικία",
+              "κόκκινα δάνεια",
+              "εξωδικαστικός",
+              "χρέος"
+            ],
+            "en": [
+              "primary residence",
+              "NPLs",
+              "out-of-court",
+              "debt"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ρεκόρ εξαγωγών πετρελαίου από ΗΠΑ",
+          "url": "https://www.kathimerini.gr/economy/564181735/rekor-exagogon-petrelaioy-apo-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T06:54:25+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ανάλυση για τη στρατηγική Τραμπ «drill baby drill» και τον ρόλο των αμερικανικών πετρελαϊκών στη δεύτερη θητεία του, υπό το φως του πολέμου με το Ιράν και του ναυτικού αποκλεισμού. Οι ΗΠΑ κατέγραψαν πρωτοφανή επίπεδα εξαγωγών αργού ενώ η Τεχεράνη εμποδίζει τη διέλευση από τα Στενά του Ορμούζ.",
+            "en": "Analysis of Donald Trump's 'drill baby drill' strategy and the role of US oil companies during his second term, in light of the war with Iran and the naval blockade. US crude exports have hit unprecedented highs even as Tehran blocks tanker passage through the Strait of Hormuz."
+          },
+          "tags": {
+            "el": [
+              "ΗΠΑ",
+              "πετρέλαιο",
+              "Τραμπ",
+              "Ορμούζ"
+            ],
+            "en": [
+              "US",
+              "oil",
+              "Trump",
+              "Hormuz"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Conrad Athens: Η αναγέννηση ενός θρύλου της Αθήνας",
+          "url": "https://www.kathimerini.gr/economy/564181675/conrad-athens-i-anagennisi-enos-thryloy-tis-athinas/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T16:32:51+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Το Conrad Athens The Ilisian ανοίγει τις πύλες του την Πέμπτη 23 Απριλίου μετά τη ριζική ανανέωση του εμβληματικού κτιρίου που στέγαζε επί 60 χρόνια το Hilton. Η ΤΕΜΕΣ του ομίλου Κωνσταντακόπουλου εγκαινιάζει όχι μόνο ένα ξενοδοχείο αλλά ένα σύγχρονο τοπόσημο της Αθήνας.",
+            "en": "Conrad Athens The Ilisian opens its doors on Thursday 23 April after a radical overhaul of the iconic building that housed the historic Hilton hotel for six decades. Developer TEMES, owned by the Constantakopoulos family group, is launching not just a hotel but a modern Athens landmark."
+          },
+          "tags": {
+            "el": [
+              "Conrad",
+              "Hilton",
+              "ξενοδοχείο",
+              "Αθήνα"
+            ],
+            "en": [
+              "Conrad",
+              "Hilton",
+              "hotel",
+              "Athens"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Χαϊδάρι: 13χρονη έπεσε από μπαλκόνι σχολείου – Νοσηλεύεται διασωληνωμένη",
+          "url": "https://www.kathimerini.gr/society/564183634/chaidari-13chroni-epese-apo-mpalkoni-scholeioy-nosileyetai-diasolinomeni/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T13:31:46+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Μαθήτρια 13 ετών του 7ου Γυμνασίου Χαϊδαρίου έπεσε από μπαλκόνι πρώτου ορόφου του σχολείου και νοσηλεύεται διασωληνωμένη στο Παίδων «Αγία Σοφία». Σύμφωνα με μαρτυρίες, η μαθήτρια καθόταν στο πάνω μέρος των κάγκελων και έχασε την ισορροπία της.",
+            "en": "A 13-year-old pupil at the 7th Junior High of Haidari fell from a first-floor school balcony and is being treated, intubated, at Agia Sofia Children's Hospital. According to witnesses, the girl was sitting on top of the balcony railing and lost her balance in a swaying movement."
+          },
+          "tags": {
+            "el": [
+              "Χαϊδάρι",
+              "σχολείο",
+              "ατύχημα",
+              "13χρονη"
+            ],
+            "en": [
+              "Haidari",
+              "school",
+              "accident",
+              "13-year-old"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Πυροσβεστική: 52 δασικές πυρκαγιές μέσα στο Σαββατοκύριακο",
+          "url": "https://www.kathimerini.gr/society/564183988/pyrosvestiki-52-dasikes-pyrkagies-mesa-sto-savvatokyriako/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T16:54:52+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Συνολικά 52 δασικές πυρκαγιές εκδηλώθηκαν το Σαββατοκύριακο σε διάφορες περιοχές της χώρας, σε ασυνήθιστα υψηλό αριθμό πριν την επίσημη έναρξη της αντιπυρικής περιόδου. Η πλειονότητα οφείλεται σε αμέλεια, κυρίως από καύση καλλιεργειών, ενώ όλα τα περιστατικά αντιμετωπίστηκαν άμεσα από την Πυροσβεστική.",
+            "en": "Greek firefighters responded to 52 forest fires over the weekend across various regions, an unusually high number before the official start of the fire season. Most were caused by negligence, mainly agricultural burning, and all blazes were brought under control promptly."
+          },
+          "tags": {
+            "el": [
+              "πυρκαγιές",
+              "Πυροσβεστική",
+              "αντιπυρική",
+              "αμέλεια"
+            ],
+            "en": [
+              "wildfires",
+              "fire service",
+              "fire season",
+              "negligence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Χαϊδάρι: Ψυχολόγος και κοινωνικός λειτουργός στο σχολείο όπου έπεσε η 13χρονη",
+          "url": "https://www.kathimerini.gr/society/564183793/chaidari-psychologoi-kai-koinonikoi-leitoyrgoi-sto-scholeio-poy-epese-i-13chroni/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T15:55:42+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Η υπουργός Παιδείας Σοφία Ζαχαράκη επισκέφθηκε το Νοσοκομείο Παίδων «Αγία Σοφία» όπου νοσηλεύεται η 13χρονη που έπεσε από μπαλκόνι σχολείου στο Χαϊδάρι. Στο 7ο Γυμνάσιο τοποθετήθηκαν ψυχολόγος και κοινωνικός λειτουργός για τη στήριξη μαθητών και εκπαιδευτικών, ενώ ξεκίνησε πλήρης διερεύνηση των συνθηκών.",
+            "en": "Education Minister Sofia Zacharaki visited Agia Sofia Children's Hospital where the 13-year-old girl who fell from a Haidari school balcony is being treated. A psychologist and social worker have been placed at the 7th Haidari Junior High to support students and staff, while a full investigation of the incident is underway."
+          },
+          "tags": {
+            "el": [
+              "Χαϊδάρι",
+              "13χρονη",
+              "σχολείο",
+              "Ζαχαράκη"
+            ],
+            "en": [
+              "Haidari",
+              "13-year-old",
+              "school",
+              "Zacharaki"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Μπλόκο στην αυτοκρατορία του «Πούτιν» – Η Αρχή για το ξέπλυμα δέσμευσε ξενοδοχεία, σκάφη και Porsche",
+          "url": "https://www.kathimerini.gr/society/564183760/mploko-stin-aytokratoria-toy-poytin-i-archi-desmeyse-xenodocheia-skafi-kai-porsche/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T15:06:28+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Η Αρχή για το Ξέπλυμα Μαύρου Χρήματος δέσμευσε 42 ακίνητα, 26 πολυτελή αυτοκίνητα και σκάφη στο πλαίσιο της υπόθεσης του κυκλώματος λαθραίων τσιγάρων με πρωταγωνιστές δύο αδέλφια γνωστά με τα προσωνύμια «πρόεδρος» και «Πούτιν». Η δέσμευση περιλαμβάνει μεζονέτες, αγροτεμάχια και ξενοδοχείο στην Πελοπόννησο.",
+            "en": "Greece's anti-money-laundering authority has frozen 42 properties, 26 luxury vehicles and several boats in a cigarette-smuggling case involving two brothers known by the nicknames 'President' and 'Putin'. Frozen assets include maisonettes, farmland and a hotel in the Peloponnese, building on February's pre-trial indictment."
+          },
+          "tags": {
+            "el": [
+              "ξέπλυμα",
+              "λαθραία τσιγάρα",
+              "δέσμευση",
+              "Πούτιν"
+            ],
+            "en": [
+              "money laundering",
+              "cigarette smuggling",
+              "asset freeze",
+              "Putin"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Θεσσαλονίκη: Πυροβολισμοί σε επιχείρηση ενοικίασης αυτοκινήτων",
+          "url": "https://www.kathimerini.gr/society/564183778/thessaloniki-pyrovolismoi-se-epicheirisi-enoikiasis-polytelon-aytokiniton/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T15:28:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Άγνωστοι πυροβόλησαν τα ξημερώματα σε επιχείρηση ενοικίασης πολυτελών αυτοκινήτων στη Θεσσαλονίκη, προκαλώντας υλικές ζημιές σε σταθμευμένα οχήματα και τζαμαρία, χωρίς τραυματισμούς. Το περιστατικό φαίνεται να συνδέεται με καταγγελία για εκβίαση που ερευνά η Υποδιεύθυνση Αντιμετώπισης Οργανωμένου Εγκλήματος.",
+            "en": "Unknown assailants opened fire on a luxury car-rental business in Thessaloniki in the early hours, causing damage to parked vehicles and the shopfront but no injuries. The incident appears linked to an extortion complaint being investigated by the Organized Crime Directorate for Northern Greece."
+          },
+          "tags": {
+            "el": [
+              "Θεσσαλονίκη",
+              "πυροβολισμοί",
+              "εκβίαση",
+              "οργανωμένο έγκλημα"
+            ],
+            "en": [
+              "Thessaloniki",
+              "shooting",
+              "extortion",
+              "organized crime"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "LIVE/Μέση Ανατολή: Στον «αέρα» οι συνομιλίες ΗΠΑ-Ιράν – Με αντίποινα για το ρεσάλτο απειλεί η Τεχεράνη",
+          "url": "https://www.kathimerini.gr/world/564183157/live-mesi-anatoli-ston-aera-oi-synomilies-ipa-iran-me-antipoina-gia-to-resalto-apeilei-i-techerani/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T07:44:51+03:00",
+          "importance": 85,
+          "summary": {
+            "el": "Το Ιράν δηλώνει ότι δεν θα συμμετάσχει σε συνομιλίες μετά τον συνεχιζόμενο ναυτικό αποκλεισμό και το ρεσάλτο σε ιρανικό πλοίο, απειλώντας να «ανταποδώσει σύντομα». Τα δύο μεγαλύτερα αεροδρόμια της Τεχεράνης άρχισαν να επαναλειτουργούν, ενώ το Ισραήλ δημοσίευσε χάρτη με τα κατεχόμενα εδάφη στον Λίβανο.",
+            "en": "Iran says it will not participate in talks after the continued naval blockade and a US boarding of an Iranian vessel, vowing to 'retaliate soon'. Tehran's two main airports have resumed operations while Israel published a map of territories it occupies in Lebanon."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "Τεχεράνη",
+              "ρεσάλτο"
+            ],
+            "en": [
+              "Iran",
+              "US",
+              "Tehran",
+              "boarding"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Το Ιράν δεν θα συνεχίσει τις διαπραγματεύσεις – Υπό πίεση η εκεχειρία",
+          "url": "https://www.kathimerini.gr/world/564183172/to-iran-den-tha-synechisei-tis-diapragmateyseis-ypo-piesi-i-ekecheiria/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T07:37:46+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Η Τεχεράνη δεν θα συνεχίσει τις διαπραγματεύσεις με τις ΗΠΑ σε αυτό το στάδιο, παρότι ο Τραμπ ανακοίνωσε αντιπροσωπεία στο Πακιστάν. Το Ιράν απειλεί με αντίποινα για το ρεσάλτο αμερικανικού πολεμικού σε ιρανικό φορτηγό, τρεις ημέρες πριν εκπνεύσει η εκεχειρία.",
+            "en": "Tehran will not continue negotiations with Washington at this stage, despite Trump announcing a delegation will travel to Pakistan. Iran is threatening retaliation for the US Navy's forced boarding of an Iranian cargo ship, just three days before the current ceasefire expires."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "διαπραγματεύσεις",
+              "εκεχειρία"
+            ],
+            "en": [
+              "Iran",
+              "US",
+              "negotiations",
+              "ceasefire"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ιράκ: Η πρεσβεία των ΗΠΑ καλεί τους Αμερικανούς «να φύγουν αμέσως» από τη χώρα",
+          "url": "https://www.kathimerini.gr/world/564183784/irak-i-presveia-ton-ipa-kalei-toys-amerikanoys-na-fygoyn-amesos-apo-ti-chora/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T15:49:15+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η πρεσβεία των ΗΠΑ στη Βαγδάτη κάλεσε τους Αμερικανούς πολίτες να «φύγουν αμέσως» από το Ιράκ και να μην ταξιδεύουν στη χώρα «για κανένα λόγο». Προειδοποιεί για σχεδιαζόμενες επιθέσεις από πολιτοφυλακές συνεργαζόμενες με το Ιράν κατά αμερικανικών στόχων και συμφερόντων.",
+            "en": "The US Embassy in Baghdad has urged Americans to 'leave immediately' from Iraq and to avoid travel to the country 'for any reason'. It warned of planned attacks by Iran-backed militias targeting US citizens and interests, citing elements linked to the Iraqi government."
+          },
+          "tags": {
+            "el": [
+              "Ιράκ",
+              "ΗΠΑ",
+              "πρεσβεία",
+              "εκκένωση"
+            ],
+            "en": [
+              "Iraq",
+              "US",
+              "embassy",
+              "evacuation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Λουιζιάνα: Οικογενειακή τραγωδία με οκτώ νεκρά παιδιά – Πατέρας των 7 ο δράστης",
+          "url": "https://www.kathimerini.gr/world/564183259/loyiziana-oikogeneiaki-tragodia-me-okto-nekra-paidia-pateras-ton-7-o-drastis/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T09:09:53+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Οκτώ παιδιά ηλικίας 3 έως 11 ετών σκοτώθηκαν στο Σρίβπορτ της Λουιζιάνα σε οικογενειακό μακελειό, όπου ο δράστης ήταν πατέρας των επτά. Ο 31χρονος Σάμαρ Ελκινς πυροβόλησε πρώτα μια γυναίκα στον δρόμο και στη συνέχεια εισέβαλε σε παρακείμενο σπίτι, σκοτώνοντας τα οκτώ παιδιά, στο πιο αιματηρό συμβάν στις ΗΠΑ από τον Ιανουάριο του 2024.",
+            "en": "Eight children aged 3 to 11 were killed in Shreveport, Louisiana, in a family massacre where the attacker fathered seven of the victims. Samar Elkins, 31, first shot a woman in the street before storming a nearby house and killing the eight children, in the bloodiest US incident since January 2024."
+          },
+          "tags": {
+            "el": [
+              "Λουιζιάνα",
+              "μακελειό",
+              "παιδιά",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "Louisiana",
+              "massacre",
+              "children",
+              "US"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ιαπωνία: Σεισμός 7,5 Ρίχτερ – Προειδοποίηση για τσουνάμι",
+          "url": "https://www.kathimerini.gr/world/564183481/iaponia-seismos-7-3-richter-proeidopoiisi-gia-tsoynami/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T11:13:47+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Σεισμός μεγέθους 7,5 βαθμών της κλίμακας Ρίχτερ έπληξε ανοικτά των βορειοανατολικών ακτών της Ιαπωνίας, με την Ιαπωνική Μετεωρολογική Υπηρεσία να εκδίδει προειδοποίηση για τσουνάμι έως 3 μέτρων στην Ιγουάτε και στο Χοκάιντο. Τσουνάμι 80 εκατοστών έπληξε το λιμάνι του Κούτζι, χωρίς αναφορά ζημιών ή θυμάτων προς το παρόν.",
+            "en": "A magnitude 7.5 earthquake struck off the northeastern coast of Japan, with the Japan Meteorological Agency issuing tsunami warnings of up to 3 meters for Iwate and Hokkaido. An 80-centimeter tsunami hit Kuji harbor, with no damage or casualties reported so far."
+          },
+          "tags": {
+            "el": [
+              "Ιαπωνία",
+              "σεισμός",
+              "τσουνάμι",
+              "Ιγουάτε"
+            ],
+            "en": [
+              "Japan",
+              "earthquake",
+              "tsunami",
+              "Iwate"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Πρωτογενή πλεονάσματα",
+          "url": "https://www.kathimerini.gr/opinion/564181558/protogeni-pleonasmata/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T20:03:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο Κώστας Καλλίτσης υπογραμμίζει ότι η ελληνική οικονομία είχε αρχίσει να εξασθενεί πριν τον πόλεμο και επιταχύνεται εξαιτίας του, με ΔΝΤ, Κομισιόν και ΚΕΠΕ να προβλέπουν ανάπτυξη στο 1,8% φέτος και πληθωρισμό κοντά στο 4%. Παρατηρεί ότι ο πληθωρισμός φουσκώνει πλασματικά τα πρωτογενή πλεονάσματα της κυβέρνησης.",
+            "en": "Kostas Kallitsis argues the Greek economy was already weakening before the war and is now accelerating its slowdown, with the IMF, Commission and KEPE projecting 1.8% growth this year and inflation near 4%. Inflation, he notes, artificially inflates the government's prized primary surpluses while shrinking the debt-to-GDP ratio."
+          },
+          "tags": {
+            "el": [
+              "οικονομία",
+              "πληθωρισμός",
+              "πλεόνασμα",
+              "ΚΕΠΕ"
+            ],
+            "en": [
+              "economy",
+              "inflation",
+              "surplus",
+              "KEPE"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Χρειάζεται και ελπίδα",
+          "url": "https://www.kathimerini.gr/opinion/564181396/ektos-apo-kataggelies-chreiazetai-kai-elpida/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T20:13:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Αλέξης Παπαχελάς υποστηρίζει ότι πέρα από τον θυμό και την οργή, όσοι θέλουν να κυβερνήσουν πρέπει να δώσουν στον κόσμο και ελπίδα με εγγυήσεις για το πώς θα το πετύχουν. Η έκφραση μόνο της κοινωνικής οργής ανταγωνίζεται τα αντισυστημικά κόμματα, που εμφανίζονται «άσπιλα» και πιο απελευθερωμένα.",
+            "en": "Alexis Papachelas argues that beyond anger and indignation, any party aspiring to govern must also offer hope with guarantees on how to deliver it. Channeling only the societal rage cedes ground to anti-system parties, which appear 'unblemished' because they have never held power."
+          },
+          "tags": {
+            "el": [
+              "Παπαχελάς",
+              "ελπίδα",
+              "πολιτική",
+              "αντιπολίτευση"
+            ],
+            "en": [
+              "Papachelas",
+              "hope",
+              "politics",
+              "opposition"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Στίγμα",
+          "url": "https://www.kathimerini.gr/opinion/564181096/stigma-2/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T20:14:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Κύριο άρθρο που υποστηρίζει ότι οι ελληνικές οικογένειες «ματώνουν» για να εξασφαλίσουν στα παιδιά τους εκπαίδευση χωρίς πελατειακές εξαρτήσεις, ενώ οι ηχηρές εξαιρέσεις παραγόντων που κομπάζουν για παρακάμψεις του συστήματος υπονομεύουν την προσπάθεια. Η πρόοδος στα πανεπιστήμια είναι ορατή αλλά απειλείται από στίγματα αναξιοκρατίας.",
+            "en": "Editorial arguing that Greek families 'bleed' to give their children an education free of clientelist dependencies, while high-profile exceptions of power players flaunting shortcuts undermine that effort. Progress in universities is visible but threatened by episodes that stigmatize the meritocracy agenda."
+          },
+          "tags": {
+            "el": [
+              "εκπαίδευση",
+              "αξιοκρατία",
+              "κράτος δικαίου",
+              "άρθρο"
+            ],
+            "en": [
+              "education",
+              "meritocracy",
+              "rule of law",
+              "editorial"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η μπάλα που χάνεται",
+          "url": "https://www.kathimerini.gr/opinion/564181219/i-mpala-poy-chanetai/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T12:30:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ο Ευτύχης Βαρδουλάκης σχολιάζει ότι και ο Μητσοτάκης και ο Ανδρουλάκης είχαν τα δίκια τους στη συζήτηση στη Βουλή. Ο πρωθυπουργός ορθά επισήμανε την παροξυσμένη πολιτική αντιπαράθεση σε μία ταραγμένη διεθνή συγκυρία, ενώ ο αρχηγός της αξιωματικής αντιπολίτευσης δικαίως σήκωσε θέματα θεσμικής τάξης που δεν είναι αμελητέα.",
+            "en": "Eftychis Vardoulakis argues both Mitsotakis and Androulakis had valid points in the parliamentary debate. The prime minister correctly noted the disproportionate domestic political acrimony given the turbulent international context, while the opposition leader was right to raise real institutional concerns that should not be dismissed."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "Ανδρουλάκης",
+              "Βουλή",
+              "σχόλιο"
+            ],
+            "en": [
+              "Mitsotakis",
+              "Androulakis",
+              "parliament",
+              "commentary"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Πιασμένοι από τα μανίκια",
+          "url": "https://www.kathimerini.gr/opinion/564181150/piasmenoi-apo-ta-manikia/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T20:11:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ο Μιχάλης Τσιντσίνης παρατηρεί ότι τόσο ο Ανδρουλάκης όσο και ο Μητσοτάκης έδειξαν στη Βουλή ό,τι ξέραμε ήδη: ο πρώτος έχει ταλέντο στη «συνδικαλιστική» αγανάκτηση αλλά δυσκολεύεται να πείσει το ακροατήριό του ότι μπορεί να γίνει πρωθυπουργός, ενώ ο δεύτερος επικαλέστηκε μόνο τη σταθερότητα που πλέον θυμίζει θαλπωρή παρά σταθερή πρόοδο.",
+            "en": "Michalis Tsintsinis notes that both Androulakis and Mitsotakis showed in parliament exactly what we already knew: the PASOK leader excels at 'trade-union' indignation but struggles to convince voters he could be prime minister, while the PM leaned only on stability — which now feels more like complacency than steady progress."
+          },
+          "tags": {
+            "el": [
+              "Τσιντσίνης",
+              "Μητσοτάκης",
+              "Ανδρουλάκης",
+              "σχόλιο"
+            ],
+            "en": [
+              "Tsintsinis",
+              "Mitsotakis",
+              "Androulakis",
+              "commentary"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "title": "«Στάσου, μύγδαλα»: Η ταινία, το τραγούδι και ο πρωταγωνιστής της",
+          "url": "https://www.kathimerini.gr/culture/564179308/stasoy-mygdala-i-tainia-to-tragoydi-kai-o-protagonistis-tis/",
+          "source": "Kathimerini",
+          "published": "2026-04-20T08:00:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Αφιέρωμα στον ηθοποιό Γιάννη Βόγλη (1937-2016), με αφορμή τα δέκα χρόνια από τον θάνατό του, και στην περίφημη φράση «στάσου, μύγδαλα» από τα «Κορίτσια στον ήλιο» (1968) του Βασίλη Γεωργιάδη. Η ταινία έδρεψε δάφνες στο Φεστιβάλ Θεσσαλονίκης και παραμένει η πιο αναγνωρίσιμη εμφάνισή του στον κινηματογράφο.",
+            "en": "Tribute to the late Greek actor Yannis Voglis (1937-2016), marking ten years since his death, and to the famous line 'stop, almonds' from Vassilis Georgiadis's 1968 'Girls in the Sun'. The film swept awards at the Thessaloniki Festival and remains his most recognizable screen appearance."
+          },
+          "tags": {
+            "el": [
+              "Βόγλης",
+              "κινηματογράφος",
+              "Γεωργιάδης",
+              "ιστορία"
+            ],
+            "en": [
+              "Voglis",
+              "cinema",
+              "Georgiadis",
+              "history"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Η ιερή δύναμη της αφής",
+          "url": "https://www.kathimerini.gr/culture/564178216/i-ieri-dynami-tis-afis/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T21:40:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Σάκης Ιωαννίδης γράφει λογοτεχνικό κείμενο για την αφή και τη μνήμη ενός παππού που χάνει σταδιακά την αίσθηση του χρόνου, αλλά θυμάται τα αδέλφια του στο χωριό. Το κείμενο αναδεικνύει τη σημασία της σωματικής επαφής στη διατήρηση της ανθρώπινης σύνδεσης.",
+            "en": "Sakis Ioannidis writes a literary piece on touch and memory, about a grandfather gradually losing his sense of time yet still remembering his siblings back in the village. The text underscores the importance of physical contact in preserving human connection."
+          },
+          "tags": {
+            "el": [
+              "μνήμη",
+              "αφή",
+              "οικογένεια",
+              "λογοτεχνία"
+            ],
+            "en": [
+              "memory",
+              "touch",
+              "family",
+              "literature"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Στον κόσμο του Καμπούκι – Η ομορφιά της απλότητας",
+          "url": "https://www.kathimerini.gr/culture/cinema/564180712/ston-kosmo-toy-kampoyki-i-omorfia-tis-aplotitas/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T17:51:24+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Αιμίλιος Χαρμπής γράφει για την ιαπωνική ταινία «Εθνικός θησαυρός» του Σανγκ-ιλ Λι, που έσπασε το εισπρακτικό ρεκόρ στη χώρα με σχεδόν 130 εκατ. δολάρια. Η ταινία απεικονίζει τον μυστικιστικό κόσμο του παραδοσιακού θεάτρου Καμπούκι και τη λατρεία των βετεράνων ηθοποιών σαν ροκ σταρ.",
+            "en": "Aimilios Charbis writes about Sang-il Lee's Japanese film 'National Treasure', which broke the country's all-time live-action box-office record at nearly $130 million. The film depicts the mystical world of traditional Kabuki theatre and the rock-star-level adoration of its veteran performers."
+          },
+          "tags": {
+            "el": [
+              "Καμπούκι",
+              "Ιαπωνία",
+              "κινηματογράφος",
+              "ταινίες"
+            ],
+            "en": [
+              "Kabuki",
+              "Japan",
+              "cinema",
+              "films"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Το κύμα κρατάει 62 χρόνια",
+          "url": "https://www.kathimerini.gr/culture/564180277/to-kyma-krataei-62-chronia/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T23:30:28+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Η Ελένη Σαμπάνη μας πηγαίνει στην «Απανεμιά», την τελευταία ιστορική μπουάτ της Πλάκας που λειτουργεί 62 χρόνια στα Αναφιώτικα, όπου η γενιά Ζ ανηφορίζει στο πάλκο των παππούδων. Η μπάντα «Ήρθαν τα ήμερα», 25άρηδες από την Αθήνα, παίζει εκρηκτικές συνθέσεις που μπερδεύουν τζαζ, φανκ, έντεχνο και progressive.",
+            "en": "Eleni Sabani takes us to Apanemia, the last surviving historical 'boite' of Plaka, running for 62 years in Anafiotika, where Gen Z is climbing the stairs their grandparents once frequented. The 'Irthan ta imera' band, 25-year-olds from Athens, plays explosive blends of jazz, funk, contemporary and progressive."
+          },
+          "tags": {
+            "el": [
+              "μπουάτ",
+              "Απανεμιά",
+              "Πλάκα",
+              "γενιά Ζ"
+            ],
+            "en": [
+              "boite",
+              "Apanemia",
+              "Plaka",
+              "Gen Z"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Αστικά ίχνη στο Κουκάκι",
+          "url": "https://www.kathimerini.gr/culture/564178210/astika-ichni-sto-koykaki/",
+          "source": "Kathimerini",
+          "published": "2026-04-19T21:30:00+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Ο Νίκος Βατόπουλος περπατάει στο Κουκάκι με αφορμή το καμένο σπίτι στη γωνία Φαλήρου και Τούσα Μπότσαρη, ένα «κέλυφος» που συμπυκνώνει την αστική ιστορία της γειτονιάς. Από τη δεκαετία του 1920 ξεκίνησε η πραγματική κοσμογονία της περιοχής, με σπίτια που έκτιζαν το ένα μετά το άλλο.",
+            "en": "Nikos Vatopoulos walks through Koukaki prompted by the burnt house on the corner of Falirou and Tousa Botsari streets, a 'shell' that distills the urban history of the neighborhood. The Interwar 1920s marked the start of the district's real social and architectural birth."
+          },
+          "tags": {
+            "el": [
+              "Κουκάκι",
+              "Αθήνα",
+              "αρχιτεκτονική",
+              "γειτονιά"
+            ],
+            "en": [
+              "Koukaki",
+              "Athens",
+              "architecture",
+              "neighborhood"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

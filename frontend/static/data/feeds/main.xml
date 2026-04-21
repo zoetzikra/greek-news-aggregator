@@ -1,271 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini</title>
+  <title>Greek News Aggregator — Daily Top Stories</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/" />
   <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" />
-  <link rel="alternate" href="https://zoetzikra.github.io/greek-news-aggregator" />
-  <updated>2026-04-16T10:20:44Z</updated>
-  <id>https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml</id>
-  <author>
-    <name>Greek News Aggregator</name>
-  </author>
+  <id>tag:zoetzikra.github.io,2026:greek-news-aggregator</id>
+  <updated>2026-04-20T14:18:38.930008+00:00</updated>
+  <subtitle>Top 20 Greek news items from kathimerini.gr, bilingual summaries</subtitle>
   <entry>
-    <title>Ουκρανία: Η πιο φονική ρωσική επίθεση φέτος άφησε πίσω της 16 νεκρούς – Εκκληση Ζελένσκι</title>
-    <link href="https://www.kathimerini.gr/world/564177445/oykrania-i-pio-foniki-rosiki-epithesi-fetos-afise-piso-tis-16-nekroys-ekklisi-zelenski/" />
-    <id>https://www.kathimerini.gr/world/564177445/oykrania-i-pio-foniki-rosiki-epithesi-fetos-afise-piso-tis-16-nekroys-ekklisi-zelenski/</id>
-    <updated>2026-04-16T10:59:35Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Russia launched its deadliest attack of 2026 on Kyiv and other Ukrainian cities, killing 16 people including a 12-year-old. Zelenskyy called for international response.
-
-Η Ρωσία εξαπέλυσε την πιο φονική επίθεση του 2026 στο Κίεβο και άλλες πόλεις, σκοτώνοντας 16 ανθρώπους συμπεριλαμβανομένου 12χρονου. Ο Ζελένσκι κάλεσε σε διεθνή αντίδραση.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>LIVE/Μέση Ανατολή: «Παράθυρο» για συμφωνία ΗΠΑ-Ιράν – Νέες συνομιλίες Ισραήλ – Λιβάνου</title>
-    <link href="https://www.kathimerini.gr/world/564177247/live-mesi-anatoli-parathyro-gia-symfonia-ipa-iran-nees-synomilies-israil-livanoy/" />
-    <id>https://www.kathimerini.gr/world/564177247/live-mesi-anatoli-parathyro-gia-symfonia-ipa-iran-nees-synomilies-israil-livanoy/</id>
-    <updated>2026-04-16T08:31:44Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">A window for a US-Iran deal is opening with White House optimism, while Trump announces Israel-Lebanon leader talks. Middle East developments are shifting rapidly.
-
-Ανοίγει «παράθυρο» για συμφωνία ΗΠΑ-Ιράν με αισιοδοξία από τον Λευκό Οίκο, ενώ ο Τραμπ προαναγγέλλει συνομιλίες Ισραήλ-Λιβάνου. Οι εξελίξεις στη Μέση Ανατολή αλλάζουν ρυθμό γρήγορα.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Πολύνεκρη νύχτα σε Ουκρανία και Ρωσία με συνεχιζόμενη ανταλλαγή πληγμάτων</title>
-    <link href="https://www.kathimerini.gr/world/564177169/pente-nekroi-se-oykrania-kai-rosia-sti-synechizomeni-antallagi-pligmaton/" />
-    <id>https://www.kathimerini.gr/world/564177169/pente-nekroi-se-oykrania-kai-rosia-sti-synechizomeni-antallagi-pligmaton/</id>
-    <updated>2026-04-16T07:26:59Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">In one of 2026's deadliest nights, 14 Ukrainian civilians and 2 Russian children were killed in an exchange of air strikes. The war shows no signs of de-escalation.
-
-Σε μία από τις φονικότερες νύχτες του 2026, 14 άμαχοι στην Ουκρανία και 2 παιδιά στη Ρωσία σκοτώθηκαν σε ανταλλαγή αεροπορικών πληγμάτων. Ο πόλεμος δεν δείχνει σημάδια αποκλιμάκωσης.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Γιώργος Μυλωνάκης: Σταθερή η κατάστασή του, παραμένει διασωληνωμένος στη ΜΕΘ</title>
-    <link href="https://www.kathimerini.gr/politics/564177598/giorgos-mylonakis-statheri-i-katastasi-toy-paramenei-diasolinomenos-sti-meth/" />
-    <id>https://www.kathimerini.gr/politics/564177598/giorgos-mylonakis-statheri-i-katastasi-toy-paramenei-diasolinomenos-sti-meth/</id>
-    <updated>2026-04-16T12:56:15Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Deputy Minister Giorgos Mylonakis remains intubated in the ICU of 'Evangelismos' hospital with stable condition per a new medical bulletin. He suffered a stroke following an aneurysm rupture.
-
-Ο υφυπουργός παρά τω Πρωθυπουργώ Γιώργος Μυλωνάκης παραμένει διασωληνωμένος στη ΜΕΘ του «Ευαγγελισμού», με σταθερή κατάστασή του σύμφωνα με νέο ιατρικό ανακοινωθέν. Είχε υποστεί εγκεφαλικό επεισόδιο ύστερα από ρήξη ανευρύσματος.</summary>
+    <id>tag:zoetzikra.github.io,2026:fe33f55ebe00</id>
+    <title>Ο Αθανάσιος Καββαδάς ο νέος υφυπουργός Αγροτικής Ανάπτυξης, μετά την παραίτηση Λαζαρίδη</title>
+    <link href="https://www.kathimerini.gr/politics/564183559/o-athanasios-kavvathas-o-neos-yfypoyrgos-agrotikis-anaptyxis-meta-tin-paraitisi-lazaridi/" />
+    <updated>2026-04-20T12:39:01+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Lefkada MP Athanasios Kavvadas, a retired senior Air Force officer and businessman, is the new Deputy Minister of Rural Development, replacing Makarios Lazaridis who resigned. The government spokesperson announced the appointment on Monday at noon.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο βουλευτής Λευκάδας Αθανάσιος Καββαδάς, απόστρατος ανώτερος αξιωματικός της Πολεμικής Αεροπορίας και επιχειρηματίας, αναλαμβάνει υφυπουργός Αγροτικής Ανάπτυξης μετά την παραίτηση του Μακάριου Λαζαρίδη. Η ανακοίνωση έγινε από τον κυβερνητικό εκπρόσωπο το μεσημέρι της Δευτέρας.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Παραμένουν κρίσιμες οι επόμενες ώρες για τον Γιώργο Μυλωνάκη</title>
-    <link href="https://www.kathimerini.gr/politics/government/564176602/paramenoyn-krisimes-oi-epomenes-ores-gia-ton-giorgo-mylonaki/" />
-    <id>https://www.kathimerini.gr/politics/government/564176602/paramenoyn-krisimes-oi-epomenes-ores-gia-ton-giorgo-mylonaki/</id>
-    <updated>2026-04-16T06:42:00Z</updated>
-    <author>
-      <name>Σταύρος Παπαντωνίου</name>
-    </author>
-    <summary type="text">Deputy PM minister Giorgos Mylonakis collapsed at the Maximos Mansion and is hospitalised intubated after an aneurysm rupture. The next few hours are considered critical for his recovery.
-
-Ο υφυπουργός παρά τω Πρωθυπουργώ Γιώργος Μυλωνάκης κατέρρευσε στο Μέγαρο Μαξίμου και νοσηλεύεται διασωληνωμένος με ρήξη ανευρύσματος. Οι επόμενες ώρες κρίνονται αποφασιστικές για την έκβαση της υγείας του.</summary>
+    <id>tag:zoetzikra.github.io,2026:f1f064cc2936</id>
+    <title>LIVE/Μέση Ανατολή: Στον «αέρα» οι συνομιλίες ΗΠΑ-Ιράν – Με αντίποινα για το ρεσάλτο απειλεί η Τεχεράνη</title>
+    <link href="https://www.kathimerini.gr/world/564183157/live-mesi-anatoli-ston-aera-oi-synomilies-ipa-iran-me-antipoina-gia-to-resalto-apeilei-i-techerani/" />
+    <updated>2026-04-20T07:44:51+03:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Iran says it will not participate in talks after the continued naval blockade and a US boarding of an Iranian vessel, vowing to 'retaliate soon'. Tehran's two main airports have resumed operations while Israel published a map of territories it occupies in Lebanon.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Ιράν δηλώνει ότι δεν θα συμμετάσχει σε συνομιλίες μετά τον συνεχιζόμενο ναυτικό αποκλεισμό και το ρεσάλτο σε ιρανικό πλοίο, απειλώντας να «ανταποδώσει σύντομα». Τα δύο μεγαλύτερα αεροδρόμια της Τεχεράνης άρχισαν να επαναλειτουργούν, ενώ το Ισραήλ δημοσίευσε χάρτη με τα κατεχόμενα εδάφη στον Λίβανο.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:1b23a8c3bc9b</id>
+    <title>Το Ιράν δεν θα συνεχίσει τις διαπραγματεύσεις – Υπό πίεση η εκεχειρία</title>
+    <link href="https://www.kathimerini.gr/world/564183172/to-iran-den-tha-synechisei-tis-diapragmateyseis-ypo-piesi-i-ekecheiria/" />
+    <updated>2026-04-20T07:37:46+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Tehran will not continue negotiations with Washington at this stage, despite Trump announcing a delegation will travel to Pakistan. Iran is threatening retaliation for the US Navy's forced boarding of an Iranian cargo ship, just three days before the current ceasefire expires.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Τεχεράνη δεν θα συνεχίσει τις διαπραγματεύσεις με τις ΗΠΑ σε αυτό το στάδιο, παρότι ο Τραμπ ανακοίνωσε αντιπροσωπεία στο Πακιστάν. Το Ιράν απειλεί με αντίποινα για το ρεσάλτο αμερικανικού πολεμικού σε ιρανικό φορτηγό, τρεις ημέρες πριν εκπνεύσει η εκεχειρία.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:987eca98ab36</id>
+    <title>Το νέο παζλ Ελλάδας – Τουρκίας – Ισραήλ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564181162/to-neo-pazl-elladas-toyrkias-israil/" />
+    <updated>2026-04-20T07:33:23+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
     <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An analysis of rising Greece-Turkey tensions, the 'encirclement' rhetoric from Ankara and the jockeying over F-35s, as Athens reads them through NATO channels. Turkey's aim is to paint Greek defense-reinforcement measures as 'temporary' and to claim space in regional initiatives.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση για την εντεινόμενη ελληνοτουρκική ένταση, τη ρητορική περί «περικύκλωσης» της Άγκυρας και τις ζυμώσεις για τα F-35, όπως τις διαβάζει η Αθήνα μέσα από τους διαύλους του ΝΑΤΟ. Η Τουρκία στοχεύει να αναδείξει ως «προσωρινά» τα ελληνικά μέτρα θωράκισης και να διεκδικήσει θέση σε περιφερειακές πρωτοβουλίες.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Γιώργος Μυλωνάκης: «Σοβαρή αλλά ελεγχόμενη» η κατάστασή του – Το ιατρικό ανακοινωθέν</title>
-    <link href="https://www.kathimerini.gr/politics/564175678/giorgos-mylonakis-sovari-alla-elegchomeni-i-katastasi-toy-to-iatriko-anakoinothen/" />
-    <id>https://www.kathimerini.gr/politics/564175678/giorgos-mylonakis-sovari-alla-elegchomeni-i-katastasi-toy-to-iatriko-anakoinothen/</id>
-    <updated>2026-04-15T14:18:31Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Evangelismos hospital announced Mylonakis's condition as 'serious but controlled' following a successful vascular embolisation procedure. He remains in the ICU under intensive monitoring.
-
-Το νοσοκομείο Ευαγγελισμός ανακοίνωσε ότι η κατάσταση του Μυλωνάκη είναι «σοβαρή αλλά ελεγχόμενη» μετά την επιτυχή διαδικασία εμβολισμού αγγείου. Παραμένει στη ΜΕΘ για εντατική παρακολούθηση.</summary>
+    <id>tag:zoetzikra.github.io,2026:d1c521a2c488</id>
+    <title>Τούρκος ΥΠΕΞ: Προτεραιότητα απειλής από τη συμμαχία Ελλάδας-Κύπρου-Ισραήλ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564182860/toyrkos-ypex-proteraiotita-apeilis-apo-ti-symmachia-elladas-kyproy-israil/" />
+    <updated>2026-04-19T14:49:28+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
     <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Turkish Foreign Minister Hakan Fidan said the military alliance of Israel, Greece and Cyprus constitutes a 'clear priority threat' for Turkey and other regional countries. Answering a Kathimerini question, he maintained that 'no one has assured us' the alliance is not directed against Ankara.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Τούρκος υπουργός Εξωτερικών Χακάν Φιντάν δήλωσε ότι η στρατιωτική συμμαχία Ισραήλ-Ελλάδας-Κύπρου αποτελεί «σαφή προτεραιότητα απειλής» για την Τουρκία και άλλες χώρες της περιοχής. Απαντώντας σε ερώτηση της «Κ», υποστήριξε ότι «κανένας δεν μας διαβεβαίωσε» ότι η συμμαχία δεν στρέφεται κατά της Άγκυρας.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ξανά στο στόχαστρο του Τραμπ ο Τζερόμ Πάουελ της Fed</title>
-    <link href="https://www.kathimerini.gr/economy/international/564177115/xana-sto-stochastro-toy-tramp-o-tzerom-paoyel-tis-fed/" />
-    <id>https://www.kathimerini.gr/economy/international/564177115/xana-sto-stochastro-toy-tramp-o-tzerom-paoyel-tis-fed/</id>
-    <updated>2026-04-16T08:07:00Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Trump threatened to fire Fed Chair Jerome Powell if he does not resign 'in time', raising risks to central bank independence. He also announced a Justice Department investigation against Powell.
-
-Ο Τραμπ απείλησε ότι θα απολύσει τον πρόεδρο της Fed Τζερόμ Πάουελ αν δεν παραιτηθεί «εγκαίρως», ανεβάζοντας τους κινδύνους για την ανεξαρτησία της κεντρικής τράπεζας. Ανακοίνωσε επίσης έρευνα κατά του Πάουελ.</summary>
+    <id>tag:zoetzikra.github.io,2026:d0132a6effbc</id>
+    <title>Εχουμε επάρκεια καυσίμων για δύο μήνες</title>
+    <link href="https://www.kathimerini.gr/economy/564181573/echoyme-eparkeia-kaysimon-gia-dyo-mines/" />
+    <updated>2026-04-20T08:02:54+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
     <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece's refining industry says it is 'fully secured' on fuel supply for two months, but warns conditions will worsen if navigation through the Strait of Hormuz is not restored. Safety cushions such as high inventories and spare capacity at Greek refineries are starting to feel the strain.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο κλάδος διύλισης δηλώνει «πλήρως διασφαλισμένος» για δύο μήνες σε επάρκεια καυσίμων, αλλά προειδοποιεί ότι αν δεν αποκατασταθεί η ναυσιπλοΐα στα Στενά του Ορμούζ η κατάσταση θα δυσκολέψει. Τα «μαξιλάρια ασφαλείας» όπως τα υψηλά αποθέματα και η πλεονάζουσα παραγωγή των ελληνικών διυλιστηρίων αρχίζουν να πιέζονται.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Εκκληση Κίνας προς Ιράν να ανοίξει τα Στενά του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564177283/ekklisi-kinas-pros-iran-na-anoixei-ta-stena-toy-ormoyz/" />
-    <id>https://www.kathimerini.gr/world/564177283/ekklisi-kinas-pros-iran-na-anoixei-ta-stena-toy-ormoyz/</id>
-    <updated>2026-04-16T08:47:00Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Chinese FM Wang Yi called on Iran to restore free navigation through the Hormuz Strait while respecting Iranian sovereignty. The EU and China are concerned about the trade impact.
-
-Ο Κινέζος υπουργός Εξωτερικών Γουάνγκ Γι κάλεσε το Ιράν να αποκαταστήσει την ελεύθερη ναυσιπλοΐα στα Στενά του Ορμούζ, δηλώνοντας σεβασμό στην ιρανική κυριαρχία. Η ΕΕ και η Κίνα ανησυχούν για τον αντίκτυπο στο εμπόριο.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Μητσοτάκης σε αντιπολίτευση: «Ανασύρετε αφορμές διχασμού» – Αιχμές κατά Ευρωπαϊκής Εισαγγελίας για ΟΠΕΚΕΠΕ</title>
-    <link href="https://www.kathimerini.gr/politics/564177217/mitsotakis-se-antipoliteysi-anasyrete-aformes-dichasmoy-aichmes-kata-eyropaikis-eisaggelias-gia-opekepe/" />
-    <id>https://www.kathimerini.gr/politics/564177217/mitsotakis-se-antipoliteysi-anasyrete-aformes-dichasmoy-aichmes-kata-eyropaikis-eisaggelias-gia-opekepe/</id>
-    <updated>2026-04-16T12:39:50Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">PM Mitsotakis accused the opposition of 'reviving divisive pretexts' in parliament, citing Mylonakis's condition as an example of a toxic political climate. He also criticised the European Public Prosecutor's Office over the OPEKAUPE case.
-
-Ο πρωθυπουργός Μητσοτάκης κατηγόρησε την αντιπολίτευση για «ανασύρεις αφορμών διχασμού» στη Βουλή, αναφερόμενος στην κατάσταση Μυλωνάκη ως παράδειγμα τοξικού πολιτικού κλίματος. Επίσης απηύθυνε αιχμές κατά της Ευρωπαϊκής Εισαγγελίας για την υπόθεση ΟΠΕΚΕΠΕ.</summary>
-    <category term="politics" />
-  </entry>
-  <entry>
-    <title>Ο πόλεμος στον Κόλπο «πέρασε» στις τιμές</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564176992/o-polemos-ston-kolpo-perase-stis-times/" />
-    <id>https://www.kathimerini.gr/visual/infographics/564176992/o-polemos-ston-kolpo-perase-stis-times/</id>
-    <updated>2026-04-16T09:53:09Z</updated>
-    <author>
-      <name>Θέλμα Χατζηαθανασίου</name>
-    </author>
-    <summary type="text">The first impact of the Middle East war on Greek prices became visible with inflation jumping 2.6% monthly and 3.9% annually in March. Fuel prices with double-digit increases are the main transmission channel.
-
-Τα πρώτα σημάδια του πολέμου στη Μέση Ανατολή στις ελληνικές τιμές έγιναν ορατά με άλμα πληθωρισμού 2,6% μηνιαία και 3,9% ετήσια τον Μάρτιο. Τα καύσιμα με διψήφιες αυξήσεις είναι ο κύριος μοχλός μετάδοσης.</summary>
+    <id>tag:zoetzikra.github.io,2026:5556846e2182</id>
+    <title>Γιάννης Στουρνάρας: Υπάρχει χώρος για στοχευμένα μέτρα στήριξης</title>
+    <link href="https://www.kathimerini.gr/economy/564181624/giannis-stoyrnaras-yparchei-choros-gia-stocheymena-metra-stirixis/" />
+    <updated>2026-04-20T07:59:58+00:00</updated>
+    <author><name>Ειρήνη Χρυσολωρά</name></author>
     <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Bank of Greece Governor Yannis Stournaras, after his term was renewed for a third time, argues there is fiscal space for new targeted and temporary support measures. He warns of stagflation risks from the war and proposes a commission to overhaul the tax system, modeled on the 2002 Georgakopoulos committee.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο διοικητής της Τράπεζας της Ελλάδος Γιάννης Στουρνάρας, μετά την ανανέωση της θητείας του για τρίτη φορά, υποστηρίζει ότι υπάρχει δημοσιονομικός χώρος για νέα στοχευμένα και προσωρινά μέτρα στήριξης. Προειδοποιεί για κίνδυνο στασιμοπληθωριστικών φαινομένων λόγω του πολέμου και προτείνει επιτροπή για επανεξέταση του φορολογικού συστήματος.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ιράν: Σε «κρίσιμη κατάσταση» λόγω καρδιακής προσβολής η φυλακισμένη νομπελίστρια Ειρήνης Μοχαμαντί</title>
-    <link href="https://www.kathimerini.gr/world/564177280/iran-se-krisimi-katastasi-logo-kardiakis-prosvolis-i-fylakismeni-nompelistria-eirinis-mochamanti/" />
-    <id>https://www.kathimerini.gr/world/564177280/iran-se-krisimi-katastasi-logo-kardiakis-prosvolis-i-fylakismeni-nompelistria-eirinis-mochamanti/</id>
-    <updated>2026-04-16T08:31:47Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Imprisoned Iranian Nobel laureate Narges Mohammadi is in critical condition following a heart attack, her brother reports. The 53-year-old activist had already suffered serious health problems.
-
-Η φυλακισμένη Ιρανή νομπελίστρια Ειρήνης Ναργκίς Μοχαμαντί βρίσκεται σε κρίσιμη κατάσταση μετά από καρδιακή προσβολή, αναφέρει ο αδελφός της. Η 53χρονη αγωνίστρια υπέφερε ήδη από σοβαρά προβλήματα υγείας.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Ισραήλ – Λίβανος: Νέες συνομιλίες σε επίπεδο ηγετών προαναγγέλλει ο Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564177151/israil-livanos-nees-synomilies-proanaggellei-o-tramp/" />
-    <id>https://www.kathimerini.gr/world/564177151/israil-livanos-nees-synomilies-proanaggellei-o-tramp/</id>
-    <updated>2026-04-16T07:03:49Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Trump announced via social media new Israel-Lebanon talks, leaving open the possibility of a Netanyahu-Aoun meeting. A new ceasefire front appears to be forming.
-
-Ο Τραμπ προαναγγέλλει με ανάρτηση νέες συνομιλίες μεταξύ Ισραήλ και Λιβάνου, αφήνοντας ανοιχτό το ενδεχόμενο συνάντησης Νετανιάχου-Αούν. Ένα νέο μέτωπο κατάπαυσης πυρός φαίνεται να διαμορφώνεται.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Ανδρουλάκης: Μονόδρομος η παραίτηση της κυβέρνησης και οι εκλογές</title>
-    <link href="https://www.kathimerini.gr/politics/564177226/androylakis-monodromos-i-paraitisi-tis-kyvernisis-kai-oi-ekloges/" />
-    <id>https://www.kathimerini.gr/politics/564177226/androylakis-monodromos-i-paraitisi-tis-kyvernisis-kai-oi-ekloges/</id>
-    <updated>2026-04-16T12:31:01Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">PASOK leader Nikos Androulakis called from the parliament floor for the government's resignation and early elections, branding Mitsotakis the 'architect of toxicity'. He raised the wiretapping and OPEKAUPE issues.
-
-Ο αρχηγός του ΠΑΣΟΚ Νίκος Ανδρουλάκης ζήτησε από το βήμα της Ολομέλειας παραίτηση κυβέρνησης και πρόωρες εκλογές, αποκαλώντας τον Μητσοτάκη «αρχιτέκτονα τοξικότητας». Έθεσε ζητήματα υποκλοπών και ΟΠΕΚΕΠΕ.</summary>
-    <category term="politics" />
-  </entry>
-  <entry>
-    <title>To μπλόκο στο Ορμούζ και οι σχέσεις ΗΠΑ – Κίνας</title>
-    <link href="https://www.kathimerini.gr/economy/international/564177109/to-mploko-sto-ormoyz-kai-oi-scheseis-ipa-kinas/" />
-    <id>https://www.kathimerini.gr/economy/international/564177109/to-mploko-sto-ormoyz-kai-oi-scheseis-ipa-kinas/</id>
-    <updated>2026-04-16T11:27:04Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">China labelled the Hormuz blockade 'dangerous and irresponsible' as Trump prepares to visit Beijing in four weeks. The US dilemma is how to prevent the Iran conflict from undermining the US-China detente.
-
-Η Κίνα χαρακτήρισε «επικίνδυνο» τον ναυτικό αποκλεισμό του Ορμούζ, ενώ ο Τραμπ ετοιμάζεται να επισκεφθεί το Πεκίνο σε τέσσερις εβδομάδες. Το δίλημμα για τις ΗΠΑ είναι πώς να εμποδίσουν τον πόλεμο Ιράν-ΗΠΑ να υπονομεύσει τη σχέση με Κίνα.</summary>
-    <category term="economy" />
-  </entry>
-  <entry>
-    <title>Δημοσκόπηση: Μόνο το 24% των Αμερικανών βλέπει θετικά τη σύρραξη</title>
-    <link href="https://www.kathimerini.gr/world/564176653/dimoskopisi-mono-to-24-ton-amerikanon-vlepei-thetika-ti-syrraxi/" />
-    <id>https://www.kathimerini.gr/world/564176653/dimoskopisi-mono-to-24-ton-amerikanon-vlepei-thetika-ti-syrraxi/</id>
-    <updated>2026-04-16T07:07:00Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">An Ipsos/Reuters poll shows only 24% of Americans view the Iran war positively, even among Trump supporters. US public opinion is turning against the conflict.
-
-Έρευνα Ipsos/Reuters δείχνει μόνο το 24% των Αμερικανών θεωρεί θετικό τον πόλεμο με το Ιράν, ακόμα και μεταξύ υποστηρικτών Τραμπ. Η δημόσια γνώμη στις ΗΠΑ στρέφεται κατά της σύρραξης.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Βουλή: Live η συζήτηση για το κράτος δικαίου</title>
-    <link href="https://www.kathimerini.gr/politics/564177199/voyli-live-i-syzitisi-gia-to-kratos-dikaioy/" />
-    <id>https://www.kathimerini.gr/politics/564177199/voyli-live-i-syzitisi-gia-to-kratos-dikaioy/</id>
-    <updated>2026-04-16T11:00:40Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Parliament hosted a heated plenary debate on rule of law, OPEKAUPE and the Lazaridis affair, requested by opposition leader Androulakis. Political tensions ran very high throughout.
-
-Η Βουλή φιλοξένησε έντονη συζήτηση για κράτος δικαίου, ΟΠΕΚΕΠΕ και υπόθεση Λαζαρίδη με υψηλούς τόνους. Η συζήτηση είχε ζητηθεί από τον αρχηγό της αξιωματικής αντιπολίτευσης Ανδρουλάκη.</summary>
-    <category term="politics" />
-  </entry>
-  <entry>
-    <title>Ανανέωση θητείας Στουρνάρα στην ΤτΕ προτείνει η κυβέρνηση</title>
-    <link href="https://www.kathimerini.gr/politics/564175618/ananeosi-thiteias-stoyrnara-stin-tte-proteinei-i-kyvernisi/" />
-    <id>https://www.kathimerini.gr/politics/564175618/ananeosi-thiteias-stoyrnara-stin-tte-proteinei-i-kyvernisi/</id>
-    <updated>2026-04-15T11:46:39Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">The government proposed renewing Yannis Stournaras's term as Bank of Greece Governor following a meeting with the PM. The proposal respects the central bank's statutory independence.
-
-Η κυβέρνηση πρότεινε ανανέωση θητείας του Γιάννη Στουρνάρα ως διοικητή της Τράπεζας της Ελλάδος, μετά από συνάντησή του με τον πρωθυπουργό. Η πρόταση λαμβάνει υπόψη την ανεξαρτησία της κεντρικής τράπεζας.</summary>
-    <category term="politics" />
-  </entry>
-  <entry>
-    <title>Τα ίχνη των κατασκόπων στον Θερμαϊκό</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564176566/ta-ichni-ton-kataskopon-ston-thermaiko/" />
-    <id>https://www.kathimerini.gr/visual/infographics/564176566/ta-ichni-ton-kataskopon-ston-thermaiko/</id>
-    <updated>2026-04-16T11:57:02Z</updated>
-    <author>
-      <name>Κώστας Κουκουμάκας</name>
-    </author>
-    <summary type="text">A Russian-linked spy network operating in the Thermaic Gulf is exposed, connected to an arrest in Thessaloniki and targets in Lithuania. The operation began in May 2025 in Alexandroupoli.
-
-Αποκαλύπτεται κατασκοπευτικό δίκτυο με ρωσική εμπλοκή που δρούσε στον Θερμαϊκό, συνδεδεμένο με σύλληψη στη Θεσσαλονίκη και στόχους στη Λιθουανία. Το θρίλερ είχε αρχίσει το Μάιο 2025 στην Αλεξανδρούπολη.</summary>
+    <id>tag:zoetzikra.github.io,2026:a47a1ebc2bfc</id>
+    <title>Χαϊδάρι: 13χρονη έπεσε από μπαλκόνι σχολείου – Νοσηλεύεται διασωληνωμένη</title>
+    <link href="https://www.kathimerini.gr/society/564183634/chaidari-13chroni-epese-apo-mpalkoni-scholeioy-nosileyetai-diasolinomeni/" />
+    <updated>2026-04-20T13:31:46+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
     <category term="society" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A 13-year-old pupil at the 7th Junior High of Haidari fell from a first-floor school balcony and is being treated, intubated, at Agia Sofia Children's Hospital. According to witnesses, the girl was sitting on top of the balcony railing and lost her balance in a swaying movement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Μαθήτρια 13 ετών του 7ου Γυμνασίου Χαϊδαρίου έπεσε από μπαλκόνι πρώτου ορόφου του σχολείου και νοσηλεύεται διασωληνωμένη στο Παίδων «Αγία Σοφία». Σύμφωνα με μαρτυρίες, η μαθήτρια καθόταν στο πάνω μέρος των κάγκελων και έχασε την ισορροπία της.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ιράν: Σύλληψη τεσσάρων «πρακτόρων» που δρούσαν «για τη Μοσάντ»</title>
-    <link href="https://www.kathimerini.gr/world/564177208/iran-syllipsi-tessaron-praktoron-poy-droysan-gia-ti-mosant/" />
-    <id>https://www.kathimerini.gr/world/564177208/iran-syllipsi-tessaron-praktoron-poy-droysan-gia-ti-mosant/</id>
-    <updated>2026-04-16T07:39:01Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Iran's Revolutionary Guards announced the arrest of four alleged Mossad-linked agents who reportedly provided coordinates of strategic installations. The announcement came amid ceasefire talks.
-
-Οι Φρουροί της Επανάστασης του Ιράν ανακοίνωσαν σύλληψη τεσσάρων «πρακτόρων συνδεόμενων με τη Μοσάντ» που φέρεται να παρείχαν στοιχεία για στρατηγικές εγκαταστάσεις. Η ανακοίνωση ήλθε εν μέσω συνομιλιών για κατάπαυση πυρός.</summary>
-    <category term="world" />
-  </entry>
-  <entry>
-    <title>Μακάριος Λαζαρίδης: Ζητώ τον πλήρη καταλογισμό οποιωνδήποτε αχρεωστήτως καταβληθέντων ποσών</title>
-    <link href="https://www.kathimerini.gr/politics/564177460/makarios-lazaridis-zito-ton-pliri-katalogismo-opoiondipote-achreostitos-katavlithenton-poson/" />
-    <id>https://www.kathimerini.gr/politics/564177460/makarios-lazaridis-zito-ton-pliri-katalogismo-opoiondipote-achreostitos-katavlithenton-poson/</id>
-    <updated>2026-04-16T11:04:15Z</updated>
-    <author>
-      <name>Newsroom</name>
-    </author>
-    <summary type="text">Deputy Minister Lazaridis issued a written statement about his 2007 appointment at the Education Ministry, requesting full recovery of any improperly paid amounts. He admitted speaking 'in a way inconsistent with the ethos of the party'.
-
-Ο υφυπουργός Λαζαρίδης εξέδωσε γραπτή δήλωση για τον διορισμό του το 2007 στο υπουργείο Παιδείας, ζητώντας πλήρη καταλογισμό αχρεωστήτως καταβληθέντων ποσών. Παραδέχθηκε ότι εκφράστηκε «με τρόπο που δεν συνάδει με το ήθος της παράταξης».</summary>
+    <id>tag:zoetzikra.github.io,2026:6408e358fbc8</id>
+    <title>Βουλή – Επιτροπή Δεοντολογίας: Ομόφωνη εισήγηση για άρση ασυλίας Αθανασίου και Χατζηβασιλείου</title>
+    <link href="https://www.kathimerini.gr/politics/564183676/voyli-epitropi-deontologias-omofoni-eisigisi-gia-arsi-asylias-athanasioy-kai-chatzivasileioy/" />
+    <updated>2026-04-20T14:19:09+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The parliamentary Ethics Committee has unanimously recommended the plenary lift the immunity of New Democracy MPs Charalambos Athanasiou and Tasos Chatzivasileiou over the OPEKEPE farm-subsidy case. Chatzivasileiou publicly requested the lifting of his own immunity and expressed confidence in Greek justice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Επιτροπή Δεοντολογίας της Βουλής εισηγείται ομόφωνα προς την Ολομέλεια την άρση ασυλίας των βουλευτών της Ν.Δ. Χαράλαμπου Αθανασίου και Τάσου Χατζηβασιλείου για τη δικογραφία του ΟΠΕΚΕΠΕ. Ο Χατζηβασιλείου δηλώνει απερίφραστα την επιθυμία του να αρθεί η ασυλία και εμπιστοσύνη στην ελληνική Δικαιοσύνη.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:aacf7f0f05d1</id>
+    <title>Ιράκ: Η πρεσβεία των ΗΠΑ καλεί τους Αμερικανούς «να φύγουν αμέσως» από τη χώρα</title>
+    <link href="https://www.kathimerini.gr/world/564183784/irak-i-presveia-ton-ipa-kalei-toys-amerikanoys-na-fygoyn-amesos-apo-ti-chora/" />
+    <updated>2026-04-20T15:49:15+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The US Embassy in Baghdad has urged Americans to 'leave immediately' from Iraq and to avoid travel to the country 'for any reason'. It warned of planned attacks by Iran-backed militias targeting US citizens and interests, citing elements linked to the Iraqi government.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η πρεσβεία των ΗΠΑ στη Βαγδάτη κάλεσε τους Αμερικανούς πολίτες να «φύγουν αμέσως» από το Ιράκ και να μην ταξιδεύουν στη χώρα «για κανένα λόγο». Προειδοποιεί για σχεδιαζόμενες επιθέσεις από πολιτοφυλακές συνεργαζόμενες με το Ιράν κατά αμερικανικών στόχων και συμφερόντων.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:47fa05c90664</id>
+    <title>Λουιζιάνα: Οικογενειακή τραγωδία με οκτώ νεκρά παιδιά – Πατέρας των 7 ο δράστης</title>
+    <link href="https://www.kathimerini.gr/world/564183259/loyiziana-oikogeneiaki-tragodia-me-okto-nekra-paidia-pateras-ton-7-o-drastis/" />
+    <updated>2026-04-20T09:09:53+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Eight children aged 3 to 11 were killed in Shreveport, Louisiana, in a family massacre where the attacker fathered seven of the victims. Samar Elkins, 31, first shot a woman in the street before storming a nearby house and killing the eight children, in the bloodiest US incident since January 2024.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οκτώ παιδιά ηλικίας 3 έως 11 ετών σκοτώθηκαν στο Σρίβπορτ της Λουιζιάνα σε οικογενειακό μακελειό, όπου ο δράστης ήταν πατέρας των επτά. Ο 31χρονος Σάμαρ Ελκινς πυροβόλησε πρώτα μια γυναίκα στον δρόμο και στη συνέχεια εισέβαλε σε παρακείμενο σπίτι, σκοτώνοντας τα οκτώ παιδιά, στο πιο αιματηρό συμβάν στις ΗΠΑ από τον Ιανουάριο του 2024.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:dc582df2359b</id>
+    <title>Θεωρείο: Ιδιο κόστος με ΟΠΕΚΕΠΕ</title>
+    <link href="https://www.kathimerini.gr/politics/564182155/theoreio-idio-kostos-me-opekepe/" />
+    <updated>2026-04-20T07:55:16+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kathimerini's Theoreio column estimates the political cost of the Lazaridis affair could equal that of the OPEKEPE scandal, because the episode's optics were 'very bad' for New Democracy's core voters. The story dominated last week's news and remains live despite the resignation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η στήλη Θεωρείο εκτιμά ότι το πολιτικό κόστος της υπόθεσης Λαζαρίδη για την κυβέρνηση μπορεί να αγγίξει εκείνο του ΟΠΕΚΕΠΕ, καθώς η εικόνα που εκπέμφθηκε ήταν «πολύ κακή για τον πυρήνα των ψηφοφόρων της Ν.Δ.». Η υπόθεση μονοπώλησε την επικαιρότητα της εβδομάδας και παραμένει ζωντανή παρά την παραίτηση.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:6663faf248a4</id>
+    <title>Τι αλλάζει στην προστασία α΄ κατοικίας</title>
+    <link href="https://www.kathimerini.gr/economy/564181594/ti-allazei-stin-prostasia-a-katoikias/" />
+    <updated>2026-04-20T14:00:30+00:00</updated>
+    <author><name>Ευγενία Τζώρτζη</name></author>
+    <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece's National Economy Ministry is expected to legislate by month's end a targeted primary-residence protection scheme through the out-of-court mechanism. Borrowers with non-performing loans will be able to restructure debt specifically for their main home, ring-fencing it from other debts and assets.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το υπουργείο Εθνικής Οικονομίας αναμένεται να ψηφίσει μέχρι το τέλος του μήνα διάταξη για τη στοχευμένη προστασία της πρώτης κατοικίας μέσω του εξωδικαστικού μηχανισμού. Οι οφειλέτες με «κόκκινα» δάνεια θα μπορούν να διεκδικήσουν ρύθμιση ειδικά για την κύρια κατοικία, διαχωρίζοντάς την από τα υπόλοιπα χρέη και την υπόλοιπη περιουσία.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:14497bd0d187</id>
+    <title>Ιαπωνία: Σεισμός 7,5 Ρίχτερ – Προειδοποίηση για τσουνάμι</title>
+    <link href="https://www.kathimerini.gr/world/564183481/iaponia-seismos-7-3-richter-proeidopoiisi-gia-tsoynami/" />
+    <updated>2026-04-20T11:13:47+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A magnitude 7.5 earthquake struck off the northeastern coast of Japan, with the Japan Meteorological Agency issuing tsunami warnings of up to 3 meters for Iwate and Hokkaido. An 80-centimeter tsunami hit Kuji harbor, with no damage or casualties reported so far.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σεισμός μεγέθους 7,5 βαθμών της κλίμακας Ρίχτερ έπληξε ανοικτά των βορειοανατολικών ακτών της Ιαπωνίας, με την Ιαπωνική Μετεωρολογική Υπηρεσία να εκδίδει προειδοποίηση για τσουνάμι έως 3 μέτρων στην Ιγουάτε και στο Χοκάιντο. Τσουνάμι 80 εκατοστών έπληξε το λιμάνι του Κούτζι, χωρίς αναφορά ζημιών ή θυμάτων προς το παρόν.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:ae28fb956df5</id>
+    <title>Εντι Ράμα στην «Κ»: Ο Πλάτων, οι περιουσίες και η Χειμάρρα</title>
+    <link href="https://www.kathimerini.gr/politics/564181228/enti-rama-stin-k-o-platon-oi-perioysies-kai-i-cheimarra/" />
+    <updated>2026-04-20T09:34:09+00:00</updated>
+    <author><name>Αθανάσιος Κατσικίδης</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Albanian Prime Minister Edi Rama, in an interview with Kathimerini, discussed the land cadastre, Greek-owned properties in Himara and broader bilateral ties, days before his arrival at the Delphi Economic Forum. He brushed off a recent jibe about the ancestry of Greeks as 'humor' blown out of proportion by nationalist voices.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Αλβανός πρωθυπουργός Έντι Ράμα σε συνέντευξη στην «Κ» αναφέρθηκε στο κτηματολόγιο, στις ελληνικές περιουσίες στη Χειμάρρα και στις ελληνοαλβανικές σχέσεις, λίγες ημέρες πριν την άφιξή του στο Οικονομικό Φόρουμ Δελφών. Χαρακτήρισε «χιούμορ» το πρόσφατο επικριτικό σχόλιό του για την καταγωγή των Ελλήνων.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:ad689ab043cc</id>
+    <title>Πυροσβεστική: 52 δασικές πυρκαγιές μέσα στο Σαββατοκύριακο</title>
+    <link href="https://www.kathimerini.gr/society/564183988/pyrosvestiki-52-dasikes-pyrkagies-mesa-sto-savvatokyriako/" />
+    <updated>2026-04-20T16:54:52+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek firefighters responded to 52 forest fires over the weekend across various regions, an unusually high number before the official start of the fire season. Most were caused by negligence, mainly agricultural burning, and all blazes were brought under control promptly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Συνολικά 52 δασικές πυρκαγιές εκδηλώθηκαν το Σαββατοκύριακο σε διάφορες περιοχές της χώρας, σε ασυνήθιστα υψηλό αριθμό πριν την επίσημη έναρξη της αντιπυρικής περιόδου. Η πλειονότητα οφείλεται σε αμέλεια, κυρίως από καύση καλλιεργειών, ενώ όλα τα περιστατικά αντιμετωπίστηκαν άμεσα από την Πυροσβεστική.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:e98fda826904</id>
+    <title>Χαϊδάρι: Ψυχολόγος και κοινωνικός λειτουργός στο σχολείο όπου έπεσε η 13χρονη</title>
+    <link href="https://www.kathimerini.gr/society/564183793/chaidari-psychologoi-kai-koinonikoi-leitoyrgoi-sto-scholeio-poy-epese-i-13chroni/" />
+    <updated>2026-04-20T15:55:42+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Education Minister Sofia Zacharaki visited Agia Sofia Children's Hospital where the 13-year-old girl who fell from a Haidari school balcony is being treated. A psychologist and social worker have been placed at the 7th Haidari Junior High to support students and staff, while a full investigation of the incident is underway.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η υπουργός Παιδείας Σοφία Ζαχαράκη επισκέφθηκε το Νοσοκομείο Παίδων «Αγία Σοφία» όπου νοσηλεύεται η 13χρονη που έπεσε από μπαλκόνι σχολείου στο Χαϊδάρι. Στο 7ο Γυμνάσιο τοποθετήθηκαν ψυχολόγος και κοινωνικός λειτουργός για τη στήριξη μαθητών και εκπαιδευτικών, ενώ ξεκίνησε πλήρης διερεύνηση των συνθηκών.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:f6c819a6463b</id>
+    <title>Μπλόκο στην αυτοκρατορία του «Πούτιν» – Η Αρχή για το ξέπλυμα δέσμευσε ξενοδοχεία, σκάφη και Porsche</title>
+    <link href="https://www.kathimerini.gr/society/564183760/mploko-stin-aytokratoria-toy-poytin-i-archi-desmeyse-xenodocheia-skafi-kai-porsche/" />
+    <updated>2026-04-20T15:06:28+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="society" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece's anti-money-laundering authority has frozen 42 properties, 26 luxury vehicles and several boats in a cigarette-smuggling case involving two brothers known by the nicknames 'President' and 'Putin'. Frozen assets include maisonettes, farmland and a hotel in the Peloponnese, building on February's pre-trial indictment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Αρχή για το Ξέπλυμα Μαύρου Χρήματος δέσμευσε 42 ακίνητα, 26 πολυτελή αυτοκίνητα και σκάφη στο πλαίσιο της υπόθεσης του κυκλώματος λαθραίων τσιγάρων με πρωταγωνιστές δύο αδέλφια γνωστά με τα προσωνύμια «πρόεδρος» και «Πούτιν». Η δέσμευση περιλαμβάνει μεζονέτες, αγροτεμάχια και ξενοδοχείο στην Πελοπόννησο.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:264f69ed0127</id>
+    <title>Κομισιόν: Δεν υπάρχουν ελλείψεις καυσίμων στην Ε.Ε. αυτή τη στιγμή</title>
+    <link href="https://www.kathimerini.gr/world/564183775/komision-den-yparchoyn-elleipseis-kaysimon-stin-e-e-ayti-ti-stigmi-2/" />
+    <updated>2026-04-20T15:34:33+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Commission clarified there are 'no overall fuel shortages in the EU at this time', while preparing for various scenarios. EU transport ministers will join an informal videoconference on Tuesday to discuss the impact of the Middle East situation on European transport.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Κομισιόν ξεκαθαρίζει πως «δεν υπάρχουν συνολικές ελλείψεις καυσίμων στην Ε.Ε. αυτή τη στιγμή», αλλά προετοιμάζεται για διάφορα σενάρια. Αύριο οι υπουργοί Μεταφορών της Ε.Ε. θα συμμετάσχουν σε άτυπη τηλεδιάσκεψη για τις επιπτώσεις της κατάστασης στη Μέση Ανατολή.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:zoetzikra.github.io,2026:4c4b6dcf5275</id>
+    <title>Πρωτογενή πλεονάσματα</title>
+    <link href="https://www.kathimerini.gr/opinion/564181558/protogeni-pleonasmata/" />
+    <updated>2026-04-19T20:03:00+00:00</updated>
+    <author><name>Κώστας Καλλίτσης</name></author>
+    <category term="opinion" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kostas Kallitsis argues the Greek economy was already weakening before the war and is now accelerating its slowdown, with the IMF, Commission and KEPE projecting 1.8% growth this year and inflation near 4%. Inflation, he notes, artificially inflates the government's prized primary surpluses while shrinking the debt-to-GDP ratio.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κώστας Καλλίτσης υπογραμμίζει ότι η ελληνική οικονομία είχε αρχίσει να εξασθενεί πριν τον πόλεμο και επιταχύνεται εξαιτίας του, με ΔΝΤ, Κομισιόν και ΚΕΠΕ να προβλέπουν ανάπτυξη στο 1,8% φέτος και πληθωρισμό κοντά στο 4%. Παρατηρεί ότι ο πληθωρισμός φουσκώνει πλασματικά τα πρωτογενή πλεονάσματα της κυβέρνησης.&lt;/p&gt;</summary>
   </entry>
 </feed>
