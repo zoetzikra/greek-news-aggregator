@@ -1,189 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Top Stories</title>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" />
-  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" />
-  <id>tag:zoetzikra.github.io,2026:greek-news-aggregator</id>
-  <updated>2026-04-21T12:31:57.376605+00:00</updated>
-  <subtitle>Top 20 Greek news items from kathimerini.gr, bilingual summaries</subtitle>
+  <title>Greek News Aggregator — Top Stories</title>
+  <subtitle>Daily bilingual digest of Kathimerini's most important stories</subtitle>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
+  <id>urn:greek-news-aggregator:2026-04-23</id>
+  <updated>2026-04-24T20:30:57+00:00</updated>
+  <generator>greek-news-aggregator</generator>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:8bdaf37e2a63</id>
-    <title>LIVE/Μέση Ανατολή: Αγωνία για τις συνομιλίες στο «παρά πέντε» της εκεχειρίας</title>
-    <link href="https://www.kathimerini.gr/world/564185074/live-mesi-anatoli-agonia-gia-tis-synomilies-sto-para-pente-gia-tin-ekecheiria/" />
-    <updated>2026-04-21T08:19:52+03:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Anxiety surrounds last-minute US-Iran talks in Pakistan with Vice President JD Vance reportedly traveling to Islamabad. Tehran is demanding release of the seized Iranian ship as the ceasefire expires within hours, while the EU remains divided on possibly suspending its Israel agreement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Αγωνία επικρατεί για τις συνομιλίες ΗΠΑ-Ιράν στο Πακιστάν στο «παρά πέντε» της εκεχειρίας, με τον αντιπρόεδρο Τζέι Ντι Βανς να μεταβαίνει στο Ισλαμαμπάντ. Η Τεχεράνη ζητά απελευθέρωση του ιρανικού πλοίου, ενώ η εκεχειρία λήγει σε λίγες ώρες και η Ε.Ε. παραμένει διχασμένη για ενδεχόμενη αναστολή της συμφωνίας με το Ισραήλ.&lt;/p&gt;</summary>
+    <id>urn:kathi:125c026d0afa</id>
+    <title>Με ευρεία πλειοψηφία η άρση ασυλίας των βουλευτών Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/politics/parliament/564188659/me-eyreia-pleiopsifia-i-arsi-asylias-ton-voyleyton-n-d/"/>
+    <updated>2026-04-23T06:45:00+00:00</updated>
+    <published>2026-04-23T06:45:00+00:00</published>
+    <author><name>Γιώργος Μπουρδάρας</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Με σχεδόν ομόφωνη πλειοψηφία (286 υπέρ επί 288 παρόντων), η Βουλή υπερψήφισε την άρση ασυλίας των 13 βουλευτών της Ν.Δ. που εμπλέκονται στις δικογραφίες της Ευρωπαϊκής Εισαγγελίας για τον ΟΠΕΚΕΠΕ. Οι δύο αρνητικές ψήφοι ήρθαν κυρίως από τους Παπακώστα και Φλώρο· απουσίαζαν οι Μηταράκης, Πέτσας και Χρυσομάλλης. Η κυβερνώσα πλειοψηφία «πειθάρχησε» παρά τις προηγούμενες διαρροές.</strong></p><p>By near-unanimous margin (286 in favour of 288 present), parliament voted to lift the immunity of 13 New Democracy MPs linked to the European Public Prosecutor&apos;s OPEKEPE case files. The two negative votes came mainly from Papakosta and Floros; Mitarakis, Petsas and Chrysomallis were absent. The governing majority fell in line despite earlier leaks of dissent.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:53557c3e1d65</id>
-    <title>Ερχονται νέα μέτρα στήριξης – Αμεσα οι ανακοινώσεις από τον πρωθυπουργό</title>
-    <link href="https://www.kathimerini.gr/politics/564185686/erchontai-nea-metra-stirixis-amesa-oi-anakoinoseis-apo-ton-prothypoyrgo/" />
-    <updated>2026-04-21T13:44:51+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Prime Minister Kyriakos Mitsotakis is expected to announce new support measures imminently, possibly tomorrow, following ELSTAT's fiscal surplus data. Government spokesman Marinakis expressed 'measured optimism' about good news and stressed the government 'is doing all it is permitted' to ease household pressures.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρωθυπουργός Κυριάκος Μητσοτάκης αναμένεται να ανακοινώσει άμεσα νέα μέτρα στήριξης, ακόμη και αύριο, μετά τις ανακοινώσεις της ΕΛΣΤΑΤ για το πλεόνασμα. Ο κυβερνητικός εκπρόσωπος Μαρινάκης εκφράζει «συγκροτημένη αισιοδοξία» για καλά νέα και υπογραμμίζει ότι η κυβέρνηση «κάνει όσα παραπάνω της επιτρέπονται».&lt;/p&gt;</summary>
+    <id>urn:kathi:23f60566af76</id>
+    <title>Κοβέσι: Δεν δέχομαι τη νοοτροπία ότι «έτσι γίνονται τα πράγματα στην Ελλάδα»</title>
+    <link href="https://www.kathimerini.gr/politics/564189508/kovesi-den-dechomai-ti-nootropia-toy-etsi-ginontai-ta-pragmata-stin-ellada/"/>
+    <updated>2026-04-23T11:41:19+00:00</updated>
+    <published>2026-04-23T11:41:19+00:00</published>
+    <author><name>Ηλιάνα Μάγρα</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Η επικεφαλής της Ευρωπαϊκής Εισαγγελίας Λάουρα Κοβέσι, μιλώντας στο Οικονομικό Φόρουμ των Δελφών, χαρακτήρισε τον ΟΠΕΚΕΠΕ «συνώνυμο διαφθοράς, νεποτισμού και πελατειακών σχέσεων» και απέρριψε τη νοοτροπία του «έτσι γίνονται τα πράγματα στην Ελλάδα». Υπερασπίστηκε την άρση ασυλίας των 13 βουλευτών της Ν.Δ. ως αναγκαία για τη συνέχιση της έρευνας και κατήγγειλε προσπάθεια μετατόπισης της συζήτησης από την ουσία της υπόθεσης.</strong></p><p>European Chief Prosecutor Laura Kövesi, speaking at the Delphi Economic Forum, called OPEKEPE &quot;synonymous with corruption, nepotism and clientelism&quot; and rejected the &quot;that&apos;s how things work in Greece&quot; mindset. She defended the lifting of immunity for 13 New Democracy MPs as necessary to continue the investigation and accused critics of trying to deflect attention from the real issue.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:bb0f15b938ba</id>
-    <title>Με το βλέμμα στην ψηφοφορία για τις ασυλίες</title>
-    <link href="https://www.kathimerini.gr/politics/government/564184555/me-to-vlemma-stin-psifoforia-gia-tis-asylies/" />
-    <updated>2026-04-21T08:51:58+00:00</updated>
+    <id>urn:kathi:0e00eae69af1</id>
+    <title>Κυβέρνηση: Η αρχιτεκτονική των μέτρων</title>
+    <link href="https://www.kathimerini.gr/politics/government/564188662/kyvernisi-i-architektoniki-ton-metron/"/>
+    <updated>2026-04-23T07:18:37+00:00</updated>
+    <published>2026-04-23T07:18:37+00:00</published>
     <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Tomorrow, the full Greek parliament is scheduled to vote on lifting the immunity of 11+2 New Democracy MPs in the OPEKEPE farm-subsidy case. After yesterday's committee recommendations, the remaining nine cases create an 'equation for very capable solvers' as internal party tensions mount.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Αύριο, η Ολομέλεια της Βουλής καλείται να ψηφίσει για την άρση ασυλίας 11+2 βουλευτών της Νέας Δημοκρατίας, στο πλαίσιο των δικογραφιών για τον ΟΠΕΚΕΠΕ. Οι υπόλοιπες εννέα υποθέσεις, μετά τις πρώτες άρσεις χθες, δημιουργούν «εξίσωση για πολύ δυνατούς λύτες» καθώς υπάρχουν εσωκομματικοί κραδασμοί.&lt;/p&gt;</summary>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Η κυβέρνηση σχεδιάζει πακέτο μέτρων ύψους 500 εκατ. ευρώ από το υπερπλεόνασμα, στοχευμένο σε πέντε πολιτικά κρίσιμες κοινωνικές ομάδες: οικογένειες με παιδιά, ενοικιαστές, συνταξιούχους, αγρότες και υπερχρεωμένους οφειλέτες. Η επιλογή ομάδων συνδέεται ευθέως με την εκλογική βάση της Ν.Δ. στο 2023, που σήμερα δείχνει να απομακρύνεται, ενώ τα μέτρα λειτουργούν και ως αντίβαρο στις υποθέσεις ΟΠΕΚΕΠΕ και Λαζαρίδη.</strong></p><p>The government is rolling out a €500m relief package from the budget surplus, targeted at five politically critical groups: families with children, renters, pensioners, farmers and heavily-indebted borrowers. The choice of groups maps directly onto the 2023 New Democracy electoral coalition — now drifting — and serves as a political counterweight to the OPEKEPE and Lazaridis cases.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:3434e68ece5f</id>
-    <title>CNN: ΗΠΑ και Ιράν ήταν κοντά σε συμφωνία – Μέχρι που ο Τραμπ άρχισε τις αναρτήσεις</title>
-    <link href="https://www.kathimerini.gr/world/564185395/cnn-ipa-kai-iran-itan-konta-se-symfonia-mechri-poy-o-tramp-archise-tis-anartiseis/" />
-    <updated>2026-04-21T11:02:49+00:00</updated>
+    <id>urn:kathi:e64e7ff7228a</id>
+    <title>ΗΠΑ – Ιράν: Η «ασφυξία» στο Ορμούζ και το διπλωματικό αδιέξοδο</title>
+    <link href="https://www.kathimerini.gr/world/564189523/ipa-iran-i-asfyxia-sto-ormoyz-kai-to-diplomatiko-adiexodo/"/>
+    <updated>2026-04-23T11:45:40+00:00</updated>
+    <published>2026-04-23T11:45:40+00:00</published>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; According to a CNN report, the US and Iran were close to a deal to end their seven-week war until Trump's social media posts and statements to reporters derailed it. The president claimed Iran had accepted terms — including surrendering enriched uranium — that sources said had not yet been finalized.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με ρεπορτάζ του CNN, ΗΠΑ και Ιράν ήταν κοντά σε συμφωνία για τον τερματισμό του επτάβδομου πολέμου μέχρι ο Τραμπ να αρχίσει τις αναρτήσεις στα μέσα κοινωνικής δικτύωσης. Ο πρόεδρος υποστήριξε ότι το Ιράν είχε αποδεχτεί όρους που δεν είχαν οριστικοποιηθεί, μεταξύ των οποίων η παράδοση εμπλουτισμένου ουρανίου.&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="html"><p><strong>Το Ιράν προχώρησε στην κατάληψη δύο πλοίων στα Στενά του Ορμούζ —εκ των οποίων το ένα ελληνόκτητο— ενισχύοντας τον έλεγχό του στη στρατηγική θαλάσσια οδό. Ο Τραμπ ανακοίνωσε παράταση εκεχειρίας, αλλά οι Ιρανοί αξιωματούχοι αρνούνται να επιβεβαιώσουν συμφωνία ενώ καταγγέλλουν τον ναυτικό αποκλεισμό ως πράξη πολέμου. Το 1/5 του παγκόσμιου εμπορίου πετρελαίου περνούσε από εκεί πριν τον πόλεμο.</strong></p><p>Iran seized two vessels at the Strait of Hormuz — one Greek-owned — tightening its grip on the strategic waterway. Trump announced an extended ceasefire, but Iranian officials have not confirmed any agreement and condemn the US naval blockade as an act of war. Before the conflict, roughly one-fifth of global oil trade transited the strait.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:51959f3a7a2f</id>
-    <title>Θάνατος 19χρονης στην Κεφαλονιά: «Το παιδί μου παγιδεύτηκε, υπάρχει οργάνωση»</title>
-    <link href="https://www.kathimerini.gr/society/564185746/thanatos-19chronis-stin-kefalonia-to-paidi-moy-pagideytike-yparchei-organosi/" />
-    <updated>2026-04-21T14:33:01+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The father of the 19-year-old Myrto found dead in an Argostoli square speaks of 'organized groups' in Kefalonia and believes others are involved beyond the three remand prisoners. He demands the lifting of phone privacy over an extended period and justice for his daughter.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πατέρας της 19χρονης Μυρτούς που βρέθηκε νεκρή σε πλατεία του Αργοστολίου μιλά για «οργανωμένες ομάδες» στην Κεφαλονιά και εκτιμά ότι εμπλέκονται κι άλλα πρόσωπα πέραν των τριών προφυλακισθέντων. Ζητά άρση τηλεφωνικού απορρήτου σε βάθος χρόνου και δικαίωση για την κόρη του.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:4ab82b9e9f98</id>
-    <title>Ε.Ε.: Ο Ορμπαν αίρει το βέτο για το δάνειο 90 δισ. στην Ουκρανία</title>
-    <link href="https://www.kathimerini.gr/world/564185263/e-e-o-ormpan-airei-to-veto-gia-to-daneio-90-dis-stin-oykrania/" />
-    <updated>2026-04-21T09:38:27+00:00</updated>
+    <id>urn:kathi:afe7e2325c71</id>
+    <title>Συνέντευξη Βάλντις Ντομπρόβσκις στην «Κ»: Τα μέτρα στήριξης πρέπει να είναι στοχευμένα</title>
+    <link href="https://www.kathimerini.gr/opinion/interviews/564189061/synenteyxi-valntis-ntomprovskis-stin-k-ta-metra-stirixis-prepei-na-einai-stocheymena/"/>
+    <updated>2026-04-23T09:35:42+00:00</updated>
+    <published>2026-04-23T09:35:42+00:00</published>
     <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Outgoing Hungarian Prime Minister Viktor Orban is lifting his veto on the €90 billion EU loan package to Ukraine, via a letter to European Council President Antonio Costa. Days after his electoral defeat, the move will allow EU ambassadors to approve the common-borrowing loan tomorrow.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο απερχόμενος πρωθυπουργός της Ουγγαρίας Βίκτορ Ορμπάν αίρει το βέτο του για το πακέτο δανειοδότησης 90 δισ. ευρώ στην Ουκρανία, με επιστολή στον Αντόνιο Κόστα. Λίγες ημέρες μετά την εκλογική του ήττα, η κίνηση θα επιτρέψει αύριο στους πρέσβεις της Ε.Ε. να εγκρίνουν το δάνειο μέσω κοινού δανεισμού.&lt;/p&gt;</summary>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Σε συνέντευξή του στην «Κ», ο επίτροπος Οικονομίας Βάλντις Ντομπρόβσκις προειδοποιεί για σοκ στασιμοπληθωρισμού από την κρίση στη Μέση Ανατολή, με επιβράδυνση της ευρωπαϊκής οικονομίας έως 0,6 μονάδες και νέα άνοδο του πληθωρισμού. Ανακοινώνει εκταμίευση 1,18 δισ. από το Ταμείο Ανάκαμψης προς την Ελλάδα, στέλνει θετικό σήμα για ανάπτυξη 2,1-2,2%, αλλά ζητά στοχευμένα και περιορισμένα μέτρα στήριξης και προσεκτική διαχείριση του χρέους.</strong></p><p>In a Kathimerini interview, Economy Commissioner Valdis Dombrovskis warns of a stagflationary shock from the Middle East crisis, trimming EU growth by up to 0.6 points and pushing inflation back up. He announces €1.18bn of Greek Recovery Fund disbursements, flags solid 2.1-2.2% Greek growth, but calls for targeted, limited relief and careful debt management.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:e46279a6a8d5</id>
-    <title>Ιαπωνία: Οι Αρχές προειδοποιούν για νέο σεισμό τουλάχιστον 8 Ρίχτερ</title>
-    <link href="https://www.kathimerini.gr/world/564185254/iaponia-oi-arches-proeidopoioyn-gia-neo-seismo-toylachiston-8-richter/" />
-    <updated>2026-04-21T09:29:25+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Japanese authorities are warning of a possible mega-earthquake of at least magnitude 8, following Monday's powerful 7.7-magnitude quake in northern Japan that injured at least six people. The quake struck off the Iwate coast of Honshu and triggered tsunami warnings of up to three meters.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι ιαπωνικές αρχές προειδοποιούν για ενδεχόμενο μεγα-σεισμού τουλάχιστον 8 Ρίχτερ, μετά τον ισχυρό σεισμό των 7,7 βαθμών στη βόρεια Ιαπωνία που τραυμάτισε τουλάχιστον έξι άτομα. Ο σεισμός σημειώθηκε ανοικτά της Ιγουάτε και συνοδεύτηκε από προειδοποίηση τσουνάμι έως 3 μέτρα.&lt;/p&gt;</summary>
+    <id>urn:kathi:2fef6451bd70</id>
+    <title>Ποιοι και πόσο ενισχύονται από το νέο πακέτο μέτρων</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564189079/poioi-kai-poso-enischyontai-apo-to-neo-paketo-metron/"/>
+    <updated>2026-04-23T07:13:39+03:00</updated>
+    <published>2026-04-23T07:13:39+03:00</published>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Αναλυτικά το πακέτο των 500 εκατ. ευρώ: 240 εκατ. για ενίσχυση 975.000 νοικοκυριών με παιδιά (από 150 ευρώ ανά παιδί), διεύρυνση εισοδηματικών ορίων για το επίδομα ενοικίου (+25 εκατ.), αύξηση ενίσχυσης χαμηλοσυνταξιούχων από 250 ευρώ, άρση κατασχέσεων σε τραπεζικούς λογαριασμούς και νέα ρύθμιση οφειλών σε 72 δόσεις. Παράλληλα επεκτείνονται τα μέτρα για ντίζελ και λιπάσματα.</strong></p><p>The €500m package detailed: €240m for 975,000 households with children (starting at €150 per child), expanded income thresholds for rent subsidy (+€25m), higher pensioner top-ups from €250, lifting of bank-account seizures and a new 72-instalment debt rescheduling. Relief for diesel and fertilisers is also extended.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:a88a3b2a54b3</id>
-    <title>Οι ελλείψεις λόγω πολέμου δεν θα περιοριστούν εύκολα</title>
-    <link href="https://www.kathimerini.gr/economy/international/564185014/oi-elleipseis-logo-polemoy-den-tha-perioristoyn-eykola/" />
-    <updated>2026-04-21T12:45:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Shortages caused by the Iran war will not ease quickly, analysis warns: even if peace comes soon, Asia will face months of cancelled flights, rising food prices, factory shutdowns and empty shelves for products ranging from plastic bags and syringes to lipstick and microchips.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι ελλείψεις που προκάλεσε ο πόλεμος στο Ιράν δεν θα περιοριστούν εύκολα, σύμφωνα με ανάλυση που τονίζει ότι ακόμα και αν υπάρξει σύντομα ειρηνευτική συμφωνία, η Ασία θα δει μήνες ακυρωμένων πτήσεων, αυξανόμενες τιμές τροφίμων, παύσεις εργοστασίων και ελλείψεις σε προϊόντα από πλαστικές σακούλες μέχρι μικροτσίπ.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:a4a2e1a11903</id>
-    <title>Στη δίνη του πολέμου οι εξαγωγές</title>
-    <link href="https://www.kathimerini.gr/economy/local/564184924/sti-dini-toy-polemoy-oi-exagoges/" />
-    <updated>2026-04-21T11:53:00+00:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; One in two Greek exporting manufacturers is preparing to raise prices if the crisis continues, while 6 out of 10 are already seeing demand drops or cancelled orders. In agri-food the share is even higher, and businesses are demanding additional support beyond the energy measures already announced.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Μία στις δύο ελληνικές εξαγωγικές μεταποιητικές επιχειρήσεις ετοιμάζεται να αυξήσει τις τιμές αν η κρίση συνεχιστεί, ενώ 6 στις 10 αντιμετωπίζουν ήδη μείωση ζήτησης ή ακύρωση παραγγελιών. Στον αγροτοδιατροφικό τομέα τα ποσοστά είναι ακόμη υψηλότερα, και οι επιχειρήσεις ζητούν πρόσθετη στήριξη πέραν της ενέργειας.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:c18f1026fae0</id>
-    <title>Την αναστολή της συμφωνίας σύνδεσης Ε.Ε. – Ισραήλ ζητούν Ισπανία, Ιρλανδία, Σλοβενία – «Βέτο» από Γερμανία</title>
-    <link href="https://www.kathimerini.gr/world/564185755/tin-anastoli-tis-symfonias-syndesis-ee-israil-zitoyn-ispania-irlandia-slovenia-veto-apo-germania/" />
-    <updated>2026-04-21T14:34:34+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Germany reiterated its opposition to suspending the EU-Israel Association Agreement despite calls from Spain, Ireland and Slovenia. German Foreign Minister Johann Wadephul backed 'critical and constructive dialogue' with Israel; Berlin's veto effectively blocks any suspension.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Γερμανία επαναλαμβάνει ότι τάσσεται κατά της αναστολής της Συμφωνίας Σύνδεσης Ε.Ε.-Ισραήλ παρά τις εκκλήσεις Ισπανίας, Ιρλανδίας και Σλοβενίας. Ο Γερμανός ΥΠΕΞ Βάντεφουλ υποστηρίζει «κριτικό και εποικοδομητικό διάλογο» με το Ισραήλ, καθώς η γερμανική άρνηση σημαίνει ουσιαστικά ότι η συμφωνία δεν μπορεί να ανασταλεί.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:11c19b6e3974</id>
-    <title>Επιμονή στους υψηλούς τόνους από την Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564184567/epimoni-stoys-ypsiloys-tonoys-apo-tin-agkyra/" />
-    <updated>2026-04-21T07:13:42+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Vassilis Nedos analyzes Ankara's persistence in its high-pitched rhetoric against the Greece-Cyprus-Israel trilateral. Fidan's 'priority threat' framing fits Turkey's regional rivalry with Israel, while Turkish diplomacy seeks to exploit discontent among Arab states over Israeli actions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση του Βασίλη Νέδου για την επιμονή της Άγκυρας στους υψηλούς τόνους κατά της τριμερούς Ελλάδας-Κύπρου-Ισραήλ. Η ρητορική Φιντάν περί «προτεραιότητας απειλής» εντάσσεται στον περιφερειακό ανταγωνισμό της Τουρκίας με το Ισραήλ, ενώ η τουρκική διπλωματία επιδιώκει να αξιοποιήσει τη δυσφορία αραβικών χωρών.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:edacb999899f</id>
-    <title>Ελιζέ: Η επίσκεψη Μακρόν στην Αθήνα θα ενισχύσει τη στρατηγική συνεργασία των δύο χωρών</title>
-    <link href="https://www.kathimerini.gr/politics/564184276/elize-i-episkepsi-makron-stin-athina-tha-enischysei-ti-stratigiki-synergasia-ton-dyo-choron/" />
-    <updated>2026-04-20T21:31:14+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Élysée announced that French President Emmanuel Macron's visit to Athens on 24-25 April will deepen strategic cooperation between France and Greece across defense, economy and culture. The visit will highlight the historical bonds and shared commitment to European values.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Ελιζέ ανακοίνωσε ότι η επίσκεψη του Γάλλου προέδρου Εμμανουέλ Μακρόν στην Αθήνα στις 24-25 Απριλίου θα ενισχύσει τη στρατηγική συνεργασία των δύο χωρών σε άμυνα, οικονομία και πολιτισμό. Η επίσκεψη θα αναδείξει τους ιστορικούς δεσμούς και την κοινή πρόσδεση στις ευρωπαϊκές αξίες.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:fdb724d47787</id>
-    <title>Επανέρχεται το ζήτημα αναστολής της συμφωνίας Ε.Ε. – Ισραήλ</title>
-    <link href="https://www.kathimerini.gr/world/564185239/epanerchetai-to-zitima-anastolis-tis-symfonias-e-e-israil/" />
-    <updated>2026-04-21T09:16:49+00:00</updated>
+    <id>urn:kathi:3703955e5e7a</id>
+    <title>Σύνοδος Κορυφής: Ξεκινούν οι διαπραγματεύσεις για τον νέο ευρωπαϊκό προϋπολογισμό των 2 τρισ.</title>
+    <link href="https://www.kathimerini.gr/economy/international/564189130/synodos-koryfis-xekinoyn-oi-diapragmateyseis-gia-ton-neo-eyropaiko-proypologismo-ton-2-tris/"/>
+    <updated>2026-04-23T07:36:03+00:00</updated>
+    <published>2026-04-23T07:36:03+00:00</published>
     <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; EU foreign ministers are meeting in Luxembourg to reassess their stance toward Israel and possible pressure measures. At the center is Spain's request, backed by Slovenia and Ireland, to suspend the EU-Israel association agreement — a move Germany continues to block.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι υπουργοί Εξωτερικών της Ε.Ε. συνεδριάζουν στο Λουξεμβούργο για να εξετάσουν εκ νέου τη στάση τους έναντι του Ισραήλ και ενδεχόμενα μέτρα πίεσης. Στο επίκεντρο το αίτημα της Ισπανίας, με τη στήριξη Σλοβενίας και Ιρλανδίας, για αναστολή της συμφωνίας σύνδεσης, παρά τη γερμανική αντίσταση.&lt;/p&gt;</summary>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Στην άτυπη σύνοδο της Κύπρου ξεκινά η πιο σύνθετη διαπραγμάτευση της διετίας: ο νέος ευρωπαϊκός προϋπολογισμός 2028-2034, ύψους περίπου 2 τρισ. ευρώ. Ο πρόεδρος Κόστα στοχεύει σε συμφωνία έως τέλος 2026, πριν τον εκλογικό κύκλο του 2027 σε Γαλλία-Πολωνία-Ιταλία. Στο τραπέζι μπαίνουν ταυτόχρονα η ΚΑΠ και η κοινή άμυνα, με τη Γερμανία να θέλει σύνδεση κονδυλίων με το κράτος δικαίου.</strong></p><p>The informal Cyprus summit opens the hardest two-year EU negotiation: the 2028-2034 Multiannual Financial Framework, around €2 trillion. Council President Costa targets a deal by late 2026, before the 2027 elections in France, Poland and Italy. CAP and common defence enter the budget together for the first time, with Germany pushing rule-of-law conditionality.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:fb18c20a4edc</id>
-    <title>Θεωρείο: Το γκρουπ των 11 βουλευτών</title>
-    <link href="https://www.kathimerini.gr/politics/564184465/theoreio-to-gkroyp-ton-11-voyleyton/" />
-    <updated>2026-04-21T07:54:00+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kathimerini's Theoreio column reveals that the 11 MPs cited in the European prosecutor's file have formed a WhatsApp group with sharp exchanges. Some are lobbying colleagues not to lift their individual immunity—a move that would become 'incriminating' if immunity is lifted for everyone else except them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η στήλη Θεωρείο αποκαλύπτει ότι οι 11 βουλευτές που βρίσκονται στη δικογραφία της Ευρωπαίας εισαγγελέως έχουν φτιάξει «γκρουπ στο WhatsApp» με σκληρούς διαλόγους. Κάποιοι εξ αυτών, μάλιστα, κινητοποιούν συναδέλφους να μην ψηφίσουν την άρση της ασυλίας τους—κάτι που θα είναι «ενοχοποιητικό» στοιχείο αν περάσει η άρση για όλους εκτός ενός.&lt;/p&gt;</summary>
+    <id>urn:kathi:a56c86054c1f</id>
+    <title>Στη σύνοδο της Ε.Ε. το άρθρο 42.7</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564188644/sti-synodo-tis-e-e-to-arthro-42-7/"/>
+    <updated>2026-04-23T06:50:00+00:00</updated>
+    <published>2026-04-23T06:50:00+00:00</published>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Η κυπριακή προεδρία του Συμβουλίου της Ε.Ε. φέρνει στην άτυπη σύνοδο της Λευκωσίας την επιχειρησιακή ενεργοποίηση του Άρθρου 42.7 της ευρωπαϊκής συνθήκης — της ρήτρας αμοιβαίας αμυντικής συνδρομής, του «ευρωπαϊκού άρθρου 5 του ΝΑΤΟ». Η ΕΥΕΔ εκπονεί «εγχειρίδιο» με προσομοιώσεις κρίσεων από τον Μάιο, σε μια περίοδο αμφισβήτησης του ΝΑΤΟ από τον Τραμπ και άρνησης των Ευρωπαίων να στηρίξουν τον πόλεμο στο Ιράν.</strong></p><p>The Cypriot EU Council presidency will put the operational activation of Article 42.7 — the EU&apos;s mutual defence clause and &quot;Europe&apos;s Article 5&quot; — on the table at the informal Nicosia summit. The EEAS is drafting a crisis-simulation &quot;handbook&quot; starting in May, at a moment when Trump is questioning NATO and Europe has refused to back the Iran war.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:f6adde0aae80</id>
-    <title>ΟΠΕΚΕΠΕ: Διένεξη Γεωργαντά – Κωνσταντοπούλου στην Επιτροπή Δεοντολογίας</title>
-    <link href="https://www.kathimerini.gr/politics/564184045/opekepe-dienexi-georganta-konstantopoyloy-stin-epitropi-deontologias/" />
-    <updated>2026-04-20T17:50:00+00:00</updated>
+    <id>urn:kathi:4a78ec03b1af</id>
+    <title>«Θα χρειαστούν έως έξι μήνες για την απομάκρυνση των ναρκών από το Ορμούζ»</title>
+    <link href="https://www.kathimerini.gr/world/564189745/tha-chreiastoyn-eos-exi-mines-gia-tin-apomakrynsi-ton-narkon-apo-to-ormoyz/"/>
+    <updated>2026-04-23T13:43:27+00:00</updated>
+    <published>2026-04-23T13:43:27+00:00</published>
     <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A heated clash at the parliamentary Ethics Committee between Plefsi Eleftherias leader Zoi Konstantopoulou and committee chair Giorgos Georgantas erupted over lifting the immunity of MP Charalambos Athanasiou. Konstantopoulou alleged 'thuggish behavior' while Georgantas retorted 'we are not a court'.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Εντεινόμενη αντιπαράθεση στην Επιτροπή Δεοντολογίας μεταξύ της προέδρου της Πλεύσης Ελευθερίας Ζωής Κωνσταντοπούλου και του προέδρου της Επιτροπής Γιώργου Γεωργαντά, με αφορμή την άρση ασυλίας του Χαράλαμπου Αθανασίου. Η Κωνσταντοπούλου κατήγγειλε «τραμπουκισμούς», ενώ ο Γεωργαντάς απάντησε ότι «δεν είμαστε δικαστήριο».&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="html"><p><strong>Η Washington Post αποκάλυψε διαβαθμισμένη παρουσίαση του Πενταγώνου στο Κογκρέσο, σύμφωνα με την οποία η απομάκρυνση έως και 20 ναρκών από τα Στενά του Ορμούζ θα απαιτούσε έως έξι μήνες, επιβαρύνοντας παγκοσμίως τις τιμές υδρογονανθράκων. Εκπρόσωπος του Πενταγώνου διέψευσε το δημοσίευμα, χαρακτηρίζοντάς το «ανέντιμη δημοσιογραφία».</strong></p><p>The Washington Post revealed a classified Pentagon briefing to Congress indicating that clearing up to 20 mines from the Strait of Hormuz could take up to six months, pushing global oil prices higher. A Pentagon spokesperson pushed back on the report, calling it &quot;dishonest journalism&quot;.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:2f73f9bdb190</id>
-    <title>Διπλασιάστηκαν σε 12 έτη οι μετακλητοί υπάλληλοι</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564184933/diplasiastikan-se-12-eti-oi-metaklitoi-ypalliloi/" />
-    <updated>2026-04-21T11:39:00+03:00</updated>
+    <id>urn:kathi:f0f46f2d8e63</id>
+    <title>Ηγέτες της Μέσης Ανατολής στην Κύπρο για σύνοδο με τους Ευρωπαίους</title>
+    <link href="https://www.kathimerini.gr/world/564189340/igetes-tis-mesis-anatolis-anamenontai-stin-kypro-gia-synodo-me-toys-eyropaioys/"/>
+    <updated>2026-04-23T08:32:13+00:00</updated>
+    <published>2026-04-23T08:32:13+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Ηγέτες της Μέσης Ανατολής αναμένονται αύριο στην Κύπρο για σύνοδο με τους Ευρωπαίους: ο πρόεδρος του Λιβάνου Αούν, ο Αιγύπτιος Αλ Σίσι, ο Σύρος ηγέτης Αλ Σάρα και ο διάδοχος της Ιορδανίας Χουσεΐν. Η Ε.Ε. επιδιώκει «εντατικό διάλογο» με την περιοχή εν μέσω της κρίσης στον Λίβανο και μετά το κλείσιμο των Στενών του Ορμούζ, με σοβαρές επιπτώσεις για το κόστος ενέργειας στην Ευρώπη.</strong></p><p>Middle Eastern leaders will gather in Cyprus tomorrow for a summit with European counterparts: Lebanese President Aoun, Egypt&apos;s Al-Sisi, Syria&apos;s Al-Sharaa and Jordan&apos;s Crown Prince Hussein. The EU is pursuing &quot;intensive dialogue&quot; with the region amid the Lebanon crisis and after Iran closed the Strait of Hormuz, which has hit European energy costs hard.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:36742d6e1ebb</id>
+    <title>Καμία χώρα δεν θα γλιτώσει από αυτόν τον πόλεμο</title>
+    <link href="https://www.kathimerini.gr/economy/international/564189184/kamia-chora-den-tha-glitosei-apo-ayton-ton-polemo/"/>
+    <updated>2026-04-23T11:57:00+00:00</updated>
+    <published>2026-04-23T11:57:00+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Ο πόλεμος στο Ιράν θα χτυπήσει κάθε οικονομία, αλλά οι φτωχές χώρες —όπου σχεδόν το μισό των δαπανών νοικοκυριών πηγαίνει σε τρόφιμα και ενέργεια— θα υποφέρουν περισσότερο. Η άνοδος τιμών σε ενέργεια, λιπάσματα και τρόφιμα, σε συνδυασμό με τους δασμούς Τραμπ, την κλιματική κρίση και την ΑΙ, επισκιάζουν τις προοπτικές 75 χωρών όπου ζουν 3,8 δισ. άνθρωποι.</strong></p><p>The Iran war will bruise every economy, but poorer countries — where nearly half of household spending goes on food and energy — will suffer most. Rising prices for energy, fertilisers and food, combined with Trump&apos;s tariffs, climate change and AI, cloud the outlook for 75 nations home to 3.8 billion people.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:02af5657fb0d</id>
+    <title>Φόροι, εισφορές ροκανίζουν το εισόδημα εργαζομένων</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564189088/foroi-eisfores-rokanizoyn-to-eisodima-ergazomenon/"/>
+    <updated>2026-04-23T12:45:00+03:00</updated>
+    <published>2026-04-23T12:45:00+03:00</published>
     <author><name>Ρούλα Σαλούρου</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Political appointees in the Greek public sector doubled over 12 years, rising 102% from 2013 to 2025, while overall public employment stayed stable. The debate on the 'strategic state' returns with questions about transparency of selection criteria and how the institution of political appointees operates.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι μετακλητοί υπάλληλοι στο ελληνικό Δημόσιο διπλασιάστηκαν σε 12 έτη, αυξανόμενοι κατά 102% από το 2013 έως το 2025, ενώ η συνολική απασχόληση στο Δημόσιο παρέμεινε σταθερή. Η συζήτηση για το «επιτελικό κράτος» επιστρέφει με ερωτήματα για διαφάνεια κριτηρίων και όρων λειτουργίας του θεσμού.&lt;/p&gt;</summary>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Σύμφωνα με τον ΟΟΣΑ, η φορολογική επιβάρυνση της εργασίας (tax wedge) για άγαμο εργαζόμενο με μέσο μισθό διαμορφώθηκε στο 39,3% το 2025, από 39,5% το 2024, αλλά παραμένει αισθητά πάνω από τον μέσο όρο 35,1%. Η Ελλάδα βρίσκεται στη 19η θέση μεταξύ 38 κρατών-μελών, με τη μεσαία τάξη και τις οικογένειες με παιδιά να πλήττονται περισσότερο — εν αντιθέσει με χώρες που έχουν υψηλότερη φορολογία αλλά και εκτεταμένες δημόσιες υπηρεσίες.</strong></p><p>Per the OECD, Greece&apos;s tax wedge on a single worker with an average salary fell marginally to 39.3% in 2025 from 39.5% in 2024 but remains well above the 35.1% average, placing Greece 19th of 38 countries. The middle class and families with children bear the brunt, unlike peers with higher taxes paired with generous public services.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:bda0d424eb26</id>
-    <title>Στα 36 εκατ. μέχρι στιγμής η επιβάρυνση της ακτοπλοΐας από την κρίση</title>
-    <link href="https://www.kathimerini.gr/economy/business/564184912/sta-36-ekat-mechri-stigmis-i-epivarynsi-tis-aktoplo-as-apo-tin-krisi/" />
-    <updated>2026-04-21T11:19:00+00:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Greek Passenger Shipping Association (SEEN) estimates at €36 million the extra cost for Greek coastal shipping from the spike in bunker fuel prices since the Persian Gulf war. Marine Gas Oil remains more than double late-2025 levels, with the industry seeking a new support formula through the EU's Temporary Crisis Framework.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Σύνδεσμος Επιχειρήσεων Επιβατηγού Ναυτιλίας (ΣΕΕΝ) υπολογίζει στα 36 εκατ. ευρώ το επιπλέον κόστος της ελληνικής ακτοπλοΐας από την εκτόξευση τιμών ναυτιλιακών καυσίμων μετά τον πόλεμο. Το βασικό MGO παραμένει σε υπερδιπλάσια επίπεδα από το τέλος του 2025, με τον κλάδο να αναζητά νέα φόρμουλα στήριξης μέσω του Προσωρινού Πλαισίου Κρίσης της Ε.Ε.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:3c45d553960a</id>
-    <title>Καθησυχαστική η Kομισιόν για την επάρκεια των καυσίμων – Ερχεται νέο παρατηρητήριο</title>
-    <link href="https://www.kathimerini.gr/world/564185767/kathisychastiki-i-komision-gia-tin-eparkeia-ton-kaysimon-erchetai-neo-paratiritirio/" />
-    <updated>2026-04-21T14:40:50+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Commission appears reassuring on EU jet fuel supplies despite the IEA's warning that Europe has only six weeks of reserves. Tuesday's transport ministers' videoconference confirmed supply security remains steady for now, but price pressures are intense and are expected to persist.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Κομισιόν εμφανίζεται καθησυχαστική για την επάρκεια των καυσίμων αεροσκαφών στην Ε.Ε. παρά τις προειδοποιήσεις του Διεθνούς Οργανισμού Ενέργειας ότι η Ευρώπη έχει αποθέματα για έξι εβδομάδες. Η τηλεδιάσκεψη των υπουργών Μεταφορών επιβεβαίωσε σταθερή ασφάλεια εφοδιασμού αλλά έντονες πιέσεις στις τιμές.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:zoetzikra.github.io,2026:ded6d186de60</id>
-    <title>Φάμελλος για 21η Απριλίου: Να μην επιτρέψουμε ποτέ ξανά τον αυταρχισμό, σε όποια μορφή κι αν εμφανιστεί</title>
-    <link href="https://www.kathimerini.gr/politics/564185701/famellos-gia-21i-aprilioy-na-min-epitrepsoyme-pote-xana-ton-aytarchismo-se-opoia-morfi-ki-an-emfanistei/" />
-    <updated>2026-04-21T14:05:02+00:00</updated>
+    <id>urn:kathi:00b9f8a908c8</id>
+    <title>ΗΠΑ: Απομάκρυνση 31 πλοίων από την έναρξη του ναυτικού αποκλεισμού του Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564189514/ipa-apomakrynsi-31-ploion-apo-tin-enarxi-toy-naytikoy-apokleismoy-toy-iran/"/>
+    <updated>2026-04-23T11:08:06+00:00</updated>
+    <published>2026-04-23T11:08:06+00:00</published>
     <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; SYRIZA leader Sokratis Famellos, on the 'black anniversary' of 21 April, calls for never again tolerating authoritarianism in any form and for crushing neo-fascist formations. He points to current threats to democracy, from constitutional violations to government corruption scandals.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρόεδρος του ΣΥΡΙΖΑ Σωκράτης Φάμελλος, με ανάρτηση για τη «μαύρη επέτειο» της 21ης Απριλίου, καλεί να μην επιτραπεί ποτέ ξανά ο αυταρχισμός σε οποιαδήποτε μορφή και να τσακιστεί κάθε νεοφασιστικό μόρφωμα. Αναφέρεται στις σύγχρονες απειλές για τη δημοκρατία, από παραβιάσεις Συντάγματος μέχρι κυβερνητικά σκάνδαλα διαφθοράς.&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="html"><p><strong>Οι αμερικανικές ένοπλες δυνάμεις (CENTCOM) ανακοίνωσαν ότι εξέτρεψαν 31 πλοία που κατευθύνονταν σε ιρανικά λιμάνια ή αποπλέαν από αυτά από την έναρξη του ναυτικού αποκλεισμού. Ο Τραμπ επιβεβαίωσε ότι η εκεχειρία με το Ιράν παρατείνεται, αλλά ο αποκλεισμός στην είσοδο του Περσικού Κόλπου συνεχίζεται.</strong></p><p>US Central Command (CENTCOM) announced that 31 vessels bound for or leaving Iranian ports have been diverted since the naval blockade began. Trump has confirmed that the Iran ceasefire is extended, but the blockade at the mouth of the Persian Gulf remains in force.</p></summary>
   </entry>
   <entry>
-    <id>tag:zoetzikra.github.io,2026:e82bbec4b1c0</id>
-    <title>Εντός και Εκτός: Το «μοντέλο Σάντσεθ»</title>
-    <link href="https://www.kathimerini.gr/politics/564184552/entos-kai-ektos-to-montelo-santseth/" />
-    <updated>2026-04-21T07:46:00+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Vassilis Nedos's 'Entos kai Ektos' column frames PASOK leader Androulakis's Barcelona visit and selfie with Spanish Prime Minister Pedro Sanchez as an expected alignment with Europe's most successful socialist. Nedos notes Sanchez was the first European leader to openly condemn both the Iran war and Israel's policies.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η στήλη «Εντός και Εκτός» του Βασίλη Νέδου αναλύει την επίσκεψη Ανδρουλάκη στη Βαρκελώνη και τη σέλφι με τον Ισπανό πρωθυπουργό Πέδρο Σάντσεθ ως αναμενόμενη εναρμόνιση με τον πιο επιτυχημένο σοσιαλιστή στην Ε.Ε. Υπενθυμίζει ότι ο Σάντσεθ ήταν ο πρώτος Ευρωπαίος ηγέτης που τάχθηκε καταγγελτικά κατά του πολέμου στο Ιράν και του Ισραήλ.&lt;/p&gt;</summary>
+    <id>urn:kathi:4c28744ea8e7</id>
+    <title>Θεωρείο: Εκπληξη και θυμός</title>
+    <link href="https://www.kathimerini.gr/politics/564188617/theoreio-ekplixi-kai-thymos/"/>
+    <updated>2026-04-23T07:51:00+00:00</updated>
+    <published>2026-04-23T07:51:00+00:00</published>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Η στήλη Θεωρείο αναφέρει ότι ο πρωθυπουργός διάβασε με έκπληξη και θυμό διαρροές για τις αρμοδιότητες του Γιώργου Μυλωνάκη: ειλημμένη απόφαση είναι να ανατεθούν στον γ.γ. του υπουργικού συμβουλίου Στέλιο Κουτνατζή, χωρίς ανασχηματισμό. Στη Βουλή, παρά τις προβλέψεις για «τοξικότητα», η συζήτηση για την άρση ασυλίας κύλησε ήπια, με τους 13 βουλευτές της Ν.Δ. να δείχνονται αξιοπρεπείς.</strong></p><p>The Theoreio column reports the prime minister was surprised and angry at leaks over who will assume Giorgos Mylonakis&apos;s duties: the decision is for Cabinet Secretary-General Stelios Koutnatzis to take them on, with no reshuffle. In parliament, despite predictions of toxicity, the immunity debate unfolded calmly, with the 13 ND MPs appearing dignified.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:cc598483832e</id>
+    <title>Στη στραβή, με τα λεφτά στο χέρι</title>
+    <link href="https://www.kathimerini.gr/economy/local/564189046/sti-stravi-me-ta-lefta-sto-cheri/"/>
+    <updated>2026-04-23T13:40:00+00:00</updated>
+    <published>2026-04-23T13:40:00+00:00</published>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary type="html"><p><strong>Σχολιαστικό άρθρο παρατηρεί την αντίθεση: ενώ η Ελλάδα ανακοινώνει παροχές από το υπερπλεόνασμα (150 ευρώ ανά παιδί, 300 ευρώ ανά συνταξιούχο, ρύθμιση οφειλών), η Γερμανία διαχειρίζεται έλλειμμα 140 δισ. και αναγκάζεται σε περικοπές, με την ανάπτυξή της να επιβραδύνεται στο 0,5% λόγω του πολέμου στο Ιράν. Η ελληνική ανάπτυξη αναθεωρήθηκε στο 2% από 2,4%, με την Αθήνα να κρατά δημοσιονομικό χώρο για περαιτέρω μέτρα.</strong></p><p>An opinion piece flags the contrast: while Greece rolls out surplus-funded handouts (€150 per child, €300 per pensioner, debt rescheduling), Germany battles a €140bn deficit and looming cuts, with growth halved to 0.5% by the Iran war. Greek growth was revised down to 2% from 2.4%, but Athens is keeping fiscal room in reserve for further measures.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:c31322228625</id>
+    <title>Ε.Ε.: Κατά της ομοφωνίας σε θέματα εξωτερικής πολιτικής και ασφάλειας ο Γερμανός ΥΠΕΞ</title>
+    <link href="https://www.kathimerini.gr/world/564189730/e-e-kata-tis-omofonias-se-themata-exoterikis-politikis-kai-asfaleias-o-germanos-ypex/"/>
+    <updated>2026-04-23T13:35:14+00:00</updated>
+    <published>2026-04-23T13:35:14+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="html"><p><strong>Ο Γερμανός υπουργός Εξωτερικών Γιόχαν Βάντεφουλ πρότεινε στο Δουβλίνο την κατάργηση της αρχής της ομοφωνίας στις αποφάσεις εξωτερικής πολιτικής και ασφάλειας της Ε.Ε. και την αντικατάστασή της από ψηφοφορία πλειοψηφίας. Τον υποστήριξε η ιρλανδή ομόλογός του Μακέντι, καθώς μετά την ήττα του Όρμπαν στις ουγγρικές εκλογές ανοίγει παράθυρο ευκαιρίας για θεσμική αλλαγή.</strong></p><p>German Foreign Minister Johann Wadephul proposed in Dublin scrapping unanimity for EU foreign-policy and security decisions in favour of majority voting. His Irish counterpart McEntee backed the idea, arguing Viktor Orbán&apos;s defeat in the Hungarian election opens a window of opportunity for institutional reform.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:6a304fc95a82</id>
+    <title>Ηγέτες και Δύση</title>
+    <link href="https://www.kathimerini.gr/opinion/564186550/igetes-kai-dysi/"/>
+    <updated>2026-04-22T20:13:00+00:00</updated>
+    <published>2026-04-22T20:13:00+00:00</published>
+    <author><name>Αλέξης Παπαχελάς</name></author>
+    <category term="opinion"/>
+    <summary type="html"><p><strong>Ο Αλέξης Παπαχελάς περιγράφει μια πρωτόγνωρη κρίση ηγεσίας στη Δύση: ΗΠΑ υπό Τραμπ «έχει πετάξει τους κανόνες», Μ. Βρετανία με αδύναμο πρωθυπουργό και Farage στο παρασκήνιο, Γερμανία με την AfD να περιμένει, Γαλλία ενόψει σκληρής εκλογικής μάχης. Η Ευρώπη αναζητά ηγεσία που δεν διαφαίνεται, με τη Δύση σε «κατώφλι δραματικών ανατροπών».</strong></p><p>Alexis Papachelas describes an unprecedented leadership crisis across the West: Trump&apos;s America has &quot;thrown out the rules&quot;, Britain is weak with Farage in the wings, Germany braces for AfD, France faces a hard electoral contest. Europe is looking for leadership that is not there, with the West &quot;on the brink of dramatic upheaval&quot;.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:dcbb3a1c3216</id>
+    <title>Τα τέσσερα «αιτήματα» από Κοβέσι και Φλωρίδη</title>
+    <link href="https://www.kathimerini.gr/politics/government/564188674/ta-tessera-aitimata-apo-kovesi-kai-floridi/"/>
+    <updated>2026-04-23T06:58:00+00:00</updated>
+    <published>2026-04-23T06:58:00+00:00</published>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Μετά τη μισάωρη συνάντηση της Λάουρα Κοβέσι με τον υπουργό Δικαιοσύνης Γιώργο Φλωρίδη, η Ευρωπαϊκή Εισαγγελία εμφανίζεται να θέτει τέσσερα ζητήματα: την τμηματική αποστολή δικογραφιών, τις επιλεκτικές διαρροές, την πρακτική υποστήριξη του θεσμού και την ανανέωση της θητείας των ευρωπαίων εντεταλμένων εισαγγελέων. Το κλίμα περιγράφηκε ως θετικό, παρά τις εγχώριες επιθέσεις.</strong></p><p>After a 30-minute meeting between Laura Kövesi and Justice Minister Giorgos Floridis, the European Public Prosecutor&apos;s Office is said to have raised four issues: piecemeal transmission of case files, selective leaks, operational support for the institution, and the renewal of Greek delegated prosecutors&apos; terms. The atmosphere was described as positive despite domestic attacks.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:268a1f7c3e54</id>
+    <title>Ερντογάν – Ρούτε: Στο τραπέζιτα θέματατης άμυνας</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564188677/erntogan-royte-sto-trapezita-thematatis-amynas/"/>
+    <updated>2026-04-23T06:48:00+00:00</updated>
+    <published>2026-04-23T06:48:00+00:00</published>
+    <author><name>Μανώλης Κωστίδης</name></author>
+    <category term="politics"/>
+    <summary type="html"><p><strong>Στην Άγκυρα, ο Τούρκος πρόεδρος Ερντογάν και ο γ.γ. του ΝΑΤΟ Μαρκ Ρούτε συζήτησαν για προμήθεια ευρωπαϊκών συστημάτων αντιαεροπορικής άμυνας και για τη σύνοδο του ΝΑΤΟ που θα γίνει στην Άγκυρα. Ο Ερντογάν εξέφρασε την αντίθεση της Τουρκίας σε σχέδια ευρωπαϊκής άμυνας που αποκλείουν χώρες μη μέλη της Ε.Ε., ενώ τα τουρκικά ΜΜΕ μίλησαν και για ελληνοτουρκικά ζητήματα.</strong></p><p>In Ankara, Turkish President Erdoğan and NATO Secretary General Mark Rutte discussed procuring European air-defence systems and preparations for the NATO summit to be held in Ankara. Erdoğan pushed back on EU defence plans that exclude non-EU countries, while Turkish media said Greek-Turkish disputes were also on the agenda.</p></summary>
+  </entry>
+  <entry>
+    <id>urn:kathi:56a3de72c09c</id>
+    <title>Πάρκο Ασυρμάτου: Το κρίσιμο τέταρτο στο μικροσκόπιο των Αρχών</title>
+    <link href="https://www.kathimerini.gr/society/564189469/parko-asyrmatoy-to-krisimo-tetarto-sto-mikroskopio-ton-archon/"/>
+    <updated>2026-04-23T10:20:56+00:00</updated>
+    <published>2026-04-23T10:20:56+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="html"><p><strong>Οι αστυνομικοί εξετάζουν «τυφλό» δεκαπεντάλεπτο, από τις 21:00 όταν ο 25χρονος έφυγε από το σπίτι του μέχρι τις 21:15 όταν βρέθηκε νεκρός στο Πάρκο Ασυρμάτου, σε σημείο χωρίς κάμερες. Είχε προηγηθεί καβγάς σε κατάστημα υγειονομικού ενδιαφέροντος, με τη θανατηφόρα μαχαιριά να έχει δοθεί εκεί· εξετάζεται και σενάριο οπαδικού επεισοδίου.</strong></p><p>Police are focused on a &quot;blind&quot; 15-minute window between 21:00, when the 25-year-old left home, and 21:15, when he was found dead at Asyrmatos Park in an area without cameras. A fight at a local venue preceded the fatal stabbing; a football-hooligan motive is among the scenarios examined.</p></summary>
   </entry>
 </feed>
