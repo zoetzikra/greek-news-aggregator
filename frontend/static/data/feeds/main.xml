@@ -1,210 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top Stories</title>
-  <subtitle>Daily bilingual digest of Kathimerini's most important stories</subtitle>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>urn:greek-news-aggregator:2026-04-23</id>
-  <updated>2026-04-24T20:30:57+00:00</updated>
-  <generator>greek-news-aggregator</generator>
+  <title>Greek News Aggregator — Top stories</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate" />
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self" />
+  <id>urn:greek-news-aggregator:top:2026-04-28</id>
+  <updated>2026-04-28T10:18:46+00:00</updated>
+  <subtitle>Top 20 stories from kathimerini.gr — 2026-04-28</subtitle>
   <entry>
-    <id>urn:kathi:125c026d0afa</id>
-    <title>Με ευρεία πλειοψηφία η άρση ασυλίας των βουλευτών Ν.Δ.</title>
-    <link href="https://www.kathimerini.gr/politics/parliament/564188659/me-eyreia-pleiopsifia-i-arsi-asylias-ton-voyleyton-n-d/"/>
-    <updated>2026-04-23T06:45:00+00:00</updated>
-    <published>2026-04-23T06:45:00+00:00</published>
-    <author><name>Γιώργος Μπουρδάρας</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Με σχεδόν ομόφωνη πλειοψηφία (286 υπέρ επί 288 παρόντων), η Βουλή υπερψήφισε την άρση ασυλίας των 13 βουλευτών της Ν.Δ. που εμπλέκονται στις δικογραφίες της Ευρωπαϊκής Εισαγγελίας για τον ΟΠΕΚΕΠΕ. Οι δύο αρνητικές ψήφοι ήρθαν κυρίως από τους Παπακώστα και Φλώρο· απουσίαζαν οι Μηταράκης, Πέτσας και Χρυσομάλλης. Η κυβερνώσα πλειοψηφία «πειθάρχησε» παρά τις προηγούμενες διαρροές.</strong></p><p>By near-unanimous margin (286 in favour of 288 present), parliament voted to lift the immunity of 13 New Democracy MPs linked to the European Public Prosecutor&apos;s OPEKEPE case files. The two negative votes came mainly from Papakosta and Floros; Mitarakis, Petsas and Chrysomallis were absent. The governing majority fell in line despite earlier leaks of dissent.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:23f60566af76</id>
-    <title>Κοβέσι: Δεν δέχομαι τη νοοτροπία ότι «έτσι γίνονται τα πράγματα στην Ελλάδα»</title>
-    <link href="https://www.kathimerini.gr/politics/564189508/kovesi-den-dechomai-ti-nootropia-toy-etsi-ginontai-ta-pragmata-stin-ellada/"/>
-    <updated>2026-04-23T11:41:19+00:00</updated>
-    <published>2026-04-23T11:41:19+00:00</published>
-    <author><name>Ηλιάνα Μάγρα</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Η επικεφαλής της Ευρωπαϊκής Εισαγγελίας Λάουρα Κοβέσι, μιλώντας στο Οικονομικό Φόρουμ των Δελφών, χαρακτήρισε τον ΟΠΕΚΕΠΕ «συνώνυμο διαφθοράς, νεποτισμού και πελατειακών σχέσεων» και απέρριψε τη νοοτροπία του «έτσι γίνονται τα πράγματα στην Ελλάδα». Υπερασπίστηκε την άρση ασυλίας των 13 βουλευτών της Ν.Δ. ως αναγκαία για τη συνέχιση της έρευνας και κατήγγειλε προσπάθεια μετατόπισης της συζήτησης από την ουσία της υπόθεσης.</strong></p><p>European Chief Prosecutor Laura Kövesi, speaking at the Delphi Economic Forum, called OPEKEPE &quot;synonymous with corruption, nepotism and clientelism&quot; and rejected the &quot;that&apos;s how things work in Greece&quot; mindset. She defended the lifting of immunity for 13 New Democracy MPs as necessary to continue the investigation and accused critics of trying to deflect attention from the real issue.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:0e00eae69af1</id>
-    <title>Κυβέρνηση: Η αρχιτεκτονική των μέτρων</title>
-    <link href="https://www.kathimerini.gr/politics/government/564188662/kyvernisi-i-architektoniki-ton-metron/"/>
-    <updated>2026-04-23T07:18:37+00:00</updated>
-    <published>2026-04-23T07:18:37+00:00</published>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Η κυβέρνηση σχεδιάζει πακέτο μέτρων ύψους 500 εκατ. ευρώ από το υπερπλεόνασμα, στοχευμένο σε πέντε πολιτικά κρίσιμες κοινωνικές ομάδες: οικογένειες με παιδιά, ενοικιαστές, συνταξιούχους, αγρότες και υπερχρεωμένους οφειλέτες. Η επιλογή ομάδων συνδέεται ευθέως με την εκλογική βάση της Ν.Δ. στο 2023, που σήμερα δείχνει να απομακρύνεται, ενώ τα μέτρα λειτουργούν και ως αντίβαρο στις υποθέσεις ΟΠΕΚΕΠΕ και Λαζαρίδη.</strong></p><p>The government is rolling out a €500m relief package from the budget surplus, targeted at five politically critical groups: families with children, renters, pensioners, farmers and heavily-indebted borrowers. The choice of groups maps directly onto the 2023 New Democracy electoral coalition — now drifting — and serves as a political counterweight to the OPEKEPE and Lazaridis cases.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:e64e7ff7228a</id>
-    <title>ΗΠΑ – Ιράν: Η «ασφυξία» στο Ορμούζ και το διπλωματικό αδιέξοδο</title>
-    <link href="https://www.kathimerini.gr/world/564189523/ipa-iran-i-asfyxia-sto-ormoyz-kai-to-diplomatiko-adiexodo/"/>
-    <updated>2026-04-23T11:45:40+00:00</updated>
-    <published>2026-04-23T11:45:40+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html"><p><strong>Το Ιράν προχώρησε στην κατάληψη δύο πλοίων στα Στενά του Ορμούζ —εκ των οποίων το ένα ελληνόκτητο— ενισχύοντας τον έλεγχό του στη στρατηγική θαλάσσια οδό. Ο Τραμπ ανακοίνωσε παράταση εκεχειρίας, αλλά οι Ιρανοί αξιωματούχοι αρνούνται να επιβεβαιώσουν συμφωνία ενώ καταγγέλλουν τον ναυτικό αποκλεισμό ως πράξη πολέμου. Το 1/5 του παγκόσμιου εμπορίου πετρελαίου περνούσε από εκεί πριν τον πόλεμο.</strong></p><p>Iran seized two vessels at the Strait of Hormuz — one Greek-owned — tightening its grip on the strategic waterway. Trump announced an extended ceasefire, but Iranian officials have not confirmed any agreement and condemn the US naval blockade as an act of war. Before the conflict, roughly one-fifth of global oil trade transited the strait.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:afe7e2325c71</id>
-    <title>Συνέντευξη Βάλντις Ντομπρόβσκις στην «Κ»: Τα μέτρα στήριξης πρέπει να είναι στοχευμένα</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564189061/synenteyxi-valntis-ntomprovskis-stin-k-ta-metra-stirixis-prepei-na-einai-stocheymena/"/>
-    <updated>2026-04-23T09:35:42+00:00</updated>
-    <published>2026-04-23T09:35:42+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Σε συνέντευξή του στην «Κ», ο επίτροπος Οικονομίας Βάλντις Ντομπρόβσκις προειδοποιεί για σοκ στασιμοπληθωρισμού από την κρίση στη Μέση Ανατολή, με επιβράδυνση της ευρωπαϊκής οικονομίας έως 0,6 μονάδες και νέα άνοδο του πληθωρισμού. Ανακοινώνει εκταμίευση 1,18 δισ. από το Ταμείο Ανάκαμψης προς την Ελλάδα, στέλνει θετικό σήμα για ανάπτυξη 2,1-2,2%, αλλά ζητά στοχευμένα και περιορισμένα μέτρα στήριξης και προσεκτική διαχείριση του χρέους.</strong></p><p>In a Kathimerini interview, Economy Commissioner Valdis Dombrovskis warns of a stagflationary shock from the Middle East crisis, trimming EU growth by up to 0.6 points and pushing inflation back up. He announces €1.18bn of Greek Recovery Fund disbursements, flags solid 2.1-2.2% Greek growth, but calls for targeted, limited relief and careful debt management.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:2fef6451bd70</id>
-    <title>Ποιοι και πόσο ενισχύονται από το νέο πακέτο μέτρων</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564189079/poioi-kai-poso-enischyontai-apo-to-neo-paketo-metron/"/>
-    <updated>2026-04-23T07:13:39+03:00</updated>
-    <published>2026-04-23T07:13:39+03:00</published>
-    <author><name>Προκόπης Χατζηνικολάου</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Αναλυτικά το πακέτο των 500 εκατ. ευρώ: 240 εκατ. για ενίσχυση 975.000 νοικοκυριών με παιδιά (από 150 ευρώ ανά παιδί), διεύρυνση εισοδηματικών ορίων για το επίδομα ενοικίου (+25 εκατ.), αύξηση ενίσχυσης χαμηλοσυνταξιούχων από 250 ευρώ, άρση κατασχέσεων σε τραπεζικούς λογαριασμούς και νέα ρύθμιση οφειλών σε 72 δόσεις. Παράλληλα επεκτείνονται τα μέτρα για ντίζελ και λιπάσματα.</strong></p><p>The €500m package detailed: €240m for 975,000 households with children (starting at €150 per child), expanded income thresholds for rent subsidy (+€25m), higher pensioner top-ups from €250, lifting of bank-account seizures and a new 72-instalment debt rescheduling. Relief for diesel and fertilisers is also extended.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:3703955e5e7a</id>
-    <title>Σύνοδος Κορυφής: Ξεκινούν οι διαπραγματεύσεις για τον νέο ευρωπαϊκό προϋπολογισμό των 2 τρισ.</title>
-    <link href="https://www.kathimerini.gr/economy/international/564189130/synodos-koryfis-xekinoyn-oi-diapragmateyseis-gia-ton-neo-eyropaiko-proypologismo-ton-2-tris/"/>
-    <updated>2026-04-23T07:36:03+00:00</updated>
-    <published>2026-04-23T07:36:03+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Στην άτυπη σύνοδο της Κύπρου ξεκινά η πιο σύνθετη διαπραγμάτευση της διετίας: ο νέος ευρωπαϊκός προϋπολογισμός 2028-2034, ύψους περίπου 2 τρισ. ευρώ. Ο πρόεδρος Κόστα στοχεύει σε συμφωνία έως τέλος 2026, πριν τον εκλογικό κύκλο του 2027 σε Γαλλία-Πολωνία-Ιταλία. Στο τραπέζι μπαίνουν ταυτόχρονα η ΚΑΠ και η κοινή άμυνα, με τη Γερμανία να θέλει σύνδεση κονδυλίων με το κράτος δικαίου.</strong></p><p>The informal Cyprus summit opens the hardest two-year EU negotiation: the 2028-2034 Multiannual Financial Framework, around €2 trillion. Council President Costa targets a deal by late 2026, before the 2027 elections in France, Poland and Italy. CAP and common defence enter the budget together for the first time, with Germany pushing rule-of-law conditionality.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:a56c86054c1f</id>
-    <title>Στη σύνοδο της Ε.Ε. το άρθρο 42.7</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564188644/sti-synodo-tis-e-e-to-arthro-42-7/"/>
-    <updated>2026-04-23T06:50:00+00:00</updated>
-    <published>2026-04-23T06:50:00+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Η κυπριακή προεδρία του Συμβουλίου της Ε.Ε. φέρνει στην άτυπη σύνοδο της Λευκωσίας την επιχειρησιακή ενεργοποίηση του Άρθρου 42.7 της ευρωπαϊκής συνθήκης — της ρήτρας αμοιβαίας αμυντικής συνδρομής, του «ευρωπαϊκού άρθρου 5 του ΝΑΤΟ». Η ΕΥΕΔ εκπονεί «εγχειρίδιο» με προσομοιώσεις κρίσεων από τον Μάιο, σε μια περίοδο αμφισβήτησης του ΝΑΤΟ από τον Τραμπ και άρνησης των Ευρωπαίων να στηρίξουν τον πόλεμο στο Ιράν.</strong></p><p>The Cypriot EU Council presidency will put the operational activation of Article 42.7 — the EU&apos;s mutual defence clause and &quot;Europe&apos;s Article 5&quot; — on the table at the informal Nicosia summit. The EEAS is drafting a crisis-simulation &quot;handbook&quot; starting in May, at a moment when Trump is questioning NATO and Europe has refused to back the Iran war.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:4a78ec03b1af</id>
-    <title>«Θα χρειαστούν έως έξι μήνες για την απομάκρυνση των ναρκών από το Ορμούζ»</title>
-    <link href="https://www.kathimerini.gr/world/564189745/tha-chreiastoyn-eos-exi-mines-gia-tin-apomakrynsi-ton-narkon-apo-to-ormoyz/"/>
-    <updated>2026-04-23T13:43:27+00:00</updated>
-    <published>2026-04-23T13:43:27+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html"><p><strong>Η Washington Post αποκάλυψε διαβαθμισμένη παρουσίαση του Πενταγώνου στο Κογκρέσο, σύμφωνα με την οποία η απομάκρυνση έως και 20 ναρκών από τα Στενά του Ορμούζ θα απαιτούσε έως έξι μήνες, επιβαρύνοντας παγκοσμίως τις τιμές υδρογονανθράκων. Εκπρόσωπος του Πενταγώνου διέψευσε το δημοσίευμα, χαρακτηρίζοντάς το «ανέντιμη δημοσιογραφία».</strong></p><p>The Washington Post revealed a classified Pentagon briefing to Congress indicating that clearing up to 20 mines from the Strait of Hormuz could take up to six months, pushing global oil prices higher. A Pentagon spokesperson pushed back on the report, calling it &quot;dishonest journalism&quot;.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:f0f46f2d8e63</id>
-    <title>Ηγέτες της Μέσης Ανατολής στην Κύπρο για σύνοδο με τους Ευρωπαίους</title>
-    <link href="https://www.kathimerini.gr/world/564189340/igetes-tis-mesis-anatolis-anamenontai-stin-kypro-gia-synodo-me-toys-eyropaioys/"/>
-    <updated>2026-04-23T08:32:13+00:00</updated>
-    <published>2026-04-23T08:32:13+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Ηγέτες της Μέσης Ανατολής αναμένονται αύριο στην Κύπρο για σύνοδο με τους Ευρωπαίους: ο πρόεδρος του Λιβάνου Αούν, ο Αιγύπτιος Αλ Σίσι, ο Σύρος ηγέτης Αλ Σάρα και ο διάδοχος της Ιορδανίας Χουσεΐν. Η Ε.Ε. επιδιώκει «εντατικό διάλογο» με την περιοχή εν μέσω της κρίσης στον Λίβανο και μετά το κλείσιμο των Στενών του Ορμούζ, με σοβαρές επιπτώσεις για το κόστος ενέργειας στην Ευρώπη.</strong></p><p>Middle Eastern leaders will gather in Cyprus tomorrow for a summit with European counterparts: Lebanese President Aoun, Egypt&apos;s Al-Sisi, Syria&apos;s Al-Sharaa and Jordan&apos;s Crown Prince Hussein. The EU is pursuing &quot;intensive dialogue&quot; with the region amid the Lebanon crisis and after Iran closed the Strait of Hormuz, which has hit European energy costs hard.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:36742d6e1ebb</id>
-    <title>Καμία χώρα δεν θα γλιτώσει από αυτόν τον πόλεμο</title>
-    <link href="https://www.kathimerini.gr/economy/international/564189184/kamia-chora-den-tha-glitosei-apo-ayton-ton-polemo/"/>
-    <updated>2026-04-23T11:57:00+00:00</updated>
-    <published>2026-04-23T11:57:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Ο πόλεμος στο Ιράν θα χτυπήσει κάθε οικονομία, αλλά οι φτωχές χώρες —όπου σχεδόν το μισό των δαπανών νοικοκυριών πηγαίνει σε τρόφιμα και ενέργεια— θα υποφέρουν περισσότερο. Η άνοδος τιμών σε ενέργεια, λιπάσματα και τρόφιμα, σε συνδυασμό με τους δασμούς Τραμπ, την κλιματική κρίση και την ΑΙ, επισκιάζουν τις προοπτικές 75 χωρών όπου ζουν 3,8 δισ. άνθρωποι.</strong></p><p>The Iran war will bruise every economy, but poorer countries — where nearly half of household spending goes on food and energy — will suffer most. Rising prices for energy, fertilisers and food, combined with Trump&apos;s tariffs, climate change and AI, cloud the outlook for 75 nations home to 3.8 billion people.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:02af5657fb0d</id>
-    <title>Φόροι, εισφορές ροκανίζουν το εισόδημα εργαζομένων</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564189088/foroi-eisfores-rokanizoyn-to-eisodima-ergazomenon/"/>
-    <updated>2026-04-23T12:45:00+03:00</updated>
-    <published>2026-04-23T12:45:00+03:00</published>
-    <author><name>Ρούλα Σαλούρου</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Σύμφωνα με τον ΟΟΣΑ, η φορολογική επιβάρυνση της εργασίας (tax wedge) για άγαμο εργαζόμενο με μέσο μισθό διαμορφώθηκε στο 39,3% το 2025, από 39,5% το 2024, αλλά παραμένει αισθητά πάνω από τον μέσο όρο 35,1%. Η Ελλάδα βρίσκεται στη 19η θέση μεταξύ 38 κρατών-μελών, με τη μεσαία τάξη και τις οικογένειες με παιδιά να πλήττονται περισσότερο — εν αντιθέσει με χώρες που έχουν υψηλότερη φορολογία αλλά και εκτεταμένες δημόσιες υπηρεσίες.</strong></p><p>Per the OECD, Greece&apos;s tax wedge on a single worker with an average salary fell marginally to 39.3% in 2025 from 39.5% in 2024 but remains well above the 35.1% average, placing Greece 19th of 38 countries. The middle class and families with children bear the brunt, unlike peers with higher taxes paired with generous public services.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:00b9f8a908c8</id>
-    <title>ΗΠΑ: Απομάκρυνση 31 πλοίων από την έναρξη του ναυτικού αποκλεισμού του Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564189514/ipa-apomakrynsi-31-ploion-apo-tin-enarxi-toy-naytikoy-apokleismoy-toy-iran/"/>
-    <updated>2026-04-23T11:08:06+00:00</updated>
-    <published>2026-04-23T11:08:06+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html"><p><strong>Οι αμερικανικές ένοπλες δυνάμεις (CENTCOM) ανακοίνωσαν ότι εξέτρεψαν 31 πλοία που κατευθύνονταν σε ιρανικά λιμάνια ή αποπλέαν από αυτά από την έναρξη του ναυτικού αποκλεισμού. Ο Τραμπ επιβεβαίωσε ότι η εκεχειρία με το Ιράν παρατείνεται, αλλά ο αποκλεισμός στην είσοδο του Περσικού Κόλπου συνεχίζεται.</strong></p><p>US Central Command (CENTCOM) announced that 31 vessels bound for or leaving Iranian ports have been diverted since the naval blockade began. Trump has confirmed that the Iran ceasefire is extended, but the blockade at the mouth of the Persian Gulf remains in force.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:4c28744ea8e7</id>
-    <title>Θεωρείο: Εκπληξη και θυμός</title>
-    <link href="https://www.kathimerini.gr/politics/564188617/theoreio-ekplixi-kai-thymos/"/>
-    <updated>2026-04-23T07:51:00+00:00</updated>
-    <published>2026-04-23T07:51:00+00:00</published>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Η στήλη Θεωρείο αναφέρει ότι ο πρωθυπουργός διάβασε με έκπληξη και θυμό διαρροές για τις αρμοδιότητες του Γιώργου Μυλωνάκη: ειλημμένη απόφαση είναι να ανατεθούν στον γ.γ. του υπουργικού συμβουλίου Στέλιο Κουτνατζή, χωρίς ανασχηματισμό. Στη Βουλή, παρά τις προβλέψεις για «τοξικότητα», η συζήτηση για την άρση ασυλίας κύλησε ήπια, με τους 13 βουλευτές της Ν.Δ. να δείχνονται αξιοπρεπείς.</strong></p><p>The Theoreio column reports the prime minister was surprised and angry at leaks over who will assume Giorgos Mylonakis&apos;s duties: the decision is for Cabinet Secretary-General Stelios Koutnatzis to take them on, with no reshuffle. In parliament, despite predictions of toxicity, the immunity debate unfolded calmly, with the 13 ND MPs appearing dignified.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:cc598483832e</id>
-    <title>Στη στραβή, με τα λεφτά στο χέρι</title>
-    <link href="https://www.kathimerini.gr/economy/local/564189046/sti-stravi-me-ta-lefta-sto-cheri/"/>
-    <updated>2026-04-23T13:40:00+00:00</updated>
-    <published>2026-04-23T13:40:00+00:00</published>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <category term="economy"/>
-    <summary type="html"><p><strong>Σχολιαστικό άρθρο παρατηρεί την αντίθεση: ενώ η Ελλάδα ανακοινώνει παροχές από το υπερπλεόνασμα (150 ευρώ ανά παιδί, 300 ευρώ ανά συνταξιούχο, ρύθμιση οφειλών), η Γερμανία διαχειρίζεται έλλειμμα 140 δισ. και αναγκάζεται σε περικοπές, με την ανάπτυξή της να επιβραδύνεται στο 0,5% λόγω του πολέμου στο Ιράν. Η ελληνική ανάπτυξη αναθεωρήθηκε στο 2% από 2,4%, με την Αθήνα να κρατά δημοσιονομικό χώρο για περαιτέρω μέτρα.</strong></p><p>An opinion piece flags the contrast: while Greece rolls out surplus-funded handouts (€150 per child, €300 per pensioner, debt rescheduling), Germany battles a €140bn deficit and looming cuts, with growth halved to 0.5% by the Iran war. Greek growth was revised down to 2% from 2.4%, but Athens is keeping fiscal room in reserve for further measures.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:c31322228625</id>
-    <title>Ε.Ε.: Κατά της ομοφωνίας σε θέματα εξωτερικής πολιτικής και ασφάλειας ο Γερμανός ΥΠΕΞ</title>
-    <link href="https://www.kathimerini.gr/world/564189730/e-e-kata-tis-omofonias-se-themata-exoterikis-politikis-kai-asfaleias-o-germanos-ypex/"/>
-    <updated>2026-04-23T13:35:14+00:00</updated>
-    <published>2026-04-23T13:35:14+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html"><p><strong>Ο Γερμανός υπουργός Εξωτερικών Γιόχαν Βάντεφουλ πρότεινε στο Δουβλίνο την κατάργηση της αρχής της ομοφωνίας στις αποφάσεις εξωτερικής πολιτικής και ασφάλειας της Ε.Ε. και την αντικατάστασή της από ψηφοφορία πλειοψηφίας. Τον υποστήριξε η ιρλανδή ομόλογός του Μακέντι, καθώς μετά την ήττα του Όρμπαν στις ουγγρικές εκλογές ανοίγει παράθυρο ευκαιρίας για θεσμική αλλαγή.</strong></p><p>German Foreign Minister Johann Wadephul proposed in Dublin scrapping unanimity for EU foreign-policy and security decisions in favour of majority voting. His Irish counterpart McEntee backed the idea, arguing Viktor Orbán&apos;s defeat in the Hungarian election opens a window of opportunity for institutional reform.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:6a304fc95a82</id>
-    <title>Ηγέτες και Δύση</title>
-    <link href="https://www.kathimerini.gr/opinion/564186550/igetes-kai-dysi/"/>
-    <updated>2026-04-22T20:13:00+00:00</updated>
-    <published>2026-04-22T20:13:00+00:00</published>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary type="html"><p><strong>Ο Αλέξης Παπαχελάς περιγράφει μια πρωτόγνωρη κρίση ηγεσίας στη Δύση: ΗΠΑ υπό Τραμπ «έχει πετάξει τους κανόνες», Μ. Βρετανία με αδύναμο πρωθυπουργό και Farage στο παρασκήνιο, Γερμανία με την AfD να περιμένει, Γαλλία ενόψει σκληρής εκλογικής μάχης. Η Ευρώπη αναζητά ηγεσία που δεν διαφαίνεται, με τη Δύση σε «κατώφλι δραματικών ανατροπών».</strong></p><p>Alexis Papachelas describes an unprecedented leadership crisis across the West: Trump&apos;s America has &quot;thrown out the rules&quot;, Britain is weak with Farage in the wings, Germany braces for AfD, France faces a hard electoral contest. Europe is looking for leadership that is not there, with the West &quot;on the brink of dramatic upheaval&quot;.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:dcbb3a1c3216</id>
-    <title>Τα τέσσερα «αιτήματα» από Κοβέσι και Φλωρίδη</title>
-    <link href="https://www.kathimerini.gr/politics/government/564188674/ta-tessera-aitimata-apo-kovesi-kai-floridi/"/>
-    <updated>2026-04-23T06:58:00+00:00</updated>
-    <published>2026-04-23T06:58:00+00:00</published>
+    <title>Πολιτική θύελλα για τις υποκλοπές – Γιατί παραμένουν στο αρχείο</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564197287/politiki-thyella-gia-tis-ypoklopes-giati-paramenoyn-sto-archeio/" />
+    <id>https://www.kathimerini.gr/society/dikastiko/564197287/politiki-thyella-gia-tis-ypoklopes-giati-paramenoyn-sto-archeio/</id>
+    <updated>2026-04-28T06:54:00+00:00</updated>
     <author><name>Σοφία Σπίγγου</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Μετά τη μισάωρη συνάντηση της Λάουρα Κοβέσι με τον υπουργό Δικαιοσύνης Γιώργο Φλωρίδη, η Ευρωπαϊκή Εισαγγελία εμφανίζεται να θέτει τέσσερα ζητήματα: την τμηματική αποστολή δικογραφιών, τις επιλεκτικές διαρροές, την πρακτική υποστήριξη του θεσμού και την ανανέωση της θητείας των ευρωπαίων εντεταλμένων εισαγγελέων. Το κλίμα περιγράφηκε ως θετικό, παρά τις εγχώριες επιθέσεις.</strong></p><p>After a 30-minute meeting between Laura Kövesi and Justice Minister Giorgos Floridis, the European Public Prosecutor&apos;s Office is said to have raised four issues: piecemeal transmission of case files, selective leaks, operational support for the institution, and the renewal of Greek delegated prosecutors&apos; terms. The atmosphere was described as positive despite domestic attacks.</p></summary>
+    <category term="politics" />
+    <summary>Supreme Court Prosecutor Konstantinos Tzavellas ruled on 27 April 2026 that no new evidence justifies reopening the dormant Predator wiretap file. The decision triggered a major political storm, with PASOK and other opposition parties accusing the government and the judiciary of a cover-up.</summary>
   </entry>
   <entry>
-    <id>urn:kathi:268a1f7c3e54</id>
-    <title>Ερντογάν – Ρούτε: Στο τραπέζιτα θέματατης άμυνας</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564188677/erntogan-royte-sto-trapezita-thematatis-amynas/"/>
-    <updated>2026-04-23T06:48:00+00:00</updated>
-    <published>2026-04-23T06:48:00+00:00</published>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="politics"/>
-    <summary type="html"><p><strong>Στην Άγκυρα, ο Τούρκος πρόεδρος Ερντογάν και ο γ.γ. του ΝΑΤΟ Μαρκ Ρούτε συζήτησαν για προμήθεια ευρωπαϊκών συστημάτων αντιαεροπορικής άμυνας και για τη σύνοδο του ΝΑΤΟ που θα γίνει στην Άγκυρα. Ο Ερντογάν εξέφρασε την αντίθεση της Τουρκίας σε σχέδια ευρωπαϊκής άμυνας που αποκλείουν χώρες μη μέλη της Ε.Ε., ενώ τα τουρκικά ΜΜΕ μίλησαν και για ελληνοτουρκικά ζητήματα.</strong></p><p>In Ankara, Turkish President Erdoğan and NATO Secretary General Mark Rutte discussed procuring European air-defence systems and preparations for the NATO summit to be held in Ankara. Erdoğan pushed back on EU defence plans that exclude non-EU countries, while Turkish media said Greek-Turkish disputes were also on the agenda.</p></summary>
-  </entry>
-  <entry>
-    <id>urn:kathi:56a3de72c09c</id>
-    <title>Πάρκο Ασυρμάτου: Το κρίσιμο τέταρτο στο μικροσκόπιο των Αρχών</title>
-    <link href="https://www.kathimerini.gr/society/564189469/parko-asyrmatoy-to-krisimo-tetarto-sto-mikroskopio-ton-archon/"/>
-    <updated>2026-04-23T10:20:56+00:00</updated>
-    <published>2026-04-23T10:20:56+00:00</published>
+    <title>Επίθεση 89χρονου ενόπλου σε ΕΦΚΑ Κεραμεικού και Εφετείο – Πέντε τραυματίες</title>
+    <link href="https://www.kathimerini.gr/society/564198118/pyrovolismoi-sti-loykareos-anafores-gia-traymaties/" />
+    <id>https://www.kathimerini.gr/society/564198118/pyrovolismoi-sti-loykareos-anafores-gia-traymaties/</id>
+    <updated>2026-04-28T11:34:08+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="html"><p><strong>Οι αστυνομικοί εξετάζουν «τυφλό» δεκαπεντάλεπτο, από τις 21:00 όταν ο 25χρονος έφυγε από το σπίτι του μέχρι τις 21:15 όταν βρέθηκε νεκρός στο Πάρκο Ασυρμάτου, σε σημείο χωρίς κάμερες. Είχε προηγηθεί καβγάς σε κατάστημα υγειονομικού ενδιαφέροντος, με τη θανατηφόρα μαχαιριά να έχει δοθεί εκεί· εξετάζεται και σενάριο οπαδικού επεισοδίου.</strong></p><p>Police are focused on a &quot;blind&quot; 15-minute window between 21:00, when the 25-year-old left home, and 21:15, when he was found dead at Asyrmatos Park in an area without cameras. A fight at a local venue preceded the fatal stabbing; a football-hooligan motive is among the scenarios examined.</p></summary>
+    <category term="society" />
+    <summary>Five people were injured on Tuesday morning when an 89-year-old scrap collector opened fire first at an EFKA office in Kerameikos and then at the Athens Court of Appeal in Loukareos. He took a taxi between locations; police recovered his shotgun and evacuated the courthouse. None of the victims are in critical condition.</summary>
+  </entry>
+  <entry>
+    <title>Αναβάθμιση Χ.Α. και από τον STOXX</title>
+    <link href="https://www.kathimerini.gr/economy/business/564197671/anavathmisi-ch-a-kai-apo-ton-stoxx/" />
+    <id>https://www.kathimerini.gr/economy/business/564197671/anavathmisi-ch-a-kai-apo-ton-stoxx/</id>
+    <updated>2026-04-28T09:23:00+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy" />
+    <summary>European index provider STOXX is upgrading the Athens Stock Exchange to developed-market status from 21 September — the final piece in Greece's 13-year journey back to the elite tier alongside earlier moves by S&amp;P DJI, FTSE and MSCI. JPMorgan estimates around $1.1bn in passive inflows to Greek equities.</summary>
+  </entry>
+  <entry>
+    <title>Νίκος Ανδρουλάκης για υπόθεση υποκλοπών: Καταθέτουμε αίτημα για εξεταστική επιτροπή</title>
+    <link href="https://www.kathimerini.gr/politics/564196816/nikos-androylakis-ektakti-synenteyxi-typoy-gia-tin-ypothesi-ton-ypoklopon/" />
+    <id>https://www.kathimerini.gr/politics/564196816/nikos-androylakis-ektakti-synenteyxi-typoy-gia-tin-ypothesi-ton-ypoklopon/</id>
+    <updated>2026-04-27T17:20:37+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics" />
+    <summary>In an emergency news conference, PASOK leader Androulakis announced his party will file a motion to set up a parliamentary inquiry committee on the Predator wiretaps, accusing the Supreme Court of "insulting and undermining" the justice system and pointing to alleged backroom deals between Maximos Mansion and a former officer.</summary>
+  </entry>
+  <entry>
+    <title>Ισραήλ: Εντολή μαζικής εκκένωσης πόλεων στον νότιο Λίβανο</title>
+    <link href="https://www.kathimerini.gr/world/564198184/israil-entoli-mazikis-ekkenosis-poleon-ston-notio-livano/" />
+    <id>https://www.kathimerini.gr/world/564198184/israil-entoli-mazikis-ekkenosis-poleon-ston-notio-livano/</id>
+    <updated>2026-04-28T12:29:05+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary>Israel's IDF has ordered the mass evacuation of more than 12 towns and villages in southern Lebanon, telling residents to move further north. The order is part of an escalation against Hezbollah despite a fragile ceasefire, deepening Lebanon's humanitarian crisis with hundreds of thousands already displaced.</summary>
+  </entry>
+  <entry>
+    <title>Ηλικιωμένος άνοιξε πυρ στον ΕΦΚΑ Κεραμεικού</title>
+    <link href="https://www.kathimerini.gr/society/564198064/andras-anoixe-pyr-ston-efka-kerameikoy/" />
+    <id>https://www.kathimerini.gr/society/564198064/andras-anoixe-pyr-ston-efka-kerameikoy/</id>
+    <updated>2026-04-28T10:49:06+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society" />
+    <summary>An 89-year-old scrap collector burst into the EFKA social-security office in Kerameikos with a hunting rifle hidden under his coat, made his way to the fourth floor and shot a clerk in the leg. He had no known dispute with EFKA, then proceeded to the Loukareos Court of Appeal, where he shot four more people.</summary>
+  </entry>
+  <entry>
+    <title>Γάζα: Το νερό «όπλο» του Ισραήλ εναντίον του πληθυσμού, καταγγέλλουν οι Γιατροί Χωρίς Σύνορα</title>
+    <link href="https://www.kathimerini.gr/world/564198016/gaza-to-nero-oplo-toy-israil-enantion-toy-plithysmoy-kataggelloyn-oi-giatroi-choris-synora/" />
+    <id>https://www.kathimerini.gr/world/564198016/gaza-to-nero-oplo-toy-israil-enantion-toy-plithysmoy-kataggelloyn-oi-giatroi-choris-synora/</id>
+    <updated>2026-04-28T10:04:58+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary>Médecins Sans Frontières has released a report titled "Water as a Weapon" accusing Israel of deliberately depriving Gaza's population of water as part of a campaign of collective punishment and an integral element of what MSF calls genocide. The Israeli government angrily rejects the accusations.</summary>
+  </entry>
+  <entry>
+    <title>Λιβύη: Τεχνικές επιτροπές για την ΑΟΖ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564197242/livyi-technikes-epitropes-gia-tin-aoz/" />
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564197242/livyi-technikes-epitropes-gia-tin-aoz/</id>
+    <updated>2026-04-28T07:34:10+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics" />
+    <summary>Foreign Minister Giorgos Gerapetritis met Libya's GNU PM Dbeibah and acting FM Al Baour in Tripoli; both sides agreed to advance the technical committees on EEZ and continental-shelf delimitation. Athens is keeping the channel open with Tripoli without expecting Libya to abandon the Turkey-Libya MoU, while continuing energy plans south of Crete.</summary>
+  </entry>
+  <entry>
+    <title>Ιράν: Εκατομμύρια νεόπτωχοι εξαιτίας του πολέμου</title>
+    <link href="https://www.kathimerini.gr/world/564197986/iran-ekatommyria-neoptochoi-exaitias-toy-polemoy/" />
+    <id>https://www.kathimerini.gr/world/564197986/iran-ekatommyria-neoptochoi-exaitias-toy-polemoy/</id>
+    <updated>2026-04-28T09:43:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary>Up to 4.1 million Iranians may be pushed into poverty by the war with the US and Israel, according to the UNDP. Over 23,000 factories and businesses have been hit, costing roughly one million jobs. Iran's economy was already in crisis: per-capita income fell from about $8,000 in 2012 to $5,000 in 2024.</summary>
+  </entry>
+  <entry>
+    <title>Δίκη για Τέμπη: Σήμερα συνεχίζεται η διαδικασία με τις τοποθετήσεις των συνηγόρων</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564197818/diki-gia-tempi-simera-synechizetai-i-diadikasia-me-tis-topothetiseis-ton-synigoron/" />
+    <id>https://www.kathimerini.gr/society/dikastiko/564197818/diki-gia-tempi-simera-synechizetai-i-diadikasia-me-tis-topothetiseis-ton-synigoron/</id>
+    <updated>2026-04-28T07:19:31+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society" />
+    <summary>The trial over the deadly Tempi rail crash continues at the Gaiopolis venue, with defence lawyers contesting how the prosecution and civil parties are joining the case. The Greek state filed a moral-damages claim against the stationmaster and three colleagues, and after heated exchanges the court adjourned to Wednesday.</summary>
+  </entry>
+  <entry>
+    <title>Η επίσκεψη Μακρόν ενοχλεί την Αγκυρα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564197263/i-episkepsi-makron-enochlei-tin-agkyra/" />
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564197263/i-episkepsi-makron-enochlei-tin-agkyra/</id>
+    <updated>2026-04-28T08:15:47+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
+    <category term="politics" />
+    <summary>Pro-government Turkish media frame Macron's Athens visit and pledges of French support for Greek sovereignty as an "anti-Turkish front". Ankara is publicly muted because Macron avoided naming Turkey, even as the renewed Greek-French mutual-defence agreement provokes editorials warning of Paris's growing role in the Aegean and East Med.</summary>
+  </entry>
+  <entry>
+    <title>Ξεκινά η «μάχη» για τον νέο ευρωπαϊκό προϋπολογισμό</title>
+    <link href="https://www.kathimerini.gr/world/564198220/xekina-i-machi-gia-ton-neo-eyropaiko-proypologismo/" />
+    <id>https://www.kathimerini.gr/world/564198220/xekina-i-machi-gia-ton-neo-eyropaiko-proypologismo/</id>
+    <updated>2026-04-28T12:41:26+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="world" />
+    <summary>The European Parliament votes today in Strasbourg on its negotiating mandate for the EU's next seven-year budget (2028-2034). Rapporteurs Tavares (S&amp;D) and Mureșan (EPP) propose a 10% bump on the Commission's draft, taking it past €2 trillion, alongside excluding pandemic debt repayments and creating new own resources like a digital tax on big tech.</summary>
+  </entry>
+  <entry>
+    <title>To Ιράν δηλώνει έτοιμο να μοιραστεί αμυντικές δυνατότητες με εταίρους στην Ασία</title>
+    <link href="https://www.kathimerini.gr/world/564198082/to-iran-dilonei-etoimo-na-moirastei-amyntikes-dynatotites-me-etairoys-stin-asia/" />
+    <id>https://www.kathimerini.gr/world/564198082/to-iran-dilonei-etoimo-na-moirastei-amyntikes-dynatotites-me-etairoys-stin-asia/</id>
+    <updated>2026-04-28T11:03:27+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary>Iranian Deputy Defence Minister Reza Talaei-Nik told a Shanghai Cooperation Organisation meeting in Bishkek that "the US can no longer dictate policy to independent states", adding Tehran is ready to share its defence capabilities with SCO members. The rhetoric escalates as Washington considers a new Iranian proposal to end the Middle East war.</summary>
+  </entry>
+  <entry>
+    <title>Οι ΗΠΑ σε ρόλο ρυθμιστή της αγοράς πετρελαίου</title>
+    <link href="https://www.kathimerini.gr/economy/international/564197767/oi-ipa-se-rolo-rythmisti-tis-agoras-petrelaioy/" />
+    <id>https://www.kathimerini.gr/economy/international/564197767/oi-ipa-se-rolo-rythmisti-tis-agoras-petrelaioy/</id>
+    <updated>2026-04-28T12:23:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy" />
+    <summary>The US has stepped in as the swing producer of the global oil market during the Iran-war crisis, boosting exports, selectively easing sanctions and tapping strategic reserves. With the Strait of Hormuz blocking 13% of world reserves, OPEC has been left largely powerless and Washington is cementing its role as the dominant energy superpower.</summary>
+  </entry>
+  <entry>
+    <title>Ο Ανωγειανός που έβοσκε στη Νίσυρο και οι εικονικές σφαγές</title>
+    <link href="https://www.kathimerini.gr/politics/564193621/o-anogeianos-poy-evoske-sti-nisyro-kai-oi-eikonikes-sfages/" />
+    <id>https://www.kathimerini.gr/politics/564193621/o-anogeianos-poy-evoske-sti-nisyro-kai-oi-eikonikes-sfages/</id>
+    <updated>2026-04-28T10:19:05+00:00</updated>
+    <author><name>Κώστας Κουκουμάκας</name></author>
+    <category term="politics" />
+    <summary>Two producers on whose behalf MPs' aides allegedly intervened in the OPEKEPE subsidies case are now defendants in fraudulent-aid prosecutions. The European Public Prosecutor has asked the Greek Financial Police to probe whether political actors lobbied for farmers with strong criminal indications, including an Anogeia stockbreeder who declared grazing land in faraway Nisyros.</summary>
+  </entry>
+  <entry>
+    <title>Ν.Δ.: Ανοιχτή επιστολή πέντε βουλευτών με κριτική στο επιτελικό κράτος</title>
+    <link href="https://www.kathimerini.gr/politics/564197938/n-d-anoichti-epistoli-pente-voyleyton-me-kritiki-sto-epiteliko-kratos/" />
+    <id>https://www.kathimerini.gr/politics/564197938/n-d-anoichti-epistoli-pente-voyleyton-me-kritiki-sto-epiteliko-kratos/</id>
+    <updated>2026-04-28T09:06:57+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics" />
+    <summary>Five New Democracy MPs published an open letter in Ta Nea criticising the centralised executive-state model and calling for a new governance model. They demand a stronger parliamentary role, stressing Greece does not need a state where "few decide for everyone" without accountability.</summary>
+  </entry>
+  <entry>
+    <title>Η Τουρκία δεν μπορεί να ελέγξει τις εξελίξεις</title>
+    <link href="https://www.kathimerini.gr/opinion/564193582/i-toyrkia-den-mporei-na-elegxei-tis-exelixeis/" />
+    <id>https://www.kathimerini.gr/opinion/564193582/i-toyrkia-den-mporei-na-elegxei-tis-exelixeis/</id>
+    <updated>2026-04-27T12:10:08+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <category term="opinion" />
+    <summary>Opinion piece arguing Turkey is losing control of unfolding geopolitical events and is therefore ramping up rhetoric and actions against Greece — more frequent airspace violations, harassment of a Dutch research vessel off Kasos, and a sharpening role for FM Hakan Fidan, increasingly seen as a possible Erdogan successor.</summary>
+  </entry>
+  <entry>
+    <title>Ο πόλεμος «φρενάρει» τον παγκόσμιο τουρισμό</title>
+    <link href="https://www.kathimerini.gr/economy/international/564197713/o-polemos-frenarei-ton-pagkosmio-toyrismo/" />
+    <id>https://www.kathimerini.gr/economy/international/564197713/o-polemos-frenarei-ton-pagkosmio-toyrismo/</id>
+    <updated>2026-04-28T11:21:34+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy" />
+    <summary>Almost two months into the US-Israel war on Iran, the Middle East conflict is hammering global tourism: jet-fuel-driven airfare hikes and flight cancellations are pricing many travellers out of summer trips, with "staycations" becoming the year's standout trend. Even Greece's prices are running well above last summer.</summary>
+  </entry>
+  <entry>
+    <title>CNN: Οι ΗΠΑ επιταχύνουν τις απελάσεις ανήλικων μεταναστών</title>
+    <link href="https://www.kathimerini.gr/world/564198265/cnn-oi-ipa-epitachynoyn-tis-apelaseis-anilikon-metanaston/" />
+    <id>https://www.kathimerini.gr/world/564198265/cnn-oi-ipa-epitachynoyn-tis-apelaseis-anilikon-metanaston/</id>
+    <updated>2026-04-28T13:00:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary>CNN reports that the US administration is speeding up deportation procedures for unaccompanied migrant children in custody by weeks or months. Children as young as four are being summoned to repeated court appearances — sometimes without legal counsel — with officials citing trafficking and cartel-exploitation risks.</summary>
+  </entry>
+  <entry>
+    <title>Ακρίβεια και αύξηση πωλήσεων γέμισαν τα κρατικά ταμεία το 2025</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564197638/akriveia-kai-ayxisi-poliseon-gemisan-ta-kratika-tameia-to-2025/" />
+    <id>https://www.kathimerini.gr/visual/infographics/564197638/akriveia-kai-ayxisi-poliseon-gemisan-ta-kratika-tameia-to-2025/</id>
+    <updated>2026-04-28T09:41:00+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy" />
+    <summary>Greek tax revenue hit €426.95 billion in 2025, up €26.87 billion (+6.7%) year-on-year, AADE data shows. Growth was driven by both higher sales and inflationary nominal-value pressures. 79 of 87 economic sectors saw increases, with building construction posting the largest jump.</summary>
   </entry>
 </feed>
