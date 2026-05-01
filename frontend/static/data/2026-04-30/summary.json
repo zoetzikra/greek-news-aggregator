@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T13:05:32.804771+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Στις 30 Απριλίου 2026 η ελληνική επικαιρότητα κυριαρχείται από τον αντίκτυπο του πολέμου ΗΠΑ-Ιράν, που ξεκίνησε στις 28 Φεβρουαρίου. Η τιμή του Brent εκτινάχθηκε σε ρεκόρ τετραετίας πάνω από 126 δολάρια το βαρέλι, με τον Λευκό Οίκο να ετοιμάζει πολύμηνο αποκλεισμό των ιρανικών λιμανιών και νέα κύματα επιθέσεων. Η Fitch υποβάθμισε την ανάπτυξη της Ελλάδας στο 1,9% και ανέβασε τον πληθωρισμό στο 3%, ενώ η Ε.Ε. εγκρίνει κρατικές ενισχύσεις για κλάδους σε κίνδυνο.\n\nΣτο πολιτικό μέτωπο, η Άγκυρα αντέδρασε έντονα στις δηλώσεις Μακρόν για στήριξη της Ελλάδας, ενώ ο Μητσοτάκης εγκαινίασε με τον Χριστοδουλίδη το παράρτημα του Πανεπιστημίου Λευκωσίας στην Αθήνα και προαναγγέλει αναθεώρηση του άρθρου 16 του Συντάγματος. Παράλληλα, εντείνεται ο ανταγωνισμός Ανδρουλάκη-Τσίπρα για τη δεύτερη θέση, με προσχωρήσεις βουλευτών στο ΠΑΣΟΚ και ένταση γύρω από την υπόθεση των υποκλοπών (Predator), όπου ο εισαγγελέας Αρείου Πάγου απέρριψε ξανά αίτημα ανάσυρσης.\n\nΣτην κοινωνία, η ένοπλη επίθεση 89χρονου σε ΕΦΚΑ και Πρωτοδικείο αναδεικνύει το έλλειμμα κουλτούρας ασφάλειας. Έφοδος των Αρχών σε παράνομο γηροκομείο στους Αμπελόκηπους με τέσσερις ηλικιωμένες σε απάνθρωπες συνθήκες. Στην ψυχική υγεία ανακοινώθηκαν 40 νέες μονάδες για άτομα με αυτισμό και άνοια. Στον πολιτισμό, ο Καβάφης απέκτησε γλυπτό-παγκάκι στη Διονυσίου Αρεοπαγίτου και η Ελλάδα ανέβηκε δεύτερη φαβορί στα στοιχήματα της Eurovision με τον Ακύλα.",
+    "en": "April 30, 2026 in Greek news is dominated by the spillover effects of the U.S.–Iran war that began on February 28. Brent crude topped $126 a barrel — its highest since Russia's 2022 invasion of Ukraine — as the White House prepares a multi-month blockade of Iranian ports and CENTCOM presents 'short, sharp' new strike options to President Trump. Fitch cut Greece's 2026 growth forecast to 1.9% and raised inflation to 3%, while the EU approved a temporary state-aid framework for fishing, shipping, road and rail transport, and farming.\n\nOn the political front, Ankara reacted angrily to Macron's pledge in Athens to back Greece if its sovereignty is threatened, while PM Mitsotakis inaugurated the University of Nicosia's Athens branch with Cypriot President Christodoulides and announced an upcoming revision of Article 16 to allow private universities. The Androulakis-Tsipras race for second place sharpens, with PASOK reaping new MP defections and pushing for a parliamentary inquiry into the Predator wiretapping case — where the Supreme Court prosecutor again refused to reopen the file.\n\nIn society, an 89-year-old's armed attack on a pension office and the Athens Court of First Instance has revived debate over Greece's deficit in 'security culture,' while a raid in Ambelokipi exposed an unlicensed care home where four elderly women lived in squalor. The Health Ministry will fund 40 new mental-health units for autism and dementia. In culture, a bronze Cavafy statue was unveiled on Dionysiou Areopagitou street and Greece's Akylas climbed to second favorite at Eurovision betting odds for Vienna."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πόλεμος ΗΠΑ-Ιράν και ενεργειακή κρίση",
+        "en": "US-Iran war and energy crisis"
+      },
+      "description": {
+        "el": "Δίμηνος πόλεμος με ναυτικό αποκλεισμό, νέα κύματα επιθέσεων υπό μελέτη, εκτόξευση τιμών πετρελαίου, αδυναμία της Ε.Ε. να γνωρίζει αποθέματα καυσίμων.",
+        "en": "Two-month war with U.S. naval blockade, new strike waves under consideration, oil price spike to four-year highs, EU lacking visibility on its own fuel reserves."
+      },
+      "related_items": [
+        "680052767ad4",
+        "ad73fc4885c8",
+        "38849d883a8a",
+        "275346f6416c",
+        "e06950d85b54",
+        "ba81b33a7851",
+        "126e6ad9e1c2",
+        "271c10e64885",
+        "a9b33685d7cb",
+        "2b2dc79c7129"
+      ],
+      "importance": 95
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά και ευρωπαϊκή στήριξη",
+        "en": "Greek-Turkish relations and European backing"
+      },
+      "description": {
+        "el": "Έντονη ενόχληση Άγκυρας για δηλώσεις Μακρόν στην Αθήνα, σχεδιασμός τουρκικού αγωγού στα κατεχόμενα, νέες ταξιαρχίες ειδικών δυνάμεων, εκσυγχρονισμός υποβρυχίων στον Σκαραμαγκά.",
+        "en": "Ankara's sharp reaction to Macron's pledge to defend Greek sovereignty, Turkey's gas pipeline plans for occupied Cyprus, new special-forces brigades in western Turkey, and a TKMS-Skaramangas deal to upgrade four Hellenic Navy submarines."
+      },
+      "related_items": [
+        "f224e25a87c3",
+        "1d6e4732eedf",
+        "3c71019778b6",
+        "839aef6479a6",
+        "1bc503fe90e6"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Πολιτική σκηνή και υπόθεση υποκλοπών",
+        "en": "Greek politics and the wiretapping case"
+      },
+      "description": {
+        "el": "Μάχη Ανδρουλάκη-Τσίπρα, προσχωρήσεις στο ΠΑΣΟΚ, εσωκομματικές εντάσεις στη Ν.Δ. για το επιτελικό κράτος, και νέα απόρριψη ανάσυρσης της υπόθεσης Predator που πυροδοτεί κρίση εμπιστοσύνης στη Δικαιοσύνη.",
+        "en": "The Androulakis-vs-Tsipras race for second place, fresh defections to PASOK, intra-ND strain over the 'executive state,' and a new refusal by the Supreme Court prosecutor to reopen the Predator wiretaps file — fueling a wider crisis of trust in the judiciary."
+      },
+      "related_items": [
+        "b03e9f8aea7f",
+        "972155f8ad97",
+        "44d223f8cdc1",
+        "232e89d5db2e",
+        "9a2768c131b2",
+        "c80462107798",
+        "6434457c8cb3",
+        "d02932457bb1",
+        "78116c96361a"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Έλλειμμα κουλτούρας ασφάλειας και ψυχικής υγείας",
+        "en": "Security culture deficit and mental-health policy"
+      },
+      "description": {
+        "el": "Ένοπλη επίθεση 89χρονου σε ΕΦΚΑ και Πρωτοδικείο, παράνομο γηροκομείο στους Αμπελοκήπους, και ταυτόχρονη ανακοίνωση 40 νέων μονάδων ψυχικής υγείας για αυτισμό και Αλτσχάιμερ.",
+        "en": "An 89-year-old's armed attack on the EFKA pension office and the Athens court of first instance, a raided unlicensed care home in Ambelokipi, and the parallel announcement of 40 new mental-health units for autism and Alzheimer's care."
+      },
+      "related_items": [
+        "50f26917fd2e",
+        "eb0062171078",
+        "69f4670f7d4e",
+        "79d928aa0912"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": 14,
+    "economy": 14,
+    "society": 14,
+    "world": 13,
+    "opinion": 10,
+    "culture": 15
+  }
+}
