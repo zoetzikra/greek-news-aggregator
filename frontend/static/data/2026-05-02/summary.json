@@ -1,0 +1,102 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T10:50:27.005949+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 55 articles over 24h.",
+  "executive_summary": {
+    "el": "Στο πρώτο 24ωρο του Μαΐου 2026, η ελληνική και διεθνής επικαιρότητα κυριαρχείται από τέσσερις θεματικούς άξονες. Στην πολιτική σκηνή, ο Αλέξης Τσίπρας έδωσε στη δημοσιότητα την Πρωτομαγιά μανιφέστο του Ινστιτούτου του με τίτλο «Η κυβερνώσα Αριστερά της νέας εποχής», που θεωρείται προάγγελος του νέου κόμματος, ενώ το ΠΑΣΟΚ επιχειρεί στρατηγική «ανοικτών θυρών» με την προσχώρηση Φαραντούρη και προτείνει 35ωρο και τετραήμερη εργασία.\n\nΣτο διεθνές πεδίο, η μείζων εξέλιξη είναι η ανακοίνωση του Πενταγώνου για απόσυρση 5.000 Αμερικανών στρατιωτικών από τη Γερμανία, που κλιμακώνει τη ρήξη Τραμπ-Μερτς και πιέζει την Ευρώπη να αναλάβει μεγαλύτερη ευθύνη για την άμυνά της. Παράλληλα, το Ιράν υπέβαλε νέα πρόταση για το άνοιγμα των Στενών Ορμούζ μεταθέτοντας τις πυρηνικές συνομιλίες, την οποία ο Τραμπ δηλώνει ότι «δεν τον ικανοποιεί».\n\nΣτο εσωτερικό μέτωπο, ο στολίσκος Global Sumud Flotilla με 175 ακτιβιστές που μετέφερε ανθρωπιστική βοήθεια στη Γάζα και αναχαιτίστηκε από τον ισραηλινό στρατό, αποβιβάστηκε στην Κρήτη με κατεύθυνση τον επαναπατρισμό, ενώ η υπόθεση του ΟΠΕΚΕΠΕ φέρνει νέους τριγμούς με την πρόταση του ΠΑΣΟΚ για Προανακριτική Επιτροπή.\n\nΣτην οικονομία, οι ελληνικές εισηγμένες κατέγραψαν το 2025 ιστορικό ρεκόρ κερδοφορίας με 12,1 δισ. ευρώ καθαρά κέρδη και 6,2 δισ. μερίσματα, ενώ η Εθνική Τράπεζα διανέμει μέρισμα-ρεκόρ 1 δισ. ευρώ. Η Μπιενάλε Βενετίας βυθίζεται σε κρίση μετά την παραίτηση της κριτικής επιτροπής.",
+    "en": "On the first 24 hours of May 2026, Greek and international news is dominated by four thematic axes. On the domestic political stage, Alexis Tsipras released a May Day manifesto by his Institute titled 'The Governing Left of the New Era', widely seen as a precursor to his upcoming new party, while PASOK is pursuing an 'open doors' strategy with MEP Farantouris joining and is proposing a 35-hour work week and four-day model.\n\nInternationally, the major development is the Pentagon's announcement of withdrawing 5,000 US troops from Germany, escalating the Trump-Merz rift and pressuring Europe to assume greater defense responsibility. Iran simultaneously submitted a new proposal to reopen the Strait of Hormuz while deferring nuclear talks, which Trump says 'does not satisfy' him.\n\nDomestically, the Global Sumud Flotilla with 175 humanitarian activists bound for Gaza, intercepted by Israeli forces, has disembarked in Crete pending repatriation, while the OPEKEPE scandal generates fresh tremors as PASOK proposes a parliamentary investigation committee against two former ministers.\n\nOn the economic front, Greek listed companies posted record 2025 profits of 12.1 billion euros and dividends of 6.2 billion, with National Bank distributing a record 1-billion-euro dividend. Meanwhile, the Venice Biennale plunges into crisis as its international jury resigned over national pavilion award policies."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Απόσυρση αμερικανικών στρατευμάτων από τη Γερμανία",
+        "en": "US troop withdrawal from Germany"
+      },
+      "description": {
+        "el": "Το Πεντάγωνο ανακοίνωσε απόσυρση 5.000 στρατιωτικών (15% των δυνάμεων) σε διάστημα 6-12 μηνών, σε σημαντική κλιμάκωση του ρήγματος Τραμπ-Μερτς. Το ΝΑΤΟ και η Γερμανία τονίζουν την ανάγκη η Ευρώπη να γίνει «πιο Ευρωπαϊκή» στην άμυνα.",
+        "en": "The Pentagon announced the withdrawal of 5,000 troops (15% of the force) within 6-12 months, a major escalation of the Trump-Merz rift. NATO and Germany are stressing the need for Europe to become 'more European' on defense."
+      },
+      "related_items": [
+        "d95f722cd328",
+        "828f4e5c30dc",
+        "cfa401a99b25",
+        "bc1621543302"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Νέο κόμμα Τσίπρα και αναδιάταξη της Αριστεράς",
+        "en": "Tsipras's new party and the realignment of the Left"
+      },
+      "description": {
+        "el": "Δημοσιοποίηση του μανιφέστου «Η κυβερνώσα Αριστερά της νέας εποχής» από τον Αλέξη Τσίπρα την Πρωτομαγιά, ως προάγγελος του νέου του φορέα. Παράλληλα, το ΠΑΣΟΚ ανοίγει στρατηγική διεύρυνσης με την προσχώρηση Φαραντούρη.",
+        "en": "Release of the 'Governing Left of the New Era' manifesto by Alexis Tsipras on May Day, as a precursor to his new political vehicle. Meanwhile PASOK opens an expansion strategy with Farantouris joining."
+      },
+      "related_items": [
+        "b146a290dafa",
+        "7dd89901d52f",
+        "ae5b7ae6133e",
+        "4a86d30f3807"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Διπλωματία Ιράν–ΗΠΑ",
+        "en": "Iran-US diplomacy"
+      },
+      "description": {
+        "el": "Νέα ιρανική πρόταση για άνοιγμα των Στενών Ορμούζ και αναβολή των πυρηνικών συνομιλιών, την οποία ο Τραμπ απορρίπτει ως «μη ικανοποιητική». Παράλληλα, επικαλείται την εκεχειρία για να παρακάμψει τον έλεγχο του Κογκρέσου.",
+        "en": "New Iranian proposal to reopen the Strait of Hormuz while postponing nuclear talks, which Trump rejects as 'unsatisfactory'. Trump also invokes the ceasefire to bypass congressional oversight on the conflict."
+      },
+      "related_items": [
+        "9c2126952778",
+        "5bd235ab5c06",
+        "279103817dbc"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Στολίσκος Global Sumud Flotilla και Γάζα",
+        "en": "Global Sumud Flotilla and Gaza"
+      },
+      "description": {
+        "el": "Περίπου 175-200 ακτιβιστές που μετέφεραν ανθρωπιστική βοήθεια στη Γάζα και αναχαιτίστηκαν από τον ισραηλινό στρατό αποβιβάστηκαν στην Κρήτη. Δύο μέλη μεταφέρονται στο Ισραήλ για ανάκριση.",
+        "en": "About 175-200 activists carrying humanitarian aid to Gaza, intercepted by the Israeli military, have disembarked in Crete. Two members are being transferred to Israel for interrogation."
+      },
+      "related_items": [
+        "358b1d89716f",
+        "59c652d1a2c6"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Ρεκόρ κερδοφορίας ελληνικών εισηγμένων",
+        "en": "Record profits for Greek listed companies"
+      },
+      "description": {
+        "el": "Ιστορικά υψηλά για το 2025: 12,1 δισ. καθαρά κέρδη, 16 δισ. λειτουργικά κέρδη και 6,2 δισ. προς διανομή ως μερίσματα. Η Εθνική Τράπεζα διανέμει μέρισμα-ρεκόρ 1 δισ., ενώ η MSCI χαρακτηρίζει την ελληνική αγορά «μοναδική περίπτωση».",
+        "en": "All-time highs for 2025: 12.1 billion in net profits, 16 billion in operating profits and 6.2 billion in dividends. National Bank pays a record 1 billion in dividends, while MSCI calls the Greek market a 'unique case' in its index history."
+      },
+      "related_items": [
+        "084decde5571",
+        "9a69dcc4def0",
+        "7787b12ead4b",
+        "84e19d24dc55"
+      ],
+      "importance": 80
+    }
+  ],
+  "article_count": 55,
+  "categories": {
+    "politics": 13,
+    "economy": 8,
+    "society": 13,
+    "world": 13,
+    "opinion": 1,
+    "culture": 7
+  }
+}
