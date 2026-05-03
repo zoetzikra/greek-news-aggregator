@@ -1,228 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="el">
-  <title>Greek News Aggregator - Top stories 2026-05-02</title>
-  <id>tag:greek-news-aggregator,2026-05-02:main</id>
-  <updated>2026-05-02T10:50:27.005949+00:00</updated>
-  <link rel="self" type="application/atom+xml" href="https://example.com/feeds/main.xml"/>
-  <subtitle>Top 20 Kathimerini articles by importance, with bilingual summaries</subtitle>
+  <title>Greek News Aggregator — 2026-05-03</title>
+  <subtitle>Top stories aggregated from kathimerini.gr</subtitle>
+  <link href="https://kathimerini.gr/"/>
+  <link rel="self" href="data/feeds/main.xml"/>
+  <id>urn:greek-news-aggregator:2026-05-03</id>
+  <updated>2026-05-03T20:49:26.099865+00:00</updated>
+  <generator>greek-news-aggregator</generator>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:d95f722cd328</id>
-    <title>Τι θα σημάνει για τις ΗΠΑ η απόσυρση στρατευμάτων από τη Γερμανία;</title>
-    <link href="https://www.kathimerini.gr/world/564205387/ti-tha-simanei-gia-tis-ipa-i-aposyrsi-strateymaton-apo-ti-germania/"/>
-    <updated>2026-05-02T12:00:38+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564205912/ipa-o-tramp-leei-pos-tha-meletisei-protasi-toy-iran-alla-yponoei-oti-den-tha-ti-dechtei/</id>
+    <title>ΗΠΑ: Ο Τραμπ λέει πως θα μελετήσει πρόταση του Ιράν, αλλά υπονοεί ότι δεν θα τη δεχτεί</title>
+    <link href="https://www.kathimerini.gr/world/564205912/ipa-o-tramp-leei-pos-tha-meletisei-protasi-toy-iran-alla-yponoei-oti-den-tha-ti-dechtei/"/>
+    <updated>2026-05-03T07:04:49+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>[EL] Το Πεντάγωνο ανακοίνωσε την απόσυρση 5.000 στρατιωτικών από αμερικανικές βάσεις στη Γερμανία (15% των δυνάμεων), σε διάστημα 6-12 μηνών. Πρόκειται για κρίση στο εσωτερικό του ΝΑΤΟ από την κόντρα Τραμπ-Μερτς, με αντίστοιχες απειλές κατά Ιταλίας και Ισπανίας. Παρόμοια σχέδια στην πρώτη θητεία Τραμπ δεν είχαν υλοποιηθεί.
-
-[EN] The Pentagon announced the withdrawal of 5,000 troops from US bases in Germany (15% of forces) within 6-12 months. The move signals a crisis within NATO over the Trump-Merz feud, with similar threats made against Italy and Spain. Comparable plans during Trump&apos;s first term were never executed.</summary>
+    <summary>Donald Trump said he will 'study' a new Iranian plan to end the Middle East war, while suggesting he will reject it. Iranian outlets report Tehran's plan demands US troop withdrawals near its borders, lifting of port blockades, release of frozen assets and an end to sanctions within 30 days. The lone post-ceasefire negotiating round in Islamabad on 11 April produced no breakthrough.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Ντόναλντ Τραμπ ανακοίνωσε ότι θα «μελετήσει» νέο σχέδιο του Ιράν για τον τερματισμό του πολέμου στη Μέση Ανατολή, αν και υπονοεί ότι δεν θα το αποδεχτεί. Σύμφωνα με ιρανικά πρακτορεία, η Τεχεράνη ζητά απόσυρση αμερικανικών στρατευμάτων, άρση αποκλεισμού λιμανιών, αποδέσμευση παγωμένων πόρων, άρση κυρώσεων και τερματισμό του πολέμου εντός 30 ημερών. Από την κατάπαυση του πυρός της 8ης Απριλίου, ο μοναδικός κύκλος διαπραγματεύσεων στο Ισλαμαμπάντ κατέληξε άκαρπος.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Donald Trump said he will 'study' a new Iranian plan to end the Middle East war, while suggesting he will reject it. Iranian outlets report Tehran's plan demands US troop withdrawals near its borders, lifting of port blockades, release of frozen assets and an end to sanctions within 30 days. The lone post-ceasefire negotiating round in Islamabad on 11 April produced no breakthrough.&lt;/p&gt;&lt;p&gt;Importance: 82 | Category: world&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:828f4e5c30dc</id>
-    <title>Οι ΗΠΑ θα αποσύρουν 5.000 στρατιωτικούς από τη Γερμανία</title>
-    <link href="https://www.kathimerini.gr/world/564205300/oi-ipa-tha-aposyroyn-5-000-stratiotikoys-apo-ti-germania/"/>
-    <updated>2026-05-02T07:00:14+00:00</updated>
+    <id>https://www.kathimerini.gr/politics/564205723/pasok-paradoxo-o-elegchomenos-na-ginetai-elegktis-stin-ypothesi-ton-parakoloythiseon/</id>
+    <title>ΠΑΣΟΚ: «Παράδοξο ο ελεγχόμενος, να γίνεται ελεγκτής» στην υπόθεση των παρακολουθήσεων</title>
+    <link href="https://www.kathimerini.gr/politics/564205723/pasok-paradoxo-o-elegchomenos-na-ginetai-elegktis-stin-ypothesi-ton-parakoloythiseon/"/>
+    <updated>2026-05-02T16:45:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>[EL] Το Πεντάγωνο ανακοίνωσε ότι θα αποσύρει περίπου 5.000 Αμερικανούς στρατιωτικούς από τη Γερμανία σε διάστημα ενός έτους —το 15% των δυνάμεων. Σημαντική κλιμάκωση του ρήγματος ΗΠΑ-Γερμανίας μετά τις δηλώσεις Μερτς για το Ιράν που εξόργισαν τον Τραμπ. Πάνω από 36.000 Αμερικανοί στρατιώτες σταθμεύουν στη Γερμανία.
-
-[EN] The Pentagon announced the withdrawal of around 5,000 US troops from Germany within a year — 15% of forces. A significant escalation of the US-Germany rift after Merz&apos;s comments on Iran enraged Trump. More than 36,000 American soldiers are stationed in Germany.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:9c2126952778</id>
-    <title>Ιρανός αξιωματούχος: «Η πρόταση που απέρριψε ο Τραμπ θα άνοιγε τα Στενά πριν από συνομιλίες για τα πυρηνικά»</title>
-    <link href="https://www.kathimerini.gr/world/564205531/iranos-axiomatoychos-i-protasi-poy-aperripse-o-tramp-tha-anoige-ta-stena-prin-apo-synomilies-gia-ta-pyrinika/"/>
-    <updated>2026-05-02T13:08:49+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>[EL] Ανώτερος Ιρανός αξιωματούχος αποκάλυψε ότι η νέα ιρανική πρόταση —που απέρριψε ο Τραμπ— προβλέπει το άνοιγμα της ναυσιπλοΐας στα Στενά του Ορμούζ και τον τερματισμό του αμερικανικού αποκλεισμού, μεταθέτοντας τις συνομιλίες για τα πυρηνικά σε μεταγενέστερο στάδιο. Η Τεχεράνη το θεωρεί σημαντική μετατόπιση.
-
-[EN] A senior Iranian official revealed that Iran&apos;s new proposal — rejected by Trump — would reopen shipping through the Strait of Hormuz and end the US naval blockade, deferring nuclear program talks to a later stage. Tehran considers it a significant policy shift to facilitate a deal.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:5bd235ab5c06</id>
-    <title>Το Ιράν υποχωρεί από «κόκκινες γραμμές»</title>
-    <link href="https://www.kathimerini.gr/world/564204475/to-iran-ypochorei-apo-tis-kokkines-grammes-toy/"/>
-    <updated>2026-05-02T00:00:40+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>[EL] Το Ιράν υπέβαλε νέα πρόταση στις ΗΠΑ για τερματισμό του πολέμου, εγκαταλείποντας το αίτημα για άμεσο τερματισμό του αμερικανικού ναυτικού αποκλεισμού. Ωστόσο το χάσμα παραμένει στα Στενά Ορμούζ και το πυρηνικό πρόγραμμα. Ο Τραμπ δηλώνει «ανικανοποίητος», λέγοντας «θέλουν να κλείσουν συμφωνία, αλλά δεν είμαι ικανοποιημένος».
-
-[EN] Iran submitted a new proposal to end the war, dropping its demand for an immediate end to the US naval blockade. The gap remains over the Strait of Hormuz and the nuclear program. Trump said he is &apos;unsatisfied,&apos; adding &apos;they want to make a deal, but I&apos;m not happy&apos;.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:b146a290dafa</id>
-    <title>Το μανιφέστο προάγγελος του κόμματος Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564203845/to-manifesto-proaggelos-toy-kommatos-tsipra/"/>
-    <updated>2026-05-02T07:24:23+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
     <category term="politics"/>
-    <summary>[EL] Το εικοσασέλιδο μανιφέστο του Γιώργου Σιακαντάρη με τίτλο «Η κυβερνώσα Αριστερά της νέας εποχής» χαρακτηρίζεται προάγγελος του νέου κόμματος του Αλέξη Τσίπρα. Το κείμενο, που δημοσιεύθηκε την Πρωτομαγιά, στοχεύει στη συμπαράταξη Σοσιαλδημοκρατίας, ριζοσπαστικής Αριστεράς και πολιτικής Οικολογίας.
-
-[EN] George Siakantaris&apos;s 20-page manifesto titled &apos;The Governing Left of the New Era&apos; is described as a precursor to Alexis Tsipras&apos;s new party. Released on May Day, the text aims to unite Social Democracy, the Radical Left and Political Ecology under one banner.</summary>
+    <summary>PASOK-KINAL is attacking the government over the wiretaps scandal, citing an in.gr report on supreme-court prosecutor Konstantinos Tzavellas's confidential testimony. Per that testimony, Tzavellas signed off on EYP surveillance of 11 people — including deputy PM Hatzidakis, prosecutor Bardakis and journalist Koukakis — who were also Predator targets. PASOK calls it 'paradoxical' that 'the audited becomes the auditor'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το ΠΑΣΟΚ-Κίνημα Αλλαγής εξαπολύει επίθεση κατά της κυβέρνησης για την υπόθεση των παρακολουθήσεων, με βάση δημοσίευμα του in.gr για την απόρρητη κατάθεση του εισαγγελέα του Αρείου Πάγου Κωνσταντίνου Τζαβέλλα. Σύμφωνα με την κατάθεση, ο Τζαβέλλας υπέγραψε τις παρακολουθήσεις 11 προσώπων από την ΕΥΠ — συμπεριλαμβανομένου του αντιπροέδρου Χατζηδάκη, του εισαγγελέα Μπαρδάκη και του δημοσιογράφου Κουκάκη — που ήταν επίσης στόχοι του Predator. Η Χαριλάου Τρικούπη χαρακτηρίζει «παράδοξο ο ελεγχόμενος να γίνεται ελεγκτής».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PASOK-KINAL is attacking the government over the wiretaps scandal, citing an in.gr report on supreme-court prosecutor Konstantinos Tzavellas's confidential testimony. Per that testimony, Tzavellas signed off on EYP surveillance of 11 people — including deputy PM Hatzidakis, prosecutor Bardakis and journalist Koukakis — who were also Predator targets. PASOK calls it 'paradoxical' that 'the audited becomes the auditor'.&lt;/p&gt;&lt;p&gt;Importance: 78 | Category: politics&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:084decde5571</id>
-    <title>Ιστορικό ρεκόρ κερδοφορίας για τις εισηγμένες εταιρείες το 2025</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564204256/istoriko-rekor-kerdoforias-gia-tis-eisig-enes-etaireies-to-2025/"/>
-    <updated>2026-05-02T09:15:00+03:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
+    <id>https://www.kathimerini.gr/economy/international/564205963/petrelaio-proti-apofasi-toy-opek-simera-meta-tin-apochorisi-ton-iae/</id>
+    <title>Πετρέλαιο: Πρώτη απόφαση του ΟΠΕΚ+ σήμερα, μετά την αποχώρηση των ΗΑΕ</title>
+    <link href="https://www.kathimerini.gr/economy/international/564205963/petrelaio-proti-apofasi-toy-opek-simera-meta-tin-apochorisi-ton-iae/"/>
+    <updated>2026-05-03T08:57:14+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary>[EL] Το 2025 ήταν χρονιά-ρεκόρ για τις 143 ελληνικές εισηγμένες, με καθαρά κέρδη 12,1 δισ. ευρώ (+4,4%), λειτουργικά κέρδη 16 δισ. και τζίρο 102,2 δισ. (+3,5%). Τα μερίσματα προς διανομή έφτασαν ιστορικό ρεκόρ 6,2 δισ. ευρώ. Ατμομηχανή ο τραπεζικός κλάδος με κέρδη 5,5 δισ. (+15,4%).
-
-[EN] 2025 was a record year for Greece&apos;s 143 listed companies, with net profits of 12.1 billion euros (+4.4%), operating profits of 16 billion and turnover of 102.2 billion (+3.5%). Dividends to be distributed reached an all-time high of 6.2 billion euros. Banks led the charge with profits of 5.5 billion (+15.4%).</summary>
+    <summary>OPEC+ meets today for the first time since the UAE abruptly exited the bloc. Saudi Arabia, Russia and five other producers are expected to raise quotas by 188,000 barrels per day, but the increase is unlikely to translate into actual extra output because of Iran's blockade of the Strait of Hormuz. March production fell roughly 9 million bpd short of quota.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο ΟΠΕΚ+ συνεδριάζει σήμερα για πρώτη φορά μετά την αιφνιδιαστική αποχώρηση των ΗΑΕ από το μπλοκ. Σαουδική Αραβία, Ρωσία και πέντε ακόμη χώρες αναμένεται να αυξήσουν τις ποσοστώσεις παραγωγής κατά 188.000 βαρέλια ημερησίως, αλλά η αύξηση πιθανότατα δεν θα μετατραπεί σε επιπλέον παραγωγή λόγω του αποκλεισμού των Στενών του Ορμούζ από το Ιράν. Τον Μάρτιο η πραγματική παραγωγή υπολειπόταν των ποσοστώσεων κατά 9 εκατ. βαρέλια ημερησίως.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; OPEC+ meets today for the first time since the UAE abruptly exited the bloc. Saudi Arabia, Russia and five other producers are expected to raise quotas by 188,000 barrels per day, but the increase is unlikely to translate into actual extra output because of Iran's blockade of the Strait of Hormuz. March production fell roughly 9 million bpd short of quota.&lt;/p&gt;&lt;p&gt;Importance: 78 | Category: economy&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:279103817dbc</id>
-    <title>Τραμπ: Επικαλείται την εκεχειρία και παρακάμπτει το Κογκρέσο για τον πόλεμο στο Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564205318/tramp-epikaleitai-tin-ekecheiria-kai-parakamptei-to-kogkreso-gia-ton-polemo-sto-iran/"/>
-    <updated>2026-05-02T07:21:33+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564205891/pos-to-verolino-parermineyse-tin-orgi-toy-tramp/</id>
+    <title>Πώς το Βερολίνο «παρερμήνευσε» την οργή του Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564205891/pos-to-verolino-parermineyse-tin-orgi-toy-tramp/"/>
+    <updated>2026-05-02T23:47:58+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>[EL] Ο Ντόναλντ Τραμπ επικαλείται την εκεχειρία με το Ιράν σε επιστολή προς το Κογκρέσο για να παρακάμψει το όριο των 60 ημερών που απαιτεί έγκριση παράτασης ένοπλης σύγκρουσης. Δηλώνει ότι οι εχθροπραξίες σταμάτησαν στις 7 Απριλίου, ωστόσο προειδοποιεί ότι οι ΗΠΑ δεν εγκαταλείπουν την αντιπαράθεση με την Τεχεράνη.
-
-[EN] Donald Trump invokes the Iran ceasefire in a letter to Congress to bypass the 60-day War Powers Resolution clock that would normally require congressional approval. He claims hostilities ceased on April 7, yet warns the US is not abandoning its confrontation with Tehran.</summary>
+    <summary>An NYT analysis carried by Kathimerini argues Berlin misread Trump's anger after Chancellor Merz criticised the US 'lack of strategy'. The Pentagon now plans to move 5,000 troops out of Germany within a year — an existing review accelerated to placate the president. Defence minister Pistorius called the move 'predictable' and said Europeans must take more responsibility for their own security.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση των New York Times σε αναπαραγωγή της «Κ» για το πώς το Βερολίνο υποτίμησε την οργή του Τραμπ μετά την κριτική του καγκελαρίου Μερτς για «έλλειψη στρατηγικής». Το Πεντάγωνο σχεδιάζει να μετακινήσει 5.000 στρατιώτες από τη Γερμανία τον επόμενο χρόνο, στο πλαίσιο ευρύτερης επανεξέτασης που επιταχύνθηκε για να κατευνάσει τον Αμερικανό πρόεδρο. Ο υπουργός Άμυνας Πιστόριους χαρακτήρισε την κίνηση «προβλέψιμη» και τόνισε ότι οι Ευρωπαίοι πρέπει να αναλάβουν περισσότερη ευθύνη για την ασφάλειά τους.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An NYT analysis carried by Kathimerini argues Berlin misread Trump's anger after Chancellor Merz criticised the US 'lack of strategy'. The Pentagon now plans to move 5,000 troops out of Germany within a year — an existing review accelerated to placate the president. Defence minister Pistorius called the move 'predictable' and said Europeans must take more responsibility for their own security.&lt;/p&gt;&lt;p&gt;Importance: 76 | Category: world&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:c75d4afeee66</id>
-    <title>Πολεμικό Ναυτικό: Στο προσκήνιο οι ιταλικές φρεγάτες</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564203848/polemiko-naytiko-vimata-gia-nees-fregates/"/>
-    <updated>2026-05-02T09:45:00+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary>[EL] Η Αθήνα προχωρά στην προμήθεια τεσσάρων μεταχειρισμένων ιταλικών φρεγατών FREMM κλάσης Carlo Bergamini σε δύο φάσεις, με το κόστος των δύο πρώτων κοντά στα 700 εκατ. ευρώ. Την Τρίτη η Επιτροπή Εξοπλιστικών Προγραμμάτων της Βουλής θα ενημερωθεί και θα εγκρίνει συμβάσεις για την αναβάθμιση των φρεγατών ΜΕΚΟ στα Ναυπηγεία Σκαραμαγκά.
-
-[EN] Athens is moving forward with the purchase of four second-hand Italian FREMM-class (Carlo Bergamini) frigates in two phases, with the cost of the first two close to 700 million euros. The Hellenic Parliament&apos;s armaments committee will be briefed Tuesday and will approve contracts for the upgrade of the Navy&apos;s MEKO frigates at Skaramangas shipyards.</summary>
+    <id>https://www.kathimerini.gr/world/564205771/i-chronia-poy-sygklonise-ton-kolpo/</id>
+    <title>Η χρονιά που συγκλόνισε τον Κόλπο</title>
+    <link href="https://www.kathimerini.gr/world/564205771/i-chronia-poy-sygklonise-ton-kolpo/"/>
+    <updated>2026-05-02T23:24:30+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>An Axios analysis carried by Kathimerini argues that one year after Trump's Gulf tour, the region's vision of a stable post-oil future has taken a heavy hit. The UAE is leaving OPEC and Saudi Arabia is curbing its prestige spending — LIV Golf is the first major casualty — as Iranian attacks on hotels and airports erode the 'Dubai model'. Trillions in promised data-centre investment are now in limbo.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση Axios με αναδημοσίευση στην «Κ»: ένα χρόνο μετά την περιοδεία Τραμπ στον Κόλπο, το όραμα ενός γεωπολιτικά σταθερού μέλλοντος μετά το πετρέλαιο έχει πληγεί σοβαρά. Τα ΗΑΕ αποχωρούν από τον ΟΠΕΚ και η Σαουδική Αραβία περιορίζει τις δαπάνες της — με πρώτο «θύμα» το LIV Golf —, καθώς οι ιρανικές επιθέσεις σε ξενοδοχεία και αεροδρόμια υπονομεύουν το «μοντέλο του Ντουμπάι». Επενδύσεις τρισεκατομμυρίων δολαρίων στα data centers της περιοχής βρίσκονται «στον αέρα».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An Axios analysis carried by Kathimerini argues that one year after Trump's Gulf tour, the region's vision of a stable post-oil future has taken a heavy hit. The UAE is leaving OPEC and Saudi Arabia is curbing its prestige spending — LIV Golf is the first major casualty — as Iranian attacks on hotels and airports erode the 'Dubai model'. Trillions in promised data-centre investment are now in limbo.&lt;/p&gt;&lt;p&gt;Importance: 75 | Category: world&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:59c652d1a2c6</id>
-    <title>Στην Κρήτη περίπου 200 μέλη του στολίσκου για τη Γάζα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564203419/stin-kriti-peripoy-200-meli-toy-stoliskoy-gia-ti-gaza/"/>
-    <updated>2026-05-01T12:42:07+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564205987/livanos-to-israil-exedose-nees-entoles-ekkenosis-periochon-sta-notia/</id>
+    <title>Λίβανος: Το Ισραήλ εξέδωσε νέες εντολές εκκένωσης περιοχών στα νότια</title>
+    <link href="https://www.kathimerini.gr/world/564205987/livanos-to-israil-exedose-nees-entoles-ekkenosis-periochon-sta-notia/"/>
+    <updated>2026-05-03T10:15:12+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Israel's military issued fresh 'urgent' evacuation orders for villages in southern Lebanon, including Nabatieh, telling residents to move at least 1 km away. Israel says it is responding to a Hezbollah breach of the 17 April ceasefire; the areas concerned lie north of the 'yellow line' delimiting Israel's security zone.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο ισραηλινός στρατός εξέδωσε νέες «επείγουσες» εντολές εκκένωσης για χωριά στον νότιο Λίβανο, συμπεριλαμβανομένης της Ναμπατιέχ, καλώντας κατοίκους να απομακρυνθούν τουλάχιστον ένα χιλιόμετρο. Το Ισραήλ επικαλείται παραβίαση της εκεχειρίας με την Χεζμπολάχ που ισχύει από τις 17 Απριλίου. Οι περιοχές που αφορά η εντολή βρίσκονται βόρεια της «κίτρινης γραμμής» της ζώνης ασφαλείας.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israel's military issued fresh 'urgent' evacuation orders for villages in southern Lebanon, including Nabatieh, telling residents to move at least 1 km away. Israel says it is responding to a Hezbollah breach of the 17 April ceasefire; the areas concerned lie north of the 'yellow line' delimiting Israel's security zone.&lt;/p&gt;&lt;p&gt;Importance: 72 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564205954/koyva-o-proedros-ntias-kanel-kataggellei-to-epikindyno-epipedo-ton-apeilon-toy-tramp/</id>
+    <title>Κούβα: Ο πρόεδρος Ντίας-Κανέλ καταγγέλλει το «επικίνδυνο επίπεδο» των απειλών του Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564205954/koyva-o-proedros-ntias-kanel-kataggellei-to-epikindyno-epipedo-ton-apeilon-toy-tramp/"/>
+    <updated>2026-05-03T08:34:40+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Cuban president Miguel Díaz-Canel denounced what he called Donald Trump's 'dangerous and unprecedented' threats of military action against Cuba. Trump said in Florida that a US aircraft carrier could stop in the Caribbean 'on its way back from Iran' and signed an executive order tightening sanctions on Havana. Díaz-Canel called on the international community to take note.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κουβανός πρόεδρος Μιγκέλ Ντίας-Κανέλ καταγγέλλει ότι οι απειλές του Ντόναλντ Τραμπ για στρατιωτική επίθεση κατά της Κούβας έχουν φθάσει σε «επικίνδυνο και άνευ προηγουμένου» επίπεδο. Ο Τραμπ είχε πει στη Φλόριντα ότι αμερικανικό αεροπλανοφόρο θα μπορούσε να σταματήσει στην Καραϊβική «επιστρέφοντας από το Ιράν», ενώ υπέγραψε εκτελεστικό διάταγμα που σκληραίνει τις κυρώσεις στην Αβάνα. Ο Ντίας-Κανέλ κάλεσε τη διεθνή κοινότητα να αντιδράσει.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Cuban president Miguel Díaz-Canel denounced what he called Donald Trump's 'dangerous and unprecedented' threats of military action against Cuba. Trump said in Florida that a US aircraft carrier could stop in the Caribbean 'on its way back from Iran' and signed an executive order tightening sanctions on Havana. Díaz-Canel called on the international community to take note.&lt;/p&gt;&lt;p&gt;Importance: 72 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564206074/iran-oi-arches-theloyn-na-metatrepsoyn-vomvardismeno-panepistimio-se-moyseio-polemoy/</id>
+    <title>Ιράν: Οι αρχές θέλουν να μετατρέψουν βομβαρδισμένο πανεπιστήμιο σε μουσείο πολέμου</title>
+    <link href="https://www.kathimerini.gr/world/564206074/iran-oi-arches-theloyn-na-metatrepsoyn-vomvardismeno-panepistimio-se-moyseio-polemoy/"/>
+    <updated>2026-05-03T12:24:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Iran plans to turn the bombed Isfahan University of Technology into a 'war museum' documenting the US-Israeli strikes that began in February, with damages estimated at €9.5 million. Authorities say more than 30 universities have been hit. At the same time, a man convicted in connection with last winter's protests was executed on Sunday.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι ιρανικές αρχές ανακοίνωσαν ότι θα μετατρέψουν τον χώρο του βομβαρδισμένου Τεχνολογικού Πανεπιστημίου του Ισφαχάν σε «μουσείο πολέμου» για να αποτυπώσουν τις επιπτώσεις των αμερικανοϊσραηλινών πληγμάτων, με κόστος ζημιών περίπου 9,5 εκατ. ευρώ. Το Ιράν λέει ότι έχουν πληγεί πάνω από 30 πανεπιστήμια από τον Μάρτιο. Παράλληλα, εκτελέστηκε άνδρας που είχε καταδικαστεί για τις διαδηλώσεις του χειμώνα.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Iran plans to turn the bombed Isfahan University of Technology into a 'war museum' documenting the US-Israeli strikes that began in February, with damages estimated at €9.5 million. Authorities say more than 30 universities have been hit. At the same time, a man convicted in connection with last winter's protests was executed on Sunday.&lt;/p&gt;&lt;p&gt;Importance: 70 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564204199/i-epistrofi-toy-plithorismoy/</id>
+    <title>Η επιστροφή του πληθωρισμού</title>
+    <link href="https://www.kathimerini.gr/economy/local/564204199/i-epistrofi-toy-plithorismoy/"/>
+    <updated>2026-05-02T11:27:24+00:00</updated>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary>Nikos Filippidis on the return of inflation: euro-zone CPI rose to 3% in April from 2.6% in March, but Greek inflation jumped to 4.6% from 3.4%, the steepest acceleration after Bulgaria. In war-hit Iran the rate is now 50%. The author argues Greeks 'are paying the prices we can stand'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σχόλιο του Νίκου Φιλιππίδη για την επιστροφή του πληθωρισμού. Στην Ευρωζώνη ο μέσος πληθωρισμός ανέβηκε στο 3% τον Απρίλιο από 2,6% τον Μάρτιο, αλλά στην Ελλάδα εκτινάχθηκε στο 4,6% από 3,4% — η μεγαλύτερη επιτάχυνση μετά τη Βουλγαρία. Στο Ιράν ο πληθωρισμός φτάνει το 50%. Ο αρθρογράφος υποστηρίζει ότι «πληρώνουμε τις τιμές που αντέχουμε».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Nikos Filippidis on the return of inflation: euro-zone CPI rose to 3% in April from 2.6% in March, but Greek inflation jumped to 4.6% from 3.4%, the steepest acceleration after Bulgaria. In war-hit Iran the rate is now 50%. The author argues Greeks 'are paying the prices we can stand'.&lt;/p&gt;&lt;p&gt;Importance: 70 | Category: economy&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564205897/ohe-kampanaki-gia-to-pyriniko-programma-tis-voreias-koreas/</id>
+    <title>OHE: «Καμπανάκι» για το πυρηνικό πρόγραμμα της Βόρειας Κορέας</title>
+    <link href="https://www.kathimerini.gr/world/564205897/ohe-kampanaki-gia-to-pyriniko-programma-tis-voreias-koreas/"/>
+    <updated>2026-05-02T22:59:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>At the UN Security Council, Under-Secretary-General Rosemary DiCarlo warned that North Korea is accelerating its nuclear and missile programmes, including new warhead tests, while satellite imagery shows continued illicit ship-to-ship transfers and 'sanctions evasion'. The US wants tougher enforcement; China and Russia favour easing sanctions, while Greece restated 'deep concern'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο Συμβούλιο Ασφαλείας του ΟΗΕ, η αναπληρώτρια γενική γραμματέας Πολιτικών Υποθέσεων Ρόζμαρι ΝτιΚάρλο προειδοποίησε ότι η Βόρεια Κορέα επιταχύνει την ανάπτυξη πυρηνικών και πυραυλικών δυνατοτήτων, συμπεριλαμβανομένων νέων δοκιμών κεφαλών. Δορυφορικές εικόνες δείχνουν συνεχιζόμενες παράνομες θαλάσσιες μεταφορές και «καταστρατήγηση κυρώσεων». Οι ΗΠΑ ζητούν αυστηρότερη εφαρμογή των κυρώσεων, ενώ Κίνα και Ρωσία τάσσονται υπέρ της χαλάρωσής τους· η Ελλάδα επανέλαβε τη βαθιά της ανησυχία.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; At the UN Security Council, Under-Secretary-General Rosemary DiCarlo warned that North Korea is accelerating its nuclear and missile programmes, including new warhead tests, while satellite imagery shows continued illicit ship-to-ship transfers and 'sanctions evasion'. The US wants tougher enforcement; China and Russia favour easing sanctions, while Greece restated 'deep concern'.&lt;/p&gt;&lt;p&gt;Importance: 68 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/government/564206011/kyr-mitsotakis-etoimo-nomoschedio-prostasias-ton-katanaloton-apo-katachristikes-symperifores-trapezon/</id>
+    <title>Κυρ. Μητσοτάκης: Ετοιμο το νομοσχέδιο προστασίας των καταναλωτών από καταχρηστικές συμπεριφορές τραπεζών</title>
+    <link href="https://www.kathimerini.gr/politics/government/564206011/kyr-mitsotakis-etoimo-nomoschedio-prostasias-ton-katanaloton-apo-katachristikes-symperifores-trapezon/"/>
+    <updated>2026-05-03T11:10:50+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary>[EL] Περίπου 200 ακτιβιστές του Global Sumud Flotilla που μετέφερε ανθρωπιστική βοήθεια στη Γάζα αποβιβάστηκαν στην Κρήτη μετά την αναχαίτιση από ισραηλινές δυνάμεις σε διεθνή ύδατα. Δύο μέλη — ο Σάιφ Αμπού Κεσέκ και ο Τιάγκο Αβίλα — μεταφέρονται στο Ισραήλ για ανάκριση, ενώ οι υπόλοιποι αφέθηκαν ελεύθεροι.
-
-[EN] About 200 activists from the Global Sumud Flotilla bringing humanitarian aid to Gaza disembarked in Crete after being intercepted by Israeli forces in international waters. Two members — Saif Abu Keshek and Thiago Avila — are being transferred to Israel for interrogation, while the rest were released.</summary>
+    <summary>In his weekly Facebook review, PM Kyriakos Mitsotakis announced a Development Ministry bill protecting consumers from abusive bank practices on loans up to €100,000. He also flagged the nationwide rollout of the ntantades.gov.gr childcare platform, the founding of a film school, a tender for 1,000 fixed traffic cameras, and progress in relations with Libya.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στην εβδομαδιαία ανασκόπησή του στο Facebook ο πρωθυπουργός Κυριάκος Μητσοτάκης ανακοίνωσε ότι είναι έτοιμο νομοσχέδιο για την προστασία των καταναλωτών από καταχρηστικές τραπεζικές πρακτικές για δάνεια έως 100.000 ευρώ. Αναφέρθηκε επίσης στην επέκταση της πλατφόρμας ntantades.gov.gr σε όλη την Ελλάδα, στην ίδρυση Επαγγελματικής Σχολής Κινηματογράφου, σε διαγωνισμό για 1.000 σταθερές κάμερες οδικής κυκλοφορίας και στην πρόοδο των ελληνολιβυκών σχέσεων.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; In his weekly Facebook review, PM Kyriakos Mitsotakis announced a Development Ministry bill protecting consumers from abusive bank practices on loans up to €100,000. He also flagged the nationwide rollout of the ntantades.gov.gr childcare platform, the founding of a film school, a tender for 1,000 fixed traffic cameras, and progress in relations with Libya.&lt;/p&gt;&lt;p&gt;Importance: 68 | Category: politics&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:047ad16d2c03</id>
-    <title>Οι σκοτεινές διαδρομές του σάπιου κρέατος – Συμβάσεις και με νοσοκομεία</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564185866/oi-skoteines-diadromes-toy-sapioy-kreatos-symvaseis-kai-me-nosokomeia/"/>
-    <updated>2026-05-02T08:23:38+00:00</updated>
-    <author><name>Σοφία Χρήστου</name></author>
+    <id>https://www.kathimerini.gr/opinion/interviews/564203983/ont-arne-goyestant-stin-k-odeyoyme-pros-mia-geopolitiki-kataigida/</id>
+    <title>Οντ Αρνε Γουέσταντ στην «Κ»: Οδεύουμε προς μια γεωπολιτική καταιγίδα</title>
+    <link href="https://www.kathimerini.gr/opinion/interviews/564203983/ont-arne-goyestant-stin-k-odeyoyme-pros-mia-geopolitiki-kataigida/"/>
+    <updated>2026-05-02T22:20:33+00:00</updated>
+    <author><name>Γιώργος Σκαφιδάς</name></author>
+    <category term="world"/>
+    <summary>An interview with Yale historian Odd Arne Westad, who warns of a coming geopolitical 'storm' that could escalate into another world war. He likens today's converging crises — Ukraine, Iran, rising East-Asian tensions — to the run-up to World War I, and worries that leaders are unable to recognise the moment and 'take a step back'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Συνέντευξη στην «Κ» με τον καθηγητή Ιστορίας στο Γέιλ Οντ Άρνε Γουέσταντ, ο οποίος προειδοποιεί για επερχόμενη γεωπολιτική «καταιγίδα» που θα μπορούσε να οδηγήσει σε νέο παγκόσμιο πόλεμο. Παρομοιάζει τις τρέχουσες εξελίξεις — πολέμους σε Ουκρανία και Ιράν, ένταση στην Ανατολική Ασία — με την περίοδο πριν από τον Α΄ Παγκόσμιο Πόλεμο. Ανησυχεί ότι οι σημερινοί ηγέτες δεν αντιλαμβάνονται τη σοβαρότητα της κρίσης ώστε να κάνουν το «βήμα πίσω».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An interview with Yale historian Odd Arne Westad, who warns of a coming geopolitical 'storm' that could escalate into another world war. He likens today's converging crises — Ukraine, Iran, rising East-Asian tensions — to the run-up to World War I, and worries that leaders are unable to recognise the moment and 'take a step back'.&lt;/p&gt;&lt;p&gt;Importance: 67 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564205981/peirateia-se-petrelaioforo-anoikta-tis-yemenis-odigithike-pros-ti-somalia/</id>
+    <title>Πειρατεία σε πετρελαιοφόρο ανοικτά της Υεμένης – Οδηγήθηκε προς τη Σομαλία</title>
+    <link href="https://www.kathimerini.gr/world/564205981/peirateia-se-petrelaioforo-anoikta-tis-yemenis-odigithike-pros-ti-somalia/"/>
+    <updated>2026-05-03T09:53:32+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>Armed men hijacked the Togo-flagged tanker 'Eureka' off Yemen and are steering it toward Somalia, the Yemeni coastguard said. Maritime security agency JMIC has raised the piracy threat off Somalia to 'significant' — the first such attacks in months. The BBC, citing Somali officials, identifies the attackers as Somali pirates who set out from near Qandala.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πετρελαιοφόρο δεξαμενόπλοιο «Eureka» υπό σημαία Τόγκο εξετράπη από ενόπλους ανοικτά της Υεμένης και οδηγείται προς τη Σομαλία, σύμφωνα με τη υεμενίτικη ακτοφυλακή. Η απειλή πειρατείας στα ανοικτά της Σομαλίας αναβαθμίστηκε σε «σημαντική» από το JMIC, τις πρώτες επιθέσεις πειρατών έπειτα από μήνες. Το BBC αναφέρει ότι πρόκειται για Σομαλούς πειρατές που ξεκίνησαν από την περιοχή της Κάνταλα.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Armed men hijacked the Togo-flagged tanker 'Eureka' off Yemen and are steering it toward Somalia, the Yemeni coastguard said. Maritime security agency JMIC has raised the piracy threat off Somalia to 'significant' — the first such attacks in months. The BBC, citing Somali officials, identifies the attackers as Somali pirates who set out from near Qandala.&lt;/p&gt;&lt;p&gt;Importance: 65 | Category: economy&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564204235/ayxisi-metavivaseon-kata-11-1-to-a-dimino-logo-toy-spiti-moy-ii/</id>
+    <title>Αύξηση μεταβιβάσεων κατά 11,1% το α΄ δίμηνο λόγω του «Σπίτι μου ΙΙ»</title>
+    <link href="https://www.kathimerini.gr/economy/local/564204235/ayxisi-metavivaseon-kata-11-1-to-a-dimino-logo-toy-spiti-moy-ii/"/>
+    <updated>2026-05-02T11:48:55+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary>AADE data show Greek property transfers rose 11.1% year-on-year in January-February 2026, with transfer-tax revenue jumping 32.4% to €96.52 million. The 'Spiti Mou II' subsidised-loan scheme is fuelling demand for older homes, and foreign investor interest is reviving. Inheritance-tax revenue, by contrast, fell 5.2%.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με στοιχεία της ΑΑΔΕ, οι μεταβιβάσεις ακινήτων αυξήθηκαν κατά 11,1% το α΄ δίμηνο του 2026, με τα δημόσια έσοδα από τον ΦΜΑ να ενισχύονται κατά 32,4% (96,52 εκατ. ευρώ). Η αύξηση αποδίδεται στο πρόγραμμα «Σπίτι μου ΙΙ» που τροφοδοτεί τη ζήτηση παλαιών κατοικιών, ενώ ζωηρεύει και το ξένο επενδυτικό ενδιαφέρον. Μειωμένα εμφανίζονται τα έσοδα από φόρους κληρονομιών (-5,2%).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; AADE data show Greek property transfers rose 11.1% year-on-year in January-February 2026, with transfer-tax revenue jumping 32.4% to €96.52 million. The 'Spiti Mou II' subsidised-loan scheme is fuelling demand for older homes, and foreign investor interest is reviving. Inheritance-tax revenue, by contrast, fell 5.2%.&lt;/p&gt;&lt;p&gt;Importance: 62 | Category: economy&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/culture/564205924/ipa-epistrofi-klemmenon-politistikon-agathon-stin-ellada-anakoinosan-oi-amerikanikes-arches/</id>
+    <title>ΗΠΑ: Επιστροφή κλεμμένων πολιτιστικών αγαθών στην Ελλάδα ανακοίνωσαν οι αμερικανικές αρχές</title>
+    <link href="https://www.kathimerini.gr/culture/564205924/ipa-epistrofi-klemmenon-politistikon-agathon-stin-ellada-anakoinosan-oi-amerikanikes-arches/"/>
+    <updated>2026-05-03T07:56:33+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary>US Homeland Security Investigations (ICE-HSI) repatriated 26 looted antiquities to Greece — 25 ancient Greek, Roman and Byzantine coins and a 500-pound marble torso of Asclepius. The 23 April handover at the Greek Embassy in Washington brings the total returned since 2007 to over 200 cultural items.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η αμερικανική υπηρεσία ICE-HSI επαναπάτρισε στην Ελλάδα 26 αρχαία αντικείμενα — 25 νομίσματα από την αρχαία ελληνική, ρωμαϊκή και βυζαντινή περίοδο και έναν μαρμάρινο κορμό του Ασκληπιού 500 λιβρών. Από το 2007, η HSI έχει επαναπατρίσει στην Ελλάδα πάνω από 200 αντικείμενα πολιτιστικής κληρονομιάς. Η τελετή πραγματοποιήθηκε στις 23 Απριλίου στην ελληνική πρεσβεία στην Ουάσιγκτον.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; US Homeland Security Investigations (ICE-HSI) repatriated 26 looted antiquities to Greece — 25 ancient Greek, Roman and Byzantine coins and a 500-pound marble torso of Asclepius. The 23 April handover at the Greek Embassy in Washington brings the total returned since 2007 to over 200 cultural items.&lt;/p&gt;&lt;p&gt;Importance: 60 | Category: politics&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/opinion/564204022/na-syzitame-gia-pyrinika-ergostasia-stin-ellada/</id>
+    <title>Να συζητάμε για πυρηνικά εργοστάσια στην Ελλάδα;</title>
+    <link href="https://www.kathimerini.gr/opinion/564204022/na-syzitame-gia-pyrinika-ergostasia-stin-ellada/"/>
+    <updated>2026-05-02T20:06:00+00:00</updated>
+    <author><name>Θοδωρής Γεωργακόπουλος</name></author>
+    <category term="opinion"/>
+    <summary>Thodoris Georgakopoulos discusses the PM's repeated calls to study nuclear power. While welcoming the public debate, he predicts Greece will never build a reactor: only 31 countries have one, and three out of four new projects miss schedule and budget — Finland's reactor began construction in 2005 and only went online in 2023.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Άρθρο του Θοδωρή Γεωργακόπουλου σχετικά με τις επανειλημμένες αναφορές του πρωθυπουργού στην ανάγκη διερεύνησης πυρηνικής ενέργειας. Παρότι θεωρεί τη δημόσια συζήτηση γόνιμη, εκτιμά ότι η Ελλάδα δεν θα χτίσει ποτέ πυρηνικό εργοστάσιο: μόλις 31 χώρες παγκοσμίως διαθέτουν, ενώ τα 3 στα 4 νέα έργα ξεπερνούν χρονοδιάγραμμα και προϋπολογισμό. Φέρνει ως παράδειγμα τον φινλανδικό αντιδραστήρα που ξεκίνησε το 2005 και λειτούργησε το 2023.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Thodoris Georgakopoulos discusses the PM's repeated calls to study nuclear power. While welcoming the public debate, he predicts Greece will never build a reactor: only 31 countries have one, and three out of four new projects miss schedule and budget — Finland's reactor began construction in 2005 and only went online in 2023.&lt;/p&gt;&lt;p&gt;Importance: 56 | Category: opinion&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564205993/techniti-noimosyni-mikros-o-antiktypos-tis-stin-agora-ergasias/</id>
+    <title>Τεχνητή νοημοσύνη: Μικρός ο αντίκτυπός της στην αγορά εργασίας</title>
+    <link href="https://www.kathimerini.gr/world/564205993/techniti-noimosyni-mikros-o-antiktypos-tis-stin-agora-ergasias/"/>
+    <updated>2026-05-03T10:26:17+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>European and US studies indicate that fears of mass job losses due to AI have not been borne out. A CEPR survey of 12,000 European firms shows AI raised productivity by 4% on average; the World Economic Forum projects 69 million new AI-related jobs by 2028, and McKinsey estimates AI could add up to $13 trillion to global GDP by 2030.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ευρωπαϊκές και αμερικανικές μελέτες δείχνουν ότι ο φόβος για μαζικές απώλειες θέσεων εργασίας λόγω της τεχνητής νοημοσύνης δεν έχει επιβεβαιωθεί. Έρευνα του CEPR σε 12.000 ευρωπαϊκές επιχειρήσεις δείχνει αύξηση παραγωγικότητας κατά 4%, ενώ το Παγκόσμιο Οικονομικό Φόρουμ προβλέπει 69 εκατ. νέες θέσεις έως το 2028. Η McKinsey εκτιμά συνεισφορά της AI έως 13 τρισ. δολαρίων στην παγκόσμια οικονομία έως το 2030.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; European and US studies indicate that fears of mass job losses due to AI have not been borne out. A CEPR survey of 12,000 European firms shows AI raised productivity by 4% on average; the World Economic Forum projects 69 million new AI-related jobs by 2028, and McKinsey estimates AI could add up to $13 trillion to global GDP by 2030.&lt;/p&gt;&lt;p&gt;Importance: 55 | Category: world&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564205741/limeniko-entopismos-131-metanaston-kai-syllipsi-3-diakiniton-se-ena-24oro/</id>
+    <title>Λιμενικό: Εντοπισμός 131 μεταναστών και σύλληψη 3 διακινητών σε ένα 24ωρο</title>
+    <link href="https://www.kathimerini.gr/society/564205741/limeniko-entopismos-131-metanaston-kai-syllipsi-3-diakiniton-se-ena-24oro/"/>
+    <updated>2026-05-02T18:43:59+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary>[EL] Έρευνα της «Κ» για την κατάσχεση 2,5 τόνων ακατάλληλου κρέατος που προοριζόταν για δομές του ΕΣΥ. Στις 2 Μαρτίου, κτηνίατροι της Περιφέρειας Αττικής εντόπισαν παραβάσεις σε επιχείρηση στον Πειραιά με ανακληθείσα άδεια από το 2021-2022. Η υπόθεση αναδεικνύει εταιρείες-φαντάσματα και κινδύνους για τη δημόσια υγεία.
-
-[EN] Kathimerini investigation into the seizure of 2.5 tons of unsafe meat destined for National Health System facilities. On March 2, Attica Region veterinarians uncovered violations at a Piraeus business whose veterinary licenses had been revoked in 2021-2022. The case exposes shell companies and public health risks.</summary>
+    <summary>In a 24-hour period, the Greek Coast Guard located 131 migrants and arrested three smugglers across operations in Samos, Rethymno and Ierapetra. Migrants on Samos said they had paid up to €5,000; arrivals in Rethymno had crossed from Libya for €1,500-€3,000; another 43 people landed off Ierapetra and were taken to reception facilities.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σε ένα 24ωρο, το Λιμενικό εντόπισε 131 μετανάστες και συνέλαβε τρεις διακινητές σε επιχειρήσεις στη Σάμο, το Ρέθυμνο και την Ιεράπετρα. Στη Σάμο 14 αλλοδαποί δήλωσαν ότι κατέβαλαν έως 5.000 ευρώ. Στο Ρέθυμνο εντοπίστηκαν διασώσεις από Λιβύη με αντίτιμο 1.500-3.000 ευρώ· στην Ιεράπετρα 43 αλλοδαποί μεταφέρθηκαν σε χώρο φιλοξενίας.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; In a 24-hour period, the Greek Coast Guard located 131 migrants and arrested three smugglers across operations in Samos, Rethymno and Ierapetra. Migrants on Samos said they had paid up to €5,000; arrivals in Rethymno had crossed from Libya for €1,500-€3,000; another 43 people landed off Ierapetra and were taken to reception facilities.&lt;/p&gt;&lt;p&gt;Importance: 55 | Category: society&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:cfa401a99b25</id>
-    <title>Βερολίνο για απόσυρση αμερικανικών στρατευμάτων: «Αναμενόμενη απόφαση – Να γίνουμε περισσότερο Ευρωπαίοι»</title>
-    <link href="https://www.kathimerini.gr/world/564205447/verolino-gia-aposyrsi-amerikanikon-strateymaton-anamenomeni-apofasi-na-ginoyme-perissotero-eyropaioi/"/>
-    <updated>2026-05-02T11:03:42+00:00</updated>
+    <id>https://www.kathimerini.gr/opinion/564204007/esokommatikes-anataraxeis-sta-richa-tis-n-d/</id>
+    <title>Εσωκομματικές αναταράξεις στα ρηχά της Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/opinion/564204007/esokommatikes-anataraxeis-sta-richa-tis-n-d/"/>
+    <updated>2026-05-02T20:04:00+00:00</updated>
+    <author><name>Παναγιώτης Λάμψιας</name></author>
+    <category term="opinion"/>
+    <summary>Panagiotis Lampsias examines the letter from five New Democracy MPs that ruffled the party just before its congress. Over Mitsotakis's decade as leader, only the Samaras expulsion and Karamanlis's quiet exit count as serious internal crises. Disagreement, he writes, is a sign of political health; unity is built by managing differences, not silencing them.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σχόλιο του Παναγιώτη Λάμψια για την επιστολή πέντε βουλευτών της Ν.Δ. που προκάλεσε αναταραχή λίγο πριν το συνέδριο του κόμματος. Ο αρθρογράφος επισημαίνει ότι σε δέκα χρόνια του Μητσοτάκη στην ηγεσία, η μόνη σημαντική κρίση ήταν η διαγραφή Σαμαρά και η αποχώρηση Καραμανλή. Υποστηρίζει ότι η διαφωνία είναι ένδειξη πολιτικής υγείας και ότι η ενότητα οικοδομείται με διαχείριση των διαφορών, όχι με αποσιώπηση.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Panagiotis Lampsias examines the letter from five New Democracy MPs that ruffled the party just before its congress. Over Mitsotakis's decade as leader, only the Samaras expulsion and Karamanlis's quiet exit count as serious internal crises. Disagreement, he writes, is a sign of political health; unity is built by managing differences, not silencing them.&lt;/p&gt;&lt;p&gt;Importance: 52 | Category: opinion&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/ekpaideysi/564205948/stis-arches-ioynioy-i-teliki-egkrisi-ton-iv-dimosion-scholeion/</id>
+    <title>Στις αρχές Ιουνίου, η τελική έγκριση των ΙΒ δημόσιων σχολείων</title>
+    <link href="https://www.kathimerini.gr/society/ekpaideysi/564205948/stis-arches-ioynioy-i-teliki-egkrisi-ton-iv-dimosion-scholeion/"/>
+    <updated>2026-05-03T08:25:12+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>[EL] Ο Γερμανός υπουργός Άμυνας Μπόρις Πιστόριους χαρακτήρισε «αναμενόμενη» την απόφαση των ΗΠΑ για απόσυρση 5.000 στρατιωτών, τονίζοντας ότι «πρέπει να γίνουμε περισσότερο Ευρωπαίοι». Ανέφερε ότι η Γερμανία θα συντονιστεί με την Ομάδα των Πέντε (Βρετανία, Γαλλία, Πολωνία, Ιταλία) για μελλοντικές αποστολές.
-
-[EN] German Defense Minister Boris Pistorius called the US decision to withdraw 5,000 troops &apos;expected&apos;, stressing that &apos;we must become more European&apos;. He said Germany will coordinate with the Group of Five (Britain, France, Poland, Italy) on future missions.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:7dd89901d52f</id>
-    <title>Ο Αλ. Τσίπρας δημοσίευσε μανιφέστο για την «κυβερνώσα αριστερά της νέας εποχής»</title>
-    <link href="https://www.kathimerini.gr/politics/564203617/o-al-tsipras-dimosieyse-manifesto-gia-tin-kyvernosa-aristera-tis-neas-epochis/"/>
-    <updated>2026-05-01T17:58:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary>[EL] Ο Αλέξης Τσίπρας δημοσίευσε μανιφέστο για «τη συμπαράταξη της σοσιαλδημοκρατίας, της ριζοσπαστικής αριστεράς και της πολιτικής οικολογίας», γραμμένο από την ομάδα του Ινστιτούτου «Αλέξης Τσίπρας». Το κείμενο χαρακτηρίζεται «νέα αξιακή αφετηρία» για το επερχόμενο νέο κόμμα.
-
-[EN] Alexis Tsipras released a manifesto on &apos;the alignment of social democracy, the radical left and political ecology,&apos; authored by the team of the Alexis Tsipras Institute. He calls the document a &apos;new value-based starting point&apos; for his upcoming new party.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:9a69dcc4def0</id>
-    <title>Εθνική Τράπεζα: Τα υψηλά κέρδη έφεραν το μέρισμα του 1 δισ. ευρώ</title>
-    <link href="https://www.kathimerini.gr/economy/business/564204277/ta-ypsila-kerdi-tis-ethnikis-eferan-to-merisma-toy-1-dis-eyro/"/>
-    <updated>2026-05-02T08:53:00+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <category term="economy"/>
-    <summary>[EL] Η Εθνική Τράπεζα διανέμει στους μετόχους μέρισμα-ρεκόρ 1 δισ. ευρώ από τα κέρδη του 2025, ανέφερε ο διευθύνων σύμβουλος Παύλος Μυλωνάς. Η συνολική απόδοση φτάνει στο 85%, ενώ εγκρίθηκαν προγράμματα αγοράς ιδίων μετοχών 232 εκατ. και έκτακτο 300 εκατ. Τα κέρδη μετά φόρων ήταν 1,3 δισ. ευρώ.
-
-[EN] National Bank of Greece is distributing a record 1 billion euros in dividends to shareholders from 2025 earnings, CEO Pavlos Mylonas announced. Total shareholder return reaches 85%, while share-buyback programs of 232 million plus an extraordinary 300 million were approved. Post-tax profits were 1.3 billion euros.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:05fbc272629c</id>
-    <title>Επεκτείνεται διεθνώς η τουρκική στρατιωτική παρουσία</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564203953/epekteinetai-diethnos-i-toyrkiki-stratiotiki-paroysia/"/>
-    <updated>2026-05-02T07:10:00+03:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="world"/>
-    <summary>[EL] Η Τουρκία έχει αναπτύξει περίπου 70.000 στρατιώτες σε δώδεκα περιοχές εκτός των συνόρων της — το 13% των ενεργών στρατευμάτων της — ενισχύοντας τη γεωπολιτική της παρουσία. Το μεγαλύτερο μερίδιο αφορά τις δυνάμεις στην κατεχόμενη Κύπρο, ενώ άλλες λειτουργούν ως «επιχειρησιακές βάσεις» σε Συρία και Ιράκ.
-
-[EN] Turkey has deployed some 70,000 troops to twelve regions outside its borders — 13% of its active forces — expanding its geopolitical reach. The largest contingent is in occupied Cyprus, while others operate as &apos;operational bases&apos; in Syria and Iraq for counter-terrorism.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:593dd2f14d8d</id>
-    <title>Υπόθεση ΟΠΕΚΕΠΕ: Τα διλήμματα της Ν.Δ. και τα σενάρια για Προανακριτική</title>
-    <link href="https://www.kathimerini.gr/politics/government/564203833/ypothesi-opekepe-ta-dilimmata-tis-n-d-kai-ta-senaria-gia-proanakritiki/"/>
-    <updated>2026-05-02T06:57:04+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary>[EL] Η κυβέρνηση εξετάζει πώς θα κινηθεί στην πρόταση του ΠΑΣΟΚ για σύσταση Προανακριτικής Επιτροπής για τους πρώην υπουργούς Σπήλιο Λιβανό και Φωτεινή Αραμπατζή για την υπόθεση ΟΠΕΚΕΠΕ. Ο Λιβανός επιθυμεί την απόρριψη της πρότασης, ενώ η ΝΔ ζυγίζει τα διλήμματα μεταξύ πολιτικού κόστους και συγκάλυψης.
-
-[EN] The government weighs how to respond to PASOK&apos;s proposal for a parliamentary investigation committee into former ministers Spilios Livanos and Foteini Arampatzi over the OPEKEPE scandal. Livanos wants the proposal rejected, while New Democracy is balancing political cost against accusations of cover-up.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:358b1d89716f</id>
-    <title>Στο αεροδρόμιο Ηρακλείου τα μέλη του στολίσκου Global Sumud Flotilla</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564203572/sto-aerodromio-irakleioy-ta-meli-toy-stoliskoy-global-sumud-flotilla/"/>
-    <updated>2026-05-01T16:43:33+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary>[EL] Περίπου 175 ακτιβιστές του Global Sumud Flotilla που αναχαιτίστηκε από τον ισραηλινό στρατό αποβιβάστηκαν στον Αθερινόλακκο Λασιθίου και μεταφέρθηκαν στο αεροδρόμιο Ηρακλείου για επαναπατρισμό. Περίπου 30 τραυματίες μεταφέρθηκαν στο Νοσοκομείο Σητείας.
-
-[EN] About 175 activists from the Israeli-intercepted Global Sumud Flotilla disembarked at Atherinolakkos in Lasithi and were transported to Heraklion airport for return to their home countries. Around 30 injured were taken to Siteia Hospital.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:7787b12ead4b</id>
-    <title>«Η αγορά της Αθήνας αποτελεί μια νέα επενδυτική ευκαιρία»</title>
-    <link href="https://www.kathimerini.gr/economy/business/564204310/i-agora-tis-athinas-apotelei-mia-nea-ependytiki-eykairia/"/>
-    <updated>2026-05-02T09:06:00+00:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
-    <category term="economy"/>
-    <summary>[EL] Στελέχη της MSCI χαρακτηρίζουν την επιστροφή του ελληνικού Χρηματιστηρίου στις ανεπτυγμένες αγορές «μοναδική περίπτωση» και νέα επενδυτική ευκαιρία. Με 18 τρισ. δολάρια κεφαλαίων που παρακολουθούν τους δείκτες της, η Ελλάδα είναι η πρώτη και μοναδική ανεπτυγμένη αγορά που ανέκαμψε μετά από υποβάθμιση σε αναδυόμενη.
-
-[EN] MSCI executives describe the Greek stock exchange&apos;s return to developed-market status as a &apos;unique case&apos; and a fresh investment opportunity. With 18 trillion dollars tracking its indices, Greece is the first and only developed market ever to recover from being downgraded to emerging-market status.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:bc1621543302</id>
-    <title>ΝΑΤΟ για ΗΠΑ – Γερμανία: «Η Ευρώπη να επενδύσει περισσότερο στην άμυνα»</title>
-    <link href="https://www.kathimerini.gr/world/564205510/nato-gia-ipa-germania-i-eyropi-na-ependysei-perissotero-stin-amyna/"/>
-    <updated>2026-05-02T12:51:30+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>[EL] Το ΝΑΤΟ συνεργάζεται με τις ΗΠΑ για να κατανοήσει τις λεπτομέρειες της απόφασης για μείωση των αμερικανικών στρατευμάτων στη Γερμανία, δήλωσε η εκπρόσωπος Άλισον Χαρτ. Καλεί την Ευρώπη να «επενδύσει περισσότερο στην άμυνα» — επικαλούμενη τη συμφωνία για 5% του ΑΕΠ στη Σύνοδο της Χάγης πέρυσι.
-
-[EN] NATO is working with the United States to understand the details of the decision to reduce US troops in Germany, spokeswoman Alison Hart said. She urged Europe to &apos;invest more in defense&apos; — citing last year&apos;s Hague Summit agreement to commit 5% of GDP.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:1d2f2e74643e</id>
-    <title>Μπιενάλε: Ο πόλεμος στη λιμνοθάλασσα της Βενετίας</title>
-    <link href="https://www.kathimerini.gr/culture/arts/564204052/mpienale-o-polemos-sti-limnothalassa-tis-venetias/"/>
-    <updated>2026-05-02T07:34:00+00:00</updated>
-    <author><name>Μάρω Βασιλειάδου</name></author>
-    <category term="culture"/>
-    <summary>[EL] Σοβαρή κρίση στην Μπιενάλε της Βενετίας επτά ημέρες πριν το άνοιγμα: η διεθνής κριτική επιτροπή παραιτήθηκε, τα επίσημα εγκαίνια της 9ης Μαΐου ακυρώθηκαν και η απονομή των Χρυσών Λεόντων μεταφέρεται στις 22 Νοεμβρίου με ψηφοφορία κοινού. Η επιτροπή είχε δεσμευτεί να μη βραβεύσει εθνικά περίπτερα Ισραήλ και Ρωσίας.
-
-[EN] Major crisis at the Venice Biennale seven days before opening: the international jury resigned, the official May 9 inauguration was canceled, and the Golden Lions awards are postponed to November 22 with public voting. The jury had pledged not to award national pavilions of Israel and Russia, citing ICC accusations.</summary>
-  </entry>
-  <entry>
-    <id>tag:greek-news-aggregator,2026-05-02:892415412b62</id>
-    <title>Η Κίνα καταργεί τους δασμούς στα προϊόντα αφρικανικών χωρών</title>
-    <link href="https://www.kathimerini.gr/economy/international/564204298/i-kina-katargei-toys-dasmoys-sta-proionta-afrikanikon-choron/"/>
-    <updated>2026-05-02T08:45:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>[EL] Η Κίνα κατάργησε τους δασμούς στα προϊόντα σχεδόν όλων των αφρικανικών χωρών (53 χώρες πλέον, εξαιρώντας μόνο το Εσουατίνι λόγω δεσμών με Ταϊβάν), σε αντίθεση με την επιθετική δασμολογική πολιτική Τραμπ. Η κίνηση εντάσσεται στη στρατηγική του Πεκίνου να εμφανίζεται ως αξιόπιστος εμπορικός εταίρος.
-
-[EN] China abolished tariffs on goods from nearly all African countries (now 53, excluding only Eswatini over its Taiwan ties), in stark contrast to Trump&apos;s aggressive tariff policy. The move is part of Beijing&apos;s strategy to position itself as a reliable trade partner for nations disillusioned with Washington.</summary>
+    <category term="society"/>
+    <summary>Final approval is expected in early June for the 13 Greek public schools applying to run International Baccalaureate (IB) programmes from September 2026-27. Of the 13, seven are 'model', four music-focused, one artistic and one experimental; eight are in Attica. The long-term goal is for every region in Greece to host at least one IB school.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στις αρχές Ιουνίου αναμένεται η τελική έγκριση για τα 13 δημόσια σχολεία που ενδιαφέρονται να λειτουργήσουν πρόγραμμα Διεθνούς Απολυτηρίου (IB) από τον Σεπτέμβριο. Από τα 13, τα επτά είναι Πρότυπα, τέσσερα Μουσικά, ένα Καλλιτεχνικό και ένα Πειραματικό· τα οκτώ βρίσκονται στην Αττική. Στόχος είναι μακροπρόθεσμα κάθε νομός της Ελλάδας να διαθέτει σχολείο IB.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Final approval is expected in early June for the 13 Greek public schools applying to run International Baccalaureate (IB) programmes from September 2026-27. Of the 13, seven are 'model', four music-focused, one artistic and one experimental; eight are in Attica. The long-term goal is for every region in Greece to host at least one IB school.&lt;/p&gt;&lt;p&gt;Importance: 50 | Category: society&lt;/p&gt;</content>
   </entry>
 </feed>

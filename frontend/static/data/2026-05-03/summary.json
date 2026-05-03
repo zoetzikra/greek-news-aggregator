@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T20:49:26.098220+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 41 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημερήσια ροή ειδήσεων κυριαρχείται από τον απόηχο του πολέμου Ιράν–ΗΠΑ–Ισραήλ: ο Ντόναλντ Τραμπ ανακοινώνει ότι θα μελετήσει νέο σχέδιο της Τεχεράνης αλλά υπονοεί ότι θα το απορρίψει, το Ισραήλ εκδίδει νέες εντολές εκκένωσης στον νότιο Λίβανο, και οι ιρανικές αρχές μετατρέπουν βομβαρδισμένο πανεπιστήμιο σε «μουσείο πολέμου». Παράλληλα, η ευρύτερη γεωπολιτική αναταραχή πλήττει το όραμα ενός σταθερού Κόλπου: τα ΗΑΕ αποχωρούν από τον ΟΠΕΚ+, που συνεδριάζει σήμερα.\n\nΣτο εσωτερικό, σκάνδαλο επανέρχεται στο προσκήνιο με αποκάλυψη του in.gr ότι ο εισαγγελέας του Αρείου Πάγου είχε υπογράψει παρακολουθήσεις 11 προσώπων — μεταξύ των οποίων ο αντιπρόεδρος Χατζηδάκης — που ήταν επίσης στόχοι του Predator. Το ΠΑΣΟΚ καταγγέλλει ότι «ο ελεγχόμενος γίνεται ελεγκτής». Ο πρωθυπουργός παρουσιάζει νομοσχέδιο για τους καταναλωτές δανείων και επεκτείνει την πλατφόρμα ntantades.gov.gr σε όλη τη χώρα, ενώ οι ΗΠΑ επιστρέφουν 26 αρχαία αντικείμενα στην Ελλάδα.\n\nΗ οικονομία βρίσκεται υπό πίεση: ο ελληνικός πληθωρισμός εκτινάχθηκε στο 4,6% τον Απρίλιο, η μεγαλύτερη επιτάχυνση στην ΕΕ μετά τη Βουλγαρία, αλλά οι μεταβιβάσεις ακινήτων ανέβηκαν 11,1% με ώθηση από το «Σπίτι μου ΙΙ». Η τεχνητή νοημοσύνη αυξάνει την παραγωγικότητα κατά 4% σε ευρωπαϊκές μελέτες χωρίς μαζικές απώλειες θέσεων εργασίας, ωστόσο μόνο το 5% των στελεχών δηλώνει ότι τη διαχειρίζεται αποτελεσματικά.\n\nΣε επίπεδο κοινωνίας, σειρά περιστατικών αναζωπυρώνουν τη συζήτηση για την παραβατικότητα ανηλίκων — αστυνομική σκούπα στον Λαγκαδά, συμπλοκή στο Περιστέρι, έκρηξη στην Καστοριά, ανανεωμένος έλεγχος για τα ηλεκτρικά πατίνια. Στον πολιτισμό, το «Ferto» του Akyla φτάνει στη δεύτερη θέση των στοιχημάτων της Eurovision λίγο πριν τη Βιέννη, ενώ τιμάται ο Αλέκος Παναγούλης πενήντα χρόνια από τον θάνατό του.",
+    "en": "The day's news cycle is dominated by the Iran-US-Israel war and its aftershocks: Donald Trump says he will 'study' a new Iranian peace plan while signalling he will reject it, Israel issues fresh evacuation orders in southern Lebanon, and Iranian authorities plan to turn a bombed Isfahan university into a 'war museum'. The broader Gulf turmoil — the UAE's exit from OPEC+, Saudi belt-tightening — is unsettling the region's post-oil playbook just as OPEC+ holds its first post-UAE meeting.\n\nOn the domestic front, the Greek wiretaps scandal is back in focus after a leak revealed that the supreme-court prosecutor had personally signed off on the surveillance of 11 people — including Deputy PM Hatzidakis — who were also Predator targets. PASOK accuses the government of letting 'the audited become the auditor'. PM Mitsotakis used his weekly review to flag a bill protecting borrowers from abusive bank practices and the nationwide expansion of the ntantades.gov.gr childcare platform; the US returned 26 looted antiquities to Greece.\n\nThe economy is under pressure: Greek inflation jumped to 4.6% in April, the EU's steepest acceleration after Bulgaria, while property transfers rose 11.1% on the back of the 'Spiti Mou II' scheme. AI is lifting European productivity by an average 4% without the feared mass job losses, but only 5% of executives say they manage it effectively.\n\nAt a societal level, a string of incidents has reignited the debate on juvenile delinquency and public safety: a police sweep over 80 minors in Langadas, a youth brawl in Peristeri, a home explosion injuring a 15-year-old in Kastoria, and renewed scrutiny of e-scooter rules following the death of a 13-year-old. In culture, Akyla's Greek Eurovision entry 'Ferto' has climbed to second in international betting odds ahead of Vienna, while a new tribute marks fifty years since the death of anti-junta hero Alekos Panagoulis."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πόλεμος Ιράν–ΗΠΑ–Ισραήλ και απόηχοι",
+        "en": "Iran-US-Israel war and its aftershocks"
+      },
+      "description": {
+        "el": "Ο πόλεμος που ξεκίνησε τον Φεβρουάριο συνεχίζει να διαμορφώνει την παγκόσμια ειδησεογραφία: εντολές εκκένωσης Ισραήλ στον Λίβανο, νέο σχέδιο Ιράν προς ΗΠΑ που ο Τραμπ απορρίπτει, μετατροπή βομβαρδισμένου ιρανικού πανεπιστημίου σε «μουσείο πολέμου», αύξηση πληθωρισμού και ανατροπή των γεωπολιτικών σχεδίων στον Κόλπο.",
+        "en": "The war that began in February continues to drive the day's news: Israeli evacuation orders in Lebanon, a fresh Iranian peace plan that Trump signals he will reject, Iran's plan to turn a bombed university into a 'war museum', accelerating inflation, and a Gulf region whose post-oil playbook is unravelling."
+      },
+      "related_items": [
+        "a9a008808d4c",
+        "e314081f356b",
+        "c8a42fc6e199",
+        "384329872db6",
+        "9de7d9973213",
+        "d3634098de37"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Εσωτερική πολιτική: παρακολουθήσεις και νομοθετική ατζέντα",
+        "en": "Domestic politics: wiretaps and legislative agenda"
+      },
+      "description": {
+        "el": "Στην Ελλάδα, το ΠΑΣΟΚ επιτίθεται στην κυβέρνηση μετά την αποκάλυψη ότι ο εισαγγελέας του Αρείου Πάγου είχε υπογράψει παρακολουθήσεις 11 προσώπων που ήταν επίσης στόχοι του Predator, ενώ ο Μητσοτάκης ανακοινώνει νομοσχέδιο προστασίας καταναλωτών από τραπεζικές καταχρήσεις και επιστροφή 26 αρχαιοτήτων από τις ΗΠΑ.",
+        "en": "In Greece, PASOK is hammering the government over revelations that the supreme-court prosecutor signed off on EYP surveillance of 11 people who were also Predator targets, while PM Mitsotakis touts a bill protecting borrowers from abusive bank practices and the US return of 26 looted antiquities."
+      },
+      "related_items": [
+        "f1fdb3e58109",
+        "3b66ec500ec4",
+        "66d1d9b10df1",
+        "88e7871903ed"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Πληθωρισμός, ΟΠΕΚ+ και η ελληνική αγορά",
+        "en": "Inflation, OPEC+ and the Greek market"
+      },
+      "description": {
+        "el": "Ο πληθωρισμός στην Ελλάδα εκτινάχθηκε στο 4,6% τον Απρίλιο — η μεγαλύτερη επιτάχυνση στην ΕΕ μετά τη Βουλγαρία —, οι μεταβιβάσεις ακινήτων αυξήθηκαν 11,1% λόγω «Σπίτι μου ΙΙ», και ο ΟΠΕΚ+ συνεδριάζει για πρώτη φορά μετά την αποχώρηση των ΗΑΕ. Η AI αλλάζει την παραγωγικότητα αλλά οι επιχειρήσεις δυσκολεύονται να τη διαχειριστούν.",
+        "en": "Greek inflation surged to 4.6% in April — the steepest jump in the EU after Bulgaria — while property transfers rose 11.1% on the back of the 'Spiti Mou II' scheme, and OPEC+ holds its first meeting since the UAE's exit. AI is lifting productivity, but companies are struggling to redesign work around it."
+      },
+      "related_items": [
+        "d3634098de37",
+        "77dd9229fbc5",
+        "7ef67671643c",
+        "d82ed61f17f3",
+        "b715526cd741"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Παραβατικότητα ανηλίκων και ασφάλεια",
+        "en": "Juvenile delinquency and public safety"
+      },
+      "description": {
+        "el": "Σειρά περιστατικών αναζωπυρώνουν τη συζήτηση: αστυνομική σκούπα στον Λαγκαδά Θεσσαλονίκης σε 80 ανηλίκους, συμπλοκή 10 νεαρών στο Περιστέρι, έκρηξη με τραυματισμό 15χρονου στην Καστοριά και σχόλια ειδικών για τη χρήση ηλεκτρικών πατινιών μετά τον θάνατο 13χρονου στα Μακρίσια.",
+        "en": "A cluster of incidents has reopened the debate on youth and public safety: a police sweep checking 80 minors in Langadas, a brawl among ten youths in Peristeri, a 15-year-old injured in a Kastoria home explosion, and renewed scrutiny of e-scooter rules after the death of a 13-year-old in Makrysia."
+      },
+      "related_items": [
+        "975bf86d6f3d",
+        "209a36aa1788",
+        "2af37adcd95a",
+        "916cb5549e10"
+      ],
+      "importance": 60
+    }
+  ],
+  "article_count": 41,
+  "categories": {
+    "politics": 3,
+    "economy": 5,
+    "society": 11,
+    "world": 11,
+    "opinion": 7,
+    "culture": 4
+  }
+}
