@@ -1,188 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top 20 (2026-05-06)</title>
+  <title>Greek News Aggregator — Top 20 (2026-05-07)</title>
   <link href="https://github.com/zoetzikra/greek-news-aggregator"/>
-  <updated>2026-05-06T10:16:15.958234+00:00</updated>
-  <id>urn:greek-news-aggregator:2026-05-06</id>
+  <updated>2026-05-07T10:20:38.453045+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-05-07</id>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Axios: ΗΠΑ και Ιράν κοντά σε συμφωνία «μιας σελίδας» για τον τερματισμό του πολέμου</title>
-    <link href="https://www.kathimerini.gr/world/564210907/axios-ipa-kai-iran-konta-se-proschedio-symfonias-gia-ton-termatismo-toy-polemoy/"/>
-    <id>urn:kathimerini:b8455165f3cb</id>
-    <updated>2026-05-06T12:14:30+00:00</updated>
+    <title>Κ.Ο. Νέας Δημοκρατίας: Η πρόταση Μητσοτάκη για τη συνταγματική αναθεώρηση – Αλλαγές σε 30 άρθρα</title>
+    <link href="https://www.kathimerini.gr/politics/564213289/k-o-neas-dimokratias-i-protasi-mitsotaki-gia-ti-syntagmatiki-anatheorisi-allages-se-30-arthra/"/>
+    <id>urn:kathimerini:5992d1efc0f3</id>
+    <updated>2026-05-07T11:35:42+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>According to Axios, the US and Iran are close to a 'one-page' agreement to end the war and frame nuclear-program negotiations. Washington expects Tehran's response within 48 hours.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Aντριους Κουμπίλιους στην «Κ»: Να «οπλίσουμε» τη ρήτρα για την κοινή άμυνα</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564204559/antrioys-koympilioys-stin-k-na-oplisoyme-ti-ritra-gia-tin-koini-amyna/"/>
-    <id>urn:kathimerini:f85500d5edbb</id>
-    <updated>2026-05-05T21:05:51+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <summary>EU Defence and Space Commissioner Andrius Kubilius tells Kathimerini that Article 42.7 of the EU Treaty — Europe's mutual defence clause — must become operational with clear activation procedures. He warns Europe must prepare for the US defence industry pivoting to refilling its own stockpiles.</summary>
+    <summary>ND's parliamentary group debates PM Mitsotakis's proposal to revise 30 constitutional articles, covering AI, Greek language protection, raising mandatory schooling to 11 years and allowing non-state universities.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Συνάντηση των ΥΠΕΞ Ιράν – Κίνας πριν από την επίσκεψη Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564210823/synantisi-ton-ypex-iran-kinas-prin-apo-tin-episkepsi-tramp/"/>
-    <id>urn:kathimerini:db21cd7e77a9</id>
-    <updated>2026-05-06T11:38:11+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Iran's Foreign Minister Abbas Araghchi met Chinese counterpart Wang Yi in Beijing, days before Trump's planned visit to China. It is Araghchi's first visit since the war began.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης σε πρόεδρο ΗΑΕ: Καταδίκη για τις επιθέσεις του Ιράν – Ανάγκη διπλωματικής λύσης</title>
-    <link href="https://www.kathimerini.gr/politics/564209806/mitsotakis-se-proedro-iae-katadiki-gia-tis-epitheseis-toy-iran-anagki-diplomatikis-lysis/"/>
-    <id>urn:kathimerini:46a3ae868984</id>
-    <updated>2026-05-05T22:59:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>PM Kyriakos Mitsotakis met UAE President Mohammed bin Zayed in Abu Dhabi, condemning Iran's attacks on the UAE and underscoring the need for a diplomatic solution. They discussed bilateral ties, war fallout and Arab-European cooperation prospects.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Πόλεμος με φόντο την Προανακριτική για τον ΟΠΕΚΕΠΕ</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564209917/polemos-me-fonto-tin-proanakritiki-gia-ton-opekepe/"/>
-    <id>urn:kathimerini:46a3c6274a27</id>
-    <updated>2026-05-06T07:14:56+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <summary>Government and opposition are clashing over Maximos Mansion's twin refusals to refer Spilios Livanos and Fotini Arampatzi to the parliamentary investigation committee on the OPEKEPE case under EU Prosecutor scrutiny. The opposition wants to keep the issue alive through the summer.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Αυξήσεις έως 25% στα οικοδομικά υλικά λόγω του πολέμου στο Ιράν</title>
-    <link href="https://www.kathimerini.gr/economy/564210364/ayxiseis-eos-25-sta-oikodomika-ylika-logo-toy-polemoy-sto-iran/"/>
-    <id>urn:kathimerini:65deed409ea8</id>
-    <updated>2026-05-06T09:25:16+00:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <summary>Construction materials are seeing increases of up to 25% due to the Iran war and a fuel price spike. Suppliers offer contractors price quotes valid for only 24-48 hours, with reports of opportunistic price-gouging.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Οι αεροπορικές κόβουν 2 εκατ. θέσεις τον Μάιο</title>
-    <link href="https://www.kathimerini.gr/economy/564210376/oi-aeroporikes-kovoyn-2-ekat-theseis-ton-maio/"/>
-    <id>urn:kathimerini:ab4470cbad17</id>
-    <updated>2026-05-06T09:34:51+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Middle East energy crisis is driving airlines into mass capacity cuts. According to the Financial Times, carriers have stripped 2 million seats from May schedules and cancelled thousands of flights.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Η Ισπανία ζήτησε από την Ε.Ε. να μπλοκάρει τις κυρώσεις των ΗΠΑ κατά του ΔΠΔ</title>
-    <link href="https://www.kathimerini.gr/world/564210760/i-ispania-zitise-apo-tin-e-e-na-mplokarei-tis-kyroseis-ton-ipa-kata-toy-diethnoys-poinikoy-dikastirioy/"/>
-    <id>urn:kathimerini:4074d2f12e08</id>
-    <updated>2026-05-06T10:48:57+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Spain has asked the European Commission to invoke the EU 'blocking statute' to prevent compliance with US sanctions on the International Criminal Court, which is investigating Israeli actions in Gaza.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Ισχυροί δεσμοί με τα ΗΑΕ – Σήμερα ο πρωθυπουργός στο Αμμάν</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564209935/ischyroi-desmoi-me-ta-iae-simera-o-prothypoyrgos-sto-amman/"/>
-    <id>urn:kathimerini:3649ef3058ac</id>
-    <updated>2026-05-06T07:22:55+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <summary>After Abu Dhabi, PM Mitsotakis travels to Amman for the fifth Greece-Cyprus-Jordan trilateral summit. Athens is strategically deepening ties with Gulf states against the backdrop of the Middle East crisis.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Αρθρο Μάκη Βορίδη στην «Κ»:  Περί υποκλοπών και ανεξάρτητης Δικαιοσύνης</title>
-    <link href="https://www.kathimerini.gr/politics/564204532/arthro-maki-voridi-stin-k-peri-ypoklopon-kai-anexartitis-dikaiosynis/"/>
-    <id>urn:kathimerini:6c9ff397e8d3</id>
-    <updated>2026-05-05T20:45:42+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Makis Voridis writes in Kathimerini defending the supreme-court prosecutor's decision not to reopen the wiretaps case file. He attacks critics who imply government interference and invokes judicial independence.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Μήνυμα Ερντογάν προς την Ε.Ε. για τη σημασία της Τουρκίας</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564209932/minyma-erntogan-pros-tin-e-e-gia-ti-simasia-tis-toyrkias/"/>
-    <id>urn:kathimerini:6ba5c4791e85</id>
-    <updated>2026-05-06T07:33:06+00:00</updated>
+    <title>Διηπειρωτικός πύραυλος από την Τουρκία</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564212509/diipeirotikos-pyraylos-apo-tin-toyrkia/"/>
+    <id>urn:kathimerini:dbcd58495597</id>
+    <updated>2026-05-07T09:41:00+00:00</updated>
     <author><name>Μανώλης Κωστίδης</name></author>
-    <summary>Turkish President Recep Tayyip Erdogan declared that 'Europe's need for Turkey is greater than Turkey's need for Europe', urging Brussels into closer ties with Ankara.</summary>
+    <summary>Turkey unexpectedly unveiled its first intercontinental ballistic missile 'Yildirimhan' with 6,000-km range, against the backdrop of Greek-French-Israeli defense cooperation. No test launches yet.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Σε επαγρύπνηση η ΤτΕ για τα «κόκκινα» δάνεια</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564210337/se-epagrypnisi-i-tte-gia-ta-kokkina-daneia/"/>
-    <id>urn:kathimerini:e7411c3ec260</id>
-    <updated>2026-05-06T11:25:00+03:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <summary>Banks generated €2.2bn in new non-performing loans in 2025, while only €800m were cured. The Bank of Greece's Financial Stability Report calls for vigilance.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>To καλό και το χειρότερο σενάριο που βλέπει η Wood για την ανάπτυξη στην Ελλάδα</title>
-    <link href="https://www.kathimerini.gr/economy/local/564210307/to-kalo-kai-to-cheirotero-senario-poy-vlepei-i-wood-gia-tin-anaptyxi-stin-ellada/"/>
-    <id>urn:kathimerini:5900df444f04</id>
-    <updated>2026-05-06T09:42:00+00:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
-    <summary>Wood estimates that if the Iran conflict continues into summer, Greek GDP growth will slow to 1.4%, with eurozone stagflation and inflation persistently above 4%.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Ο αντίκτυπος της αποδυνάμωσης του ΟΠΕΚ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564210436/o-antiktypos-tis-apodynamosis-toy-opek/"/>
-    <id>urn:kathimerini:b6b101b2598a</id>
-    <updated>2026-05-06T11:16:00+00:00</updated>
+    <title>Νεκρός διοικητής επίλεκτης δύναμης της Χεζμπολάχ σε ισραηλινό πλήγμα</title>
+    <link href="https://www.kathimerini.gr/world/564213490/nekros-dioikitis-epilektis-dynamis-tis-chezmpolach-se-israilino-pligma/"/>
+    <id>urn:kathimerini:3e5dd8fd0b54</id>
+    <updated>2026-05-07T12:57:24+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Trump's strikes on Venezuela and Iran have weakened OPEC dramatically. While this looks like a White House victory, it may ultimately backfire on both the US and energy markets.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Στροφή «πράσινων» χωρών σε ορυκτά καύσιμα</title>
-    <link href="https://www.kathimerini.gr/world/564210046/strofi-prasinon-choron-se-orykta-kaysima/"/>
-    <id>urn:kathimerini:f53593b36de5</id>
-    <updated>2026-05-06T12:26:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>The Netherlands, Denmark, Germany, the UK, France and Mexico are reconsidering a return to fossil fuels in response to the Iran war's energy crisis, reversing their 'green' policies.</summary>
+    <summary>Israel announced it killed a commander of Hezbollah's elite Radwan force in an airstrike on Beirut, the first Israeli strike on the capital since the ceasefire began. Two other senior Hezbollah figures were also killed.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Συνέδριο Ν.Δ.: Θα απουσιάσει ο Καραμανλής</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564209920/synedrio-n-d-tha-apoysiasei-o-karamanlis/"/>
-    <id>urn:kathimerini:29af33912052</id>
-    <updated>2026-05-06T06:52:44+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <summary>Former PM Kostas Karamanlis is set to skip ND's 16th party congress. Dora Bakoyannis visited him at home to persuade him to attend, without success.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Εξτρα ώθηση της Κίνας στα αιολικά λόγω πολέμου</title>
-    <link href="https://www.kathimerini.gr/economy/international/564210379/extra-othisi-tis-kinas-sta-aiolika-logo-polemoy/"/>
-    <id>urn:kathimerini:d0926a48ff7b</id>
-    <updated>2026-05-06T10:38:24+00:00</updated>
+    <title>Νεκρός ο γιος του ηγέτη της Χαμάς που διαπραγματεύεται με το συμβούλιο Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564213370/nekros-o-gios-toy-igeti-tis-chamas-poy-diapragmateyetai-me-to-symvoylio-tramp/"/>
+    <id>urn:kathimerini:aac82db86726</id>
+    <updated>2026-05-07T12:12:02+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>As the Iran war threatens Gulf oil and gas supplies, China is seizing the opportunity to expand its dominance in wind energy. Last year it installed triple the wind capacity of the rest of the world combined.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Ιράν: Επιθέσεις των Φρουρών της Επανάστασης σε κουρδικές περιοχές</title>
-    <link href="https://www.kathimerini.gr/world/564210679/iran-epithesi-ton-froyron-tis-epanastasis-se-koyrdikes-perioches/"/>
-    <id>urn:kathimerini:18b05efb6d06</id>
-    <updated>2026-05-06T10:04:52+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Iranian Revolutionary Guards struck positions of Iranian Kurdish dissidents inside Iraqi territory north of Erbil with drones. Per Reuters, the target was the Surdash camp.</summary>
+    <summary>An Israeli airstrike killed the son of Khalil al-Hayya, chief Hamas negotiator in US-mediated Gaza talks. It is the fourth son of the exiled Hamas leader killed in Israeli strikes.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Eπικοινωνία των ΥΠΕΞ Ιράν – Σαουδικής Αραβίας</title>
-    <link href="https://www.kathimerini.gr/world/564210781/epikoinonia-ton-ypex-iran-saoydikis-aravias/"/>
-    <id>urn:kathimerini:b5519eca0ede</id>
-    <updated>2026-05-06T11:01:21+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Iran's FM Araghchi underlined the importance of diplomacy with Saudi Arabia in a phone call with his Saudi counterpart, aimed at avoiding regional escalation.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Εντός και Εκτός: Δεν έχουμε να χωρίσουμε τίποτα με τον τουρκικό λαό, λέει ο Δένδιας</title>
-    <link href="https://www.kathimerini.gr/politics/564209938/entos-kai-ektos-den-echoyme-na-chorisoyme-tipota-me-ton-toyrkiko-lao-leei-o-dendias/"/>
-    <id>urn:kathimerini:9bf59e7a6b8e</id>
-    <updated>2026-05-06T07:47:00+00:00</updated>
+    <title>Με το βλέμμα στα Στενά</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564212482/me-to-vlemma-sta-stena/"/>
+    <id>urn:kathimerini:1917873a62e7</id>
+    <updated>2026-05-07T06:44:00+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
-    <summary>Commentary on Patriarch Bartholomew's speech to Parliament and the sparse ministerial attendance. Foreign Minister Nikos Dendias says 'we have nothing to divide with the Turkish people'; the dispute over leadership of independent authorities drags on.</summary>
+    <summary>The 5th Greece-Cyprus-Jordan trilateral summit in Amman focused on the Strait of Hormuz as the global economy's 'thermostat'. Jordan is a sensitive geopolitical link, while Egypt has lost about $10bn from reduced Suez Canal traffic.</summary>
     <category term="politics"/>
+  </entry>
+  <entry>
+    <title>«Κιβωτός» – Πρόταση εισαγγελέα: Στο εδώλιο πατέρας Αντώνιος και πρεσβυτέρα για οικονομικά αδικήματα</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564213298/kivotos-protasi-eisaggelea-sto-edolio-pateras-antonios-kai-presvytera-gia-oikonomika-adikimata/"/>
+    <id>urn:kathimerini:15613ec8732d</id>
+    <updated>2026-05-07T11:31:31+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <summary>A 163-page prosecutor's motion proposes that Father Antonios, the presvytera and an associate be tried for the 'Ark of the World' charity over serious financial crimes including breach of trust, embezzlement and money laundering.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Τον Σεπτέμβριο αναμένει τις εκλογές η Χαριλάου Τρικούπη</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564212479/ton-septemvrio-anamenei-tis-ekloges-i-charilaoy-trikoypi/"/>
+    <id>urn:kathimerini:aa5097c5ac54</id>
+    <updated>2026-05-07T07:28:00+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <summary>PASOK leader Androulakis and the Political Council assessed September as the likeliest election date, accelerating preparations on a four-month timeline and stepping up criticism of the government.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Οι ΗΠΑ και η Κίνα έχουν έναν κοινό εχθρό</title>
+    <link href="https://www.kathimerini.gr/economy/international/564212983/oi-ipa-kai-i-kina-echoyn-enan-koino-echthro/"/>
+    <id>urn:kathimerini:1ab2f3a58167</id>
+    <updated>2026-05-07T11:42:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>The Trump-Xi summit in Beijing could mirror the 1972 Nixon-Mao milestone. AI is emerging as the shared threat requiring coordinated US-China action against malicious uses.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Ναυάγιο στην Ανδρο: Υποψίες για μεταφορά παράνομου φορτίου</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564212536/nayagio-stin-andro-ypopsies-gia-metafora-paranomoy-fortioy/"/>
+    <id>urn:kathimerini:04e149f9c155</id>
+    <updated>2026-05-07T07:45:36+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <summary>The 'Corsage' freighter that sank off Andros was on international shipping black-lists and was being targeted by the US Coast Guard. The Greek intelligence service is investigating possible illegal cargo.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Αναστάτωση με τη δικογραφία για τον ΟΠΕΚΕΠΕ</title>
+    <link href="https://www.kathimerini.gr/politics/564212239/opekepe-typografiko-lathos-apo-tin-eyropaiki-eisaggelia-stis-kliseis-voyleyton/"/>
+    <id>urn:kathimerini:b17174843a75</id>
+    <updated>2026-05-06T21:51:37+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Confusion over OPEKEPE: 9 of 11 ND MPs received summonses charging felonies, though their actual involvement concerns misdemeanors. The European Public Prosecutor blamed the error on a clerical mistake.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Καραμανλής: Σκανδαλώδης και πελατειακής αντίληψης διαχείριση των κοινοτικών ενισχύσεων</title>
+    <link href="https://www.kathimerini.gr/politics/564212296/karamanlis-skandalodis-kai-pelateiakis-antilipsis-diacheirisi-ton-koinotikon-enischyseon/"/>
+    <id>urn:kathimerini:1485a627f6f3</id>
+    <updated>2026-05-06T21:45:47+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Former PM Kostas Karamanlis lashes out at the handling of EU farm subsidies as 'opaque, at times scandalous and clientelist', calling for a comprehensive plan to support farmers.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Δικαιώθηκε η Ελλάδα για την επαναγορά warrants με ρήτρα ΑΕΠ</title>
+    <link href="https://www.kathimerini.gr/economy/local/564212884/dikaiothike-i-ellada-gia-tin-epanagora-warrants-me-ritra-aep/"/>
+    <id>urn:kathimerini:57805d1933e8</id>
+    <updated>2026-05-07T09:23:00+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <summary>Landmark legal win for Greece: the UK Supreme Court upheld the buyback of GDP-linked warrants with a face value of over €62bn, defusing a potential 'time bomb' for public finances.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Ανοιξαν οι κάλπες στη Βρετανία</title>
+    <link href="https://www.kathimerini.gr/world/564213358/anoixan-oi-kalpes-sti-vretania/"/>
+    <id>urn:kathimerini:ce7dcbd6fc5c</id>
+    <updated>2026-05-07T12:03:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Polls opened in Britain for crucial local elections, the first since Labour's return to power. Reform UK and the Greens are threatening Keir Starmer, whose approval has slipped.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Το Ισραήλ συνεχίζει τα πλήγματα στον νότιο Λίβανο – Τρεις νεκροί</title>
+    <link href="https://www.kathimerini.gr/world/564213262/to-israil-synechizei-ta-pligmata-ston-notio-livano-treis-nekroi/"/>
+    <id>urn:kathimerini:15280aa80d69</id>
+    <updated>2026-05-07T10:54:31+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Three killed by ongoing Israeli strikes in southern Lebanon — at Mayfadoun, Hambous and Nabatieh. Hezbollah reportedly fired rockets at Israeli forces. The ceasefire terms remain disputed.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Σε λειτουργία στα τέλη του 2028 το διεθνές αεροδρόμιο στο Καστέλλι</title>
+    <link href="https://www.kathimerini.gr/economy/local/564212908/se-leitoyrgia-sta-teli-toy-2028-to-diethnes-aerodromio-sto-kastelli/"/>
+    <id>urn:kathimerini:54713d4c913a</id>
+    <updated>2026-05-07T12:50:00+00:00</updated>
+    <author><name>Ματίνα Χαρκοφτάκη</name></author>
+    <summary>Crete's new Kasteli international airport is now expected to open in November 2028, with construction 70% complete. It will handle 15 million passengers annually.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Σκληρό πόκερ από Ryanair στο αεροδρόμιο Θεσσαλονίκης</title>
+    <link href="https://www.kathimerini.gr/economy/business/564212914/skliro-poker-apo-ryanair-sto-aerodromio-thessalonikis/"/>
+    <id>urn:kathimerini:01d63eae7917</id>
+    <updated>2026-05-07T09:50:00+00:00</updated>
+    <author><name>Ματίνα Χαρκοφτάκη</name></author>
+    <summary>Hardball Ryanair-Fraport standoff in Thessaloniki: the airline threatened to close its base in October and cut to just three routes, in response to airport fee hikes.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Greek Mafia: Oι εκτελεστές του Μοσχούρη σχεδίαζαν δολοφονία γνωστού βαρυποινίτη</title>
+    <link href="https://www.kathimerini.gr/society/564213238/greek-mafia-oi-ektelestes-toy-moschoyri-schediazan-dolofonia-gnostoy-varypoiniti/"/>
+    <id>urn:kathimerini:5591ef6fbe19</id>
+    <updated>2026-05-07T10:34:42+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <summary>Those arrested for the murder of Greek Mafia figure Giorgos Moschouris appear to have been planning another hit on a notorious convict, having placed cameras at his lawyer's home.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Κρήτη: Συνέχεια μεταναστευτικών ροών – Εντοπίστηκαν και διασώθηκαν 268 άτομα</title>
+    <link href="https://www.kathimerini.gr/society/564213133/kriti-synecheia-metanasteytikon-roon-entopistikan-kai-diasothikan-268-atoma/"/>
+    <id>urn:kathimerini:48d251561dbc</id>
+    <updated>2026-05-07T08:29:49+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Migrant flows to Crete continue: 268 people were located and rescued over 24 hours in five Coast Guard operations south-east of Phaistos.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Γαλλία: Οικονομικά κίνητρα προς τις αεροπορικές εταιρείες για να μη μειώσουν τον αριθμό των πτήσεων</title>
+    <link href="https://www.kathimerini.gr/world/564213475/gallia-oikonomika-kinitra-pros-tis-aeroporikes-etaireies-gia-na-mi-meiosoyn-ton-arithmo-ton-ptiseon/"/>
+    <id>urn:kathimerini:57cb4fb0fa06</id>
+    <updated>2026-05-07T12:56:37+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>France is planning tax breaks and low-interest loans for airlines to deter them from cutting flights amid doubled jet-fuel prices. Carriers have already announced cancellations covering 2 million seats in May.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Το Ιράν αρνήθηκε κάθε εμπλοκή στις ζημιές στο νοτιοκορεατικό πλοίο</title>
+    <link href="https://www.kathimerini.gr/world/564213214/to-iran-arnithike-emploki-stis-zimies-sto-notiokoreatiko-ploio/"/>
+    <id>urn:kathimerini:c6e81c41fd94</id>
+    <updated>2026-05-07T10:24:54+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Iran denied involvement in damage to a South Korean HMM vessel in the Strait of Hormuz. Trump had blamed Iran for the attack. Seoul will confirm the cause once the ship is towed for inspection.</summary>
+    <category term="world"/>
   </entry>
 </feed>
