@@ -1,188 +1,210 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="el">
   <title>Greek News Aggregator — Top 20 (2026-05-11)</title>
-  <link href="https://github.com/zoetzikra/greek-news-aggregator"/>
-  <updated>2026-05-11T09:14:43+00:00</updated>
-  <id>urn:greek-news-aggregator:2026-05-11</id>
+  <subtitle>Daily curated Kathimerini stories with bilingual summaries.</subtitle>
+  <link href="https://www.kathimerini.gr/" rel="alternate"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
+  <id>tag:greek-news-aggregator,2026-05-11:/feeds/main</id>
+  <updated>2026-05-11T10:25:58.314776+00:00</updated>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>H Blackstone εξαγοράζει τη Skroutz από τη CVC – Στα 635 εκατ. ευρώ η αποτίμηση</title>
-    <link href="https://www.kathimerini.gr/economy/local/564219808/h-blackstone-exagorazei-ti-skroutz-apo-ti-cvc-sta-635-ekat-eyro-i-apotimisi/"/>
-    <id>urn:kathimerini:a3b31a6bde19</id>
-    <updated>2026-05-11T10:52:01+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Blackstone is acquiring a majority stake in Greek e-commerce platform Skroutz from CVC Capital Partners at a €635m enterprise value, with the deal closing in H2 2026. Founders retain stakes and CEO Giorgos Hatzigeorgiou stays on. Skroutz lists 12m products from 9,000 merchants and serves 2.5m active users across Greece, Cyprus, Romania and Bulgaria.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Χανταϊός: Ολοκληρώνεται η εκκένωση του «MV Hondius» – Εντοπίστηκαν νέα κρούσματα</title>
-    <link href="https://www.kathimerini.gr/world/564219709/chantaios-oloklironetai-simera-i-ekkenosi-toy-kroyazieroploioy-mv-hondius/"/>
-    <id>urn:kathimerini:6952f60004d7</id>
-    <updated>2026-05-11T09:50:57+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Evacuation of passengers from the 'MV Hondius' cruise ship is being completed today via flights from Australia and the Netherlands. New hantavirus cases identified: a French passenger is positive with deteriorating condition; one American is positive but asymptomatic and another shows mild symptoms. Eight people who left the ship have fallen ill.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Η ατζέντα Τραμπ στην Κίνα: Εμπόριο, Ταϊβάν και πίεση προς Σι για Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564219610/i-atzenta-tramp-stin-kina-emporio-taivan-kai-piesi-pros-si-gia-iran/"/>
-    <id>urn:kathimerini:16aba99b23bb</id>
-    <updated>2026-05-11T09:03:36+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Donald Trump travels to Beijing this week for his first China trip since returning to the White House. The agenda spans trade, Taiwan, AI, rare earths and pressuring Xi Jinping on Iran. Despite the high symbolism, including a visit to the Temple of Heaven, the central goal is de-escalating trade tensions.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Γεραπετρίτης για drone στη Λευκάδα: Η Μεσόγειος δεν θα γίνει θέατρο πολεμικών επιχειρήσεων – Θα προβούμε σε διαβήματα</title>
-    <link href="https://www.kathimerini.gr/politics/564219910/gerapetritis-gia-drone-sti-leykada-i-mesogeios-den-tha-ginei-theatro-polemikon-epicheiriseon-tha-provoyme-se-diavimata/"/>
-    <id>urn:kathimerini:347823272e61</id>
-    <updated>2026-05-11T11:39:49+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Greek FM George Gerapetritis will brief today's EU Foreign Affairs Council on the naval drone discovered off Lefkada, calling it a particularly serious development. Athens plans to lodge diplomatic protests once the Hellenic General Staff investigation concludes. The minister stressed that Greece will not allow the Mediterranean to become a theatre of military operations.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Τουρκία: Ξεκινά η δίκη του Εκρέμ Ιμάμογλου για «πολιτική κατασκοπεία»</title>
-    <link href="https://www.kathimerini.gr/world/564219928/toyrkia-xekina-i-diki-toy-ekrem-imamogloy-gia-politiki-kataskopeia/"/>
-    <id>urn:kathimerini:a4e9e1230b42</id>
-    <updated>2026-05-11T11:45:10+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>The trial of dismissed Istanbul mayor Ekrem İmamoğlu, his adviser Necati Özkan and journalist Merdan Yanardağ on 'political espionage' charges has begun at Marmara prison in Silivri. The 160-page indictment seeks 15-20 years in prison plus a political ban on İmamoğlu, covering activities from 2019 to 2025.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
+    <id>https://www.kathimerini.gr/world/564219799/iran-oi-protaseis-pros-tis-ipa-itan-gennaiodores-kai-ypeythynes/</id>
     <title>Ιράν: Οι προτάσεις προς τις ΗΠΑ ήταν «γενναιόδωρες και υπεύθυνες»</title>
     <link href="https://www.kathimerini.gr/world/564219799/iran-oi-protaseis-pros-tis-ipa-itan-gennaiodores-kai-ypeythynes/"/>
-    <id>urn:kathimerini:ea3932e245fc</id>
     <updated>2026-05-11T10:51:45+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Iran's foreign ministry spokesman Esmail Baqaei calls Tehran's proposals to Washington 'generous and responsible' and accuses the US of 'unreasonable demands'. President Trump publicly rejected Iran's response via Truth Social, calling it 'totally unacceptable'.</summary>
     <category term="world"/>
+    <summary type="text">Iran calls its proposals to the US 'generous and responsible' while Trump dismisses them as 'totally unacceptable.' Tehran demands an end to the war, lifting of the embargo and unfreezing of Iranian assets abroad.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Iran calls its proposals to the US 'generous and responsible' while Trump dismisses them as 'totally unacceptable.' Tehran demands an end to the war, lifting of the embargo and unfreezing of Iranian assets abroad.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Ιράν χαρακτηρίζει «γενναιόδωρες και υπεύθυνες» τις προτάσεις του προς τις ΗΠΑ, ενώ ο Τραμπ τις απορρίπτει ως «εντελώς απαράδεκτες». Η Τεχεράνη ζητά τερματισμό του πολέμου, άρση αποκλεισμού και αποδέσμευση παγωμένων ιρανικών περιουσιακών στοιχείων.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Νετανιάχου στο CBS: Στόχος του Ισραήλ η απεξάρτηση από την αμερικανική στρατιωτική βοήθεια</title>
-    <link href="https://www.kathimerini.gr/world/564219541/netaniachoy-sto-cbs-stochos-toy-israil-i-apexartisi-apo-tin-amerikaniki-stratiotiki-voitheia/"/>
-    <id>urn:kathimerini:f03785f8bfc3</id>
-    <updated>2026-05-11T08:30:21+00:00</updated>
+    <id>https://www.kathimerini.gr/economy/local/564219808/h-blackstone-exagorazei-ti-skroutz-apo-ti-cvc-sta-635-ekat-eyro-i-apotimisi/</id>
+    <title>H Blackstone εξαγοράζει τη Skroutz από τη CVC – Στα 635 εκατ. ευρώ η αποτίμηση</title>
+    <link href="https://www.kathimerini.gr/economy/local/564219808/h-blackstone-exagorazei-ti-skroutz-apo-ti-cvc-sta-635-ekat-eyro-i-apotimisi/"/>
+    <updated>2026-05-11T10:52:01+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Israeli PM Benjamin Netanyahu told CBS '60 Minutes' Israel aims to wean itself off US military aid within a decade. Israel receives roughly $3.8bn per year; Netanyahu wants to begin the review 'now' rather than wait for the next Congress, citing deepening ties with Gulf states.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Αδήλωτα POS, αόρατες συναλλαγές</title>
-    <link href="https://www.kathimerini.gr/economy/564217885/adilota-pos-aorates-synallages/"/>
-    <id>urn:kathimerini:d0967b3474d0</id>
-    <updated>2026-05-11T09:46:44+00:00</updated>
-    <author><name>Προκόπης Χατζηνικολάου</name></author>
-    <summary>Greece's AADE tax authority is targeting a new wave of tax evasion via undeclared point-of-sale terminals, mostly foreign-issued, which print receipts that never reach the e-tax systems. Despite the €2.5bn collected through linking cash registers to POS, businesses are routing transactions to evade detection.</summary>
     <category term="economy"/>
+    <summary type="text">Blackstone is acquiring a majority stake in Greek e-commerce platform Skroutz from CVC Capital Partners at a €635 million enterprise value. The founders remain on the board and the deal will close in H2 2026.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Blackstone is acquiring a majority stake in Greek e-commerce platform Skroutz from CVC Capital Partners at a €635 million enterprise value. The founders remain on the board and the deal will close in H2 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Blackstone εξαγοράζει πλειοψηφικό μερίδιο της Skroutz από τη CVC Capital Partners με αποτίμηση 635 εκατ. ευρώ, συμπεριλαμβανομένου του χρέους. Οι ιδρυτές παραμένουν στη διοίκηση και η συναλλαγή θα ολοκληρωθεί στο δεύτερο εξάμηνο του 2026.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Ο ελέφαντας του αμερικανικού χρέους</title>
-    <link href="https://www.kathimerini.gr/opinion/564217711/o-elefantas-toy-amerikanikoy-chreoys/"/>
-    <id>urn:kathimerini:38ebb7a52320</id>
-    <updated>2026-05-10T20:13:00+00:00</updated>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <summary>Alexis Papachelas examines the 'elephant in the room' of America's debt — now above 100% of GDP and rising. For the first time, debt servicing exceeds annual defence spending, worsened by $25bn already spent on the Iran war and Trump's commitments to new defence programmes. The trajectory threatens the dollar's global status.</summary>
-    <category term="opinion"/>
-  </entry>
-  <entry>
-    <title>Ε.Ε.: Κυρώσεις για εποίκους στη Δυτική Οχθη – Πρώτα σενάρια διαλόγου με τη Ρωσία στο Συμβούλιο ΥΠΕΞ</title>
-    <link href="https://www.kathimerini.gr/world/564219634/e-e-kyroseis-gia-epoikoys-sti-dytiki-ochthi-prota-senaria-dialogoy-me-ti-rosia-sto-symvoylio-ypex/"/>
-    <id>urn:kathimerini:7b7acd40ba43</id>
-    <updated>2026-05-11T09:42:13+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <summary>EU foreign ministers will today try to seal political agreement on sanctions against violent Israeli settlers in the West Bank. The package, targeting seven individuals and entities, had been blocked since December 2024 by Hungary's veto until the recent change of government in Budapest under Péter Magyar. Talks may also explore opening dialogue with Moscow.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Γαλλία και Βρετανία θα φιλοξενήσουν αύριο συνάντηση για τα Στενά του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564219607/gallia-kai-vretania-tha-filoxenisoyn-ayrio-synantisi-gia-ta-stena-toy-ormoyz/"/>
-    <id>urn:kathimerini:c418bef4f49f</id>
-    <updated>2026-05-11T08:53:50+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564219610/i-atzenta-tramp-stin-kina-emporio-taivan-kai-piesi-pros-si-gia-iran/</id>
+    <title>Η ατζέντα Τραμπ στην Κίνα: Εμπόριο, Ταϊβάν και πίεση προς Σι για Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564219610/i-atzenta-tramp-stin-kina-emporio-taivan-kai-piesi-pros-si-gia-iran/"/>
+    <updated>2026-05-11T09:03:36+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Britain and France will co-chair tomorrow a meeting of defence ministers from 40+ countries to discuss military plans for restoring trade flows through the Strait of Hormuz. Iran's deputy foreign minister Kazem Gharibabadi warned against the deployment of warships. The UK has dispatched HMS Dragon to the Middle East.</summary>
     <category term="world"/>
+    <summary type="text">Donald Trump aims to pressure Xi Jinping on Iran during his Beijing visit. The summit of the world's two largest economies is mainly intended to de-escalate trade tensions, with an agenda spanning tariffs, Taiwan, AI and rare earths.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Donald Trump aims to pressure Xi Jinping on Iran during his Beijing visit. The summit of the world's two largest economies is mainly intended to de-escalate trade tensions, with an agenda spanning tariffs, Taiwan, AI and rare earths.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Ντόναλντ Τραμπ επιδιώκει να ασκήσει πίεση στον Σι Τζινπίνγκ για το Ιράν κατά την επίσκεψή του στο Πεκίνο. Η σύνοδος των δύο μεγαλύτερων οικονομιών στοχεύει κυρίως στην αποκλιμάκωση των εμπορικών εντάσεων, με ατζέντα δασμούς, Ταϊβάν, ΑΙ και σπάνιες γαίες.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Χανταϊός: Χωρίς συμπτώματα ο Ελληνας επιβάτης του «Hondius – Η ανακοίνωση του «Αττικόν»</title>
-    <link href="https://www.kathimerini.gr/society/564219844/chantaios-choris-symptomata-o-ellinas-epivatis-toy-hondius-i-anakoinosi-toy-attikon/"/>
-    <id>urn:kathimerini:9a7684e0f5f9</id>
-    <updated>2026-05-11T11:17:04+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564219928/toyrkia-xekina-i-diki-toy-ekrem-imamogloy-gia-politiki-kataskopeia/</id>
+    <title>Τουρκία: Ξεκινά η δίκη του Εκρέμ Ιμάμογλου για «πολιτική κατασκοπεία»</title>
+    <link href="https://www.kathimerini.gr/world/564219928/toyrkia-xekina-i-diki-toy-ekrem-imamogloy-gia-politiki-kataskopeia/"/>
+    <updated>2026-05-11T11:45:10+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>The Greek 'MV Hondius' passenger remains symptom-free with no signs of active hantavirus infection while in a precautionary 45-day quarantine at Attikon Hospital. The hospital director stresses isolation is purely for surveillance and prevention, with no confirmed infection.</summary>
-    <category term="society"/>
+    <category term="world"/>
+    <summary type="text">The trial of suspended Istanbul mayor Ekrem Imamoglu opened at Marmara prison on 'political espionage' charges. Prosecutors seek 15-20 years' imprisonment and a political ban for Erdogan's main rival.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The trial of suspended Istanbul mayor Ekrem Imamoglu opened at Marmara prison on 'political espionage' charges. Prosecutors seek 15-20 years' imprisonment and a political ban for Erdogan's main rival.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ξεκίνησε στις φυλακές Μαρμαρά η δίκη του παυθέντος δημάρχου Κωνσταντινούπολης Εκρέμ Ιμάμογλου με κατηγορίες «πολιτικής κατασκοπείας». Η εισαγγελία ζητά κάθειρξη 15-20 ετών και πολιτική απαγόρευση για τον βασικό αντίπαλο του Ερντογάν.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>https://www.kathimerini.gr/politics/564219463/ad-georgiadis-kanenas-apolytos-fovos-exaplosis-toy-chantaioy-stin-ellada/</id>
     <title>Αδ. Γεωργιάδης: Κανένας απολύτως φόβος εξάπλωσης του χανταϊού στην Ελλάδα</title>
     <link href="https://www.kathimerini.gr/politics/564219463/ad-georgiadis-kanenas-apolytos-fovos-exaplosis-toy-chantaioy-stin-ellada/"/>
-    <id>urn:kathimerini:ae6086cef3ca</id>
     <updated>2026-05-10T23:51:47+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Health Minister Adonis Georgiadis insists there is 'absolutely no danger' of hantavirus spread in Greece after the Greek 'MV Hondius' passenger was repatriated. The passenger has been placed in a negative-pressure isolation room at Attikon Hospital for a precautionary 45-day quarantine. Georgiadis criticised as 'toxic' the conspiracy-minded reactions to the repatriation.</summary>
     <category term="politics"/>
+    <summary type="text">Health Minister Adonis Georgiadis insists there is no risk of hantavirus spreading in Greece. The Greek passenger from the MV Hondius cruise ship was airlifted to Attikon Hospital for a 45-day precautionary quarantine.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Health Minister Adonis Georgiadis insists there is no risk of hantavirus spreading in Greece. The Greek passenger from the MV Hondius cruise ship was airlifted to Attikon Hospital for a 45-day precautionary quarantine.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο υπουργός Υγείας Αδωνις Γεωργιάδης διαβεβαιώνει ότι δεν υπάρχει κίνδυνος εξάπλωσης του ιού χανταϊού στην Ελλάδα. Ο Έλληνας επιβάτης του κρουαζιερόπλοιου «MV Hondius» μεταφέρθηκε με ειδική πτήση στο νοσοκομείο «Αττικόν» όπου τέθηκε σε καραντίνα 45 ημερών.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>https://www.kathimerini.gr/world/564219994/starmer-tha-diapseyso-toys-epikrites-moy/</id>
+    <title>Στάρμερ: Θα διαψεύσω τους επικριτές μου</title>
+    <link href="https://www.kathimerini.gr/world/564219994/starmer-tha-diapseyso-toys-epikrites-moy/"/>
+    <updated>2026-05-11T12:37:39+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">British PM Keir Starmer is trying to stem internal Labour dissent after the party's heavy local-election defeat. He vows to defy critics and says 'incremental change is not enough' for a Britain in stagnation.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; British PM Keir Starmer is trying to stem internal Labour dissent after the party's heavy local-election defeat. He vows to defy critics and says 'incremental change is not enough' for a Britain in stagnation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Βρετανός πρωθυπουργός Κιρ Στάρμερ προσπαθεί να ανακόψει την εσωκομματική δυσαρέσκεια μετά τη βαριά εκλογική ήττα των Εργατικών στις τοπικές εκλογές. Δηλώνει ότι θα διαψεύσει τους επικριτές του και πως «οι σταδιακές αλλαγές δεν επαρκούν» για τη Βρετανία.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564219844/chantaios-choris-symptomata-o-ellinas-epivatis-toy-hondius-i-anakoinosi-toy-attikon/</id>
+    <title>Χανταϊός: Χωρίς συμπτώματα ο Ελληνας επιβάτης του «Hondius – Η ανακοίνωση του «Αττικόν»</title>
+    <link href="https://www.kathimerini.gr/society/564219844/chantaios-choris-symptomata-o-ellinas-epivatis-toy-hondius-i-anakoinosi-toy-attikon/"/>
+    <updated>2026-05-11T11:17:04+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">The Greek passenger from the MV Hondius cruise ship has been placed in 45-day preventative quarantine at Attikon Hospital after hantavirus cases were detected on board. According to the hospital, he is asymptomatic and isolation is purely precautionary.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Greek passenger from the MV Hondius cruise ship has been placed in 45-day preventative quarantine at Attikon Hospital after hantavirus cases were detected on board. According to the hospital, he is asymptomatic and isolation is purely precautionary.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σε προληπτική καραντίνα 45 ημερών στο νοσοκομείο «Αττικόν» τέθηκε ο Έλληνας επιβάτης του κρουαζιερόπλοιου «MV Hondius», όπου εμφανίστηκαν κρούσματα χανταϊού. Σύμφωνα με ανακοίνωση του νοσοκομείου, δεν παρουσιάζει συμπτώματα και η απομόνωση είναι αμιγώς προληπτική.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564219916/irakleio-ayrio-apologeitai-o-30chronos-poy-paresyre-me-ich-ti-syzygo-toy-sovari-i-katastasi-tis-28chronis/</id>
+    <title>Ηράκλειο: Αύριο απολογείται ο 30χρονος που παρέσυρε με Ι.Χ. τη σύζυγό του – Σοβαρή η κατάσταση της 28χρονης</title>
+    <link href="https://www.kathimerini.gr/society/564219916/irakleio-ayrio-apologeitai-o-30chronos-poy-paresyre-me-ich-ti-syzygo-toy-sovari-i-katastasi-tis-28chronis/"/>
+    <updated>2026-05-11T11:41:15+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">A 30-year-old man in Heraklion will appear before authorities for running over his 28-year-old wife, a mother of four, with their car. She is hospitalised with serious but stable head and neck injuries; he faces attempted murder charges.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A 30-year-old man in Heraklion will appear before authorities for running over his 28-year-old wife, a mother of four, with their car. She is hospitalised with serious but stable head and neck injuries; he faces attempted murder charges.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στις Αρχές Ηρακλείου απολογείται 30χρονος που παρέσυρε με Ι.Χ. τη 28χρονη σύζυγό του, μητέρα τεσσάρων παιδιών. Η γυναίκα νοσηλεύεται με κρανιοεγκεφαλικές κακώσεις σε σοβαρή αλλά όχι κρίσιμη κατάσταση. Ο δράστης αντιμετωπίζει κατηγορία απόπειρας ανθρωποκτονίας.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564219634/e-e-kyroseis-gia-epoikoys-sti-dytiki-ochthi-prota-senaria-dialogoy-me-ti-rosia-sto-symvoylio-ypex/</id>
+    <title>Ε.Ε.: Κυρώσεις για εποίκους στη Δυτική Οχθη – Πρώτα σενάρια διαλόγου με τη Ρωσία στο Συμβούλιο ΥΠΕΞ</title>
+    <link href="https://www.kathimerini.gr/world/564219634/e-e-kyroseis-gia-epoikoys-sti-dytiki-ochthi-prota-senaria-dialogoy-me-ti-rosia-sto-symvoylio-ypex/"/>
+    <updated>2026-05-11T09:42:13+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="world"/>
+    <summary type="text">At the EU Foreign Affairs Council in Brussels, the 27 are seeking political agreement on sanctions against violent Israeli settlers in the West Bank, a package long blocked by Hungary's veto. The agenda also includes initial scenarios for renewed dialogue with Moscow.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; At the EU Foreign Affairs Council in Brussels, the 27 are seeking political agreement on sanctions against violent Israeli settlers in the West Bank, a package long blocked by Hungary's veto. The agenda also includes initial scenarios for renewed dialogue with Moscow.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο Συμβούλιο Εξωτερικών της ΕΕ στις Βρυξέλλες, οι «27» επιχειρούν πολιτική συμφωνία για κυρώσεις κατά βίαιων Ισραηλινών εποίκων στη Δυτική Όχθη — πακέτο που παρέμενε μπλοκαρισμένο από βέτο της Ουγγαρίας. Παράλληλα εξετάζονται πρώτα σενάρια διαλόγου με τη Μόσχα.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564219742/ypo-piesi-o-starmer-meta-tin-eklogiki-syntrivi-pos-schediazei-na-anastrepsei-to-klima/</id>
+    <title>Υπό πίεση ο Στάρμερ μετά την εκλογική συντριβή – Πώς σχεδιάζει να αναστρέψει το κλίμα</title>
+    <link href="https://www.kathimerini.gr/world/564219742/ypo-piesi-o-starmer-meta-tin-eklogiki-syntrivi-pos-schediazei-na-anastrepsei-to-klima/"/>
+    <updated>2026-05-11T10:13:53+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">British PM Keir Starmer faces mounting pressure after Labour's drubbing in local elections. Many MPs are calling for his exit while he uses a major speech to defend his record and try to turn the tide.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; British PM Keir Starmer faces mounting pressure after Labour's drubbing in local elections. Many MPs are calling for his exit while he uses a major speech to defend his record and try to turn the tide.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Υπό πίεση ο Βρετανός πρωθυπουργός Κιρ Στάρμερ μετά την εκλογική συντριβή των Εργατικών στις τοπικές εκλογές. Πολλοί βουλευτές ζητούν την αποχώρησή του, ενώ ο ίδιος επιχειρεί με ομιλία να ανατρέψει το κλίμα και να υπερασπιστεί τη θέση του.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564219577/cnn-ti-mathainei-i-kina-apo-ton-polemo-ton-ipa-sto-iran/</id>
     <title>CNN: Τι μαθαίνει η Κίνα από τον πόλεμο των ΗΠΑ στο Ιράν</title>
     <link href="https://www.kathimerini.gr/world/564219577/cnn-ti-mathainei-i-kina-apo-ton-polemo-ton-ipa-sto-iran/"/>
-    <id>urn:kathimerini:94ba901fc8b2</id>
     <updated>2026-05-11T11:17:59+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>CNN examines what China is learning from the three-month US-Iran war. Experts warn Beijing risks overestimating its own capabilities, underestimating its lack of combat experience and adopting a narrow lens on potential Taiwan-related conflict with Washington. The Iran war offers Chinese strategists a live snapshot of American forces in real combat.</summary>
     <category term="world"/>
+    <summary type="text">CNN analysis on what China is learning from the US-Iran war, with an eye on a possible Taiwan scenario. Experts warn Beijing risks overestimating its own capabilities and underestimating its lack of combat experience.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; CNN analysis on what China is learning from the US-Iran war, with an eye on a possible Taiwan scenario. Experts warn Beijing risks overestimating its own capabilities and underestimating its lack of combat experience.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση του CNN για όσα μαθαίνει η Κίνα από τον πόλεμο ΗΠΑ-Ιράν, εν όψει πιθανού μέτωπου με την Ταϊβάν. Ειδικοί προειδοποιούν ότι το Πεκίνο κινδυνεύει να υπερεκτιμήσει τις δυνατότητές του και να υποτιμήσει την έλλειψη πολεμικής εμπειρίας.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Χανταϊός: Αλλοι τρεις επιβάτες του κρουαζιερόπλοιου θετικοί</title>
-    <link href="https://www.kathimerini.gr/world/564219526/chantaios-alloi-dyo-epivates-toy-kroyazieroploioy-thetikoi/"/>
-    <id>urn:kathimerini:58b483ae19f6</id>
-    <updated>2026-05-11T08:03:11+00:00</updated>
+    <id>https://www.kathimerini.gr/politics/564219544/anartisi-tsipra-to-taxidi-synechizetai-i-mipos-tora-molis-archizei/</id>
+    <title>Ανάρτηση Τσίπρα: «Το ταξίδι συνεχίζεται ή μήπως τώρα μόλις αρχίζει;»</title>
+    <link href="https://www.kathimerini.gr/politics/564219544/anartisi-tsipra-to-taxidi-synechizetai-i-mipos-tora-molis-archizei/"/>
+    <updated>2026-05-11T08:01:58+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Three more 'MV Hondius' passengers tested positive for the Andes strain of hantavirus. Of 17 evacuated Americans, one is positive but asymptomatic and another has mild symptoms. A French passenger's condition is deteriorating. The ship has docked in the Canary Islands and passengers are being repatriated by military and government aircraft.</summary>
-    <category term="world"/>
+    <category term="politics"/>
+    <summary type="text">Former PM Alexis Tsipras posts a video summary of his nine-city 'Ithaca' book tour, previewing the launch of his new political party. He appears today at an event in Chalandri's Rematia theatre.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Former PM Alexis Tsipras posts a video summary of his nine-city 'Ithaca' book tour, previewing the launch of his new political party. He appears today at an event in Chalandri's Rematia theatre.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Αλέξης Τσίπρας ανήρτησε βίντεο-απολογισμό από τις παρουσιάσεις της «Ιθάκης» σε εννέα πόλεις, προαναγγέλλοντας την έναρξη ενός «ταξιδιού» που σηματοδοτεί το νέο πολιτικό φορέα. Συμμετέχει σήμερα σε εκδήλωση στη Ρεματιά Χαλανδρίου.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>«Θα σας σκοτώσω όλους»: Πώς συνέβη το επεισόδιο με τους πυροβολισμούς στην Καλλιθέα</title>
-    <link href="https://www.kathimerini.gr/society/564219262/tha-sas-skotoso-oloys-pos-synevi-to-epeisodio-me-toys-pyrovolismoys-stin-kallithea/"/>
-    <id>urn:kathimerini:4d7d710098fd</id>
-    <updated>2026-05-10T19:46:39+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Police arrested a 58-year-old man who, while intoxicated, opened fire with an 'Uzi' submachine gun inside a Kallithea nightclub. A 43-year-old female employee was shot in the neck, shoulder blade and jaw and is hospitalised in stable condition at Evangelismos. The attacker had shouted 'I'll kill you all' before opening fire, and was arrested in a rapid police operation.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Κρήτη: Παρέσυρε την σύζυγό του με το αυτοκίνητο μπροστά στα παιδιά τους</title>
-    <link href="https://www.kathimerini.gr/society/564219196/kriti-paresyre-tin-syzygo-toy-me-to-aytokinito-mprosta-sta-paidia-toys/"/>
-    <id>urn:kathimerini:6f3b51c8b4ef</id>
-    <updated>2026-05-10T18:30:50+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>A domestic-violence incident took place in Pantanassa, Heraklion, where a 30-year-old husband allegedly drove his car at his wife while three of their four children were in the vehicle. She is hospitalised at PAGNI with head injuries. He was arrested after the case turned against him during the initial investigation.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
+    <id>https://www.kathimerini.gr/politics/parties/564217513/machi-metaxy-toys-kai-me-to-parelthon-toys/</id>
     <title>Μάχη μεταξύ τους και με το παρελθόν τους</title>
     <link href="https://www.kathimerini.gr/politics/parties/564217513/machi-metaxy-toys-kai-me-to-parelthon-toys/"/>
-    <id>urn:kathimerini:931d9836a055</id>
     <updated>2026-05-11T10:59:02+00:00</updated>
     <author><name>Γεράσιμος Μοσχονάς</name></author>
-    <summary>Political scientist Gerasimos Moschonas analyses the fierce contest between PASOK and Alexis Tsipras's emerging new party for second place. He argues the Tsipras vehicle owes its existence to SYRIZA's collapse and the New Left's failure to consolidate, and that its rise or fall will reshape Greece's centre-left landscape either way.</summary>
     <category term="politics"/>
+    <summary type="text">Analysis of the contest between PASOK and Tsipras' new party for second place in the opposition. SYRIZA remains paralysed in the post-Tsipras era while the new venture is expected to reshape Greece's centre-left.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Analysis of the contest between PASOK and Tsipras' new party for second place in the opposition. SYRIZA remains paralysed in the post-Tsipras era while the new venture is expected to reshape Greece's centre-left.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση για τον ανταγωνισμό μεταξύ ΠΑΣΟΚ και του υπό διαμόρφωση κόμματος Τσίπρα για τη δεύτερη θέση στην αντιπολίτευση. Ο ΣΥΡΙΖΑ παραμένει σε παράλυση, ενώ το νέο εγχείρημα θα λειτουργήσει ως καταλύτης για την ανασύνθεση της Κεντροαριστεράς-Αριστεράς.&lt;/p&gt;</content>
   </entry>
   <entry>
+    <id>https://www.kathimerini.gr/economy/564217885/adilota-pos-aorates-synallages/</id>
+    <title>Αδήλωτα POS, αόρατες συναλλαγές</title>
+    <link href="https://www.kathimerini.gr/economy/564217885/adilota-pos-aorates-synallages/"/>
+    <updated>2026-05-11T09:46:44+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary type="text">Greek tax authorities are uncovering a new evasion scheme involving undeclared POS terminals that issue receipts but never transmit transactions to AADE. Despite the POS-cash register link generating €2.5+ billion in revenue, an evolved fraud network is sidestepping electronic controls.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek tax authorities are uncovering a new evasion scheme involving undeclared POS terminals that issue receipts but never transmit transactions to AADE. Despite the POS-cash register link generating €2.5+ billion in revenue, an evolved fraud network is sidestepping electronic controls.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέα μορφή φοροδιαφυγής εντοπίζει ο φοροελεγκτικός μηχανισμός με αδήλωτα POS που εκδίδουν αποδείξεις αλλά δεν διαβιβάζονται στην ΑΑΔΕ. Παρότι η διασύνδεση POS-ταμειακών έφερε άνω των 2,5 δισ. ευρώ έσοδα, νέο εξελιγμένο δίκτυο φοροαπάτης παρακάμπτει τα ηλεκτρονικά συστήματα ελέγχου.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/opinion/564217609/stratiotiki-yperochi-geopolitiki-apotychia/</id>
+    <title>Στρατιωτική υπεροχή, γεωπολιτική αποτυχία</title>
+    <link href="https://www.kathimerini.gr/opinion/564217609/stratiotiki-yperochi-geopolitiki-apotychia/"/>
+    <updated>2026-05-11T12:10:00+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <category term="opinion"/>
+    <summary type="text">Op-ed on the stalemate in US-Iran negotiations 70 days into operations. The piece is critical of Trump's amateurish handling, which effectively gave Tehran a veto over Hormuz and opened rifts among regional partners.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Op-ed on the stalemate in US-Iran negotiations 70 days into operations. The piece is critical of Trump's amateurish handling, which effectively gave Tehran a veto over Hormuz and opened rifts among regional partners.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Άρθρο γνώμης για το τέλμα στις διαπραγματεύσεις ΗΠΑ-Ιράν, εβδομήντα ημέρες μετά την έναρξη των επιχειρήσεων. Κριτική στον Τραμπ που χειρίστηκε ερασιτεχνικά το ζήτημα, παραχωρώντας στην Τεχεράνη ουσιαστικό βέτο στον Ορμούζ και προκαλώντας ρήγματα στους περιφερειακούς συμμάχους.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564219406/i-synenteyxi-dimitriadi-kai-oi-antidraseis-tis-antipoliteysis/</id>
     <title>Η συνέντευξη Δημητριάδη και οι αντιδράσεις της αντιπολίτευσης</title>
     <link href="https://www.kathimerini.gr/politics/564219406/i-synenteyxi-dimitriadi-kai-oi-antidraseis-tis-antipoliteysis/"/>
-    <id>urn:kathimerini:54dfba17c071</id>
     <updated>2026-05-10T22:21:49+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Former Maximos Mansion general secretary Grigoris Dimitriadis told 'Real' that he assumed political responsibility for the wiretaps scandal 'to protect the government and the secret services'. He attacked PASOK's Androulakis and ex-PM Tsipras as drivers of 'toxicity' and ruled out running for office.</summary>
     <category term="politics"/>
+    <summary type="text">Former PM aide Grigoris Dimitriadis spoke out on the wiretapping scandal, attacking both Tsipras and Androulakis. He said he assumed political responsibility to protect the government and ruled out running in any election.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Former PM aide Grigoris Dimitriadis spoke out on the wiretapping scandal, attacking both Tsipras and Androulakis. He said he assumed political responsibility to protect the government and ruled out running in any election.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρώην γενικός γραμματέας του Μαξίμου Γρηγόρης Δημητριάδης μίλησε για τις υποκλοπές, στρεφόμενος κατά των Τσίπρα και Ανδρουλάκη. Δήλωσε ότι ανέλαβε την πολιτική ευθύνη για να προστατεύσει την κυβέρνηση και ξεκαθάρισε ότι δεν θα είναι υποψήφιος στις εκλογές.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Τα 25 πρόσωπα στη «βιτρίνα» του κόμματος Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564217504/ta-25-prosopa-sti-vitrina-toy-kommatos-tsipra/"/>
-    <id>urn:kathimerini:b2e4b66603b0</id>
-    <updated>2026-05-10T14:07:36+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <summary>Kathimerini lists the 25 figures set to form the public face of Alexis Tsipras's new party — professionals, scientists and academics who will run as candidates, serve as spokespeople or advise behind the scenes — as the former PM finalises preparations ahead of a June launch.</summary>
+    <id>https://www.kathimerini.gr/politics/parties/564217423/anametrisi-se-dyo-faseis-gia-ti-2i-thesi/</id>
+    <title>Αναμέτρηση σε δύο φάσεις για τη 2η θέση</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564217423/anametrisi-se-dyo-faseis-gia-ti-2i-thesi/"/>
+    <updated>2026-05-11T10:57:36+00:00</updated>
+    <author><name>Κωστής Π. Παπαδιόχος</name></author>
     <category term="politics"/>
+    <summary type="text">Analysis of the two-phase battle between PASOK and Tsipras' party for second place ahead of elections. Polls show small gaps between Androulakis, Tsipras and Karystianou, with Samaras also weighing a return.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Analysis of the two-phase battle between PASOK and Tsipras' party for second place ahead of elections. Polls show small gaps between Androulakis, Tsipras and Karystianou, with Samaras also weighing a return.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση για τις δύο φάσεις της μάχης ΠΑΣΟΚ-Τσίπρα για τη δεύτερη θέση εν όψει εκλογών. Δημοσκοπικά οι Ανδρουλάκης, Τσίπρας και Καρυστιανού καταγράφουν μικρές διαφορές, ενώ ο Σαμαράς εξετάζει επίσης την επιστροφή του.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564219520/chantaios-sto-attikon-proliptika-o-ellinas-epivatis-toy-hondius/</id>
+    <title>Χανταϊός: Στο «Αττικόν» προληπτικά ο Ελληνας επιβάτης του «Hondius»</title>
+    <link href="https://www.kathimerini.gr/society/564219520/chantaios-sto-attikon-proliptika-o-ellinas-epivatis-toy-hondius/"/>
+    <updated>2026-05-11T07:37:26+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">The Greek passenger from the MV Hondius cruise ship was preventatively transferred to Attikon Hospital and placed in 45-day isolation in a negative-pressure room. According to the Health Minister, he is afebrile and asymptomatic; there is no cause for concern.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Greek passenger from the MV Hondius cruise ship was preventatively transferred to Attikon Hospital and placed in 45-day isolation in a negative-pressure room. According to the Health Minister, he is afebrile and asymptomatic; there is no cause for concern.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο νοσοκομείο «Αττικόν» μεταφέρθηκε προληπτικά ο Έλληνας επιβάτης του «MV Hondius» όπου τέθηκε σε καραντίνα 45 ημερών σε θάλαμο αρνητικής πίεσης. Σύμφωνα με τον υπουργό Υγείας, ο επιβάτης είναι απύρετος και ασυμπτωματικός, χωρίς λόγο ανησυχίας.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564219658/kriti-nees-epicheiriseis-diasosis-metanaston/</id>
+    <title>Κρήτη: Νέες επιχειρήσεις διάσωσης μεταναστών</title>
+    <link href="https://www.kathimerini.gr/society/564219658/kriti-nees-epicheiriseis-diasosis-metanaston/"/>
+    <updated>2026-05-11T09:40:02+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Two more migrant rescues took place south of Crete. A Frontex vessel located 56 people in a boat 23 nautical miles SE of Kaloi Limenes, while a rescue boat saved 44 more. Four similar operations were recorded on Sunday.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Two more migrant rescues took place south of Crete. A Frontex vessel located 56 people in a boat 23 nautical miles SE of Kaloi Limenes, while a rescue boat saved 44 more. Four similar operations were recorded on Sunday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Δύο νέα περιστατικά διάσωσης μεταναστών στα νότια της Κρήτης. Σκάφος της Frontex εντόπισε 56 άτομα 23 ν.μ. ΝΑ των Καλών Λιμένων και ναυαγοσωστικό σκάφος διέσωσε άλλους 44. Την Κυριακή είχαν καταγραφεί τέσσερα ανάλογα περιστατικά.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/astynomiko/564219820/listeia-me-kalasnikof-stin-kato-tithorea/</id>
+    <title>Ενοπλη ληστεία σε τράπεζα στην Κάτω Τιθορέα – 200.000 ευρώ η λεία</title>
+    <link href="https://www.kathimerini.gr/society/astynomiko/564219820/listeia-me-kalasnikof-stin-kato-tithorea/"/>
+    <updated>2026-05-11T11:01:00+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society"/>
+    <summary type="text">An armed robbery in Kato Tithorea netted €200,000 from a bank branch. Three robbers, two armed with a Kalashnikov and a pistol, stayed 30 minutes inside due to the safe's time delay, then fled toward Parnassus. A manhunt is underway.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An armed robbery in Kato Tithorea netted €200,000 from a bank branch. Three robbers, two armed with a Kalashnikov and a pistol, stayed 30 minutes inside due to the safe's time delay, then fled toward Parnassus. A manhunt is underway.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ένοπλη ληστεία 200.000 ευρώ σε τράπεζα στην Κάτω Τιθορέα. Τρεις δράστες, εκ των οποίων δύο ένοπλοι με καλάσνικοφ και πιστόλι, παρέμειναν 30 λεπτά εντός του καταστήματος λόγω χρονοκαθυστέρησης του χρηματοκιβωτίου και διέφυγαν προς τον Παρνασσό.&lt;/p&gt;</content>
   </entry>
 </feed>
