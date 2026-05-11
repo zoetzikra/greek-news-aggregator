@@ -1,188 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top 20 (2026-05-08)</title>
+  <title>Greek News Aggregator — Top 20 (2026-05-11)</title>
   <link href="https://github.com/zoetzikra/greek-news-aggregator"/>
-  <updated>2026-05-08T10:19:15.963767+00:00</updated>
-  <id>urn:greek-news-aggregator:2026-05-08</id>
+  <updated>2026-05-11T09:14:43+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-05-11</id>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Στο 5,4% εκτινάχθηκε ο πληθωρισμός τον Απρίλιο – «Εκρηξη» στα καύσιμα</title>
-    <link href="https://www.kathimerini.gr/economy/local/564215704/sto-5-4-ektinachthike-o-plithorismos-ton-aprilio-ekrixi-sta-kaysima/"/>
-    <id>urn:kathimerini:c844b7208fa8</id>
-    <updated>2026-05-08T12:26:55+00:00</updated>
+    <title>H Blackstone εξαγοράζει τη Skroutz από τη CVC – Στα 635 εκατ. ευρώ η αποτίμηση</title>
+    <link href="https://www.kathimerini.gr/economy/local/564219808/h-blackstone-exagorazei-ti-skroutz-apo-ti-cvc-sta-635-ekat-eyro-i-apotimisi/"/>
+    <id>urn:kathimerini:a3b31a6bde19</id>
+    <updated>2026-05-11T10:52:01+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Greek inflation jumped to 5.4% in April from 3.9% in March, ELSTAT data show, driven by an energy shock: diesel +32.4%, gasoline +17.1%, heating oil +53.2%. Housing costs rose 13.8% and food prices climbed 4.4%, with beef up 19.2% and lamb/goat up 13.3%.</summary>
+    <summary>Blackstone is acquiring a majority stake in Greek e-commerce platform Skroutz from CVC Capital Partners at a €635m enterprise value, with the deal closing in H2 2026. Founders retain stakes and CEO Giorgos Hatzigeorgiou stays on. Skroutz lists 12m products from 9,000 merchants and serves 2.5m active users across Greece, Cyprus, Romania and Bulgaria.</summary>
     <category term="economy"/>
   </entry>
   <entry>
-    <title>Μητσοτάκης στην Κ.Ο. της Ν.Δ.: Τι προτείνει για τη συνταγματική αναθεώρηση – «Κόκκινη η γραμμή μεταξύ προβληματισμού και εσωστρέφειας»</title>
-    <link href="https://www.kathimerini.gr/politics/564213343/mitsotakis-stin-k-o-tis-n-d-ti-proteinei-gia-ti-syntagmatiki-anatheorisi-kokkini-i-grammi-metaxy-provlimatismoy-kai-esotrefeias/"/>
-    <id>urn:kathimerini:29697ebd97c0</id>
-    <updated>2026-05-07T12:13:02+00:00</updated>
+    <title>Χανταϊός: Ολοκληρώνεται η εκκένωση του «MV Hondius» – Εντοπίστηκαν νέα κρούσματα</title>
+    <link href="https://www.kathimerini.gr/world/564219709/chantaios-oloklironetai-simera-i-ekkenosi-toy-kroyazieroploioy-mv-hondius/"/>
+    <id>urn:kathimerini:6952f60004d7</id>
+    <updated>2026-05-11T09:50:57+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>At ND&#x27;s parliamentary group, PM Mitsotakis outlined the core constitutional revision package, centered on amending Article 86 to curb Parliament&#x27;s role in criminal investigations of ministers. He drew a «red line» between legitimate concerns and intra-party introversion, framing the revision as a flagship 2030-vision election commitment.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Μεταμεσονύκτια κλιμάκωση στον Κόλπο – «Σε ισχύ η εκεχειρία», λέει ο Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564215341/metamesonyktia-klimakosi-ston-kolpo-se-ischy-i-ekecheiria-leei-o-tramp/"/>
-    <id>urn:kathimerini:404bb04247da</id>
-    <updated>2026-05-08T07:23:07+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Overnight escalation in the Persian Gulf with reciprocal US-Iran strikes and mutual ceasefire-violation claims, though Trump insists the truce holds. CENTCOM reported «unprovoked» Iranian attacks on US destroyers near the Strait of Hormuz; the UAE reported being targeted by missiles and drones.</summary>
+    <summary>Evacuation of passengers from the 'MV Hondius' cruise ship is being completed today via flights from Australia and the Netherlands. New hantavirus cases identified: a French passenger is positive with deteriorating condition; one American is positive but asymptomatic and another shows mild symptoms. Eight people who left the ship have fallen ill.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Μητσοτάκης: «Οποιος δεν αντέχει τη ζέστη, ας φύγει από την κουζίνα»</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564214765/mitsotakis-opoios-den-antechei-ti-zesti-as-fygei-apo-tin-koyzina/"/>
-    <id>urn:kathimerini:68a2fb75e635</id>
-    <updated>2026-05-08T06:41:00+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <summary>PM Kyriakos Mitsotakis delivered a dual message to ND&#x27;s parliamentary group: he backed MPs implicated in the OPEKEPE inquiry («presumption of innocence applies until final rulings»), while drawing red lines against intra-party squabbling. His «if you can&#x27;t stand the heat, get out of the kitchen» line clearly targeted ministers who avoid frontline political fights.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης στην Κ.Ο.: Θέλουμε αυτοδυναμία – Να ιδρώσουμε όλοι τη φανέλα</title>
-    <link href="https://www.kathimerini.gr/politics/564214276/kyr-mitsotakis-yparchoyn-apokliseis-sti-stirixi-toy-kyvernitikoy-ergoy/"/>
-    <id>urn:kathimerini:f25b1fdad658</id>
-    <updated>2026-05-07T19:14:39+00:00</updated>
+    <title>Η ατζέντα Τραμπ στην Κίνα: Εμπόριο, Ταϊβάν και πίεση προς Σι για Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564219610/i-atzenta-tramp-stin-kina-emporio-taivan-kai-piesi-pros-si-gia-iran/"/>
+    <id>urn:kathimerini:16aba99b23bb</id>
+    <updated>2026-05-11T09:03:36+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>In a six-hour ND parliamentary group meeting with 43 MP speakers, PM Mitsotakis declared the party can win a third consecutive election aiming for an outright majority and called on everyone to «sweat for the jersey». He hinted at «divergences in enthusiasm» around government support and floated a unified ballot, changes to MP-minister incompatibility rules, and a strengthened MP role.</summary>
+    <summary>Donald Trump travels to Beijing this week for his first China trip since returning to the White House. The agenda spans trade, Taiwan, AI, rare earths and pressuring Xi Jinping on Iran. Despite the high symbolism, including a visit to the Temple of Heaven, the central goal is de-escalating trade tensions.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Γεραπετρίτης για drone στη Λευκάδα: Η Μεσόγειος δεν θα γίνει θέατρο πολεμικών επιχειρήσεων – Θα προβούμε σε διαβήματα</title>
+    <link href="https://www.kathimerini.gr/politics/564219910/gerapetritis-gia-drone-sti-leykada-i-mesogeios-den-tha-ginei-theatro-polemikon-epicheiriseon-tha-provoyme-se-diavimata/"/>
+    <id>urn:kathimerini:347823272e61</id>
+    <updated>2026-05-11T11:39:49+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Greek FM George Gerapetritis will brief today's EU Foreign Affairs Council on the naval drone discovered off Lefkada, calling it a particularly serious development. Athens plans to lodge diplomatic protests once the Hellenic General Staff investigation concludes. The minister stressed that Greece will not allow the Mediterranean to become a theatre of military operations.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Ουκρανικό το ναυτικό drone στη Λευκάδα – Τα σενάρια που εξετάζονται</title>
-    <link href="https://www.kathimerini.gr/society/564215524/leykada-choris-ekriktika-to-naytiko-drone-ta-senaria-poy-exetazontai/"/>
-    <id>urn:kathimerini:6c87b46f4420</id>
-    <updated>2026-05-08T10:52:51+00:00</updated>
-    <author><name>Γιάννης Σουλιώτης</name></author>
-    <summary>The naval drone found off Lefkada turned out to be a Ukrainian-type «MAGURA V3», equipped with detonators but no explosives. Authorities are weighing two scenarios: drug-trafficker use as a delivery tool, or a planned strike on Russian «shadow fleet» tankers in the Mediterranean. Bomb-disposal specialists from TENX removed the detonators.</summary>
+    <title>Τουρκία: Ξεκινά η δίκη του Εκρέμ Ιμάμογλου για «πολιτική κατασκοπεία»</title>
+    <link href="https://www.kathimerini.gr/world/564219928/toyrkia-xekina-i-diki-toy-ekrem-imamogloy-gia-politiki-kataskopeia/"/>
+    <id>urn:kathimerini:a4e9e1230b42</id>
+    <updated>2026-05-11T11:45:10+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>The trial of dismissed Istanbul mayor Ekrem İmamoğlu, his adviser Necati Özkan and journalist Merdan Yanardağ on 'political espionage' charges has begun at Marmara prison in Silivri. The 160-page indictment seeks 15-20 years in prison plus a political ban on İmamoğlu, covering activities from 2019 to 2025.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Ιράν: Οι προτάσεις προς τις ΗΠΑ ήταν «γενναιόδωρες και υπεύθυνες»</title>
+    <link href="https://www.kathimerini.gr/world/564219799/iran-oi-protaseis-pros-tis-ipa-itan-gennaiodores-kai-ypeythynes/"/>
+    <id>urn:kathimerini:ea3932e245fc</id>
+    <updated>2026-05-11T10:51:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Iran's foreign ministry spokesman Esmail Baqaei calls Tehran's proposals to Washington 'generous and responsible' and accuses the US of 'unreasonable demands'. President Trump publicly rejected Iran's response via Truth Social, calling it 'totally unacceptable'.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Νετανιάχου στο CBS: Στόχος του Ισραήλ η απεξάρτηση από την αμερικανική στρατιωτική βοήθεια</title>
+    <link href="https://www.kathimerini.gr/world/564219541/netaniachoy-sto-cbs-stochos-toy-israil-i-apexartisi-apo-tin-amerikaniki-stratiotiki-voitheia/"/>
+    <id>urn:kathimerini:f03785f8bfc3</id>
+    <updated>2026-05-11T08:30:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Israeli PM Benjamin Netanyahu told CBS '60 Minutes' Israel aims to wean itself off US military aid within a decade. Israel receives roughly $3.8bn per year; Netanyahu wants to begin the review 'now' rather than wait for the next Congress, citing deepening ties with Gulf states.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Αδήλωτα POS, αόρατες συναλλαγές</title>
+    <link href="https://www.kathimerini.gr/economy/564217885/adilota-pos-aorates-synallages/"/>
+    <id>urn:kathimerini:d0967b3474d0</id>
+    <updated>2026-05-11T09:46:44+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <summary>Greece's AADE tax authority is targeting a new wave of tax evasion via undeclared point-of-sale terminals, mostly foreign-issued, which print receipts that never reach the e-tax systems. Despite the €2.5bn collected through linking cash registers to POS, businesses are routing transactions to evade detection.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Ο ελέφαντας του αμερικανικού χρέους</title>
+    <link href="https://www.kathimerini.gr/opinion/564217711/o-elefantas-toy-amerikanikoy-chreoys/"/>
+    <id>urn:kathimerini:38ebb7a52320</id>
+    <updated>2026-05-10T20:13:00+00:00</updated>
+    <author><name>Αλέξης Παπαχελάς</name></author>
+    <summary>Alexis Papachelas examines the 'elephant in the room' of America's debt — now above 100% of GDP and rising. For the first time, debt servicing exceeds annual defence spending, worsened by $25bn already spent on the Iran war and Trump's commitments to new defence programmes. The trajectory threatens the dollar's global status.</summary>
+    <category term="opinion"/>
+  </entry>
+  <entry>
+    <title>Ε.Ε.: Κυρώσεις για εποίκους στη Δυτική Οχθη – Πρώτα σενάρια διαλόγου με τη Ρωσία στο Συμβούλιο ΥΠΕΞ</title>
+    <link href="https://www.kathimerini.gr/world/564219634/e-e-kyroseis-gia-epoikoys-sti-dytiki-ochthi-prota-senaria-dialogoy-me-ti-rosia-sto-symvoylio-ypex/"/>
+    <id>urn:kathimerini:7b7acd40ba43</id>
+    <updated>2026-05-11T09:42:13+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <summary>EU foreign ministers will today try to seal political agreement on sanctions against violent Israeli settlers in the West Bank. The package, targeting seven individuals and entities, had been blocked since December 2024 by Hungary's veto until the recent change of government in Budapest under Péter Magyar. Talks may also explore opening dialogue with Moscow.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Γαλλία και Βρετανία θα φιλοξενήσουν αύριο συνάντηση για τα Στενά του Ορμούζ</title>
+    <link href="https://www.kathimerini.gr/world/564219607/gallia-kai-vretania-tha-filoxenisoyn-ayrio-synantisi-gia-ta-stena-toy-ormoyz/"/>
+    <id>urn:kathimerini:c418bef4f49f</id>
+    <updated>2026-05-11T08:53:50+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Britain and France will co-chair tomorrow a meeting of defence ministers from 40+ countries to discuss military plans for restoring trade flows through the Strait of Hormuz. Iran's deputy foreign minister Kazem Gharibabadi warned against the deployment of warships. The UK has dispatched HMS Dragon to the Middle East.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Χανταϊός: Χωρίς συμπτώματα ο Ελληνας επιβάτης του «Hondius – Η ανακοίνωση του «Αττικόν»</title>
+    <link href="https://www.kathimerini.gr/society/564219844/chantaios-choris-symptomata-o-ellinas-epivatis-toy-hondius-i-anakoinosi-toy-attikon/"/>
+    <id>urn:kathimerini:9a7684e0f5f9</id>
+    <updated>2026-05-11T11:17:04+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>The Greek 'MV Hondius' passenger remains symptom-free with no signs of active hantavirus infection while in a precautionary 45-day quarantine at Attikon Hospital. The hospital director stresses isolation is purely for surveillance and prevention, with no confirmed infection.</summary>
     <category term="society"/>
   </entry>
   <entry>
-    <title>Ευρωπαϊκή κούρσα παραγωγής πυραύλων</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564214870/eyropaiki-koyrsa-paragogis-pyraylon/"/>
-    <id>urn:kathimerini:6a667d3cf4fb</id>
-    <updated>2026-05-08T11:58:16+03:00</updated>
-    <author><name>Γιώργος Σκαφιδάς</name></author>
-    <summary>An analysis of Europe&#x27;s missile-production race amid Trump&#x27;s planned withdrawal of 5,000 US troops from Germany following his rift with Chancellor Merz over Iran. Europeans lack deep-precision-strike capability without US assistance, leaving the Biden-era plan to deploy long-range missiles in Germany by 2027 in limbo.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Συνεδρίαση Ν.Δ.: Αιχμές κατά Κοβέσι, ασυμβίβαστο και εσωτερικά πυρά</title>
-    <link href="https://www.kathimerini.gr/politics/564214024/synedriasi-n-d-aichmes-kata-kovesi-asymvivasto-kai-esoterika-pyra/"/>
-    <id>urn:kathimerini:b22fb296b870</id>
-    <updated>2026-05-07T18:22:22+00:00</updated>
+    <title>Αδ. Γεωργιάδης: Κανένας απολύτως φόβος εξάπλωσης του χανταϊού στην Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/politics/564219463/ad-georgiadis-kanenas-apolytos-fovos-exaplosis-toy-chantaioy-stin-ellada/"/>
+    <id>urn:kathimerini:ae6086cef3ca</id>
+    <updated>2026-05-10T23:51:47+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>At ND&#x27;s marathon parliamentary group meeting, Makis Voridis directly criticized European Public Prosecutor Laura Kövesi for «operating in the political arena». Other debated topics included the MP-minister incompatibility, the «executive state» model, and constitutional revision, against a backdrop of sharp internal tensions.</summary>
+    <summary>Health Minister Adonis Georgiadis insists there is 'absolutely no danger' of hantavirus spread in Greece after the Greek 'MV Hondius' passenger was repatriated. The passenger has been placed in a negative-pressure isolation room at Attikon Hospital for a precautionary 45-day quarantine. Georgiadis criticised as 'toxic' the conspiracy-minded reactions to the repatriation.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Μόνο η Ελλάδα εφάρμοσε στοχευμένα μέτρα, λέει η Fitch</title>
-    <link href="https://www.kathimerini.gr/economy/local/564215158/mono-i-ellada-efarmose-stocheymena-metra-leei-i-fitch/"/>
-    <id>urn:kathimerini:698b8decd362</id>
-    <updated>2026-05-08T10:45:15+00:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
-    <summary>Rating agency Fitch singled out Greece as Europe&#x27;s lone exception in handling the energy crisis, saying it is the only country to have meaningfully applied targeted support measures rather than horizontal tax cuts. The agency warned that most European governments (Belgium, France, Germany, Italy, Spain) chose horizontal interventions despite EU warnings.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Χανταϊός: Παγκόσμιος αγώνας για την ιχνηλάτηση – Σε τέσσερις ηπείρους οι έρευνες</title>
-    <link href="https://www.kathimerini.gr/world/564215503/chantaios-pagkosmios-agonas-gia-tin-ichnilatisi-se-tesseris-ipeiroys-oi-ereynes/"/>
-    <id>urn:kathimerini:2984f08fc8cb</id>
-    <updated>2026-05-08T12:30:37+00:00</updated>
+    <title>CNN: Τι μαθαίνει η Κίνα από τον πόλεμο των ΗΠΑ στο Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564219577/cnn-ti-mathainei-i-kina-apo-ton-polemo-ton-ipa-sto-iran/"/>
+    <id>urn:kathimerini:94ba901fc8b2</id>
+    <updated>2026-05-11T11:17:59+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>A global Hantavirus contact-tracing race spans four continents after an outbreak on a cruise ship traveling from Argentina to Cape Verde. Three passengers have died (a Dutch couple and a German national), while over 20 people from 12 countries disembarked without contact tracing. The WHO assesses the risk to the general public as low.</summary>
+    <summary>CNN examines what China is learning from the three-month US-Iran war. Experts warn Beijing risks overestimating its own capabilities, underestimating its lack of combat experience and adopting a narrow lens on potential Taiwan-related conflict with Washington. The Iran war offers Chinese strategists a live snapshot of American forces in real combat.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Βρετανία: Το σκληρό μήνυμα των τοπικών εκλογών για την κυβέρνηση Στάρμερ</title>
-    <link href="https://www.kathimerini.gr/world/564215470/vretania-to-skliro-minyma-ton-topikon-eklogon-gia-tin-kyvernisi-starmer/"/>
-    <id>urn:kathimerini:5abffcb24551</id>
-    <updated>2026-05-08T10:21:47+00:00</updated>
+    <title>Χανταϊός: Αλλοι τρεις επιβάτες του κρουαζιερόπλοιου θετικοί</title>
+    <link href="https://www.kathimerini.gr/world/564219526/chantaios-alloi-dyo-epivates-toy-kroyazieroploioy-thetikoi/"/>
+    <id>urn:kathimerini:58b483ae19f6</id>
+    <updated>2026-05-11T08:03:11+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Sir Keir Starmer&#x27;s Labour Party suffered a sweeping defeat in British local elections, losing traditional strongholds in central and northern England. The chief beneficiary was Nigel Farage&#x27;s populist Reform UK, gaining more than 300 council seats. Starmer says he will not step down.</summary>
+    <summary>Three more 'MV Hondius' passengers tested positive for the Andes strain of hantavirus. Of 17 evacuated Americans, one is positive but asymptomatic and another has mild symptoms. A French passenger's condition is deteriorating. The ship has docked in the Canary Islands and passengers are being repatriated by military and government aircraft.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Νέες αιχμές Γεωργιάδη: Υπάρχουν υπουργοί που είναι σε ένα αεροπλάνο και γυρνάνε το σύμπαν</title>
-    <link href="https://www.kathimerini.gr/politics/564215479/nees-aichmes-georgiadi-yparchoyn-ypoyrgoi-poy-einai-se-ena-aeroplano-kai-gyrnane-to-sympan/"/>
-    <id>urn:kathimerini:995b61edd1eb</id>
-    <updated>2026-05-08T09:39:09+00:00</updated>
+    <title>«Θα σας σκοτώσω όλους»: Πώς συνέβη το επεισόδιο με τους πυροβολισμούς στην Καλλιθέα</title>
+    <link href="https://www.kathimerini.gr/society/564219262/tha-sas-skotoso-oloys-pos-synevi-to-epeisodio-me-toys-pyrovolismoys-stin-kallithea/"/>
+    <id>urn:kathimerini:4d7d710098fd</id>
+    <updated>2026-05-10T19:46:39+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Health Minister Adonis Georgiadis intensified attacks on cabinet colleagues, clearly targeting Defense Minister Nikos Dendias for traveling abroad rather than defending the party. He sorted ministers into three categories and signaled the country is heading to elections, claiming polls allow ND to win an outright majority.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Κίνα: Ηπια αντίδραση για το κινεζικό τάνκερ που επλήγη από το Ιράν κοντά στο Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564215566/kina-antidrasi-toy-pekinoy-gia-to-kineziko-tanker-poy-epligi-apo-to-iran-konta-sto-ormoyz/"/>
-    <id>urn:kathimerini:e66771ba753e</id>
-    <updated>2026-05-08T11:01:15+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Beijing reacted with restraint to Monday&#x27;s Iranian strike on a Chinese-owned tanker near the Strait of Hormuz, issuing a statement only four days later. It is the first confirmed Iranian attack on a Chinese vessel; Chinese nationals were aboard but no injuries have been reported.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Η Εθνική επιστρέφει στις ασφάλειες – Συμφωνία για το 30% της Allianz Ελλάδος</title>
-    <link href="https://www.kathimerini.gr/economy/business/564215509/i-ethniki-epistrefei-stis-asfaleies-symfonia-gia-to-30-tis-allianz-ellados/"/>
-    <id>urn:kathimerini:dbf4b7283b3b</id>
-    <updated>2026-05-08T09:56:16+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <summary>National Bank of Greece is returning to bancassurance with a MoU to buy 30% of Allianz Greece and an exclusive 10-year distribution partnership. The deal restores NBG&#x27;s insurance presence after losing Ethniki Insurance, while giving Allianz access to a major banking channel.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Υποκλοπές: Στον Αρειο Πάγο ο Σπίρτζης – Ζητεί ανάσυρση της υπόθεσης από το αρχείο και εξαίρεση Τζαβέλλα</title>
-    <link href="https://www.kathimerini.gr/politics/564213505/ypoklopes-ston-areio-pago-o-spirtzis-zitei-anasyrsi-tis-ypothesis-apo-to-archeio-kai-exairesi-tzavella/"/>
-    <id>urn:kathimerini:ca7e19960042</id>
-    <updated>2026-05-07T13:01:09+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <summary>Former SYRIZA minister Christos Spirtzis filed two requests at the Supreme Court: to reopen the Predator wiretapping case from the archives for espionage charges and to recuse Prosecutor Konstantinos Tzavellas. Spirtzis argues for a unified «EYP–Predator center», noting he received a malicious bait SMS just 50 minutes after tabling a parliamentary question on EYP.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Η Κίνα ενισχύει την επιρροή της σε όλη την Ασία με εξαγωγές καυσίμων</title>
-    <link href="https://www.kathimerini.gr/economy/international/564215221/i-kina-enischyei-tin-epirroi-tis-se-oli-tin-asia-me-exagoges-kaysimon/"/>
-    <id>urn:kathimerini:1d35c4a96030</id>
-    <updated>2026-05-08T11:11:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>China is leveraging its strategic oil reserves and renewable-energy deals to expand geopolitical influence across Asia, as the Iran war and Strait of Hormuz closures squeeze regional fuel supplies. Vietnam, the Philippines, Australia and other countries have turned to Beijing for energy security.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Εκκινούν οι εργασίες για το μετρό στα Εξάρχεια</title>
-    <link href="https://www.kathimerini.gr/society/564214798/ekkinoyn-oi-ergasies-gia-to-metro-sta-exarcheia/"/>
-    <id>urn:kathimerini:b4ae08a9952d</id>
-    <updated>2026-05-08T09:43:00+00:00</updated>
-    <author><name>Γιώργος Λιάλιος</name></author>
-    <summary>Construction is starting for the Exarcheia metro station after a court rejected 104 of 111 residents&#x27; suit, awarding €700 to seven plaintiffs. Attiko Metro will extend the worksite 1.5 meters toward Themistokleous Street, while the contracting consortium finalizes required studies.</summary>
+    <summary>Police arrested a 58-year-old man who, while intoxicated, opened fire with an 'Uzi' submachine gun inside a Kallithea nightclub. A 43-year-old female employee was shot in the neck, shoulder blade and jaw and is hospitalised in stable condition at Evangelismos. The attacker had shouted 'I'll kill you all' before opening fire, and was arrested in a rapid police operation.</summary>
     <category term="society"/>
   </entry>
   <entry>
-    <title>Δένδιας από Λισσαβώνα: Συζητήσαμε την προμήθεια μεταγωγικών αεροσκαφών C-390</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564214573/dendias-apo-lisavona-syzitisame-tin-promitheia-metagogikon-aeroskafon-c-390/"/>
-    <id>urn:kathimerini:fca47bbc11cf</id>
-    <updated>2026-05-07T21:44:44+00:00</updated>
+    <title>Κρήτη: Παρέσυρε την σύζυγό του με το αυτοκίνητο μπροστά στα παιδιά τους</title>
+    <link href="https://www.kathimerini.gr/society/564219196/kriti-paresyre-tin-syzygo-toy-me-to-aytokinito-mprosta-sta-paidia-toys/"/>
+    <id>urn:kathimerini:6f3b51c8b4ef</id>
+    <updated>2026-05-10T18:30:50+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Defense Minister Nikos Dendias, speaking from Lisbon, confirmed talks for Greek procurement of Embraer C-390 transport aircraft as part of deepening defense cooperation with Portugal. Discussions also covered unmanned systems, defense innovation, and the EU/NATO security mechanism.</summary>
+    <summary>A domestic-violence incident took place in Pantanassa, Heraklion, where a 30-year-old husband allegedly drove his car at his wife while three of their four children were in the vehicle. She is hospitalised at PAGNI with head injuries. He was arrested after the case turned against him during the initial investigation.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Μάχη μεταξύ τους και με το παρελθόν τους</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564217513/machi-metaxy-toys-kai-me-to-parelthon-toys/"/>
+    <id>urn:kathimerini:931d9836a055</id>
+    <updated>2026-05-11T10:59:02+00:00</updated>
+    <author><name>Γεράσιμος Μοσχονάς</name></author>
+    <summary>Political scientist Gerasimos Moschonas analyses the fierce contest between PASOK and Alexis Tsipras's emerging new party for second place. He argues the Tsipras vehicle owes its existence to SYRIZA's collapse and the New Left's failure to consolidate, and that its rise or fall will reshape Greece's centre-left landscape either way.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Θεωρείο: Μετά τη ΔΕΘ…</title>
-    <link href="https://www.kathimerini.gr/politics/564214726/theoreio-meta-ti-deth/"/>
-    <id>urn:kathimerini:fcd6f227c8ed</id>
-    <updated>2026-05-08T07:58:28+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <summary>In the Theoreio column, Stavros Papantoniou notes PM Mitsotakis&#x27;s remark that elections will happen «after the Thessaloniki International Fair» — leaving ambiguous whether he means September or 2027. The column also covers Patriarch Vartholomaios&#x27;s reception with head-of-state honors and the open Georgiadis-versus-Dendias clash inside the ND parliamentary group.</summary>
+    <title>Η συνέντευξη Δημητριάδη και οι αντιδράσεις της αντιπολίτευσης</title>
+    <link href="https://www.kathimerini.gr/politics/564219406/i-synenteyxi-dimitriadi-kai-oi-antidraseis-tis-antipoliteysis/"/>
+    <id>urn:kathimerini:54dfba17c071</id>
+    <updated>2026-05-10T22:21:49+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Former Maximos Mansion general secretary Grigoris Dimitriadis told 'Real' that he assumed political responsibility for the wiretaps scandal 'to protect the government and the secret services'. He attacked PASOK's Androulakis and ex-PM Tsipras as drivers of 'toxicity' and ruled out running for office.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Με τον IMEC θα υπάρξουν ευκαιρίες για όλους, εκτιμά η Ρώμη</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564212476/me-ton-imec-tha-yparxoyn-eykairies-gia-oloys-ektima-i-romi/"/>
-    <id>urn:kathimerini:80932660db65</id>
-    <updated>2026-05-07T22:11:18+03:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <summary>Italy&#x27;s IMEC special envoy, Ambassador Francesco Talò, told Kathimerini that Italy welcomes Greek participation in the India-Mediterranean-Europe corridor and stressed that the Gulf war reinforces the need to diversify trade routes. He called for EU Mediterranean states to act as «Team Europe».</summary>
+    <title>Τα 25 πρόσωπα στη «βιτρίνα» του κόμματος Τσίπρα</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564217504/ta-25-prosopa-sti-vitrina-toy-kommatos-tsipra/"/>
+    <id>urn:kathimerini:b2e4b66603b0</id>
+    <updated>2026-05-10T14:07:36+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <summary>Kathimerini lists the 25 figures set to form the public face of Alexis Tsipras's new party — professionals, scientists and academics who will run as candidates, serve as spokespeople or advise behind the scenes — as the former PM finalises preparations ahead of a June launch.</summary>
     <category term="politics"/>
   </entry>
 </feed>
