@@ -1,187 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini (2026-05-15)</title>
-  <id>greek-news-digest:2026-05-15</id>
-  <updated>2026-05-15T10:24:47.606379+00:00</updated>
-  <subtitle>Top 20 articles from kathimerini.gr for 2026-05-15</subtitle>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="el">
+  <title>Greek News Aggregator — Top 20 (2026-05-16)</title>
+  <subtitle>Daily curated Kathimerini stories with bilingual summaries.</subtitle>
+  <link href="https://www.kathimerini.gr/" rel="alternate"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
+  <id>tag:greek-news-aggregator,2026-05-16:/feeds/main</id>
+  <updated>2026-05-16T10:21:56.597930+00:00</updated>
+  <author><name>Greek News Aggregator</name></author>
   <entry>
-    <id>https://www.kathimerini.gr/politics/564227413/christodoylidis-oi-iroes-mas-oi-armoi-poy-enonoyn-toys-koinoys-agones-elladas-kai-kyproy/</id>
-    <title>Η ιστορική ομιλία του Νίκου Χριστοδουλίδη στη Βουλή</title>
-    <link href="https://www.kathimerini.gr/politics/564227413/christodoylidis-oi-iroes-mas-oi-armoi-poy-enonoyn-toys-koinoys-agones-elladas-kai-kyproy/"/>
+    <id>https://www.kathimerini.gr/economy/international/564230002/exantloyntai-ta-pagkosmia-apothemata-petrelaioy/</id>
+    <title>Πετρέλαιο: Πόσο απέχουμε απο το «σημείο μηδέν»;</title>
+    <link href="https://www.kathimerini.gr/economy/international/564230002/exantloyntai-ta-pagkosmia-apothemata-petrelaioy/"/>
+    <updated>2026-05-16T10:30:10+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-14T21:35:15+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Ο πρόεδρος της Κυπριακής Δημοκρατίας Νίκος Χριστοδουλίδης πραγματοποίησε ιστορική ομιλία στην Ολομέλεια της Βουλής, μιλώντας για τους «άρρηκτους δεσμούς» Ελλάδας-Κύπρου και απορρίπτοντας οποιαδήποτε λύση δύο κρατών στο Κυπριακό. Η ομιλία, παρουσία του πρωθυπουργού και του Αρχιεπισκόπου, αναβίωσε την παράδοση των κυπριακών προεδρικών ομιλιών στο ελληνικό κοινοβούλιο.</summary>
+    <category term="economy"/>
+    <summary type="text">With the Persian Gulf closed by the Iran war, global oil inventories are draining at record speed. Analysts warn that if the Strait of Hormuz stays shut, the world is only weeks away from serious fuel shortages and a price surge.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; With the Persian Gulf closed by the Iran war, global oil inventories are draining at record speed. Analysts warn that if the Strait of Hormuz stays shut, the world is only weeks away from serious fuel shortages and a price surge.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Με τον αποκλεισμό του Περσικού Κόλπου λόγω του πολέμου στο Ιράν, τα παγκόσμια αποθέματα πετρελαίου μειώνονται με ρυθμούς ρεκόρ. Αναλυτές προβλέπουν ότι αν τα Στενά του Ορμούζ παραμείνουν κλειστά, σε λίγες εβδομάδες θα εμφανιστούν σοβαρές ελλείψεις σε καύσιμα.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564227725/ellinotoyrkika-i-athina-perimenei-thermo-kalokairi-me-tin-agkyra/</id>
-    <title>Ελληνοτουρκικά: Η Αθήνα περιμένει θερμό καλοκαίρι με την Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564227725/ellinotoyrkika-i-athina-perimenei-thermo-kalokairi-me-tin-agkyra/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564230098/ellinotoyrkika-aoz-200-milion-mono-me-mia-ypografi-erntogan/</id>
+    <title>Ελληνοτουρκικά: ΑΟΖ 200 μιλίων μόνο με μία υπογραφή Ερντογάν</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564230098/ellinotoyrkika-aoz-200-milion-mono-me-mia-ypografi-erntogan/"/>
+    <updated>2026-05-16T07:05:58+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
-    <updated>2026-05-15T07:13:00+00:00</updated>
     <category term="politics"/>
-    <summary type="text">Η Αθήνα προετοιμάζεται για ένα ταραγμένο καλοκαίρι στα ελληνοτουρκικά, μετά την επίσημη επιβεβαίωση ότι η Άγκυρα θα καταθέσει τον Ιούνιο νομοσχέδιο για τις «γκρίζες ζώνες». Οι υπουργοί Γεραπετρίτης και Δένδιας προειδοποιούν ότι μονομερείς ενέργειες δεν έχουν διεθνή ισχύ, ενώ η ελληνική πλευρά εξετάζει πολλαπλές δυνατότητες αντίδρασης στο πλαίσιο του Διεθνούς Δικαίου.</summary>
+    <summary type="text">New leaks from Ankara say a forthcoming Turkish bill will allow Erdogan to unilaterally declare EEZs up to 200 nautical miles with a single signature. A Turkish presidential adviser reiterated the 1995 casus belli against any Greek extension of territorial waters.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; New leaks from Ankara say a forthcoming Turkish bill will allow Erdogan to unilaterally declare EEZs up to 200 nautical miles with a single signature. A Turkish presidential adviser reiterated the 1995 casus belli against any Greek extension of territorial waters.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέες διαρροές από την Άγκυρα αναφέρουν ότι ο Ερντογάν θα μπορεί να ανακηρύσσει μονομερώς ΑΟΖ έως 200 ναυτικών μιλίων με μία υπογραφή, βάσει νέου νομοσχεδίου. Σύμβουλος του Τούρκου προέδρου επανέφερε το casus belli του 1995 για επέκταση των ελληνικών χωρικών υδάτων.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564227176/diplomatikes-piges-to-nomoschedio-peri-galazias-patridas-den-symvallei-sta-irema-nera/</id>
-    <title>Διπλωματικές πηγές: Το νομοσχέδιο περί «Γαλάζιας Πατρίδας» δεν συμβάλλει στα «ήρεμα νερά»</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564227176/diplomatikes-piges-to-nomoschedio-peri-galazias-patridas-den-symvallei-sta-irema-nera/"/>
+    <id>https://www.kathimerini.gr/world/564229639/synantisi-tramp-si-thriamvologies-choris-antikrisma/</id>
+    <title>Συνάντηση Τραμπ – Σι: Θριαμβολογίες χωρίς αντίκρισμα</title>
+    <link href="https://www.kathimerini.gr/world/564229639/synantisi-tramp-si-thriamvologies-choris-antikrisma/"/>
+    <updated>2026-05-16T06:33:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-14T19:13:08+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Διπλωματικές πηγές της Αθήνας κάνουν σαφές ότι το τουρκικό νομοσχέδιο για τη «Γαλάζια Πατρίδα» δεν συμβάλλει στα «ήρεμα νερά», αλλά εκτιμούν την κατάσταση ως διαχειρίσιμη. Ο ΥΠΕΞ Γεραπετρίτης προειδοποιεί ότι μονομερείς ενέργειες είναι «καταδικασμένες να αποτύχουν» και η Αθήνα προτιμά να ενεργεί παρά να αντιδρά.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/world/564228394/tramp-si-ta-agefyrota-chasmata-piso-apo-ti-chorografia-toy-pekinoy/</id>
-    <title>Τραμπ – Σι: Τα αγεφύρωτα χάσματα πίσω από τη «χορογραφία» του Πεκίνου</title>
-    <link href="https://www.kathimerini.gr/world/564228394/tramp-si-ta-agefyrota-chasmata-piso-apo-ti-chorografia-toy-pekinoy/"/>
-    <author><name>Newsroom</name></author>
-    <updated>2026-05-15T10:11:50+00:00</updated>
     <category term="world"/>
-    <summary type="text">Η συνάντηση κορυφής Τραμπ-Σι σκηνοθετήθηκε ως «επανένωση παλιών φίλων», αλλά πίσω από τη θερμή χορογραφία παραμένουν αγεφύρωτα χάσματα στις σχέσεις ΗΠΑ-Κίνας. Από το εμπόριο και την τεχνολογία έως την Ταϊβάν και το Ιράν, οι πραγματικές κινήσεις των δύο πλευρών απομακρύνουν αντί να συγκλίνουν τις δύο υπερδυνάμεις, παρά τις δηλώσεις θερμότητας.</summary>
+    <summary type="text">The two-day Trump-Xi Beijing summit was rich in friendly statements but produced no concrete deliverables on trade, Taiwan or the Middle East. Trump listened to Xi's Taiwan stance 'without commenting'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The two-day Trump-Xi Beijing summit was rich in friendly statements but produced no concrete deliverables on trade, Taiwan or the Middle East. Trump listened to Xi's Taiwan stance 'without commenting'.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η διήμερη σύνοδος Τραμπ-Σι στο Πεκίνο ήταν πλούσια σε θερμές δηλώσεις αλλά χωρίς απτά αποτελέσματα στο εμπόριο, την Ταϊβάν ή τη Μέση Ανατολή. Ο Τραμπ άκουσε χωρίς δέσμευση τις θέσεις του Σι για την Ταϊβάν.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/564228433/tempi-ston-areio-pago-i-karystianoy-zitei-anavathmisi-katigoritirioy-gia-karamanli/</id>
-    <title>Τέμπη: Στον Αρειο Πάγο η Καρυστιανού – Ζητεί αναβάθμιση κατηγορητηρίου για Καραμανλή</title>
-    <link href="https://www.kathimerini.gr/politics/564228433/tempi-ston-areio-pago-i-karystianoy-zitei-anavathmisi-katigoritirioy-gia-karamanli/"/>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <updated>2026-05-15T09:39:57+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Η Μαρία Καρυστιανού πέρασε το κατώφλι του Αρείου Πάγου ζητώντας αναβάθμιση του κατηγορητηρίου κατά του Κώστα Καραμανλή για τα Τέμπη, καταγγέλλοντας ότι το άρθρο 86 του Συντάγματος λειτουργεί ως «κολυμβήθρα του Σιλωάμ». Δήλωσε έτοιμη για το «επόμενο βήμα» που θα ξεκινήσει από τη Θεσσαλονίκη, υπονοώντας την ίδρυση νέου πολιτικού φορέα.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/politics/parties/564227710/sto-kokkino-i-antiparathesi-n-d-pasok/</id>
-    <title>Στο «κόκκινο» η αντιπαράθεση Ν.Δ. – ΠΑΣΟΚ</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564227710/sto-kokkino-i-antiparathesi-n-d-pasok/"/>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <updated>2026-05-15T06:51:00+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Η αντιπαράθεση ΝΔ–ΠΑΣΟΚ χτύπησε «κόκκινο» με αφορμή ακίνητο της οικογένειας Ανδρουλάκη που μισθώνεται από το Κτηματολόγιο από το 2010. Η κυβέρνηση θέτει ηθικό θέμα, η Χαριλάου Τρικούπη μιλά για στημένη δολοφονία χαρακτήρα, ενώ ανακοινώνει νομικές ενέργειες κατά του υπουργού Υγείας Άδωνι Γεωργιάδη. Σήμα έντονης προεκλογικής περιόδου.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/politics/564228649/maria-karystianoy-tis-prosecheis-imeres-katathetei-ta-dikaiologitika-gia-to-neo-komma/</id>
-    <title>Μαρία Καρυστιανού: Τις προσεχείς ημέρες καταθέτει τα δικαιολογητικά για το νέο κόμμα</title>
-    <link href="https://www.kathimerini.gr/politics/564228649/maria-karystianoy-tis-prosecheis-imeres-katathetei-ta-dikaiologitika-gia-to-neo-komma/"/>
+    <id>https://www.kathimerini.gr/world/564229636/oykranika-antipoina-meta-to-mparaz-rosikon-epitheseon-sto-kievo/</id>
+    <title>Ουκρανικά αντίποινα μετά το μπαράζ ρωσικών επιθέσεων στο Κίεβο</title>
+    <link href="https://www.kathimerini.gr/world/564229636/oykranika-antipoina-meta-to-mparaz-rosikon-epitheseon-sto-kievo/"/>
+    <updated>2026-05-16T06:37:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-15T12:18:53+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Η Μαρία Καρυστιανού κατέθεσε ενώπιον του ανακριτή του Αρείου Πάγου για την υπόθεση των Τεμπών, ζητώντας αναβάθμιση του κατηγορητηρίου εις βάρος του πρώην υπουργού Μεταφορών Κώστα Καραμανλή. Παράλληλα, αναμένεται να καταθέσει τη Δευτέρα 18 Μαΐου τα δικαιολογητικά για την ίδρυση νέου κόμματος, η ανακοίνωση του οποίου έχει προγραμματιστεί για τις 21 Μαΐου από τη Θεσσαλονίκη.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/visual/infographics/564228127/paragoyme-ligo-eno-doyleyoyme-polles-ores/</id>
-    <title>Παράγουμε λίγο, ενώ δουλεύουμε πολλές ώρες</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564228127/paragoyme-ligo-eno-doyleyoyme-polles-ores/"/>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <updated>2026-05-15T10:27:04+03:00</updated>
-    <category term="economy"/>
-    <summary type="text">Η παραγωγικότητα ανά απασχολούμενο στην Ελλάδα βρίσκεται στο 54% του μέσου όρου της ΕΕ και χαμηλότερα από πριν 25 χρόνια, παρά τα τρία Μνημόνια. Η αύξηση κατά 22% του κατά κεφαλήν ΑΕΠ προήλθε από την απασχόληση και όχι από βελτίωση παραγωγικότητας, ενώ ο ΣΕΒ αναφέρει 90.000 κενές θέσεις στη βιομηχανία και προειδοποιεί ότι η ενίσχυση της παραγωγικότητας είναι μονόδρομος.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/economy/international/564228238/oi-megales-prokliseis-gia-ton-neo-proedro-tis-fed-kevin-goyors/</id>
-    <title>Οι μεγάλες προκλήσεις για τον νέο πρόεδρο της Fed, Κέβιν Γουόρς</title>
-    <link href="https://www.kathimerini.gr/economy/international/564228238/oi-megales-prokliseis-gia-ton-neo-proedro-tis-fed-kevin-goyors/"/>
-    <author><name>Newsroom</name></author>
-    <updated>2026-05-15T08:36:00+00:00</updated>
-    <category term="economy"/>
-    <summary type="text">Ο Κέβιν Γουόρς ανέλαβε την προεδρία της Federal Reserve υπό πολιτική πολιορκία από τον Τραμπ, σε οικονομία με πληθωριστικές πιέσεις και γεωπολιτική ένταση. Ο τέως πρόεδρος Πάουελ θα παραμείνει στην Fed για πρώτη φορά από το 1948, δείγμα ανησυχίας για την ανεξαρτησία του θεσμού.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/world/564228655/oi-ipa-anamenetai-na-anakoinosoyn-paratasi-tis-ekecheirias-israil-livanoy-symfona-me-anafores/</id>
-    <title>Οι ΗΠΑ αναμένεται να ανακοινώσουν παράταση της εκεχειρίας Ισραήλ – Λιβάνου, σύμφωνα με αναφορές</title>
-    <link href="https://www.kathimerini.gr/world/564228655/oi-ipa-anamenetai-na-anakoinosoyn-paratasi-tis-ekecheirias-israil-livanoy-symfona-me-anafores/"/>
-    <author><name>Newsroom</name></author>
-    <updated>2026-05-15T12:22:21+00:00</updated>
     <category term="world"/>
-    <summary type="text">Οι ΗΠΑ αναμένεται να ανακοινώσουν παράταση της εκεχειρίας Ισραήλ-Λιβάνου και πρόθεση συνέχισης των διαπραγματεύσεων, σύμφωνα με τη λιβανέζικη Al-Akhbar. Το πλαίσιο προβλέπει σταδιακό τερματισμό της ισραηλινής στρατιωτικής παρουσίας στον Λίβανο μαζί με πλήρη αφοπλισμό της Χεζμπολάχ, αλλά το Ισραήλ «δεν θα δεσμευτεί σε πλήρη εκεχειρία».</summary>
+    <summary type="text">Ukraine declared a day of national mourning for the 24 civilians killed in Russia's Kyiv bombardment. Zelensky vowed retaliation against Russian energy and military infrastructure.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Ukraine declared a day of national mourning for the 24 civilians killed in Russia's Kyiv bombardment. Zelensky vowed retaliation against Russian energy and military infrastructure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ουκρανία κήρυξε ημέρα εθνικού πένθους για τους 24 αμάχους που σκοτώθηκαν στους ρωσικούς βομβαρδισμούς στο Κίεβο. Ο Ζελένσκι ανακοίνωσε αντίποινα κατά ρωσικών ενεργειακών και στρατιωτικών στόχων.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/564226984/foyntonei-i-kontra-georgiadi-pasok-gia-to-akinito-androylaki-sto-irakleio/</id>
-    <title>Φουντώνει η κόντρα Γεωργιάδη – ΠΑΣΟΚ για το ακίνητο Ανδρουλάκη στο Ηράκλειο</title>
-    <link href="https://www.kathimerini.gr/politics/564226984/foyntonei-i-kontra-georgiadi-pasok-gia-to-akinito-androylaki-sto-irakleio/"/>
+    <id>https://www.kathimerini.gr/opinion/564227878/i-toyrkia-epilegei-ti-thermi-sygkroysi/</id>
+    <title>Η Τουρκία επιλέγει τη θερμή σύγκρουση</title>
+    <link href="https://www.kathimerini.gr/opinion/564227878/i-toyrkia-epilegei-ti-thermi-sygkroysi/"/>
+    <updated>2026-05-15T20:07:00+00:00</updated>
+    <author><name>Σάκης Μουμτζής</name></author>
+    <category term="opinion"/>
+    <summary type="text">An op-ed arguing that Turkey's planned EEZ and territorial-waters law signals not mere tension but confrontation. It revives the 'grey zones' doctrine and risks putting Greece and Turkey on a collision course.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An op-ed arguing that Turkey's planned EEZ and territorial-waters law signals not mere tension but confrontation. It revives the 'grey zones' doctrine and risks putting Greece and Turkey on a collision course.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σχόλιο που υποστηρίζει ότι η Τουρκία με το νέο νομοσχέδιο για ΑΟΖ και χωρικά ύδατα στήνει σκηνικό σύγκρουσης και όχι έντασης. Οι ρυθμίσεις επαναφέρουν τη θεωρία των γκρίζων ζωνών, βάζοντας Ελλάδα και Τουρκία σε τροχιά θερμής αντιπαράθεσης.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564231322/mitsotakis-ekloges-to-2027-oi-ellines-tha-epilexoyn-poios-tha-toys-ekprosopisei-stin-proedria-tis-e-e/</id>
+    <title>Μητσοτάκης: Εκλογές το 2027 – Οι Ελληνες θα επιλέξουν ποιος θα τους εκπροσωπήσει στην Προεδρία της Ε.Ε.</title>
+    <link href="https://www.kathimerini.gr/politics/564231322/mitsotakis-ekloges-to-2027-oi-ellines-tha-epilexoyn-poios-tha-toys-ekprosopisei-stin-proedria-tis-e-e/"/>
+    <updated>2026-05-16T12:25:08+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-14T17:55:12+00:00</updated>
     <category term="politics"/>
-    <summary type="text">Φουντώνει η κόντρα Γεωργιάδη – ΠΑΣΟΚ στη Βουλή για το ακίνητο της οικογένειας Ανδρουλάκη στο Ηράκλειο, με τον υπουργό Υγείας να κατηγορεί τον αρχηγό της αξιωματικής αντιπολίτευσης για «ψευδές πόθεν έσχες» και «υποκρισία». Το ΠΑΣΟΚ καταγγέλλει «λάσπη στον ανεμιστήρα» και προαναγγέλλει νομικές ενέργειες κατά του υπουργού.</summary>
+    <summary type="text">PM Kyriakos Mitsotakis told the New Democracy congress that elections will be held in 2027, the same year Greece assumes the EU presidency. He thanked EPP leader Manfred Weber and laid out a vision for 'Greece in 2030'.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PM Kyriakos Mitsotakis told the New Democracy congress that elections will be held in 2027, the same year Greece assumes the EU presidency. He thanked EPP leader Manfred Weber and laid out a vision for 'Greece in 2030'.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρωθυπουργός Κυριάκος Μητσοτάκης δήλωσε στο 16ο συνέδριο της ΝΔ πως οι εκλογές θα γίνουν το 2027, την ίδια χρονιά που η Ελλάδα αναλαμβάνει την προεδρία της Ε.Ε. Ευχαρίστησε τον πρόεδρο του ΕΛΚ Μάνφρεντ Βέμπερ και έθεσε ως ορίζοντα την «Ελλάδα του 2030».&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/564227728/entos-kai-ektos-stis-21-ma-oy-oi-apofaseis-gia-proanakritiki/</id>
-    <title>Εντός και Εκτός: Στις 21 Μαΐου οι αποφάσεις για Προανακριτική</title>
-    <link href="https://www.kathimerini.gr/politics/564227728/entos-kai-ektos-stis-21-ma-oy-oi-apofaseis-gia-proanakritiki/"/>
-    <author><name>Βασίλης Νέδος</name></author>
-    <updated>2026-05-15T07:49:00+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Στη Διάσκεψη των Προέδρων αποφασίστηκε ότι στις 21 Μαΐου η Ολομέλεια της Βουλής θα συζητήσει τις αποφάσεις για την Προανακριτική Επιτροπή. Η στήλη σημειώνει επίσης την επίσκεψη του Σαουδάραβα ΥΠΕΞ στην Αθήνα, με ευχαριστίες για τη συμβολή της Ελλάδας στην αεράμυνα του Βασιλείου, και την ιστορική ομιλία του Νίκου Χριστοδουλίδη στην Ολομέλεια.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/economy/international/564228232/to-ischyro-charti-si-sti-synantisi-me-ton-tramp/</id>
-    <title>To ισχυρό χαρτί Σι στη συνάντηση με τον Τραμπ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564228232/to-ischyro-charti-si-sti-synantisi-me-ton-tramp/"/>
+    <id>https://www.kathimerini.gr/world/564229429/gaza-plirofories-oti-exoydeterothike-o-igetis-tis-chamas-meta-apo-israilino-pligma/</id>
+    <title>Γάζα: Πληροφορίες ότι εξουδετερώθηκε ηγέτης της Χαμάς μετά από ισραηλινό πλήγμα</title>
+    <link href="https://www.kathimerini.gr/world/564229429/gaza-plirofories-oti-exoydeterothike-o-igetis-tis-chamas-meta-apo-israilino-pligma/"/>
+    <updated>2026-05-15T21:11:07+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-15T09:19:04+00:00</updated>
-    <category term="economy"/>
-    <summary type="text">Στη συνάντηση κορυφής με τον Ντόναλντ Τραμπ, ο Σι Τζινπίνγκ διαθέτει νέο ισχυρό χαρτί διαπραγμάτευσης: τον πόλεμο στο Ιράν. Η Κίνα, βασικός αγοραστής ιρανικού πετρελαίου, ωθεί το Ιράν σε διαπραγματεύσεις με τις ΗΠΑ, ενώ ταυτόχρονα δέχεται πιέσεις από Λευκό Οίκο να μειώσει τη στήριξη προς Τεχεράνη.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/society/564228580/michalis-pikramenos-mono-oriakes-kai-simeiakes-veltioseis-epidechetai-to-ischyon-syntagma/</id>
-    <title>Μιχάλης Πικραμένος: Μόνο οριακές και σημειακές βελτιώσεις επιδέχεται το ισχύον Σύνταγμα</title>
-    <link href="https://www.kathimerini.gr/society/564228580/michalis-pikramenos-mono-oriakes-kai-simeiakes-veltioseis-epidechetai-to-ischyon-syntagma/"/>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <updated>2026-05-15T11:26:08+00:00</updated>
-    <category term="society"/>
-    <summary type="text">Ο πρόεδρος του Συμβουλίου της Επικρατείας Μιχάλης Πικραμένος απέστειλε στους πολιτικούς αρχηγούς τις προτάσεις του ΣτΕ για τη συνταγματική αναθεώρηση, υποστηρίζοντας ότι το ισχύον Σύνταγμα επιδέχεται μόνο «οριακές και σημειακές βελτιώσεις». Απορρίπτει εμμέσως σενάρια βαθέων θεσμικών τομών, τονίζοντας ότι το συνταγματικό πλαίσιο έχει αποδείξει την αντοχή του σε κρίσεις.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/world/564228697/politico-to-praxikopima-kata-toy-kir-starmer-archizei-na-pairnei-morfi/</id>
-    <title>Politico: Το «πραξικόπημα» κατά του Κιρ Στάρμερ αρχίζει να παίρνει μορφή</title>
-    <link href="https://www.kathimerini.gr/world/564228697/politico-to-praxikopima-kata-toy-kir-starmer-archizei-na-pairnei-morfi/"/>
-    <author><name>Newsroom</name></author>
-    <updated>2026-05-15T12:42:33+00:00</updated>
     <category term="world"/>
-    <summary type="text">Σύμφωνα με ανάλυση του Politico, το «πραξικόπημα» κατά του Κιρ Στάρμερ αρχίζει να παίρνει σαφέστερη μορφή μετά τις βαριές εκλογικές απώλειες, με 96 από τους 402 βουλευτές των Εργατικών να ζητούν χρονοδιάγραμμα αποχώρησης. Δύο ονόματα ξεχωρίζουν ως πιθανοί διάδοχοι: ο δήμαρχος Μάντσεστερ Άντι Μπέρναμ και ο πρώην υπουργός Γουές Στρίτινγκ.</summary>
+    <summary type="text">Israeli officials say there are 'indications' that Hamas Gaza leader Izz al-Din al-Haddad was killed in an Israeli airstrike. PM Netanyahu and Defense Minister Katz had ordered the operation.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israeli officials say there are 'indications' that Hamas Gaza leader Izz al-Din al-Haddad was killed in an Israeli airstrike. PM Netanyahu and Defense Minister Katz had ordered the operation.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με ισραηλινούς αξιωματούχους, υπάρχουν «ενδείξεις» ότι ο ηγέτης της Χαμάς στη Γάζα Ιζ αλ Ντιν αλ Χαντάντ σκοτώθηκε σε αεροπορική επιδρομή. Νετανιάχου και Κατς είχαν δώσει εντολή εξόντωσης.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/world/564228421/i-rosia-anakoinose-oti-katerripse-355-oykranika-drone/</id>
-    <title>Η Ρωσία ανακοίνωσε ότι κατέρριψε 355 ουκρανικά drones</title>
-    <link href="https://www.kathimerini.gr/world/564228421/i-rosia-anakoinose-oti-katerripse-355-oykranika-drone/"/>
+    <id>https://www.kathimerini.gr/world/564230146/to-schedio-si-gia-tin-apotropi-mias-sygkroysis-yperdynameon/</id>
+    <title>Το σχέδιο Σι για την αποτροπή μιας σύγκρουσης υπερδυνάμεων</title>
+    <link href="https://www.kathimerini.gr/world/564230146/to-schedio-si-gia-tin-apotropi-mias-sygkroysis-yperdynameon/"/>
+    <updated>2026-05-15T23:07:59+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-15T09:20:42+00:00</updated>
     <category term="world"/>
-    <summary type="text">Η Ρωσία ανακοίνωσε ότι κατέρριψε 355 ουκρανικά drones κατά τη διάρκεια της νύχτας. Επίθεση drone στην πόλη Ριαζάν στοίχισε τη ζωή σε τρεις ανθρώπους, ενώ ο απολογισμός των ρωσικών βομβαρδισμών στο Κίεβο νωρίτερα αυξήθηκε στους 24 νεκρούς, μεταξύ των οποίων τρία παιδιά. Ο δήμαρχος Κλίτσκο κήρυξε ημέρα πένθους.</summary>
+    <summary type="text">Analysis of 'Xi's plan' in US-China relations: the Chinese president is offering Washington either to accept China as an equal power with 'red lines', or to keep cycling through confrontation. After tariffs and rare-earth curbs, Xi pivots from conflict to engagement.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Analysis of 'Xi's plan' in US-China relations: the Chinese president is offering Washington either to accept China as an equal power with 'red lines', or to keep cycling through confrontation. After tariffs and rare-earth curbs, Xi pivots from conflict to engagement.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση για το «σχέδιο Σι» στις σχέσεις Κίνας-ΗΠΑ: ο Κινέζος πρόεδρος προτείνει είτε αποδοχή της Κίνας ως ισότιμης δύναμης με «κόκκινες γραμμές», είτε συνέχιση της σύγκρουσης. Μετά τους δασμούς και τους περιορισμούς σπάνιων γαιών, ο Σι περνά από την αντιπαράθεση στη συνδιαλλαγή.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/564228607/pasok-kata-georgiadi-ola-tha-lythoyn-sti-dikaiosyni-na-min-kryftei-piso-apo-tin-asylia-toy/</id>
-    <title>ΠΑΣΟΚ κατά Γεωργιάδη: Ολα θα λυθούν στη Δικαιοσύνη – Να μην κρυφτεί πίσω από την ασυλία του</title>
-    <link href="https://www.kathimerini.gr/politics/564228607/pasok-kata-georgiadi-ola-tha-lythoyn-sti-dikaiosyni-na-min-kryftei-piso-apo-tin-asylia-toy/"/>
+    <id>https://www.kathimerini.gr/politics/564229300/live-i-omilia-mitsotaki-sto-synedrio-tis-n-d/</id>
+    <title>Κυρ. Μητσοτάκης: «Νέα εθνική αποστολή με πρώτο σταθμό τις εκλογές του 2027»</title>
+    <link href="https://www.kathimerini.gr/politics/564229300/live-i-omilia-mitsotaki-sto-synedrio-tis-n-d/"/>
+    <updated>2026-05-15T19:20:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-15T11:47:38+00:00</updated>
     <category term="politics"/>
-    <summary type="text">Το ΠΑΣΟΚ εξαπολύει δριμεία επίθεση στον Άδωνι Γεωργιάδη και την κυβέρνηση για το ακίνητο της οικογένειας Ανδρουλάκη που μισθώνεται από το Κτηματολόγιο, κάνοντας λόγο για «πρωτοφανή επιχείρηση σπίλωσης». Η αξιωματική αντιπολίτευση προαναγγέλλει προσφυγή στη Δικαιοσύνη και καλεί τον υπουργό Υγείας να μην κρυφτεί πίσω από τη βουλευτική του ασυλία.</summary>
+    <summary type="text">Mitsotakis' speech at the 16th New Democracy congress set the 2027 elections and 'Greece in 2030' as the party's 'new national mission'. The PM urged the party to act as a bridge between government and citizens, vowing to stay on the front line.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Mitsotakis' speech at the 16th New Democracy congress set the 2027 elections and 'Greece in 2030' as the party's 'new national mission'. The PM urged the party to act as a bridge between government and citizens, vowing to stay on the front line.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η ομιλία Μητσοτάκη στο 16ο συνέδριο της ΝΔ έθεσε ως «νέα εθνική αποστολή» τις εκλογές του 2027 και την «Ελλάδα του 2030». Ο πρωθυπουργός κάλεσε το κόμμα να γίνει σύνδεσμος μεταξύ κυβέρνησης και πολιτών, δηλώνοντας ότι παραμένει στην πρώτη γραμμή.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/politics/parties/564225340/i-n-d-kai-o-eykoloteros-antipalos-stis-kalpes/</id>
-    <title>Η Ν.Δ. και ο… ευκολότερος αντίπαλος στις κάλπες</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564225340/i-n-d-kai-o-eykoloteros-antipalos-stis-kalpes/"/>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <updated>2026-05-14T20:31:01+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Το Μαξίμου σταθμίζει τα νέα δεδομένα μετά την επικείμενη ίδρυση του κόμματος Τσίπρα, με τη ΝΔ να παρακολουθεί στενά τη μάχη για τη δεύτερη θέση ανάμεσα στο ΠΑΣΟΚ και το νέο εγχείρημα. Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης απορρίπτει τη λογική «εκλεκτού αντιπάλου» και εστιάζει στην επανάκτηση των δυσαρεστημένων ψηφοφόρων της ΝΔ.</summary>
-  </entry>
-  <entry>
-    <id>https://www.kathimerini.gr/economy/local/564228097/ti-mas-eipe-pali-o-oosa/</id>
-    <title>Τι μας είπε πάλι ο ΟΟΣΑ;</title>
-    <link href="https://www.kathimerini.gr/economy/local/564228097/ti-mas-eipe-pali-o-oosa/"/>
+    <id>https://www.kathimerini.gr/economy/local/564229912/palio-chreos-neoi-ponokefaloi/</id>
+    <title>Παλιό χρέος, νέοι πονοκέφαλοι</title>
+    <link href="https://www.kathimerini.gr/economy/local/564229912/palio-chreos-neoi-ponokefaloi/"/>
+    <updated>2026-05-16T12:45:00+00:00</updated>
     <author><name>Νίκος Φιλιππίδης</name></author>
-    <updated>2026-05-15T12:42:04+00:00</updated>
     <category term="economy"/>
-    <summary type="text">Σύμφωνα με την τελευταία έκθεση του ΟΟΣΑ, η Ελλάδα παρουσίασε τη μεγαλύτερη τριμηνιαία αύξηση πραγματικού διαθέσιμου εισοδήματος μεταξύ των 38 χωρών-μελών στο δ&apos; τρίμηνο του 2025, στο 3,3% πάνω από τον πληθωρισμό. Το άρθρο αντιπαραβάλλει αυτή την επίδοση με την προ τριετίας πολιτική συζήτηση για «φτωχοποίηση», υπενθυμίζοντας τη σημασία της παρακολούθησης των εκθέσεων του Οργανισμού.</summary>
+    <summary type="text">Greece is stuck with €79 billion of overdue debt to the state, with the number of taxpayer debtors jumping from 3.6 to 4.8 million in a single month. Kathimerini notes the spike recurs annually around the first ENFIA property-tax instalment.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece is stuck with €79 billion of overdue debt to the state, with the number of taxpayer debtors jumping from 3.6 to 4.8 million in a single month. Kathimerini notes the spike recurs annually around the first ENFIA property-tax instalment.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η ελληνική οικονομία βρίσκεται εγκλωβισμένη σε ληξιπρόθεσμο χρέος 79 δισ. ευρώ, ενώ οι οφειλέτες του Δημοσίου εκτοξεύθηκαν από 3,6 σε 4,8 εκατομμύρια σε έναν μήνα. Σύμφωνα με την «Κ», το φαινόμενο επαναλαμβάνεται κάθε χρόνο γύρω από τις δόσεις του ΕΝΦΙΑ.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>https://www.kathimerini.gr/economy/international/564228190/i-eyropi-exartatai-olo-kai-pio-poly-apo-to-amerikaniko-lng/</id>
-    <title>Η Ευρώπη εξαρτάται όλο και πιο πολύ από το αμερικανικό LNG</title>
-    <link href="https://www.kathimerini.gr/economy/international/564228190/i-eyropi-exartatai-olo-kai-pio-poly-apo-to-amerikaniko-lng/"/>
+    <id>https://www.kathimerini.gr/world/564231199/meta-ton-tramp-kai-o-poytin-sto-pekino-episkepsi-stis-19-kai-20-ma-oy/</id>
+    <title>Μετά τον Τραμπ και ο Πούτιν στο Πεκίνο – Επίσκεψη στις 19 και 20 Μαΐου</title>
+    <link href="https://www.kathimerini.gr/world/564231199/meta-ton-tramp-kai-o-poytin-sto-pekino-episkepsi-stis-19-kai-20-ma-oy/"/>
+    <updated>2026-05-16T09:26:36+00:00</updated>
     <author><name>Newsroom</name></author>
-    <updated>2026-05-15T08:52:00+00:00</updated>
+    <category term="world"/>
+    <summary type="text">Vladimir Putin will visit China on 19-20 May for bilateral talks with Xi Jinping, days after the Trump-Xi Beijing summit. The Kremlin says all major international and regional issues will be on the agenda.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Vladimir Putin will visit China on 19-20 May for bilateral talks with Xi Jinping, days after the Trump-Xi Beijing summit. The Kremlin says all major international and regional issues will be on the agenda.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Βλαντιμίρ Πούτιν θα επισκεφθεί την Κίνα στις 19-20 Μαΐου για διμερείς συνομιλίες με τον Σι Τζινπίνγκ, λίγες ημέρες μετά τη σύνοδο Τραμπ-Σι στο Πεκίνο. Το Κρεμλίνο ανακοίνωσε ότι θα συζητηθούν όλα τα σημαντικά διεθνή και περιφερειακά ζητήματα.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/society/564229198/diki-gia-at-omonoias-oi-apologies-ton-astynomikon-poy-katigoroyntai-gia-viasmo-19chronis/</id>
+    <title>Δίκη για Α.Τ. Ομονοίας: Οι απολογίες των αστυνομικών που κατηγορούνται για βιασμό 19χρονης</title>
+    <link href="https://www.kathimerini.gr/society/564229198/diki-gia-at-omonoias-oi-apologies-ton-astynomikon-poy-katigoroyntai-gia-viasmo-19chronis/"/>
+    <updated>2026-05-15T18:39:48+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="society"/>
+    <summary type="text">At the Omonoia police station rape trial, two of three accused officers admitted to sexual intercourse with the 19-year-old but deny rape, claiming consent despite the video recording. The third officer says he was unaware.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; At the Omonoia police station rape trial, two of three accused officers admitted to sexual intercourse with the 19-year-old but deny rape, claiming consent despite the video recording. The third officer says he was unaware.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στη δίκη για τον φερόμενο βιασμό 19χρονης στο ΑΤ Ομονοίας, δύο από τους τρεις κατηγορούμενους αστυνομικούς παραδέχθηκαν τη σεξουαλική συνεύρεση αλλά απορρίπτουν την κατηγορία βιασμού. Υποστηρίζουν ότι υπήρχε συναίνεση παρά την καταγραφή σε βίντεο.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/visual/infographics/564227773/klimatiki-krisi-kai-energeia-exairetika-eyaloti-i-agora-lipasmaton/</id>
+    <title>Κλιματική κρίση και ενέργεια: Εξαιρετικά ευάλωτη η αγορά λιπασμάτων</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564227773/klimatiki-krisi-kai-energeia-exairetika-eyaloti-i-agora-lipasmaton/"/>
+    <updated>2026-05-15T23:22:41+03:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Urea prices have spiked after the closure of the Strait of Hormuz, exposing the fragility of a global fertilizer market dependent on natural gas and Gulf production. The UN warns 45 million people risk famine if the crisis drags on.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Urea prices have spiked after the closure of the Strait of Hormuz, exposing the fragility of a global fertilizer market dependent on natural gas and Gulf production. The UN warns 45 million people risk famine if the crisis drags on.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι τιμές της ουρίας εκτοξεύθηκαν μετά τον αποκλεισμό των Στενών του Ορμούζ, με την παγκόσμια αγορά λιπασμάτων εξαιρετικά ευάλωτη λόγω της εξάρτησης από φυσικό αέριο και χώρες του Κόλπου. Ο ΟΗΕ προειδοποιεί για 45 εκατ. ανθρώπους σε κατάσταση λιμού.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/international/564230071/nees-anataraxeis-stin-agora-omologon-ipa-kai-eyropis/</id>
+    <title>Νέες αναταράξεις στην αγορά ομολόγων ΗΠΑ και Ευρώπης</title>
+    <link href="https://www.kathimerini.gr/economy/international/564230071/nees-anataraxeis-stin-agora-omologon-ipa-kai-eyropis/"/>
+    <updated>2026-05-16T09:27:00+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Οι ευρωπαϊκές αρχές ενέργειας προειδοποιούν για τους κινδύνους από την αυξανόμενη εξάρτηση της ΕΕ από το αμερικανικό LNG, που μπορεί να φτάσει στο 80% των εισαγωγών μέχρι το 2028. Ο ACER συστήνει διαφοροποίηση πηγών και διαχείριση της ζήτησης, εν μέσω συζητήσεων ΕΕ-ΗΠΑ για διαρκή ροή 750 δισ. δολαρίων σε αμερικανικό LNG.</summary>
+    <summary type="text">Eurozone and US bond yields are rising broadly as oil prices have surged 50% on Middle East war fears. Markets are pricing faster, larger rate hikes from the Fed and ECB to counter renewed inflation pressure.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Eurozone and US bond yields are rising broadly as oil prices have surged 50% on Middle East war fears. Markets are pricing faster, larger rate hikes from the Fed and ECB to counter renewed inflation pressure.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέα άνοδος σχεδόν ομοιόμορφα στις αποδόσεις των ευρωπαϊκών ομολόγων, καθώς οι τιμές του πετρελαίου έχουν αυξηθεί κατά 50% λόγω της κρίσης στη Μέση Ανατολή. Οι αγορές αναμένουν ταχύτερες και μεγαλύτερες αυξήσεις επιτοκίων από τη Fed και την ΕΚΤ.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564230080/steit-ntipartment-parateinetai-gia-45-imeres-i-ekecheiria-ston-livano/</id>
+    <title>Στέιτ Ντιπάρτμεντ: Παρατείνεται για 45 ημέρες η εκεχειρία στον Λίβανο</title>
+    <link href="https://www.kathimerini.gr/world/564230080/steit-ntipartment-parateinetai-gia-45-imeres-i-ekecheiria-ston-livano/"/>
+    <updated>2026-05-15T21:56:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">The State Department announced that Israel and Lebanon have agreed to extend by 45 days the ceasefire announced by Trump on 16 April. New talks are scheduled for 2-3 June.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The State Department announced that Israel and Lebanon have agreed to extend by 45 days the ceasefire announced by Trump on 16 April. New talks are scheduled for 2-3 June.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Στέιτ Ντιπάρτμεντ ανακοίνωσε ότι Ισραήλ και Λίβανος συμφώνησαν να παρατείνουν για 45 ημέρες την κατάπαυση του πυρός που είχε ανακοινώσει ο Τραμπ στις 16 Απριλίου. Οι συνομιλίες θα επαναληφθούν στις 2-3 Ιουνίου.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564230092/epistrefei-stin-e-e-i-syzitisi-gia-to-telos-tis-omofonias/</id>
+    <title>Eπιστρέφει στην Ε.Ε. η συζήτηση για το τέλος της ομοφωνίας</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564230092/epistrefei-stin-e-e-i-syzitisi-gia-to-telos-tis-omofonias/"/>
+    <updated>2026-05-16T08:15:00+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="politics"/>
+    <summary type="text">Berlin and Commission President von der Leyen are reopening the EU debate on ending unanimity in foreign-policy decisions. Smaller member states including Greece and Cyprus are pushing back, arguing unanimity protects their national interests.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Berlin and Commission President von der Leyen are reopening the EU debate on ending unanimity in foreign-policy decisions. Smaller member states including Greece and Cyprus are pushing back, arguing unanimity protects their national interests.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Βερολίνο και η Φον ντερ Λάιεν επαναφέρουν στις Βρυξέλλες τη συζήτηση για κατάργηση της ομοφωνίας στις αποφάσεις εξωτερικής πολιτικής της ΕΕ. Μικρότερα κράτη μέλη, μεταξύ των οποίων η Ελλάδα και η Κύπρος, αντιδρούν θεωρώντας πως η ομοφωνία προστατεύει τα συμφέροντά τους.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/amyna/564230167/oykraniko-drone-sti-leykada-ti-anaferei-to-porisma-eyp-geetha/</id>
+    <title>Ουκρανικό drone στη Λευκάδα: Τι αναφέρει το πόρισμα ΕΥΠ – ΓΕΕΘΑ</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564230167/oykraniko-drone-sti-leykada-ti-anaferei-to-porisma-eyp-geetha/"/>
+    <updated>2026-05-15T23:37:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">A joint Greek intelligence-defense report on the Ukrainian sea drone found at Lefkada concludes it lost course due to a technical malfunction. Investigators have ruled out a launch from a clandestine Ukrainian base in Libya, but the origin and target remain unclear.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A joint Greek intelligence-defense report on the Ukrainian sea drone found at Lefkada concludes it lost course due to a technical malfunction. Investigators have ruled out a launch from a clandestine Ukrainian base in Libya, but the origin and target remain unclear.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το κοινό πόρισμα ΕΥΠ-ΓΕΕΘΑ για το ουκρανικό θαλάσσιο drone στη Λευκάδα εκτιμά ότι αυτό έχασε τον προσανατολισμό του λόγω τεχνικής βλάβης. Δεν προέκυψε ότι ξεκίνησε από μυστική ουκρανική βάση στη Λιβύη, ενώ δεν προσδιορίζεται το σημείο εκκίνησης ή ο στόχος.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/international/564229936/kondylia-toy-tameioy-anakampsis-eginan-syntaxeis-stin-ispania/</id>
+    <title>Κονδύλια του Ταμείου Ανάκαμψης «έγιναν» συντάξεις στην Ισπανία</title>
+    <link href="https://www.kathimerini.gr/economy/international/564229936/kondylia-toy-tameioy-anakampsis-eginan-syntaxeis-stin-ispania/"/>
+    <updated>2026-05-16T10:33:00+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary type="text">Eurostat data show 30% of EU Recovery Fund grants over 2020-2025 went to 'current spending' such as salaries and pensions rather than investment. Spain channeled billions to its pension system, raising alarms in northern Europe and weakening the case for new joint EU borrowing.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Eurostat data show 30% of EU Recovery Fund grants over 2020-2025 went to 'current spending' such as salaries and pensions rather than investment. Spain channeled billions to its pension system, raising alarms in northern Europe and weakening the case for new joint EU borrowing.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Έκθεση της Eurostat αποκαλύπτει ότι το 30% των επιχορηγήσεων του Ταμείου Ανάκαμψης σε χώρες της ΕΕ κατευθύνθηκε σε «τρέχουσες δαπάνες», όπως μισθούς και συντάξεις, αντί επενδυτικών έργων. Στην Ισπανία τα κονδύλια ενίσχυσαν το συνταξιοδοτικό σύστημα, προκαλώντας θόρυβο στον ευρωπαϊκό Βορρά.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564229933/protogenes-pleonasma-5-175-dis-eyro-sto-tetramino-toy-etoys/</id>
+    <title>Πρωτογενές πλεόνασμα 5,175 δισ. ευρώ στο τετράμηνο του έτους</title>
+    <link href="https://www.kathimerini.gr/economy/local/564229933/protogenes-pleonasma-5-175-dis-eyro-sto-tetramino-toy-etoys/"/>
+    <updated>2026-05-16T07:25:00+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary type="text">Greece posted a €5.175 billion primary surplus in the first four months of 2026, more than double the target. The outperformance reflects increased EU funds disbursements and lower spending, not stronger tax revenues.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece posted a €5.175 billion primary surplus in the first four months of 2026, more than double the target. The outperformance reflects increased EU funds disbursements and lower spending, not stronger tax revenues.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πρωτογενές πλεόνασμα 5,175 δισ. ευρώ καταγράφηκε στο τετράμηνο του 2026, υπερδιπλάσιο του στόχου. Η υπέρβαση δεν οφείλεται σε φορολογικά έσοδα αλλά σε αυξημένα κοινοτικά κονδύλια και μειωμένες δαπάνες.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564229954/xespasma-toy-ioy-empola-stin-oygkanta-65-thanatoi-sto-kongko/</id>
+    <title>Ξέσπασμα του ιού Εμπολα στην Ουγκάντα – 65 θάνατοι στo Κονγκό</title>
+    <link href="https://www.kathimerini.gr/world/564229954/xespasma-toy-ioy-empola-stin-oygkanta-65-thanatoi-sto-kongko/"/>
+    <updated>2026-05-15T23:43:02+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Uganda has confirmed an Ebola outbreak that authorities say was imported from the Democratic Republic of Congo. DR Congo has logged 246 suspected cases and 65 deaths so far.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Uganda has confirmed an Ebola outbreak that authorities say was imported from the Democratic Republic of Congo. DR Congo has logged 246 suspected cases and 65 deaths so far.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ουγκάντα επιβεβαίωσε ξέσπασμα του ιού Έμπολα, που σύμφωνα με τις αρχές είναι εισαγόμενος από τη Λαϊκή Δημοκρατία του Κονγκό. Στο Κονγκό έχουν καταγραφεί 246 ύποπτα κρούσματα και 65 θάνατοι.&lt;/p&gt;</content>
   </entry>
 </feed>
