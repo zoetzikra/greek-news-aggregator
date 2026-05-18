@@ -101,11 +101,875 @@
   ],
   "article_count": 72,
   "categories": {
-    "politics": 14,
-    "economy": 10,
-    "society": 14,
-    "world": 14,
-    "opinion": 14,
-    "culture": 6
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ελληνοτουρκικά: Ετοιμος ο «γκρίζος» νόμος – Τα σενάρια που μελετά η Αθήνα",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564230275/ellinotoyrkika-etoimos-o-gkrizos-nomos-ta-senaria-poy-meleta-i-athina/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T07:13:21+00:00",
+          "importance": 90,
+          "summary": {
+            "el": "Η Τουρκία ετοιμάζει νομοσχέδιο για τη «Γαλάζια Πατρίδα» που θα κατατεθεί τον Ιούνιο και θα ορίζει θαλάσσιες ζώνες και «γκρίζες ζώνες» στο Αιγαίο. Η Αθήνα μελετά ένα καλό και ένα κακό σενάριο για ένα από τα σοβαρότερα μέτρα κλιμάκωσης από την Άγκυρα τα τελευταία χρόνια.",
+            "en": "Turkey is preparing a 'Blue Homeland' bill, due in June, that would codify Turkish maritime zones and 'gray zones' in the Aegean. Athens is studying best- and worst-case scenarios for one of Ankara's most significant escalation moves in years."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Γαλάζια Πατρίδα",
+              "Αιγαίο",
+              "ελληνοτουρκικά",
+              "γκρίζες ζώνες"
+            ],
+            "en": [
+              "Turkey",
+              "Blue Homeland",
+              "Aegean",
+              "Greek-Turkish",
+              "gray zones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Αθηνα προς Κίεβο: «Μαζέψτε όλα τα drones» – Τα ευρήματα του ΓΕΕΘΑ",
+          "url": "https://www.kathimerini.gr/politics/amyna/564230302/athina-pros-kievo-mazepste-ola-ta-drones-ta-eyrimata-toy-geetha/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T12:41:20+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Νέα ευρήματα του ΓΕΕΘΑ δείχνουν ότι το ουκρανικό drone που εντοπίστηκε στη Λευκάδα δεν ήταν μοναδικό· η Αθήνα στέλνει μήνυμα στο Κίεβο να αποσύρει όσα drones επιχειρούν στην Ανατολική Μεσόγειο. Το προσχέδιο του πορίσματος βρίσκεται στα χέρια του πρωθυπουργού Μητσοτάκη, που θα αποφασίσει τη διπλωματική διαχείριση.",
+            "en": "New GEETHA findings indicate the Ukrainian naval drone found at Lefkada was one of several operating in the Eastern Mediterranean. Athens is messaging Kiev to withdraw the remaining USVs, with PM Mitsotakis to decide how to handle the diplomatic fallout."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Λευκάδα",
+              "ΓΕΕΘΑ",
+              "drones",
+              "Ανατολική Μεσόγειος"
+            ],
+            "en": [
+              "Ukraine",
+              "Lefkada",
+              "GEETHA",
+              "drones",
+              "Eastern Mediterranean"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Από το παλιό στο νέο κόμμα Τσίπρα: Ρήξεις, αταξία και ίντριγκα",
+          "url": "https://www.kathimerini.gr/politics/564232699/apo-to-palio-sto-neo-komma-tsipra-rixeis-ataxia-kai-intrigka/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T09:47:07+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Στις 26 Μαΐου θα ανακοινωθεί το νέο κόμμα Τσίπρα, με στόχο να εκτοπίσει το ΠΑΣΟΚ από τη δεύτερη θέση. Η επιστροφή του πρώην πρωθυπουργού έχει προκαλέσει σοβαρές αναταραχές στον προοδευτικό χώρο και ανοίγει ερωτήματα για ποιοι θα υπογράψουν τη Διακήρυξη.",
+            "en": "Alexis Tsipras will officially launch his new party on May 26, aiming to displace PASOK as the main opposition force. The move has triggered significant upheaval in the progressive camp and raises questions about who will sign the founding declaration."
+          },
+          "tags": {
+            "el": [
+              "Τσίπρας",
+              "νέο κόμμα",
+              "ΣΥΡΙΖΑ",
+              "ΠΑΣΟΚ",
+              "αντιπολίτευση"
+            ],
+            "en": [
+              "Tsipras",
+              "new party",
+              "SYRIZA",
+              "PASOK",
+              "opposition"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Θεωρείο: Στα χέρια του πρωθυπουργού",
+          "url": "https://www.kathimerini.gr/politics/564230359/theoreio-sta-cheria-toy-prothypoyrgoy/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T07:38:10+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Το Θεωρείο αναφέρει ότι ο πρωθυπουργός Μητσοτάκης κρατά τα πρώτα συμπεράσματα του ΓΕΕΘΑ για το ουκρανικό drone της Λευκάδας. Στο ΠΑΣΟΚ θεωρούν «αήθεις» τις επιθέσεις της Ν.Δ. κατά Ανδρουλάκη και απειλούν με αντεπίθεση για στελέχη της Ν.Δ. με χρήματα στο εξωτερικό.",
+            "en": "The Theoreio column reports that PM Mitsotakis now holds GEETHA's first conclusions on the Ukrainian drone at Lefkada. PASOK calls ND's attacks on Androulakis 'underhanded' and threatens a counter-offensive over ND officials' offshore accounts and corporate links to the state."
+          },
+          "tags": {
+            "el": [
+              "Θεωρείο",
+              "Μητσοτάκης",
+              "drone Λευκάδας",
+              "ΠΑΣΟΚ",
+              "Ανδρουλάκης"
+            ],
+            "en": [
+              "Theoreio",
+              "Mitsotakis",
+              "Lefkada drone",
+              "PASOK",
+              "Androulakis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κυριαρχία χωρίς ενθουσιασμό στο 16ο συνέδριο της Ν.Δ.",
+          "url": "https://www.kathimerini.gr/politics/564232717/kyriarchia-choris-enthoysiasmo-sto-16o-synedrio-tis-n-d/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T09:45:32+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Στο 16ο συνέδριο της Νέας Δημοκρατίας επιβεβαιώθηκε η απόλυτη κυριαρχία του Κυριάκου Μητσοτάκη, αλλά απουσίαζε ο κομματικός παλμός. Οι απουσίες Καραμανλή και Σαμαρά, η παρουσία Δημητριάδη και η ηγετική εμφάνιση Δένδια θα έχουν σημασία για την επόμενη ημέρα.",
+            "en": "ND's 16th congress confirmed Kyriakos Mitsotakis's complete dominance but lacked previous years' enthusiasm. The absences of Karamanlis and Samaras, Dimitriadis's presence and Dendias's leadership posture were widely seen as signals for what comes next."
+          },
+          "tags": {
+            "el": [
+              "Νέα Δημοκρατία",
+              "Μητσοτάκης",
+              "συνέδριο",
+              "Δένδιας",
+              "κόμμα"
+            ],
+            "en": [
+              "New Democracy",
+              "Mitsotakis",
+              "congress",
+              "Dendias",
+              "party"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 10,
+      "top_items": [
+        {
+          "title": "Νέο «καμπανάκι» ΔΟΕ: Τα αποθέματα πετρελαίου εξαντλούνται ραγδαία, «αρκούν για λίγες εβδομάδες»",
+          "url": "https://www.kathimerini.gr/economy/international/564233017/neo-kampanaki-doe-ta-apothemata-petrelaioy-exantloyntai-ragdaia-arkoyn-gia-liges-evdomades/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T12:49:09+00:00",
+          "importance": 92,
+          "summary": {
+            "el": "Ο Φατίχ Μπιρόλ της Διεθνούς Οργανισμού Ενέργειας προειδοποίησε ότι τα εμπορικά αποθέματα πετρελαίου εξαντλούνται ραγδαία λόγω του πολέμου στο Ιράν και του αποκλεισμού των Στενών του Ορμούζ. Σύμφωνα με τον Μπιρόλ, τα αποθέματα επαρκούν για μόλις λίγες εβδομάδες ακόμα.",
+            "en": "IEA chief Fatih Birol warned at the G7 Paris summit that commercial oil stockpiles are depleting rapidly amid the Iran war and the Strait of Hormuz blockade. He said reserves may only last a few more weeks."
+          },
+          "tags": {
+            "el": [
+              "πετρέλαιο",
+              "ΔΟΕ",
+              "Ιράν",
+              "Ορμούζ",
+              "ενεργειακή κρίση"
+            ],
+            "en": [
+              "oil",
+              "IEA",
+              "Iran",
+              "Hormuz",
+              "energy crisis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Η δροσιά θα κοστίσει ακριβά το καλοκαίρι",
+          "url": "https://www.kathimerini.gr/economy/564230731/i-drosia-tha-kostisei-akriva-to-kalokairi/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T19:30:24+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Η Ελλάδα κινδυνεύει να πληρώσει τον βαρύτερο ενεργειακό λογαριασμό στην Ευρώπη φέτος το καλοκαίρι, λόγω εξάρτησης από αμερικανικό LNG και πετρέλαιο εν μέσω του πολέμου στο Ιράν. Ο πληθωρισμός Απριλίου ήταν 4,6%, ο πέμπτος υψηλότερος στην Ευρωζώνη, και η ζήτηση ρεύματος αναμένεται να εκτοξευθεί.",
+            "en": "Greece risks paying Europe's heaviest energy bill this summer because of its dependence on US LNG and oil imports amid the Iran war. April inflation hit 4.6%, the fifth highest in the eurozone, and surging cooling demand is set to make matters worse."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "πληθωρισμός",
+              "LNG",
+              "Ιράν",
+              "ηλεκτρισμός"
+            ],
+            "en": [
+              "energy",
+              "inflation",
+              "LNG",
+              "Iran",
+              "electricity"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Καλύφθηκε η ΑΜΚ της ΔΕΗ – Προσφορές κοντά στα 4 δισ. ευρώ",
+          "url": "https://www.kathimerini.gr/economy/business/564232855/kalyfthike-i-amk-tis-dei-prosfores-konta-sta-4-dis-eyro/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T11:09:54+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Πλήρως καλύφθηκε η αύξηση μετοχικού κεφαλαίου της ΔΕΗ με το βιβλίο προσφορών να φτάνει τα 4 δισ. ευρώ. Η τιμή διάθεσης δεν θα υπερβαίνει τα 19,75 ευρώ, με σκοπό τη χρηματοδότηση του επενδυτικού πλάνου 24 δισ. ευρώ για 2026-2030.",
+            "en": "PPC's capital increase was fully subscribed with bids near 4bn euros. The offering price will not exceed 19.75 euros per share, financing the company's 24bn 2026-2030 investment plan, with the new shares to start trading May 26."
+          },
+          "tags": {
+            "el": [
+              "ΔΕΗ",
+              "ΑΜΚ",
+              "επενδύσεις",
+              "ενέργεια",
+              "Χρηματιστήριο"
+            ],
+            "en": [
+              "PPC",
+              "share offering",
+              "investments",
+              "energy",
+              "stock market"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Τα μυστικά της νέας ρύθμισης των 72 δόσεων",
+          "url": "https://www.kathimerini.gr/economy/564230722/ta-mystika-tis-neas-rythmisis-ton-72-doseon/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T08:23:25+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Νέα ρύθμιση 72 μηνιαίων δόσεων ανοίγει για βεβαιωμένες οφειλές προς τη φορολογική διοίκηση που κατέστησαν ληξιπρόθεσμες έως 31/12/2023, με προθεσμία αίτησης έως 31/12/2026. Προϋπόθεση είναι ο οφειλέτης να έχει υποβάλει δηλώσεις πενταετίας και να μην έχει καταδίκη για φοροδιαφυγή.",
+            "en": "A new 72-monthly-installment scheme will let taxpayers settle confirmed tax-authority debts that became overdue by Dec 31, 2023, with applications open until end-2026. Eligibility requires up-to-date filings for the past five years and no tax-evasion convictions."
+          },
+          "tags": {
+            "el": [
+              "ρύθμιση χρεών",
+              "εφορία",
+              "72 δόσεις",
+              "φορολογία",
+              "οφειλέτες"
+            ],
+            "en": [
+              "debt settlement",
+              "tax authority",
+              "72 installments",
+              "taxation",
+              "debtors"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Μείωση εισφορών χάρη στην εργασία των συνταξιούχων",
+          "url": "https://www.kathimerini.gr/economy/564230704/meiosi-eisforon-chari-stin-ergasia-ton-syntaxioychon/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T17:15:01+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Η κυβέρνηση προετοιμάζει για τη ΔΕΘ Σεπτεμβρίου νέα μείωση ασφαλιστικών εισφορών εργοδοτών 0,5-1%, με εφαρμογή από 1η Ιανουαρίου 2027. Στόχος η μείωση του μη μισθολογικού κόστους και η δημιουργία χώρου για αυξήσεις μισθών στον ιδιωτικό τομέα.",
+            "en": "The government is preparing a 0.5-1% cut in employer social-security contributions, to be announced at the Thessaloniki Fair and implemented from January 1, 2027. The aim is to lower non-wage labor costs and create room for private-sector pay rises."
+          },
+          "tags": {
+            "el": [
+              "ασφαλιστικές εισφορές",
+              "ΔΕΘ",
+              "εργοδότες",
+              "μισθοί",
+              "ανταγωνιστικότητα"
+            ],
+            "en": [
+              "social security",
+              "Thessaloniki Fair",
+              "employers",
+              "wages",
+              "competitiveness"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Το «μαύρο κουτί» των εφηβικών αυτοκτονιών",
+          "url": "https://www.kathimerini.gr/society/564230464/to-mayro-koyti-ton-efivikon-aytoktonion/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T21:33:37+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η «Κ» καταγράφει το δράμα της Ηλιούπολης μετά την αυτοκτονία δύο κοριτσιών και αναλύει το ευρύτερο φαινόμενο των εφηβικών αυτοκτονιών. Παρά τις θεωρίες που κυκλοφορούν, οι ειδικοί τονίζουν ότι κανείς δεν μπορεί να γνωρίζει με βεβαιότητα τις αιτίες — ένα «μαύρο κουτί» που απαιτεί μετρημένο δημόσιο λόγο.",
+            "en": "Kathimerini examines the aftermath of two girls' suicide in Ilioupoli and the wider phenomenon of teen suicide in Greece. Despite circulating theories, experts emphasize the precise causes remain unknown — a 'black box' that demands measured public discourse."
+          },
+          "tags": {
+            "el": [
+              "εφηβική αυτοκτονία",
+              "Ηλιούπολη",
+              "ψυχική υγεία",
+              "κοινωνία",
+              "νέοι"
+            ],
+            "en": [
+              "teen suicide",
+              "Ilioupoli",
+              "mental health",
+              "society",
+              "youth"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Αστυνομικοί στη «ρωσική» μαφία",
+          "url": "https://www.kathimerini.gr/society/564230458/astynomikoi-sti-rosiki-mafia/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T10:14:03+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Επτά αστυνομικοί ελέγχονται από την Υπηρεσία Εσωτερικών Υποθέσεων για διασυνδέσεις με ομάδα ομογενών από τη Γεωργία, μέλη της οποίας κατηγορούνται για τέσσερις δολοφονίες της «Greek Mafia». Τρεις περιγράφονται ως ενεργά μέλη της οργάνωσης και τρεις ότι διευκόλυναν τη δράση της.",
+            "en": "Seven Greek police officers are under Internal Affairs investigation for ties to a Georgian-origin criminal group whose members are accused of four 'Greek Mafia' murders. Three are described as active members and three as facilitators."
+          },
+          "tags": {
+            "el": [
+              "ΕΛ.ΑΣ.",
+              "Greek Mafia",
+              "Γεωργία",
+              "διαφθορά",
+              "Εσωτερικές Υποθέσεις"
+            ],
+            "en": [
+              "Hellenic Police",
+              "Greek Mafia",
+              "Georgia",
+              "corruption",
+              "Internal Affairs"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ερευνα της Ευρωπαϊκής Εισαγγελίας και για το μεταναστευτικό",
+          "url": "https://www.kathimerini.gr/society/564230455/ereyna-tis-eyropaikis-eisaggelias-kai-gia-to-metanasteytiko/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T09:36:31+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Η Ευρωπαϊκή Εισαγγελία ερευνά τη διαχείριση κονδυλίων για κέντρα υποδοχής μεταναστών στη Μαλακάσα και τη Σιντική Σερρών την περίοδο πανδημίας 2020-21. Στο επίκεντρο βρίσκονται απευθείας αναθέσεις σε ιδιωτικές εταιρείες χωρίς διαγωνισμό, λόγω «κατεπείγουσας ανάγκης».",
+            "en": "The European Public Prosecutor is investigating spending on migrant reception facilities at Malakasa and Sintiki/Serres during the 2020-21 pandemic. The focus is direct-award contracts to private firms without tenders, justified at the time as 'urgent.'"
+          },
+          "tags": {
+            "el": [
+              "Ευρωπαϊκή Εισαγγελία",
+              "μεταναστευτικό",
+              "Μαλακάσα",
+              "Σέρρες",
+              "διαφθορά"
+            ],
+            "en": [
+              "European Prosecutor",
+              "migration",
+              "Malakasa",
+              "Serres",
+              "corruption"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Σε έκτακτη ανάγκη για πάγια λειψυδρία",
+          "url": "https://www.kathimerini.gr/society/564230470/se-ektakti-anagki-gia-pagia-leipsydria/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T17:31:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ένα μετά το άλλο τα ελληνικά νησιά κηρύσσονται σε κατάσταση εκτάκτου ανάγκης λόγω λειψυδρίας. Στην Αστυπάλαια η κατανάλωση νερού αυξήθηκε 60% σε πέντε χρόνια, ενώ τρέχει η ενοικίαση μονάδων αφαλάτωσης για να σωθεί η τουριστική σεζόν.",
+            "en": "Greek islands are declaring water-scarcity emergencies one after another, with Astypalaia's consumption up 60% in five years. Desalination units are being rushed in to save the tourist season, exposing chronic structural problems amid the climate crisis."
+          },
+          "tags": {
+            "el": [
+              "λειψυδρία",
+              "νησιά",
+              "Αστυπάλαια",
+              "κλιματική κρίση",
+              "αφαλάτωση"
+            ],
+            "en": [
+              "water scarcity",
+              "islands",
+              "Astypalaia",
+              "climate crisis",
+              "desalination"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Βορίζια: Καταπατούσαν εκτάσεις και εισέπρατταν επιδοτήσεις μέσω ΟΠΕΚΕΠΕ",
+          "url": "https://www.kathimerini.gr/society/564232918/vorizia-katapatoysan-ektaseis-kai-eiseprattan-epidotiseis-meso-opekepe/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T11:59:47+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Τρεις άνδρες (θείος και δύο ανίψια) συνελήφθησαν στα Βορίζια Ηρακλείου από το «ελληνικό FBI» για καταπάτηση εκτάσεων και υφαρπαγή ευρωπαϊκών αγροτικών επιδοτήσεων ύψους 580.000 ευρώ μέσω ΟΠΕΚΕΠΕ. Η δράση τους ξεκίνησε το 2021 και η ζημία στα θύματα εκτιμάται σε 200.000 ευρώ.",
+            "en": "Three men (uncle and two nephews) were arrested in Vorizia, Crete, by Greece's organized-crime unit for land-grabbing and pocketing 580,000 euros in OPEKEPE EU farm subsidies. Their scheme, active since 2021, cost rightful owners about 200,000 euros."
+          },
+          "tags": {
+            "el": [
+              "Βορίζια",
+              "ΟΠΕΚΕΠΕ",
+              "επιδοτήσεις",
+              "Κρήτη",
+              "καταπάτηση"
+            ],
+            "en": [
+              "Vorizia",
+              "OPEKEPE",
+              "subsidies",
+              "Crete",
+              "land grab"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Ισραήλ: Ξεκίνησε επιχείρηση «αναχαίτισης πλοίων» του στολίσκου προς τη Γάζα ανοιχτά της Κύπρου",
+          "url": "https://www.kathimerini.gr/world/564232858/israil-xekinise-epicheirisi-anachaitisis-ploion-toy-stoliskoy-pros-ti-gaza-anoichta-tis-kyproy/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T11:15:15+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Ισραηλινές δυνάμεις αναχαίτισαν δέκα πλοία του στόλου ανθρωπιστικής βοήθειας Global Sumud προς τη Γάζα, σε διεθνή ύδατα ανοιχτά της Κύπρου. Η επικοινωνία έχει χαθεί με 23 σκάφη συνολικά, ενώ το Ισραήλ δηλώνει ότι δεν θα επιτρέψει «καμία παραβίαση του νόμιμου ναυτικού αποκλεισμού της Γάζας».",
+            "en": "Israeli forces intercepted ten ships of the Global Sumud humanitarian flotilla bound for Gaza in international waters off Cyprus, with communications lost with 23 vessels in total. Israel said it 'will not allow any breach of the lawful naval blockade of Gaza.'"
+          },
+          "tags": {
+            "el": [
+              "Ισραήλ",
+              "Γάζα",
+              "στόλος",
+              "Global Sumud",
+              "Κύπρος"
+            ],
+            "en": [
+              "Israel",
+              "Gaza",
+              "flotilla",
+              "Global Sumud",
+              "Cyprus"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Κρεμλίνο: Η ειρηνευτική διαδικασία με το Κίεβο μπορεί να ξαναρχίσει",
+          "url": "https://www.kathimerini.gr/world/564233032/kremlino-i-eirineytiki-diadikasia-me-to-kievo-mporei-na-xanarchisei/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T12:56:04+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Η Μόσχα δήλωσε ότι η ειρηνευτική διαδικασία με την Ουκρανία έχει διακοπεί, αλλά αναμένει να ξαναρχίσει, σχολιάζοντας τις δηλώσεις Τραμπ. Ο Πεσκόφ τόνισε ότι πρέπει να δοθεί προσοχή και στις ουκρανικές επιθέσεις σε ρωσικά πολιτικά αντικείμενα.",
+            "en": "The Kremlin said the Russia-Ukraine peace process is suspended but is expected to resume, responding to Trump's remarks. Spokesman Peskov stressed that Ukrainian attacks on Russian civilian targets must also be taken into account."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Κρεμλίνο",
+              "Τραμπ",
+              "πόλεμος",
+              "διπλωματία"
+            ],
+            "en": [
+              "Ukraine",
+              "Kremlin",
+              "Trump",
+              "war",
+              "diplomacy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Οι ΗΠΑ έλαβαν αναθεωρημένη πρόταση του Ιράν",
+          "url": "https://www.kathimerini.gr/world/564232831/se-exelixi-diapragmateyseis-me-tis-ipa-leei-to-iran-epafes-me-to-oman-gia-to-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T10:57:03+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Το Πακιστάν διαβίβασε στις ΗΠΑ αναθεωρημένη ιρανική πρόταση για τον τερματισμό του πολέμου, καθώς οι διαπραγματεύσεις φαίνεται να «παγώνουν». Πηγή στο Ισλαμαμπάντ τόνισε ότι «δεν υπάρχει πολύς χρόνος», με τις δύο πλευρές να μετακινούν συνεχώς τα όρια των απαιτήσεών τους.",
+            "en": "Pakistan delivered to the US a revised Iranian proposal to end the war, as negotiations appear to have stalled. A source in Islamabad stressed 'we don't have much time' as both sides keep shifting their red lines."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "Πακιστάν",
+              "διαπραγματεύσεις",
+              "πόλεμος"
+            ],
+            "en": [
+              "Iran",
+              "USA",
+              "Pakistan",
+              "negotiations",
+              "war"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Πόλεμος στην Ουκρανία: Ρωσικό drone χτύπησε κινεζικό πλοίο, ενώ άλλο έπληξε σκάφος με σημαία Γουινέας-Μπισάου",
+          "url": "https://www.kathimerini.gr/world/564232813/polemos-stin-oykrania-rosiko-drone-chtypise-kineziko-ploio-eno-allo-eplixe-skafos-me-simaia-goyineas-mpisaoy/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T11:44:08+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ρωσικά drones τύπου Shahed χτύπησαν δύο ξένα εμπορικά πλοία στον Εύξεινο Πόντο, ένα κινεζικής ιδιοκτησίας («KSL DEYANG») και ένα με σημαία Γουινέας-Μπισάου. Δεν υπήρξαν θύματα, αλλά η Ουκρανία χαρακτηρίζει την επίθεση σε κινεζικό πλοίο ως «κάτι καινούργιο».",
+            "en": "Russian Shahed drones struck two foreign commercial vessels in Ukrainian waters — one Chinese-owned ('KSL DEYANG') and one flying the Guinea-Bissau flag. No casualties, but Ukraine called the strike on Chinese-owned shipping 'something new.'"
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "Εύξεινος Πόντος",
+              "Κίνα",
+              "drone"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "Black Sea",
+              "China",
+              "drone"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Τραμπ: Πρέπει να νικήσουμε την Κίνα στη μάχη της τεχνητής νοημοσύνης",
+          "url": "https://www.kathimerini.gr/world/564232888/tramp-prepei-na-nikisoyme-tin-kina-sti-machi-tis-technitis-noimosynis/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T12:20:05+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Σε συνέντευξη στο Fortune πριν το ταξίδι του στην Κίνα, ο Τραμπ εξήγησε πώς ο πόλεμος στο Ιράν μπορεί να καθυστερήσει τα σχέδιά του για τα επιτόκια και γιατί μετανιώνει που ζήτησε μόνο το 10% της Intel. Δήλωσε ότι η Αμερική πρέπει να νικήσει την Κίνα στη μάχη της τεχνητής νοημοσύνης.",
+            "en": "In a Fortune interview before his China trip, Trump explained how the Iran war could delay his interest-rate plans and why he regrets settling for only 10% of Intel. He stressed America must beat China in the AI race."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Κίνα",
+              "AI",
+              "Intel",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "Trump",
+              "China",
+              "AI",
+              "Intel",
+              "USA"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "title": "Η προεκλογική περίοδος ξεκίνησε",
+          "url": "https://www.kathimerini.gr/opinion/564230548/i-proeklogiki-periodos-xekinise/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T20:13:00+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Ο Αλέξης Παπαχελάς σημειώνει ότι η χώρα μπήκε σε οιονεί προεκλογική περίοδο, με αυξανόμενες πιέσεις για παροχές, 13η σύνταξη και ξήλωμα μεταρρυθμίσεων. Καλεί την κυβέρνηση να αντισταθεί στον λαϊκισμό, καθώς οι θεσμοί κινδυνεύουν να «παγώσουν» υπό την εκλογική λογική.",
+            "en": "Alexis Papahelas observes that Greece has entered a quasi-electoral period, with mounting pressure for handouts, a 13th pension and reform rollbacks. He urges the government to resist populism, warning institutions risk freezing under election-driven calculations."
+          },
+          "tags": {
+            "el": [
+              "Παπαχελάς",
+              "εκλογές",
+              "λαϊκισμός",
+              "μεταρρυθμίσεις",
+              "ανάλυση"
+            ],
+            "en": [
+              "Papahelas",
+              "elections",
+              "populism",
+              "reforms",
+              "analysis"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "«Στα ψέματα παίζαμε»",
+          "url": "https://www.kathimerini.gr/opinion/564230551/sta-psemata-paizame-2/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T20:09:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο Κώστας Ιορδανίδης κριτικάρει την ελληνική εξωτερική πολιτική για την αυτοεπιβεβαίωση ότι βρίσκεται «στη σωστή πλευρά της Ιστορίας» με την Ουκρανία. Το ουκρανικό drone στη Λευκάδα αποδεικνύει ότι η εκτίμηση πως η Ελλάδα θα κέρδιζε πλεονέκτημα έναντι της Τουρκίας ήταν αυταπάτη.",
+            "en": "Kostas Iordanidis criticizes Greek foreign policy for assuming it stood 'on the right side of history' with Ukraine. The Ukrainian drone found at Lefkada, he argues, exposes that the assumption Greece would gain leverage over Turkey was self-delusion."
+          },
+          "tags": {
+            "el": [
+              "εξωτερική πολιτική",
+              "Ουκρανία",
+              "Λευκάδα",
+              "Ιορδανίδης",
+              "Τουρκία"
+            ],
+            "en": [
+              "foreign policy",
+              "Ukraine",
+              "Lefkada",
+              "Iordanidis",
+              "Turkey"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "title": "Ανάγκη για συνεννόηση",
+          "url": "https://www.kathimerini.gr/opinion/564230233/anagki-gia-synennoisi/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T20:14:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Κύριο άρθρο της Καθημερινής που καλεί τα ελληνικά κόμματα σε σοβαρή συνεννόηση απέναντι στις τουρκικές προκλήσεις. Η εικόνα ασυνεννοησίας θα στείλει λάθος μήνυμα στην Άγκυρα τις επόμενες κρίσιμες εβδομάδες.",
+            "en": "A Kathimerini editorial calls for serious cross-party consultation in the face of Turkish provocations. Projecting disunity, it warns, would send Ankara the wrong message in the critical weeks ahead."
+          },
+          "tags": {
+            "el": [
+              "κύριο άρθρο",
+              "Τουρκία",
+              "ελληνοτουρκικά",
+              "συνεννόηση",
+              "Αιγαίο"
+            ],
+            "en": [
+              "editorial",
+              "Turkey",
+              "Greek-Turkish",
+              "consultation",
+              "Aegean"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Συνέδριο μπροστά στον καθρέφτη",
+          "url": "https://www.kathimerini.gr/opinion/564230290/synedrio-mprosta-ston-kathrefti/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T12:20:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Σχόλιο για το πιο ανθεκτικό κόμμα της Μεταπολίτευσης, τη Νέα Δημοκρατία, που συνδυάζει συντηρητική παράδοση και φιλοδυτικό φιλελευθερισμό. Παρά τις στρατηγικές της δικαιώσεις, αντιμετωπίζει προκλήσεις λόγω της κόπωσης της εξουσίας και ασαφούς ιδεολογικού στίγματος.",
+            "en": "An opinion piece on New Democracy as the most enduring post-1974 party, blending conservative tradition with pro-Western liberalism. Despite vindicated strategic choices, ND now faces challenges from incumbency fatigue and an underdefined ideological identity."
+          },
+          "tags": {
+            "el": [
+              "Νέα Δημοκρατία",
+              "συνέδριο",
+              "πολιτική",
+              "ανάλυση",
+              "Μεταπολίτευση"
+            ],
+            "en": [
+              "New Democracy",
+              "congress",
+              "politics",
+              "analysis",
+              "post-1974"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Δεν αρέσει η Ελλάδα",
+          "url": "https://www.kathimerini.gr/opinion/564230689/den-aresei-i-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T20:02:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Κώστας Καλλίτσης αναλύει τους δείκτες ελκυστικότητας ταλέντου του ΟΟΣΑ για το 2023 και διαπιστώνει ότι η Ελλάδα δεν είναι ελκυστική ούτε στους ξένους ταλέντες ούτε στους δικούς της πολίτες. Η ελκυστικότητα μιας χώρας εξαρτάται από το αν είναι φιλική στους δικούς της πολίτες.",
+            "en": "Kostas Kallitsis reviews the OECD 2023 talent attractiveness indicators and finds Greece unappealing both to foreign talent and to its own citizens. A country's attractiveness, he argues, ultimately depends on how friendly it is to its own people."
+          },
+          "tags": {
+            "el": [
+              "ΟΟΣΑ",
+              "ταλέντα",
+              "ανταγωνιστικότητα",
+              "Καλλίτσης",
+              "μετανάστευση"
+            ],
+            "en": [
+              "OECD",
+              "talent",
+              "competitiveness",
+              "Kallitsis",
+              "migration"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "title": "Παιδιά και γονείς σε άλλους πλανήτες",
+          "url": "https://www.kathimerini.gr/culture/564229348/paidia-kai-goneis-se-alloys-planites/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T21:40:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Παρουσίαση της παράστασης του Τιάγκο Ροντρίγκες όπου ένας πατέρας και μια κόρη βρίσκονται σε διαφορετικούς πλανήτες — εκείνη στον Άρη, αυτός στη Γη που καταρρέει. Ένα έργο για την επικοινωνία, τη μνήμη και την απώλεια στις γονεϊκές σχέσεις.",
+            "en": "A review of Tiago Rodrigues's play in which a father and daughter inhabit different planets — she on Mars, he on a collapsing Earth. The work probes communication, memory and loss across parent-child relations."
+          },
+          "tags": {
+            "el": [
+              "θέατρο",
+              "Ροντρίγκες",
+              "παράσταση",
+              "οικογένεια",
+              "μνήμη"
+            ],
+            "en": [
+              "theater",
+              "Rodrigues",
+              "performance",
+              "family",
+              "memory"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Οι θεοί κατοικούν στην ψυχή",
+          "url": "https://www.kathimerini.gr/culture/564229318/oi-theoi-katoikoyn-stin-psychi/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T21:20:00+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Ρεπορτάζ από τις πρόβες των «Τρωάδων» του Ευριπίδη σε σκηνοθεσία Ελένης Ευθυμίου για το Φεστιβάλ Επιδαύρου. Η παραγωγή του Εθνικού Θεάτρου περιλαμβάνει πέντε μέλη της θεατρικής ομάδας «Εν δυνάμει», νέους καλλιτέχνες με αναπηρία.",
+            "en": "A behind-the-scenes look at rehearsals for Euripides's 'Trojan Women,' directed by Eleni Efthymiou for the Epidaurus Festival. The National Theater production includes five members of 'En Dynamei,' a troupe of young artists with disabilities."
+          },
+          "tags": {
+            "el": [
+              "θέατρο",
+              "Επίδαυρος",
+              "Τρωάδες",
+              "Εθνικό Θέατρο",
+              "Ευθυμίου"
+            ],
+            "en": [
+              "theater",
+              "Epidaurus",
+              "Trojan Women",
+              "National Theater",
+              "Efthymiou"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "title": "Πειραιάς: Ο παλιός, εμπορικός κόσμος",
+          "url": "https://www.kathimerini.gr/culture/564229336/peiraias-o-palios-emporikos-kosmos/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T21:30:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Ο Νίκος Βατόπουλος περιγράφει τα στενά του παλιού εμπορικού Πειραιά γύρω από την οδό Κασιμάτη και την οδό Γούναρη. Ένας «μικρόκοσμος σε απόσυρση», όπου νέα ξενοδοχεία, καφέ και μπιστρό αλλάζουν γοργά τον χαρακτήρα της περιοχής.",
+            "en": "Nikos Vatopoulos walks through the alleys of old commercial Piraeus around Kasimati and Gounari streets. A 'world in retreat,' where new hotels, cafes and bistros are rapidly transforming what was once a merchant district."
+          },
+          "tags": {
+            "el": [
+              "Πειραιάς",
+              "αρχιτεκτονική",
+              "Βατόπουλος",
+              "ιστορία",
+              "αστικός χώρος"
+            ],
+            "en": [
+              "Piraeus",
+              "architecture",
+              "Vatopoulos",
+              "history",
+              "urban space"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Η «άγνωστη» κυρία που πέρασε από τη ζωή του Καζαντζίδη",
+          "url": "https://www.kathimerini.gr/culture/564229156/i-agnosti-kyria-poy-perase-apo-ti-zoi-toy-kazantzidi/",
+          "source": "Kathimerini",
+          "published": "2026-05-18T10:19:49+00:00",
+          "importance": 40,
+          "summary": {
+            "el": "Άρθρο για τη Σεβάς Χανούμ (Σεβαστή Παπαδοπούλου), ξεχωριστή παρουσία στο λαϊκό τραγούδι της δεκαετίας του '50, που πέρασε από τη ζωή του Στέλιου Καζαντζίδη. Συνεργάστηκε με μεγάλους καλλιτέχνες όπως ο Καζαντζίδης, ο Τσιτσάνης και ο Παπαϊωάννου.",
+            "en": "An article on Sevas Hanoum (Sevasti Papadopoulou), a unique presence in 1950s laiko song who briefly touched Stelios Kazantzidis's life. She worked with giants including Kazantzidis, Tsitsanis and Papaioannou."
+          },
+          "tags": {
+            "el": [
+              "Καζαντζίδης",
+              "Σεβάς Χανούμ",
+              "λαϊκό τραγούδι",
+              "μουσική",
+              "ιστορία"
+            ],
+            "en": [
+              "Kazantzidis",
+              "Sevas Hanoum",
+              "laiko",
+              "music",
+              "history"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Ο Ορφέας έπαιξε μουσική στον Αδη πολλές φορές",
+          "url": "https://www.kathimerini.gr/culture/564229291/o-orfeas-epaixe-moysiki-ston-adi-polles-fores/",
+          "source": "Kathimerini",
+          "published": "2026-05-17T21:10:00+00:00",
+          "importance": 38,
+          "summary": {
+            "el": "Ο Ηλίας Μαγκλίνης πραγματεύεται τον μύθο του Ορφέα και της Ευρυδίκης, τη διαχρονικότητά του στην τέχνη και τη φιλοσοφία. Από τον Οβίδιο και τον Βιργίλιο μέχρι τον Χάινερ Μύλλερ, η ιστορία του μουσικού που κατέβηκε στον Άδη παραμένει αλληγορία της ίδιας της τέχνης.",
+            "en": "Ilias Maglinis explores the myth of Orpheus and Eurydice and its enduring resonance in art and philosophy. From Ovid and Virgil to Heiner Muller, the story of the musician who descended to Hades remains an allegory of art itself."
+          },
+          "tags": {
+            "el": [
+              "Ορφέας",
+              "μυθολογία",
+              "Μαγκλίνης",
+              "τέχνη",
+              "φιλοσοφία"
+            ],
+            "en": [
+              "Orpheus",
+              "mythology",
+              "Maglinis",
+              "art",
+              "philosophy"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
   }
 }
