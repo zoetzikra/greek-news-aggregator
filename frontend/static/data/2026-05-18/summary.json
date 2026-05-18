@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:52:59.629032+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 72 articles over 24h.",
+  "executive_summary": {
+    "el": "Η σημερινή ειδησεογραφία (18 Μαΐου 2026) κυριαρχείται από τέσσερις βασικές θεματικές. Πρώτη και πιο κρίσιμη είναι η ελληνοτουρκική ένταση: η Αθήνα προετοιμάζεται για το τουρκικό νομοσχέδιο «Γαλάζια Πατρίδα» που θα κατατεθεί τον Ιούνιο και επιδιώκει εθνική συνεννόηση, ενώ τα ευρήματα του ΓΕΕΘΑ για το ουκρανικό drone στη Λευκάδα έχουν φτάσει στα χέρια του πρωθυπουργού Μητσοτάκη, με την Αθήνα να στέλνει ξεκάθαρο μήνυμα στο Κίεβο.\n\nΔεύτερη μεγάλη θεματική είναι η πολιτική αναδιάταξη: το 16ο συνέδριο της Νέας Δημοκρατίας επιβεβαίωσε την κυριαρχία Μητσοτάκη χωρίς τον παλιό ενθουσιασμό, η ανακοίνωση του νέου κόμματος Τσίπρα στις 26 Μαΐου και η ίδρυση του κόμματος της Μαρίας Καρυστιανού σηματοδοτούν μια ριζική αναδιάταξη της αντιπολίτευσης, με την κυβέρνηση να στοχεύει στους «παλιούς» ψηφοφόρους του 2023.\n\nΤρίτη θεματική είναι η ενεργειακή και πληθωριστική κρίση εν μέσω του πολέμου στο Ιράν: ο Διεθνής Οργανισμός Ενέργειας προειδοποιεί για εξάντληση των αποθεμάτων πετρελαίου, η Ελλάδα κινδυνεύει με τον βαρύτερο λογαριασμό ενέργειας στην Ευρώπη το καλοκαίρι, ενώ η ΑΜΚ της ΔΕΗ καλύφθηκε με 4 δισ. ευρώ ζήτηση. Παράλληλα, το Πακιστάν διαβίβασε νέα ιρανική πρόταση στις ΗΠΑ.\n\nΤέταρτη θεματική είναι οι έρευνες διαφθοράς και η κοινωνική κρίση: η Ευρωπαϊκή Εισαγγελία επεκτείνει τις έρευνες στο μεταναστευτικό και το ΟΠΕΚΕΠΕ, αποκαλύπτεται η εμπλοκή επτά αστυνομικών με τη «Greek Mafia», ενώ η λειψυδρία στα νησιά και η εφηβική ψυχική υγεία απασχολούν την κοινωνία. Διεθνώς, το Ισραήλ αναχαίτισε τον στολίσκο Global Sumud προς τη Γάζα ανοιχτά της Κύπρου.",
+    "en": "Today's news (May 18, 2026) is dominated by four major themes. First and most consequential is Greek-Turkish tension: Athens is preparing for Turkey's 'Blue Homeland' bill, due in June, and is seeking national consultation, while GEETHA's findings on the Ukrainian drone at Lefkada have reached PM Mitsotakis, with Athens sending a clear message to Kiev.\n\nThe second major theme is political realignment: ND's 16th congress confirmed Mitsotakis's dominance but lacked the old enthusiasm; Tsipras's new party launch on May 26 and the founding of Maria Karystianou's party signal a radical opposition reshuffle, while the government targets 'old' 2023 voters as core to the next election.\n\nThe third theme is the energy and inflation crisis driven by the Iran war: the IEA warns oil stocks are running out, Greece risks Europe's heaviest summer energy bill, and PPC's capital raise was fully subscribed with €4bn in bids. Meanwhile, Pakistan delivered a revised Iranian proposal to Washington as peace talks appear stalled.\n\nThe fourth theme is corruption probes and social strain: the European Public Prosecutor is widening its inquiries into migration funds and OPEKEPE subsidies; seven Greek police officers are accused of ties to the 'Greek Mafia'; island water scarcity and teen mental health weigh on society. Internationally, Israel intercepted the Global Sumud humanitarian flotilla off Cyprus."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Ελληνοτουρκική ένταση & drone Λευκάδας",
+        "en": "Greek-Turkish tension & Lefkada drone"
+      },
+      "description": {
+        "el": "Η Τουρκία ετοιμάζει νομοσχέδιο «Γαλάζιας Πατρίδας» για Ιούνιο· τα ευρήματα του ΓΕΕΘΑ για το ουκρανικό drone στη Λευκάδα δείχνουν ευρύτερη ουκρανική αποστολή στην Ανατολική Μεσόγειο.",
+        "en": "Turkey is preparing a 'Blue Homeland' bill for June. GEETHA's findings on the Ukrainian drone at Lefkada point to a broader Ukrainian operation in the Eastern Mediterranean."
+      },
+      "related_items": [
+        "2e2cec1ad6c3",
+        "7702ecc8b7d8",
+        "4634e0470ca5",
+        "75d792afcf13",
+        "8d82f3131c18",
+        "97d487021333"
+      ],
+      "importance": 92
+    },
+    {
+      "name": {
+        "el": "Πολιτική αναδιάταξη — Νέα κόμματα & συνέδριο ΝΔ",
+        "en": "Political realignment — new parties & ND congress"
+      },
+      "description": {
+        "el": "Ο Τσίπρας ανακοινώνει το νέο του κόμμα στις 26 Μαΐου, η Καρυστιανού καταθέτει ιδρυτική διακήρυξη, η Ν.Δ. ολοκλήρωσε το 16ο συνέδριο και στοχεύει στο 14-16% αποστασιοποιημένων ψηφοφόρων.",
+        "en": "Tsipras launches his new party on May 26, Karystianou files her founding declaration, and ND closed its 16th congress targeting the 14-16% of disenfranchised 2023 voters."
+      },
+      "related_items": [
+        "c1446dfa7a2b",
+        "c96ef8074770",
+        "0efefa15777e",
+        "8d131fdc7438",
+        "3c2f5b0281b5",
+        "911a7d2ba7f5",
+        "4c2f112f271a",
+        "050bd6ade92a"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή & πληθωριστική κρίση Ιράν",
+        "en": "Iran-driven energy & inflation crisis"
+      },
+      "description": {
+        "el": "Ο ΔΟΕ προειδοποιεί ότι τα αποθέματα πετρελαίου αρκούν για λίγες εβδομάδες λόγω πολέμου Ιράν & αποκλεισμού Ορμούζ. Η Ελλάδα κινδυνεύει με τον βαρύτερο ενεργειακό λογαριασμό φέτος. Νέα ιρανική πρόταση στην Ουάσιγκτον.",
+        "en": "The IEA warns oil stocks will last only weeks amid the Iran war and Hormuz blockade. Greece faces Europe's heaviest summer energy bill, and a revised Iranian peace proposal reaches Washington via Pakistan."
+      },
+      "related_items": [
+        "e65374e52fd3",
+        "617c37ba49f4",
+        "6703f8f4b8ee",
+        "bb875fa35cc1",
+        "0b040748f24f"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Διαφθορά, εγκλήματα & κοινωνική πίεση",
+        "en": "Corruption, crime & social strain"
+      },
+      "description": {
+        "el": "Ευρωπαϊκή Εισαγγελία ερευνά μεταναστευτικά κονδύλια & ΟΠΕΚΕΠΕ· επτά αστυνομικοί διώκονται για διασύνδεση με «Greek Mafia»· λειψυδρία πλήττει νησιά, ενώ συζητείται έντονα το φαινόμενο των εφηβικών αυτοκτονιών.",
+        "en": "The European Prosecutor is probing migration funds and OPEKEPE; seven police officers face charges of ties to the 'Greek Mafia'; water scarcity hits islands while teen mental health dominates public conversation."
+      },
+      "related_items": [
+        "7e19c214cfbb",
+        "3165b1e97386",
+        "a9e24765ca54",
+        "1dc101260fde",
+        "1617d1181e9a"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ισραηλινή αναχαίτιση στόλου Γάζας",
+        "en": "Israeli interception of Gaza flotilla"
+      },
+      "description": {
+        "el": "Ισραηλινές δυνάμεις αναχαίτισαν δέκα πλοία του στόλου Global Sumud σε διεθνή ύδατα ανοιχτά της Κύπρου· έχει χαθεί η επικοινωνία με 23 σκάφη.",
+        "en": "Israeli forces intercepted ten Global Sumud flotilla ships in international waters off Cyprus; communication is lost with 23 vessels in total."
+      },
+      "related_items": [
+        "3823c07b2d77",
+        "554a3c1c355b"
+      ],
+      "importance": 85
+    }
+  ],
+  "article_count": 72,
+  "categories": {
+    "politics": 14,
+    "economy": 10,
+    "society": 14,
+    "world": 14,
+    "opinion": 14,
+    "culture": 6
+  }
+}

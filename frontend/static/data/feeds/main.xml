@@ -1,230 +1,230 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="el">
-  <title>Greek News Aggregator — Top 20 for 2026-05-17</title>
-  <subtitle>Bilingual daily digest of Kathimerini.gr coverage.</subtitle>
-  <id>tag:greek-news-aggregator,2026-05-17:main</id>
-  <updated>2026-05-17T19:09:37.539643+00:00</updated>
-  <link rel="self" href="/data/feeds/main.xml"/>
-  <link rel="alternate" type="text/html" href="/"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Greek News Aggregator — Daily Digest</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate" type="text/html"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self" type="application/atom+xml"/>
+  <id>https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml</id>
+  <updated>2026-05-18T11:53:20.000763+00:00</updated>
+  <subtitle>Top 20 articles from kathimerini.gr, with bilingual summaries.</subtitle>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Τραμπ – Σι: Οι νάρκες κάτω από το χαλί</title>
-    <id>tag:greek-news-aggregator,2026-05-17:e30470c6ff02</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/world/564230374/tramp-si-oi-narkes-kato-apo-to-chali/"/>
-    <updated>2026-05-17T18:00:04+00:00</updated>
-    <published>2026-05-17T18:00:04+00:00</published>
-    <author><name>Πέτρος Παπακωνσταντίνου</name></author>
+    <title>Νέο «καμπανάκι» ΔΟΕ: Τα αποθέματα πετρελαίου εξαντλούνται ραγδαία, «αρκούν για λίγες εβδομάδες»</title>
+    <link href="https://www.kathimerini.gr/economy/international/564233017/neo-kampanaki-doe-ta-apothemata-petrelaioy-exantloyntai-ragdaia-arkoyn-gia-liges-evdomades/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/e65374e52fd3</id>
+    <published>2026-05-18T12:49:09+00:00</published>
+    <updated>2026-05-18T12:49:09+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>IEA chief Fatih Birol warned at the G7 Paris summit that commercial oil stockpiles are depleting rapidly amid the Iran war and the Strait of Hormuz blockade. He said reserves may only last a few more weeks.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; IEA chief Fatih Birol warned at the G7 Paris summit that commercial oil stockpiles are depleting rapidly amid the Iran war and the Strait of Hormuz blockade. He said reserves may only last a few more weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Φατίχ Μπιρόλ της Διεθνούς Οργανισμού Ενέργειας προειδοποίησε ότι τα εμπορικά αποθέματα πετρελαίου εξαντλούνται ραγδαία λόγω του πολέμου στο Ιράν και του αποκλεισμού των Στενών του Ορμούζ. Σύμφωνα με τον Μπιρόλ, τα αποθέματα επαρκούν για μόλις λίγες εβδομάδες ακόμα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 92 · Sentiment: negative · Tags: oil, IEA, Iran, Hormuz, energy crisis&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Ελληνοτουρκικά: Ετοιμος ο «γκρίζος» νόμος – Τα σενάρια που μελετά η Αθήνα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564230275/ellinotoyrkika-etoimos-o-gkrizos-nomos-ta-senaria-poy-meleta-i-athina/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/2e2cec1ad6c3</id>
+    <published>2026-05-18T07:13:21+00:00</published>
+    <updated>2026-05-18T07:13:21+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary>Turkey is preparing a &#x27;Blue Homeland&#x27; bill, due in June, that would codify Turkish maritime zones and &#x27;gray zones&#x27; in the Aegean. Athens is studying best- and worst-case scenarios for one of Ankara&#x27;s most significant escalation moves in years.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Turkey is preparing a &amp;#x27;Blue Homeland&amp;#x27; bill, due in June, that would codify Turkish maritime zones and &amp;#x27;gray zones&amp;#x27; in the Aegean. Athens is studying best- and worst-case scenarios for one of Ankara&amp;#x27;s most significant escalation moves in years.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Τουρκία ετοιμάζει νομοσχέδιο για τη «Γαλάζια Πατρίδα» που θα κατατεθεί τον Ιούνιο και θα ορίζει θαλάσσιες ζώνες και «γκρίζες ζώνες» στο Αιγαίο. Η Αθήνα μελετά ένα καλό και ένα κακό σενάριο για ένα από τα σοβαρότερα μέτρα κλιμάκωσης από την Άγκυρα τα τελευταία χρόνια.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 90 · Sentiment: negative · Tags: Turkey, Blue Homeland, Aegean, Greek-Turkish, gray zones&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Αθηνα προς Κίεβο: «Μαζέψτε όλα τα drones» – Τα ευρήματα του ΓΕΕΘΑ</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564230302/athina-pros-kievo-mazepste-ola-ta-drones-ta-eyrimata-toy-geetha/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/7702ecc8b7d8</id>
+    <published>2026-05-18T12:41:20+00:00</published>
+    <updated>2026-05-18T12:41:20+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary>New GEETHA findings indicate the Ukrainian naval drone found at Lefkada was one of several operating in the Eastern Mediterranean. Athens is messaging Kiev to withdraw the remaining USVs, with PM Mitsotakis to decide how to handle the diplomatic fallout.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; New GEETHA findings indicate the Ukrainian naval drone found at Lefkada was one of several operating in the Eastern Mediterranean. Athens is messaging Kiev to withdraw the remaining USVs, with PM Mitsotakis to decide how to handle the diplomatic fallout.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέα ευρήματα του ΓΕΕΘΑ δείχνουν ότι το ουκρανικό drone που εντοπίστηκε στη Λευκάδα δεν ήταν μοναδικό· η Αθήνα στέλνει μήνυμα στο Κίεβο να αποσύρει όσα drones επιχειρούν στην Ανατολική Μεσόγειο. Το προσχέδιο του πορίσματος βρίσκεται στα χέρια του πρωθυπουργού Μητσοτάκη, που θα αποφασίσει τη διπλωματική διαχείριση.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 88 · Sentiment: negative · Tags: Ukraine, Lefkada, GEETHA, drones, Eastern Mediterranean&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Ισραήλ: Ξεκίνησε επιχείρηση «αναχαίτισης πλοίων» του στολίσκου προς τη Γάζα ανοιχτά της Κύπρου</title>
+    <link href="https://www.kathimerini.gr/world/564232858/israil-xekinise-epicheirisi-anachaitisis-ploion-toy-stoliskoy-pros-ti-gaza-anoichta-tis-kyproy/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/3823c07b2d77</id>
+    <published>2026-05-18T11:15:15+00:00</published>
+    <updated>2026-05-18T11:15:15+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Η σύνοδος κορυφής του «G2» στο Πεκίνο ανέδειξε τα σημεία τριβής αλλά και τις αδυναμίες των δύο υπερδυνάμεων. Ο Σι Τζινπίνγκ φάνηκε από θέση ισχύος απέναντι σε έναν Τραμπ που έχει εξαπολύσει πόλεμο δασμών και πόλεμο κατά του Ιράν, με την Κίνα να εμφανίζεται ως πόλος ορθολογισμού. Ο Σι ήταν οξύς ως προς την Ταϊβάν, υπενθυμίζοντας τη μακροχρόνια εμμονή του Τραμπ με την «κίτρινη απειλή».</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η σύνοδος κορυφής του «G2» στο Πεκίνο ανέδειξε τα σημεία τριβής αλλά και τις αδυναμίες των δύο υπερδυνάμεων. Ο Σι Τζινπίνγκ φάνηκε από θέση ισχύος απέναντι σε έναν Τραμπ που έχει εξαπολύσει πόλεμο δασμών και πόλεμο κατά του Ιράν, με την Κίνα να εμφανίζεται ως πόλος ορθολογισμού. Ο Σι ήταν οξύς ως προς την Ταϊβάν, υπενθυμίζοντας τη μακροχρόνια εμμονή του Τραμπ με την «κίτρινη απειλή».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Beijing &amp;#x27;G2&amp;#x27; summit highlighted both friction points and weaknesses of the two superpowers. Xi Jinping appeared in a position of strength against a Trump weakened by his global tariff war and the Iran conflict, with China posing as the rational pole. Xi was sharp on Taiwan, echoing decades of Trump&amp;#x27;s fixation on the &amp;#x27;yellow threat&amp;#x27; going back to 1980s Japan rhetoric.&lt;/p&gt;</content>
+    <summary>Israeli forces intercepted ten ships of the Global Sumud humanitarian flotilla bound for Gaza in international waters off Cyprus, with communications lost with 23 vessels in total. Israel said it &#x27;will not allow any breach of the lawful naval blockade of Gaza.&#x27;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israeli forces intercepted ten ships of the Global Sumud humanitarian flotilla bound for Gaza in international waters off Cyprus, with communications lost with 23 vessels in total. Israel said it &amp;#x27;will not allow any breach of the lawful naval blockade of Gaza.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ισραηλινές δυνάμεις αναχαίτισαν δέκα πλοία του στόλου ανθρωπιστικής βοήθειας Global Sumud προς τη Γάζα, σε διεθνή ύδατα ανοιχτά της Κύπρου. Η επικοινωνία έχει χαθεί με 23 σκάφη συνολικά, ενώ το Ισραήλ δηλώνει ότι δεν θα επιτρέψει «καμία παραβίαση του νόμιμου ναυτικού αποκλεισμού της Γάζας».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 88 · Sentiment: negative · Tags: Israel, Gaza, flotilla, Global Sumud, Cyprus&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Κρεμλίνο: Η ειρηνευτική διαδικασία με το Κίεβο μπορεί να ξαναρχίσει</title>
+    <link href="https://www.kathimerini.gr/world/564233032/kremlino-i-eirineytiki-diadikasia-me-to-kievo-mporei-na-xanarchisei/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/c15ac81a932d</id>
+    <published>2026-05-18T12:56:04+00:00</published>
+    <updated>2026-05-18T12:56:04+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>The Kremlin said the Russia-Ukraine peace process is suspended but is expected to resume, responding to Trump&#x27;s remarks. Spokesman Peskov stressed that Ukrainian attacks on Russian civilian targets must also be taken into account.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Kremlin said the Russia-Ukraine peace process is suspended but is expected to resume, responding to Trump&amp;#x27;s remarks. Spokesman Peskov stressed that Ukrainian attacks on Russian civilian targets must also be taken into account.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Μόσχα δήλωσε ότι η ειρηνευτική διαδικασία με την Ουκρανία έχει διακοπεί, αλλά αναμένει να ξαναρχίσει, σχολιάζοντας τις δηλώσεις Τραμπ. Ο Πεσκόφ τόνισε ότι πρέπει να δοθεί προσοχή και στις ουκρανικές επιθέσεις σε ρωσικά πολιτικά αντικείμενα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 85 · Sentiment: neutral · Tags: Ukraine, Kremlin, Trump, war, diplomacy&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Οι ΗΠΑ έλαβαν αναθεωρημένη πρόταση του Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564232831/se-exelixi-diapragmateyseis-me-tis-ipa-leei-to-iran-epafes-me-to-oman-gia-to-ormoyz/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/6703f8f4b8ee</id>
+    <published>2026-05-18T10:57:03+00:00</published>
+    <updated>2026-05-18T10:57:03+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Pakistan delivered to the US a revised Iranian proposal to end the war, as negotiations appear to have stalled. A source in Islamabad stressed &#x27;we don&#x27;t have much time&#x27; as both sides keep shifting their red lines.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Pakistan delivered to the US a revised Iranian proposal to end the war, as negotiations appear to have stalled. A source in Islamabad stressed &amp;#x27;we don&amp;#x27;t have much time&amp;#x27; as both sides keep shifting their red lines.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Πακιστάν διαβίβασε στις ΗΠΑ αναθεωρημένη ιρανική πρόταση για τον τερματισμό του πολέμου, καθώς οι διαπραγματεύσεις φαίνεται να «παγώνουν». Πηγή στο Ισλαμαμπάντ τόνισε ότι «δεν υπάρχει πολύς χρόνος», με τις δύο πλευρές να μετακινούν συνεχώς τα όρια των απαιτήσεών τους.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 82 · Sentiment: neutral · Tags: Iran, USA, Pakistan, negotiations, war&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Από το παλιό στο νέο κόμμα Τσίπρα: Ρήξεις, αταξία και ίντριγκα</title>
+    <link href="https://www.kathimerini.gr/politics/564232699/apo-to-palio-sto-neo-komma-tsipra-rixeis-ataxia-kai-intrigka/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/c1446dfa7a2b</id>
+    <published>2026-05-18T09:47:07+00:00</published>
+    <updated>2026-05-18T09:47:07+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <category term="politics"/>
+    <summary>Alexis Tsipras will officially launch his new party on May 26, aiming to displace PASOK as the main opposition force. The move has triggered significant upheaval in the progressive camp and raises questions about who will sign the founding declaration.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Alexis Tsipras will officially launch his new party on May 26, aiming to displace PASOK as the main opposition force. The move has triggered significant upheaval in the progressive camp and raises questions about who will sign the founding declaration.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στις 26 Μαΐου θα ανακοινωθεί το νέο κόμμα Τσίπρα, με στόχο να εκτοπίσει το ΠΑΣΟΚ από τη δεύτερη θέση. Η επιστροφή του πρώην πρωθυπουργού έχει προκαλέσει σοβαρές αναταραχές στον προοδευτικό χώρο και ανοίγει ερωτήματα για ποιοι θα υπογράψουν τη Διακήρυξη.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 80 · Sentiment: neutral · Tags: Tsipras, new party, SYRIZA, PASOK, opposition&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Το «μαύρο κουτί» των εφηβικών αυτοκτονιών</title>
+    <link href="https://www.kathimerini.gr/society/564230464/to-mayro-koyti-ton-efivikon-aytoktonion/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/1617d1181e9a</id>
+    <published>2026-05-17T21:33:37+00:00</published>
+    <updated>2026-05-17T21:33:37+00:00</updated>
+    <author><name>Ηλιάνα Μάγρα</name></author>
+    <category term="society"/>
+    <summary>Kathimerini examines the aftermath of two girls&#x27; suicide in Ilioupoli and the wider phenomenon of teen suicide in Greece. Despite circulating theories, experts emphasize the precise causes remain unknown — a &#x27;black box&#x27; that demands measured public discourse.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kathimerini examines the aftermath of two girls&amp;#x27; suicide in Ilioupoli and the wider phenomenon of teen suicide in Greece. Despite circulating theories, experts emphasize the precise causes remain unknown — a &amp;#x27;black box&amp;#x27; that demands measured public discourse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η «Κ» καταγράφει το δράμα της Ηλιούπολης μετά την αυτοκτονία δύο κοριτσιών και αναλύει το ευρύτερο φαινόμενο των εφηβικών αυτοκτονιών. Παρά τις θεωρίες που κυκλοφορούν, οι ειδικοί τονίζουν ότι κανείς δεν μπορεί να γνωρίζει με βεβαιότητα τις αιτίες — ένα «μαύρο κουτί» που απαιτεί μετρημένο δημόσιο λόγο.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 80 · Sentiment: negative · Tags: teen suicide, Ilioupoli, mental health, society, youth&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Θεωρείο: Στα χέρια του πρωθυπουργού</title>
+    <link href="https://www.kathimerini.gr/politics/564230359/theoreio-sta-cheria-toy-prothypoyrgoy/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/4634e0470ca5</id>
+    <published>2026-05-18T07:38:10+00:00</published>
+    <updated>2026-05-18T07:38:10+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary>The Theoreio column reports that PM Mitsotakis now holds GEETHA&#x27;s first conclusions on the Ukrainian drone at Lefkada. PASOK calls ND&#x27;s attacks on Androulakis &#x27;underhanded&#x27; and threatens a counter-offensive over ND officials&#x27; offshore accounts and corporate links to the state.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Theoreio column reports that PM Mitsotakis now holds GEETHA&amp;#x27;s first conclusions on the Ukrainian drone at Lefkada. PASOK calls ND&amp;#x27;s attacks on Androulakis &amp;#x27;underhanded&amp;#x27; and threatens a counter-offensive over ND officials&amp;#x27; offshore accounts and corporate links to the state.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Θεωρείο αναφέρει ότι ο πρωθυπουργός Μητσοτάκης κρατά τα πρώτα συμπεράσματα του ΓΕΕΘΑ για το ουκρανικό drone της Λευκάδας. Στο ΠΑΣΟΚ θεωρούν «αήθεις» τις επιθέσεις της Ν.Δ. κατά Ανδρουλάκη και απειλούν με αντεπίθεση για στελέχη της Ν.Δ. με χρήματα στο εξωτερικό.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 78 · Sentiment: negative · Tags: Theoreio, Mitsotakis, Lefkada drone, PASOK, Androulakis&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Η δροσιά θα κοστίσει ακριβά το καλοκαίρι</title>
-    <id>tag:greek-news-aggregator,2026-05-17:617c37ba49f4</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/economy/564230731/i-drosia-tha-kostisei-akriva-to-kalokairi/"/>
-    <updated>2026-05-17T19:30:24+00:00</updated>
+    <link href="https://www.kathimerini.gr/economy/564230731/i-drosia-tha-kostisei-akriva-to-kalokairi/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/617c37ba49f4</id>
     <published>2026-05-17T19:30:24+00:00</published>
+    <updated>2026-05-17T19:30:24+00:00</updated>
     <author><name>Χρύσα Λιάγγου</name></author>
     <category term="economy"/>
-    <summary type="text">Με τις πολεμικές συγκρούσεις στο Ιράν να μετρούν κοντά τρεις μήνες και τις τιμές ενέργειας να εκτοξεύονται, η Ελλάδα εμφανίζεται από τις πιο ευάλωτες χώρες της Ευρώπης. Τον Απρίλιο κατέγραψε τον πέμπτο υψηλότερο πληθωρισμό στην Ευρωζώνη (4,6%) και τον δεύτερο υψηλότερο ενεργειακό πληθωρισμό (21,9%). Η εξάρτηση από ακριβό αμερικανικό LNG και η υψηλή ζήτηση ρεύματος το καλοκαίρι δημιουργούν ένα «εκρηκτικό κοκτέιλ».</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Με τις πολεμικές συγκρούσεις στο Ιράν να μετρούν κοντά τρεις μήνες και τις τιμές ενέργειας να εκτοξεύονται, η Ελλάδα εμφανίζεται από τις πιο ευάλωτες χώρες της Ευρώπης. Τον Απρίλιο κατέγραψε τον πέμπτο υψηλότερο πληθωρισμό στην Ευρωζώνη (4,6%) και τον δεύτερο υψηλότερο ενεργειακό πληθωρισμό (21,9%). Η εξάρτηση από ακριβό αμερικανικό LNG και η υψηλή ζήτηση ρεύματος το καλοκαίρι δημιουργούν ένα «εκρηκτικό κοκτέιλ».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; With the Iran war nearing its third month and energy prices spiking, Greece is among Europe&amp;#x27;s most exposed economies. April inflation hit 4.6% (fifth highest in the eurozone) and energy inflation jumped to 21.9% (second highest). Heavy reliance on costly US LNG plus surging summer power demand are creating an &amp;#x27;explosive cocktail&amp;#x27; for consumer bills.&lt;/p&gt;</content>
+    <summary>Greece risks paying Europe&#x27;s heaviest energy bill this summer because of its dependence on US LNG and oil imports amid the Iran war. April inflation hit 4.6%, the fifth highest in the eurozone, and surging cooling demand is set to make matters worse.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece risks paying Europe&amp;#x27;s heaviest energy bill this summer because of its dependence on US LNG and oil imports amid the Iran war. April inflation hit 4.6%, the fifth highest in the eurozone, and surging cooling demand is set to make matters worse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ελλάδα κινδυνεύει να πληρώσει τον βαρύτερο ενεργειακό λογαριασμό στην Ευρώπη φέτος το καλοκαίρι, λόγω εξάρτησης από αμερικανικό LNG και πετρέλαιο εν μέσω του πολέμου στο Ιράν. Ο πληθωρισμός Απριλίου ήταν 4,6%, ο πέμπτος υψηλότερος στην Ευρωζώνη, και η ζήτηση ρεύματος αναμένεται να εκτοξευθεί.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 78 · Sentiment: negative · Tags: energy, inflation, LNG, Iran, electricity&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Αστυνομικοί στη «ρωσική» μαφία</title>
+    <link href="https://www.kathimerini.gr/society/564230458/astynomikoi-sti-rosiki-mafia/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/a9e24765ca54</id>
+    <published>2026-05-18T10:14:03+00:00</published>
+    <updated>2026-05-18T10:14:03+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <category term="society"/>
+    <summary>Seven Greek police officers are under Internal Affairs investigation for ties to a Georgian-origin criminal group whose members are accused of four &#x27;Greek Mafia&#x27; murders. Three are described as active members and three as facilitators.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Seven Greek police officers are under Internal Affairs investigation for ties to a Georgian-origin criminal group whose members are accused of four &amp;#x27;Greek Mafia&amp;#x27; murders. Three are described as active members and three as facilitators.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Επτά αστυνομικοί ελέγχονται από την Υπηρεσία Εσωτερικών Υποθέσεων για διασυνδέσεις με ομάδα ομογενών από τη Γεωργία, μέλη της οποίας κατηγορούνται για τέσσερις δολοφονίες της «Greek Mafia». Τρεις περιγράφονται ως ενεργά μέλη της οργάνωσης και τρεις ότι διευκόλυναν τη δράση της.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 78 · Sentiment: negative · Tags: Hellenic Police, Greek Mafia, Georgia, corruption, Internal Affairs&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Πόλεμος στην Ουκρανία: Ρωσικό drone χτύπησε κινεζικό πλοίο, ενώ άλλο έπληξε σκάφος με σημαία Γουινέας-Μπισάου</title>
+    <link href="https://www.kathimerini.gr/world/564232813/polemos-stin-oykrania-rosiko-drone-chtypise-kineziko-ploio-eno-allo-eplixe-skafos-me-simaia-goyineas-mpisaoy/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/55b4e4b62bb7</id>
+    <published>2026-05-18T11:44:08+00:00</published>
+    <updated>2026-05-18T11:44:08+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Russian Shahed drones struck two foreign commercial vessels in Ukrainian waters — one Chinese-owned (&#x27;KSL DEYANG&#x27;) and one flying the Guinea-Bissau flag. No casualties, but Ukraine called the strike on Chinese-owned shipping &#x27;something new.&#x27;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Russian Shahed drones struck two foreign commercial vessels in Ukrainian waters — one Chinese-owned (&amp;#x27;KSL DEYANG&amp;#x27;) and one flying the Guinea-Bissau flag. No casualties, but Ukraine called the strike on Chinese-owned shipping &amp;#x27;something new.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ρωσικά drones τύπου Shahed χτύπησαν δύο ξένα εμπορικά πλοία στον Εύξεινο Πόντο, ένα κινεζικής ιδιοκτησίας («KSL DEYANG») και ένα με σημαία Γουινέας-Μπισάου. Δεν υπήρξαν θύματα, αλλά η Ουκρανία χαρακτηρίζει την επίθεση σε κινεζικό πλοίο ως «κάτι καινούργιο».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 78 · Sentiment: negative · Tags: Ukraine, Russia, Black Sea, China, drone&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Κυριαρχία χωρίς ενθουσιασμό στο 16ο συνέδριο της Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/politics/564232717/kyriarchia-choris-enthoysiasmo-sto-16o-synedrio-tis-n-d/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/8d131fdc7438</id>
+    <published>2026-05-18T09:45:32+00:00</published>
+    <updated>2026-05-18T09:45:32+00:00</updated>
+    <author><name>Βασιλική Σιούτη</name></author>
+    <category term="politics"/>
+    <summary>ND&#x27;s 16th congress confirmed Kyriakos Mitsotakis&#x27;s complete dominance but lacked previous years&#x27; enthusiasm. The absences of Karamanlis and Samaras, Dimitriadis&#x27;s presence and Dendias&#x27;s leadership posture were widely seen as signals for what comes next.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; ND&amp;#x27;s 16th congress confirmed Kyriakos Mitsotakis&amp;#x27;s complete dominance but lacked previous years&amp;#x27; enthusiasm. The absences of Karamanlis and Samaras, Dimitriadis&amp;#x27;s presence and Dendias&amp;#x27;s leadership posture were widely seen as signals for what comes next.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο 16ο συνέδριο της Νέας Δημοκρατίας επιβεβαιώθηκε η απόλυτη κυριαρχία του Κυριάκου Μητσοτάκη, αλλά απουσίαζε ο κομματικός παλμός. Οι απουσίες Καραμανλή και Σαμαρά, η παρουσία Δημητριάδη και η ηγετική εμφάνιση Δένδια θα έχουν σημασία για την επόμενη ημέρα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 75 · Sentiment: neutral · Tags: New Democracy, Mitsotakis, congress, Dendias, party&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Καλύφθηκε η ΑΜΚ της ΔΕΗ – Προσφορές κοντά στα 4 δισ. ευρώ</title>
+    <link href="https://www.kathimerini.gr/economy/business/564232855/kalyfthike-i-amk-tis-dei-prosfores-konta-sta-4-dis-eyro/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/0b040748f24f</id>
+    <published>2026-05-18T11:09:54+00:00</published>
+    <updated>2026-05-18T11:09:54+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>PPC&#x27;s capital increase was fully subscribed with bids near 4bn euros. The offering price will not exceed 19.75 euros per share, financing the company&#x27;s 24bn 2026-2030 investment plan, with the new shares to start trading May 26.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PPC&amp;#x27;s capital increase was fully subscribed with bids near 4bn euros. The offering price will not exceed 19.75 euros per share, financing the company&amp;#x27;s 24bn 2026-2030 investment plan, with the new shares to start trading May 26.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πλήρως καλύφθηκε η αύξηση μετοχικού κεφαλαίου της ΔΕΗ με το βιβλίο προσφορών να φτάνει τα 4 δισ. ευρώ. Η τιμή διάθεσης δεν θα υπερβαίνει τα 19,75 ευρώ, με σκοπό τη χρηματοδότηση του επενδυτικού πλάνου 24 δισ. ευρώ για 2026-2030.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 75 · Sentiment: positive · Tags: PPC, share offering, investments, energy, stock market&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Ερευνα της Ευρωπαϊκής Εισαγγελίας και για το μεταναστευτικό</title>
+    <link href="https://www.kathimerini.gr/society/564230455/ereyna-tis-eyropaikis-eisaggelias-kai-gia-to-metanasteytiko/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/7e19c214cfbb</id>
+    <published>2026-05-18T09:36:31+00:00</published>
+    <updated>2026-05-18T09:36:31+00:00</updated>
+    <author><name>Κώστας Κουκουμάκας</name></author>
+    <category term="society"/>
+    <summary>The European Public Prosecutor is investigating spending on migrant reception facilities at Malakasa and Sintiki/Serres during the 2020-21 pandemic. The focus is direct-award contracts to private firms without tenders, justified at the time as &#x27;urgent.&#x27;</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Public Prosecutor is investigating spending on migrant reception facilities at Malakasa and Sintiki/Serres during the 2020-21 pandemic. The focus is direct-award contracts to private firms without tenders, justified at the time as &amp;#x27;urgent.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ευρωπαϊκή Εισαγγελία ερευνά τη διαχείριση κονδυλίων για κέντρα υποδοχής μεταναστών στη Μαλακάσα και τη Σιντική Σερρών την περίοδο πανδημίας 2020-21. Στο επίκεντρο βρίσκονται απευθείας αναθέσεις σε ιδιωτικές εταιρείες χωρίς διαγωνισμό, λόγω «κατεπείγουσας ανάγκης».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 75 · Sentiment: negative · Tags: European Prosecutor, migration, Malakasa, Serres, corruption&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Τραμπ: Πρέπει να νικήσουμε την Κίνα στη μάχη της τεχνητής νοημοσύνης</title>
+    <link href="https://www.kathimerini.gr/world/564232888/tramp-prepei-na-nikisoyme-tin-kina-sti-machi-tis-technitis-noimosynis/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/422ffaf39165</id>
+    <published>2026-05-18T12:20:05+00:00</published>
+    <updated>2026-05-18T12:20:05+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>In a Fortune interview before his China trip, Trump explained how the Iran war could delay his interest-rate plans and why he regrets settling for only 10% of Intel. He stressed America must beat China in the AI race.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; In a Fortune interview before his China trip, Trump explained how the Iran war could delay his interest-rate plans and why he regrets settling for only 10% of Intel. He stressed America must beat China in the AI race.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σε συνέντευξη στο Fortune πριν το ταξίδι του στην Κίνα, ο Τραμπ εξήγησε πώς ο πόλεμος στο Ιράν μπορεί να καθυστερήσει τα σχέδιά του για τα επιτόκια και γιατί μετανιώνει που ζήτησε μόνο το 10% της Intel. Δήλωσε ότι η Αμερική πρέπει να νικήσει την Κίνα στη μάχη της τεχνητής νοημοσύνης.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 75 · Sentiment: neutral · Tags: Trump, China, AI, Intel, USA&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Η προεκλογική περίοδος ξεκίνησε</title>
+    <link href="https://www.kathimerini.gr/opinion/564230548/i-proeklogiki-periodos-xekinise/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/050bd6ade92a</id>
+    <published>2026-05-17T20:13:00+00:00</published>
+    <updated>2026-05-17T20:13:00+00:00</updated>
+    <author><name>Αλέξης Παπαχελάς</name></author>
+    <category term="opinion"/>
+    <summary>Alexis Papahelas observes that Greece has entered a quasi-electoral period, with mounting pressure for handouts, a 13th pension and reform rollbacks. He urges the government to resist populism, warning institutions risk freezing under election-driven calculations.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Alexis Papahelas observes that Greece has entered a quasi-electoral period, with mounting pressure for handouts, a 13th pension and reform rollbacks. He urges the government to resist populism, warning institutions risk freezing under election-driven calculations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Αλέξης Παπαχελάς σημειώνει ότι η χώρα μπήκε σε οιονεί προεκλογική περίοδο, με αυξανόμενες πιέσεις για παροχές, 13η σύνταξη και ξήλωμα μεταρρυθμίσεων. Καλεί την κυβέρνηση να αντισταθεί στον λαϊκισμό, καθώς οι θεσμοί κινδυνεύουν να «παγώσουν» υπό την εκλογική λογική.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: opinion · Importance: 75 · Sentiment: negative · Tags: Papahelas, elections, populism, reforms, analysis&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Το 6% που έχει βάλει στο στόχαστρο η Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/politics/564230317/to-6-poy-echei-valei-sto-stochastro-i-n-d/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/3c2f5b0281b5</id>
+    <published>2026-05-18T07:24:25+00:00</published>
+    <updated>2026-05-18T07:24:25+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary>ND is focusing on the 14-16% of 2023 voters who remain reluctant to back the governing party again — roughly 5.7-6.6% of the total electorate. The strategy targets only past supporters, not new ones, as Maximos Mansion drafts its next electoral plan.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; ND is focusing on the 14-16% of 2023 voters who remain reluctant to back the governing party again — roughly 5.7-6.6% of the total electorate. The strategy targets only past supporters, not new ones, as Maximos Mansion drafts its next electoral plan.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στη Ν.Δ. εστιάζουν στο 14-16% των ψηφοφόρων του 2023 που παραμένουν απρόθυμοι να ξαναψηφίσουν το κυβερνών κόμμα — περίπου 5,7-6,6% του συνόλου του εκλογικού σώματος. Στόχος μόνο οι «παλιοί» ψηφοφόροι, καθώς το Μέγαρο Μαξίμου ετοιμάζει το επόμενο εκλογικό σχέδιο.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 72 · Sentiment: neutral · Tags: New Democracy, elections, voters, Maximos Mansion, polls&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Σε έκτακτη ανάγκη για πάγια λειψυδρία</title>
-    <id>tag:greek-news-aggregator,2026-05-17:1dc101260fde</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/society/564230470/se-ektakti-anagki-gia-pagia-leipsydria/"/>
-    <updated>2026-05-17T17:31:00+00:00</updated>
+    <link href="https://www.kathimerini.gr/society/564230470/se-ektakti-anagki-gia-pagia-leipsydria/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/1dc101260fde</id>
     <published>2026-05-17T17:31:00+00:00</published>
+    <updated>2026-05-17T17:31:00+00:00</updated>
     <author><name>Αλεξία Καλαϊτζή</name></author>
     <category term="society"/>
-    <summary type="text">Όλο και περισσότερα νησιά κηρύσσονται σε κατάσταση εκτάκτου ανάγκης λόγω λειψυδρίας, με την Αστυπάλαια να είναι το πιο πρόσφατο παράδειγμα. Η κατανάλωση νερού εκεί έχει αυξηθεί κατά 60% σε πέντε χρόνια εν μέσω κλιματικής κρίσης, οδηγώντας τον δήμο στην επιτάχυνση εγκατάστασης μονάδας αφαλάτωσης για να καλύψει 600 κυβικά μέτρα την ημέρα. Η λειψυδρία μετατρέπεται σε πάγια συνθήκη του ελληνικού καλοκαιριού.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Όλο και περισσότερα νησιά κηρύσσονται σε κατάσταση εκτάκτου ανάγκης λόγω λειψυδρίας, με την Αστυπάλαια να είναι το πιο πρόσφατο παράδειγμα. Η κατανάλωση νερού εκεί έχει αυξηθεί κατά 60% σε πέντε χρόνια εν μέσω κλιματικής κρίσης, οδηγώντας τον δήμο στην επιτάχυνση εγκατάστασης μονάδας αφαλάτωσης για να καλύψει 600 κυβικά μέτρα την ημέρα. Η λειψυδρία μετατρέπεται σε πάγια συνθήκη του ελληνικού καλοκαιριού.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; More and more Greek islands are being placed under emergency status due to chronic water shortages, with Astypalea the latest example. Water consumption there has risen 60% in five years amid the climate crisis, forcing the municipality to fast-track a rented desalination unit producing 600 cubic metres a day. Drought is becoming a structural feature of Greek summers.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Axios: Φόβοι στο περιβάλλον Τραμπ για κινεζική εισβολή στην Ταϊβάν εντός 5ετίας</title>
-    <id>tag:greek-news-aggregator,2026-05-17:7738c63b7376</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/world/564232153/axios-fovoi-sto-perivallon-tramp-gia-kineziki-eisvoli-stin-taivan-entos-5etias/"/>
-    <updated>2026-05-17T14:51:36+00:00</updated>
-    <published>2026-05-17T14:51:36+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Σύμφωνα με το Axios, η πρόσφατη επίσκεψη Τραμπ στο Πεκίνο έχει προκαλέσει έντονο προβληματισμό στο στενό του περιβάλλον, με κορυφαίους συμβούλους να προειδοποιούν για κινεζική εισβολή στην Ταϊβάν εντός πενταετίας. Σύμβουλος του Τραμπ ανέφερε ότι «το μήνυμα του Σι ήταν: η Ταϊβάν μας ανήκει». Κρίσιμο διακύβευμα η εξάρτηση από τους ημιαγωγούς της Ταϊβάν για την Τεχνητή Νοημοσύνη.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με το Axios, η πρόσφατη επίσκεψη Τραμπ στο Πεκίνο έχει προκαλέσει έντονο προβληματισμό στο στενό του περιβάλλον, με κορυφαίους συμβούλους να προειδοποιούν για κινεζική εισβολή στην Ταϊβάν εντός πενταετίας. Σύμβουλος του Τραμπ ανέφερε ότι «το μήνυμα του Σι ήταν: η Ταϊβάν μας ανήκει». Κρίσιμο διακύβευμα η εξάρτηση από τους ημιαγωγούς της Ταϊβάν για την Τεχνητή Νοημοσύνη.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; According to Axios, Trump&amp;#x27;s recent Beijing visit has alarmed his inner circle, with top advisers warning of a possible Chinese invasion of Taiwan within five years. One adviser said Xi&amp;#x27;s message was: &amp;#x27;Taiwan belongs to us.&amp;#x27; The dependence of US firms on Taiwanese semiconductors — the backbone of AI — is now the most acute strategic risk.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης: Οταν η Ν.Δ. ενώνεται, ενώνει και την Ελλάδα</title>
-    <id>tag:greek-news-aggregator,2026-05-17:e15cb26678e5</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/politics/564232099/mitsotakis-otan-i-n-d-enonetai-enonei-kai-tin-ellada/"/>
-    <updated>2026-05-17T13:25:19+00:00</updated>
-    <published>2026-05-17T13:25:19+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Με την καταληκτική ομιλία του Κυριάκου Μητσοτάκη ολοκληρώθηκε το 16ο συνέδριο της ΝΔ. Ο πρωθυπουργός μίλησε για «ισχυρή Ελλάδα του 2030», για τη σημασία της σταθερότητας σε αβέβαιο διεθνές περιβάλλον, για την αξιοποίηση της τεχνητής νοημοσύνης στο κράτος και για την ανοιχτή φύση της παράταξης. «Όταν η Ν.Δ. ενώνεται, ενώνει και την Ελλάδα», υπογράμμισε.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Με την καταληκτική ομιλία του Κυριάκου Μητσοτάκη ολοκληρώθηκε το 16ο συνέδριο της ΝΔ. Ο πρωθυπουργός μίλησε για «ισχυρή Ελλάδα του 2030», για τη σημασία της σταθερότητας σε αβέβαιο διεθνές περιβάλλον, για την αξιοποίηση της τεχνητής νοημοσύνης στο κράτος και για την ανοιχτή φύση της παράταξης. «Όταν η Ν.Δ. ενώνεται, ενώνει και την Ελλάδα», υπογράμμισε.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Mitsotakis closed the 16th ND congress with a keynote framing a &amp;#x27;strong Greece of 2030,&amp;#x27; the importance of stability in a volatile world, the role of AI in modernising the state, and ND&amp;#x27;s character as an open political organisation. &amp;#x27;When ND unites, it also unites Greece,&amp;#x27; he said.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Οι τουρκικές απαιτήσεις δοκιμασία για την Ενωση</title>
-    <id>tag:greek-news-aggregator,2026-05-17:98d9a96e89ec</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230350/oi-toyrkikes-apaitiseis-dokimasia-gia-tin-enosi/"/>
-    <updated>2026-05-17T20:00:00+00:00</updated>
-    <published>2026-05-17T20:00:00+00:00</published>
-    <author><name>Νίκος Κωνσταντάρας</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Νίκος Κωνσταντάρας προειδοποιεί ότι η Ευρωπαϊκή Ένωση δεν πρέπει να καθυστερήσει στην ένταση μεταξύ Ελλάδας και Τουρκίας. Ζητεί από τις Βρυξέλλες ξεκάθαρη στάση ότι δεν δέχεται «αμφισβήτηση των δικών της συνόρων και δικαιωμάτων». Επικαλείται τη δήλωση Μακρόν για στήριξη της ελληνικής κυριαρχίας, καλώντας την ΕΕ να μην αφήσει τα προβλήματα να κακοφορμίσουν.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Νίκος Κωνσταντάρας προειδοποιεί ότι η Ευρωπαϊκή Ένωση δεν πρέπει να καθυστερήσει στην ένταση μεταξύ Ελλάδας και Τουρκίας. Ζητεί από τις Βρυξέλλες ξεκάθαρη στάση ότι δεν δέχεται «αμφισβήτηση των δικών της συνόρων και δικαιωμάτων». Επικαλείται τη δήλωση Μακρόν για στήριξη της ελληνικής κυριαρχίας, καλώντας την ΕΕ να μην αφήσει τα προβλήματα να κακοφορμίσουν.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Nikos Konstantaras warns the EU not to drag its feet on the Greek-Turkish tensions. He calls on Brussels to make clear it will not tolerate any challenge to &amp;#x27;its own&amp;#x27; borders and rights, citing Macron&amp;#x27;s pledge to defend Greek sovereignty. Letting problems fester, he argues, has historically forced Europe into doing more later, at greater cost.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Μείωση εισφορών χάρη στην εργασία των συνταξιούχων</title>
-    <id>tag:greek-news-aggregator,2026-05-17:861f34bdb7c5</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/economy/564230704/meiosi-eisforon-chari-stin-ergasia-ton-syntaxioychon/"/>
-    <updated>2026-05-17T17:15:01+00:00</updated>
-    <published>2026-05-17T17:15:01+00:00</published>
-    <author><name>Ρούλα Σαλούρου</name></author>
-    <category term="economy"/>
-    <summary type="text">Η κυβέρνηση προετοιμάζει νέα μείωση εργοδοτικών εισφορών 0,5%-1% για τη ΔΕΘ Σεπτεμβρίου, με ισχύ από 1η Ιανουαρίου 2027. Στόχοι: μείωση μη μισθολογικού κόστους και χώρος για αυξήσεις μισθών στον ιδιωτικό τομέα. Η χρηματοδότηση θα στηριχθεί σε πρόσθετα έσοδα από την καταπολέμηση της φοροδιαφυγής και την ψηφιακή κάρτα εργασίας, με τον ΕΦΚΑ να προβλέπει έσοδα 16,8 δισ. ευρώ το 2026.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η κυβέρνηση προετοιμάζει νέα μείωση εργοδοτικών εισφορών 0,5%-1% για τη ΔΕΘ Σεπτεμβρίου, με ισχύ από 1η Ιανουαρίου 2027. Στόχοι: μείωση μη μισθολογικού κόστους και χώρος για αυξήσεις μισθών στον ιδιωτικό τομέα. Η χρηματοδότηση θα στηριχθεί σε πρόσθετα έσοδα από την καταπολέμηση της φοροδιαφυγής και την ψηφιακή κάρτα εργασίας, με τον ΕΦΚΑ να προβλέπει έσοδα 16,8 δισ. ευρώ το 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Greek government is preparing a fresh 0.5–1% cut to employer social contributions, to be unveiled at the September Thessaloniki Fair and effective 1 January 2027. The goal is to cut non-wage labour costs and create room for higher private-sector wages, funded by gains from anti-tax-evasion measures and the digital work card. EFKA expects revenue of €16.8 bn in 2026.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Η ενότητα του Μητσοτάκη, η πλατφόρμα Δένδια και η έλλειψη αυτοκριτικής</title>
-    <id>tag:greek-news-aggregator,2026-05-17:d26b58fd245b</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/politics/564232150/i-enotita-toy-mitsotaki-i-platforma-dendia-kai-i-elleipsi-aytokritikis/"/>
-    <updated>2026-05-17T14:39:38+00:00</updated>
-    <published>2026-05-17T14:39:38+00:00</published>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">Ανάλυση της «Κ» για όσα συνέβησαν στο 16ο συνέδριο της Νέας Δημοκρατίας: ο Μητσοτάκης έθεσε το πλαίσιο της εκστρατείας έως το 2030, με μετριοπαθή τόνο και σημεία αυτοκριτικής. Ο Νίκος Δένδιας ωστόσο παρουσίασε «έμμεση πλατφόρμα» διαφορετική από την κεντρική κυβερνητική γραμμή, ενώ τα περισσότερα στελέχη επέλεξαν πανηγυρικούς τόνους χωρίς αυτοκριτική, αφήνοντας αίσθηση «κομματικής γυάλας».</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση της «Κ» για όσα συνέβησαν στο 16ο συνέδριο της Νέας Δημοκρατίας: ο Μητσοτάκης έθεσε το πλαίσιο της εκστρατείας έως το 2030, με μετριοπαθή τόνο και σημεία αυτοκριτικής. Ο Νίκος Δένδιας ωστόσο παρουσίασε «έμμεση πλατφόρμα» διαφορετική από την κεντρική κυβερνητική γραμμή, ενώ τα περισσότερα στελέχη επέλεξαν πανηγυρικούς τόνους χωρίς αυτοκριτική, αφήνοντας αίσθηση «κομματικής γυάλας».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A Kathimerini analysis of the 16th ND congress: Mitsotakis set a 2030 framework with a measured tone and some self-criticism. Defense Minister Nikos Dendias, however, delivered what amounts to an alternative platform — distinct from the central government line — while most other officials offered uncritical celebration, projecting a bubble disconnected from social reality.&lt;/p&gt;</content>
+    <summary>Greek islands are declaring water-scarcity emergencies one after another, with Astypalaia&#x27;s consumption up 60% in five years. Desalination units are being rushed in to save the tourist season, exposing chronic structural problems amid the climate crisis.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek islands are declaring water-scarcity emergencies one after another, with Astypalaia&amp;#x27;s consumption up 60% in five years. Desalination units are being rushed in to save the tourist season, exposing chronic structural problems amid the climate crisis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ένα μετά το άλλο τα ελληνικά νησιά κηρύσσονται σε κατάσταση εκτάκτου ανάγκης λόγω λειψυδρίας. Στην Αστυπάλαια η κατανάλωση νερού αυξήθηκε 60% σε πέντε χρόνια, ενώ τρέχει η ενοικίαση μονάδων αφαλάτωσης για να σωθεί η τουριστική σεζόν.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 72 · Sentiment: negative · Tags: water scarcity, islands, Astypalaia, climate crisis, desalination&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>«Στα ψέματα παίζαμε»</title>
-    <id>tag:greek-news-aggregator,2026-05-17:8d82f3131c18</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230551/sta-psemata-paizame-2/"/>
-    <updated>2026-05-17T20:09:00+00:00</updated>
+    <link href="https://www.kathimerini.gr/opinion/564230551/sta-psemata-paizame-2/"/>
+    <id>https://zoetzikra.github.io/greek-news-aggregator/article/8d82f3131c18</id>
     <published>2026-05-17T20:09:00+00:00</published>
+    <updated>2026-05-17T20:09:00+00:00</updated>
     <author><name>Κώστας Ιορδανίδης</name></author>
     <category term="opinion"/>
-    <summary type="text">Ο Κώστας Ιορδανίδης κρίνει ότι η Ελλάδα πλήρωσε ακριβά την ανεπιφύλακτη της στήριξη στην Ουκρανία. Το επεισόδιο με το ουκρανικό drone που εντοπίστηκε στη Λευκάδα και η τουρκική προετοιμασία νομοσχεδίου για τα ναυτικά της όρια αποκαλύπτουν τους κινδύνους της «στρατηγικής συνεργασίας» με Ισραήλ. Οι ελληνικοί χειρισμοί υπήρξαν «στρατηγικώς σχεδιασμένοι» αλλά αφελείς.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κώστας Ιορδανίδης κρίνει ότι η Ελλάδα πλήρωσε ακριβά την ανεπιφύλακτη της στήριξη στην Ουκρανία. Το επεισόδιο με το ουκρανικό drone που εντοπίστηκε στη Λευκάδα και η τουρκική προετοιμασία νομοσχεδίου για τα ναυτικά της όρια αποκαλύπτουν τους κινδύνους της «στρατηγικής συνεργασίας» με Ισραήλ. Οι ελληνικοί χειρισμοί υπήρξαν «στρατηγικώς σχεδιασμένοι» αλλά αφελείς.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kostas Iordanidis argues Greece is paying a high price for its unconditional support of Ukraine. The discovery of a Ukrainian drone laden with explosives off Lefkada and Turkey&amp;#x27;s plan to legislate its maritime jurisdiction expose the dangers of Athens&amp;#x27;s &amp;#x27;strategic partnership&amp;#x27; with Israel, which has itself threatened Turkey. Greek diplomatic moves, he says, were &amp;#x27;strategically planned&amp;#x27; but naive.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Eurovision: Οι πρωτιές της DARA και οι σκιές για το Ισραήλ</title>
-    <id>tag:greek-news-aggregator,2026-05-17:d58dd4243bf5</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/world/564232348/eurovision-oi-proties-tis-dara-kai-oi-skies-gia-to-israil/"/>
-    <updated>2026-05-17T19:02:48+00:00</updated>
-    <published>2026-05-17T19:02:48+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Η DARA από τη Βουλγαρία με το «Bangaranga» κατέκτησε τη Eurovision 2026 με ρεκόρ διαφοράς βαθμών, ξεπερνώντας τον Ισραηλινό Νοαμ Μπέταν. Ωστόσο, η φετινή διοργάνωση επισκιάστηκε ξανά από τη διαμάχη γύρω από τη συμμετοχή του Ισραήλ, με πέντε χώρες (Ισπανία, Ιρλανδία, Ολλανδία, Σλοβενία, Ισλανδία) να μποϊκοτάρουν. Η EBU καλείται να επανεξετάσει τα κριτήρια συμμετοχής.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η DARA από τη Βουλγαρία με το «Bangaranga» κατέκτησε τη Eurovision 2026 με ρεκόρ διαφοράς βαθμών, ξεπερνώντας τον Ισραηλινό Νοαμ Μπέταν. Ωστόσο, η φετινή διοργάνωση επισκιάστηκε ξανά από τη διαμάχη γύρω από τη συμμετοχή του Ισραήλ, με πέντε χώρες (Ισπανία, Ιρλανδία, Ολλανδία, Σλοβενία, Ισλανδία) να μποϊκοτάρουν. Η EBU καλείται να επανεξετάσει τα κριτήρια συμμετοχής.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Bulgaria&amp;#x27;s DARA won Eurovision 2026 with &amp;#x27;Bangaranga,&amp;#x27; setting a record points-margin and defeating Israel&amp;#x27;s Noam Bettan. But the contest was again overshadowed by the row over Israel&amp;#x27;s participation, with five countries (Spain, Ireland, Netherlands, Slovenia, Iceland) boycotting. The EBU is now under pressure to clarify the rules for who can take part.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Ζελένσκι: Ουκρανικά drones επιτέθηκαν στην περιοχή της Μόσχας</title>
-    <id>tag:greek-news-aggregator,2026-05-17:d49e1c7c359e</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/world/564232120/zelenski-oykranika-drones-epitethikan-stin-periochi-tis-moschas/"/>
-    <updated>2026-05-17T13:57:31+00:00</updated>
-    <published>2026-05-17T13:57:31+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ουκρανικά drones επιτέθηκαν στην περιοχή της Μόσχας, σε απόσταση άνω των 500 χιλιομέτρων από τα ουκρανικά σύνορα, σύμφωνα με τον Πρόεδρο Ζελένσκι. Οι ρωσικές αρχές αναφέρουν τρεις νεκρούς και τέσσερις τραυματίες στην περιφέρεια της πρωτεύουσας. Ο Ζελένσκι υπογραμμίζει ότι «το ρωσικό κράτος πρέπει να τελειώσει τον πόλεμο που ξεκίνησε».</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ουκρανικά drones επιτέθηκαν στην περιοχή της Μόσχας, σε απόσταση άνω των 500 χιλιομέτρων από τα ουκρανικά σύνορα, σύμφωνα με τον Πρόεδρο Ζελένσκι. Οι ρωσικές αρχές αναφέρουν τρεις νεκρούς και τέσσερις τραυματίες στην περιφέρεια της πρωτεύουσας. Ο Ζελένσκι υπογραμμίζει ότι «το ρωσικό κράτος πρέπει να τελειώσει τον πόλεμο που ξεκίνησε».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Ukrainian drones struck the Moscow region from over 500 km away, President Zelensky announced. Russian authorities report three dead and four wounded in the capital region. Zelensky said: &amp;#x27;The Russian state must end the war it started.&amp;#x27;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Φθηνότερο ρεύμα υπόσχονται οι ΑΠΕ σε συνδυασμό με μπαταρίες έναντι των συμβατικών πηγών παραγωγής</title>
-    <id>tag:greek-news-aggregator,2026-05-17:9e9e22fed48c</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/economy/564231979/fthinotero-reyma-yposchontai-oi-ape-se-syndyasmo-me-mpataries-enanti-ton-symvatikon-pigon-paragogis/"/>
-    <updated>2026-05-17T09:10:00+00:00</updated>
-    <published>2026-05-17T09:10:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Σύμφωνα με νέα έκθεση του IRENA, οι ΑΠΕ σε συνδυασμό με μπαταρίες είναι πλέον φθηνότερες από τις συμβατικές πηγές ρεύματος επί 24ώρου βάσεως σε περιοχές με ισχυρό ηλιακό και αιολικό δυναμικό. Το κόστος εγκατάστασης μειώθηκε δραματικά από το 2010 (-87% για φωτοβολταϊκά, -93% για μπαταρίες) και αναμένεται περαιτέρω πτώση 30%-40% έως το 2035, ενισχύοντας τη θέση ότι οι ΑΠΕ προσφέρουν αξιοπιστία και χαμηλότερο κόστος.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με νέα έκθεση του IRENA, οι ΑΠΕ σε συνδυασμό με μπαταρίες είναι πλέον φθηνότερες από τις συμβατικές πηγές ρεύματος επί 24ώρου βάσεως σε περιοχές με ισχυρό ηλιακό και αιολικό δυναμικό. Το κόστος εγκατάστασης μειώθηκε δραματικά από το 2010 (-87% για φωτοβολταϊκά, -93% για μπαταρίες) και αναμένεται περαιτέρω πτώση 30%-40% έως το 2035, ενισχύοντας τη θέση ότι οι ΑΠΕ προσφέρουν αξιοπιστία και χαμηλότερο κόστος.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A new IRENA report finds that renewables paired with battery storage are now cheaper than conventional power 24 hours a day in regions with strong solar and wind resources. Installation costs have fallen sharply since 2010 (–87% for solar PV, –93% for batteries), and are projected to drop a further 30–40% by 2035, undercutting fossil generation on both price and reliability.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Κατέβασε ταχύτητα το ράλι των τιμών κατοικίας στο πρώτο πεντάμηνο του έτους</title>
-    <id>tag:greek-news-aggregator,2026-05-17:2edd8fc11e6c</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/visual/infographics/564229972/katevase-tachytita-to-rali-ton-timon-katoikias-sto-proto-pentamino-toy-etoys/"/>
-    <updated>2026-05-16T22:55:50+03:00</updated>
-    <published>2026-05-16T22:55:50+03:00</published>
-    <author><name>Νίκος Ρουσάνογλου</name></author>
-    <category term="economy"/>
-    <summary type="text">Η αγορά κατοικίας στην Αττική παρουσιάζει τα πρώτα δείγματα επιβράδυνσης μετά από χρόνια έντονης ανόδου, σύμφωνα με την Engel &amp; Völkers Ελλάδας. Η μέση τιμή πώλησης ξεπερνά πλέον τα 3.000 ευρώ/τ.μ., με ακριβότερες περιοχές τη Βουλιαγμένη, Γλυφάδα, Ψυχικό, Φιλοθέη και Κολωνάκι. Οι αγοραστές στρέφονται σε μικρότερα και ενεργειακά αποδοτικά διαμερίσματα.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η αγορά κατοικίας στην Αττική παρουσιάζει τα πρώτα δείγματα επιβράδυνσης μετά από χρόνια έντονης ανόδου, σύμφωνα με την Engel &amp;amp; Völkers Ελλάδας. Η μέση τιμή πώλησης ξεπερνά πλέον τα 3.000 ευρώ/τ.μ., με ακριβότερες περιοχές τη Βουλιαγμένη, Γλυφάδα, Ψυχικό, Φιλοθέη και Κολωνάκι. Οι αγοραστές στρέφονται σε μικρότερα και ενεργειακά αποδοτικά διαμερίσματα.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Attica&amp;#x27;s housing market is showing first signs of slowdown after years of rapid growth, according to Engel &amp;amp; Völkers Greece. The average sale price has crossed €3,000/sqm, with Vouliagmeni, Glyfada, Psychiko, Filothei and Kolonaki at the top. Buyers are increasingly choosing smaller, more energy-efficient apartments as affordability tightens.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Ανάγκη για συνεννόηση</title>
-    <id>tag:greek-news-aggregator,2026-05-17:75d792afcf13</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230233/anagki-gia-synennoisi/"/>
-    <updated>2026-05-17T20:14:00+00:00</updated>
-    <published>2026-05-17T20:14:00+00:00</published>
-    <author><name>Κύριο Αρθρο</name></author>
-    <category term="opinion"/>
-    <summary type="text">Κύριο άρθρο της «Κ»: H Αγκυρα μοιάζει να επιλέγει την τακτική της έντασης στις ελληνοτουρκικές σχέσεις και τις επόμενες εβδομάδες θα φανούν οι ακριβείς στόχοι της. Είναι σημαντικό να υπάρξει στην Αθήνα σοβαρή συνεννόηση μεταξύ κομμάτων, πολιτικών ηγετών και κυβέρνησης για τους χειρισμούς. Μια εικόνα ασυνεννοησίας θα έστελνε το λάθος μήνυμα στους ενδιαφερόμενους.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Κύριο άρθρο της «Κ»: H Αγκυρα μοιάζει να επιλέγει την τακτική της έντασης στις ελληνοτουρκικές σχέσεις και τις επόμενες εβδομάδες θα φανούν οι ακριβείς στόχοι της. Είναι σημαντικό να υπάρξει στην Αθήνα σοβαρή συνεννόηση μεταξύ κομμάτων, πολιτικών ηγετών και κυβέρνησης για τους χειρισμούς. Μια εικόνα ασυνεννοησίας θα έστελνε το λάθος μήνυμα στους ενδιαφερόμενους.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kathimerini editorial: Ankara appears to be escalating tensions in Greek-Turkish relations and its precise aims will become clearer in the coming weeks. Athens needs a serious dialogue between responsible parties, political leaders and government officials about how to respond. Any sign of disunity would send the wrong signal.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Ο λάθος στόχος</title>
-    <id>tag:greek-news-aggregator,2026-05-17:4c2f112f271a</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230353/o-lathos-stochos/"/>
-    <updated>2026-05-17T20:07:00+00:00</updated>
-    <published>2026-05-17T20:07:00+00:00</published>
-    <author><name>Άρης Αλεξανδρής</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Άρης Αλεξανδρής υποστηρίζει ότι η αντιπολίτευση (Ανδρουλάκης, Τσίπρας) έχει εστιάσει υπερβολικά στην ανατροπή του Μητσοτάκη ως αυτοσκοπό, αντί να επεξεργαστεί διακριτή πρόταση διακυβέρνησης. Το «παθολογικό» αυτό σύνδρομο αφήνει τη ΝΔ ψηλά παρά τις κακές της επιδόσεις. Καλεί Ανδρουλάκη και Τσίπρα να συγκρουστούν επί ιδεών (παραγωγικότητα, AI, μετανάστευση, ακρίβεια).</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Άρης Αλεξανδρής υποστηρίζει ότι η αντιπολίτευση (Ανδρουλάκης, Τσίπρας) έχει εστιάσει υπερβολικά στην ανατροπή του Μητσοτάκη ως αυτοσκοπό, αντί να επεξεργαστεί διακριτή πρόταση διακυβέρνησης. Το «παθολογικό» αυτό σύνδρομο αφήνει τη ΝΔ ψηλά παρά τις κακές της επιδόσεις. Καλεί Ανδρουλάκη και Τσίπρα να συγκρουστούν επί ιδεών (παραγωγικότητα, AI, μετανάστευση, ακρίβεια).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Aris Alexandris argues the Greek opposition (Androulakis, Tsipras) has fixated on toppling Mitsotakis as an end in itself instead of crafting a distinct governing platform. This &amp;#x27;pathological&amp;#x27; obsession is what keeps ND ahead despite poor performance. He urges the two centre-left leaders to compete on substance: productivity, AI, migration, cost of living.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Δεν αρέσει η Ελλάδα</title>
-    <id>tag:greek-news-aggregator,2026-05-17:43cbaf691110</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230689/den-aresei-i-ellada/"/>
-    <updated>2026-05-17T20:02:00+00:00</updated>
-    <published>2026-05-17T20:02:00+00:00</published>
-    <author><name>Κώστας Καλλίτσης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Κώστας Καλλίτσης σχολιάζει τη μελέτη του ΟΟΣΑ για την ελκυστικότητα ταλέντου, στην οποία η Ελλάδα κατατάσσεται στις τελευταίες πέντε-έξι θέσεις σε εξειδικευμένους εργαζομένους, φοιτητές και επιχειρηματίες-μετανάστες. Υποστηρίζει ότι το πρόβλημα δεν είναι κυρίως η μεταναστευτική πολιτική, αλλά οι συνθήκες που η Ελλάδα προσφέρει στους δικούς της πολίτες - μια χώρα μη φιλική προς τους ταλαντούχους.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κώστας Καλλίτσης σχολιάζει τη μελέτη του ΟΟΣΑ για την ελκυστικότητα ταλέντου, στην οποία η Ελλάδα κατατάσσεται στις τελευταίες πέντε-έξι θέσεις σε εξειδικευμένους εργαζομένους, φοιτητές και επιχειρηματίες-μετανάστες. Υποστηρίζει ότι το πρόβλημα δεν είναι κυρίως η μεταναστευτική πολιτική, αλλά οι συνθήκες που η Ελλάδα προσφέρει στους δικούς της πολίτες - μια χώρα μη φιλική προς τους ταλαντούχους.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kostas Kallitsis discusses an OECD talent attractiveness study placing Greece among the bottom five-to-six on attracting skilled workers, students and entrepreneurial migrants. The real culprit, he argues, is not migration policy but the conditions Greece offers its own citizens — a country that is fundamentally unfriendly to talent.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Η Νέα Δημοκρατία και η μακρά Μεταπολίτευση</title>
-    <id>tag:greek-news-aggregator,2026-05-17:4ff83b91b60a</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230545/i-nea-dimokratia-kai-i-makra-metapoliteysi/"/>
-    <updated>2026-05-17T19:59:00+00:00</updated>
-    <published>2026-05-17T19:59:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ανάλυση της σχέσης της Νέας Δημοκρατίας με τη Μεταπολίτευση: αν και το ΠΑΣΟΚ θεωρείται καταλύτης της μεταπολιτευτικής «κουλτούρας», η ΝΔ αποδείχθηκε ο πιο ανθεκτικός θεσμικός φορέας. Από την ίδρυσή της το 1974 από τον Καραμανλή, μέσα από τα Μητσοτάκη-πρεσβύτερου-βρώμικο &#x27;89-Σαμαρά-κρίση, έφτασε να ενδέχεται να κυβερνήσει για τρίτη συνεχόμενη θητεία.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανάλυση της σχέσης της Νέας Δημοκρατίας με τη Μεταπολίτευση: αν και το ΠΑΣΟΚ θεωρείται καταλύτης της μεταπολιτευτικής «κουλτούρας», η ΝΔ αποδείχθηκε ο πιο ανθεκτικός θεσμικός φορέας. Από την ίδρυσή της το 1974 από τον Καραμανλή, μέσα από τα Μητσοτάκη-πρεσβύτερου-βρώμικο &amp;#x27;89-Σαμαρά-κρίση, έφτασε να ενδέχεται να κυβερνήσει για τρίτη συνεχόμενη θητεία.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An analysis of New Democracy&amp;#x27;s relationship with Greece&amp;#x27;s post-1974 Metapolitefsi: although PASOK is usually seen as the era&amp;#x27;s cultural driver, ND has proven the most durable institutional carrier. From Karamanlis&amp;#x27;s 1974 foundation through the elder Mitsotakis, the &amp;#x27;dirty &amp;#x27;89&amp;#x27; coalition, Samaras and the debt crisis, ND now stands at the brink of a third consecutive term in power.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Οι ΗΠΑ ανησυχούν για τα 300 drones που απέκτησε η Κούβα</title>
-    <id>tag:greek-news-aggregator,2026-05-17:4650dbc4b732</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/world/564232234/sto-mikroskopio-ton-ipa-i-apeili-apo-koyvanika-drones/"/>
-    <updated>2026-05-17T16:17:38+00:00</updated>
-    <published>2026-05-17T16:17:38+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Σύμφωνα με δημοσίευμα του Axios που επικαλείται διαβαθμισμένες πληροφορίες των αμερικανικών μυστικών υπηρεσιών, η Κούβα έχει αποκτήσει πάνω από 300 στρατιωτικά drones και συζητά σχέδια χρήσης τους κατά της αμερικανικής βάσης στο Γκουαντάναμο και του Κι Γουέστ. Οι αμερικανικές αξιολογήσεις αναφέρονται και σε παρουσία Ιρανών στρατιωτικών συμβούλων στην Αβάνα, ενώ ενδέχεται να αποτελέσουν πρόφαση για στρατιωτική δράση.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με δημοσίευμα του Axios που επικαλείται διαβαθμισμένες πληροφορίες των αμερικανικών μυστικών υπηρεσιών, η Κούβα έχει αποκτήσει πάνω από 300 στρατιωτικά drones και συζητά σχέδια χρήσης τους κατά της αμερικανικής βάσης στο Γκουαντάναμο και του Κι Γουέστ. Οι αμερικανικές αξιολογήσεις αναφέρονται και σε παρουσία Ιρανών στρατιωτικών συμβούλων στην Αβάνα, ενώ ενδέχεται να αποτελέσουν πρόφαση για στρατιωτική δράση.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; According to Axios, citing classified US intelligence, Cuba has acquired over 300 military drones and is discussing plans to use them against the US naval base at Guantanamo and Key West. The US assessments also note the presence of Iranian military advisers in Havana, and the disclosure may pave the way for US military action.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Συναντήσεις Μητσοτάκη στο περιθώριο του Europe Gulf Forum</title>
-    <id>tag:greek-news-aggregator,2026-05-17:a757ae73d128</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/politics/564231901/synantiseis-mitsotaki-sto-perithorio-toy-europe-gulf-forum/"/>
-    <updated>2026-05-16T23:43:00+00:00</updated>
-    <published>2026-05-16T23:43:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Στο περιθώριο του Europe Gulf Forum στο Costa Navarino, ο πρωθυπουργός Κυριάκος Μητσοτάκης συναντήθηκε με τη διευθύντρια του ΔΝΤ Κρισταλίνα Γκεοργκίεβα, τον πρόεδρο της Φινλανδίας Αλεξάντερ Στουμπ και τον αντιπρόεδρο της βρετανικής κυβέρνησης Ντέιβιντ Λάμι. Συζητήθηκαν η κρίση στον Κόλπο, η ασφάλεια των Στενών του Ορμούζ και η συμμετοχή της Ελλάδας στην αποστολή ASPIDES.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο περιθώριο του Europe Gulf Forum στο Costa Navarino, ο πρωθυπουργός Κυριάκος Μητσοτάκης συναντήθηκε με τη διευθύντρια του ΔΝΤ Κρισταλίνα Γκεοργκίεβα, τον πρόεδρο της Φινλανδίας Αλεξάντερ Στουμπ και τον αντιπρόεδρο της βρετανικής κυβέρνησης Ντέιβιντ Λάμι. Συζητήθηκαν η κρίση στον Κόλπο, η ασφάλεια των Στενών του Ορμούζ και η συμμετοχή της Ελλάδας στην αποστολή ASPIDES.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; At the Europe Gulf Forum at Costa Navarino, PM Mitsotakis met IMF chief Kristalina Georgieva, Finland&amp;#x27;s President Alexander Stubb and UK Deputy PM David Lammy. Talks focused on the Gulf crisis, security in the Strait of Hormuz and Greece&amp;#x27;s role in the EU ASPIDES mission and the UK/France-led post-war initiative.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Οι χορηγοί του Κυριάκου Μητσοτάκη</title>
-    <id>tag:greek-news-aggregator,2026-05-17:cceab4ef9462</id>
-    <link rel="alternate" type="text/html" href="https://www.kathimerini.gr/opinion/564230785/oi-chorigoi-toy-kyriakoy-mitsotaki/"/>
-    <updated>2026-05-17T20:04:00+00:00</updated>
-    <published>2026-05-17T20:04:00+00:00</published>
-    <author><name>Ανδρέας Δρυμιώτης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Ανδρέας Δρυμιώτης ξεκινά με σαρκαστικό σχόλιο για φωτογραφία του Αλέξη Τσίπρα στην παρουσίαση του βιβλίου «Ιθάκη» και αμφισβητεί την αφήγησή του ότι «οι τράπεζες έκλεισαν από μόνες τους». Ανατρέχει στο δημοψήφισμα του 2015 και το Bank Run για να επιχειρηματολογήσει ότι το κλείσιμο των τραπεζών ήταν αναγκαία συνέπεια των αποφάσεων Τσίπρα, χαρακτηρίζοντάς τον «παθολογικό ψεύτη».</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Ανδρέας Δρυμιώτης ξεκινά με σαρκαστικό σχόλιο για φωτογραφία του Αλέξη Τσίπρα στην παρουσίαση του βιβλίου «Ιθάκη» και αμφισβητεί την αφήγησή του ότι «οι τράπεζες έκλεισαν από μόνες τους». Ανατρέχει στο δημοψήφισμα του 2015 και το Bank Run για να επιχειρηματολογήσει ότι το κλείσιμο των τραπεζών ήταν αναγκαία συνέπεια των αποφάσεων Τσίπρα, χαρακτηρίζοντάς τον «παθολογικό ψεύτη».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Andreas Drymiotis opens with a sardonic note about a photo of Alexis Tsipras at the launch of his book &amp;#x27;Ithaca&amp;#x27; and challenges Tsipras&amp;#x27;s narrative that &amp;#x27;the banks closed themselves&amp;#x27;. Revisiting the 2015 referendum and the bank run, he argues the bank shutdown was a necessary consequence of Tsipras&amp;#x27;s decisions, calling him a &amp;#x27;pathological liar&amp;#x27;.&lt;/p&gt;</content>
+    <summary>Kostas Iordanidis criticizes Greek foreign policy for assuming it stood &#x27;on the right side of history&#x27; with Ukraine. The Ukrainian drone found at Lefkada, he argues, exposes that the assumption Greece would gain leverage over Turkey was self-delusion.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kostas Iordanidis criticizes Greek foreign policy for assuming it stood &amp;#x27;on the right side of history&amp;#x27; with Ukraine. The Ukrainian drone found at Lefkada, he argues, exposes that the assumption Greece would gain leverage over Turkey was self-delusion.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κώστας Ιορδανίδης κριτικάρει την ελληνική εξωτερική πολιτική για την αυτοεπιβεβαίωση ότι βρίσκεται «στη σωστή πλευρά της Ιστορίας» με την Ουκρανία. Το ουκρανικό drone στη Λευκάδα αποδεικνύει ότι η εκτίμηση πως η Ελλάδα θα κέρδιζε πλεονέκτημα έναντι της Τουρκίας ήταν αυταπάτη.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: opinion · Importance: 72 · Sentiment: negative · Tags: foreign policy, Ukraine, Lefkada, Iordanidis, Turkey&lt;/em&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
