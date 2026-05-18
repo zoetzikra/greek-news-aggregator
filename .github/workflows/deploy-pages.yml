@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'web/data/**'
+      - 'frontend/static/data/**'
     branches:
       - main
   workflow_dispatch:  # Also allow manual triggering
