@@ -1,230 +1,210 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Digest</title>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate" type="text/html"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self" type="application/atom+xml"/>
-  <id>https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml</id>
-  <updated>2026-05-18T11:53:20.000763+00:00</updated>
-  <subtitle>Top 20 articles from kathimerini.gr, with bilingual summaries.</subtitle>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="el">
+  <title>Greek News Aggregator — Top 20 (2026-05-19)</title>
+  <subtitle>Daily curated Kathimerini stories with bilingual summaries.</subtitle>
+  <link href="https://www.kathimerini.gr/" rel="alternate"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
+  <id>tag:greek-news-aggregator,2026-05-19:/feeds/main</id>
+  <updated>2026-05-19T10:22:52.301136+00:00</updated>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Νέο «καμπανάκι» ΔΟΕ: Τα αποθέματα πετρελαίου εξαντλούνται ραγδαία, «αρκούν για λίγες εβδομάδες»</title>
-    <link href="https://www.kathimerini.gr/economy/international/564233017/neo-kampanaki-doe-ta-apothemata-petrelaioy-exantloyntai-ragdaia-arkoyn-gia-liges-evdomades/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/e65374e52fd3</id>
-    <published>2026-05-18T12:49:09+00:00</published>
-    <updated>2026-05-18T12:49:09+00:00</updated>
+    <id>https://www.kathimerini.gr/visual/infographics/564234109/ellinotoyrkika-i-agkyra-etoimazei-atzenta-gia-to-aigaio/</id>
+    <title>Ελληνοτουρκικά: Η Αγκυρα  ετοιμάζει ατζέντα για το Αιγαίο</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564234109/ellinotoyrkika-i-agkyra-etoimazei-atzenta-gia-to-aigaio/"/>
+    <updated>2026-05-19T07:02:25+03:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
+    <category term="politics"/>
+    <summary type="text">Ankara is preparing a 14-article 'Blue Homeland' bill due in June that would give Erdogan sweeping powers to declare EEZ, continental shelf and fishing-ban zones beyond Turkish territorial waters. The key innovation is presidential authority over 'special status' areas, a measure aimed squarely at Greek maritime zones in the Aegean.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Ankara is preparing a 14-article 'Blue Homeland' bill due in June that would give Erdogan sweeping powers to declare EEZ, continental shelf and fishing-ban zones beyond Turkish territorial waters. The key innovation is presidential authority over 'special status' areas, a measure aimed squarely at Greek maritime zones in the Aegean.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Άγκυρα ετοιμάζει νομοσχέδιο 14 άρθρων («Γαλάζια Πατρίδα») που θα κατατεθεί τον Ιούνιο και θα δίνει υπερεξουσίες στον Ερντογάν να κηρύσσει ζώνες ΑΟΖ, υφαλοκρηπίδας και απαγόρευσης αλιείας εκτός χωρικών υδάτων. Η βασική καινοτομία είναι η εξουσιοδότηση του προέδρου να ορίζει «ειδικού καθεστώτος» περιοχές, μέτρο που στοχεύει ευθέως στις ελληνικές θαλάσσιες ζώνες στο Αιγαίο.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564234010/tsipras-tin-epomeni-triti-stin-plateia-thiseioy-anoigoyme-pania-gia-neoys-orizontes/</id>
+    <title>Τσίπρας: Την επόμενη Τρίτη στην πλατεία Θησείου ανοίγουμε πανιά για νέους ορίζοντες</title>
+    <link href="https://www.kathimerini.gr/politics/564234010/tsipras-tin-epomeni-triti-stin-plateia-thiseioy-anoigoyme-pania-gia-neoys-orizontes/"/>
+    <updated>2026-05-18T22:51:53+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">Alexis Tsipras announced that on Tuesday 26 May at Thiseio Square he will make the official announcements about his new political party, speaking at an Unmute now event. He focused on inequality, housing, student employment and the SYRIZA-era policies overturned by New Democracy (13th pension, university admission reforms).</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Alexis Tsipras announced that on Tuesday 26 May at Thiseio Square he will make the official announcements about his new political party, speaking at an Unmute now event. He focused on inequality, housing, student employment and the SYRIZA-era policies overturned by New Democracy (13th pension, university admission reforms).&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Αλέξης Τσίπρας ανακοίνωσε ότι την Τρίτη 26 Μαΐου στην πλατεία Θησείου θα κάνει τις επίσημες ανακοινώσεις για το νέο πολιτικό φορέα του, μιλώντας σε εκδήλωση του Unmute now. Επικεντρώθηκε στις ανισότητες, στο στεγαστικό, στην εργασία των φοιτητών και στις αρχές της κυβέρνησης ΣΥΡΙΖΑ που ανέτρεψε η ΝΔ (13η σύνταξη, εισαγωγή σε σχολές).&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564235021/si-se-tramp-o-poytin-endechetai-na-metaniosei-gia-tin-eisvoli-toy-stin-oykrania/</id>
+    <title>Σι σε Τραμπ: Ο Πούτιν ενδέχεται να μετανιώσει για την εισβολή του στην Ουκρανία</title>
+    <link href="https://www.kathimerini.gr/world/564235021/si-se-tramp-o-poytin-endechetai-na-metaniosei-gia-tin-eisvoli-toy-stin-oykrania/"/>
+    <updated>2026-05-19T12:38:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Chinese President Xi Jinping told Donald Trump that Putin 'may regret' invading Ukraine, according to officials briefed on last week's Beijing summit. Putin arrives in China today, while Trump reportedly proposed joint US-China-Russia action against the International Criminal Court.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Chinese President Xi Jinping told Donald Trump that Putin 'may regret' invading Ukraine, according to officials briefed on last week's Beijing summit. Putin arrives in China today, while Trump reportedly proposed joint US-China-Russia action against the International Criminal Court.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κινέζος πρόεδρος Σι Τζινπίνγκ είπε στον Ντόναλντ Τραμπ ότι ο Πούτιν «μπορεί να μετανιώσει» για την εισβολή στην Ουκρανία, σύμφωνα με αξιωματούχους που γνωρίζουν τις συνομιλίες της προηγούμενης συνόδου στο Πεκίνο. Ο Πούτιν φτάνει σήμερα στην Κίνα, ενώ ο Τραμπ φέρεται να πρότεινε στον Σι κοινή δράση ΗΠΑ-Κίνας-Ρωσίας κατά του ΔΠΔ.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564234844/mesi-anatoli-pos-to-iran-axiopoiise-tin-ekecheiria-ti-perilamvanei-i-nea-protasi-toy-pros-tis-ipa/</id>
+    <title>Μέση Ανατολή: Πώς το Ιράν «αξιοποίησε» την εκεχειρία – Τι περιλαμβάνει η νέα πρότασή του προς τις ΗΠΑ</title>
+    <link href="https://www.kathimerini.gr/world/564234844/mesi-anatoli-pos-to-iran-axiopoiise-tin-ekecheiria-ti-perilamvanei-i-nea-protasi-toy-pros-tis-ipa/"/>
+    <updated>2026-05-19T10:26:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">According to the New York Times, Iran used the 80-day ceasefire in the war with the US and Israel to reposition ballistic missile launchers and rebuild bombed sites. Tehran's new 14-point proposal focuses on ending the war and reopening the Strait of Hormuz, leaving the nuclear programme for later.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; According to the New York Times, Iran used the 80-day ceasefire in the war with the US and Israel to reposition ballistic missile launchers and rebuild bombed sites. Tehran's new 14-point proposal focuses on ending the war and reopening the Strait of Hormuz, leaving the nuclear programme for later.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με τους New York Times, το Ιράν αξιοποίησε την 80ήμερη εκεχειρία στον πόλεμο με τις ΗΠΑ και το Ισραήλ για να αναδιατάξει εκτοξευτές βαλλιστικών πυραύλων και βομβαρδισμένες εγκαταστάσεις. Η νέα ιρανική πρόταση 14 σημείων εστιάζει στον τερματισμό του πολέμου και στο άνοιγμα των Στενών του Ορμούζ, αφήνοντας για αργότερα το πυρηνικό πρόγραμμα.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564235135/ayxanetai-o-kindynos-amesis-sygkroysis-rosias-nato-leei-rosos-diplomatis/</id>
+    <title>Αυξάνεται ο κίνδυνος άμεσης σύγκρουσης Ρωσίας – ΝΑΤΟ, λέει Ρώσος διπλωμάτης</title>
+    <link href="https://www.kathimerini.gr/world/564235135/ayxanetai-o-kindynos-amesis-sygkroysis-rosias-nato-leei-rosos-diplomatis/"/>
+    <updated>2026-05-19T13:00:08+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Russia's Deputy Foreign Minister Sergei Ryabkov warns of an escalating risk of direct Russia-NATO conflict with 'catastrophic consequences,' in a TASS interview. He cites intensifying European rhetoric about 'imminent war threat' with Russia and the rise in strategic risks, including in the nuclear field.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Russia's Deputy Foreign Minister Sergei Ryabkov warns of an escalating risk of direct Russia-NATO conflict with 'catastrophic consequences,' in a TASS interview. He cites intensifying European rhetoric about 'imminent war threat' with Russia and the rise in strategic risks, including in the nuclear field.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο αναπληρωτής υπουργός Εξωτερικών της Ρωσίας Σεργκέι Ριαμπκόφ προειδοποιεί για αυξανόμενο κίνδυνο άμεσης σύγκρουσης Ρωσίας-ΝΑΤΟ με «καταστροφικές συνέπειες», σε συνέντευξη στο πρακτορείο TASS. Επισημαίνει την ενίσχυση ρητορικής για «επικείμενη απειλή πολέμου» στις ευρωπαϊκές πρωτεύουσες και την κλιμάκωση στρατηγικών κινδύνων, συμπεριλαμβανομένου του πυρηνικού τομέα.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/international/564234637/ayxanontai-oi-dimereis-symfonies-petrelaioy/</id>
+    <title>Αυξάνονται οι διμερείς συμφωνίες πετρελαίου</title>
+    <link href="https://www.kathimerini.gr/economy/international/564234637/ayxanontai-oi-dimereis-symfonies-petrelaioy/"/>
+    <updated>2026-05-19T12:21:20+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary>IEA chief Fatih Birol warned at the G7 Paris summit that commercial oil stockpiles are depleting rapidly amid the Iran war and the Strait of Hormuz blockade. He said reserves may only last a few more weeks.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; IEA chief Fatih Birol warned at the G7 Paris summit that commercial oil stockpiles are depleting rapidly amid the Iran war and the Strait of Hormuz blockade. He said reserves may only last a few more weeks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Φατίχ Μπιρόλ της Διεθνούς Οργανισμού Ενέργειας προειδοποίησε ότι τα εμπορικά αποθέματα πετρελαίου εξαντλούνται ραγδαία λόγω του πολέμου στο Ιράν και του αποκλεισμού των Στενών του Ορμούζ. Σύμφωνα με τον Μπιρόλ, τα αποθέματα επαρκούν για μόλις λίγες εβδομάδες ακόμα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 92 · Sentiment: negative · Tags: oil, IEA, Iran, Hormuz, energy crisis&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">The 13-week closure of the Strait of Hormuz due to the Iran war is pushing major importing countries (China, Japan, India, Pakistan, Iraq) into opaque bilateral oil deals with Tehran and Gulf states. One-fifth of global oil supply remains blocked, eroding the dollar's dominance in the 'black gold' trade.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The 13-week closure of the Strait of Hormuz due to the Iran war is pushing major importing countries (China, Japan, India, Pakistan, Iraq) into opaque bilateral oil deals with Tehran and Gulf states. One-fifth of global oil supply remains blocked, eroding the dollar's dominance in the 'black gold' trade.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο 13εβδομαδιαίος αποκλεισμός των Στενών του Ορμούζ λόγω του πολέμου στο Ιράν εξωθεί τις μεγάλες εισαγωγείς χώρες (Κίνα, Ιαπωνία, Ινδία, Πακιστάν, Ιράκ) σε αδιαφανείς διμερείς συμφωνίες πετρελαίου με την Τεχεράνη και τις χώρες του Κόλπου. Το ένα πέμπτο της παγκόσμιας προσφοράς πετρελαίου παραμένει αποκλεισμένο, υπονομεύοντας την κυριαρχία του δολαρίου στο εμπόριο «μαύρου χρυσού».&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Ελληνοτουρκικά: Ετοιμος ο «γκρίζος» νόμος – Τα σενάρια που μελετά η Αθήνα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564230275/ellinotoyrkika-etoimos-o-gkrizos-nomos-ta-senaria-poy-meleta-i-athina/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/2e2cec1ad6c3</id>
-    <published>2026-05-18T07:13:21+00:00</published>
-    <updated>2026-05-18T07:13:21+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
+    <id>https://www.kathimerini.gr/politics/564235069/samaras-meizona-erotimata-gia-tin-aposyrsi-ton-patriot-apo-tin-karpatho/</id>
+    <title>Σαμαράς: Μείζονα ερωτήματα για την απόσυρση των Patriot από την Κάρπαθο</title>
+    <link href="https://www.kathimerini.gr/politics/564235069/samaras-meizona-erotimata-gia-tin-aposyrsi-ton-patriot-apo-tin-karpatho/"/>
+    <updated>2026-05-19T12:19:22+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary>Turkey is preparing a &#x27;Blue Homeland&#x27; bill, due in June, that would codify Turkish maritime zones and &#x27;gray zones&#x27; in the Aegean. Athens is studying best- and worst-case scenarios for one of Ankara&#x27;s most significant escalation moves in years.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Turkey is preparing a &amp;#x27;Blue Homeland&amp;#x27; bill, due in June, that would codify Turkish maritime zones and &amp;#x27;gray zones&amp;#x27; in the Aegean. Athens is studying best- and worst-case scenarios for one of Ankara&amp;#x27;s most significant escalation moves in years.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Τουρκία ετοιμάζει νομοσχέδιο για τη «Γαλάζια Πατρίδα» που θα κατατεθεί τον Ιούνιο και θα ορίζει θαλάσσιες ζώνες και «γκρίζες ζώνες» στο Αιγαίο. Η Αθήνα μελετά ένα καλό και ένα κακό σενάριο για ένα από τα σοβαρότερα μέτρα κλιμάκωσης από την Άγκυρα τα τελευταία χρόνια.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 90 · Sentiment: negative · Tags: Turkey, Blue Homeland, Aegean, Greek-Turkish, gray zones&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">Former PM Antonis Samaras raises serious questions about the withdrawal of Patriot systems from Karpathos, Didymoteicho and Cyprus amid Turkish casus belli threats. He calls for an emergency EU summit on the 'unbelievable Turkish threats,' marking the Pontian Genocide Remembrance Day.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Former PM Antonis Samaras raises serious questions about the withdrawal of Patriot systems from Karpathos, Didymoteicho and Cyprus amid Turkish casus belli threats. He calls for an emergency EU summit on the 'unbelievable Turkish threats,' marking the Pontian Genocide Remembrance Day.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρώην πρωθυπουργός Αντώνης Σαμαράς εκφράζει σοβαρά ερωτήματα για την απόσυρση των Patriot από την Κάρπαθο, το Διδυμότειχο και την Κύπρο, εν μέσω των τουρκικών απειλών για casus belli. Ζητά την άμεση σύγκληση έκτακτης κορυφής της ΕΕ για τις «απίστευτες τουρκικές απειλές» με αφορμή την Ημέρα Μνήμης της Γενοκτονίας των Ποντίων.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Αθηνα προς Κίεβο: «Μαζέψτε όλα τα drones» – Τα ευρήματα του ΓΕΕΘΑ</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564230302/athina-pros-kievo-mazepste-ola-ta-drones-ta-eyrimata-toy-geetha/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/7702ecc8b7d8</id>
-    <published>2026-05-18T12:41:20+00:00</published>
-    <updated>2026-05-18T12:41:20+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary>New GEETHA findings indicate the Ukrainian naval drone found at Lefkada was one of several operating in the Eastern Mediterranean. Athens is messaging Kiev to withdraw the remaining USVs, with PM Mitsotakis to decide how to handle the diplomatic fallout.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; New GEETHA findings indicate the Ukrainian naval drone found at Lefkada was one of several operating in the Eastern Mediterranean. Athens is messaging Kiev to withdraw the remaining USVs, with PM Mitsotakis to decide how to handle the diplomatic fallout.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέα ευρήματα του ΓΕΕΘΑ δείχνουν ότι το ουκρανικό drone που εντοπίστηκε στη Λευκάδα δεν ήταν μοναδικό· η Αθήνα στέλνει μήνυμα στο Κίεβο να αποσύρει όσα drones επιχειρούν στην Ανατολική Μεσόγειο. Το προσχέδιο του πορίσματος βρίσκεται στα χέρια του πρωθυπουργού Μητσοτάκη, που θα αποφασίσει τη διπλωματική διαχείριση.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 88 · Sentiment: negative · Tags: Ukraine, Lefkada, GEETHA, drones, Eastern Mediterranean&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://www.kathimerini.gr/economy/local/564234526/i-ellada-stis-pente-pio-eyalotes-chores-tis-e-e-stin-energeiaki-krisi/</id>
+    <title>Η Ελλάδα στις πέντε πιο ευάλωτες χώρες της Ε.Ε. στην ενεργειακή κρίση</title>
+    <link href="https://www.kathimerini.gr/economy/local/564234526/i-ellada-stis-pente-pio-eyalotes-chores-tis-e-e-stin-energeiaki-krisi/"/>
+    <updated>2026-05-19T09:44:00+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary type="text">Fitch ranks Greece among the EU's five most vulnerable countries in the energy crisis, due to heavy dependence on fossil fuel imports. Malta is first, followed by Italy, Poland, the Netherlands and Greece. If the Middle East conflict drags on, growth risks will rise substantially.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Fitch ranks Greece among the EU's five most vulnerable countries in the energy crisis, due to heavy dependence on fossil fuel imports. Malta is first, followed by Italy, Poland, the Netherlands and Greece. If the Middle East conflict drags on, growth risks will rise substantially.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Fitch κατατάσσει την Ελλάδα στην πεντάδα των πιο ευάλωτων χωρών της ΕΕ στην ενεργειακή κρίση, λόγω μεγάλης εξάρτησης από εισαγωγές ορυκτών καυσίμων. Πρώτη είναι η Μάλτα, ακολουθούν Ιταλία, Πολωνία, Ολλανδία και Ελλάδα. Αν η σύγκρουση στη Μέση Ανατολή παραταθεί, οι κίνδυνοι για την ανάπτυξη θα αυξηθούν σημαντικά.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Ισραήλ: Ξεκίνησε επιχείρηση «αναχαίτισης πλοίων» του στολίσκου προς τη Γάζα ανοιχτά της Κύπρου</title>
-    <link href="https://www.kathimerini.gr/world/564232858/israil-xekinise-epicheirisi-anachaitisis-ploion-toy-stoliskoy-pros-ti-gaza-anoichta-tis-kyproy/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/3823c07b2d77</id>
-    <published>2026-05-18T11:15:15+00:00</published>
-    <updated>2026-05-18T11:15:15+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564234931/israilines-dynameis-anachaitisan-41-ploia-toy-stoliskoy-pros-ti-gaza/</id>
+    <title>Ισραηλινές δυνάμεις αναχαίτισαν 41 πλοία του στολίσκου προς τη Γάζα</title>
+    <link href="https://www.kathimerini.gr/world/564234931/israilines-dynameis-anachaitisan-41-ploia-toy-stoliskoy-pros-ti-gaza/"/>
+    <updated>2026-05-19T10:52:41+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>Israeli forces intercepted ten ships of the Global Sumud humanitarian flotilla bound for Gaza in international waters off Cyprus, with communications lost with 23 vessels in total. Israel said it &#x27;will not allow any breach of the lawful naval blockade of Gaza.&#x27;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israeli forces intercepted ten ships of the Global Sumud humanitarian flotilla bound for Gaza in international waters off Cyprus, with communications lost with 23 vessels in total. Israel said it &amp;#x27;will not allow any breach of the lawful naval blockade of Gaza.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ισραηλινές δυνάμεις αναχαίτισαν δέκα πλοία του στόλου ανθρωπιστικής βοήθειας Global Sumud προς τη Γάζα, σε διεθνή ύδατα ανοιχτά της Κύπρου. Η επικοινωνία έχει χαθεί με 23 σκάφη συνολικά, ενώ το Ισραήλ δηλώνει ότι δεν θα επιτρέψει «καμία παραβίαση του νόμιμου ναυτικού αποκλεισμού της Γάζας».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 88 · Sentiment: negative · Tags: Israel, Gaza, flotilla, Global Sumud, Cyprus&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">Israeli forces intercepted 41 of 54 vessels of the Global Sumud Flotilla carrying humanitarian aid to Gaza, while 10 boats press on. Israel's foreign ministry says 'no violation of the lawful naval blockade will be allowed,' with Erdogan condemning the action against the 'caravan of hope.'</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israeli forces intercepted 41 of 54 vessels of the Global Sumud Flotilla carrying humanitarian aid to Gaza, while 10 boats press on. Israel's foreign ministry says 'no violation of the lawful naval blockade will be allowed,' with Erdogan condemning the action against the 'caravan of hope.'&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι ισραηλινές δυνάμεις αναχαίτισαν 41 από τα 54 πλοία του στολίσκου Global Sumud Flotilla με ανθρωπιστική βοήθεια προς τη Γάζα, ενώ 10 σκάφη συνεχίζουν. Το ισραηλινό ΥΠΕΞ δηλώνει ότι «δεν θα επιτραπεί καμία παραβίαση του νόμιμου ναυτικού αποκλεισμού», με τον Ερντογάν να καταδικάζει την επέμβαση κατά του «καραβανιού ελπίδας».&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Κρεμλίνο: Η ειρηνευτική διαδικασία με το Κίεβο μπορεί να ξαναρχίσει</title>
-    <link href="https://www.kathimerini.gr/world/564233032/kremlino-i-eirineytiki-diadikasia-me-to-kievo-mporei-na-xanarchisei/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/c15ac81a932d</id>
-    <published>2026-05-18T12:56:04+00:00</published>
-    <updated>2026-05-18T12:56:04+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>The Kremlin said the Russia-Ukraine peace process is suspended but is expected to resume, responding to Trump&#x27;s remarks. Spokesman Peskov stressed that Ukrainian attacks on Russian civilian targets must also be taken into account.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Kremlin said the Russia-Ukraine peace process is suspended but is expected to resume, responding to Trump&amp;#x27;s remarks. Spokesman Peskov stressed that Ukrainian attacks on Russian civilian targets must also be taken into account.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Μόσχα δήλωσε ότι η ειρηνευτική διαδικασία με την Ουκρανία έχει διακοπεί, αλλά αναμένει να ξαναρχίσει, σχολιάζοντας τις δηλώσεις Τραμπ. Ο Πεσκόφ τόνισε ότι πρέπει να δοθεί προσοχή και στις ουκρανικές επιθέσεις σε ρωσικά πολιτικά αντικείμενα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 85 · Sentiment: neutral · Tags: Ukraine, Kremlin, Trump, war, diplomacy&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Οι ΗΠΑ έλαβαν αναθεωρημένη πρόταση του Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564232831/se-exelixi-diapragmateyseis-me-tis-ipa-leei-to-iran-epafes-me-to-oman-gia-to-ormoyz/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/6703f8f4b8ee</id>
-    <published>2026-05-18T10:57:03+00:00</published>
-    <updated>2026-05-18T10:57:03+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Pakistan delivered to the US a revised Iranian proposal to end the war, as negotiations appear to have stalled. A source in Islamabad stressed &#x27;we don&#x27;t have much time&#x27; as both sides keep shifting their red lines.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Pakistan delivered to the US a revised Iranian proposal to end the war, as negotiations appear to have stalled. A source in Islamabad stressed &amp;#x27;we don&amp;#x27;t have much time&amp;#x27; as both sides keep shifting their red lines.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Πακιστάν διαβίβασε στις ΗΠΑ αναθεωρημένη ιρανική πρόταση για τον τερματισμό του πολέμου, καθώς οι διαπραγματεύσεις φαίνεται να «παγώνουν». Πηγή στο Ισλαμαμπάντ τόνισε ότι «δεν υπάρχει πολύς χρόνος», με τις δύο πλευρές να μετακινούν συνεχώς τα όρια των απαιτήσεών τους.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 82 · Sentiment: neutral · Tags: Iran, USA, Pakistan, negotiations, war&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Από το παλιό στο νέο κόμμα Τσίπρα: Ρήξεις, αταξία και ίντριγκα</title>
-    <link href="https://www.kathimerini.gr/politics/564232699/apo-to-palio-sto-neo-komma-tsipra-rixeis-ataxia-kai-intrigka/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/c1446dfa7a2b</id>
-    <published>2026-05-18T09:47:07+00:00</published>
-    <updated>2026-05-18T09:47:07+00:00</updated>
-    <author><name>Αγγελική Σπανού</name></author>
-    <category term="politics"/>
-    <summary>Alexis Tsipras will officially launch his new party on May 26, aiming to displace PASOK as the main opposition force. The move has triggered significant upheaval in the progressive camp and raises questions about who will sign the founding declaration.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Alexis Tsipras will officially launch his new party on May 26, aiming to displace PASOK as the main opposition force. The move has triggered significant upheaval in the progressive camp and raises questions about who will sign the founding declaration.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στις 26 Μαΐου θα ανακοινωθεί το νέο κόμμα Τσίπρα, με στόχο να εκτοπίσει το ΠΑΣΟΚ από τη δεύτερη θέση. Η επιστροφή του πρώην πρωθυπουργού έχει προκαλέσει σοβαρές αναταραχές στον προοδευτικό χώρο και ανοίγει ερωτήματα για ποιοι θα υπογράψουν τη Διακήρυξη.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 80 · Sentiment: neutral · Tags: Tsipras, new party, SYRIZA, PASOK, opposition&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Το «μαύρο κουτί» των εφηβικών αυτοκτονιών</title>
-    <link href="https://www.kathimerini.gr/society/564230464/to-mayro-koyti-ton-efivikon-aytoktonion/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/1617d1181e9a</id>
-    <published>2026-05-17T21:33:37+00:00</published>
-    <updated>2026-05-17T21:33:37+00:00</updated>
-    <author><name>Ηλιάνα Μάγρα</name></author>
-    <category term="society"/>
-    <summary>Kathimerini examines the aftermath of two girls&#x27; suicide in Ilioupoli and the wider phenomenon of teen suicide in Greece. Despite circulating theories, experts emphasize the precise causes remain unknown — a &#x27;black box&#x27; that demands measured public discourse.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kathimerini examines the aftermath of two girls&amp;#x27; suicide in Ilioupoli and the wider phenomenon of teen suicide in Greece. Despite circulating theories, experts emphasize the precise causes remain unknown — a &amp;#x27;black box&amp;#x27; that demands measured public discourse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η «Κ» καταγράφει το δράμα της Ηλιούπολης μετά την αυτοκτονία δύο κοριτσιών και αναλύει το ευρύτερο φαινόμενο των εφηβικών αυτοκτονιών. Παρά τις θεωρίες που κυκλοφορούν, οι ειδικοί τονίζουν ότι κανείς δεν μπορεί να γνωρίζει με βεβαιότητα τις αιτίες — ένα «μαύρο κουτί» που απαιτεί μετρημένο δημόσιο λόγο.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 80 · Sentiment: negative · Tags: teen suicide, Ilioupoli, mental health, society, youth&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Θεωρείο: Στα χέρια του πρωθυπουργού</title>
-    <link href="https://www.kathimerini.gr/politics/564230359/theoreio-sta-cheria-toy-prothypoyrgoy/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/4634e0470ca5</id>
-    <published>2026-05-18T07:38:10+00:00</published>
-    <updated>2026-05-18T07:38:10+00:00</updated>
+    <id>https://www.kathimerini.gr/politics/parties/564234148/se-rythmoys-eklogon-i-n-d/</id>
+    <title>Σε ρυθμούς εκλογών η Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564234148/se-rythmoys-eklogon-i-n-d/"/>
+    <updated>2026-05-19T09:36:00+00:00</updated>
     <author><name>Σταύρος Παπαντωνίου</name></author>
     <category term="politics"/>
-    <summary>The Theoreio column reports that PM Mitsotakis now holds GEETHA&#x27;s first conclusions on the Ukrainian drone at Lefkada. PASOK calls ND&#x27;s attacks on Androulakis &#x27;underhanded&#x27; and threatens a counter-offensive over ND officials&#x27; offshore accounts and corporate links to the state.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Theoreio column reports that PM Mitsotakis now holds GEETHA&amp;#x27;s first conclusions on the Ukrainian drone at Lefkada. PASOK calls ND&amp;#x27;s attacks on Androulakis &amp;#x27;underhanded&amp;#x27; and threatens a counter-offensive over ND officials&amp;#x27; offshore accounts and corporate links to the state.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Θεωρείο αναφέρει ότι ο πρωθυπουργός Μητσοτάκης κρατά τα πρώτα συμπεράσματα του ΓΕΕΘΑ για το ουκρανικό drone της Λευκάδας. Στο ΠΑΣΟΚ θεωρούν «αήθεις» τις επιθέσεις της Ν.Δ. κατά Ανδρουλάκη και απειλούν με αντεπίθεση για στελέχη της Ν.Δ. με χρήματα στο εξωτερικό.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 78 · Sentiment: negative · Tags: Theoreio, Mitsotakis, Lefkada drone, PASOK, Androulakis&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">At Maximos Mansion the New Democracy 16th congress is being assessed, with the government considering that the PM achieved maximum rallying and electoral readiness, despite his references to elections in 2027. Defence Minister Nikos Dendias's speech caused friction with references to 'sealed-off technocratic chancelleries' and 'regime-like mindsets,' while the absence of former PM Karamanlis weighed on the atmosphere.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; At Maximos Mansion the New Democracy 16th congress is being assessed, with the government considering that the PM achieved maximum rallying and electoral readiness, despite his references to elections in 2027. Defence Minister Nikos Dendias's speech caused friction with references to 'sealed-off technocratic chancelleries' and 'regime-like mindsets,' while the absence of former PM Karamanlis weighed on the atmosphere.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο Μέγαρο Μαξίμου γίνεται απολογισμός του 16ου συνεδρίου της ΝΔ, με την κυβέρνηση να εκτιμά ότι ο πρωθυπουργός πέτυχε τη μέγιστη συσπείρωση και εκλογική ετοιμότητα, παρά τις αναφορές για εκλογές το 2027. Η ομιλία του Ν. Δένδια προκάλεσε αναστάτωση με αναφορές σε «περίκλειστες καγκελαρίες των τεχνοκρατών» και «καθεστωτικές αντιλήψεις», με τις απουσίες των Κ. Καραμανλή και Κ. Μητσοτάκη (πατέρα) να επίσης βαρύνουν την ατμόσφαιρα.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Η δροσιά θα κοστίσει ακριβά το καλοκαίρι</title>
-    <link href="https://www.kathimerini.gr/economy/564230731/i-drosia-tha-kostisei-akriva-to-kalokairi/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/617c37ba49f4</id>
-    <published>2026-05-17T19:30:24+00:00</published>
-    <updated>2026-05-17T19:30:24+00:00</updated>
-    <author><name>Χρύσα Λιάγγου</name></author>
+    <id>https://www.kathimerini.gr/economy/syntaxeis/564234511/telos-sti-dipli-ethniki-syntaxi-gia-chires-kai-chiroys-vazei-to-ste/</id>
+    <title>Τέλος στη διπλή εθνική σύνταξη για χήρες και χήρους βάζει το ΣτΕ</title>
+    <link href="https://www.kathimerini.gr/economy/syntaxeis/564234511/telos-sti-dipli-ethniki-syntaxi-gia-chires-kai-chiroys-vazei-to-ste/"/>
+    <updated>2026-05-19T08:52:00+00:00</updated>
+    <author><name>Ρούλα Σαλούρου</name></author>
     <category term="economy"/>
-    <summary>Greece risks paying Europe&#x27;s heaviest energy bill this summer because of its dependence on US LNG and oil imports amid the Iran war. April inflation hit 4.6%, the fifth highest in the eurozone, and surging cooling demand is set to make matters worse.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece risks paying Europe&amp;#x27;s heaviest energy bill this summer because of its dependence on US LNG and oil imports amid the Iran war. April inflation hit 4.6%, the fifth highest in the eurozone, and surging cooling demand is set to make matters worse.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ελλάδα κινδυνεύει να πληρώσει τον βαρύτερο ενεργειακό λογαριασμό στην Ευρώπη φέτος το καλοκαίρι, λόγω εξάρτησης από αμερικανικό LNG και πετρέλαιο εν μέσω του πολέμου στο Ιράν. Ο πληθωρισμός Απριλίου ήταν 4,6%, ο πέμπτος υψηλότερος στην Ευρωζώνη, και η ζήτηση ρεύματος αναμένεται να εκτοξευθεί.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 78 · Sentiment: negative · Tags: energy, inflation, LNG, Iran, electricity&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">The Council of State ends the payment of double national pensions, affecting 120,000+ recipients—mainly widows/widowers and professionals with two insurance histories. Per the 2016 Katrougalos law, when pensions cumulate only one national pension is paid, raising fears of retroactive clawbacks by social security agency EFKA.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Council of State ends the payment of double national pensions, affecting 120,000+ recipients—mainly widows/widowers and professionals with two insurance histories. Per the 2016 Katrougalos law, when pensions cumulate only one national pension is paid, raising fears of retroactive clawbacks by social security agency EFKA.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Συμβούλιο της Επικρατείας τερματίζει την καταβολή διπλής εθνικής σύνταξης, επηρεάζοντας 120.000+ δικαιούχους, κυρίως χήρες/χήρους και επαγγελματίες με δύο ασφαλιστικές ιστορίες. Σύμφωνα με τον νόμο Κατρούγκαλου (2016), σε σώρευση συντάξεων καταβάλλεται μόνο μία εθνική σύνταξη, δημιουργώντας φόβο για αναδρομικές επιστροφές ποσών στον ΕΦΚΑ.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Αστυνομικοί στη «ρωσική» μαφία</title>
-    <link href="https://www.kathimerini.gr/society/564230458/astynomikoi-sti-rosiki-mafia/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/a9e24765ca54</id>
-    <published>2026-05-18T10:14:03+00:00</published>
-    <updated>2026-05-18T10:14:03+00:00</updated>
-    <author><name>Γιάννης Σουλιώτης</name></author>
-    <category term="society"/>
-    <summary>Seven Greek police officers are under Internal Affairs investigation for ties to a Georgian-origin criminal group whose members are accused of four &#x27;Greek Mafia&#x27; murders. Three are described as active members and three as facilitators.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Seven Greek police officers are under Internal Affairs investigation for ties to a Georgian-origin criminal group whose members are accused of four &amp;#x27;Greek Mafia&amp;#x27; murders. Three are described as active members and three as facilitators.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Επτά αστυνομικοί ελέγχονται από την Υπηρεσία Εσωτερικών Υποθέσεων για διασυνδέσεις με ομάδα ομογενών από τη Γεωργία, μέλη της οποίας κατηγορούνται για τέσσερις δολοφονίες της «Greek Mafia». Τρεις περιγράφονται ως ενεργά μέλη της οργάνωσης και τρεις ότι διευκόλυναν τη δράση της.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 78 · Sentiment: negative · Tags: Hellenic Police, Greek Mafia, Georgia, corruption, Internal Affairs&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Πόλεμος στην Ουκρανία: Ρωσικό drone χτύπησε κινεζικό πλοίο, ενώ άλλο έπληξε σκάφος με σημαία Γουινέας-Μπισάου</title>
-    <link href="https://www.kathimerini.gr/world/564232813/polemos-stin-oykrania-rosiko-drone-chtypise-kineziko-ploio-eno-allo-eplixe-skafos-me-simaia-goyineas-mpisaoy/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/55b4e4b62bb7</id>
-    <published>2026-05-18T11:44:08+00:00</published>
-    <updated>2026-05-18T11:44:08+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564235015/empola-vathia-anisychia-ston-poy/</id>
+    <title>Εμπολα: «Βαθιά ανησυχία» στον ΠΟΥ</title>
+    <link href="https://www.kathimerini.gr/world/564235015/empola-vathia-anisychia-ston-poy/"/>
+    <updated>2026-05-19T11:35:43+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>Russian Shahed drones struck two foreign commercial vessels in Ukrainian waters — one Chinese-owned (&#x27;KSL DEYANG&#x27;) and one flying the Guinea-Bissau flag. No casualties, but Ukraine called the strike on Chinese-owned shipping &#x27;something new.&#x27;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Russian Shahed drones struck two foreign commercial vessels in Ukrainian waters — one Chinese-owned (&amp;#x27;KSL DEYANG&amp;#x27;) and one flying the Guinea-Bissau flag. No casualties, but Ukraine called the strike on Chinese-owned shipping &amp;#x27;something new.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ρωσικά drones τύπου Shahed χτύπησαν δύο ξένα εμπορικά πλοία στον Εύξεινο Πόντο, ένα κινεζικής ιδιοκτησίας («KSL DEYANG») και ένα με σημαία Γουινέας-Μπισάου. Δεν υπήρξαν θύματα, αλλά η Ουκρανία χαρακτηρίζει την επίθεση σε κινεζικό πλοίο ως «κάτι καινούργιο».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 78 · Sentiment: negative · Tags: Ukraine, Russia, Black Sea, China, drone&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">WHO Director-General Tedros expresses 'deep concern' over the Ebola outbreak in DR Congo and Uganda, with 131 deaths and 513 suspected cases of the Bundibugyo strain (40-50% mortality). Africa CDC has declared a continental emergency, while no approved vaccine exists for this strain.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; WHO Director-General Tedros expresses 'deep concern' over the Ebola outbreak in DR Congo and Uganda, with 131 deaths and 513 suspected cases of the Bundibugyo strain (40-50% mortality). Africa CDC has declared a continental emergency, while no approved vaccine exists for this strain.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο γενικός διευθυντής του ΠΟΥ Τέντρος εκφράζει «βαθιά ανησυχία» για την επιδημία Έμπολα στη ΛΔ Κονγκό και την Ουγκάντα, με 131 θανάτους και 513 ύποπτα κρούσματα από το στέλεχος Bundibugyo (40-50% θνητότητα). Η Africa CDC κήρυξε κατάσταση έκτακτης ανάγκης σε ηπειρωτικό επίπεδο, ενώ δεν υπάρχει εγκεκριμένο εμβόλιο για αυτό το στέλεχος.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Κυριαρχία χωρίς ενθουσιασμό στο 16ο συνέδριο της Ν.Δ.</title>
-    <link href="https://www.kathimerini.gr/politics/564232717/kyriarchia-choris-enthoysiasmo-sto-16o-synedrio-tis-n-d/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/8d131fdc7438</id>
-    <published>2026-05-18T09:45:32+00:00</published>
-    <updated>2026-05-18T09:45:32+00:00</updated>
-    <author><name>Βασιλική Σιούτη</name></author>
+    <id>https://www.kathimerini.gr/politics/564234886/apo-zeygos-miraz-antikathistantai-oi-patriot-stin-karpatho/</id>
+    <title>Από ζεύγος μαχητικών αντικαθίστανται οι Patriot στην Κάρπαθο</title>
+    <link href="https://www.kathimerini.gr/politics/564234886/apo-zeygos-miraz-antikathistantai-oi-patriot-stin-karpatho/"/>
+    <updated>2026-05-19T10:11:46+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary>ND&#x27;s 16th congress confirmed Kyriakos Mitsotakis&#x27;s complete dominance but lacked previous years&#x27; enthusiasm. The absences of Karamanlis and Samaras, Dimitriadis&#x27;s presence and Dendias&#x27;s leadership posture were widely seen as signals for what comes next.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; ND&amp;#x27;s 16th congress confirmed Kyriakos Mitsotakis&amp;#x27;s complete dominance but lacked previous years&amp;#x27; enthusiasm. The absences of Karamanlis and Samaras, Dimitriadis&amp;#x27;s presence and Dendias&amp;#x27;s leadership posture were widely seen as signals for what comes next.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στο 16ο συνέδριο της Νέας Δημοκρατίας επιβεβαιώθηκε η απόλυτη κυριαρχία του Κυριάκου Μητσοτάκη, αλλά απουσίαζε ο κομματικός παλμός. Οι απουσίες Καραμανλή και Σαμαρά, η παρουσία Δημητριάδη και η ηγετική εμφάνιση Δένδια θα έχουν σημασία για την επόμενη ημέρα.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 75 · Sentiment: neutral · Tags: New Democracy, Mitsotakis, congress, Dendias, party&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">The Patriot battery on Karpathos is being replaced by a pair of Mirage 2000-5 or F-16 fighter jets to fill the operational gap, while four F-16s withdraw from Paphos in Cyprus and will likewise be replaced by Hellenic Air Force pairs. Officials decouple the redeployment from speculation over Turkey's upcoming maritime bill, calling it purely operational.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Patriot battery on Karpathos is being replaced by a pair of Mirage 2000-5 or F-16 fighter jets to fill the operational gap, while four F-16s withdraw from Paphos in Cyprus and will likewise be replaced by Hellenic Air Force pairs. Officials decouple the redeployment from speculation over Turkey's upcoming maritime bill, calling it purely operational.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η πυροβολαρχία Patriot στην Κάρπαθο αντικαθίσταται από ζεύγος μαχητικών Mirage 2000-5 ή F-16 για κάλυψη του επιχειρησιακού κενού, ενώ τέσσερα F-16 αποχωρούν από την Πάφο της Κύπρου και θα αντικατασταθούν επίσης από ζεύγη της ΠΑ. Αρμόδιες πηγές αποσυνδέουν την αναδιάταξη από τη φιλολογία για το τουρκικό νομοσχέδιο, μιλώντας για αμιγώς επιχειρησιακές ανάγκες.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Καλύφθηκε η ΑΜΚ της ΔΕΗ – Προσφορές κοντά στα 4 δισ. ευρώ</title>
-    <link href="https://www.kathimerini.gr/economy/business/564232855/kalyfthike-i-amk-tis-dei-prosfores-konta-sta-4-dis-eyro/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/0b040748f24f</id>
-    <published>2026-05-18T11:09:54+00:00</published>
-    <updated>2026-05-18T11:09:54+00:00</updated>
+    <id>https://www.kathimerini.gr/economy/564230851/kyma-apolyseon-logo-epelasis-ai/</id>
+    <title>Κύμα απολύσεων λόγω επέλασης AI</title>
+    <link href="https://www.kathimerini.gr/economy/564230851/kyma-apolyseon-logo-epelasis-ai/"/>
+    <updated>2026-05-19T12:11:53+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary>PPC&#x27;s capital increase was fully subscribed with bids near 4bn euros. The offering price will not exceed 19.75 euros per share, financing the company&#x27;s 24bn 2026-2030 investment plan, with the new shares to start trading May 26.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PPC&amp;#x27;s capital increase was fully subscribed with bids near 4bn euros. The offering price will not exceed 19.75 euros per share, financing the company&amp;#x27;s 24bn 2026-2030 investment plan, with the new shares to start trading May 26.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πλήρως καλύφθηκε η αύξηση μετοχικού κεφαλαίου της ΔΕΗ με το βιβλίο προσφορών να φτάνει τα 4 δισ. ευρώ. Η τιμή διάθεσης δεν θα υπερβαίνει τα 19,75 ευρώ, με σκοπό τη χρηματοδότηση του επενδυτικού πλάνου 24 δισ. ευρώ για 2026-2030.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: economy · Importance: 75 · Sentiment: positive · Tags: PPC, share offering, investments, energy, stock market&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">More than 300,749 layoffs at US companies (Amazon, Morgan Stanley etc.) in Q1, attributed largely to the AI onslaught. A Stanford study shows employment of young workers in AI-exposed fields (e.g. software development) has dropped 16% more than in unexposed sectors, while unemployment among 22-27 year-old graduates rose to 5.6%.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; More than 300,749 layoffs at US companies (Amazon, Morgan Stanley etc.) in Q1, attributed largely to the AI onslaught. A Stanford study shows employment of young workers in AI-exposed fields (e.g. software development) has dropped 16% more than in unexposed sectors, while unemployment among 22-27 year-old graduates rose to 5.6%.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πάνω από 300.749 απολύσεις σε αμερικανικές επιχειρήσεις (Amazon, Morgan Stanley κ.ά.) στο α' τρίμηνο του έτους, αποδιδόμενες κυρίως στην επέλαση της τεχνητής νοημοσύνης. Έρευνα του Stanford δείχνει μείωση 16% στην απασχόληση νέων σε τομείς εκτεθειμένους στην ΑΙ (π.χ. ανάπτυξη λογισμικού), ενώ η ανεργία αποφοίτων 22-27 ετών ανέβηκε στο 5,6%.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Ερευνα της Ευρωπαϊκής Εισαγγελίας και για το μεταναστευτικό</title>
-    <link href="https://www.kathimerini.gr/society/564230455/ereyna-tis-eyropaikis-eisaggelias-kai-gia-to-metanasteytiko/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/7e19c214cfbb</id>
-    <published>2026-05-18T09:36:31+00:00</published>
-    <updated>2026-05-18T09:36:31+00:00</updated>
-    <author><name>Κώστας Κουκουμάκας</name></author>
-    <category term="society"/>
-    <summary>The European Public Prosecutor is investigating spending on migrant reception facilities at Malakasa and Sintiki/Serres during the 2020-21 pandemic. The focus is direct-award contracts to private firms without tenders, justified at the time as &#x27;urgent.&#x27;</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Public Prosecutor is investigating spending on migrant reception facilities at Malakasa and Sintiki/Serres during the 2020-21 pandemic. The focus is direct-award contracts to private firms without tenders, justified at the time as &amp;#x27;urgent.&amp;#x27;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ευρωπαϊκή Εισαγγελία ερευνά τη διαχείριση κονδυλίων για κέντρα υποδοχής μεταναστών στη Μαλακάσα και τη Σιντική Σερρών την περίοδο πανδημίας 2020-21. Στο επίκεντρο βρίσκονται απευθείας αναθέσεις σε ιδιωτικές εταιρείες χωρίς διαγωνισμό, λόγω «κατεπείγουσας ανάγκης».&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 75 · Sentiment: negative · Tags: European Prosecutor, migration, Malakasa, Serres, corruption&lt;/em&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Τραμπ: Πρέπει να νικήσουμε την Κίνα στη μάχη της τεχνητής νοημοσύνης</title>
-    <link href="https://www.kathimerini.gr/world/564232888/tramp-prepei-na-nikisoyme-tin-kina-sti-machi-tis-technitis-noimosynis/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/422ffaf39165</id>
-    <published>2026-05-18T12:20:05+00:00</published>
-    <updated>2026-05-18T12:20:05+00:00</updated>
+    <id>https://www.kathimerini.gr/world/564234967/i-e-e-proetoimazei-meiosi-dasmon-sta-amerikanika-proionta-gia-na-apofygei-nees-apeiles-tramp/</id>
+    <title>Η Ε.Ε. προετοιμάζει μείωση δασμών στα αμερικανικά προϊόντα για να αποφύγει νέες απειλές Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564234967/i-e-e-proetoimazei-meiosi-dasmon-sta-amerikanika-proionta-gia-na-apofygei-nees-apeiles-tramp/"/>
+    <updated>2026-05-19T11:09:44+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>In a Fortune interview before his China trip, Trump explained how the Iran war could delay his interest-rate plans and why he regrets settling for only 10% of Intel. He stressed America must beat China in the AI race.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; In a Fortune interview before his China trip, Trump explained how the Iran war could delay his interest-rate plans and why he regrets settling for only 10% of Intel. He stressed America must beat China in the AI race.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σε συνέντευξη στο Fortune πριν το ταξίδι του στην Κίνα, ο Τραμπ εξήγησε πώς ο πόλεμος στο Ιράν μπορεί να καθυστερήσει τα σχέδιά του για τα επιτόκια και γιατί μετανιώνει που ζήτησε μόνο το 10% της Intel. Δήλωσε ότι η Αμερική πρέπει να νικήσει την Κίνα στη μάχη της τεχνητής νοημοσύνης.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: world · Importance: 75 · Sentiment: neutral · Tags: Trump, China, AI, Intel, USA&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">EU negotiators are expected to reach an agreement on scrapping tariffs on US goods, averting Trump's threat to raise tariffs to 25% on European cars from 4 July. The 2025 Turnberry deal provides for 15% US tariffs, with safeguard clauses remaining the main sticking point.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; EU negotiators are expected to reach an agreement on scrapping tariffs on US goods, averting Trump's threat to raise tariffs to 25% on European cars from 4 July. The 2025 Turnberry deal provides for 15% US tariffs, with safeguard clauses remaining the main sticking point.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι διαπραγματευτές της ΕΕ αναμένεται να καταλήξουν σε συμφωνία για κατάργηση δασμών σε αμερικανικά προϊόντα, αποτρέποντας την απειλή Τραμπ για αύξηση δασμών έως 25% στα ευρωπαϊκά αυτοκίνητα από τις 4 Ιουλίου. Η συμφωνία του 2025 στο Τέρνμπερι προβλέπει 15% αμερικανικούς δασμούς, με τις δευτερεύουσες ρήτρες ασφαλείας να παραμένουν σημείο τριβής.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Η προεκλογική περίοδος ξεκίνησε</title>
-    <link href="https://www.kathimerini.gr/opinion/564230548/i-proeklogiki-periodos-xekinise/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/050bd6ade92a</id>
-    <published>2026-05-17T20:13:00+00:00</published>
-    <updated>2026-05-17T20:13:00+00:00</updated>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary>Alexis Papahelas observes that Greece has entered a quasi-electoral period, with mounting pressure for handouts, a 13th pension and reform rollbacks. He urges the government to resist populism, warning institutions risk freezing under election-driven calculations.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Alexis Papahelas observes that Greece has entered a quasi-electoral period, with mounting pressure for handouts, a 13th pension and reform rollbacks. He urges the government to resist populism, warning institutions risk freezing under election-driven calculations.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Αλέξης Παπαχελάς σημειώνει ότι η χώρα μπήκε σε οιονεί προεκλογική περίοδο, με αυξανόμενες πιέσεις για παροχές, 13η σύνταξη και ξήλωμα μεταρρυθμίσεων. Καλεί την κυβέρνηση να αντισταθεί στον λαϊκισμό, καθώς οι θεσμοί κινδυνεύουν να «παγώσουν» υπό την εκλογική λογική.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: opinion · Importance: 75 · Sentiment: negative · Tags: Papahelas, elections, populism, reforms, analysis&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://www.kathimerini.gr/world/564234922/ispania-o-proin-prothypoyrgos-loyis-thapatero-ereynatai-gia-xeplyma-chrimatos/</id>
+    <title>Ισπανία: Ο πρώην πρωθυπουργός Λουίς Θαπατέρο ερευνάται για ξέπλυμα χρήματος</title>
+    <link href="https://www.kathimerini.gr/world/564234922/ispania-o-proin-prothypoyrgos-loyis-thapatero-ereynatai-gia-xeplyma-chrimatos/"/>
+    <updated>2026-05-19T10:47:06+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Former Spanish PM José Luis Rodríguez Zapatero is under investigation for money laundering and influence peddling, with the financial crime unit raiding his Madrid office. The case concerns €53 million in 2021 funding for airline Plus Ultra; Zapatero will testify on 2 June—the first former PM probed in a corruption case under Spain's democracy.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Former Spanish PM José Luis Rodríguez Zapatero is under investigation for money laundering and influence peddling, with the financial crime unit raiding his Madrid office. The case concerns €53 million in 2021 funding for airline Plus Ultra; Zapatero will testify on 2 June—the first former PM probed in a corruption case under Spain's democracy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρώην πρωθυπουργός της Ισπανίας Χοσέ Λουίς Ροντρίγκεθ Θαπατέρο τίθεται υπό έρευνα για ξέπλυμα χρήματος και διαπλοκή, με έφοδο της Μονάδας Οικονομικού Εγκλήματος στο γραφείο του στη Μαδρίτη. Η υπόθεση αφορά τη χρηματοδότηση 53 εκατ. ευρώ στην αεροπορική Plus Ultra το 2021, με τον Θαπατέρο να καλείται να καταθέσει στις 2 Ιουνίου—πρώτη φορά πρώην πρωθυπουργός σε έρευνα διαφθοράς στη δημοκρατία.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Το 6% που έχει βάλει στο στόχαστρο η Ν.Δ.</title>
-    <link href="https://www.kathimerini.gr/politics/564230317/to-6-poy-echei-valei-sto-stochastro-i-n-d/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/3c2f5b0281b5</id>
-    <published>2026-05-18T07:24:25+00:00</published>
-    <updated>2026-05-18T07:24:25+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <id>https://www.kathimerini.gr/politics/parliament/564234145/tropologia-gia-dikes-expres-ton-voyleyton/</id>
+    <title>Τροπολογία για δίκες-εξπρές των βουλευτών</title>
+    <link href="https://www.kathimerini.gr/politics/parliament/564234145/tropologia-gia-dikes-expres-ton-voyleyton/"/>
+    <updated>2026-05-19T07:04:47+00:00</updated>
+    <author><name>Γιώργος Μπουρδάρας</name></author>
     <category term="politics"/>
-    <summary>ND is focusing on the 14-16% of 2023 voters who remain reluctant to back the governing party again — roughly 5.7-6.6% of the total electorate. The strategy targets only past supporters, not new ones, as Maximos Mansion drafts its next electoral plan.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; ND is focusing on the 14-16% of 2023 voters who remain reluctant to back the governing party again — roughly 5.7-6.6% of the total electorate. The strategy targets only past supporters, not new ones, as Maximos Mansion drafts its next electoral plan.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στη Ν.Δ. εστιάζουν στο 14-16% των ψηφοφόρων του 2023 που παραμένουν απρόθυμοι να ξαναψηφίσουν το κυβερνών κόμμα — περίπου 5,7-6,6% του συνόλου του εκλογικού σώματος. Στόχος μόνο οι «παλιοί» ψηφοφόροι, καθώς το Μέγαρο Μαξίμου ετοιμάζει το επόμενο εκλογικό σχέδιο.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: politics · Importance: 72 · Sentiment: neutral · Tags: New Democracy, elections, voters, Maximos Mansion, polls&lt;/em&gt;&lt;/p&gt;</content>
+    <summary type="text">A tabled amendment provides for 'express trials' for MPs, with misdemeanours heard within three months and in-flagrante felonies fast-tracked. Driven by the OPEKEPE case, the regulation aims to prevent MPs from being stuck in limbo as suspects during electoral cycles, but raises equality-before-the-law concerns versus ordinary citizens.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A tabled amendment provides for 'express trials' for MPs, with misdemeanours heard within three months and in-flagrante felonies fast-tracked. Driven by the OPEKEPE case, the regulation aims to prevent MPs from being stuck in limbo as suspects during electoral cycles, but raises equality-before-the-law concerns versus ordinary citizens.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Κατατέθηκε στη Βουλή τροπολογία που προβλέπει «δίκες-εξπρές» για βουλευτές, με εκδίκαση πλημμελημάτων εντός τριών μηνών και αυτόφωρων κακουργημάτων. Η ρύθμιση εισήχθη με φόντο την υπόθεση ΟΠΕΚΕΠΕ, ώστε να μην εγκλωβίζονται βουλευτές υπόδικοι ενώ εκκρεμούν δικαστικές υποθέσεις, αλλά εγείρει ερωτήματα ισονομίας έναντι των κοινών πολιτών.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>Σε έκτακτη ανάγκη για πάγια λειψυδρία</title>
-    <link href="https://www.kathimerini.gr/society/564230470/se-ektakti-anagki-gia-pagia-leipsydria/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/1dc101260fde</id>
-    <published>2026-05-17T17:31:00+00:00</published>
-    <updated>2026-05-17T17:31:00+00:00</updated>
-    <author><name>Αλεξία Καλαϊτζή</name></author>
-    <category term="society"/>
-    <summary>Greek islands are declaring water-scarcity emergencies one after another, with Astypalaia&#x27;s consumption up 60% in five years. Desalination units are being rushed in to save the tourist season, exposing chronic structural problems amid the climate crisis.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek islands are declaring water-scarcity emergencies one after another, with Astypalaia&amp;#x27;s consumption up 60% in five years. Desalination units are being rushed in to save the tourist season, exposing chronic structural problems amid the climate crisis.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ένα μετά το άλλο τα ελληνικά νησιά κηρύσσονται σε κατάσταση εκτάκτου ανάγκης λόγω λειψυδρίας. Στην Αστυπάλαια η κατανάλωση νερού αυξήθηκε 60% σε πέντε χρόνια, ενώ τρέχει η ενοικίαση μονάδων αφαλάτωσης για να σωθεί η τουριστική σεζόν.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: society · Importance: 72 · Sentiment: negative · Tags: water scarcity, islands, Astypalaia, climate crisis, desalination&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://www.kathimerini.gr/economy/local/564234532/ektos-ta-eioy-anaka-psis-e-einan-schedia-4-dis-eyro/</id>
+    <title>Εκτός Ταμείου Ανάκαμψης έμειναν σχέδια 4 δισ. ευρώ</title>
+    <link href="https://www.kathimerini.gr/economy/local/564234532/ektos-ta-eioy-anaka-psis-e-einan-schedia-4-dis-eyro/"/>
+    <updated>2026-05-19T09:43:03+00:00</updated>
+    <author><name>Ευγενία Τζώρτζη</name></author>
+    <category term="economy"/>
+    <summary type="text">Investment plans worth €4 billion are left out of the Recovery Fund due to resource exhaustion, after the deadline was brought forward from August to May. They include energy, tourism and real estate projects from high-cap firms, with banks blamed for raising expectations beyond the available €13.5 billion.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Investment plans worth €4 billion are left out of the Recovery Fund due to resource exhaustion, after the deadline was brought forward from August to May. They include energy, tourism and real estate projects from high-cap firms, with banks blamed for raising expectations beyond the available €13.5 billion.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Επενδυτικά σχέδια ύψους 4 δισ. ευρώ μένουν εκτός Ταμείου Ανάκαμψης λόγω εξάντλησης των πόρων, μετά την επίσπευση της προθεσμίας από Αύγουστο σε Μάιο. Πρόκειται για ενεργειακά, τουριστικά και real estate έργα από επιχειρήσεις υψηλής κεφαλαιοποίησης, με τις τράπεζες να κατηγορούνται ότι δημιούργησαν προσδοκίες πέραν των διαθέσιμων 13,5 δισ.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>«Στα ψέματα παίζαμε»</title>
-    <link href="https://www.kathimerini.gr/opinion/564230551/sta-psemata-paizame-2/"/>
-    <id>https://zoetzikra.github.io/greek-news-aggregator/article/8d82f3131c18</id>
-    <published>2026-05-17T20:09:00+00:00</published>
-    <updated>2026-05-17T20:09:00+00:00</updated>
-    <author><name>Κώστας Ιορδανίδης</name></author>
-    <category term="opinion"/>
-    <summary>Kostas Iordanidis criticizes Greek foreign policy for assuming it stood &#x27;on the right side of history&#x27; with Ukraine. The Ukrainian drone found at Lefkada, he argues, exposes that the assumption Greece would gain leverage over Turkey was self-delusion.</summary>
-    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Kostas Iordanidis criticizes Greek foreign policy for assuming it stood &amp;#x27;on the right side of history&amp;#x27; with Ukraine. The Ukrainian drone found at Lefkada, he argues, exposes that the assumption Greece would gain leverage over Turkey was self-delusion.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Κώστας Ιορδανίδης κριτικάρει την ελληνική εξωτερική πολιτική για την αυτοεπιβεβαίωση ότι βρίσκεται «στη σωστή πλευρά της Ιστορίας» με την Ουκρανία. Το ουκρανικό drone στη Λευκάδα αποδεικνύει ότι η εκτίμηση πως η Ελλάδα θα κέρδιζε πλεονέκτημα έναντι της Τουρκίας ήταν αυταπάτη.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category: opinion · Importance: 72 · Sentiment: negative · Tags: foreign policy, Ukraine, Lefkada, Iordanidis, Turkey&lt;/em&gt;&lt;/p&gt;</content>
+    <id>https://www.kathimerini.gr/world/564235114/pentagono-ereyna-gia-ti-nomimotita-ton-pligmaton-enantion-ploion-se-eiriniko-kai-karaiviki/</id>
+    <title>Πεντάγωνο: Ερευνα για τη νομιμότητα των πληγμάτων εναντίον πλοίων σε Ειρηνικό και Καραϊβική</title>
+    <link href="https://www.kathimerini.gr/world/564235114/pentagono-ereyna-gia-ti-nomimotita-ton-pligmaton-enantion-ploion-se-eiriniko-kai-karaiviki/"/>
+    <updated>2026-05-19T12:48:10+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">An independent Pentagon oversight authority is investigating the legality of US strikes against vessels in the Pacific and Caribbean under Operation Southern Spear (60 boats and 192 dead since September). The UN and human rights groups call the strikes violations of international law and extrajudicial executions.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; An independent Pentagon oversight authority is investigating the legality of US strikes against vessels in the Pacific and Caribbean under Operation Southern Spear (60 boats and 192 dead since September). The UN and human rights groups call the strikes violations of international law and extrajudicial executions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανεξάρτητη αρχή εποπτείας του Πενταγώνου ξεκινά έρευνα για τη νομιμότητα των αμερικανικών πληγμάτων κατά πλοίων στον Ειρηνικό και την Καραϊβική στο πλαίσιο της επιχείρησης Southern Spear (60 πλοία και 192 νεκροί από τον Σεπτέμβριο). Ο ΟΗΕ και οργανώσεις ανθρωπίνων δικαιωμάτων μιλούν για παραβίαση του διεθνούς δικαίου και εξωδικαστικές εκτελέσεις.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564235030/to-minyma-mitsotaki-gia-tin-epeteio-tis-genoktonias-ton-pontion/</id>
+    <title>Το μήνυμα Μητσοτάκη για την επέτειο της Γενοκτονίας των Ποντίων</title>
+    <link href="https://www.kathimerini.gr/politics/564235030/to-minyma-mitsotaki-gia-tin-epeteio-tis-genoktonias-ton-pontion/"/>
+    <updated>2026-05-19T11:55:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">PM Kyriakos Mitsotakis honours the 112th anniversary of the Pontian Genocide, speaking of a 'debt of memory and gratitude' to the Pontian community. He references the systematic extermination of 353,000 Greeks and stresses that the eradication plan failed because survivors built new cities and enriched modern Greek culture.</summary>
+    <content type="html">&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PM Kyriakos Mitsotakis honours the 112th anniversary of the Pontian Genocide, speaking of a 'debt of memory and gratitude' to the Pontian community. He references the systematic extermination of 353,000 Greeks and stresses that the eradication plan failed because survivors built new cities and enriched modern Greek culture.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρωθυπουργός Κυριάκος Μητσοτάκης τιμά την 112η επέτειο της Γενοκτονίας των Ποντίων, μιλώντας για «χρέος μνήμης και χρέος ευγνωμοσύνης» στην ποντιακή κοινότητα. Αναφέρεται στη συστηματική εξόντωση 353.000 συμπατριωτών και υπογραμμίζει ότι το σχέδιο εξάλειψης απέτυχε επειδή οι επιζώντες έχτισαν νέες πόλεις και ενίσχυσαν τον ελληνικό πολιτισμό.&lt;/p&gt;</content>
   </entry>
 </feed>
