@@ -4,8 +4,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     paths:
-      - 'web/data/**'
       - 'frontend/static/data/**'
+      - 'frontend/src/**'
+      - '.github/workflows/deploy-pages.yml'
     branches:
       - main
   workflow_dispatch:  # Also allow manual triggering
