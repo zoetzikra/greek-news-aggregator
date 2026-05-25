@@ -1,270 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://greek-news.app/feeds/main.xml</id>
-  <title>Greek News Aggregator — Daily Top Stories</title>
-  <subtitle>Top 20 stories from kathimerini.gr, bilingual summaries (EL/EN)</subtitle>
-  <link href="https://greek-news.app/feeds/main.xml" rel="self"/>
-  <link href="https://greek-news.app/" rel="alternate"/>
-  <updated>2026-05-24T10:51:30.332276+00:00</updated>
-  <generator>greek-news-aggregator</generator>
+  <id>https://greek-news-aggregator/feeds/main</id>
+  <title>Greek News Aggregator — Top stories</title>
+  <subtitle>Daily top stories from Kathimerini, generated 2026-05-25T10:41:53.525611+00:00</subtitle>
+  <updated>2026-05-25T10:41:53.525611+00:00</updated>
+  <author><name>Greek News Aggregator</name></author>
+  <link rel="self" href="https://greek-news-aggregator/feeds/main.xml"/>
   <entry>
-    <id>urn:greek-news:efa75c6e31a6</id>
-    <title>Τραμπ: Η συμφωνία με το Ιράν έχει σε μεγάλο βαθμό ολοκληρωθεί, ανοίγουν τα Στενά του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564245338/tramp-ta-stena-toy-ormoyz-anoigoyn-i-symfonia-echei-diamorfothei-se-megalo-vathmo/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/world/564246271/iran-proodos-alla-ochi-teliki-symfonia-me-ipa/</id>
+    <title>Ιράν: Κοντά σε μνημόνιο, αλλά όχι τελική συμφωνία με ΗΠΑ</title>
+    <link href="https://www.kathimerini.gr/world/564246271/iran-proodos-alla-ochi-teliki-symfonia-me-ipa/"/>
+    <updated>2026-05-25T10:53:03+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-23T23:52:13+00:00</published>
-    <updated>2026-05-23T23:52:13+00:00</updated>
     <category term="world"/>
-    <summary type="text">Donald Trump announced late Saturday on Truth Social that the peace agreement with Iran has been 'largely negotiated' and the Strait of Hormuz will reopen. The breakthrough followed phone calls with the leaders of Saudi Arabia, UAE, Qatar, Turkey, Pakistan and Israel's Netanyahu — though no mention was made of Lebanon.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Ντόναλντ Τραμπ ανακοίνωσε τα μεσάνυχτα του Σαββάτου μέσω Truth Social ότι η ειρηνευτική συμφωνία με το Ιράν έχει «σε μεγάλο βαθμό ολοκληρωθεί», ενώ θα ανοίξουν τα Στενά του Ορμούζ. Η εξέλιξη ακολουθεί τηλεφωνικές διαβουλεύσεις με τους ηγέτες Σαουδικής Αραβίας, ΗΑΕ, Κατάρ, Τουρκίας, Πακιστάν και τον Νετανιάχου του Ισραήλ — χωρίς όμως αναφορά στον Λίβανο.</p>
-<p><strong>EN:</strong> Donald Trump announced late Saturday on Truth Social that the peace agreement with Iran has been 'largely negotiated' and the Strait of Hormuz will reopen. The breakthrough followed phone calls with the leaders of Saudi Arabia, UAE, Qatar, Turkey, Pakistan and Israel's Netanyahu — though no mention was made of Lebanon.</p>
-<p><em>Category: world | Importance: 92/100 | Sentiment: positive</em></p></content>
+    <summary type="text">Η Τεχεράνη ανακοίνωσε ότι το προτεινόμενο μνημόνιο συνεννόησης «14 σημείων» επικεντρώνεται στον τερματισμό του πολέμου και την άρση του ναυτικού αποκλεισμού, με αντάλλαγμα ασφαλή διέλευση στα Στενά του Ορμούζ. Η συμφωνία θα ακολουθηθεί από διαπραγμάτευση 60 ημερών για το πυρηνικό πρόγραμμα.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:21a89f1003d5</id>
-    <title>Ιράν: Κοντά σε συμφωνία Ουάσιγκτον και Τεχεράνη – Τα δεδομένα για ναυσιπλοΐα, Ορμούζ και πυρηνικά</title>
-    <link href="https://www.kathimerini.gr/world/564245353/iran-konta-se-symfonia-oyasigkton-kai-techerani-ta-dedomena-gia-naysiplo-a-ormoyz-kai-pyrinika/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/world/564246484/tramp-gia-symfonia-me-iran-eite-megali-kai-simantiki-eite-den-tha-yparxei/</id>
+    <title>Τραμπ για συμφωνία με Ιράν: Είτε μεγάλη και σημαντική, είτε δεν θα υπάρξει</title>
+    <link href="https://www.kathimerini.gr/world/564246484/tramp-gia-symfonia-me-iran-eite-megali-kai-simantiki-eite-den-tha-yparxei/"/>
+    <updated>2026-05-25T13:23:12+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-24T07:27:57+00:00</published>
-    <updated>2026-05-24T07:27:57+00:00</updated>
     <category term="world"/>
-    <summary type="text">According to Axios, the US and Iran are close to signing a deal that would extend the ceasefire for 60 days. It would reopen the Strait of Hormuz without transit tolls, see Iran clear mines, lift US blockade of Iranian ports and ease sanctions to let Iran sell oil — in exchange for Tehran's commitment never to seek nuclear weapons.</summary>
-    <content type="html"><p><strong>EL:</strong> Σύμφωνα με το Axios, ΗΠΑ και Ιράν βρίσκονται κοντά στην υπογραφή συμφωνίας 60ήμερης παράτασης εκεχειρίας. Η συμφωνία προβλέπει άνοιγμα του Στενού του Ορμούζ χωρίς τέλη διέλευσης, απομάκρυνση ναρκών, άρση αμερικανικού αποκλεισμού σε ιρανικά λιμάνια και εξαιρέσεις σε κυρώσεις για το ιρανικό πετρέλαιο. Η Τεχεράνη δεσμεύεται να μην επιδιώξει πυρηνικά όπλα.</p>
-<p><strong>EN:</strong> According to Axios, the US and Iran are close to signing a deal that would extend the ceasefire for 60 days. It would reopen the Strait of Hormuz without transit tolls, see Iran clear mines, lift US blockade of Iranian ports and ease sanctions to let Iran sell oil — in exchange for Tehran's commitment never to seek nuclear weapons.</p>
-<p><em>Category: world | Importance: 90/100 | Sentiment: positive</em></p></content>
+    <summary type="text">Ο Αμερικανός πρόεδρος Ντόναλντ Τραμπ τόνισε ότι η συμφωνία με το Ιράν είτε θα είναι «μεγάλη και σημαντική» είτε δεν θα υπάρξει καθόλου. Λίγο νωρίτερα Ιράν και ΗΠΑ υποβάθμισαν τις προσδοκίες για επικείμενη πρόοδο, με τον Μάρκο Ρούμπιο να προειδοποιεί ότι η Ουάσιγκτον θα αντιδράσει «με άλλο τρόπο» αν δεν υπάρξει συμφωνία.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:76ebfb13c0b3</id>
+    <id>https://www.kathimerini.gr/politics/564243775/alexis-tsipras-mple-kai-kokkino-sto-thiseio/</id>
+    <title>Αλέξης Τσίπρας: Μπλε και κόκκινο στο Θησείο</title>
+    <link href="https://www.kathimerini.gr/politics/564243775/alexis-tsipras-mple-kai-kokkino-sto-thiseio/"/>
+    <updated>2026-05-25T13:02:54+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary type="text">Ρεπορτάζ για τα εγκαίνια του νέου κόμματος του Αλέξη Τσίπρα στο Θησείο την Τρίτη, με μότο «Από την κοινωνία, με την κοινωνία, για την κοινωνία». Το σήμα συνδυάζει το μπλε (πατρίδα, θάλασσα) με το κόκκινο (Αριστερά, αγώνες), στοιχεία της «πατριωτικής Αριστεράς» που επιδιώκει να συγκροτήσει.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564244129/megalonei-o-logariasmos-tis-energeiakis-krisis/</id>
     <title>Μεγαλώνει ο λογαριασμός της ενεργειακής κρίσης</title>
-    <link href="https://www.kathimerini.gr/economy/local/564244129/megalonei-o-logariasmos-tis-energeiakis-krisis/" rel="alternate"/>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
-    <published>2026-05-24T13:02:12+00:00</published>
+    <link href="https://www.kathimerini.gr/economy/local/564244129/megalonei-o-logariasmos-tis-energeiakis-krisis/"/>
     <updated>2026-05-24T13:02:12+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
     <category term="economy"/>
-    <summary type="text">The European Commission has revised Greek 2026 growth down to 1.8% and inflation up to 3.7% amid the protracted energy crisis from the Middle East war. Finance Minister and Eurogroup President Kyriakos Pierrakakis warns each month with the Strait of Hormuz closed will be worse than the last for the eurozone.</summary>
-    <content type="html"><p><strong>EL:</strong> Η Κομισιόν αναθεώρησε προς τα κάτω τις προβλέψεις ανάπτυξης για την Ελλάδα στο 1,8% και προς τα πάνω τον πληθωρισμό στο 3,7% για το 2026, εν μέσω της παρατεταμένης ενεργειακής κρίσης από τον πόλεμο στη Μέση Ανατολή. Ο υπουργός Οικονομικών Κυριάκος Πιερρακάκης προειδοποιεί ότι κάθε μήνας με κλειστά τα Στενά του Ορμούζ θα είναι χειρότερος από τον προηγούμενο για την Ευρωζώνη.</p>
-<p><strong>EN:</strong> The European Commission has revised Greek 2026 growth down to 1.8% and inflation up to 3.7% amid the protracted energy crisis from the Middle East war. Finance Minister and Eurogroup President Kyriakos Pierrakakis warns each month with the Strait of Hormuz closed will be worse than the last for the eurozone.</p>
-<p><em>Category: economy | Importance: 85/100 | Sentiment: negative</em></p></content>
+    <summary type="text">Η Ευρωπαϊκή Επιτροπή αναθεώρησε προς τα κάτω την πρόβλεψη ανάπτυξης για την Ελλάδα στο 1,8% και προς τα πάνω τον πληθωρισμό στο 3,7%. Ο Πιερρακάκης προειδοποιεί ότι «αν τα Στενά του Ορμούζ δεν ανοίξουν τον Ιούνιο, ο Ιούνιος θα είναι χειρότερος από τον Μάιο».</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:5b571cb3e209</id>
-    <title>Ρούμπιο για Ιράν: Υπάρχει σημαντική πρόοδος – Πιθανές ανακοινώσεις μέσα στη μέρα</title>
-    <link href="https://www.kathimerini.gr/world/564245452/roympio-gia-iran-yparchei-simantiki-proodos-pithanes-anakoinoseis-mesa-sti-mera/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/world/564246205/maziko-skandalo-sexoyalikis-kakopoiisis-paidion-se-scholeia-tis-gallias/</id>
+    <title>Μαζικό σκάνδαλο σεξουαλικής κακοποίησης παιδιών σε σχολεία της Γαλλίας</title>
+    <link href="https://www.kathimerini.gr/world/564246205/maziko-skandalo-sexoyalikis-kakopoiisis-paidion-se-scholeia-tis-gallias/"/>
+    <updated>2026-05-25T10:24:47+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-24T11:08:24+00:00</published>
-    <updated>2026-05-24T11:08:24+00:00</updated>
     <category term="world"/>
-    <summary type="text">US Secretary of State Marco Rubio said from New Delhi that 'significant progress' has been made in talks with Iran to end the war, with an announcement possible within the day. At the same time, an Iranian source told Reuters Tehran has not agreed to surrender its high-enriched uranium stockpile.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Αμερικανός υπουργός Εξωτερικών Μάρκο Ρούμπιο δήλωσε από το Νέο Δελχί ότι σημειώνεται σημαντική πρόοδος στις διαπραγματεύσεις με το Ιράν για το τέλος του πολέμου, με πιθανή ανακοίνωση μέσα στην ημέρα. Παράλληλα, ιρανική πηγή ξεκαθάρισε στο Reuters ότι η Τεχεράνη δεν έχει συμφωνήσει να παραδώσει το απόθεμα υψηλού εμπλουτισμού ουρανίου.</p>
-<p><strong>EN:</strong> US Secretary of State Marco Rubio said from New Delhi that 'significant progress' has been made in talks with Iran to end the war, with an announcement possible within the day. At the same time, an Iranian source told Reuters Tehran has not agreed to surrender its high-enriched uranium stockpile.</p>
-<p><em>Category: world | Importance: 80/100 | Sentiment: neutral</em></p></content>
+    <summary type="text">Η γαλλική αστυνομία διερευνά πάνω από 100 καταγγελίες για κακοποίηση, σωματική βία και βιασμό παιδιών —ακόμη και τριών ετών— από επιστάτες σε 84 νηπιαγωγεία, 20 δημοτικά και 10 παιδικούς σταθμούς του Παρισιού. Ομάδες γονέων καταγγέλλουν ότι παλεύουν επί χρόνια για να ληφθούν σοβαρά υπόψη οι καταγγελίες.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:ec258c4d9342</id>
-    <title>Μητσοτάκης: Παράταση στο «Σπίτι μου ΙΙ» έως το τέλος Αυγούστου – Τι είπε για χωροταξικό και ΚΥΣΕΑ</title>
-    <link href="https://www.kathimerini.gr/politics/564245446/mitsotakis-paratasi-sto-spiti-moy-ii-eos-to-telos-aygoystoy-ti-eipe-gia-chorotaxiko-kai-kysea/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/economy/international/564245974/ypochorisi-5-stis-diethneis-times-toy-petrelaioy/</id>
+    <title>Υποχώρηση 5% στις διεθνείς τιμές του πετρελαίου</title>
+    <link href="https://www.kathimerini.gr/economy/international/564245974/ypochorisi-5-stis-diethneis-times-toy-petrelaioy/"/>
+    <updated>2026-05-25T06:52:53+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-24T10:45:32+00:00</published>
-    <updated>2026-05-24T10:45:32+00:00</updated>
+    <category term="economy"/>
+    <summary type="text">Πτώση 5% στις διεθνείς τιμές πετρελαίου στις πρωινές ασιατικές αγορές της Δευτέρας, εν αναμονή συμφωνίας ΗΠΑ-Ιράν. Το Brent υποχώρησε στα 98,22 δολάρια το βαρέλι και το WTI στα 91,57 δολάρια, παρά τις δηλώσεις του Τραμπ που μετριάζουν προσδοκίες.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564243799/to-nomoschedio-gia-to-aigaio-kai-o-fovos-toy-israil/</id>
+    <title>Το νομοσχέδιο για το Αιγαίο και ο φόβος του Ισραήλ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564243799/to-nomoschedio-gia-to-aigaio-kai-o-fovos-toy-israil/"/>
+    <updated>2026-05-24T19:16:08+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
     <category term="politics"/>
-    <summary type="text">In his long Sunday post, Prime Minister Kyriakos Mitsotakis announces an extension of the 'My Home II' housing programme to end-August for already approved applications, with national funding via the Hellenic Development Bank. He also addresses the spatial-planning bill for tourism and upcoming KYSEA sessions on defence and energy security.</summary>
-    <content type="html"><p><strong>EL:</strong> Σε εκτενή κυριακάτικη ανάρτηση, ο πρωθυπουργός Κυριάκος Μητσοτάκης ανακοινώνει παράταση του προγράμματος «Σπίτι μου ΙΙ» έως το τέλος Αυγούστου για ήδη εγκεκριμένες αιτήσεις, με χρηματοδότηση από εθνικούς πόρους μέσω της Ελληνικής Αναπτυξιακής Τράπεζας. Παράλληλα κάνει αναφορά στο νομοσχέδιο για τον χωροταξικό σχεδιασμό του τουρισμού και στις προσεχείς συνεδριάσεις ΚΥΣΕΑ για άμυνα και ενεργειακή ασφάλεια.</p>
-<p><strong>EN:</strong> In his long Sunday post, Prime Minister Kyriakos Mitsotakis announces an extension of the 'My Home II' housing programme to end-August for already approved applications, with national funding via the Hellenic Development Bank. He also addresses the spatial-planning bill for tourism and upcoming KYSEA sessions on defence and energy security.</p>
-<p><em>Category: politics | Importance: 78/100 | Sentiment: neutral</em></p></content>
+    <summary type="text">Ανάλυση του Κωνσταντίνου Φίλη για το επικείμενο τουρκικό νομοσχέδιο που κωδικοποιεί το δόγμα της «Γαλάζιας Πατρίδας» και τη συνεπακόλουθη ένταση. Σε προεκλογική περίοδο και Ελλάδα και Τουρκία, οι δύο ηγέτες θα είναι λιγότερο διαλλακτικοί, ενώ ο Ερντογάν ανησυχεί για τη στρατηγική συνεργασία Ελλάδας-Ισραήλ.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:28b4d21042db</id>
-    <title>Ιράν: Τι λέει η Τεχεράνη για τις διαπραγματεύσεις εκεχειρίας</title>
-    <link href="https://www.kathimerini.gr/world/564245428/iran-ti-leei-i-techerani-gia-tis-diapragmateyseis-ekecheirias/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/society/564246187/opekepe-20-nees-syllipseis-stin-kriti-pano-apo-3-ekat-ta-paranoma-kerdi-tis-organosis/</id>
+    <title>ΟΠΕΚΕΠΕ: 20 νέες συλλήψεις στην Κρήτη – Πάνω από 2,5 εκατ. τα παράνομα κέρδη της οργάνωσης</title>
+    <link href="https://www.kathimerini.gr/society/564246187/opekepe-20-nees-syllipseis-stin-kriti-pano-apo-3-ekat-ta-paranoma-kerdi-tis-organosis/"/>
+    <updated>2026-05-25T10:21:30+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <category term="society"/>
+    <summary type="text">Σε εξέλιξη μεγάλη επιχείρηση της ΕΛ.ΑΣ. στην Κρήτη με 20 συλλήψεις για παράνομες επιδοτήσεις ΟΠΕΚΕΠΕ που ξεπερνούν τα 2,5 εκατ. ευρώ από το 2019. Στο επίκεντρο λογιστικό γραφείο στο Ρέθυμνο, με συνεργασία Κέντρων Υποβολής Δηλώσεων και ψευδείς μισθώσεις αγροτεμαχίων. Συνολικά εμπλέκονται περίπου 90 άτομα.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564246079/chanei-o-tramp-ton-polemo-sto-iran-piesi-palinodies-kai-i-diexodos-tis-koyvas/</id>
+    <title>Χάνει ο Τραμπ τον πόλεμο στο Ιράν; Πίεση, παλινωδίες και η διέξοδος της… Κούβας</title>
+    <link href="https://www.kathimerini.gr/world/564246079/chanei-o-tramp-ton-polemo-sto-iran-piesi-palinodies-kai-i-diexodos-tis-koyvas/"/>
+    <updated>2026-05-25T09:40:36+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-24T09:56:09+00:00</published>
-    <updated>2026-05-24T09:56:09+00:00</updated>
     <category term="world"/>
-    <summary type="text">Iranian news agency Tasnim reports a possible US-Iran memorandum of understanding would end the war on all fronts and suspend sanctions on Iranian oil during talks — with 30 days for arrangements on the Strait of Hormuz and 60 days for nuclear discussions.</summary>
-    <content type="html"><p><strong>EL:</strong> Σύμφωνα με το ιρανικό πρακτορείο Tasnim, πιθανό μνημόνιο κατανόησης ΗΠΑ-Ιράν περιλαμβάνει τερματισμό του πολέμου σε όλα τα μέτωπα και αναστολή κυρώσεων για το ιρανικό πετρέλαιο κατά τη διάρκεια των διαπραγματεύσεων, με 30ήμερη περίοδο για το Στενό του Ορμούζ και 60ήμερη για τις συνομιλίες πυρηνικών.</p>
-<p><strong>EN:</strong> Iranian news agency Tasnim reports a possible US-Iran memorandum of understanding would end the war on all fronts and suspend sanctions on Iranian oil during talks — with 30 days for arrangements on the Strait of Hormuz and 60 days for nuclear discussions.</p>
-<p><em>Category: world | Importance: 78/100 | Sentiment: neutral</em></p></content>
+    <summary type="text">Ανάλυση του Reuters: παρά την αμερικανική στρατιωτική υπεροχή και τα σοβαρά πλήγματα στο Ιράν, το θεοκρατικό καθεστώς παραμένει ανέπαφο, ελέγχει τα Στενά του Ορμούζ και αντιστέκεται στις πυρηνικές παραχωρήσεις, βάζοντας ερωτηματικά αν ο Τραμπ χάνει τελικά τον πόλεμο που κερδίζει τακτικά.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:ebad5603ba3d</id>
-    <title>Ο Αλέξης Τσίπρας παρουσίασε τα χρώματα του νέου κόμματος [βίντεο]</title>
-    <link href="https://www.kathimerini.gr/politics/564245398/o-alexis-tsipras-paroysiase-ta-chromata-toy-neoy-kommatos-vinteo/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/society/564241474/alexandros-giotopoylos-anairesi-tis-apofylakisis-zitei-i-eisaggelia-toy-areioy-pagoy/</id>
+    <title>Αλέξανδρος Γιωτόπουλος: Αναίρεση της αποφυλάκισης ζητεί η εισαγγελία του Αρείου Πάγου</title>
+    <link href="https://www.kathimerini.gr/society/564241474/alexandros-giotopoylos-anairesi-tis-apofylakisis-zitei-i-eisaggelia-toy-areioy-pagoy/"/>
+    <updated>2026-05-25T12:16:42+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="society"/>
+    <summary type="text">Η εισαγγελία του Αρείου Πάγου άσκησε αναίρεση κατά της απόφασης αποφυλάκισης του αρχηγού της «17 Νοέμβρη» Αλέξανδρου Γιωτόπουλου, καταδικασμένου σε 17 φορές ισόβια. Η εισαγγελία υποστηρίζει ότι δεν συμπληρώθηκε ο απαιτούμενος χρόνος έκτισης ποινής. Το δικαστικό συμβούλιο θα αποφασίσει εντός του πρώτου δεκαημέρου του Ιουνίου.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/world/564246202/o-vasikos-diamesolavitis-toy-pakistan-stis-synomilies-ipa-iran-vrisketai-sto-pekino-mazi-me-ton-sarif/</id>
+    <title>Ο βασικός διαμεσολαβητής του Πακιστάν στις συνομιλίες ΗΠΑ – Ιράν βρίσκεται στο Πεκίνο μαζί με τον Σαρίφ</title>
+    <link href="https://www.kathimerini.gr/world/564246202/o-vasikos-diamesolavitis-toy-pakistan-stis-synomilies-ipa-iran-vrisketai-sto-pekino-mazi-me-ton-sarif/"/>
+    <updated>2026-05-25T10:17:43+00:00</updated>
     <author><name>Newsroom</name></author>
-    <published>2026-05-24T08:52:35+00:00</published>
-    <updated>2026-05-24T08:52:35+00:00</updated>
-    <category term="politics"/>
-    <summary type="text">Alexis Tsipras unveiled the colours of his new party in a social-media video, holding a Barcelona football and pairing 'the blue of our country with the red of our struggles.' The official launch is set for Tuesday 26 May at Thission in Athens.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Αλέξης Τσίπρας ανακοίνωσε τα χρώματα του νέου του κόμματος με βίντεο στα μέσα κοινωνικής δικτύωσης, κρατώντας μια μπάλα της Μπαρτσελόνα: «το μπλε της πατρίδας μας, το κόκκινο των αγώνων μας». Η επίσημη παρουσίαση του εγχειρήματος έχει προγραμματιστεί για την Τρίτη 26 Μαΐου στο Θησείο.</p>
-<p><strong>EN:</strong> Alexis Tsipras unveiled the colours of his new party in a social-media video, holding a Barcelona football and pairing 'the blue of our country with the red of our struggles.' The official launch is set for Tuesday 26 May at Thission in Athens.</p>
-<p><em>Category: politics | Importance: 72/100 | Sentiment: neutral</em></p></content>
+    <category term="world"/>
+    <summary type="text">Ο αρχηγός του πακιστανικού στρατού Ασίμ Μουνίρ, βασικός διαμεσολαβητής στις συνομιλίες ΗΠΑ-Ιράν, βρίσκεται στο Πεκίνο μαζί με τον πρωθυπουργό Σαρίφ για συνομιλίες με την κινεζική ηγεσία. Η Κίνα δηλώνει ότι θα συνεργαστεί με το Πακιστάν για την αποκατάσταση της ειρήνης στη Μέση Ανατολή.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:ee88f1a1f237</id>
-    <title>Η Μαρία Καρυστιανού και η απελπισία της δημοκρατίας</title>
-    <link href="https://www.kathimerini.gr/opinion/564243280/i-maria-karystianoy-kai-i-apelpisia-tis-dimokratias/" rel="alternate"/>
-    <author><name>Παναγιώτης Λάμψιας</name></author>
-    <published>2026-05-23T20:04:00+00:00</published>
-    <updated>2026-05-23T20:04:00+00:00</updated>
+    <id>https://www.kathimerini.gr/politics/564243736/i-n-d-kai-i-partida-ton-trion/</id>
+    <title>Η Ν.Δ. και η παρτίδα των τριών</title>
+    <link href="https://www.kathimerini.gr/politics/564243736/i-n-d-kai-i-partida-ton-trion/"/>
+    <updated>2026-05-25T07:26:45+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο Σταύρος Παπαντωνίου αναλύει την «παρτίδα των τριών» που αντιμετωπίζει η Νέα Δημοκρατία: τα νέα κόμματα Καρυστιανού, Τσίπρα και Σαμαρά. Δημοσκοπικά ο Τσίπρας εμφανίζει δυναμική δεύτερου κόμματος, ακόμη πριν την επίσημη ίδρυση, αντλώντας από το 17% του 2023 και τμήμα ΠΑΣΟΚ.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/opinion/564243928/ta-irema-nera-kai-oi-oroi-tis-ninemias/</id>
+    <title>Τα «ήρεμα νερά» και οι όροι της νηνεμίας</title>
+    <link href="https://www.kathimerini.gr/opinion/564243928/ta-irema-nera-kai-oi-oroi-tis-ninemias/"/>
+    <updated>2026-05-24T20:13:00+00:00</updated>
+    <author><name>Αλέξης Παπαχελάς</name></author>
     <category term="opinion"/>
-    <summary type="text">Panagiotis Lampsias calls the launch of Karystianou's party 'a symptom of a deep crisis of trust' and 'a dangerous reminder' of how grief can be turned into political demagoguery. He targets the motley crew of conspiracy theorists, anti-vaxxers, pro-Russian nostalgists and far-right hangers-on rallying around her.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Παναγιώτης Λάμψιας χαρακτηρίζει την παρουσίαση του κόμματος Καρυστιανού «σύμπτωμα της βαθιάς κρίσης εμπιστοσύνης» και «επικίνδυνη υπενθύμιση» πώς ο πόνος μπορεί να μετατραπεί σε πολιτική δημαγωγία. Καταγγέλλει το ετερόκλητο σύνολο ψεκασμένων, αντιεμβολιαστών, ρωσόφιλων και ακροδεξιών «ψώνιων» γύρω της.</p>
-<p><strong>EN:</strong> Panagiotis Lampsias calls the launch of Karystianou's party 'a symptom of a deep crisis of trust' and 'a dangerous reminder' of how grief can be turned into political demagoguery. He targets the motley crew of conspiracy theorists, anti-vaxxers, pro-Russian nostalgists and far-right hangers-on rallying around her.</p>
-<p><em>Category: opinion | Importance: 72/100 | Sentiment: negative</em></p></content>
+    <summary type="text">Άρθρο του Αλέξη Παπαχελά για την ένταση στις ελληνοτουρκικές σχέσεις: η Άγκυρα είναι ενοχλημένη από τη συνεργασία Ελλάδας-Ισραήλ και τη δήλωση Μακρόν για το Αιγαίο. Η ελληνική κυβέρνηση ενημερώθηκε από ξένο τηλεγράφημα για το τουρκικό νομοσχέδιο θαλασσίων ζωνών — το κανάλι Γεραπετρίτη-Φιντάν δεν λειτούργησε.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:3198bb38b1bd</id>
-    <title>Το πρόβλημα του πλαφόν</title>
-    <link href="https://www.kathimerini.gr/economy/local/564243487/to-provlima-toy-plafon/" rel="alternate"/>
+    <id>https://www.kathimerini.gr/world/564246355/kalifornia-synagermos-meta-apo-diarroi-se-dexameni-chimikon-maziki-ekkenosi-ypo-ton-kindyno-ekrixis/</id>
+    <title>Καλιφόρνια: Συναγερμός έπειτα από διαρροή σε δεξαμενή χημικών – Μαζική εκκένωση υπό τον κίνδυνο έκρηξης</title>
+    <link href="https://www.kathimerini.gr/world/564246355/kalifornia-synagermos-meta-apo-diarroi-se-dexameni-chimikon-maziki-ekkenosi-ypo-ton-kindyno-ekrixis/"/>
+    <updated>2026-05-25T12:22:06+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Κατάσταση έκτακτης ανάγκης κήρυξε ο κυβερνήτης Καλιφόρνιας Γκάβιν Νιούσομ μετά από διαρροή 7.000 γαλονιών εξαιρετικά τοξικού μεθακρυλικού μεθυλίου στην αεροδιαστημική μονάδα GKN στο Γκάρντεν Γκρόουβ. Περίπου 50.000 κάτοικοι έχουν εκκενώσει υπό τον φόβο έκρηξης.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564243757/o-chartis-sta-dyo-to-neo-eklogiko-topio-sti-voreia-ellada/</id>
+    <title>Ο χάρτης στα δύο: Το νέο εκλογικό τοπίο στη Βόρεια Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/politics/564243757/o-chartis-sta-dyo-to-neo-eklogiko-topio-sti-voreia-ellada/"/>
+    <updated>2026-05-25T09:43:28+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">Ανάλυση της Δώρας Αντωνίου για το πώς τα νέα κόμματα Καρυστιανού, Τσίπρα και Σαμαρά αναδιαμορφώνουν τον εκλογικό χάρτη της Βόρειας Ελλάδας. Δημοσκόπηση στη Θεσσαλονίκη δείχνει διαφορετική δυναμική των τριών σχημάτων έναντι του υπόλοιπου της χώρας.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564244111/fthino-reyma-apo-ellinikes-ape-gia-toys-voylgaroys/</id>
+    <title>Φθηνό ρεύμα από ελληνικές ΑΠΕ για τους Βούλγαρους</title>
+    <link href="https://www.kathimerini.gr/economy/local/564244111/fthino-reyma-apo-ellinikes-ape-gia-toys-voylgaroys/"/>
+    <updated>2026-05-25T08:24:05+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
+    <category term="economy"/>
+    <summary type="text">Παράδοξο της ελληνικής ενεργειακής αγοράς: ενώ η Ελλάδα έχει γίνει η 4η μεγαλύτερη εξαγωγέας ηλεκτρισμού στην Ευρώπη, με 18.000 «πράσινα» μεγαβάτ, η λιανική τιμή παραμένει η ακριβότερη σε όρους αγοραστικής δύναμης. Φθηνό ρεύμα από ΑΠΕ εξάγεται και αποθηκεύεται σε βουλγάρικες μπαταρίες.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/local/564244123/oxyteri-i-stegastiki-krisi-stin-ellada/</id>
+    <title>Οξύτερη η στεγαστική κρίση στην Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/economy/local/564244123/oxyteri-i-stegastiki-krisi-stin-ellada/"/>
+    <updated>2026-05-24T22:30:00+00:00</updated>
+    <author><name>Ειρήνη Χρυσολωρά</name></author>
+    <category term="economy"/>
+    <summary type="text">Ένα στα τέσσερα ελληνικά νοικοκυριά αντιμετωπίζει υπέρογκες δαπάνες στέγης, με το ενοίκιο να απορροφά πάνω από το 60% του μισθού (στοιχεία Eurostat). Ο πρόεδρος του Eurogroup Κυριάκος Πιερρακάκης παρουσίασε στη Λευκωσία καλές πρακτικές Κροατίας-Ισπανίας-Ιρλανδίας για τη στεγαστική κρίση.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/opinion/564243724/apo-ta-tempi-sto-olympion/</id>
+    <title>Από τα Τέμπη στο Ολύμπιον</title>
+    <link href="https://www.kathimerini.gr/opinion/564243724/apo-ta-tempi-sto-olympion/"/>
+    <updated>2026-05-24T20:11:09+00:00</updated>
+    <author><name>Μιχάλης Τσιντσίνης</name></author>
+    <category term="opinion"/>
+    <summary type="text">Άρθρο του Μιχάλη Τσιντσίνη για την πρόσφατη ίδρυση του κόμματος της Μαρίας Καρυστιανού στο «Ολύμπιον» Θεσσαλονίκης. Η συγγραφέας υποστηρίζει ότι το πολιτικό υπερθέαμα συσκότισε το καταστατικό τραύμα των Τεμπών και θεωρεί ότι η Ρωσία οπλοποιεί ανοιχτά τα δίκτυα επιρροής της.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/politics/564246388/mitsotakis-gia-dimografiko-den-einai-mono-oikonomiko-zitima-synechizoyme-tis-paremvaseis/</id>
+    <title>Μητσοτάκης για δημογραφικό: Εξετάζεται το «Σπίτι μου 3» – Συνεχίζουμε τις παρεμβάσεις</title>
+    <link href="https://www.kathimerini.gr/politics/564246388/mitsotakis-gia-dimografiko-den-einai-mono-oikonomiko-zitima-synechizoyme-tis-paremvaseis/"/>
+    <updated>2026-05-25T12:23:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο πρωθυπουργός Κυριάκος Μητσοτάκης μιλώντας στο συνέδριο «Δημογραφικό 2026» χαρακτήρισε την υπογεννητικότητα παγκόσμιο πρόβλημα και ανακοίνωσε ότι εξετάζεται «Σπίτι μου 3». Συνεχίζονται οι παρεμβάσεις στήριξης οικογένειας, μέσω και του υπουργείου Κοινωνικής Συνοχής και Οικογένειας.</summary>
+  </entry>
+  <entry>
+    <id>https://www.kathimerini.gr/economy/564244210/mporoyme-na-vgoyme-alovitoi-apo-tin-krisi/</id>
+    <title>Μπορούμε να βγούμε αλώβητοι από την κρίση;</title>
+    <link href="https://www.kathimerini.gr/economy/564244210/mporoyme-na-vgoyme-alovitoi-apo-tin-krisi/"/>
+    <updated>2026-05-24T22:58:37+00:00</updated>
     <author><name>Νίκος Φιλιππίδης</name></author>
-    <published>2026-05-23T12:45:00+00:00</published>
-    <updated>2026-05-23T12:45:00+00:00</updated>
     <category term="economy"/>
-    <summary type="text">The gross-margin cap imposed from early March is squeezing retailers and petrol stations, forcing layoffs and reduced hours. The government is preparing to extend the cap past June despite the side-effects — similar issues are being reported in other European markets such as the UK.</summary>
-    <content type="html"><p><strong>EL:</strong> Το πλαφόν στο μεικτό περιθώριο κέρδους που επιβλήθηκε από τις αρχές Μαρτίου πλήττει εταιρείες λιανικής και πρατήρια καυσίμων, που οδηγούνται σε συρρίκνωση ή κλείσιμο. Η κυβέρνηση φαίνεται έτοιμη να παρατείνει το μέτρο πέραν του Ιουνίου, παρά τις παρενέργειες — αντίστοιχα προβλήματα καταγράφονται και σε άλλες ευρωπαϊκές χώρες όπως η Μ. Βρετανία.</p>
-<p><strong>EN:</strong> The gross-margin cap imposed from early March is squeezing retailers and petrol stations, forcing layoffs and reduced hours. The government is preparing to extend the cap past June despite the side-effects — similar issues are being reported in other European markets such as the UK.</p>
-<p><em>Category: economy | Importance: 70/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:c3f42ef72e7a</id>
-    <title>Λαϊκιστικός αχταρμάς</title>
-    <link href="https://www.kathimerini.gr/opinion/564243043/laikistikos-achtarmas/" rel="alternate"/>
-    <author><name>Νότης Παπαδόπουλος</name></author>
-    <published>2026-05-23T20:12:00+00:00</published>
-    <updated>2026-05-23T20:12:00+00:00</updated>
-    <category term="opinion"/>
-    <summary type="text">Notis Papadopoulos delivers a scathing review of the launch of Maria Karystianou's new party 'Hope for Democracy,' calling it a 'populist hodgepodge' with anti-bailout rhetoric, pro-Russian leanings and anti-vaccine talk. He acknowledges Karystianou's dignity as a Tempi-victim parent but argues she lacks what's needed to govern.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Νότης Παπαδόπουλος ασκεί σκληρή κριτική στην παρουσίαση του νέου κόμματος της Μαρίας Καρυστιανού «Ελπίδα για τη Δημοκρατία», χαρακτηρίζοντάς το «λαϊκιστικό αχταρμά» με αντιμνημονιακή λογική, φιλορωσικό προσανατολισμό και αντιεμβολιαστική ρητορεία. Αναγνωρίζει την αξιοπρέπεια της Καρυστιανού ως μητέρας θύματος των Τεμπών, αλλά κρίνει πως δεν διαθέτει τις προϋποθέσεις για διακυβέρνηση.</p>
-<p><strong>EN:</strong> Notis Papadopoulos delivers a scathing review of the launch of Maria Karystianou's new party 'Hope for Democracy,' calling it a 'populist hodgepodge' with anti-bailout rhetoric, pro-Russian leanings and anti-vaccine talk. He acknowledges Karystianou's dignity as a Tempi-victim parent but argues she lacks what's needed to govern.</p>
-<p><em>Category: opinion | Importance: 70/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:3b73f18cebf7</id>
-    <title>Τι λέει ο κύκλος μας για εμάς</title>
-    <link href="https://www.kathimerini.gr/opinion/564243130/ti-leei-o-kyklos-mas-gia-emas/" rel="alternate"/>
-    <author><name>Άρης Αλεξανδρής</name></author>
-    <published>2026-05-23T20:07:00+00:00</published>
-    <updated>2026-05-23T20:07:00+00:00</updated>
-    <category term="opinion"/>
-    <summary type="text">Aris Alexandris writes about the figures gravitating around Karystianou's movement — from ex-Niki cadres to pro-Russian voices — arguing that 'the company we keep tells us who we are.' In post-bailout Greece, he says, the left-right axis matters less than the establishment-vs-antiestablishment one.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Άρης Αλεξανδρής γράφει για τις συντροφιές που πλαισιώνουν το κίνημα Καρυστιανού — από πρώην στελέχη της Νίκης μέχρι ρωσόφιλες φιγούρες — και υποστηρίζει ότι «οι φίλοι μας περιγράφουν εύγλωττα ποιοι είμαστε». Στη μεταμνημονιακή Ελλάδα, λέει, ο άξονας Αριστεράς-Δεξιάς υποχωρεί μπροστά στον άξονα συστημικότητας-αντισυστημισμού.</p>
-<p><strong>EN:</strong> Aris Alexandris writes about the figures gravitating around Karystianou's movement — from ex-Niki cadres to pro-Russian voices — arguing that 'the company we keep tells us who we are.' In post-bailout Greece, he says, the left-right axis matters less than the establishment-vs-antiestablishment one.</p>
-<p><em>Category: opinion | Importance: 68/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:d4be44b8beb9</id>
-    <title>Πλοήγηση σε μια εύθραυστη διεθνή οικονομία</title>
-    <link href="https://www.kathimerini.gr/economy/international/564243568/ploigisi-se-mia-eythraysti-diethni-oikonomia/" rel="alternate"/>
-    <author><name>Newsroom</name></author>
-    <published>2026-05-23T12:19:00+00:00</published>
-    <updated>2026-05-23T12:19:00+00:00</updated>
-    <category term="economy"/>
-    <summary type="text">As the conflict in the Strait of Hormuz enters its third month, the gap between equity and bond markets is widening. 10-year and 30-year yields in the US and UK are at or above 5%, while shares of the seven big AI companies keep rallying — a divergence that worries observers.</summary>
-    <content type="html"><p><strong>EL:</strong> Καθώς συμπληρώνεται ο τρίτος μήνας της σύγκρουσης στα Στενά του Ορμούζ, διευρύνεται η απόκλιση μεταξύ μετοχών και ομολόγων. Οι αποδόσεις 10ετών και 30ετών ομολόγων σε ΗΠΑ και Μ. Βρετανία πλησιάζουν ή ξεπερνούν το 5%, ενώ οι μετοχές των επτά μεγάλων εταιρειών τεχνητής νοημοσύνης συνεχίζουν την άνοδό τους.</p>
-<p><strong>EN:</strong> As the conflict in the Strait of Hormuz enters its third month, the gap between equity and bond markets is widening. 10-year and 30-year yields in the US and UK are at or above 5%, while shares of the seven big AI companies keep rallying — a divergence that worries observers.</p>
-<p><em>Category: economy | Importance: 65/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:7987a1fd3933</id>
-    <title>Σε ιδεολογική έρημο</title>
-    <link href="https://www.kathimerini.gr/opinion/564243271/se-ideologiki-erimo/" rel="alternate"/>
-    <author><name>Πάσχος Μανδραβέλης</name></author>
-    <published>2026-05-23T20:10:00+00:00</published>
-    <updated>2026-05-23T20:10:00+00:00</updated>
-    <category term="opinion"/>
-    <summary type="text">Paschos Mandravelis writes about the 'ideological desert' of today's Greek left, which since the 2023 election of Kasselakis as SYRIZA leader appears to have abandoned ideological criteria. He asks on what terms the left will now reconstitute itself, with Tsipras's return on the horizon.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Πάσχος Μανδραβέλης σχολιάζει την «ιδεολογική έρημο» της σύγχρονης ελληνικής Αριστεράς, που από την εποχή της επιλογής Κασσελάκη το 2023 ως αρχηγού του ΣΥΡΙΖΑ φαίνεται να έχει εγκαταλείψει τα ιδεολογικά κριτήρια. Διερωτάται με ποιους όρους πλέον συγκροτείται ο χώρος της Αριστεράς, ενόψει και της επανεμφάνισης Τσίπρα.</p>
-<p><strong>EN:</strong> Paschos Mandravelis writes about the 'ideological desert' of today's Greek left, which since the 2023 election of Kasselakis as SYRIZA leader appears to have abandoned ideological criteria. He asks on what terms the left will now reconstitute itself, with Tsipras's return on the horizon.</p>
-<p><em>Category: opinion | Importance: 65/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:d8a6b673bccc</id>
-    <title>Φεστιβάλ Καννών: Ο Χρυσός Φοίνικας στο «Fjord» του Κριστιάν Μουνγκίου</title>
-    <link href="https://www.kathimerini.gr/culture/564245332/festival-kannon-o-chrysos-foinikas-sto-fjord-toy-kristian-moyngkioy/" rel="alternate"/>
-    <author><name>Newsroom</name></author>
-    <published>2026-05-23T23:36:00+00:00</published>
-    <updated>2026-05-23T23:36:00+00:00</updated>
-    <category term="culture"/>
-    <summary type="text">At the 79th Cannes Film Festival, Romanian director Cristian Mungiu won the Palme d'Or for 'Fjord' — his second after '4 Months, 3 Weeks and 2 Days' (2007). Russian exile Andrei Zvyagintsev took the Grand Prix for 'Minotaur' and called on Putin to end the 'slaughter' in Ukraine.</summary>
-    <content type="html"><p><strong>EL:</strong> Στο 79ο Φεστιβάλ των Καννών, ο Ρουμάνος σκηνοθέτης Κριστιάν Μουνγκίου τιμήθηκε με τον Χρυσό Φοίνικα για το «Fjord» — δεύτερος Χρυσός Φοίνικας στην καριέρα του μετά το «4 μήνες, 3 εβδομάδες και 2 ημέρες» (2007). Ο Ρώσος εξόριστος Αντρέι Ζβιάγκιντσεφ κέρδισε το Μεγάλο Βραβείο για το «Minotaur» και κάλεσε τον Πούτιν να σταματήσει τη «σφαγή» στην Ουκρανία.</p>
-<p><strong>EN:</strong> At the 79th Cannes Film Festival, Romanian director Cristian Mungiu won the Palme d'Or for 'Fjord' — his second after '4 Months, 3 Weeks and 2 Days' (2007). Russian exile Andrei Zvyagintsev took the Grand Prix for 'Minotaur' and called on Putin to end the 'slaughter' in Ukraine.</p>
-<p><em>Category: culture | Importance: 65/100 | Sentiment: positive</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:e12baea4252c</id>
-    <title>ΗΠΑ: Πυροβολισμοί κοντά στον Λευκό Οίκο – Νεκρός ο φερόμενος δράστης</title>
-    <link href="https://www.kathimerini.gr/world/564245341/ipa-pyrovolismoi-konta-ston-leyko-oiko-nekros-o-feromenos-drastis/" rel="alternate"/>
-    <author><name>Newsroom</name></author>
-    <published>2026-05-24T07:13:19+00:00</published>
-    <updated>2026-05-24T07:13:19+00:00</updated>
-    <category term="world"/>
-    <summary type="text">A 21-year-old from Maryland, Naseer Best, was killed by Secret Service gunfire after opening fire near the White House. He had a history of mental illness and the day before had tried to enter the grounds claiming to be 'Jesus Christ.' Trump was inside the building and unhurt.</summary>
-    <content type="html"><p><strong>EL:</strong> Ένας 21χρονος από το Μέριλαντ, ο Ναζίρ Μπεστ, σκοτώθηκε από πυρά της Secret Service αφού άνοιξε πυρ κοντά στον Λευκό Οίκο. Είχε ιστορικό ψυχιατρικών προβλημάτων και την προηγουμένη είχε προσπαθήσει να εισβάλει στον χώρο της προεδρίας ισχυριζόμενος πως ήταν «ο Ιησούς Χριστός». Ο Τραμπ ήταν στο κτίριο, αλλά αλώβητος.</p>
-<p><strong>EN:</strong> A 21-year-old from Maryland, Naseer Best, was killed by Secret Service gunfire after opening fire near the White House. He had a history of mental illness and the day before had tried to enter the grounds claiming to be 'Jesus Christ.' Trump was inside the building and unhurt.</p>
-<p><em>Category: world | Importance: 62/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:7f4838f1388a</id>
-    <title>«Πώς κερδίσαμε τη Eurovision» – Το ελληνικό δίδυμο πίσω από το «Bangaranga» μιλά στην «Κ»</title>
-    <link href="https://www.kathimerini.gr/visual/video/564241372/pos-kerdisame-ti-eurovision-to-elliniko-didymo-piso-apo-to-bangaranga-mila-stin-k/" rel="alternate"/>
-    <author><name>Νίνα Μαρία Πασχαλίδου</name></author>
-    <published>2026-05-23T18:26:54+03:00</published>
-    <updated>2026-05-23T18:26:54+03:00</updated>
-    <category term="culture"/>
-    <summary type="text">In an interview with Kathimerini, Greek duo Dimitris Kontopoulos and Ilias Kokotos talk about 'Bangaranga,' the song with which Bulgaria's Dara won this year's Eurovision — a return to the top of the contest for two writers with a long track record of hits for Greek stars including Remos, Rouvas and Vandi.</summary>
-    <content type="html"><p><strong>EL:</strong> Σε συνέντευξη στην «Κ», το ελληνικό δίδυμο Δημήτρης Κοντόπουλος και Ηλίας Κοκοτός μιλούν για το «Bangaranga», το τραγούδι με το οποίο η Βουλγαρία και η Ντάρα κέρδισαν φέτος τη Γιουροβίζιον — επιστροφή στην κορυφή του διαγωνισμού για δύο δημιουργούς με μακρά ιστορία επιτυχιών με Έλληνες καλλιτέχνες όπως ο Ρέμος, ο Ρουβάς και η Βανδή.</p>
-<p><strong>EN:</strong> In an interview with Kathimerini, Greek duo Dimitris Kontopoulos and Ilias Kokotos talk about 'Bangaranga,' the song with which Bulgaria's Dara won this year's Eurovision — a return to the top of the contest for two writers with a long track record of hits for Greek stars including Remos, Rouvas and Vandi.</p>
-<p><em>Category: culture | Importance: 62/100 | Sentiment: positive</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:58b43fa59179</id>
-    <title>Τζιανπιέρο Πετριλιέρι στην «Κ»: Ατού για μια εταιρεία η ανάπτυξη ταλέντων</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564243577/tzianpiero-petrilieri-stin-k-atoy-gia-mia-etaireia-i-anaptyxi-talenton/" rel="alternate"/>
-    <author><name>Βασίλης Κωστούλας</name></author>
-    <published>2026-05-24T10:54:02+00:00</published>
-    <updated>2026-05-24T10:54:02+00:00</updated>
-    <category term="economy"/>
-    <summary type="text">In an interview with Kathimerini, INSEAD professor Gianpiero Petriglieri argues the main thing keeping an employee at a firm is the chance to grow. Companies that don't take talent development seriously are exposing themselves to risk, especially in the AI era.</summary>
-    <content type="html"><p><strong>EL:</strong> Σε συνέντευξή του στην «Κ» ο καθηγητής του INSEAD Τζιανπιέρο Πετριλιέρι υπογραμμίζει ότι το βασικό κίνητρο παραμονής ενός εργαζομένου σε μια εταιρεία είναι οι ευκαιρίες εξέλιξης. Οι επιχειρήσεις που δεν αντιμετωπίζουν σοβαρά την ανάπτυξη ταλέντων θέτουν τον εαυτό τους σε κίνδυνο, ιδίως στην εποχή της τεχνητής νοημοσύνης.</p>
-<p><strong>EN:</strong> In an interview with Kathimerini, INSEAD professor Gianpiero Petriglieri argues the main thing keeping an employee at a firm is the chance to grow. Companies that don't take talent development seriously are exposing themselves to risk, especially in the AI era.</p>
-<p><em>Category: economy | Importance: 60/100 | Sentiment: neutral</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:c4a36f4740fd</id>
-    <title>Μικρολίμανο: Το προφίλ του 42χρονου «σκληρού ποινικού» και το χρονικό των πυροβολισμών</title>
-    <link href="https://www.kathimerini.gr/society/564244948/mikrolimano-to-profil-toy-42chronoy-skliroy-poinikoy-kai-to-chroniko-ton-pyrovolismon/" rel="alternate"/>
-    <author><name>Newsroom</name></author>
-    <published>2026-05-23T14:38:13+00:00</published>
-    <updated>2026-05-23T14:38:13+00:00</updated>
-    <category term="society"/>
-    <summary type="text">In Mikrolimano harbour, a 42-year-old man with a heavy criminal record was wounded by police gunfire after pulling a gun on officers from the anti-extortion squad. Officers recovered two pistols, a revolver, drugs and six grenades — prompting deployment of the bomb-disposal unit.</summary>
-    <content type="html"><p><strong>EL:</strong> Στο Μικρολίμανο, 42χρονος «σκληρός ποινικός» τραυματίστηκε από πυρά αστυνομικού όταν προέταξε όπλο εναντίον αστυνομικών της Δίωξης Εκβιαστών. Σε σακίδιό του βρέθηκαν δύο πιστόλια, περίστροφο, ποσότητες ναρκωτικών και έξι χειροβομβίδες — γεγονός που οδήγησε σε κινητοποίηση του τμήματος εξουδετέρωσης εκρηκτικών.</p>
-<p><strong>EN:</strong> In Mikrolimano harbour, a 42-year-old man with a heavy criminal record was wounded by police gunfire after pulling a gun on officers from the anti-extortion squad. Officers recovered two pistols, a revolver, drugs and six grenades — prompting deployment of the bomb-disposal unit.</p>
-<p><em>Category: society | Importance: 60/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:a12f56c1c18c</id>
-    <title>Η νομπελίστρια και η ΑΙ</title>
-    <link href="https://www.kathimerini.gr/opinion/564243295/i-nompelistria-kai-i-ai/" rel="alternate"/>
-    <author><name>Θοδωρής Γεωργακόπουλος</name></author>
-    <published>2026-05-23T20:06:00+00:00</published>
-    <updated>2026-05-23T20:06:00+00:00</updated>
-    <category term="opinion"/>
-    <summary type="text">Thodoris Georgakopoulos reacts to Nobel laureate Olga Tokarczuk's admission that she uses AI not just for research but for plot development in her next novel. He raises the question of how to protect literature from 'AI slop' and the example set for younger writers.</summary>
-    <content type="html"><p><strong>EL:</strong> Ο Θοδωρής Γεωργακόπουλος σχολιάζει την παραδοχή της νομπελίστριας Όλγκα Τοκάρτσουκ ότι χρησιμοποιεί τεχνητή νοημοσύνη όχι μόνο για έρευνα αλλά και για στοιχεία πλοκής στο επόμενο μυθιστόρημά της. Σηκώνει το ερώτημα της προστασίας της τέχνης από το «AI slop» και του παραδείγματος που δίνεται σε νέους συγγραφείς.</p>
-<p><strong>EN:</strong> Thodoris Georgakopoulos reacts to Nobel laureate Olga Tokarczuk's admission that she uses AI not just for research but for plot development in her next novel. He raises the question of how to protect literature from 'AI slop' and the example set for younger writers.</p>
-<p><em>Category: opinion | Importance: 60/100 | Sentiment: negative</em></p></content>
-  </entry>
-  <entry>
-    <id>urn:greek-news:ef40d573b800</id>
-    <title>«Γεφύρι της Αρτας» η διώρυγα της Κορίνθου</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564243112/gefyri-tis-artas-i-dioryga-tis-korinthoy/" rel="alternate"/>
-    <author><name>Κώστας Κουκουμάκας</name></author>
-    <published>2026-05-24T12:48:16+00:00</published>
-    <updated>2026-05-24T12:48:16+00:00</updated>
-    <category term="society"/>
-    <summary type="text">A feature on the Corinth Canal, closed for most of the year due to prolonged rehabilitation works after the 2021 landslides. Originally due in 2024, the project keeps slipping and no firm completion date can now be given.</summary>
-    <content type="html"><p><strong>EL:</strong> Ρεπορτάζ για τη διώρυγα της Κορίνθου, η οποία παραμένει κλειστή στη μεγαλύτερη διάρκεια του έτους λόγω παρατεταμένων εργασιών αποκατάστασης μετά τις καταπτώσεις του 2021. Το έργο πρωτοαναμενόταν το 2024, αλλά κανείς πλέον δεν μπορεί να δεσμευτεί για το πότε θα ολοκληρωθεί.</p>
-<p><strong>EN:</strong> A feature on the Corinth Canal, closed for most of the year due to prolonged rehabilitation works after the 2021 landslides. Originally due in 2024, the project keeps slipping and no firm completion date can now be given.</p>
-<p><em>Category: society | Importance: 58/100 | Sentiment: negative</em></p></content>
+    <summary type="text">Ανάλυση του Νίκου Φιλιππίδη για το αν η ελληνική και παγκόσμια οικονομία θα βγει αλώβητη από την ενεργειακή κρίση που προκαλεί ο πόλεμος στον Κόλπο. Όλοι αποφεύγουν μακροχρόνιες δαπάνες όπως στις προηγούμενες κρίσεις, με τη λογική «βλέποντας και κάνοντας».</summary>
   </entry>
 </feed>
