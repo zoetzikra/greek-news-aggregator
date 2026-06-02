@@ -1,0 +1,864 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T10:53:11.780140+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 65 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχείται από τις πολιτικές ανακατατάξεις της αντιπολίτευσης: η αποχώρηση 150 στελεχών και 7 βουλευτών από τη Νέα Αριστερά διαλύει την Κοινοβουλευτική Ομάδα του κόμματος, ως αποτέλεσμα της ίδρυσης της ΕΛ.Α.Σ. από τον Αλέξη Τσίπρα, ενώ νέα δημοσκόπηση τοποθετεί την ΕΛ.Α.Σ. στη δεύτερη θέση και την Ελπίδα για τη Δημοκρατία της Καρυστιανού στην τρίτη. Παράλληλα, ο πρωθυπουργός Μητσοτάκης κατέθεσε την πρόταση της ΝΔ για συνταγματική αναθεώρηση.\n\nΣτην οικονομία, ο πληθωρισμός εκτινάχθηκε στο 5% τον Μάιο εξαιτίας του πολέμου στη Μέση Ανατολή, ο διοικητής της ΤτΕ Στουρνάρας προειδοποιεί ότι η ακριβή στέγη πλήττει το δημογραφικό, και τα Ποσειδώνια 2026 ανοίγουν ως η μεγαλύτερη ναυτιλιακή έκθεση στην ιστορία τους με 2.227 εκθέτες. Νέο επίδομα 150 ευρώ ανά παιδί προβλέπει νομοσχέδιο του Πιερρακάκη.\n\nΣτο διεθνές μέτωπο, νέα μαζική ρωσική επίθεση κατά της Ουκρανίας με 73 πυραύλους και 656 drones άφησε 11 νεκρούς και πάνω από 100 τραυματίες· ο Ζελένσκι ζητά Patriot από τον Τραμπ. Ο αμερικανός υπουργός Εξωτερικών Ρούμπιο καταθέτει στο Κογκρέσο εν μέσω πιέσεων για το αδιέξοδο στο Ιράν, ενώ ο ΟΗΕ προειδοποιεί για επικείμενη επιστροφή του Ελ Νίνιο.\n\nΣτην κοινωνία, νέα γυναικοκτονία στην Καλαμάτα, απόδραση κρατουμένου από τις φυλακές Κορυδαλλού με σύλληψη δύο σωφρονιστικών, και έκτακτη ανάγκη στην Κάρπαθο λόγω λειψυδρίας υπογραμμίζουν τις εγχώριες προκλήσεις, ενώ η δίκη για τα Τέμπη εισέρχεται σε νέα φάση.",
+    "en": "The day was dominated by opposition realignment: the departure of 150 members and 7 MPs from Nea Aristera dissolved the party's parliamentary group as a knock-on of Alexis Tsipras's launch of the new ELAS party. A fresh poll places ELAS second and Maria Karystianou's Hope for Democracy third. In parallel, PM Mitsotakis submitted New Democracy's constitutional revision proposal targeting completion by 2030.\n\nOn the economy, Greek inflation jumped to 5% in May driven by Middle East war pressures, Bank of Greece Governor Stournaras warned that high housing costs are worsening the demographic crisis, and Posidonia 2026 opened as the largest shipping fair in its 60-year history with 2,227 exhibitors. A Finance Ministry bill introduces a new €150 per-child benefit.\n\nInternationally, a massive Russian missile-and-drone barrage against Ukraine killed 11 and wounded over 100, prompting Zelensky to plead with Trump for Patriot missiles. Secretary of State Rubio testifies to Congress amid pressure over the Iran impasse, while the UN warned of an imminent return of El Niño.\n\nDomestically, a new femicide in Kalamata, a prisoner's escape from Korydallos with two guards arrested, and a three-month water-scarcity state of emergency in Karpathos highlight social-policy pressures, while the Tempi rail-disaster trial enters a new phase."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Διάλυση Νέας Αριστεράς και ίδρυση ΕΛ.Α.Σ.",
+        "en": "Nea Aristera collapse and ELAS launch"
+      },
+      "description": {
+        "el": "Η αποχώρηση 150 στελεχών και 7 βουλευτών διαλύει την Κοινοβουλευτική Ομάδα της Νέας Αριστεράς. Άμεση συνέπεια της ίδρυσης του νέου κόμματος ΕΛ.Α.Σ. του Αλέξη Τσίπρα.",
+        "en": "The exit of 150 members and 7 MPs has dissolved Nea Aristera's parliamentary group, a direct consequence of Tsipras's launch of the new ELAS party."
+      },
+      "related_items": [
+        "1f5c693fc3ce",
+        "ee8a6db452d0",
+        "1f9dcfb0b9ba",
+        "af5ee43b78e4",
+        "93db6c27d07b"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Επίθεση στην Ουκρανία και το αδιέξοδο στο Ιράν",
+        "en": "Russian assault on Ukraine and the Iran impasse"
+      },
+      "description": {
+        "el": "Φονική νυχτερινή ρωσική επίθεση στην Ουκρανία με 11 νεκρούς πιέζει τον Ζελένσκι να ζητά Patriot από τον Τραμπ. Παράλληλα, ο Ρούμπιο καταθέτει στο Κογκρέσο για το αδιέξοδο στο Ιράν.",
+        "en": "A lethal overnight Russian attack on Ukraine killed 11 and pushes Zelensky to plead for Patriots from Trump. Meanwhile Rubio testifies to Congress on the four-month Iran war impasse."
+      },
+      "related_items": [
+        "bb840c0c8c4f",
+        "e55fbe7596fc",
+        "b3ae64c27e17",
+        "85040b239523",
+        "960affc3fd12"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Πληθωρισμός, στέγη και δημογραφικό",
+        "en": "Inflation, housing and demographics"
+      },
+      "description": {
+        "el": "Πληθωρισμός 5% στην Ελλάδα τον Μάιο, με τον Στουρνάρα να τονίζει ότι η ακριβή στέγη επιδεινώνει το δημογραφικό. Νέο πακέτο μέτρων του Πιερρακάκη για διαθέσιμο εισόδημα, στέγη και τζόγο.",
+        "en": "Greek inflation hit 5% in May, with Bank of Greece Governor Stournaras warning that costly housing is deepening the demographic crisis. Finance Minister Pierrakakis introduces a package on disposable income, housing and gambling."
+      },
+      "related_items": [
+        "ce4c91596287",
+        "1d1632dfef3e",
+        "3456d16c0ccc",
+        "2545312f76dd",
+        "6c32dda7836d",
+        "7fd44e11569a"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Συνταγματική Αναθεώρηση και ένταση στα ελληνοτουρκικά",
+        "en": "Constitutional revision and rising Greek-Turkish tensions"
+      },
+      "description": {
+        "el": "Ο Μητσοτάκης καταθέτει την πρόταση της ΝΔ για συνταγματική αναθεώρηση, ενώ η Τουρκία επανέρχεται με τη «Γαλάζια Πατρίδα» και δραματική αύξηση παραβιάσεων.",
+        "en": "Mitsotakis submits New Democracy's constitutional revision proposal, while Turkey returns with the 'Blue Homeland' bill and a dramatic spike in airspace and sea violations."
+      },
+      "related_items": [
+        "6eb8dca48f2e",
+        "310143c66f9c"
+      ],
+      "importance": 78
+    }
+  ],
+  "article_count": 65,
+  "categories": {
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "bb840c0c8c4f",
+          "title": "Ουκρανία: 11 νεκροί από ρωσική επίθεση – Χτυπήθηκαν κατοικίες και υποδομές σε πόλεις",
+          "url": "https://www.kathimerini.gr/world/564259939/oykrania-fonikotati-nychterini-epithesi-ton-roson-plittei-katoikies-kai-ypodomes-se-poleis/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T09:59:00+00:00",
+          "importance": 90,
+          "summary": {
+            "el": "11 νεκροί και πάνω από 100 τραυματίες από φονική νυχτερινή ρωσική επίθεση στην Ουκρανία, με 73 πυραύλους και 656 drones που έπληξαν Κίεβο, Χάρκοβο, Ντνίπρο. Επτά νεκροί στη Ντνίπρο. Επλήγησαν κατοικίες και υποδομές, διακοπή ρεύματος σε 140.000 νοικοκυριά. Ένας διασώστης σκοτώθηκε σε «επαναληπτική επίθεση».",
+            "en": "11 dead and over 100 wounded after a deadly Russian overnight attack on Ukraine, with 73 missiles and 656 drones striking Kyiv, Kharkiv and Dnipro. Seven died in Dnipro. Homes and infrastructure were hit, 140,000 households lost power. One rescue worker was killed in a 'double-tap' follow-up strike."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "πυραυλική επίθεση",
+              "Ντνίπρο",
+              "Κίεβο"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "missile attack",
+              "Dnipro",
+              "Kyiv"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "b3ae64c27e17",
+          "title": "ΗΠΑ: Υπό πίεση για τον πόλεμο στο Ιράν ο Ρούμπιο",
+          "url": "https://www.kathimerini.gr/world/564260410/ipa-ypo-piesi-gia-ton-polemo-sto-iran-o-roympio/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T13:33:58+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Υπό πίεση ο Αμερικανός υπουργός Εξωτερικών Μάρκο Ρούμπιο που καταθέτει αυτή την εβδομάδα στο Κογκρέσο για τον πόλεμο στο Ιράν, που μπαίνει στον τέταρτο μήνα. Η κυβέρνηση Τραμπ ζητά περικοπή 30% στις διπλωματικές δαπάνες και αύξηση 50% στις στρατιωτικές. Βουλευτές ζητούν στρατηγική εξόδου.",
+            "en": "US Secretary of State Marco Rubio faces pressure as he testifies to Congress this week on the Iran war, now in its fourth month. The Trump administration is seeking a 30% cut to diplomatic spending and a 50% boost to military outlays. Lawmakers want an exit strategy as fuel-price impacts mount."
+          },
+          "tags": {
+            "el": [
+              "Ρούμπιο",
+              "Ιράν",
+              "Τραμπ",
+              "Κογκρέσο"
+            ],
+            "en": [
+              "Rubio",
+              "Iran",
+              "Trump",
+              "Congress"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e55fbe7596fc",
+          "title": "Ζελένσκι προς Τραμπ: Στείλτε πυραύλους Patriot",
+          "url": "https://www.kathimerini.gr/world/564260308/zelenski-pros-tramp-steilte-pyrayloys-patriot/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T12:30:44+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Ο Ζελένσκι ζητά εκ νέου από τον Τραμπ την αποστολή πυραύλων Patriot, μετά από μία από τις μεγαλύτερες ρωσικές επιθέσεις των τελευταίων μηνών που άφησε 19 νεκρούς. Η Ρωσία εκτόξευσε 73 πυραύλους και 656 drones σε Κίεβο, Ντνίπρο, Ζαπορίζια, Πολτάβα και Χάρκοβο. Τα αποθέματα Patriot εξαντλούνται.",
+            "en": "Zelensky renewed his appeal to Trump for Patriot missiles after one of Russia's largest recent attacks killed 19 people. Russia launched 73 missiles and 656 drones at Kyiv, Dnipro, Zaporizhzhia, Poltava and Kharkiv. Patriot inventories are running out and are considered vital for stopping ballistic missiles."
+          },
+          "tags": {
+            "el": [
+              "Ζελένσκι",
+              "Ουκρανία",
+              "Patriot",
+              "Ρωσία",
+              "Τραμπ"
+            ],
+            "en": [
+              "Zelensky",
+              "Ukraine",
+              "Patriot",
+              "Russia",
+              "Trump"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "85040b239523",
+          "title": "Ο Τραμπ θέλει να τελειώνει με τον πόλεμο. Αλλά τα «αγκάθια» είναι πολλά",
+          "url": "https://www.kathimerini.gr/world/564259993/o-tramp-thelei-na-teleionei-me-ton-polemo-alla-ta-agkathia-einai-polla/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T11:06:45+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Ο Τραμπ βρίσκεται μπλεγμένος στις συνέπειες του «μεγάλου λάθους του πολέμου με το Ιράν» κατά το BBC. Παρά την εκεχειρία της 8ης Απριλίου, οι συνομιλίες με διαμεσολάβηση Πακιστάν και Κατάρ καθυστερούν. Το Ισραήλ απειλεί επίθεση στη Βηρυτό, περιορίζοντας τις επιλογές του Τραμπ. Οι Ιρανοί δείχνουν αποφασισμένοι να αντισταθούν.",
+            "en": "Trump is mired in the consequences of his 'big mistake of going to war with Iran', per the BBC. Despite the April 8 truce and Pakistan- and Qatar-mediated talks, signing a memorandum is proving difficult. Israel threatens strikes on Beirut, narrowing Trump's options. Iran is signaling firm resistance."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Ιράν",
+              "Ισραήλ",
+              "Νετανιάχου",
+              "Μέση Ανατολή"
+            ],
+            "en": [
+              "Trump",
+              "Iran",
+              "Israel",
+              "Netanyahu",
+              "Middle East"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "8157436ae110",
+          "title": "O ΟΗΕ προειδοποίησε για επικείμενη επιστροφή του φαινομένου Ελ Νίνιο",
+          "url": "https://www.kathimerini.gr/world/564260209/o-oie-proeidopoiise-gia-epikeimeni-epistrofi-toy-fainomenoy-el-ninio/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T12:07:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο ΟΗΕ προειδοποιεί για επικείμενη επιστροφή του φαινομένου Ελ Νίνιο, με πιθανότητα 80% πριν τον Σεπτέμβριο και 90% έως τον Νοέμβριο. Ο Γκουτέρες χαρακτηρίζει το φαινόμενο επείγουσα κλιματική προειδοποίηση. Αναμένονται ακραίες βροχοπτώσεις και ξηρασίες σε διάφορες περιοχές του πλανήτη.",
+            "en": "The UN warned of an imminent return of the El Niño phenomenon, with 80% odds before September and 90% by November. Secretary-General Guterres called it an urgent climate alert. Extreme rainfall and droughts are expected across multiple world regions."
+          },
+          "tags": {
+            "el": [
+              "Ελ Νίνιο",
+              "ΟΗΕ",
+              "κλιματική κρίση",
+              "WMO"
+            ],
+            "en": [
+              "El Niño",
+              "UN",
+              "climate crisis",
+              "WMO"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "ce4c91596287",
+          "title": "Eurostat: Πληθωρισμός 5% στην Ελλάδα τον Μάιο – Στο 3,2% στην Ευρωζώνη",
+          "url": "https://www.kathimerini.gr/economy/564260221/eurostat-plithorismos-5-stin-ellada-ton-maio-sto-3-2-stin-eyrozoni/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T12:13:31+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Στο 5% εκτινάχθηκε ο πληθωρισμός στην Ελλάδα τον Μάιο από 4,6% τον Απρίλιο σύμφωνα με τη Eurostat. Στην Ευρωζώνη ανήλθε στο 3,2%. Η Ελλάδα έχει από τους υψηλότερους δείκτες στην Ε.Ε., με μόνο τη Βουλγαρία και Λιθουανία να την ξεπερνούν. Ο πόλεμος στη Μέση Ανατολή πιέζει τις τιμές ενέργειας.",
+            "en": "Greek inflation jumped to 5% in May from 4.6% in April per Eurostat, while eurozone inflation rose to 3.2%. Greece has one of the EU's highest rates, surpassed only by Bulgaria and Lithuania. The Middle East war is driving energy prices higher and the ECB is expected to raise rates in June."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "Eurostat",
+              "ΕΚΤ",
+              "ενέργεια",
+              "Ευρωζώνη"
+            ],
+            "en": [
+              "inflation",
+              "Eurostat",
+              "ECB",
+              "energy",
+              "eurozone"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "1d1632dfef3e",
+          "title": "Γ. Στουρνάρας: Η ακριβή στέγη επιτείνει το δημογραφικό πρόβλημα της Ελλάδος",
+          "url": "https://www.kathimerini.gr/economy/564260143/g-stoyrnaras-i-akrivi-stegi-epiteinei-to-dimografiko-provlima-tis-ellados/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T11:51:43+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο διοικητής της Τράπεζας της Ελλάδος Γιάννης Στουρνάρας προειδοποίησε ότι η ακριβή στέγη επιδεινώνει το δημογραφικό πρόβλημα της Ελλάδος. Μιλώντας στο Συνέδριο της Κεντρικής Τράπεζας της Κροατίας, τόνισε ότι η στεγαστική επισφάλεια αναβάλλει τη δημιουργία οικογένειας. Η αγορά ακινήτων χρηματοδοτείται κυρίως από αποταμιεύσεις και όχι δάνεια.",
+            "en": "Bank of Greece Governor Yannis Stournaras warned that high housing costs are worsening Greece's demographic problem. Speaking at the Croatian Central Bank conference, he said housing insecurity delays family formation among younger generations. The property market is largely funded by savings rather than mortgages."
+          },
+          "tags": {
+            "el": [
+              "Στουρνάρας",
+              "στέγη",
+              "δημογραφικό",
+              "ΤτΕ",
+              "ακίνητα"
+            ],
+            "en": [
+              "Stournaras",
+              "housing",
+              "demographics",
+              "Bank of Greece",
+              "real estate"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3456d16c0ccc",
+          "title": "Υπουργείο Οικονομικών: Τα νέα μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και παράνομο τζόγο",
+          "url": "https://www.kathimerini.gr/economy/564260044/ypoyrgeio-oikonomikon-ta-nea-metra-gia-diathesimo-eisodima-idiotiko-chreos-stegi-kai-paranomo-tzogo/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T11:00:32+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Σε δημόσια διαβούλευση μέχρι τις 15 Ιουνίου το νομοσχέδιο του υπουργείου Οικονομικών με μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και τον παράνομο τζόγο. Περιλαμβάνει ενισχύσεις για οικογένειες και ευάλωτες ομάδες, ρυθμίσεις του εξωδικαστικού μηχανισμού, μέτρα για την ενεργειακή κρίση και ενίσχυση της ΕΕΕΠ κατά του παράνομου τζόγου.",
+            "en": "The Finance Ministry's omnibus bill is open for public consultation until June 15, with measures on disposable income, private debt, housing and illegal gambling. It includes aid for families and vulnerable groups, out-of-court debt settlement reforms, energy-crisis support and stronger anti-illegal-gambling enforcement."
+          },
+          "tags": {
+            "el": [
+              "νομοσχέδιο",
+              "Οικονομικών",
+              "διαθέσιμο εισόδημα",
+              "τζόγος",
+              "ενεργειακή κρίση"
+            ],
+            "en": [
+              "draft bill",
+              "Finance Ministry",
+              "disposable income",
+              "gambling",
+              "energy crisis"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "2545312f76dd",
+          "title": "Επίδομα 150 ευρώ για κάθε παιδί: Ποιοι, πώς και πόσα θα λάβουν φέτος",
+          "url": "https://www.kathimerini.gr/economy/564260377/epidoma-150-eyro-gia-kathe-paidi-poioi-pos-kai-posa-tha-lavoyn-fetos/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T13:19:30+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Νέο επίδομα 150 ευρώ ανά εξαρτώμενο τέκνο προβλέπει σχέδιο νόμου του Πιερρακάκη, με καταβολή έως 30 Ιουνίου. Χιλιάδες νοικοκυριά θα λάβουν 300, 450 ευρώ ή περισσότερα ανάλογα με τα παιδιά τους. Η ενίσχυση θα πιστωθεί αυτόματα μέσω myAADE βάσει εισοδηματικών κριτηρίων του φορολογικού έτους 2024.",
+            "en": "A new €150 benefit per dependent child is included in Finance Minister Pierrakakis's draft bill, payable by June 30. Thousands of households will receive €300, €450 or more depending on number of children. The aid will be credited automatically via myAADE based on 2024 income criteria."
+          },
+          "tags": {
+            "el": [
+              "επίδομα τέκνου",
+              "Πιερρακάκης",
+              "myAADE",
+              "οικογένειες"
+            ],
+            "en": [
+              "child benefit",
+              "Pierrakakis",
+              "myAADE",
+              "families"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ea124bb4966f",
+          "title": "Η ναυτιλία αναζητεί «ρότα» για το μέλλον εν μέσω πολέμων",
+          "url": "https://www.kathimerini.gr/economy/564257554/i-naytilia-anazitei-rota-gia-to-mellon-en-meso-polemon/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T07:49:47+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Άνοιξαν τα Ποσειδώνια 2026 στην Αθήνα, η μεγαλύτερη ναυτιλιακή έκθεση στην ιστορία του θεσμού με 2.227 εκθέτες από 83 χώρες. Αναμένονται 40.000 επαγγελματίες και κύκλος εργασιών άνω των 100 εκατ. ευρώ. Ο ελληνόκτητος στόλος ελέγχει το 20% της παγκόσμιας χωρητικότητας. Πρώτη ομιλία από τον πρωθυπουργό Μητσοτάκη.",
+            "en": "Posidonia 2026 opened in Athens — the largest shipping fair in the event's history, with 2,227 exhibitors from 83 countries. 40,000 professionals are expected, generating over €100m in business. Greek-owned shipping controls 20% of global tonnage. PM Mitsotakis delivered the opening address."
+          },
+          "tags": {
+            "el": [
+              "Ποσειδώνια",
+              "ναυτιλία",
+              "Μητσοτάκης",
+              "εφοπλιστές"
+            ],
+            "en": [
+              "Posidonia",
+              "shipping",
+              "Mitsotakis",
+              "shipowners"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "f18d81b67d19",
+          "title": "Γυναικοκτονία στην Καλαμάτα: Στον ανακριτή σήμερα ο δράστης",
+          "url": "https://www.kathimerini.gr/society/564259804/gynaikoktonia-stin-kalamata-ston-anakriti-simera-o-drastis/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T08:12:56+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Στον ανακριτή ο 41χρονος δράστης της νέας γυναικοκτονίας στην Καλαμάτα, που ομολόγησε τη δολοφονία της 39χρονης συζύγου του. Παρά τον αρχικό ισχυρισμό αυτοτραυματισμού, οι μαρτυρίες και τα ευρήματα τραυμάτων αναιρούν τους ισχυρισμούς άμυνας. Δεν είχε γίνει επίσημη καταγγελία ενδοοικογενειακής βίας.",
+            "en": "The 41-year-old confessed perpetrator of a new femicide in Kalamata appeared before the investigator after admitting he killed his 39-year-old wife. Despite his initial self-injury claim, witness testimony and the multiple stab wounds contradict his self-defense story. No prior domestic-violence complaint had been filed."
+          },
+          "tags": {
+            "el": [
+              "γυναικοκτονία",
+              "Καλαμάτα",
+              "ενδοοικογενειακή βία"
+            ],
+            "en": [
+              "femicide",
+              "Kalamata",
+              "domestic violence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "92f55049b02f",
+          "title": "Ενωση Δικαστών κατά ΗΠΑ για Γιωτόπουλο: Επιχειρούν να παρέμβουν ανοιχτά στην ελληνική Δικαιοσύνη",
+          "url": "https://www.kathimerini.gr/society/564259945/enosi-dikaston-kata-ipa-gia-giotopoylo-epicheiroyn-na-paremvoyn-anoichta-stin-elliniki-dikaiosyni/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T09:35:19+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Η Ένωση Δικαστών και Εισαγγελέων χαρακτηρίζει ευθεία επιχείρηση παρέμβασης στην ελληνική Δικαιοσύνη την ανακοίνωση του Στέιτ Ντιπάρτμεντ που καλεί την Ελλάδα να επιστρέψει στη φυλακή τον Αλέξανδρο Γιωτόπουλο, αρχηγό της 17 Νοέμβρη. Επικαλείται τη διάκριση των εξουσιών και ζητά τη στήριξη του πολιτικού κόσμου.",
+            "en": "The Greek Judges and Prosecutors Union called the US State Department statement urging Greece to return 17 November leader Alexandros Giotopoulos to prison a 'direct interference' in Greek justice. It invoked the separation of powers and called for political support for the judiciary."
+          },
+          "tags": {
+            "el": [
+              "Γιωτόπουλος",
+              "17 Νοέμβρη",
+              "Στέιτ Ντιπάρτμεντ",
+              "δικαιοσύνη"
+            ],
+            "en": [
+              "Giotopoulos",
+              "17 November",
+              "State Department",
+              "judiciary"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "63c3eed9fc0e",
+          "title": "Απόδραση από τον Κορυδαλλό: Συνελήφθησαν δύο σωφρονιστικοί υπάλληλοι",
+          "url": "https://www.kathimerini.gr/society/564260362/apodrasi-apo-ton-korydallo-synelifthisan-dyo-sofronistikoi-ypalliloi/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T13:16:55+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Συνελήφθησαν δύο σωφρονιστικοί υπάλληλοι των φυλακών Κορυδαλλού για απελευθέρωση κρατουμένου, μετά την απόδραση του 48χρονου το πρωί της Τρίτης. Σε εξέλιξη πειθαρχική διαδικασία και ανθρωποκυνηγητό. Ο κρατούμενος είχε τρεις τακτικές άδειες χωρίς πρόβλημα και επρόκειτο να αποφυλακιστεί το 2031.",
+            "en": "Two Korydallos prison guards have been arrested for facilitating a prisoner's escape after a 48-year-old inmate fled Tuesday morning. Disciplinary proceedings are underway and a manhunt is ongoing. The prisoner had completed three regular furloughs and was due for release in July 2031."
+          },
+          "tags": {
+            "el": [
+              "Κορυδαλλός",
+              "απόδραση",
+              "σωφρονιστικοί",
+              "ΕΛΑΣ"
+            ],
+            "en": [
+              "Korydallos",
+              "prison escape",
+              "guards",
+              "Greek Police"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "de7ead23cbfc",
+          "title": "Δίκη για τα Τέμπη: Να γίνουν δεκτές οι δηλώσεις παράστασης των Δικηγορικών Συλλόγων και να απορριφθεί του Δημοσίου, προτείνει η εισαγγελέας",
+          "url": "https://www.kathimerini.gr/society/564260104/diki-gia-ta-tempi-na-ginoyn-dektes-oi-diloseis-parastasis-ton-dikigorikon-syllogon-kai-na-aporrifthei-toy-dimosioy-proteinei-i-eisaggeleas/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T11:16:16+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Στη δίκη για τα Τέμπη, η εισαγγελέας πρότεινε να γίνουν δεκτές οι δηλώσεις παράστασης των Δικηγορικών Συλλόγων μόνο για το αδίκημα της διατάραξης της ασφάλειας συγκοινωνιών και να απορριφθεί η δήλωση του ελληνικού Δημοσίου. Απορριπτική και η πρόταση για το σωματείο μηχανοδηγών.",
+            "en": "In the Tempi rail-disaster trial, the prosecutor recommended that Bar Association statements be accepted only for the disturbance-of-transit-safety charge, while rejecting the Greek State's request to join the prosecution. The train drivers' union request was also rejected."
+          },
+          "tags": {
+            "el": [
+              "Τέμπη",
+              "δίκη",
+              "δικηγορικοί σύλλογοι",
+              "Δημόσιο"
+            ],
+            "en": [
+              "Tempi",
+              "trial",
+              "Bar Associations",
+              "State"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "c345613655e6",
+          "title": "Κάρπαθος: Σε καθεστώς έκτακτης ανάγκης για τρεις μήνες λόγω λειψυδρίας",
+          "url": "https://www.kathimerini.gr/society/564260278/karpathos-se-kathestos-ektaktis-anagkis-gia-treis-mines-logo-leipsydrias/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T12:22:35+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Σε καθεστώς έκτακτης ανάγκης για τρεις μήνες κηρύσσεται η Κάρπαθος λόγω λειψυδρίας, με απόφαση του υπουργού Περιβάλλοντος Σταύρου Παπασταύρου. Η απόφαση επιτρέπει επίσπευση διαδικασιών και ενεργοποίηση μηχανισμών για ενίσχυση της υδροδότησης λόγω παρατεταμένης ανομβρίας και θερινής περιόδου.",
+            "en": "Karpathos has been placed under a three-month state of emergency due to water scarcity by Environment Minister Stavros Papastavrou. The declaration enables expedited procedures and special mechanisms to bolster water supply after prolonged drought and ahead of peak tourist season."
+          },
+          "tags": {
+            "el": [
+              "Κάρπαθος",
+              "λειψυδρία",
+              "ξηρασία",
+              "Παπασταύρου"
+            ],
+            "en": [
+              "Karpathos",
+              "water scarcity",
+              "drought",
+              "Papastavrou"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "6afb6e7aecff",
+          "title": "Σε ποιον ανήκει η Ομόνοια;",
+          "url": "https://www.kathimerini.gr/culture/564255919/se-poion-anikei-i-omonoia/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T11:56:28+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Το Εθνικό Θέατρο σε καθεστώς σοκ μετά την ακύρωση του τριήμερου εκδηλώσεων για την Ομόνοια του Πρόδρομου Τσινικόρη, λόγω διαδικτυακού μπούλινγκ. Η αντίδραση πυροδοτήθηκε από τη συμμετοχή ισραηλινής καταγωγής επιχειρηματία του τουρισμού. Η παράσταση «Ομόνοια» στις 21 Οκτωβρίου παραμένει στο πρόγραμμα.",
+            "en": "The National Theatre is in shock after cancelling the three-day Omonia events curated by director Prodromos Tsinikoris, following online bullying. The backlash was triggered by the inclusion of an Israeli-born tourism entrepreneur. The full 'Omonia' production scheduled for October 21 remains on the program."
+          },
+          "tags": {
+            "el": [
+              "Εθνικό Θέατρο",
+              "Ομόνοια",
+              "Τσινικόρης",
+              "ακύρωση"
+            ],
+            "en": [
+              "National Theatre",
+              "Omonia",
+              "Tsinikoris",
+              "cancellation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "dcea7fa73f13",
+          "title": "Τα λίμιτ-απ της ελληνικής τέχνης",
+          "url": "https://www.kathimerini.gr/culture/564257815/ta-limit-ap-tis-ellinikis-technis/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T22:14:41+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Αξιοσημείωτα αποτελέσματα στις δημοπρασίες ελληνικής τέχνης τον Μάιο: ο πίνακας «Ποίηση (Ευαγγελισμός)» του Κωνσταντίνου Παρθένη έγινε το ακριβότερο δημοπρατηθέν ελληνικό έργο του 20ού αιώνα. Έργο του Κουνέλλη πωλήθηκε στα 180.000 ευρώ, του Τσαρούχη στα 120.000. Τα κορυφαία έργα βρίσκουν αγοραστές ανεξάρτητα από την οικονομική συγκυρία.",
+            "en": "Notable results at May's Greek art auctions: Konstantinos Parthenis's painting 'Poetry (Annunciation)' became the highest-priced sold Greek work of the 20th century. A Kounellis piece fetched €180,000 and a Tsarouchis €120,000. Museum-quality works find buyers regardless of economic conditions."
+          },
+          "tags": {
+            "el": [
+              "τέχνη",
+              "δημοπρασίες",
+              "Παρθένης",
+              "Κουνέλλης"
+            ],
+            "en": [
+              "art",
+              "auctions",
+              "Parthenis",
+              "Kounellis"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "efd4e0a7054a",
+          "title": "Jay-Z: Πυρά κατά της Νίκι Μινάζ για την υποστήριξή της στον Ντόναλντ Τραμπ",
+          "url": "https://www.kathimerini.gr/culture/music/564260356/jay-z-pyra-kata-tis-niki-minaz-gia-tin-ypostirixi-tis-ston-ntonalnt-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T13:11:06+00:00",
+          "importance": 40,
+          "summary": {
+            "el": "Ο Jay-Z επέκρινε επί σκηνής τη Νίκι Μινάζ για την υποστήριξή της στον Ντόναλντ Τραμπ, στο Φεστιβάλ Roots Picnic στη Φιλαδέλφεια. Με νέα τραγούδια αναφέρθηκε επίσης στις κατηγορίες κατά του συζύγου της Κένεθ Πέτι. Στόχοι του και οι Ye, Drake, Tory Lanez.",
+            "en": "Jay-Z criticized Nicki Minaj on stage at the Roots Picnic Festival in Philadelphia over her recent MAGA endorsement. New tracks also referenced rape charges against her husband Kenneth Petty. Ye, Drake and Tory Lanez were also targets."
+          },
+          "tags": {
+            "el": [
+              "Jay-Z",
+              "Νίκι Μινάζ",
+              "ραπ",
+              "MAGA"
+            ],
+            "en": [
+              "Jay-Z",
+              "Nicki Minaj",
+              "rap",
+              "MAGA"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d6fd70b0e9c8",
+          "title": "Μια αναστοχαστική εξοικείωση με τον θάνατο",
+          "url": "https://www.kathimerini.gr/culture/564256147/mia-anastochastiki-exoikeiosi-me-ton-thanato/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T23:01:34+00:00",
+          "importance": 35,
+          "summary": {
+            "el": "Κριτική της Μαρίας Τοπαλή για τη συλλογή «Αβέρνο» (2006) της Νομπελίστα Λουίζ Γκλικ, σε δίγλωσση έκδοση και μετάφραση Χάρη Βλαβιανού. Η ποίηση της Γκλικ συνιστά οργανωμένα σύνολα με γεωμετρία και συνοχή, καταπιάνεται με τη μεγάλη ύπαρξη. Στο «Αβέρνο» η εξοικείωση με τον θάνατο μέσω του μύθου Δήμητρας-Περσεφόνης.",
+            "en": "Maria Topali reviews 'Averno' (2006) by Nobel laureate Louise Glück, in a bilingual edition translated by Haris Vlavianos. Glück's poetry forms coherent wholes that engage with existential themes. In Averno, the speaker reflects on impending death through the Demeter–Persephone myth."
+          },
+          "tags": {
+            "el": [
+              "Γκλικ",
+              "ποίηση",
+              "Βλαβιανός",
+              "Νομπέλ"
+            ],
+            "en": [
+              "Glück",
+              "poetry",
+              "Vlavianos",
+              "Nobel"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "a194dfc33107",
+          "title": "Οι Thin Lizzy και η αθάνατη δισκάρα τους",
+          "url": "https://www.kathimerini.gr/culture/564255325/oi-thin-lizzy-kai-i-athanati-diskara-toys/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T08:00:44+00:00",
+          "importance": 30,
+          "summary": {
+            "el": "Αφιέρωμα για την επέτειο του «Live and Dangerous» των Thin Lizzy, που κυκλοφόρησε στις 2 Ιουνίου 1978 και έμεινε στα UK album charts για 62 εβδομάδες. Παραγωγή του Tony Visconti σε εμφανίσεις του 1976-77 στο Λονδίνο, Τορόντο και Φιλαδέλφεια — η τελευταία συμμετοχή του Brian Robertson.",
+            "en": "Tribute to the anniversary of Thin Lizzy's 'Live and Dangerous', released June 2, 1978 and staying on UK album charts for 62 weeks. Produced by Tony Visconti from 1976–77 shows in London, Toronto and Philadelphia — Brian Robertson's final outing with the band."
+          },
+          "tags": {
+            "el": [
+              "Thin Lizzy",
+              "ροκ",
+              "μουσική",
+              "live album"
+            ],
+            "en": [
+              "Thin Lizzy",
+              "rock",
+              "music",
+              "live album"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "310143c66f9c",
+          "title": "Τεκμήρια για «νάρκες» στα «ήρεμα νερά»",
+          "url": "https://www.kathimerini.gr/visual/infographics/564256993/tekmiria-gia-narkes-sta-irema-nera/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T12:11:09+03:00",
+          "importance": 82,
+          "summary": {
+            "el": "Τα στοιχεία των Ενόπλων Δυνάμεων δείχνουν επαναφορά εντάσεων στα ελληνοτουρκικά μετά την περίοδο των «ήρεμων νερών», με δραματική αύξηση των παραβιάσεων. Οι παραβιάσεις του Εθνικού Εναέριου Χώρου εκτινάχθηκαν από 8 το 2024 σε 225 το 2025, ενώ μόνο στο α' τετράμηνο 2026 έχουν καταγραφεί 423 παραβιάσεις χωρικών υδάτων. Η Άγκυρα προωθεί νομοσχέδιο «Γαλάζιας Πατρίδας».",
+            "en": "Greek Armed Forces data show a return of Greek-Turkish tensions after the 'calm waters' period, with sharp increases in violations. National Airspace violations jumped from 8 in 2024 to 225 in 2025, while the first four months of 2026 already saw 423 territorial water incursions. Ankara is advancing a 'Blue Homeland' bill."
+          },
+          "tags": {
+            "el": [
+              "ελληνοτουρκικά",
+              "Γαλάζια Πατρίδα",
+              "παραβιάσεις",
+              "Αιγαίο",
+              "Τουρκία"
+            ],
+            "en": [
+              "Greek-Turkish relations",
+              "Blue Homeland",
+              "violations",
+              "Aegean",
+              "Turkey"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6eb8dca48f2e",
+          "title": "Μητσοτάκης για συνταγματική αναθεώρηση: Κατατίθεται η πρόταση της ΝΔ",
+          "url": "https://www.kathimerini.gr/politics/564260347/mitsotakis-gia-syntagmatiki-anatheorisi-katatethike-i-protasi-tis-nd/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T13:09:56+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης ανακοίνωσε την κατάθεση της πρότασης της ΝΔ για συνταγματική αναθεώρηση, με στόχο την υπογραφή έως το 2030. Η πρόταση περιλαμβάνει αλλαγές στην ευθύνη υπουργών, ίδρυση ιδιωτικών πανεπιστημίων, επέκταση επιστολικής ψήφου και προστασία από αναδρομικούς φόρους. Καλεί τα κόμματα να καταθέσουν θέσεις αντί να απέχουν.",
+            "en": "PM Kyriakos Mitsotakis announced the submission of New Democracy's constitutional revision proposal, targeting completion by 2030. The plan includes changes to ministerial accountability, the legalization of private universities, expansion of postal voting, and protection from retroactive taxes. He called on opposition parties to submit their positions rather than abstain."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "Συνταγματική Αναθεώρηση",
+              "ΝΔ",
+              "ιδιωτικά πανεπιστήμια",
+              "μεταρρυθμίσεις"
+            ],
+            "en": [
+              "Mitsotakis",
+              "constitutional revision",
+              "New Democracy",
+              "private universities",
+              "reforms"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1f9dcfb0b9ba",
+          "title": "Νέα Αριστερά: Διαλύεται η Κ.Ο. – Ανεξαρτητοποιήθηκαν 7 βουλευτές, αποχώρησαν 143 στελέχη",
+          "url": "https://www.kathimerini.gr/politics/564259801/nea-aristera-dialythike-i-k-o-anexartopoiithikan-7-voyleytes-apochorisan-143-stelechi/",
+          "source": "Kathimerini",
+          "published": "2026-06-02T10:44:06+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Διαλύεται η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς καθώς 7 βουλευτές ανεξαρτητοποιήθηκαν και 143 στελέχη αποχώρησαν, υπογράφοντας κοινή επιστολή. Παραμένουν μόνο τέσσερις βουλευτές: Τσακαλώτος, Δρίτσας, Αναγνωστοπούλου και Πέρκα. Η αποχώρηση συνδέεται με την ίδρυση της ΕΛ.Α.Σ. από τον Τσίπρα.",
+            "en": "Nea Aristera's parliamentary group dissolved as 7 MPs went independent and 143 members signed a joint departure letter. Only four MPs remain: Tsakalotos, Dritsas, Anagnostopoulou and Perka. The exits are linked to Tsipras's launch of the new ELAS party."
+          },
+          "tags": {
+            "el": [
+              "Νέα Αριστερά",
+              "διάλυση",
+              "Τσίπρας",
+              "ΕΛΑΣ",
+              "βουλευτές"
+            ],
+            "en": [
+              "Nea Aristera",
+              "dissolution",
+              "Tsipras",
+              "ELAS",
+              "MPs"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "92f5d7ffde7d",
+          "title": "Πίσω από τη φόρμουλα για «μισή ένταξη» της Ουκρανίας",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564257065/piso-apo-ti-formoyla-gia-misi-entaxi-tis-oykranias/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T21:47:35+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Ανταπόκριση από Βρυξέλλες για τις νέες ιδέες του Γερμανού καγκελαρίου Φρίντριχ Μερτς για «συνδεδεμένη ιδιότητα μέλους» της Ουκρανίας στην Ε.Ε.. Στόχος είναι η στενότερη σύνδεση χωρίς να μπλοκάρει η ένταξη από εθνικά κοινοβούλια. Το 2027 που επιδιώκει το Κίεβο δεν θεωρείται ρεαλιστικό από το Βερολίνο.",
+            "en": "Brussels dispatch on German Chancellor Friedrich Merz's idea of 'associate membership' for Ukraine in the EU. The aim is closer ties without national parliaments blocking full accession. Berlin does not view Kyiv's 2027 target as realistic."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "ΕΕ",
+              "Μερτς",
+              "διεύρυνση",
+              "συνδεδεμένη ιδιότητα μέλους"
+            ],
+            "en": [
+              "Ukraine",
+              "EU",
+              "Merz",
+              "enlargement",
+              "associate membership"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "93db6c27d07b",
+          "title": "Δημοσκόπηση: Πώς αξιολογούν οι πολίτες τις πρώτες εμφανίσεις Τσίπρα και Καρυστιανού",
+          "url": "https://www.kathimerini.gr/politics/564259636/dimoskopisi-pos-krinoyn-oi-polites-tis-protes-emfaniseis-tsipra-kai-karystianoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T20:34:26+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Δημοσκόπηση Opinion Poll για το Action24 δείχνει τη ΝΔ πρώτη με 25,6% στην πρόθεση ψήφου, ακολουθούν η ΕΛΑΣ του Τσίπρα (13%), η Ελπίδα για τη Δημοκρατία της Καρυστιανού (10,5%) και το ΠΑΣΟΚ τέταρτο (8,8%). Στην εκτίμηση ψήφου η ΝΔ φτάνει στο 30,5%. Το 36,1% αξιολογεί θετικά την εμφάνιση της Καρυστιανού.",
+            "en": "An Opinion Poll survey for Action24 puts ND first at 25.6% in voting intention, followed by Tsipras's ELAS (13%), Karystianou's Hope for Democracy (10.5%), and PASOK fourth at 8.8%. In estimated vote ND reaches 30.5%. Karystianou's debut is rated positively by 36.1%, ahead of Tsipras at 30.1%."
+          },
+          "tags": {
+            "el": [
+              "δημοσκόπηση",
+              "Νέα Δημοκρατία",
+              "ΕΛΑΣ",
+              "Καρυστιανού",
+              "πρόθεση ψήφου"
+            ],
+            "en": [
+              "poll",
+              "New Democracy",
+              "ELAS",
+              "Karystianou",
+              "voting intention"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 2,
+      "top_items": [
+        {
+          "id": "960affc3fd12",
+          "title": "Το αδιέξοδο του Τραμπ",
+          "url": "https://www.kathimerini.gr/opinion/564257275/to-adiexodo-toy-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T12:10:00+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Ο Κωνσταντίνος Φίλης αναλύει το αδιέξοδο Τραμπ στο Ιράν, χρησιμοποιώντας τη μεταφορά του zugzwang από το σκάκι. Ο πρόεδρος δεν έχει στρατηγική και αυτοπαγιδεύεται με μαξιμαλιστικούς στόχους. Κάθε επιλογή είναι χειρότερη από την υφιστάμενη εκεχειρία. Το Ιράν διατηρεί το ισχυρό ατού των Στενών του Ορμούζ.",
+            "en": "Konstantinos Filis analyzes Trump's Iran impasse using the chess concept of zugzwang. The President lacks a strategy and traps himself with maximalist goals. Every available move is worse than the current truce. Iran retains the strong bargaining card of the Strait of Hormuz."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Ιράν",
+              "Ορμούζ",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "Trump",
+              "Iran",
+              "Hormuz",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e0d00148bac4",
+          "title": "Αντιπολίτευση για κομοδίνα",
+          "url": "https://www.kathimerini.gr/opinion/564256999/antipoliteysi-gia-komodina/",
+          "source": "Kathimerini",
+          "published": "2026-06-01T12:20:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ανάλυση του Ευτύχη Βαρδουλάκη για τον πρωτοφανή πολυκερματισμό της ελληνικής αντιπολίτευσης. Παρά την υπεραφθονία αντιπολιτευτικού λόγου, καμία πολιτική δύναμη δεν αναπτύσσει εναλλακτικό κυβερνητικό πόλο. Καταγγέλλει την «τεμπέλικη» αντιπολίτευση που στηρίζεται σε καταγγελίες και social media.",
+            "en": "Eftychis Vardoulakis analyzes the unprecedented fragmentation of Greek opposition politics. Despite an abundance of oppositional rhetoric, no party is emerging as a credible governing alternative. He criticizes the 'lazy' opposition that relies on denunciations, drama and social-media games."
+          },
+          "tags": {
+            "el": [
+              "αντιπολίτευση",
+              "πολυκερματισμός",
+              "πολιτικό σύστημα"
+            ],
+            "en": [
+              "opposition",
+              "fragmentation",
+              "political system"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 65
+  }
+}

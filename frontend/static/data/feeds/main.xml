@@ -1,210 +1,189 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator</title>
-  <subtitle>Daily digest of Kathimerini.gr</subtitle>
-  <updated>2026-06-01T16:09:53.676359+00:00</updated>
-  <id>urn:greek-news-aggregator:2026-06-01</id>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <author><name>Greek News Aggregator</name></author>
+  <title>Greek News Aggregator — Daily Digest</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
+  <id>urn:greek-news-aggregator:2026-06-02</id>
+  <updated>2026-06-02T10:53:11Z</updated>
+  <subtitle>Top stories from kathimerini.gr — 2026-06-02</subtitle>
   <entry>
-    <id>urn:greek-news:781a653cb932</id>
-    <title>Εντολή Νετανιάχου για στρατιωτική επίθεση στα νότια προάστια της Βηρυτού</title>
-    <link href="https://www.kathimerini.gr/world/564259279/entoli-netaniachoy-gia-stratiotiki-epithesi-sta-notia-proastia-tis-virytoy/"/>
-    <updated>2026-06-01T10:18:29+00:00</updated>
-    <published>2026-06-01T10:18:29+00:00</published>
+    <title>Ουκρανία: 11 νεκροί από ρωσική επίθεση – Χτυπήθηκαν κατοικίες και υποδομές σε πόλεις</title>
+    <link href="https://www.kathimerini.gr/world/564259939/oykrania-fonikotati-nychterini-epithesi-ton-roson-plittei-katoikies-kai-ypodomes-se-poleis/"/>
+    <id>urn:kathimerini:bb840c0c8c4f</id>
+    <updated>2026-06-02T09:59:00Z</updated>
     <author><name>Newsroom</name></author>
+    <summary type="html">11 dead and over 100 wounded after a deadly Russian overnight attack on Ukraine, with 73 missiles and 656 drones striking Kyiv, Kharkiv and Dnipro. Seven died in Dnipro. Homes and infrastructure were hit, 140,000 households lost power. One rescue worker was killed in a &apos;double-tap&apos; follow-up strike.&lt;br/&gt;&lt;br/&gt;11 νεκροί και πάνω από 100 τραυματίες από φονική νυχτερινή ρωσική επίθεση στην Ουκρανία, με 73 πυραύλους και 656 drones που έπληξαν Κίεβο, Χάρκοβο, Ντνίπρο. Επτά νεκροί στη Ντνίπρο. Επλήγησαν κατοικίες και υποδομές, διακοπή ρεύματος σε 140.000 νοικοκυριά. Ένας διασώστης σκοτώθηκε σε «επαναληπτική επίθεση».</summary>
     <category term="world"/>
-    <summary type="html">Ο Ισραηλινός πρωθυπουργός Μπέντζαμιν Νετανιάχου διέταξε τον ισραηλινό στρατό να επιτεθεί σε στόχους στα νότια προάστια της Βηρυτού, προπύργιο της Χεζμπολάχ. Η εντολή δόθηκε από κοινού με τον υπουργό Άμυνας Ισραέλ Κατς, με αφορμή «επανειλημμένες παραβιάσεις της εκεχειρίας» από τη Χεζμπολάχ. | Israeli Prime Minister Benjamin Netanyahu, together with Defence Minister Israel Katz, ordered the military to strike targets in Beirut's southern suburbs, a Hezbollah stronghold, citing repeated ceasefire violations by the group and attacks on Israeli cities.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:fbfd1fe8619a</id>
-    <title>Μέση Ανατολή: Νέα ανάφλεξη, παλινωδίες στις διαπραγματεύσεις</title>
-    <link href="https://www.kathimerini.gr/world/564259264/mesi-anatoli-nea-anaflexi-palinodies-stis-diapragmateyseis/"/>
-    <updated>2026-06-01T09:58:14+00:00</updated>
-    <published>2026-06-01T09:58:14+00:00</published>
+    <title>ΗΠΑ: Υπό πίεση για τον πόλεμο στο Ιράν ο Ρούμπιο</title>
+    <link href="https://www.kathimerini.gr/world/564260410/ipa-ypo-piesi-gia-ton-polemo-sto-iran-o-roympio/"/>
+    <id>urn:kathimerini:b3ae64c27e17</id>
+    <updated>2026-06-02T13:33:58Z</updated>
     <author><name>Newsroom</name></author>
+    <summary type="html">US Secretary of State Marco Rubio faces pressure as he testifies to Congress this week on the Iran war, now in its fourth month. The Trump administration is seeking a 30% cut to diplomatic spending and a 50% boost to military outlays. Lawmakers want an exit strategy as fuel-price impacts mount.&lt;br/&gt;&lt;br/&gt;Υπό πίεση ο Αμερικανός υπουργός Εξωτερικών Μάρκο Ρούμπιο που καταθέτει αυτή την εβδομάδα στο Κογκρέσο για τον πόλεμο στο Ιράν, που μπαίνει στον τέταρτο μήνα. Η κυβέρνηση Τραμπ ζητά περικοπή 30% στις διπλωματικές δαπάνες και αύξηση 50% στις στρατιωτικές. Βουλευτές ζητούν στρατηγική εξόδου.</summary>
     <category term="world"/>
-    <summary type="html">Νέα κλιμάκωση στη Μέση Ανατολή με ΗΠΑ και Ιράν να εξαπολύουν εκατέρωθεν επιθέσεις μέσα στη νύχτα και το Ισραήλ να εντείνει τις επιχειρήσεις στον Λίβανο. Δημοσιεύματα για νέες αμερικανικές απαιτήσεις μείωσαν τις ελπίδες συμφωνίας. Αμερικανικά πλήγματα στόχευσαν ιρανικά συστήματα στα Στενά του Ορμούζ. | A fresh Middle East flare-up overnight, with the US and Iran trading strikes and Israel intensifying its Lebanon campaign. Reports of new US demands have dimmed hopes for an imminent deal. American strikes targeted Iranian radar and drone systems on Qeshm Island and at the Strait of Hormuz.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2cf2465e3b4a</id>
-    <title>Οι ΗΠΑ ανακοίνωσαν ότι αναχαίτισαν ιρανικούς πυραύλους κατά των αμερικανικών δυνάμεων στο Κουβέιτ</title>
-    <link href="https://www.kathimerini.gr/world/564259471/oi-ipa-anakoinosan-oti-anachaitisan-iranikoys-pyrayloys-kata-ton-amerikanikon-dynameon-sto-koyveit/"/>
-    <updated>2026-06-01T15:37:10+00:00</updated>
-    <published>2026-06-01T15:37:10+00:00</published>
+    <title>Ζελένσκι προς Τραμπ: Στείλτε πυραύλους Patriot</title>
+    <link href="https://www.kathimerini.gr/world/564260308/zelenski-pros-tramp-steilte-pyrayloys-patriot/"/>
+    <id>urn:kathimerini:e55fbe7596fc</id>
+    <updated>2026-06-02T12:30:44Z</updated>
     <author><name>Newsroom</name></author>
+    <summary type="html">Zelensky renewed his appeal to Trump for Patriot missiles after one of Russia&apos;s largest recent attacks killed 19 people. Russia launched 73 missiles and 656 drones at Kyiv, Dnipro, Zaporizhzhia, Poltava and Kharkiv. Patriot inventories are running out and are considered vital for stopping ballistic missiles.&lt;br/&gt;&lt;br/&gt;Ο Ζελένσκι ζητά εκ νέου από τον Τραμπ την αποστολή πυραύλων Patriot, μετά από μία από τις μεγαλύτερες ρωσικές επιθέσεις των τελευταίων μηνών που άφησε 19 νεκρούς. Η Ρωσία εκτόξευσε 73 πυραύλους και 656 drones σε Κίεβο, Ντνίπρο, Ζαπορίζια, Πολτάβα και Χάρκοβο. Τα αποθέματα Patriot εξαντλούνται.</summary>
     <category term="world"/>
-    <summary type="html">Ο αμερικανικός στρατός αναχαίτισε δύο ιρανικούς βαλλιστικούς πυραύλους που είχαν ως στόχο αμερικανικές δυνάμεις σταθμευμένες στο Κουβέιτ, χωρίς τραυματισμούς. Είναι η δεύτερη τέτοια επίθεση κατά της χώρας του Κόλπου μέσα σε λιγότερο από μια εβδομάδα, αποδιδόμενη από το Κουβέιτ στο Ιράν. | US forces intercepted two Iranian ballistic missiles aimed at US troops based in Kuwait, with no casualties. It is the second such attack on the Gulf state in under a week, attributed by Kuwait to Iran amid Iranian Revolutionary Guard retaliation strikes.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:8c1ebf7d9224</id>
-    <title>Οι επιθέσεις στον Λίβανο παραβιάζουν την εκεχειρία ΗΠΑ-Ιράν, λέει η Τεχεράνη – Προειδοποιεί για «συνέπειες»</title>
-    <link href="https://www.kathimerini.gr/world/564259453/oi-epitheseis-ston-livano-paraviazoyn-tin-ipa-iran-leei-i-techerani-proeidopoiei-gia-synepeies/"/>
-    <updated>2026-06-01T14:59:38+00:00</updated>
-    <published>2026-06-01T14:59:38+00:00</published>
+    <title>Eurostat: Πληθωρισμός 5% στην Ελλάδα τον Μάιο – Στο 3,2% στην Ευρωζώνη</title>
+    <link href="https://www.kathimerini.gr/economy/564260221/eurostat-plithorismos-5-stin-ellada-ton-maio-sto-3-2-stin-eyrozoni/"/>
+    <id>urn:kathimerini:ce4c91596287</id>
+    <updated>2026-06-02T12:13:31Z</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Ο Ιρανός ΥΠΕΞ Αμπάς Αραγτσί προειδοποιεί ότι οι ισραηλινές επιθέσεις στον Λίβανο παραβιάζουν την εκεχειρία ΗΠΑ-Ιράν «σε όλα τα μέτωπα» και ότι ΗΠΑ και Ισραήλ είναι υπεύθυνοι για τις συνέπειες. Η δήλωση έγινε αφού ο Νετανιάχου διέταξε επιθέσεις στα νότια προάστια της Βηρυτού. | Iranian Foreign Minister Abbas Araghchi warned that Israeli strikes on Lebanon violate the US-Iran ceasefire 'on all fronts' and that Washington and Tel Aviv will bear responsibility for any consequences. The statement came after Netanyahu ordered attacks on Beirut's southern suburbs.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:18e92b412dd6</id>
-    <title>Αυστηρό μήνυμα της Κομισιόν στα Τίρανα για ελληνική μειονότητα και περιβάλλον</title>
-    <link href="https://www.kathimerini.gr/politics/564259555/aystiro-minyma-tis-komision-sta-tirana-gia-elliniki-meionotita-kai-perivallon/"/>
-    <updated>2026-06-01T18:18:22+00:00</updated>
-    <published>2026-06-01T18:18:22+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="politics"/>
-    <summary type="html">Η Ευρωπαϊκή Επιτροπή στέλνει σαφές μήνυμα προς τα Τίρανα ότι ο σεβασμός των δικαιωμάτων της ελληνικής εθνικής μειονότητας και η προστασία περιβαλλοντικά ευαίσθητων περιοχών συνδέονται άμεσα με την ευρωπαϊκή πορεία της Αλβανίας, μετά τα επεισόδια στη Σβέρνιτσα. Ο εκπρόσωπος Γκιγιόμ Μερσιέ δηλώνει στην «Κ» ότι η Κομισιόν παρακολουθεί στενά τις εξελίξεις στο προστατευόμενο τοπίο Pishe Poro – Narta. | The European Commission delivered a firm message to Tirana that respect for the Greek minority's rights and protection of environmentally sensitive areas are directly linked to Albania's EU accession path, after the Sverniza incidents. Spokesperson Guillaume Mercier told Kathimerini the Commission is closely monitoring developments in the protected Pishe Poro–Narta landscape.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:a06047c22dbf</id>
-    <title>ΟΠΕΚΕΠΕ: Ελεύθεροι με όρους οι πρώτοι δέκα κατηγορούμενοι</title>
-    <link href="https://www.kathimerini.gr/society/564259570/opekepe-eleytheroi-me-oroys-oi-protoi-deka-katigoroymenoi/"/>
-    <updated>2026-06-01T18:39:11+00:00</updated>
-    <published>2026-06-01T18:39:11+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="html">Δέκα από τους 17 κατηγορούμενους στην υπόθεση εγκληματικής οργάνωσης του ΟΠΕΚΕΠΕ αφέθηκαν ελεύθεροι με περιοριστικούς όρους μετά τις απολογίες τους στον Ευρωπαίο Ανακριτή. Σε έναν επιβλήθηκε και χρηματική εγγύηση, ενώ οι υπόλοιποι επτά απολογούνται αύριο – πέντε εξ αυτών φέρονται να είχαν ηγετικό ρόλο. | Ten of 17 defendants in the OPEKEPE criminal organisation case were released on conditions after testifying before the European Investigator. One was also required to post bail; the remaining seven testify tomorrow, with five alleged ringleaders among them.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:b92a73197d03</id>
-    <title>Αλβανία: Σοβαρός τραυματισμός Ελληνα σε επεισόδια – Παράσταση του ΥΠΕΞ στα Τίρανα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564258958/alvania-sovaros-traymatismos-ellina-se-epeisodia-parastasi-toy-ypex-sta-tirana/"/>
-    <updated>2026-05-31T16:39:35+00:00</updated>
-    <published>2026-05-31T16:39:35+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="html">Το ελληνικό υπουργείο Εξωτερικών προέβη σε επίσημη παράσταση προς την αλβανική κυβέρνηση για τα επεισόδια στο Ζβέρνετς, όπου τραυματίστηκε σοβαρά Έλληνας πολίτης. Η Αθήνα ζητεί διαλεύκανση της υπόθεσης και απόδοση ευθυνών, ενώ η πρεσβεία στα Τίρανα παρέχει προξενική και ιατρική συνδρομή στον τραυματία. | The Greek Foreign Ministry filed a formal protest with the Albanian government over the Zverniza incidents in which a Greek citizen was seriously injured. Athens demands a full investigation and accountability, while the embassy in Tirana is providing consular and medical assistance.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2485d57f0cbf</id>
-    <title>Καλαμάτα: Το χρονικό της γυναικοκτονίας – Η 39χρονη καλούσε σε βοήθεια</title>
-    <link href="https://www.kathimerini.gr/society/564259378/kalamata-to-chroniko-tis-gynaikoktonias-i-39chroni-kaloyse-se-voitheia/"/>
-    <updated>2026-06-01T14:01:21+00:00</updated>
-    <published>2026-06-01T14:01:21+00:00</published>
-    <author><name>Αλκης Παππάς</name></author>
-    <category term="society"/>
-    <summary type="html">Στο φως έρχονται οι λεπτομέρειες της γυναικοκτονίας στην Καλαμάτα, όπου ένας 41χρονος δολοφόνησε τη 39χρονη σύζυγό του. Γείτονες άκουσαν τη γυναίκα να ζητά βοήθεια λίγο πριν τις 2 τα ξημερώματα και κάλεσαν την αστυνομία. Ο δράστης αρχικά ισχυρίστηκε αυτοτραυματισμό, αλλά μετά ομολόγησε την πράξη. | Details emerge of the Kalamata femicide where a 41-year-old man murdered his 39-year-old wife. Neighbours heard her calling for help around 2 a.m. and called police. The husband initially claimed self-harm but later confessed to the killing.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:9e9d3a6efb53</id>
-    <title>Γαλλικές δυνάμεις κατάσχεσαν τάνκερ του ρωσικού σκιώδους στόλου – «Πράξη πειρατείας», λέει το Κρεμλίνο</title>
-    <link href="https://www.kathimerini.gr/world/564259405/gallikes-dynameis-kataschesan-tanker-toy-rosikoy-skiodoys-stoloy-praxi-peirateias-leei-to-kremlino/"/>
-    <updated>2026-06-01T13:56:59+00:00</updated>
-    <published>2026-06-01T13:56:59+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Ο πρόεδρος Μακρόν ανακοίνωσε την κατάσχεση τάνκερ του ρωσικού «σκιώδους στόλου» από το γαλλικό πολεμικό ναυτικό. Είναι το τέταρτο τάνκερ που χρησιμοποιεί η Μόσχα για παράκαμψη κυρώσεων. Το Κρεμλίνο κατήγγειλε την ενέργεια ως «πράξη στα όρια της πειρατείας». | President Macron announced the French Navy's seizure of a Russian 'shadow fleet' tanker suspected of false flagging. It is the fourth such tanker used by Moscow to evade sanctions on its oil trade. The Kremlin denounced the operation as 'bordering on piracy'.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:80b4faed47f9</id>
-    <title>Τεχεράνη: «Προϋπόθεση για συμφωνία με τις ΗΠΑ η εκεχειρία στον Λίβανο»</title>
-    <link href="https://www.kathimerini.gr/world/564259303/techerani-proypothesi-gia-symfonia-me-tis-ipa-i-ekecheiria-ston-livano/"/>
-    <updated>2026-06-01T11:15:05+00:00</updated>
-    <published>2026-06-01T11:15:05+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Η Τεχεράνη επανέλαβε ότι η εκεχειρία στον Λίβανο αποτελεί βασική προϋπόθεση για οποιαδήποτε συμφωνία με την Ουάσιγκτον για τον τερματισμό του πολέμου στη Μέση Ανατολή. Ο εκπρόσωπος του ιρανικού ΥΠΕΞ Εσμαΐλ Μπαγαΐ έκανε τη δήλωση εν μέσω αυξανόμενων ισραηλινών πληγμάτων κατά της Χεζμπολάχ. | Tehran reiterated that a Lebanon ceasefire is a precondition for any agreement with Washington to end the Middle East war. Iranian Foreign Ministry spokesperson Esmail Baghaei made the statement amid intensifying Israeli strikes against Hezbollah positions.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:49bcbb19790e</id>
-    <title>Επεισόδια στην Αλβανία: «Το χτύπημα θα μπορούσε να είναι θανατηφόρο» λέει ο Ελληνας ομογενής</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564259507/epeisodia-stin-alvania-to-chtypima-tha-mporoyse-na-einai-thanatiforo-leei-o-ellinas-omogenis/"/>
-    <updated>2026-06-01T16:29:23+00:00</updated>
-    <published>2026-06-01T16:29:23+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="html">Ο τραυματισθείς Έλληνας ομογενής στη Σβέρνιτσα της Αλβανίας περιέγραψε στον ΣΚΑΪ ότι το χτύπημα που δέχτηκε από ιδιωτικούς φρουρούς στην καρωτίδα «θα μπορούσε να είναι θανατηφόρο». Τα επεισόδια ξέσπασαν όταν ομογενείς ιδιοκτήτες προσπάθησαν να γκρεμίσουν συρματόπλεγμα που είχε στηθεί στις παραλιακές εκτάσεις τους για την ανέγερση υπερπολυτελούς θερέτρου. | The injured Greek expatriate in Sverniza, Albania, told SKAI that the blow he received from private security guards to his carotid artery 'could have been fatal'. The clashes erupted when ethnic-Greek landowners tried to dismantle barbed-wire fencing erected on their coastal land for a luxury resort.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:e1f3a2a28338</id>
-    <title>Ε.Ε: Κοντά σε συμφωνία για τη νέα πολιτική απελάσεων</title>
-    <link href="https://www.kathimerini.gr/world/564259465/e-e-konta-se-symfonia-gia-ti-nea-politiki-apelaseon/"/>
-    <updated>2026-06-01T15:22:35+00:00</updated>
-    <published>2026-06-01T15:22:35+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world"/>
-    <summary type="html">Η ΕΕ βρίσκεται ένα βήμα πριν συμφωνία για τον νέο Κανονισμό Επιστροφών στη μεταναστευτική πολιτική. Εκπρόσωποι κρατών-μελών και του Ευρωκοινοβουλίου επαναλαμβάνουν διαπραγματεύσεις στις Βρυξέλλες με επίκεντρο τους εξωευρωπαϊκούς «κόμβους επιστροφής» και αυστηρότερους κανόνες. | The EU is on the cusp of agreement on a new Returns Regulation for migration policy. Member state and European Parliament representatives are resuming Brussels talks centred on extra-European 'return hubs' and stricter rules for those without residency rights.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:9da09627a41d</id>
-    <title>Τεχεράνη προς Ουάσιγκτον: «Κάθε επιλογή έχει το τίμημά της»</title>
-    <link href="https://www.kathimerini.gr/world/564259339/techerani-pros-oyasigkton-kathe-epilogi-echei-to-timima-tis/"/>
-    <updated>2026-06-01T13:02:00+00:00</updated>
-    <published>2026-06-01T13:02:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Ο επικεφαλής της ιρανικής διαπραγματευτικής ομάδας Μοχάμαντ Μπαγέρ Γαλιμπάφ προειδοποίησε τις ΗΠΑ ότι «κάθε επιλογή έχει το τίμημά της», κατηγορώντας την Ουάσιγκτον ότι παραβιάζει την εκεχειρία με τον ναυτικό αποκλεισμό και τα ισραηλινά πλήγματα στον Λίβανο. | Iranian negotiating chief Mohammad Bagher Ghalibaf warned the US that 'every choice has a price', accusing Washington of breaching the ceasefire through naval blockade and Israeli strikes on Lebanon. 'Everything will be settled in the end', he wrote on X.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:e3582fb230df</id>
-    <title>Πέθανε ο Μάριος Οικονόμου σε ηλικία 33 ετών</title>
-    <link href="https://www.kathimerini.gr/society/564259492/pethane-o-marios-oikonomoy-se-ilikia-33-eton/"/>
-    <updated>2026-06-01T16:01:05+00:00</updated>
-    <published>2026-06-01T16:01:05+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="html">Ο 33χρονος διεθνής ποδοσφαιριστής Μάριος Οικονόμου έχασε τη μάχη για τη ζωή στη ΜΕΘ του Πανεπιστημιακού Νοσοκομείου Ιωαννίνων, μετά από τροχαίο που συνέβη όταν η μοτοσικλέτα του συγκρούστηκε με όχημα που έκανε αναστροφή. Η είδηση προκάλεσε μεγάλη θλίψη στον αθλητικό κόσμο και τα Ιωάννινα. | 33-year-old international footballer Marios Oikonomou died in the ICU of Yiannina University Hospital after a road accident in which his motorcycle collided with a vehicle making a U-turn. The news triggered an outpouring of grief across the football world and the city of Yiannina.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:aae702b8e6c6</id>
-    <title>Αλβανία: Το παρασκήνιο των επεισοδίων στον φράχτη της Σβέρνιτσας</title>
-    <link href="https://www.kathimerini.gr/society/564259306/to-paraskinio-ton-epeisodion-ston-frachti-tis-svernitsas/"/>
-    <updated>2026-06-01T11:24:17+00:00</updated>
-    <published>2026-06-01T11:24:17+00:00</published>
-    <author><name>Γιάννης Παπαδόπουλος</name></author>
-    <category term="society"/>
-    <summary type="html">Ρεπορτάζ που αποκαλύπτει το παρασκήνιο των επεισοδίων στη Σβέρνιτσα της Αλβανίας: συνάντηση Αλβανών εκπροσώπων με ομογενείς στην Αθήνα μία εβδομάδα πριν τα γεγονότα, σχέδιο τουριστικής επένδυσης 4 δισ. δολαρίων, και αγκαθωτό συρματόπλεγμα που απέκλεισε τους ντόπιους από γη που διεκδικούν δικαστικά. | An investigative report on the back-story of the Sverniza clashes in Albania: a meeting between Albanian officials and Greek-Albanian residents in Athens a week prior, a $4 billion tourism investment plan, and barbed-wire fencing that cut locals off from land they are litigating for in court.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:3ce363faf88a</id>
-    <title>Σύλληψη Ελληνα στη Βρετανία για κατασκοπεία – Νέα στοιχεία για την υπόθεση</title>
-    <link href="https://www.kathimerini.gr/world/564259561/syllipsi-ellina-sti-vretania-gia-kataskopeia-nea-stoicheia-gia-tin-ypothesi/"/>
-    <updated>2026-06-01T18:17:36+00:00</updated>
-    <published>2026-06-01T18:17:36+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Ο 46χρονος Έλληνας Ιωάννης Αϊδινίδης παραμένει προφυλακισμένος στη Βρετανία με κατηγορίες κατασκοπείας για λογαριασμό ξένης υπηρεσίας πληροφοριών συνδεδεμένης με το Ιράν. Φέρεται να παρακολουθούσε δημοσιογράφο του Iran International στο Λονδίνο, ενώ ενδιάμεσα κατασκόπευσε και αμυντική βιομηχανία στην Ιταλία. | 46-year-old Greek citizen Ioannis Aidinidis remains in custody in the UK on charges of conducting surveillance for a foreign intelligence service believed linked to Iran. He allegedly tracked an Iran International journalist in London and, between trips, also surveilled an Italian defence firm.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:6b4c5a6c41e5</id>
-    <title>Ο Τραμπ φέρεται να ενημέρωσε τον Ερντογάν ότι θα επισκεφθεί την Τουρκία</title>
-    <link href="https://www.kathimerini.gr/world/564259450/o-tramp-feretai-na-enimerose-ton-erntogan-oti-tha-episkefthei-tin-toyrkia/"/>
-    <updated>2026-06-01T14:54:07+00:00</updated>
-    <published>2026-06-01T14:54:07+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="html">Ο πρόεδρος των ΗΠΑ Ντόναλντ Τραμπ φέρεται να ενημέρωσε τον Ερντογάν ότι σκοπεύει να επισκεφθεί την Άγκυρα τον Ιούλιο για τη Σύνοδο Κορυφής του ΝΑΤΟ, σύμφωνα με το Middle East Eye. Τον Απρίλιο ο Τραμπ είχε δηλώσει ότι εξετάζει αποχώρηση των ΗΠΑ από το ΝΑΤΟ, αλλά αργότερα μετρίασε τη στάση του. | US President Donald Trump reportedly told Erdogan he intends to attend the NATO Summit in Ankara this July, according to Middle East Eye. Trump had previously floated US withdrawal from NATO in April but appears to have softened his stance during their 20 May call.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:315aa2c5d495</id>
-    <title>Το θερμόμετρο στο Αιγαίο και οι εμμονές της Αγκυρας</title>
-    <link href="https://www.kathimerini.gr/opinion/564257260/to-thermometro-sto-aigaio-kai-oi-emmones-tis-agkyras/"/>
-    <updated>2026-05-31T20:13:00+00:00</updated>
-    <published>2026-05-31T20:13:00+00:00</published>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary type="html">Ο Αλέξης Παπαχελάς για τις ελληνοτουρκικές σχέσεις: η Αθήνα αναμένει το νέο τουρκικό νομοσχέδιο για τις θαλάσσιες ζώνες και θεωρεί πιθανή θερινή κλιμάκωση στο Αιγαίο. Η Τουρκία βλέπει «παράθυρο δύο ετών» πριν χάσει το τακτικό πλεονέκτημά της λόγω των νέων ελληνικών εξοπλισμών (φρεγάτες, F-35, ισραηλινά συστήματα). | Alexis Papachelas on Greek-Turkish relations: Athens awaits a new Turkish maritime-zones bill and considers a summer flare-up in the Aegean likely. Ankara sees a 'two-year window' before losing its tactical edge as Greece acquires new frigates, F-35s and Israeli systems.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:9dd35438c932</id>
-    <title>Μπελέρης για τα περί εμπλοκής Κούσνερ στην επένδυση στην Αλβανία: Bάζουν έναν «μπαμπούλα»</title>
-    <link href="https://www.kathimerini.gr/politics/564259351/mpeleris-gia-ta-peri-emplokis-koysner-stin-ependysi-stin-alvania-bazoyn-enan-mpampoyla/"/>
-    <updated>2026-06-01T17:01:56+00:00</updated>
-    <published>2026-06-01T17:01:56+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="html">Ο ευρωβουλευτής Φρέντης Μπελέρης σχολίασε τα δημοσιεύματα περί εμπλοκής του Τζάρεντ Κούσνερ στην επένδυση 4 δισ. στην Αλβανία, λέγοντας ότι «βάζουν έναν μπαμπούλα» για να μην αντιδρά ο κόσμος, ενώ οι εταιρείες-φορείς εμφανίζονται ως αλβανικές. Κατηγόρησε επίσης τον Έντι Ράμα για έλλειψη διαφάνειας στην τουριστική ανάπτυξη της περιοχής. | MEP Fredi Beleri commented on reports that Jared Kushner is behind the €4 billion Albanian investment, saying authorities are using him as a 'bogeyman' to deflect public anger, while the actual companies appear as Albanian. He accused PM Edi Rama of refusing transparency on the tourist development.</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:e236e71f3f07</id>
-    <title>Mε 854 επενδύσεις ύψους 46 δισ. έκλεισε το Ταμείο Ανάκαμψης</title>
-    <link href="https://www.kathimerini.gr/economy/564257419/me-854-ependyseis-ypsoys-46-dis-ekleise-to-tameio-anakampsis/"/>
-    <updated>2026-05-31T23:18:10+00:00</updated>
-    <published>2026-05-31T23:18:10+00:00</published>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <summary type="html">Greek inflation jumped to 5% in May from 4.6% in April per Eurostat, while eurozone inflation rose to 3.2%. Greece has one of the EU&apos;s highest rates, surpassed only by Bulgaria and Lithuania. The Middle East war is driving energy prices higher and the ECB is expected to raise rates in June.&lt;br/&gt;&lt;br/&gt;Στο 5% εκτινάχθηκε ο πληθωρισμός στην Ελλάδα τον Μάιο από 4,6% τον Απρίλιο σύμφωνα με τη Eurostat. Στην Ευρωζώνη ανήλθε στο 3,2%. Η Ελλάδα έχει από τους υψηλότερους δείκτες στην Ε.Ε., με μόνο τη Βουλγαρία και Λιθουανία να την ξεπερνούν. Ο πόλεμος στη Μέση Ανατολή πιέζει τις τιμές ενέργειας.</summary>
     <category term="economy"/>
-    <summary type="html">Το δανειακό σκέλος του Ταμείου Ανάκαμψης ολοκληρώθηκε κινητοποιώντας επενδύσεις 46 δισ. ευρώ μέσω 854 σχεδίων. Τα χαμηλότοκα επιχειρηματικά δάνεια ύψους 13,36 δισ. αντιστοιχούν στο 75% των πόρων και κινητοποίησαν επενδύσεις 29,25 δισ. Εκτός έμειναν 390 σχέδια προϋπολογισμού 9 δισ. | The Greek Recovery Fund's loan facility closed with 854 investment projects mobilising €46 billion. Low-interest business loans of €13.36 billion accounted for 75% of resources, leveraging €29.25 billion in investment. 390 projects worth €9 billion were left out.</summary>
+  </entry>
+  <entry>
+    <title>Τεκμήρια για «νάρκες» στα «ήρεμα νερά»</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564256993/tekmiria-gia-narkes-sta-irema-nera/"/>
+    <id>urn:kathimerini:310143c66f9c</id>
+    <updated>2026-06-02T12:11:09+03:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <summary type="html">Greek Armed Forces data show a return of Greek-Turkish tensions after the &apos;calm waters&apos; period, with sharp increases in violations. National Airspace violations jumped from 8 in 2024 to 225 in 2025, while the first four months of 2026 already saw 423 territorial water incursions. Ankara is advancing a &apos;Blue Homeland&apos; bill.&lt;br/&gt;&lt;br/&gt;Τα στοιχεία των Ενόπλων Δυνάμεων δείχνουν επαναφορά εντάσεων στα ελληνοτουρκικά μετά την περίοδο των «ήρεμων νερών», με δραματική αύξηση των παραβιάσεων. Οι παραβιάσεις του Εθνικού Εναέριου Χώρου εκτινάχθηκαν από 8 το 2024 σε 225 το 2025, ενώ μόνο στο α&apos; τετράμηνο 2026 έχουν καταγραφεί 423 παραβιάσεις χωρικών υδάτων. Η Άγκυρα προωθεί νομοσχέδιο «Γαλάζιας Πατρίδας».</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Ο Τραμπ θέλει να τελειώνει με τον πόλεμο. Αλλά τα «αγκάθια» είναι πολλά</title>
+    <link href="https://www.kathimerini.gr/world/564259993/o-tramp-thelei-na-teleionei-me-ton-polemo-alla-ta-agkathia-einai-polla/"/>
+    <id>urn:kathimerini:85040b239523</id>
+    <updated>2026-06-02T11:06:45Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">Trump is mired in the consequences of his &apos;big mistake of going to war with Iran&apos;, per the BBC. Despite the April 8 truce and Pakistan- and Qatar-mediated talks, signing a memorandum is proving difficult. Israel threatens strikes on Beirut, narrowing Trump&apos;s options. Iran is signaling firm resistance.&lt;br/&gt;&lt;br/&gt;Ο Τραμπ βρίσκεται μπλεγμένος στις συνέπειες του «μεγάλου λάθους του πολέμου με το Ιράν» κατά το BBC. Παρά την εκεχειρία της 8ης Απριλίου, οι συνομιλίες με διαμεσολάβηση Πακιστάν και Κατάρ καθυστερούν. Το Ισραήλ απειλεί επίθεση στη Βηρυτό, περιορίζοντας τις επιλογές του Τραμπ. Οι Ιρανοί δείχνουν αποφασισμένοι να αντισταθούν.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Γ. Στουρνάρας: Η ακριβή στέγη επιτείνει το δημογραφικό πρόβλημα της Ελλάδος</title>
+    <link href="https://www.kathimerini.gr/economy/564260143/g-stoyrnaras-i-akrivi-stegi-epiteinei-to-dimografiko-provlima-tis-ellados/"/>
+    <id>urn:kathimerini:1d1632dfef3e</id>
+    <updated>2026-06-02T11:51:43Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">Bank of Greece Governor Yannis Stournaras warned that high housing costs are worsening Greece&apos;s demographic problem. Speaking at the Croatian Central Bank conference, he said housing insecurity delays family formation among younger generations. The property market is largely funded by savings rather than mortgages.&lt;br/&gt;&lt;br/&gt;Ο διοικητής της Τράπεζας της Ελλάδος Γιάννης Στουρνάρας προειδοποίησε ότι η ακριβή στέγη επιδεινώνει το δημογραφικό πρόβλημα της Ελλάδος. Μιλώντας στο Συνέδριο της Κεντρικής Τράπεζας της Κροατίας, τόνισε ότι η στεγαστική επισφάλεια αναβάλλει τη δημιουργία οικογένειας. Η αγορά ακινήτων χρηματοδοτείται κυρίως από αποταμιεύσεις και όχι δάνεια.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Γυναικοκτονία στην Καλαμάτα: Στον ανακριτή σήμερα ο δράστης</title>
+    <link href="https://www.kathimerini.gr/society/564259804/gynaikoktonia-stin-kalamata-ston-anakriti-simera-o-drastis/"/>
+    <id>urn:kathimerini:f18d81b67d19</id>
+    <updated>2026-06-02T08:12:56Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">The 41-year-old confessed perpetrator of a new femicide in Kalamata appeared before the investigator after admitting he killed his 39-year-old wife. Despite his initial self-injury claim, witness testimony and the multiple stab wounds contradict his self-defense story. No prior domestic-violence complaint had been filed.&lt;br/&gt;&lt;br/&gt;Στον ανακριτή ο 41χρονος δράστης της νέας γυναικοκτονίας στην Καλαμάτα, που ομολόγησε τη δολοφονία της 39χρονης συζύγου του. Παρά τον αρχικό ισχυρισμό αυτοτραυματισμού, οι μαρτυρίες και τα ευρήματα τραυμάτων αναιρούν τους ισχυρισμούς άμυνας. Δεν είχε γίνει επίσημη καταγγελία ενδοοικογενειακής βίας.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης για συνταγματική αναθεώρηση: Κατατίθεται η πρόταση της ΝΔ</title>
+    <link href="https://www.kathimerini.gr/politics/564260347/mitsotakis-gia-syntagmatiki-anatheorisi-katatethike-i-protasi-tis-nd/"/>
+    <id>urn:kathimerini:6eb8dca48f2e</id>
+    <updated>2026-06-02T13:09:56Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">PM Kyriakos Mitsotakis announced the submission of New Democracy&apos;s constitutional revision proposal, targeting completion by 2030. The plan includes changes to ministerial accountability, the legalization of private universities, expansion of postal voting, and protection from retroactive taxes. He called on opposition parties to submit their positions rather than abstain.&lt;br/&gt;&lt;br/&gt;Ο πρωθυπουργός Κυριάκος Μητσοτάκης ανακοίνωσε την κατάθεση της πρότασης της ΝΔ για συνταγματική αναθεώρηση, με στόχο την υπογραφή έως το 2030. Η πρόταση περιλαμβάνει αλλαγές στην ευθύνη υπουργών, ίδρυση ιδιωτικών πανεπιστημίων, επέκταση επιστολικής ψήφου και προστασία από αναδρομικούς φόρους. Καλεί τα κόμματα να καταθέσουν θέσεις αντί να απέχουν.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Νέα Αριστερά: Διαλύεται η Κ.Ο. – Ανεξαρτητοποιήθηκαν 7 βουλευτές, αποχώρησαν 143 στελέχη</title>
+    <link href="https://www.kathimerini.gr/politics/564259801/nea-aristera-dialythike-i-k-o-anexartopoiithikan-7-voyleytes-apochorisan-143-stelechi/"/>
+    <id>urn:kathimerini:1f9dcfb0b9ba</id>
+    <updated>2026-06-02T10:44:06Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">Nea Aristera&apos;s parliamentary group dissolved as 7 MPs went independent and 143 members signed a joint departure letter. Only four MPs remain: Tsakalotos, Dritsas, Anagnostopoulou and Perka. The exits are linked to Tsipras&apos;s launch of the new ELAS party.&lt;br/&gt;&lt;br/&gt;Διαλύεται η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς καθώς 7 βουλευτές ανεξαρτητοποιήθηκαν και 143 στελέχη αποχώρησαν, υπογράφοντας κοινή επιστολή. Παραμένουν μόνο τέσσερις βουλευτές: Τσακαλώτος, Δρίτσας, Αναγνωστοπούλου και Πέρκα. Η αποχώρηση συνδέεται με την ίδρυση της ΕΛ.Α.Σ. από τον Τσίπρα.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Υπουργείο Οικονομικών: Τα νέα μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και παράνομο τζόγο</title>
+    <link href="https://www.kathimerini.gr/economy/564260044/ypoyrgeio-oikonomikon-ta-nea-metra-gia-diathesimo-eisodima-idiotiko-chreos-stegi-kai-paranomo-tzogo/"/>
+    <id>urn:kathimerini:3456d16c0ccc</id>
+    <updated>2026-06-02T11:00:32Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">The Finance Ministry&apos;s omnibus bill is open for public consultation until June 15, with measures on disposable income, private debt, housing and illegal gambling. It includes aid for families and vulnerable groups, out-of-court debt settlement reforms, energy-crisis support and stronger anti-illegal-gambling enforcement.&lt;br/&gt;&lt;br/&gt;Σε δημόσια διαβούλευση μέχρι τις 15 Ιουνίου το νομοσχέδιο του υπουργείου Οικονομικών με μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και τον παράνομο τζόγο. Περιλαμβάνει ενισχύσεις για οικογένειες και ευάλωτες ομάδες, ρυθμίσεις του εξωδικαστικού μηχανισμού, μέτρα για την ενεργειακή κρίση και ενίσχυση της ΕΕΕΠ κατά του παράνομου τζόγου.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Επίδομα 150 ευρώ για κάθε παιδί: Ποιοι, πώς και πόσα θα λάβουν φέτος</title>
+    <link href="https://www.kathimerini.gr/economy/564260377/epidoma-150-eyro-gia-kathe-paidi-poioi-pos-kai-posa-tha-lavoyn-fetos/"/>
+    <id>urn:kathimerini:2545312f76dd</id>
+    <updated>2026-06-02T13:19:30Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">A new €150 benefit per dependent child is included in Finance Minister Pierrakakis&apos;s draft bill, payable by June 30. Thousands of households will receive €300, €450 or more depending on number of children. The aid will be credited automatically via myAADE based on 2024 income criteria.&lt;br/&gt;&lt;br/&gt;Νέο επίδομα 150 ευρώ ανά εξαρτώμενο τέκνο προβλέπει σχέδιο νόμου του Πιερρακάκη, με καταβολή έως 30 Ιουνίου. Χιλιάδες νοικοκυριά θα λάβουν 300, 450 ευρώ ή περισσότερα ανάλογα με τα παιδιά τους. Η ενίσχυση θα πιστωθεί αυτόματα μέσω myAADE βάσει εισοδηματικών κριτηρίων του φορολογικού έτους 2024.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Ενωση Δικαστών κατά ΗΠΑ για Γιωτόπουλο: Επιχειρούν να παρέμβουν ανοιχτά στην ελληνική Δικαιοσύνη</title>
+    <link href="https://www.kathimerini.gr/society/564259945/enosi-dikaston-kata-ipa-gia-giotopoylo-epicheiroyn-na-paremvoyn-anoichta-stin-elliniki-dikaiosyni/"/>
+    <id>urn:kathimerini:92f55049b02f</id>
+    <updated>2026-06-02T09:35:19Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">The Greek Judges and Prosecutors Union called the US State Department statement urging Greece to return 17 November leader Alexandros Giotopoulos to prison a &apos;direct interference&apos; in Greek justice. It invoked the separation of powers and called for political support for the judiciary.&lt;br/&gt;&lt;br/&gt;Η Ένωση Δικαστών και Εισαγγελέων χαρακτηρίζει ευθεία επιχείρηση παρέμβασης στην ελληνική Δικαιοσύνη την ανακοίνωση του Στέιτ Ντιπάρτμεντ που καλεί την Ελλάδα να επιστρέψει στη φυλακή τον Αλέξανδρο Γιωτόπουλο, αρχηγό της 17 Νοέμβρη. Επικαλείται τη διάκριση των εξουσιών και ζητά τη στήριξη του πολιτικού κόσμου.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Πίσω από τη φόρμουλα για «μισή ένταξη» της Ουκρανίας</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564257065/piso-apo-ti-formoyla-gia-misi-entaxi-tis-oykranias/"/>
+    <id>urn:kathimerini:92f5d7ffde7d</id>
+    <updated>2026-06-01T21:47:35Z</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <summary type="html">Brussels dispatch on German Chancellor Friedrich Merz&apos;s idea of &apos;associate membership&apos; for Ukraine in the EU. The aim is closer ties without national parliaments blocking full accession. Berlin does not view Kyiv&apos;s 2027 target as realistic.&lt;br/&gt;&lt;br/&gt;Ανταπόκριση από Βρυξέλλες για τις νέες ιδέες του Γερμανού καγκελαρίου Φρίντριχ Μερτς για «συνδεδεμένη ιδιότητα μέλους» της Ουκρανίας στην Ε.Ε.. Στόχος είναι η στενότερη σύνδεση χωρίς να μπλοκάρει η ένταξη από εθνικά κοινοβούλια. Το 2027 που επιδιώκει το Κίεβο δεν θεωρείται ρεαλιστικό από το Βερολίνο.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Δημοσκόπηση: Πώς αξιολογούν οι πολίτες τις πρώτες εμφανίσεις Τσίπρα και Καρυστιανού</title>
+    <link href="https://www.kathimerini.gr/politics/564259636/dimoskopisi-pos-krinoyn-oi-polites-tis-protes-emfaniseis-tsipra-kai-karystianoy/"/>
+    <id>urn:kathimerini:93db6c27d07b</id>
+    <updated>2026-06-01T20:34:26Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">An Opinion Poll survey for Action24 puts ND first at 25.6% in voting intention, followed by Tsipras&apos;s ELAS (13%), Karystianou&apos;s Hope for Democracy (10.5%), and PASOK fourth at 8.8%. In estimated vote ND reaches 30.5%. Karystianou&apos;s debut is rated positively by 36.1%, ahead of Tsipras at 30.1%.&lt;br/&gt;&lt;br/&gt;Δημοσκόπηση Opinion Poll για το Action24 δείχνει τη ΝΔ πρώτη με 25,6% στην πρόθεση ψήφου, ακολουθούν η ΕΛΑΣ του Τσίπρα (13%), η Ελπίδα για τη Δημοκρατία της Καρυστιανού (10,5%) και το ΠΑΣΟΚ τέταρτο (8,8%). Στην εκτίμηση ψήφου η ΝΔ φτάνει στο 30,5%. Το 36,1% αξιολογεί θετικά την εμφάνιση της Καρυστιανού.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Το αδιέξοδο του Τραμπ</title>
+    <link href="https://www.kathimerini.gr/opinion/564257275/to-adiexodo-toy-tramp/"/>
+    <id>urn:kathimerini:960affc3fd12</id>
+    <updated>2026-06-01T12:10:00Z</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <summary type="html">Konstantinos Filis analyzes Trump&apos;s Iran impasse using the chess concept of zugzwang. The President lacks a strategy and traps himself with maximalist goals. Every available move is worse than the current truce. Iran retains the strong bargaining card of the Strait of Hormuz.&lt;br/&gt;&lt;br/&gt;Ο Κωνσταντίνος Φίλης αναλύει το αδιέξοδο Τραμπ στο Ιράν, χρησιμοποιώντας τη μεταφορά του zugzwang από το σκάκι. Ο πρόεδρος δεν έχει στρατηγική και αυτοπαγιδεύεται με μαξιμαλιστικούς στόχους. Κάθε επιλογή είναι χειρότερη από την υφιστάμενη εκεχειρία. Το Ιράν διατηρεί το ισχυρό ατού των Στενών του Ορμούζ.</summary>
+    <category term="opinion"/>
+  </entry>
+  <entry>
+    <title>O ΟΗΕ προειδοποίησε για επικείμενη επιστροφή του φαινομένου Ελ Νίνιο</title>
+    <link href="https://www.kathimerini.gr/world/564260209/o-oie-proeidopoiise-gia-epikeimeni-epistrofi-toy-fainomenoy-el-ninio/"/>
+    <id>urn:kathimerini:8157436ae110</id>
+    <updated>2026-06-02T12:07:00Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">The UN warned of an imminent return of the El Niño phenomenon, with 80% odds before September and 90% by November. Secretary-General Guterres called it an urgent climate alert. Extreme rainfall and droughts are expected across multiple world regions.&lt;br/&gt;&lt;br/&gt;Ο ΟΗΕ προειδοποιεί για επικείμενη επιστροφή του φαινομένου Ελ Νίνιο, με πιθανότητα 80% πριν τον Σεπτέμβριο και 90% έως τον Νοέμβριο. Ο Γκουτέρες χαρακτηρίζει το φαινόμενο επείγουσα κλιματική προειδοποίηση. Αναμένονται ακραίες βροχοπτώσεις και ξηρασίες σε διάφορες περιοχές του πλανήτη.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Η ναυτιλία αναζητεί «ρότα» για το μέλλον εν μέσω πολέμων</title>
+    <link href="https://www.kathimerini.gr/economy/564257554/i-naytilia-anazitei-rota-gia-to-mellon-en-meso-polemon/"/>
+    <id>urn:kathimerini:ea124bb4966f</id>
+    <updated>2026-06-02T07:49:47Z</updated>
+    <author><name>Ηλίας Μπέλλος</name></author>
+    <summary type="html">Posidonia 2026 opened in Athens — the largest shipping fair in the event&apos;s history, with 2,227 exhibitors from 83 countries. 40,000 professionals are expected, generating over €100m in business. Greek-owned shipping controls 20% of global tonnage. PM Mitsotakis delivered the opening address.&lt;br/&gt;&lt;br/&gt;Άνοιξαν τα Ποσειδώνια 2026 στην Αθήνα, η μεγαλύτερη ναυτιλιακή έκθεση στην ιστορία του θεσμού με 2.227 εκθέτες από 83 χώρες. Αναμένονται 40.000 επαγγελματίες και κύκλος εργασιών άνω των 100 εκατ. ευρώ. Ο ελληνόκτητος στόλος ελέγχει το 20% της παγκόσμιας χωρητικότητας. Πρώτη ομιλία από τον πρωθυπουργό Μητσοτάκη.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Απόδραση από τον Κορυδαλλό: Συνελήφθησαν δύο σωφρονιστικοί υπάλληλοι</title>
+    <link href="https://www.kathimerini.gr/society/564260362/apodrasi-apo-ton-korydallo-synelifthisan-dyo-sofronistikoi-ypalliloi/"/>
+    <id>urn:kathimerini:63c3eed9fc0e</id>
+    <updated>2026-06-02T13:16:55Z</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <summary type="html">Two Korydallos prison guards have been arrested for facilitating a prisoner&apos;s escape after a 48-year-old inmate fled Tuesday morning. Disciplinary proceedings are underway and a manhunt is ongoing. The prisoner had completed three regular furloughs and was due for release in July 2031.&lt;br/&gt;&lt;br/&gt;Συνελήφθησαν δύο σωφρονιστικοί υπάλληλοι των φυλακών Κορυδαλλού για απελευθέρωση κρατουμένου, μετά την απόδραση του 48χρονου το πρωί της Τρίτης. Σε εξέλιξη πειθαρχική διαδικασία και ανθρωποκυνηγητό. Ο κρατούμενος είχε τρεις τακτικές άδειες χωρίς πρόβλημα και επρόκειτο να αποφυλακιστεί το 2031.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Ντίλιαν για υποκλοπές: Πουλάμε σε κρατικές υπηρεσίες – Να κληθεί άμεσα για κατάθεση, λέει το ΠΑΣΟΚ</title>
+    <link href="https://www.kathimerini.gr/politics/564259999/ntilian-gia-ypoklopes-poylame-se-kratikes-ypiresies-na-klithei-amesa-gia-katathesi-leei-to-pasok/"/>
+    <id>urn:kathimerini:e9c46b185ea2</id>
+    <updated>2026-06-02T10:24:32Z</updated>
+    <author><name>Newsroom</name></author>
+    <summary type="html">Tal Dilian, founder of Intellexa which sells the Predator spyware, said his company sells to state agencies without operating the systems. PASOK demands he be called immediately to testify. The case returned to the spotlight after the government blocked a parliamentary inquiry citing national security.&lt;br/&gt;&lt;br/&gt;Ο Ταλ Ντίλιαν, ιδρυτής της Intellexa που εμπορεύεται το Predator, δήλωσε ότι η εταιρεία πουλά σε κρατικές υπηρεσίες χωρίς να αναμειγνύεται στη χρήση τους. Το ΠΑΣΟΚ ζητά την άμεση κλήση του για κατάθεση. Η υπόθεση επανήλθε μετά την απόφαση της κυβέρνησης να μπλοκάρει εξεταστική επιτροπή για λόγους εθνικής ασφάλειας.</summary>
+    <category term="politics"/>
   </entry>
 </feed>
