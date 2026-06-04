@@ -1,444 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top stories</title>
-  <subtitle>Top 20 articles from Kathimerini, scraped and summarised daily.</subtitle>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" rel="alternate"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>tag:zoetzikra.github.io,2026:greek-news-aggregator</id>
-  <updated>2026-06-02T13:25:03.243497+00:00</updated>
-  <generator>greek-news-aggregator/cowork</generator>
+  <id>https://zoetzikra.github.io/greek-news-aggregator/feeds/main.xml</id>
+  <title>Greek News Aggregator — Top of the Day</title>
+  <subtitle>Daily curated and summarised Greek news from kathimerini.gr</subtitle>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/feeds/main.xml" rel="self" />
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/" />
+  <updated>2026-06-04T13:31:27.277816+00:00</updated>
+  <author><name>greek-news-aggregator</name></author>
   <entry>
-    <title>Τεκμήρια για «νάρκες» στα «ήρεμα νερά»</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564256993/tekmiria-gia-narkes-sta-irema-nera/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:310143c66f9c</id>
-    <updated>2026-06-02T12:11:09+03:00</updated>
+    <id>urn:greek-news:2026-06-04:968eb617cc71</id>
+    <title>Ισραήλ – Λίβανος: Τι περιλαμβάνει η συμφωνία εκεχειρίας</title>
+    <link href="https://www.kathimerini.gr/world/564264460/israil-livanos-ti-perilamvanei-i-symfonia-ekecheirias/" />
+    <updated>2026-06-04T10:14:31+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το Ισραήλ και ο Λίβανος συμφώνησαν σε κατάπαυση του πυρός υπό την προϋπόθεση πλήρους παύσης των επιθέσεων της Χεζμπολάχ και απόσυρσης των μαχητών της νοτίως του Λιτάνι. Η συμφωνία ανακοινώθηκε με τριμερή ανακοίνωση. Επιτεύχθηκε μετά από δύο ημέρες συνομιλιών.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Israel and Lebanon agreed to a ceasefire conditional on a complete halt to Hezbollah attacks and withdrawal of its fighters south of the Litani River. The deal was announced in a joint trilateral statement after two days of negotiations. Full implementation will be closely watched.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 80 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:8c6c4f3d6c66</id>
+    <title>Ο Κιμ Γιονγκ Ουν προανήγγειλε «εκθετική» αύξηση της παραγωγής πυρηνικών όπλων</title>
+    <link href="https://www.kathimerini.gr/world/564264574/o-kim-giongk-oyn-proaniggeile-ekthetiki-ayxisi-tis-paragogis-pyrinikon-oplon/" />
+    <updated>2026-06-04T10:49:52+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Βορειοκορεάτης ηγέτης Κιμ Γιονγκ Ουν επιθεώρησε νέα μονάδα παραγωγής πυρηνικού υλικού στρατιωτικής χρήσης και προανήγγειλε «εκθετική» αύξηση της παραγωγής πυρηνικών όπλων. Δήλωσε ότι η Πιονγιάνγκ θα ενισχύσει τις πυρηνικές της δυνάμεις. Πρόκειται για σημαντική κλιμάκωση των πυρηνικών φιλοδοξιών της Β. Κορέας.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; North Korean leader Kim Jong Un inspected a new weapons-grade nuclear production unit and announced an 'exponential' build-up of nuclear weapons. He said Pyongyang will further strengthen its nuclear forces. The move marks a sharp escalation of North Korea's nuclear ambitions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 80 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:87ec6fbc635f</id>
+    <title>Ε.Ε.: Ημιαγωγοί, data centers και ΑΙ στη μάχη κατά της εξάρτησης από ΗΠΑ και Κίνα</title>
+    <link href="https://www.kathimerini.gr/world/564264511/e-e-imiagogoi-data-centre-kai-ai-sti-machi-kata-tis-exartisis-apo-ipa-kai-kina/" />
+    <updated>2026-06-04T10:12:30+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Κομισιόν παρουσίασε υπερφιλόδοξο «πακέτο» μέτρων για την ενίσχυση της παραγωγής ευρωπαϊκών chip, την προτίμηση σε ευρωπαϊκά cloud και τεχνητή νοημοσύνη, σε ένα γεωπολιτικό στοίχημα έναντι ΗΠΑ και Κίνας. Πρόκειται για στρατηγική κίνηση τεχνολογικής αυτονομίας. Στόχος η μείωση της εξάρτησης από ξένη τεχνολογία.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Commission unveiled an ambitious package to boost EU chip production, with preferences for European cloud and AI providers, framed as a new geopolitical bet against the US and China. It is positioned as a strategic technology autonomy push. The aim is to reduce reliance on foreign tech.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:ac78038b3263</id>
+    <title>Βουλή: Διαλύθηκε η Κ.Ο. της Νέας Αριστεράς – Πυρά Κωνσταντοπούλου κατά Τσίπρα</title>
+    <link href="https://www.kathimerini.gr/politics/564264676/voyli-dialythike-i-k-o-tis-neas-aristeras-pyra-konstantopoyloy-kata-tsipra/" />
+    <updated>2026-06-04T11:38:10+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Διαλύθηκε η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς μετά τις δηλώσεις αποχώρησης Χαρίτση, Ηλιόπουλου, Τζανακόπουλου, Ζεϊμπέκ, Τζούφη και Φωτίου. Η Ζωή Κωνσταντοπούλου (Πλεύση Ελευθερίας) κατηγόρησε τον Τσίπρα ότι προσπαθεί να διαλύσει την αντιπολίτευση. Αναμένονται και άλλες ανακοινώσεις μετακινήσεων.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece's New Left parliamentary group dissolved after departure declarations by Charitsis, Iliopoulos, Tzanakopoulos, Zeibek, Tzoufi and Fotiou. Plefsi Eleftherias leader Zoi Konstantopoulou accused Alexis Tsipras of trying to dismantle the opposition. Further defections are expected.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:de16a0c41369</id>
+    <title>ΗΠΑ: Με το ισχύον νομικό καθεστώς η Τουρκία δεν μπορεί να πάρει F-35, λέει ο Ρούμπιο</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564263293/ipa-me-to-ischyon-nomiko-kathestos-i-toyrkia-den-mporei-na-parei-f-35-leei-o-roympio/" />
+    <updated>2026-06-03T19:04:44+00:00</updated>
+    <author><name>Λένα Αργύρη</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Σύμφωνα με τον Αμερικανό υπουργό Εξωτερικών Μάρκο Ρούμπιο, η Τουρκία δεν μπορεί να πάρει F-35 υπό το ισχύον νομοθετικό πλαίσιο. Η εκτελεστική εξουσία δεν μπορεί μονομερώς να μεταβάλει το καθεστώς αποκλεισμού. Χρειάζεται νομοθετική ή θεσμική μεταβολή.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; According to US Secretary of State Marco Rubio, Turkey cannot receive F-35 jets under current US law. The executive branch cannot unilaterally lift Ankara's exclusion from the programme. Legislative or institutional change would be required.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:09a4b2774d17</id>
+    <title>Ελληνοτουρκικά: Επιστροφή στους ήπιους τόνους από την Αγκυρα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564263731/ellinotoyrkika-epistrofi-stoys-ipioys-tonoys-apo-tin-agkyra/" />
+    <updated>2026-06-04T08:22:00+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary type="text">Δραματική αύξηση των τουρκικών παραβιάσεων στα ελληνοτουρκικά καταγράφουν τα στοιχεία των Ενόπλων Δυνάμεων: από 8 παραβιάσεις του Εθνικού Εναέριου Χώρου το 2024 σε 225 το 2025, ενώ το α' τετράμηνο 2026 έχουν φτάσει τις 423. Η συζήτηση για το νομοσχέδιο της «Γαλάζιας Πατρίδας» και η στοχοποίηση της Ελλάδας από την Άγκυρα ως «μακρύ χέρι» του Ισραήλ επαναφέρει ένταση που θυμίζει τα προ του 2023.
-
-— EN —
-Greek armed forces data show a dramatic spike in Turkish violations of Greek sovereignty: airspace violations rose from 8 in 2024 to 225 in 2025 and have already hit 423 in the first four months of 2026. With Ankara reviving its 'Blue Homeland' doctrine and casting Athens and Nicosia as Israel's 'long arms,' the so-called calm waters era is unmistakably over.</summary>
-    <content type="text">Τις τελευταίες εβδομάδες η Αγκυρα κατέστησε ποικιλοτρόπως σαφές ότι η περίοδος που είχε γίνει ευρύτερα γνωστή ως αυτή των «ήρεμων νερών» στα ελληνοτουρκικά θα αποτελέσει σύντομα παρελθόν. Η συζήτηση για το επικείμενο νομοσχέδιο της αποκαλούμενης «Γαλάζιας Πατρίδας» , κυρίως μέσω διαρροών, καθώς και η στοχοποίηση της Ελλάδας και της Κυπριακής Δημοκρατίας ως «μακριών χεριών» του Ισραήλ στην πλάτη της Τουρκίας, έχουν επαναφέρει ένταση που θυμίζει την προ του 2023 ατμόσφαιρα.
-
-Τα στοιχεία που παρουσιάζει η «Κ» σήμερα, και προέρχονται από την επεξεργασία που κάνουν οι Ενοπλες Δυνάμεις, αποτυπώνουν τις διακυμάνσεις της πολιτικής αμφισβήτησης των κυριαρχικών δικαιωμάτων της Ελλάδας από την Τουρκία και κατά την περίοδο 2024-2026.
-
-Επιστροφή στην ένταση – Οι διαρροές για το νομοσχέδιο της αποκαλούμενης «Γαλάζιας Πατρίδας» και η στοχοποίηση της Ελλάδας και της Κύπρου ως «μακριών χεριών» του Ισραήλ στην πλάτη της Τουρκίας έχουν επαναφέρει ένταση που θυμίζει την ατμόσφαιρα προ του 2023.
-
-Ενα χαρακτηριστικό στοιχείο είναι οι παραβιάσεις των ελληνικών χωρικών υδάτων από πλοία του τουρκικού ναυτικού και της ακτοφυλακής, που πραγματοποιούν μη αβλαβείς διελεύσεις. Κατά το 2024 καταγράφηκαν 1.109 τέτοιες διελεύσεις, ενώ το 2025 ο αριθμός ήταν παρόμοιος (1.107). Μόνο στο α΄ τετράμηνο του 2026 (Ιανουάριος – Απρίλιος) έχουν ήδη καταγραφεί 423 παραβιάσεις, αριθμός που αναγόμενος σε ετήσια βάση αναδεικνύει αύξηση σε σχέση με τα δύο προηγούμενα χρόνια.
-
-Στον εναέριο χώρο πάνω από το Αιγαίο η κατάστα</content>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Επιστροφή στους ήπιους τόνους από την Άγκυρα στις ελληνοτουρκικές σχέσεις. Οι δίαυλοι επικοινωνίας με την Τουρκία παραμένουν ανοιχτοί σε όλα τα επίπεδα, σύμφωνα με την Αθήνα. Το τουρκικό νομοσχέδιο για τη «Γαλάζια Πατρίδα» αναμένεται να ψηφιστεί τελικά τον Οκτώβριο.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Turkey has returned to a milder tone in Greek-Turkish relations, according to Athens, which says channels of communication remain open at all levels. The 'Blue Homeland' bill, initially expected sooner, may now be voted on in October. The diplomatic temperature has cooled.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Νέα Αριστερά: Διαλύεται η Κ.Ο. – Ανεξαρτητοποιήθηκαν 7 βουλευτές, αποχώρησαν 143 στελέχη</title>
-    <link href="https://www.kathimerini.gr/politics/564259801/nea-aristera-dialythike-i-k-o-anexartopoiithikan-7-voyleytes-apochorisan-143-stelechi/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:1f9dcfb0b9ba</id>
-    <updated>2026-06-02T10:44:06+00:00</updated>
+    <id>urn:greek-news:2026-06-04:99d4fb057d5a</id>
+    <title>Ο πόλεμος στο Ιράν επιταχύνει την απεξάρτηση από το πετρέλαιο</title>
+    <link href="https://www.kathimerini.gr/economy/international/564264238/o-polemos-sto-iran-epitachynei-tin-apexartisi-apo-to-petrelaio/" />
+    <updated>2026-06-04T09:23:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Διαλύεται η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς, καθώς 7 βουλευτές ανεξαρτητοποιήθηκαν και 143 στελέχη αποχώρησαν συνολικά 150 στελεχών συμπεριλαμβανομένων βουλευτών. Παραμένουν μόνο 4 βουλευτές, μεταξύ τους ο Ευκλείδης Τσακαλώτος. Η Έφη Αχτσιόγλου παραιτήθηκε από έδρα. Η ομάδα κάνει λόγο για «έκρυθμη» κοινωνική κατάσταση και αναζητά νέα πολιτική πρόταση για την Αριστερά.
-
-— EN —
-Greece's New Left (Nea Aristera) party has collapsed as a parliamentary group: seven MPs declared themselves independent and a further 143 cadres resigned in a joint letter signed by 150 people. Only four MPs remain, including Euclid Tsakalotos. Efi Achtsioglou gave up her seat. The departing faction cited an 'explosive' social situation and pledged to launch a new left project.</summary>
-    <content type="text">(upd. 12:22) Την αποχώρησή τους από τη Νέα Αριστερά ανακοίνωσαν με επιστολή τους συνολικά 150 στελέχη του κόμματος, ανάμεσά τους και επτά βουλευτές.
-
-Οσον αφορά τους βουλευτές, ανεξαρτητοποιήθηκαν οι Αλέξης Χαρίτσης, Νάσος Ηλιόπουλος, Εφη Αχτσιόγλου, Δημήτρης Τζανακόπουλος, Χουσεΐν Ζεϊμπέκ, Μερόπη Τζούφη και Θεανώ Φωτίου.
-
-Αυτό σημαίνει ότι διαλύεται η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς, καθώς μένει με τέσσερις μόνο βουλευτές, τους Ευκλείδη Τσακαλώτο, Θεόδωρο Δρίτσα, Σία Αναγνωστοπούλου και Πέτη Πέρκα.
-
-Οπως έγινε γνωστό λίγο αργότερα, η Εφη Αχτσιόγλου παραιτήθηκε από βουλευτής και παρέδωσε την κοινοβουλευτική της έδρα. Τη θέση της στη Βουλή αναμένεται να παρει ο Γιάννης Δραγασάκης, ως ο πρώτος επιλαχών.
-
-Διαβάστε εδώ την επιστολή της Εφης Αχτσιόγλου
-
-Το κείμενο αποχώρησης υπογράφουν συνολικά 150 στελέχη, συμπεριλαμβανομένων και των επτά βουλευτών. Οπως αναφέρουν:
-
-«Αποχωρούμε από τη Νέα Αριστερά, γιατί πιστεύουμε ότι ο κύκλος που άνοιξε πριν από δύο χρόνια έχει φτάσει στα όριά του. Είναι μια δύσκολη αλλά αναγκαία απόφαση.
-
-Δημιουργήσαμε τη Νέα Αριστερά για να κρατήσουμε ζωντανή μια άλλη δυνατότητα για την Αριστερά, την κοινωνία και τη χώρα. Για να αντιπαρατεθούμε στον εκφυλισμό, στην απαξίωση της πολιτικής, στη λογική του μέσου όρου. Δώσαμε αυτή τη μάχη με επιμονή και πολιτική εντιμότητα.
-
-Η Νέα Αριστερά δεν ήταν ένα κόμμα σιωπής ή ίσων αποστάσεων. Ηταν η πολιτική δύναμη που, μέσα σε ένα όλο και πιο συντηρητικό και αυταρχικό πολιτικό περιβάλλον, είχε αιχμηρό και τεκμηρ</content>
+    <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Από το ξέσπασμα του πολέμου στο Ιράν, η ζήτηση πετρελαίου έχει μειωθεί κατά 9% στην Κίνα — τεράστια μείωση σε σύγκριση με την κρίση του 2008 (όπου η παγκόσμια ζήτηση μειώθηκε μόνο 2%). Επιταχύνεται η στροφή στην ηλεκτροκίνηση και η απεξάρτηση από τους υδρογονάνθρακες. Πρόκειται για ριζική αναδιάταξη των ενεργειακών ροών.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Since the Iran war began, China's oil demand has fallen by 9% — a dramatic drop versus the 2% decline during the 2008 financial crisis. The shift to electric mobility and energy diversification is accelerating. The global energy mix is being radically reshaped.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ζελένσκι προς Τραμπ: Στείλτε πυραύλους Patriot – Ο πόλεμος σε νέα φάση,  λέει η Ρωσία</title>
-    <link href="https://www.kathimerini.gr/world/564260308/zelenski-pros-tramp-steilte-pyrayloys-patriot/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:e55fbe7596fc</id>
-    <updated>2026-06-02T12:30:44+00:00</updated>
+    <id>urn:greek-news:2026-06-04:d527e7284d2d</id>
+    <title>Θολό τοπίο για την εκεχειρία στον Λίβανο – Συνεχίζονται οι επιθέσεις</title>
+    <link href="https://www.kathimerini.gr/world/564264793/tholo-topio-gia-tin-ekecheiria-ston-livano-synechizontai-oi-epitheseis/" />
+    <updated>2026-06-04T12:59:29+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Νέα έκκληση του Βολοντίμιρ Ζελένσκι προς τον Ντόναλντ Τραμπ για αποστολή πυραύλων Patriot, μετά από μία από τις μεγαλύτερες ρωσικές επιθέσεις των τελευταίων μηνών — 73 πύραυλοι και 656 drones πάνω σε Κίεβο, Ντνίπρο, Ζαπορίζια, Πολτάβα και Χάρκοβο. Δεκαεννέα νεκροί, μεταξύ τους τρία παιδιά. Η Μόσχα κάνει λόγο για «νέα φάση» του πολέμου.
-
-— EN —
-Ukrainian President Volodymyr Zelensky has renewed his appeal to Donald Trump to send Patriot missiles after Russia launched 73 missiles and 656 drones on cities including Kyiv, Dnipro and Kharkiv, killing 19 — among them three children. Moscow says the war has entered a 'new phase' while Kyiv warns attacks will continue without Western air defences.</summary>
-    <content type="text">Η νέα έκκληση του Ουκρανού προέδρου ήρθε έπειτα από μία από τις μεγαλύτερες ρωσικές επιθέσεις των τελευταίων μηνών, που άφησε πίσω της νεκρούς και τραυματίες
-
-(upd. 13: 46) Ο πρόεδρος της Ουκρανίας, Βολοντίμιρ Ζελένσκι , απηύθυνε νέα έκκληση προς τον Αμερικανό πρόεδρο, Ντόναλντ Τραμπ , να στείλει πυραύλους αεράμυνας Patriot στο Κίεβο, έπειτα από μία από τις μεγαλύτερες ρωσικές επιθέσεις των τελευταίων μηνών, που άφησε πίσω της 19 νεκρούς και δεκάδες τραυματίες.
-
-Σύμφωνα με την ουκρανική πολεμική αεροπορία, η Ρωσία εκτόξευσε κατά τη διάρκεια της νύχτας 73 πυραύλους και 656 μη επανδρωμένα αεροσκάφη (drones), μεταξύ των οποίων και οκτώ υπερηχητικούς πυραύλους Tsirkon. Στόχοι ήταν το Κίεβο, το Ντνίπρο, η Ζαπορίζια, η Πολτάβα και το Χάρκοβο .
-
-Στο Κίεβο, ισχυρές εκρήξεις συγκλόνισαν την πόλη, ενώ κάτοικοι κατέφυγαν σε υπόγεια, σταθμούς μετρό και καταφύγια. Υπήρξαν νεκροί, μεταξύ των οποίων, τρία παιδιά και δεκάδες τραυματίες. Πολυκατοικίες υπέστησαν σοβαρές ζημιές και σωστικά συνεργεία αναζητούσαν εγκλωβισμένους κάτω από τα συντρίμμια.
-
-«Αν η Ουκρανία δεν προστατευθεί από βαλλιστικούς και άλλους πυραύλους, αυτές οι επιθέσεις θα συνεχιστούν», δήλωσε ο Ζελένσκι. «Η Ευρώπη χρειάζεται τα δικά της αντιβαλλιστικά συστήματα και εμείς χρειαζόμαστε οπωσδήποτε αμερικανική βοήθεια με πυραύλους όπως οι Patriot» .
-
-Ο Ουκρανός πρόεδρος έχει επανειλημμένα προειδοποιήσει ότι τα αποθέματα αναχαιτιστικών πυραύλων Patriot εξαντλούνται. Τα αμερικανικά αυτά συστήματα θεωρούνται τα μόνα που μπορούν να </content>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο πρόεδρος του Λιβάνου Ζοζέφ Αούν δήλωσε ότι η εκεχειρία με το Ισραήλ, που επιτεύχθηκε με αμερικανική διαμεσολάβηση στην Ουάσιγκτον, βρίσκεται στο τελικό στάδιο και χαρακτήρισε τη συμφωνία «τελευταία ευκαιρία». Παρ' όλα αυτά, οι επιθέσεις συνεχίζονται και το τοπίο παραμένει θολό. Η πλήρης εφαρμογή της συμφωνίας είναι αβέβαιη.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Lebanese President Joseph Aoun says the Israel–Lebanon ceasefire reached through US mediation in Washington is in its final stage and called it a 'last chance.' Even so, strikes continue and the picture on the ground remains murky. Full implementation of the deal is uncertain.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ντίλιαν για υποκλοπές: Πουλάμε σε κρατικές υπηρεσίες – Να κληθεί άμεσα για κατάθεση, λέει το ΠΑΣΟΚ</title>
-    <link href="https://www.kathimerini.gr/politics/564259999/ntilian-gia-ypoklopes-poylame-se-kratikes-ypiresies-na-klithei-amesa-gia-katathesi-leei-to-pasok/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:e9c46b185ea2</id>
-    <updated>2026-06-02T10:24:32+00:00</updated>
+    <id>urn:greek-news:2026-06-04:f8548ea1c56f</id>
+    <title>Αρειος Πάγος: Δημοσιεύθηκε η απόφαση για τους δανειολήπτες του ν. Κατσέλη</title>
+    <link href="https://www.kathimerini.gr/economy/564264850/areios-pagos-dimosieythike-i-apofasi-gia-toys-daneioliptes-toy-n-katseli/" />
+    <updated>2026-06-04T13:34:46+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Ταλ Ντίλιαν, ιδρυτής της Intellexa και του Predator, δήλωσε στην «Εφημερίδα των Συντακτών» ότι η εταιρεία του πωλεί τεχνολογία σε κρατικές υπηρεσίες αλλά δεν αναμειγνύεται στη χρήση της. Το ΠΑΣΟΚ ζητά την άμεση κλήση του για κατάθεση. Η υπόθεση επανήλθε μετά την απόφαση της κυβέρνησης να εμποδίσει εξεταστική επιτροπή και την αρχειοθέτηση από τον εισαγγελέα του Αρείου Πάγου.
-
-— EN —
-Tal Dilian, founder of spyware firm Intellexa (maker of Predator), told Efimerida ton Syntakton that his company sells technology to state agencies but does not operate the systems for them. PASOK is demanding he be summoned to testify immediately. The wiretapping affair has resurfaced after the government blocked a parliamentary inquiry and the supreme court prosecutor shelved further investigations.</summary>
-    <content type="text">Δήλωση για την υπόθεση των υποκλοπών πραγματοποίησε στην «Εφημερίδα των Συντακτών» ο Ταλ Ντίλιαν , ιδρυτής της εταιρείας Intellexa που εμπορεύεται το κατασκοπευτικό λογισμικό Predator.
-
-Μεταξύ άλλων,  αναφέρει ότι η εταιρεία του πουλά τεχνολογία σε κρατικές υπηρεσίες , χωρίς όμως ποτέ να αναμειγνύεται στη χρήση της.
-
-«Είμαστε πάροχος τεχνολογίας, όχι μισθοφόροι. Η τεχνολογία μας χρησιμοποιείται καθημερινά για την υποστήριξη της ασφάλειας εκατομμυρίων ανθρώπων παγκοσμίως. Πωλούμε σε κρατικές υπηρεσίες σύμφωνα με όλους τους απαιτούμενους κανονισμούς, αλλά ποτέ δεν λειτουργούμε τα συστήματα για λογαριασμό τους», σημειώνει.
-
-Αναλυτικά η ερώτηση της εφημερίδας και η απάντηση του κ. Ντίλιαν:
-
-«Τις τελευταίες εβδομάδες, η υπόθεση των παρακολουθήσεων επανήλθε στην επικαιρότητα μετά την απόφαση της κυβέρνησης να εμποδίσει τη σύσταση κοινοβουλευτικής εξεταστικής επιτροπής επικαλούμενη λόγους εθνικής ασφάλειας. Λίγο πριν από αυτό, ο εισαγγελέας του Αρείου Πάγου αποφάσισε να θέσει στο αρχείο πρόσθετες έρευνες σχετικά με την υπόθεση. Ποια είναι η απάντησή σας σε αυτές τις εξελίξεις;».
-
-«Καθώς βγαίνουμε από τη Δευτέρα του Αγίου Πνεύματος, μια ημέρα βαθιάς πνευματικής, πολιτιστικής και εθνικής σημασίας για τον ελληνικό λαό, κάνουμε την παρούσα δήλωση με βαθύ σεβασμό προς τις αξίες της αλήθειας, της δικαιοσύνης και της θεσμικής ακεραιότητας, οι οποίες αποτελούν αναπόσπαστο μέρος της ταυτότητας της Ελλάδας.
-
-Τις τελευταίες εβδομάδες παρακολουθήσαμε στενά τις σημαντικές κοινοβουλευτικές συζητή</content>
+    <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η ολομέλεια του Αρείου Πάγου δημοσίευσε απόφαση που δικαιώνει με ισχυρή πλειοψηφία τους δανειολήπτες του ν. Κατσέλη για τον τρόπο υπολογισμού των τόκων. Η απόφαση έχει σημαντικές συνέπειες για χιλιάδες υπερχρεωμένα νοικοκυριά. Το πλήρες κείμενο θα αναρτηθεί προσεχώς.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greece's Supreme Court (Areios Pagos) published a plenary ruling that vindicates borrowers under the Katseli debt-relief law over how interest is calculated. The decision was carried by a strong majority and has major implications for thousands of overindebted households. The full text will follow.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Μεταναστευτικό: Πράσινο «φως» για «κόμβους» επιστροφής εκτός Ε.Ε.</title>
-    <link href="https://www.kathimerini.gr/politics/564259708/metanasteytiko-prasino-fos-gia-komvoys-epistrofis-ektos-e-e/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:457c596b72b6</id>
-    <updated>2026-06-01T23:49:20+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="politics"/>
-    <summary type="text">Πολιτική συμφωνία στις Βρυξέλλες για τον νέο Κανονισμό Επιστροφών της ΕΕ, που ανοίγει τον δρόμο για κέντρα απελάσεων σε τρίτες χώρες, ευρωπαϊκή εντολή επιστροφής και αυστηρότερες διαδικασίες. Θα συμπληρώνει το Σύμφωνο για τη Μετανάστευση και το Άσυλο που τίθεται σε εφαρμογή από 1η Ιουλίου. Η κυπριακή προεδρία μιλά για «ορόσημο».
-
-— EN —
-EU member states and the European Parliament reached political agreement on a new Returns Regulation that opens the door to deportation 'hubs' in third countries, a European return order and tougher procedures. It complements the Migration and Asylum Pact, which takes effect July 1. The Cypriot presidency hailed it as a 'milestone' for EU migration policy.</summary>
-    <content type="text">Ο νέος Κανονισμός προβλέπει αυστηρότερες διαδικασίες επιστροφών, ευρωπαϊκή εντολή επιστροφής και δυνατότητα δημιουργίας κέντρων απελάσεων σε τρίτες χώρες
-
-ΒΡΥΞΕΛΛΕΣ – ΑΝΤΑΠΟΚΡΙΣΗ. Μετά από μήνες διαπραγματεύσεων, που κορυφώθηκαν τη Δευτέρα μεταξύ των κρατών-μελών και του Ευρωπαϊκού Κοινοβουλίου, η Ευρωπαϊκή Ενωση κατέληξε σε πολιτική συμφωνία για τον νέο Κανονισμό των Επιστροφών, που θα συμπληρώσει το νέο Σύμφωνο για τη Μετανάστευση και το Ασυλο , που θα τεθεί σε εφαρμογή από την 1η Ιουλίου. Η συμφωνία, που επετεύχθη, ανοίγει τον δρόμο για σημαντική αυστηροποίηση του ευρωπαϊκού συστήματος επιστροφών όσων δεν διαθέτουν δικαίωμα παραμονής στην Ε.Ε.
-
-Η κυπριακή προεδρία του Συμβουλίου της Ε.Ε., η οποία ολοκλήρωσε τις διαπραγματεύσεις με το Ευρωπαϊκό Κοινοβούλιο, χαρακτήρισε τη συμφωνία «ορόσημο» για τη μεταναστευτική πολιτική της Ενωσης , υπογραμμίζοντας ότι οι νέοι κανόνες θα επιταχύνουν τις επιστροφές και θα ενισχύσουν την εφαρμογή των αποφάσεων απομάκρυνσης όσων δεν έχουν νόμιμο δικαίωμα παραμονής στο ευρωπαϊκό έδαφος. Χαιρετίζοντας τη συμφωνία, η πρόεδρος του Ευρωπαϊκού Κοινοβουλίου, Ρομπέρτα Μέτσολα τόνισε ότι οι νέοι κανόνες θα καταστήσουν ταχύτερη και πιο συνεκτική σε ολόκληρη την Ευρώπη την επιστροφή μεταναστών, που δεν έχουν δικαίωμα να παραμείνουν στην Ενωση.
-
-Στο επίκεντρο της συμφωνίας βρίσκεται η δυνατότητα δημιουργίας των λεγόμενων «κόμβων επιστροφής» (return hubs) σε τρίτες χώρες εκτός Ευρωπαϊκής Ενωσης. Οι νέοι κανόνες επιτρέπουν στα κράτη-μέλη να συνάπτουν συμφω</content>
+    <id>urn:greek-news:2026-06-04:b4c9b9cce9d0</id>
+    <title>Ανοιχτή η μάχη για τη δεύτερη θέση στο νέο πολιτικό σκηνικό</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564263713/anoichti-i-machi-gia-ti-deyteri-thesi-sto-neo-politiko-skiniko/" />
+    <updated>2026-06-04T13:09:00+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ανοιχτή η μάχη για τη δεύτερη θέση στο νέο πολιτικό σκηνικό μετά την εμφάνιση των κομμάτων Τσίπρα και Καρυστιανού. Οι «εν θερμώ» δημοσκοπήσεις δείχνουν μεγαλύτερο κατακερματισμό της αντιπολίτευσης παρά πολιτικό σεισμό. Ο διευθυντής της Pulse Γ. Αράπογλου επισημαίνει τον προδρομικό χαρακτήρα των στοιχείων.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The fight for second place in Greece's reshaped political landscape is wide open after Alexis Tsipras and Maria Karystianou launched new parties. Snap polls suggest greater opposition fragmentation rather than a clear new force. Pulse director Giorgos Arapoglou cautions the data are only preliminary.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 72 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Ισραηλινός ΥΠΑΜ: Οι ΗΠΑ εγκρίνουν βομβαρδισμό της Βηρυτού αν δεχθούμε επίθεση</title>
-    <link href="https://www.kathimerini.gr/world/564260500/israilinos-ypam-oi-ipa-egkrinoyn-na-vomvardisoyme-ti-viryto-an-dechtoyme-epithesi/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:c981ec80ffa8</id>
-    <updated>2026-06-02T15:29:58+00:00</updated>
+    <id>urn:greek-news:2026-06-04:b963f9b3557e</id>
+    <title>ΥΠΕΞ: «Καμπανάκι» στην Αλβανία για την ενταξιακή της πορεία</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564263137/ypex-ta-anoichta-metopa-se-toyrkia-alvania-kai-oykrania/" />
+    <updated>2026-06-03T19:03:01+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ο Ισραηλινός υπουργός Άμυνας Ισραέλ Κατς δήλωσε ότι το Ισραήλ έχει λάβει αμερικανική έγκριση να βομβαρδίσει τα νότια προάστια της Βηρυτού — προπύργιο της Χεζμπολάχ — εάν η οργάνωση επιτεθεί σε ισραηλινό έδαφος. Συνδέει την «τύχη της Νταχίγια» με την ασφάλεια των βόρειων ισραηλινών οικισμών και προειδοποιεί για κλιμάκωση.
-
-— EN —
-Israel's defence minister Israel Katz said Washington has approved Israeli strikes on Beirut's southern suburbs — a Hezbollah stronghold — should the group attack Israeli territory. Katz tied the fate of Dahieh to security in northern Israeli communities, signalling a sharp escalation of the standoff with the Iran-backed group.</summary>
-    <content type="text">«Είτε σταματά ο βομβαρδισμός των [ισραηλινών] πόλεων, είτε, αν αυτός συνεχιστεί, θα πλήξουμε την Νταχίγια στη Βηρυτό», διεμήνυσε ο Ισραηλινός υπουργός
-
-Ο Ισραηλινός υπουργός Aμυνας, Iσραελ Κατς, δήλωσε ότι η χώρα του έλαβε έγκριση από τις ΗΠΑ να βομβαρδίσει τα νότια προάστια της Βηρυτού, προπύργιο της Χεζμπολάχ , σε περίπτωση που η φιλοϊρανική οργάνωση επιτεθεί σε ισραηλινό έδαφος, σύμφωνα με ανακοίνωση του γραφείου του.
-
-«Ο πρωθυπουργός και εγώ, μαζί με τον ισραηλινό στρατό, εργαζόμαστε για να συνδέσουμε την τύχη της Νταχίγια (σ.σ. τα νότια προάστια της Βηρυτού) με αυτήν των βόρειων ισραηλινών οικισμών. Αν οι ισραηλινοί οικισμοί συνεχίσουν να δέχονται επιθέσεις, θα εκκενώσουμε και θα βομβαρδίσουμε τη σιιτική συνοικία Νταχίγια στη Βηρυτό , ένα προπύργιο της Χεζμπολάχ», τόνισε ο Κατς.
-
-«Οι ΗΠΑ ενέκριναν αυτήν την αρχή και τη μετέφεραν στη λιβανέζικη κυβέρνηση και σε όλα τα εμπλεκόμενα μέρη. Είτε σταματά ο βομβαρδισμός των [ισραηλινών] πόλεων, είτε, αν αυτός συνεχιστεί, θα πλήξουμε την Νταχίγια στη Βηρυτό», συνέχισε ο υπουργός.</content>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η εκπρόσωπος του ΥΠΕΞ Λάνα Ζωχιού αναφέρθηκε στα επεισόδια στη Σβέρνιτσα της Αλβανίας, όπου τραυματίστηκε Έλληνας πολίτης, στο ουκρανικό drone στη Λευκάδα και στο τουρκικό νομοσχέδιο «Γαλάζια Πατρίδα». «Καμπανάκι» στην Αλβανία για την ενταξιακή της πορεία. Πολύπλευρες διπλωματικές προκλήσεις.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek Foreign Ministry spokeswoman Lana Zochiou raised the Sverniste incidents in Albania (where a Greek citizen was injured), the Ukrainian drone found in Lefkada and Turkey's 'Blue Homeland' bill. Greece warned Albania over its EU accession path. The day showed multiple diplomatic challenges.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Εφη Αχτσιόγλου: Παραιτήθηκε από βουλευτής – Η επιστολή της</title>
-    <link href="https://www.kathimerini.gr/politics/564260149/efi-achtsiogloy-paraitithike-apo-voyleytis-i-epistoli-tis/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:ee8a6db452d0</id>
-    <updated>2026-06-02T11:32:47+00:00</updated>
+    <id>urn:greek-news:2026-06-04:49b2f89cc9db</id>
+    <title>Απειλές Τραμπ για νέους δασμούς σε 60 χώρες</title>
+    <link href="https://www.kathimerini.gr/economy/international/564264187/apeiles-tramp-gia-neoys-dasmoys-se-60-chores/" />
+    <updated>2026-06-04T07:02:47+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Παραιτήθηκε από βουλευτής η Έφη Αχτσιόγλου, λίγο μετά την ανακοίνωση 150 στελεχών της Νέας Αριστεράς για αποχώρηση από το κόμμα. Η θέση της θα καταληφθεί από τον Γιάννη Δραγασάκη ως πρώτο επιλαχόντα. Στην επιστολή της επικαλείται την «εκρηκτική» κοινωνική κατάσταση μετά 7 χρόνια δεξιάς διακυβέρνησης και την ανάγκη νέας πολιτικής πρότασης.
-
-— EN —
-Efi Achtsioglou resigned her parliamentary seat shortly after 150 members of New Left (Nea Aristera) announced their departure from the party. Her seat will be taken by Yannis Dragasakis as the next alternate. In her letter she invoked Greece's 'explosive' social situation after nearly seven years of right-wing rule and called for a new political proposal.</summary>
-    <content type="text">Την παραίτησή της από τη θέση της βουλευτού γνωστοποίησε η Εφη Αχτσιόγλου , λίγη ώρα μετά την ανακοίνωση 150 στελεχών της Νέας Αριστεράς ότι αποχωρούν από το κόμμα .
-
-Τη θέση της στη Βουλή θα πάρει ο Γιάννης Δραγασάκης ως ο πρώτος επιλαχών.
-
-Η κ. Αχτσιόγλου είναι μεταξύ των επτά βουλευτών που υπέγραψαν τη σχετική επιστολή αποχώρησης, μαζί με τους Αλέξη Χαρίτση, Νάσο Ηλιόπουλο, Δημήτρη Τζανακόπουλο, Χουσεΐν Ζεϊμπέκ, Μερόπη Τζούφη και Θεανώ Φωτίου.
-
-Αυτό σημαίνει ότι διαλύεται η Κοινοβουλευτική Ομάδα της Νέας Αριστεράς, καθώς μένει με τέσσερις μόνο βουλευτές, τους Ευκλείδη Τσακαλώτο, Θεόδωρο Δρίτσα, Σία Αναγνωστοπούλου και Πέτη Πέρκα.
-
-«Η κοινωνική κατάσταση στη χώρα, μετά από σχεδόν επτά χρόνια διακυβέρνησης της δεξιάς, είναι κυριολεκτικά εκρηκτική. Το δυσβάσταχτο κόστος ζωής, οι απορρυθμισμένες εργασιακές σχέσεις, η στεγαστική κρίση, η απαξίωση του κοινωνικού κράτους, η υπονόμευση του κράτους δικαίου και της δημοκρατίας, η σύμπραξη με το γενοκτόνο καθεστώς του Ισραήλ είναι μόνο κάποιοι τίτλοι. Τίτλοι πίσω από τους οποίους, όμως, βρίσκεται η ζωή εκατομμυρίων ανθρώπων.
-
-Μπορεί πραγματικά να αλλάξει κάτι σήμερα; Μπορούν να εφαρμοστούν πολιτικές που θα βελτιώσουν τη ζωή των πολλών; Που θα τους κάνουν να νιώθουν ότι έχει νόημα να μένουν σ’ αυτόν τον τόπο; Θα αποκαταστήσουν το βαθιά πληγωμένο αίσθημα δικαιοσύνης; Αυτά τα ερωτήματα λαμβάνουν πια χαρακτήρα επείγοντος. Είναι βαθιά μου πεποίθηση ότι η λογική της αυτάρκειας και της ιδεολογικής καθαρότητας δεν υπηρετεί σήμερα τις πραγματ</content>
+    <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Οι ΗΠΑ προτείνουν νέους δασμούς τουλάχιστον 10% στις εισαγωγές από 60 οικονομίες, επικαλούμενες την αποτυχία απαγόρευσης προϊόντων καταναγκαστικής εργασίας. Η λίστα περιλαμβάνει και την Ευρωπαϊκή Ένωση. Πρόκειται για κίνηση που θα πλήξει τους περισσότερους εμπορικούς εταίρους.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The US proposes new tariffs of at least 10% on imports from 60 economies, citing failure to ban goods made with forced labour. The EU is on the list. The move would hit most major US trading partners.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Υπουργείο Οικονομικών: Τα νέα μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και παράνομο τζόγο</title>
-    <link href="https://www.kathimerini.gr/economy/564260044/ypoyrgeio-oikonomikon-ta-nea-metra-gia-diathesimo-eisodima-idiotiko-chreos-stegi-kai-paranomo-tzogo/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:3456d16c0ccc</id>
-    <updated>2026-06-02T11:00:32+00:00</updated>
+    <id>urn:greek-news:2026-06-04:83626b55f9dc</id>
+    <title>Διαβήματα προς το Κίεβο για το drone</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564263734/diavimata-pros-to-kievo-gia-to-drone/" />
+    <updated>2026-06-04T07:07:15+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Επίσημη επιβεβαίωση δύο διαβημάτων της Αθήνας προς το Κίεβο για τη δράση ουκρανικού ναυτικού drone στο Ιόνιο, από την εκπρόσωπο του ΥΠΕΞ Λάνα Ζωχιού. Μέχρι τώρα η Ουκρανία δεν έχει απαντήσει στα ερωτήματα της Αθήνας. Διπλωματική ένταση μεταξύ των δύο χωρών.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Athens confirmed two diplomatic protests to Kyiv over a Ukrainian naval drone in the Ionian Sea, according to Foreign Ministry spokeswoman Lana Zochiou. Ukraine has yet to respond to Athens's questions. The incident has caused diplomatic friction.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:a72eefc90af4</id>
+    <title>Τα data centers, μεγάλη πρόκληση για το ηλεκτρικό σύστημα</title>
+    <link href="https://www.kathimerini.gr/economy/business/564264142/ta-data-centers-megali-proklisi-gia-to-ilektriko-systima/" />
+    <updated>2026-06-04T09:07:04+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
+    <category term="economy" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Τα κέντρα δεδομένων τεχνητής νοημοσύνης εξελίσσονται σε έναν από τους μεγαλύτερους καταναλωτές ενέργειας, καλύπτοντας σχεδόν το 28% της συνολικής αύξησης ζήτησης έως το 2030. Η βιώσιμη ανάπτυξή τους είναι η νέα μεγάλη πρόκληση για την Ευρώπη, τόνισε ο CEO της ΔΕΗ Γ. Στάσσης. Απαραίτητη η αύξηση της ισχύος.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; AI data centres are becoming major energy consumers, accounting for nearly 28% of total electricity demand growth through 2030. Their sustainable expansion is Europe's next big challenge, said PPC CEO Georgios Stassis. Boosting power capacity is essential.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:1a181f1f744b</id>
+    <title>Τέσσερις νεκροί από ουκρανικά πλήγματα στην Κριμαία</title>
+    <link href="https://www.kathimerini.gr/world/564264712/tesseris-nekroi-apo-oykranika-pligmata-stin-krimaia/" />
+    <updated>2026-06-04T11:55:22+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Σε δημόσια διαβούλευση έως τις 15 Ιουνίου τέθηκε το σχέδιο νόμου του υπουργείου Οικονομικών με μέτρα για διαθέσιμο εισόδημα, ιδιωτικό χρέος, στέγη και παράνομο τζόγο. Περιλαμβάνει συνταξιοδοτικές ρυθμίσεις, ενίσχυση της Επιτροπής Εποπτείας Παιγνίων, παρεμβάσεις στον εξωδικαστικό μηχανισμό ρύθμισης οφειλών και ρυθμίσεις για την Εταιρεία Ακινήτων Δημοσίου.
-
-— EN —
-Greece's finance ministry has opened public consultation until June 15 on a sweeping bill with measures on disposable income, private debt, housing and illegal gambling. The package covers pension adjustments, a stronger Hellenic Gaming Commission, changes to the out-of-court debt-settlement mechanism and rules for the state's real estate company.</summary>
-    <content type="text">Σε δημόσια διαβούλευση βρίσκεται από σήμερα και έως τις 15 Ιουνίου 2026 σχέδιο νόμου του υπουργείου Εθνικής Οικονομίας και Οικονομικών
-
-Σε δημόσια διαβούλευση βρίσκεται από σήμερα και έως τις 15 Ιουνίου 2026 το σχέδιο νόμου του υπουργείου Εθνικής Οικονομίας και Οικονομικών με τίτλο « Συνταξιοδοτικές ρυθμίσεις Δημοσίου, μέτρα αντιμετώπισης της ενεργειακής κρίσης και ενίσχυσης του διαθέσιμου εισοδήματος των πολιτών, μισθολογικές και φορολογικές διατάξεις, ρυθμίσεις για τον εξωδικαστικό μηχανισμό ρύθμισης οφειλών, ρυθμίσεις για την Επιτροπή Εποπτείας και Ελέγχου Παιγνίων και βελτίωση του πλαισίου για τα παίγνια, ρυθμίσεις για την Εταιρεία Ακινήτων Δημοσίου Α.Ε. και λοιπές διατάξεις ».
-
-Οι διατάξεις του σχεδίου νόμου συνιστούν μια ολοκληρωμένη νομοθετική παρέμβαση για την πρόληψη, τον εντοπισμό και την καταπολέμηση του παράνομου τζόγου.
-
-Ενίσχυση της Επιτροπής Εποπτείας και Ελέγχου Παιγνίων (ΕΕΕΠ)
-
-Μέτρα για τον έλεγχο της παράνομης διαδικτυακής δραστηριότητας
-
-Με πλέγμα διατάξεων του σχεδίου νόμου επιλύονται ζητήματα αναπροσαρμογής των συντάξεων κατόπιν εφαρμογής των νέων μισθολογικών νόμων για στρατιωτικούς και των εκ του νόμου εξομοιούμενων με αυτούς που εμπίπτουν στην αρμοδιότητα του ΓΛΚ, όπως παθόντες εν υπηρεσία ή προσώπων που λαμβάνουν τη σχετική σύνταξη λόγω θανάτου, καθώς και των πολεμικών συνταξιούχων και λοιπών κατηγοριών.
-
-Ρυθμίσεις για τον εξωδικαστικό μηχανισμό και το ιδιωτικό χρέος
-
-Μέτρα για την αντιμετώπιση της ενεργειακής κρίσης και τη στήριξη αγροτών:
-
-Ενισχύσε</content>
+    <category term="world" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Τέσσερις άνθρωποι σκοτώθηκαν σε ουκρανικά πλήγματα στην Κριμαία, σύμφωνα με τις τοπικές αρχές της προσαρτημένης από τη Ρωσία χερσονήσου. Το πλήγμα ακολούθησε επιθέσεις σε ενεργειακούς και στρατιωτικούς στόχους στη δεύτερη μεγαλύτερη πόλη της Ρωσίας. Συμπίπτει με την έναρξη του φόρουμ της Αγίας Πετρούπολης.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Four people were killed by Ukrainian strikes on Crimea, according to authorities in the Russian-annexed peninsula. The strikes follow attacks on energy and military targets in Russia's second-largest city. The escalation coincides with the opening of the St Petersburg International Economic Forum.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Μετά το Θησείο, το θυσιαστήριο του ΣΥΡΙΖΑ</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564257011/meta-to-thiseio-to-thysiastirio-toy-syriza/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:af5ee43b78e4</id>
-    <updated>2026-06-02T07:52:12+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Αλέξης Τσίπρας ετοιμάζει τα επόμενα βήματα του νέου κόμματος ΕΛΑΣ με στοχευμένες περιοδείες, ενώ ο ΣΥΡΙΖΑ καλείται να λάβει αποφάσεις για την επιβίωσή του. Δημοσκοπήσεις αναμένεται να αποτυπώσουν την ΕΛΑΣ στη δεύτερη θέση. Συζητείται ποιοι ετοιμάζονται να φύγουν από την Κουμουνδούρου και ποιοι θα παραμείνουν για τη μάχη εκλογικής επιβίωσης. Η συγκέντρωση στο Θησείο είχε στη συντριπτική πλειοψηφία πρώην ψηφοφόρους ΣΥΡΙΖΑ.
-
-— EN —
-Alexis Tsipras is mapping out the next steps of his new ELAS party with targeted tours, while his former party SYRIZA must decide its own future. Polls due this week are expected to place ELAS in second place. The article examines who is preparing to leave SYRIZA headquarters at Koumoundourou Street and who will stay to fight for electoral survival, noting that Tsipras's recent Thiseio rally drew overwhelmingly from former SYRIZA voters but lacked younger faces.</summary>
-    <content type="text">Ο Αλέξης Τσίπρας ετοιμάζει ήδη τα επόμενα βήματα του νέου κόμματος, με στοχευμένες περιοδείες. Την ίδια στιγμή, το πρώην κόμμα του, ο ΣΥΡΙΖΑ, καλείται να λάβει αποφάσεις για την ύπαρξή του. Ποιοι ετοιμάζονται να φύγουν και ποιοι να «ταμπουρωθούν» στην Κουμουνδούρου, για να δώσουν από εκεί μάχη εκλογικής επιβίωσης
-
-Δεν πείραξε κανέναν στην Αμαλίας που την περασμένη Τρίτη το βράδυ οι «ΕΛΑΣίτες» οι οποίοι βρέθηκαν στο Θησείο ήταν στη συντριπτική πλειοψηφία τους υποστηρικτές του ΣΥΡΙΖΑ . Τα «κλειδιά» της δεύτερης θέσης κρατάει το 20% που ψήφισε το πρώην κόμμα του Αλέξη Τσίπρα τον Μάιο του 2023. Ή το 17,8% που το στήριξε και ένα μήνα μετά. Oλοι στις τάξεις της αντιπολίτευσης θα εύχονταν σήμερα να είχαν το ποσοστό της «συντριβής» του Αλέξη Τσίπρα.
-
-Η ΕΛΑΣ εκτιμάται πως θα αποτυπωθεί δεύτερη στο κύμα των δημοσκοπήσεων που θα δημοσιευθούν μέσα στην εβδομάδα. Θα είναι όμως μια ασφαλής εικόνα; Ο ντόρος που προκάλεσε η έκπληξη του ονόματος, η βάση των ψηφοφόρων που έχει ο Αλέξης Τσίπρας και η αδυναμία του ΠΑΣΟΚ δίνουν μια πρώτη ώθηση στον πρώην πρωθυπουργό. Το θέμα είναι τι θα γράψει το «κοντέρ» στις αρχές Ιουλίου.
-
-Αυτό που έλειπε από τη συγκέντρωση στο Θησείο ήταν οι πιο νέες ηλικίες. Αν είδαν την εκδήλωση από το YouTube ίσως να είναι ένα ενθαρρυντικό στοιχείο, ωστόσο ο προβληματισμός που εκφράστηκε είναι κατά πόσον το όνομα που επέλεξε ο Αλέξης Τσίπρας θα μπορέσει να κάνει «γκελ» στη συγκεκριμένη κατηγορία κοινού. Εντονα ιστορικά φορτισμένο το ακρωνύμιο «ΕΛΑΣ», αποτελεί ένα ιδιόμορφο</content>
+    <id>urn:greek-news:2026-06-04:3db623cbc0fb</id>
+    <title>Υποκλοπές: Νέο αίτημα Κουκάκη στον Αρειο Πάγο για ανάσυρση της δικογραφίας</title>
+    <link href="https://www.kathimerini.gr/society/564264733/nea-aitisi-gia-anasyrsi-tis-dikografias-ton-ypoklopon-ston-areio-pago/" />
+    <updated>2026-06-04T12:23:58+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="society" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Δεύτερη αίτηση ανάσυρσης της δικογραφίας των υποκλοπών από το αρχείο κατατέθηκε στον Άρειο Πάγο από τον δικηγόρο Ζ. Κεσσέ, εκπροσωπώντας τον δημοσιογράφο Θανάση Κουκάκη. Η αίτηση ακολουθεί προηγούμενη του Χρ. Σπίρτζη. Η υπόθεση των παρακολουθήσεων επανέρχεται στη δικαστική ατζέντα.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Lawyer Zacharias Kessés filed a second petition at Greece's Supreme Court to revive the dormant wiretapping case file, on behalf of journalist Thanasis Koukakis. The motion follows a similar one by Christos Spirtzis. The Greek surveillance scandal is back on the judicial agenda.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; society | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Θεωρείο: To παρασκήνιο της ανατροπής  στον ΟΠΕΚΕΠΕ</title>
-    <link href="https://www.kathimerini.gr/politics/564257086/theoreio-to-paraskinio-tis-anatropis-ston-opekepe/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:2caf668a1e48</id>
-    <updated>2026-06-02T07:18:11+00:00</updated>
+    <id>urn:greek-news:2026-06-04:0abb548087ab</id>
+    <title>Δημοσκόπηση: Από ποια κόμματα αντλούν ψήφους Τσίπρας – Καρυστιανού</title>
+    <link href="https://www.kathimerini.gr/politics/564263416/dimoskopisi-apo-poia-kommata-antloyn-psifoys-tsipras-karystianoy/" />
+    <updated>2026-06-03T21:00:52+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Νέα δημοσκόπηση της GPO επιχειρεί να σκιαγραφήσει τις δεξαμενές ψηφοφόρων των νεοσύστατων κομμάτων Τσίπρα-Καρυστιανού, καθώς και τις ανακατατάξεις στην πρόθεση ψήφου. Η μελέτη διεξήχθη για λογαριασμό τηλεοπτικού σταθμού. Προσδιορίζει από ποια κόμματα αντλούν ψηφοφόρους.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A new GPO poll maps the voter pools of Greece's new Tsipras and Karystianou parties and how vote intentions are shifting. The survey was conducted for a TV station. It identifies which existing parties are losing supporters to the newcomers.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 65 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>urn:greek-news:2026-06-04:ec86ec28d27d</id>
+    <title>Πρώτο «ταμείο» από το Μαξίμου</title>
+    <link href="https://www.kathimerini.gr/politics/government/564263719/proto-tameio-apo-to-maximoy/" />
+    <updated>2026-06-04T06:58:39+00:00</updated>
     <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="opinion"/>
-    <summary type="text">Η «έκθεση Τυχεροπούλου» για τον ΟΠΕΚΕΠΕ προκάλεσε ευφορία στην κυβέρνηση και εκνευρισμό στην Ευρωπαϊκή Εισαγγελία: για 7 από 13 βουλευτές της ΝΔ είτε δεν προέκυψε ζημία στα ευρωπαϊκά ταμεία είτε δεν υπάρχουν επαρκή στοιχεία. Για τους υπόλοιπους έξι τα ποσά είναι κάτω από το όριο του κακουργήματος. Διαβιβάστηκε στις 18 Μαΐου χωρίς να κατονομάζονται βουλευτές.
-
-— EN —
-Kathimerini's Theoreio column reveals that the 'Tycheropoulou report' on the OPEKEPE agricultural-subsidy scandal cleared seven of 13 New Democracy MPs of any wrongdoing and found that amounts involving the other six fell below the felony threshold. Delivered to the European Public Prosecutor on May 18, the report has elated the government and irritated EU prosecutors. It notes OPEKEPE delays in handing over data and weaknesses in the financial police's analysis.</summary>
-    <content type="text">Ευφορία στην κυβέρνηση και εκνευρισμό στην Ευρωπαϊκή Εισαγγελία έχει προκαλέσει η λεγόμενη «έκθεση Τυχεροπούλου» για την υπόθεση των παράνομων επιδοτήσεων στον ΟΠΕΚΕΠΕ. Η πρώην ελέγκτρια του οργανισμού και βασική μάρτυρας στην υπόθεση διαπιστώνει ότι 7 εκ των 13 βουλευτών της Νέας Δημοκρατίας είτε δεν ζημίωσαν τα ευρωπαϊκά ταμεία είτε δεν υπάρχουν επαρκή στοιχεία για αυτό. Για τα υπόλοιπα έξι ελεγχόμενα πολιτικά πρόσωπα, η έκθεση διαπιστώνει ότι παρενέβησαν για την καταβολή παράνομων επιδοτήσεων σε αγρότες, όμως τα ποσά προσδιορίζονται ως πολύ χαμηλότερα του ορίου για το κακούργημα. Στην «έκθεση Τυχεροπούλου», που διαβιβάστηκε προς την Ευρωπαϊκή Εισαγγελία στις 18 Μαΐου, ο βαθμός εμπλοκής των βουλευτών δεν προκύπτει άμεσα, δηλαδή οι πολιτικοί δεν κατονομάζονται, αντιθέτως, παρατίθενται οι περιπτώσεις 23 παραγωγών για λογαριασμό των οποίων έγιναν οι πολιτικές παρεμβάσεις προς τον πρώην διοικητή του ΟΠΕΚΕΠΕ Δημήτρη Μελά. Πώς φτάσαμε έως εδώ; Από την ίδια την έκθεση προκύπτει ότι ο ΟΠΕΚΕΠΕ καθυστέρησε να αποστείλει δεδομένα που ζητήθηκαν για διασταύρωση στη διάρκεια της έρευνας κι επίσης αποκαλύπτεται η αδυναμία της Οικονομικής Αστυνομίας να αξιολογήσει ορθά μια σειρά από στοιχεία. Η υπόθεση των παράνομων επιδοτήσεων έχει πολύ δρόμο ακόμη, όμως είναι σαφές ότι δημιουργούνται νέα δεδομένα.
-
-Ενα ενδιαφέρον χαρακτηριστικό που μου λένε ότι έχουν αναπτύξει τελευταία ο Αντώνης Σαμαράς και οι συν αυτώ είναι ο… αντισυστημισμός. Ναι, όσο και αν φαίνεται περίεργο για έναν πρώην πρωθυπουργ</content>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Πρώτες δημοσκοπικές εκτιμήσεις στο Μέγαρο Μαξίμου μετά την ανακοίνωση των νέων κομμάτων Τσίπρα-Καρυστιανού. Η ΝΔ θεωρεί κέρδος ότι δεν έχει μεγάλες απώλειες προς τα δύο νέα κόμματα. Εκκρεμεί η ανακοίνωση του Σαμαρά.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Initial polling assessments at Greece's PM office on the impact of the new Tsipras and Karystianou parties. New Democracy sees it as a relative win that it has not lost heavily to either. Antonis Samaras's own party launch remains pending.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 65 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>Πίσω από τη φόρμουλα για «μισή ένταξη» της Ουκρανίας</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564257065/piso-apo-ti-formoyla-gia-misi-entaxi-tis-oykranias/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:92f5d7ffde7d</id>
-    <updated>2026-06-01T21:47:35+00:00</updated>
+    <id>urn:greek-news:2026-06-04:38bc4a7511a9</id>
+    <title>Η επιστολή της Κοβέσι στην ατζέντα</title>
+    <link href="https://www.kathimerini.gr/politics/government/564263755/i-epistoli-tis-kovesi-stin-atzenta/" />
+    <updated>2026-06-04T07:14:28+00:00</updated>
     <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="politics"/>
-    <summary type="text">Ανάλυση των επιπτώσεων της ιδέας του Γερμανού καγκελάριου Φρίντριχ Μερτς για «συνδεδεμένη ιδιότητα μέλους» (associate membership) στην ΕΕ — μία πιθανή «μισή ένταξη» που ξανανοίγει συζητήσεις για τη διεύρυνση. Η πρόταση συνδυάζεται με ιδέες για περιορισμό δικαιωμάτων βέτο σε νέα κράτη-μέλη και «σταδιακή» ένταξη, εν όψει του 2030 ως πιθανού ορίζοντα νέων εντάξεων (Ουκρανία, Μολδαβία, Δυτικά Βαλκάνια).
-
-— EN —
-Analysis of German Chancellor Friedrich Merz's proposal for EU 'associate membership' — a possible halfway-house enlargement model — and its implications for the union's architecture. Coupled with ideas to restrict new members' veto rights and pursue 'staged' accession, the proposal reframes the debate as Ukraine, Moldova and the Western Balkans target 2030 as a possible accession horizon.</summary>
-    <content type="text">Το σκεπτικό των (όχι και τόσο νέων) ιδεών του Φρίντριχ Μερτς και οι επιπτώσεις στην αρχιτεκτονική της Ευρωπαϊκής Ενωσης
-
-ΒΡΥΞΕΛΛΕΣ – ΑΝΤΑΠΟΚΡΙΣΗ. Πέρασαν ήδη 22 χρόνια μετά τη «μεγάλη έκρηξη» (Big Bang) της διεύρυνσης του 2004 και δεκατρία μετά την τελευταία ένταξη –εκείνη της Κροατίας το 2013– και η Ευρωπαϊκή Ενωση αντιμετωπίζει το ίδιο ερώτημα: θέλει πραγματικά να μεγαλώσει ή απλώς να υπόσχεται ότι κάποτε θα το κάνει;
-
-Η ρωσική εισβολή στην Ουκρανία μετέτρεψε τη διεύρυνση από τεχνοκρατική διαδικασία σε ζήτημα γεωπολιτικής επιβίωσης της Ενωσης.
-
-Η Ουκρανία και η Μολδαβία απέκτησαν καθεστώς υποψήφιας χώρας, τα Δυτικά Βαλκάνια επανήλθαν στο προσκήνιο και οι Βρυξέλλες υποσχέθηκαν –πριν από τρία χρόνια– το έτος 2030 ως πιθανό ορίζοντα νέων εντάξεων. Ομως, πίσω από τις μεγαλόστομες διακηρύξεις η πραγματικότητα παραμένει αρκετά πιο σύνθετη.
-
-Αυτό ακριβώς εξηγεί γιατί εμφανίζονται τώρα προτάσεις, που μέχρι πρότινος θεωρούνταν σχεδόν αιρετικές: περιορισμός δικαιωμάτων βέτο για νέα κράτη-μέλη, που προβάλλει εσχάτως ως «καινοτόμος» πρόταση από πλευράς Κομισιόν ή «σταδιακή» ένταξη και –κυρίως– η ιδέα του Γερμανού καγκελαρίου Φρίντριχ Μερτς για μια «συνδεδεμένη ιδιότητα μέλους» (associate membership) της Ουκρανίας.
-
-Η πρόταση Μερτς, πάντως, δεν γεννήθηκε στο «κενό». Ανθρωποι με γνώση του σκεπτικού του εξηγούν στην «Κ» ότι η βασική λογική είναι να δοθεί στην Ουκρανία στενότερη σύνδεση με την Ε.Ε., χωρίς να «μπλοκάρει» η πλήρης ένταξη στα εθνικά κοινοβούλια και τα δημοψηφίσματα κρατών-μελ</content>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Υπό συζήτηση η πρόοδος της Ελλάδας σε κράτος δικαίου, διαφάνεια και δικαιοσύνη ενόψει της ετήσιας έκθεσης της Κομισιόν. Ο υπουργός Επικρατείας Άκης Σκέρτσος συναντήθηκε στις Βρυξέλλες με τον επίτροπο Δικαιοσύνης Μάικλ ΜακΓκραθ. Στο τραπέζι και η επιστολή της Λάουρα Κοβέσι.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek discussions on rule of law, transparency and justice progressed ahead of the European Commission's annual report. Minister of State Akis Skertsos met Justice Commissioner Michael McGrath in Brussels. EPPO chief Laura Kövesi's recent letter is on the agenda.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 65 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>ΗΠΑ: Υπό πίεση για τον πόλεμο στο Ιράν ο Ρούμπιο</title>
-    <link href="https://www.kathimerini.gr/world/564260410/ipa-ypo-piesi-gia-ton-polemo-sto-iran-o-roympio/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:b3ae64c27e17</id>
-    <updated>2026-06-02T13:33:58+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ο Αμερικανός υπουργός Εξωτερικών Μάρκο Ρούμπιο θα βρεθεί ενώπιον της Γερουσίας και της Βουλής των Αντιπροσώπων αυτή την εβδομάδα, καθώς ο πόλεμος ΗΠΑ-Ιράν εισέρχεται στον τέταρτο μήνα του. Βουλευτές θα ζητήσουν σαφή στρατηγική εξόδου, ενώ η κυβέρνηση Τραμπ ζητά περικοπή 30% στις δαπάνες εξωτερικής πολιτικής και αύξηση 50% στις στρατιωτικές δαπάνες.
-
-— EN —
-US Secretary of State Marco Rubio faces Senate and House committees this week as the war with Iran enters its fourth month. Lawmakers are demanding a clear exit strategy amid rising concern — even within the Republican party — about the conflict's costs. The Trump administration is asking for a 30% cut in foreign-policy spending alongside a 50% boost in defence.</summary>
-    <content type="text">Βουλευτές και γερουσιαστές αναμένεται να ζητήσουν από τον Αμερικανό υπουργό Εξωτερικών να παρουσιάσει σαφή στρατηγική εξόδου από τη σύγκρουση
-
-Ο υπουργός Εξωτερικών των ΗΠΑ Μάρκο Ρούμπιο θα βρεθεί αυτή την εβδομάδα ενώπιον επιτροπών της Γερουσίας και της Βουλής των Αντιπροσώπων , σε μια σπάνια δημόσια ευκαιρία για τα μέλη των δύο σωμάτων να ζητήσουν εξηγήσεις για την εξωτερική πολιτική του προέδρου Ντόναλντ Τραμπ και κυρίως για τον συνεχιζόμενο πόλεμο με το Ιράν.
-
-Η σύγκρουση, η οποία ξεκίνησε στις 28 Φεβρουαρίου έπειτα από αμερικανοϊσραηλινές επιθέσεις κατά του Ιράν, εισέρχεται πλέον στον τέταρτο μήνα, ενώ αυξάνονται οι ανησυχίες ακόμη και εντός του Ρεπουμπλικανικού Κόμματος για το οικονομικό και πολιτικό κόστος της .
-
-Ο Ρούμπιο, που παράλληλα ασκεί και καθήκοντα συμβούλου εθνικής ασφάλειας, θα καταθέσει επισήμως σχετικά με τον κρατικό προϋπολογισμό. Η κυβέρνηση Τραμπ ζητεί την έγκριση του Κογκρέσου για περικοπή 30% στις δαπάνες που προορίζονται για την εξωτερική πολιτική , ενώ ταυτόχρονα επιδιώκει αύξηση 50% στις στρατιωτικές δαπάνες .
-
-Πολλοί βουλευτές και γερουσιαστές αναμένεται να ζητήσουν από τον Ρούμπιο να παρουσιάσει σαφή στρατηγική εξόδου από τη σύγκρουση . Ο Δημοκρατικός γερουσιαστής Κρις Μέρφι δήλωσε ότι «αυτός ο πόλεμος πρέπει να τελειώσει, ανεξάρτητα από τους όρους», επικαλούμενος τις επιπτώσεις των αυξημένων τιμών καυσίμων στους Αμερικανούς πολίτες.
-
-Η άνοδος των τιμών της ενέργειας και η αναστάτωση στις διεθνείς αγορές έχουν αυξήσει την πολιτική πίεση προς τον </content>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης για συνταγματική αναθεώρηση: Κατατίθεται η πρόταση της Ν.Δ.</title>
-    <link href="https://www.kathimerini.gr/politics/564260347/mitsotakis-gia-syntagmatiki-anatheorisi-katatethike-i-protasi-tis-nd/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:6eb8dca48f2e</id>
-    <updated>2026-06-02T13:09:56+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο πρωθυπουργός Κυριάκος Μητσοτάκης ανακοίνωσε ότι η Νέα Δημοκρατία καταθέτει στη Βουλή την πρόταση της για τη Συνταγματική Αναθεώρηση, με τομές σε ευθύνη υπουργών, επιλογή ηγεσίας Δικαιοσύνης, προστασία από αναδρομικούς φόρους και σύνδεση μονιμότητας Δημοσίου με αξιολόγηση. Προβλέπονται ίδρυση ιδιωτικών πανεπιστημίων και επιστολική ψήφος. Καλεί την αντιπολίτευση να καταθέσει θέσεις αντί να απέχει.
-
-— EN —
-Prime Minister Kyriakos Mitsotakis announced that New Democracy is tabling its constitutional revision proposal in parliament, including changes to ministerial responsibility, judicial leadership appointments, protections against retroactive taxes and linking public-sector tenure to performance reviews. Private universities and postal voting are also proposed. He urged opposition parties to submit their own positions instead of abstaining.</summary>
-    <content type="text">«Καλώ όλες τις πολιτικές δυνάμεις να καταθέσουν τις θέσεις τους, αντί να απέχουν όπως σήμερα»
-
-«Συνεπής στις δεσμεύσεις της, η Νέα Δημοκρατία καταθέτει, σήμερα, στη Βουλή την πρότασή της για τη Συνταγματική Αναθεώρηση. Εναν Οδικό Χάρτη που εκσυγχρονίζει τη δημόσια ζωή και το πολιτικό σύστημα, αντιμετωπίζοντας παθογένειες δεκαετιών. Ταυτόχρονα, όμως, ανοίγοντας και τον δρόμο για τις μεγάλες μεταρρυθμίσεις που έχει ανάγκη η πατρίδα μας, βαδίζοντας στον 21ο αιώνα», επισημαίνει ο πρωθυπουργός Κυριάκος Μητσοτάκης σε ανάρτησή του για την κατάθεση από τη Νέα Δημοκρατία στη Βουλή της πρότασής της για τη Συνταγματική Αναθεώρηση.
-
-«Η εισήγησή μας περιλαμβάνει τολμηρές τομές σε όλα τα πεδία: από την αλλαγή του άρθρου περί ευθύνης υπουργών, μέχρι την ανάδειξη της ηγεσίας της Δικαιοσύνης με εμπλοκή των ίδιων των δικαστών. Και από την προστασία της χώρας από κάθε απειλή πτώχευσης, μέχρι την προστασία των πολιτών από την επιβολή αναδρομικών φόρων. Και ακόμη, τη σύνδεση της μονιμότητας στο Δημόσιο με την αξιολόγηση των υπαλλήλων του», τονίζει ο Κυρ. Μητσοτάκης.
-
-«Ταυτόχρονα, προβλέπει ρυθμίσεις ώριμες στην κοινωνία, όπως η δυνατότητα ίδρυσης και ιδιωτικών πανεπιστημίων και η επέκταση της Επιστολικής Ψήφου σε όλους τους εκλογείς. Ενώ μεριμνά για το μέλλον και λαμβάνει μέτρα για την κλιματική κρίση, ενισχύοντας την προστασία του περιβάλλοντος. Αναγνωρίζοντας την προσιτή στέγη ως υποχρέωση της πολιτείας. Και θέτοντας την Τεχνητή Νοημοσύνη στην υπηρεσία της ατομικής και της κοινωνικής ευημερίας.</content>
-  </entry>
-  <entry>
-    <title>Eurostat: Πληθωρισμός 5% στην Ελλάδα τον Μάιο – Στο 3,2% στην Ευρωζώνη</title>
-    <link href="https://www.kathimerini.gr/economy/564260221/eurostat-plithorismos-5-stin-ellada-ton-maio-sto-3-2-stin-eyrozoni/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:ce4c91596287</id>
-    <updated>2026-06-02T12:13:31+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Στο 5% εκτινάχθηκε τον Μάιο ο πληθωρισμός στην Ελλάδα από 4,6% τον Απρίλιο, σύμφωνα με την Eurostat — από τους υψηλότερους στην ΕΕ. Στην Ευρωζώνη ανέβηκε στο 3,2% από 3%. Μεγαλύτερη συμβολή είχε η ενέργεια (+10,9%), ενώ ενισχύθηκε και ο δομικός πληθωρισμός στο 2,5%, με κύρια αιτία τον πόλεμο στη Μέση Ανατολή.
-
-— EN —
-Greek inflation jumped to 5% in May from 4.6% in April, one of the highest readings in the EU, according to Eurostat preliminary data. Eurozone inflation rose to 3.2% from 3%. Energy prices led the increase (+10.9%) on the back of the Middle East war, while core inflation also accelerated to 2.5%.</summary>
-    <content type="text">Στο 5% εκτινάχθηκε τον Μάιο ο πληθωρισμός στην Ελλάδα από 4,6% τον Απρίλιο, σύμφωνα με τα προκαταρκτικά στοιχεία της Eurostat που συνεχίζουν να δείχνουν τις επιπτώσεις του πολέμου στις τιμές ενέργειας . Υψηλότερα, στο 3,2%, κινήθηκε και πληθωρισμός στην Ευρωζώνη από 3% τον προηγούμενο μήνα.
-
-Ο δείκτης τιμών καταναλωτή στην Ελλάδα είναι από τους υψηλότερους στην Ε.Ε., με μόνο τη Βουλγαρία (6,3%) και τη Λιθουανία (5,1%) να την ξεπερνούν τον Μάιο.
-
-Σε επίπεδο Ευρωζώνης, τη μεγαλύτερη συμβολή στον πληθωρισμό είχε ο τομέας της ενέργειας (+10,9% τον Μάιο από 10,8% τον Απρίλιο), ως αποτέλεσμα του πολέμου στη Μέση Ανατολή. Ακολουθεί με μεγάλη διαφορά ο κλάδος των υπηρεσιών , που επίσης όμως επιτάχυνε (+3,5% σε σύγκριση με 3% τον Απρίλιο). Μικρότερη συνεισφορά είχαν η κατηγορία τροφίμων, αλκοόλ και καπνού (+2% έναντι 2,4% του Απριλίου) και τα μη ενεργειακά βιομηχανικά αγαθά (+0,9% έναντι 0,8% τον Απρίλιο).
-
-Ανησυχητικό είναι το γεγονός ότι ενισχύθηκε και ο δομικός πληθωρισμός, ο δείκτης που εξαιρεί τις ευμετάβλητες τιμές της ενέργειας, των τροφίμων, του αλκοόλ και του καπνού. Εκτιμάται ότι διαμορφώθηκε στο 2,5% στην Ευρωζώνη τον Μάιο από 2,2% τον Απρίλιο, σύμφωνα πάντοτε με τα προκαταρκτικά στοιχεία της Eurostat.
-
-Σημειώνεται ότι πληθαίνουν οι ενδείξεις για επικείμενη αύξηση επιτοκίων από την ΕΚΤ στη συνεδρίαση του Ιουνίου , καθώς η ραγδαία αύξηση των τιμών της ενέργειας ασκεί πληθωριστικές πιέσεις σε ολόκληρη την Ευρωζώνη.
-
-Οι αγορές προβλέπουν αύξηση επιτοκίων κατά 25 μονάδες βάσης,</content>
-  </entry>
-  <entry>
-    <title>Μόλις 241 ευρώ το μέσο δηλωθέν ενοίκιο</title>
-    <link href="https://www.kathimerini.gr/economy/564257428/molis-241-eyro-to-meso-dilothen-enoikio/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:6c32dda7836d</id>
-    <updated>2026-06-02T07:53:14+00:00</updated>
-    <author><name>Προκόπης Χατζηνικολάου</name></author>
-    <category term="economy"/>
-    <summary type="text">Σύμφωνα με αποκλειστικά στοιχεία της «Κ», το μέσο μηνιαίο δηλωθέν ενοίκιο κύριας κατοικίας διαμορφώθηκε στα 241 ευρώ και για φοιτητικές κατοικίες στα 244 ευρώ, σύμφωνα με τις φορολογικές δηλώσεις 2025 — εικόνα που απέχει δραματικά από την πραγματικότητα της αγοράς όπου ένα μικρό διαμέρισμα στην Αθήνα δύσκολα ενοικιάζεται κάτω των 500 ευρώ. Η υποδήλωση εισοδημάτων από ακίνητα παραμένει μία από τις μεγαλύτερες «μαύρες τρύπες» της οικονομίας.
-
-— EN —
-Average declared monthly rent in Greece is just €241 for a main residence and €244 for student housing — far below the market reality where a small Athens flat rarely rents below €500 — according to 2025 tax filings analysed by Kathimerini. Under-reporting of rental income remains one of the Greek economy's biggest tax-evasion gaps, fuelling debate over enforcement and housing affordability.</summary>
-    <content type="text">Σε μια περίοδο που η στεγαστική κρίση πιέζει ασφυκτικά χιλιάδες νοικοκυριά και τα ενοίκια καταγράφουν διαδοχικά ρεκόρ, τα επίσημα στοιχεία της φορολογικής διοίκησης αποτυπώνουν μια εικόνα που απέχει αισθητά από την πραγματικότητα της αγοράς
-
-Σε μια περίοδο που η στεγαστική κρίση πιέζει ασφυκτικά χιλιάδες νοικοκυριά και τα ενοίκια καταγράφουν διαδοχικά ρεκόρ, τα επίσημα στοιχεία της φορολογικής διοίκησης αποτυπώνουν μια εικόνα που απέχει αισθητά από την πραγματικότητα της αγοράς. Την ώρα που στην Αθήνα ακόμη και ένα μικρό διαμέρισμα δύσκολα ενοικιάζεται κάτω από 500 ευρώ, οι φορολογικές δηλώσεις –σύμφωνα με τα στοιχεία που αποκαλύπτει η «Κ» – εμφανίζουν μέσο μηνιαίο ενοίκιο μόλις 241 ευρώ για κύρια κατοικία . Η τεράστια αυτή απόκλιση φέρνει ξανά στο προσκήνιο το διαχρονικό πρόβλημα της υποδήλωσης εισοδημάτων από ακίνητα και αποκαλύπτει ότι η φοροδιαφυγή στα ενοίκια εξακολουθεί να αποτελεί μια από τις μεγαλύτερες «μαύρες τρύπες» της οικονομίας.
-
-Τα στοιχεία που προκύπτουν από τις φορολογικές δηλώσεις του 2025 (εισοδήματα 2024) είναι αποκαλυπτικά. Η μέση μηνιαία δαπάνη ενοικίου για κύρια κατοικία διαμορφώθηκε στα 241 ευρώ ανά φορολογούμενο, ενώ για τις φοιτητικές κατοικίες στα 244 ευρώ. Πρόκειται για ποσά που όχι μόνο δεν ανταποκρίνονται στις σημερινές συνθήκες της αγοράς, αλλά βρίσκονται πολύ χαμηλότερα από τα πραγματικά μισθώματα που καταβάλλουν οι ενοικιαστές, ιδιαίτερα στα μεγάλα αστικά κέντρα.
-
-Στην Αθήνα και γενικότερα στην Αττική, η εύρεση διαμερίσματος 50 έως 70 τετραγων</content>
-  </entry>
-  <entry>
-    <title>Η ναυτιλία αναζητεί «ρότα» για το μέλλον εν μέσω πολέμων</title>
-    <link href="https://www.kathimerini.gr/economy/564257554/i-naytilia-anazitei-rota-gia-to-mellon-en-meso-polemon/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:ea124bb4966f</id>
-    <updated>2026-06-02T07:49:47+00:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy"/>
-    <summary type="text">Η Αθήνα είναι το επίκεντρο της παγκόσμιας ναυτιλίας με την έναρξη των Ποσειδωνίων 2026, της μεγαλύτερης διοργάνωσης στην ιστορία του θεσμού: 2.227 εκθέτες από 83 χώρες, 20+ εθνικά περίπτερα, πάνω από 40.000 επαγγελματίες. Η εκδήλωση εστιάζει στις προκλήσεις από τους πολέμους, την ενεργειακή μετάβαση και τα νέα περιβαλλοντικά πλαίσια.
-
-— EN —
-Athens has become the global shipping capital with the opening of Posidonia 2026, the largest in the event's history: 2,227 exhibitors from 83 countries, more than 20 national pavilions, and over 40,000 visiting professionals. Wars, the energy transition and new environmental regulations dominate the agenda for an industry that carries 80% of world trade.</summary>
-    <content type="text">Η Αθήνα είναι από χθες Δευτέρα 1η Ιουνίου το επίκεντρο του παγκόσμιου εμπορίου και της ναυτιλίας , καθώς άνοιξαν οι πύλες της διεθνούς έκθεσης Ποσειδώνια 2026 . Η φετινή διοργάνωση, η οποία αναμένεται να είναι η μεγαλύτερη στη μακρά ιστορία του θεσμού, καταγράφει νέο ρεκόρ συμμετοχών, συγκεντρώνοντας 2.227 εκθέτες από 83 χώρες και εκπροσωπώντας κάθε τομέα της διεθνούς ναυτιλιακής βιομηχανίας. Μεταξύ αυτών περισσότερα από 20 εθνικά περίπτερα, στα οποία περιλαμβάνονται εκείνα των ΗΠΑ, της Κίνας, της Ιαπωνίας, της Νότιας Κορέας, πολλών ευρωπαϊκών χωρών όπως Γερμανία και Ιταλία, αλλά και κρατών του Περσικού Κόλπου. Το πραγματικά εντυπωσιακό αποτύπωμα της ελληνικής πλοιοκτησίας στον παγκόσμιο στόλο αποτελεί το βασικό κίνητρο για τη συγκέντρωση στην Αθήνα του παγκόσμιου οικοσυστήματος της ποντοπόρου ναυτιλίας και των προμηθευτών της.
-
-Στην ελληνική πρωτεύουσα αναμένονται περισσότεροι από 40.000 επαγγελματίες από όλο τον κόσμο, ένας αριθμός που λειτουργεί θετικά και για την εγχώρια οικονομία. Οπως χαρακτηριστικά αναφέρει ο διευθύνων σύμβουλος της διοργάνωσης, Θεόδωρος Βώκος , «εκτιμάμε ότι ο συνολικός οικονομικός κύκλος εργασιών που θα δημιουργηθεί από τα Ποσειδώνια 2026 θα ξεπεράσει σημαντικά τα 100 εκατ. ευρώ». Το ρεκόρ αυτό επεκτείνεται και στις παράλληλες εκδηλώσεις, αφού αναμένεται να πραγματοποιηθούν περίπου 70 συνέδρια και σεμινάρια, με την πρώτη μεγάλη δημόσια παρέμβαση να γίνεται από τον πρωθυπουργό Κυριάκο Μητσοτάκη τη Δευτέρα το απόγευμα.
-
-Τα δεδομένα που επιβεβαιώνουν τη</content>
-  </entry>
-  <entry>
-    <title>Στρεβλώσεις στη φορολογία ακινήτων</title>
-    <link href="https://www.kathimerini.gr/economy/564257431/strevloseis-sti-forologia-akiniton/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:7fd44e11569a</id>
-    <updated>2026-06-01T17:52:57+00:00</updated>
-    <author><name>Θάνος Τσίρος</name></author>
-    <category term="economy"/>
-    <summary type="text">Ανάλυση των στρεβλώσεων στη φορολογία ακινήτων: απουσία φόρου υπεραξίας στις αγοραπωλησίες παρά τα εκατομμύρια κέρδη, διαρκείς αναβολές του ΦΠΑ στα νεόδμητα, αυξανόμενη απόσταση πραγματικών από αντικειμενικές αξίες και μεγάλο απόθεμα κλειστών ακινήτων. Όλα αυτά υπογραμμίζουν την ανάγκη γενναίων αποφάσεων και τον φόβο πολιτικού κόστους πριν και μετά τις εκλογές.
-
-— EN —
-Analysis of distortions in Greek property taxation: no capital-gains tax on real-estate transactions despite the price boom, repeated postponements of VAT on new builds, a widening gap between market and assessed values, and a large stock of locked-up properties. The piece argues these distortions impede housing supply and require bold reforms — politically costly choices before and after elections.</summary>
-    <content type="text">Οι «παγωμένοι» φόροι, η εξόφθαλμη φοροδιαφυγή και ο φόβος του πολιτικού κόστους
-
-Φόρος υπεραξίας στις αγοραπωλησίες ακινήτων δεν επιβάλλεται στην Ελλάδα παρά την εκρηκτική αύξηση των τιμών που «γεννάει» κέρδη εκατοντάδων εκατομμυρίων ευρώ για τους συναλλασσόμενους. Ο ΦΠΑ στα νεόδμητα πηγαίνει από αναβολή σε αναβολή, με την τελευταία να εκπνέει στο τέλος του χρόνου. Η απόσταση των πραγματικών αξιών από τις αντικειμενικές μεγαλώνει από μήνα σε μήνα και το απόθεμα των κλειστών ακινήτων παραμένει πολύ μεγάλο, με αποτέλεσμα να δημιουργούνται εμπόδια στις προσπάθειες αύξησης της προσφοράς στέγης με τελικό στόχο τη συγκράτηση των τιμών. Οσο για την τοπική αυτοδιοίκηση, αποκτά τη δυνατότητα να «στραφεί» στα ακίνητα για την εξασφάλιση πόρων που θα εξασφαλιστούν μέσα από τα προς νομοθέτηση «τοπικά» και «περιφερειακά» τέλη. Τι δείχνουν όλα αυτά;
-
-Οτι οι εκκρεμότητες όσον αφορά τη φορολογία των ακινήτων είναι πολλές, μεγάλες και χρήζουν αποφάσεων από την πλευρά της κυβέρνησης, οι οποίες θα πρέπει να ληφθούν τόσο πριν όσο και μετά τις εκλογές.
-
-Οι πρώτες αποφάσεις που θα πρέπει να ληφθούν αφορούν τον ΦΠΑ επί των νεόδμητων ακινήτων αλλά και την επιβολή (ή μη) του φόρου υπεραξίας. Και οι δύο φόροι είναι νομοθετημένοι αλλά παραμένουν «παγωμένοι». Το τελευταίο νομοθετημένο «πάγωμα» καλύπτει την περίοδο μέχρι το τέλος του 2026 και το πιθανότερο είναι ότι και στη φετινή ΔΕΘ θα ανακοινωθεί περαιτέρω «πάγωμα» για τουλάχιστον ένα χρόνο. Με δεδομένη την ανάγκη για αύξηση των επενδύσεων αλλά και την</content>
-  </entry>
-  <entry>
-    <title>Νέο ρεκόρ για τις ισραηλινές εξαγωγές όπλων – Πάνω από 19 δισ. δολάρια</title>
-    <link href="https://www.kathimerini.gr/world/564260554/neo-rekor-gia-tis-israilines-exagogon-oplon-pano-apo-19-dis-dolaria/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:941a5836fc57</id>
-    <updated>2026-06-02T15:53:41+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Στα 19 δισ. δολάρια εκτινάχθηκαν οι ισραηλινές εξαγωγές όπλων το 2025, αύξηση 30% σε σχέση με το 2024 και πέμπτο διαδοχικό ρεκόρ. Πύραυλοι, ρουκέτες και αντιαεροπορική άμυνα αντιπροσώπευαν το 29% των συμβάσεων. Ευρωπαϊκές χώρες απορρόφησαν το 36% των πωλήσεων, ενώ άνω των μισών νέων συμβάσεων ξεπερνούν τα 100 εκατ. δολάρια.
-
-— EN —
-Israeli arms exports hit a fifth consecutive record in 2025, exceeding $19 billion — a near 30% jump from 2024 — driven mainly by air defence systems. Missiles, rockets and air defence made up 29% of contracts. European countries absorbed 36% of sales and more than half of new deals were valued above $100 million each.</summary>
-    <content type="text">Ευρωπαϊκές χώρες ήταν οι αποδέκτες του 36% των ισραηλινών εξαγωγών όπλων το περασμένο έτος
-
-Οι ισραηλινές εξαγωγές όπλων έφτασαν για πέμπτο συνεχόμενο έτος σε επίπεδο ρεκόρ, ξεπερνώντας το 2025 τα 19 δισεκατομμύρια δολάρια (περίπου 16,5 δισεκατομμύρια ευρώ), κυρίως από τις εξαγωγές συστημάτων αντιαεροπορικής άμυνας, ανακοίνωσε σήμερα το ισραηλινό υπουργείο Αμυνας.
-
-Σύμφωνα με το υπουργείο, αυτό είναι το υψηλότερο ποσό που έχει καταγράψει ποτέ το Ισραήλ σε αυτόν τον τομέα, μια αύξηση σχεδόν 30% σε σύγκριση με το 2024.
-
-Σύμφωνα με την ίδια ανακοίνωση, πύραυλοι, ρουκέτες και αντιαεροπορική άμυνα αντιπροσώπευαν το 29% των συμβάσεων που υπέγραψε το Ισραήλ.
-
-Ευρωπαϊκές χώρες ήταν οι αποδέκτες του 36% των ισραηλινών εξαγωγών όπλων το περασμένο έτος, ακολουθούμενες από εκείνες στην περιοχή Ασίας-Ειρηνικού (32%) και τη Μέση Ανατολή και τη Βόρεια Αφρική (15%).
-
-Από τις εκατοντάδες νέες συμβάσεις που υπογράφηκαν, περισσότερες από τις μισές ήταν «μεγάλες συμβάσεις» αξίας 100 εκατομμυρίων δολαρίων ή και περισσότερων, τόνισε το ισραηλινό υπουργείο.
-
-Το Ισραήλ είναι μεταξύ των κορυφαίων εξαγωγέων όπλων στον κόσμο. Το υπουργείο Αμυνας αποδίδει εν μέρει το ρεκόρ πωλήσεων στο διεθνές ενδιαφέρον για τα συστήματα που χρησιμοποιούνται στους πολέμους που διεξάγει το Ισραήλ τα τελευταία χρόνια.
-
-«Υπάρχει μια σαφής και αναμφισβήτητη σύνδεση μεταξύ των επιτυχιών που πέτυχαν οι Ισραηλινές Ενοπλες Δυνάμεις (IDF) σε όλα τα μέτωπα, των εξαιρετικών δυνατοτήτων των ισραηλινών βιομηχανιών άμυνας και της επι</content>
-  </entry>
-  <entry>
-    <title>Γ. Στουρνάρας: Η ακριβή στέγη επιτείνει το δημογραφικό πρόβλημα της Ελλάδος</title>
-    <link href="https://www.kathimerini.gr/economy/564260143/g-stoyrnaras-i-akrivi-stegi-epiteinei-to-dimografiko-provlima-tis-ellados/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:1d1632dfef3e</id>
-    <updated>2026-06-02T11:51:43+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Ο διοικητής της ΤτΕ Γιάννης Στουρνάρας προειδοποίησε από το Ντουμπρόβνικ ότι η ακριβή στέγη επιτείνει το δημογραφικό πρόβλημα της Ελλάδος, καθώς νέοι αναβάλλουν τη δημιουργία οικογένειας ή παραμένουν στους γονείς. Η κλιμακούμενη γήρανση του πληθυσμού μειώνει το εργατικό δυναμικό και πιέζει τα δημόσια οικονομικά. Πρότεινε επενδύσεις σε προσιτή κατοικία και κοινωνική στέγη.
-
-— EN —
-Bank of Greece governor Yannis Stournaras warned that high housing costs are deepening Greece's demographic crisis, as young adults delay forming families or remain with their parents. Population ageing in turn shrinks the workforce and strains public finances. Speaking in Dubrovnik, he urged investment in affordable and social housing as a long-term policy priority.</summary>
-    <content type="text">H ακριβή στέγη στην Ελλάδα επιτείνει το δημογραφικό πρόβλημα που αντιμετωπίζει η χώρα, σύμφωνα με τον διοικητή της Τράπεζας της Ελλάδος, Γιάννη Στουρνάρα .
-
-Ο κ. Στουρνάρας, μιλώντας στο Συνέδριο της Κεντρικής Τράπεζας της Κροατίας στο Ντουμπρόβνικ, επισήμανε ότι η επιβάρυνση του κόστους στέγασης για τα ελληνικά νοικοκυριά είναι από τις υψηλότερες στη Ζώνη του Ευρώ. Υπογράμμισε δε ότι «η στεγαστική επισφάλεια αναδεικνύεται όλο και περισσότερο ως παράγοντας που επηρεάζει τις μακροπρόθεσμες δημογραφικές τάσεις. Η περιορισμένη πρόσβαση σε προσιτή στέγαση καθυστερεί τη δημιουργία νέων νοικοκυριών, ιδίως μεταξύ των νεότερων γενεών. Πολλοί νεαροί ενήλικες τελικά παραμένουν στην κατοικία των γονέων για μεγαλύτερο χρονικό διάστημα από ό,τι θα επιθυμούσαν, ενώ άλλοι αναβάλλουν ή επανεξετάζουν την απόφαση δημιουργίας οικογένειας».
-
-Ακολούθως, όπως υποστήριξε, η συρρίκνωση και η γήρανση του πληθυσμού μειώνουν το μέγεθος του εργατικού δυναμικού, επιβαρύνουν το μακροπρόθεσμο αναπτυξιακό δυναμικό και αυξάνουν την πίεση στα δημόσια οικονομικά. Υπό την έννοια αυτή, η οικονομική προσιτότητα της στέγασης αλληλεπιδρά άμεσα με τη δημογραφική βιωσιμότητα και την οικονομική ανθεκτικότητα.
-
-Σύμφωνα με τα στοιχεία που διαθέτει η κεντρική τράπεζα, η αγορά των ακινήτων χρηματοδοτείται κυρίως από τις καταθέσεις των υποψήφιων αγοραστών και λιγότερο από στεγαστικά δάνεια. «Ενα αξιόλογο ποσοστό των συναλλαγών χρηματοδοτείται μέσω της αποταμίευσης των νοικοκυριών και όχι με τραπεζικό δανεισμό, γεγονός που </content>
-  </entry>
-  <entry>
-    <title>Δίκη για τα Τέμπη: Να γίνουν δεκτές οι δηλώσεις παράστασης των Δικηγορικών Συλλόγων και να απορριφθεί του Δημοσίου, προτείνει η εισαγγελέας</title>
-    <link href="https://www.kathimerini.gr/society/564260104/diki-gia-ta-tempi-na-ginoyn-dektes-oi-diloseis-parastasis-ton-dikigorikon-syllogon-kai-na-aporrifthei-toy-dimosioy-proteinei-i-eisaggeleas/"/>
-    <id>tag:zoetzikra.github.io,2026-06-02:greek-news-aggregator:de7ead23cbfc</id>
-    <updated>2026-06-02T11:16:16+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
-    <category term="society"/>
-    <summary type="text">Η εισαγγελέας στη δίκη για τα Τέμπη πρότεινε να γίνουν δεκτές οι δηλώσεις παράστασης των Δικηγορικών Συλλόγων μόνο για το αδίκημα της διατάραξης ασφάλειας συγκοινωνιών, και να απορριφθεί η δήλωση του ελληνικού Δημοσίου. Η δίκη αφορά το σιδηροδρομικό δυστύχημα της 28ης Φεβρουαρίου 2023.
-
-— EN —
-The prosecutor in the Tempi train-crash trial proposed accepting bar association claims to support the charges only on the offence of endangering rail safety, while rejecting the Greek state's claim. The trial concerns the February 28, 2023 disaster — Greece's deadliest rail accident.</summary>
-    <content type="text">Να γίνουν δεκτές οι δηλώσεις παράστασης προς υποστήριξη της κατηγορίας των Δικηγορικών Συλλόγων και να απορριφθεί η δήλωση του ελληνικού Δημοσίου πρότεινε σήμερα η εισαγγελέας
-
-Να γίνουν δεκτές οι δηλώσεις παράστασης προς υποστήριξη της κατηγορίας των Δικηγορικών Συλλόγων και να απορριφθεί η δήλωση του ελληνικού Δημοσίου πρότεινε σήμερα η εισαγγελέας του Τριμελούς Εφετείου Κακουργημάτων στη δίκη για το σιδηροδρομικό δυστύχημα στα Τέμπη .
-
-Η εισαγγελέας επισήμανε πως οι Δικηγορικοί Σύλλογοι νομιμοποιούνται με βάση και το άρθρο 90 του Κώδικα Δικηγόρων για υποθέσεις μείζονος ενδιαφέροντος μόνο για το αδίκημα της διατάραξης της ασφάλειας των συγκοινωνιών και όχι για τα πλημμελήματα της παράβασης καθήκοντος, της ανθρωποκτονίας από αμέλεια, της βαριάς σωματικής βλάβης από αμέλεια και της απλής σωματικής βλάβης από αμέλεια.
-
-Για την παράσταση του ελληνικού Δημοσίου που στρέφεται κατά των τριών σταθμαρχών της απογευματινής – βραδινης βάρδιας της 28ης Φεβρουαρίου του 2023 και του τότε προϊσταμένου του Τμήματος Επιθεώρησης Λάρισας της Υπηρεσίας Υποστήριξης Κυκλοφορίας (σιδηροδρόμων) Κεντρικής και Νοτίου Ελλάδος, η εισαγγελέας πρότεινε να απορριφθεί η δήλωση, ενώ απορριπτική ήταν και η πρότασή της για το σωματείο μηχανοδηγών , Πανελλήνια Ενωση Προσωπικού Ελξης.
-
-Για το Δημόσιο η εισαγγελέας ανέφερε, μεταξύ άλλων, ότι δεν πληροί τις προϋποθέσεις του άρθρου 63 του Κώδικα Ποινικής Δικονομίας επισημαίνοντας πως το Δημόσιο δεν είναι άμεσα ζημιωθέν.
-
-Επίσης πρότεινε να μη γίνουν δεκτές οι δηλ</content>
+    <id>urn:greek-news:2026-06-04:4767e79b6373</id>
+    <title>Χαμηλό βαρομετρικό στο ΠΑΣΟΚ μετά τα γκάλοπ και τον Δούκα</title>
+    <link href="https://www.kathimerini.gr/politics/564263716/chamilo-varometriko-sto-pasok-meta-ta-gkalop-kai-ton-doyka/" />
+    <updated>2026-06-04T07:36:30+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics" />
+    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Χαμηλό βαρομετρικό στο ΠΑΣΟΚ μετά τα δημοσκοπικά γκάλοπ και τις δηλώσεις του δημάρχου Αθηναίων Χάρη Δούκα περί συνεργασίας με το κόμμα Τσίπρα. Η Χαριλάου Τρικούπη καλείται να διαχειριστεί ταυτόχρονα τη δημοσκοπική πίεση και την εσωκομματική αναταραχή. Προβληματισμός για το αφήγημα διεκδίκησης της πρώτης θέσης.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek socialist party PASOK faces low morale after polls and Athens Mayor Charis Doukas's comments on a possible alliance with the new Tsipras party. Party HQ at Charilaou Trikoupi must juggle polling pressure and internal turmoil. Doubts grow over its claim to fight for first place.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 65 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
   </entry>
 </feed>
