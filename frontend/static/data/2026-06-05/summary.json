@@ -1,0 +1,977 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T12:47:54.717694+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 77 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα στην Αθήνα κυριαρχείται από την επιταχυνόμενη αναδιάταξη της κεντροαριστεράς. Ο Αλέξης Τσίπρας με το νέο κόμμα ΕΛΑΣ ανακοινώνει την παρουσίαση ολοκληρωμένου κυβερνητικού προγράμματος στη ΔΕΘ τον Σεπτέμβριο, με 30.000+ μέλη ήδη εγγεγραμμένα ηλεκτρονικά. Στον ΣΥΡΙΖΑ ο Φάμελλος φέρεται έτοιμος να στηρίξει το εγχείρημα Τσίπρα — εξέλιξη που πυροδοτεί κρίσιμες συνεδριάσεις και ανοιχτή ρήξη. Παράλληλα, ο Νίκος Ανδρουλάκης χαράσσει σαφείς γραμμές αυτονομίας από Ν.Δ. και ΕΛΑΣ, παρουσιάζοντας τη «σκιώδη κυβέρνηση» του ΠΑΣΟΚ, ενώ οι δημοσκοπήσεις της Pulse επιβεβαιώνουν επίμονη «γκρίζα ζώνη» 13,5%. Στο διεθνές μέτωπο, ο Βολοντίμιρ Ζελένσκι παίρνει τη διπλωματική πρωτοβουλία στέλνοντας ανοιχτή επιστολή στον Πούτιν για απευθείας διαπραγματεύσεις και κατάπαυση πυρός. Η Κομισιόν και η Γαλλία χαιρετίζουν την κίνηση, ενώ ρωσικό drone στο Μπροβάρι κοντά στο Κίεβο σκότωσε τέσσερις πολίτες. Παράλληλα η Τεχεράνη απορρίπτει συνάντηση Τραμπ-Χαμενεΐ, και δέκα κράτη της Ε.Ε. υπό την Σουηδία πιέζουν για αυστηρότερες βίζες Σένγκεν σε Ρώσους τουρίστες. Στην οικονομία, διπλό δημοσιονομικό μήνυμα: ο Κυριάκος Πιερρακάκης ανακοίνωσε αύξηση ακατάσχετου σε 1.600 ευρώ και ο ESM έδωσε πράσινο φως για πρόωρη αποπληρωμή 6,95 δισ. ευρώ από το πρώτο Μνημόνιο. Στον αντίποδα, οι ασφαλιστικές προχωρούν σε διψήφιες αυξήσεις ασφαλίστρων υγείας μέχρι και 30% σε ηλικιωμένους, και ο Τραμπ εξήγγειλε νέους δασμούς 10-12,5% σε 59 χώρες και την Ε.Ε. Στην κοινωνία, σοβαρά ζητήματα στα σωφρονιστικά: η Εισαγγελία Πατρών διερευνά οκτώ θανάτους κρατουμένων στις φυλακές Αγίου Στεφάνου σε τρεις μήνες, ενώ η πρώην σύζυγος του δολοφονημένου Πολωνού καθηγητή αυτοκτόνησε στον Κορυδαλλό. Στην εκπαίδευση, οι αιτήσεις εκπαιδευτικών μειώθηκαν κατά 16.000 λόγω χαμηλών μισθών.",
+    "en": "Today's main story in Athens is the accelerating realignment of the center-left. Alexis Tsipras's new ELAS party will present a comprehensive government program at September's Thessaloniki Fair, with 30,000+ members already signed up online. Inside SYRIZA, leader Sokratis Famellos reportedly favors backing Tsipras's project — a stance pushing the party toward open internal rupture. Meanwhile PASOK chief Nikos Androulakis drew explicit lines of autonomy from both New Democracy and ELAS while unveiling the party's 'shadow cabinet,' and a Pulse survey confirmed a stubborn 13.5% 'grey zone' of undecided voters. Internationally, Volodymyr Zelensky took the diplomatic initiative with an open letter to Putin calling for direct talks and a ceasefire. The European Commission and France welcomed the move, even as a Russian drone strike in Brovary near Kyiv killed four civilians. Meanwhile Tehran rejected a Trump-Khamenei meeting and ten EU states led by Sweden are pushing for tighter Schengen visas on Russian tourists. On the economic front, a mixed message: Finance Minister Kyriakos Pierrakakis raised the bank-account seizure threshold to €1,600 and the ESM cleared Greece's early repayment of €6.95bn from the first bailout. Yet insurers are imposing double-digit health premium hikes — up to 30% for over-70s — and the Trump administration announced new 10-12.5% tariffs on 59 countries and the EU. In society, serious problems hit prisons and schools: Patras prosecutors are investigating eight inmate deaths in three months at Agios Stefanos prison, while the ex-wife of a murdered Polish professor died by suicide in Korydallos. In education, teacher applications fell by 16,000, with €800-900 starting salaries cited as the main driver."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Αναδιάταξη της κεντροαριστεράς γύρω από την ΕΛΑΣ του Τσίπρα",
+        "en": "Left realignment around Tsipras's new ELAS party"
+      },
+      "description": {
+        "el": "Η ίδρυση του κόμματος ΕΛΑΣ από τον Αλέξη Τσίπρα και η ανακοίνωση παρουσίασης «ολοκληρωμένου κυβερνητικού προγράμματος» στη ΔΕΘ τον Σεπτέμβριο πυροδοτεί κρίσιμες συνεδριάσεις στον ΣΥΡΙΖΑ και ρητές γραμμές διαφοροποίησης από τον Νίκο Ανδρουλάκη του ΠΑΣΟΚ. Παράλληλα, οι δημοσκοπήσεις δείχνουν επίμονη «γκρίζα ζώνη» 13,5%.",
+        "en": "Alexis Tsipras's launch of the ELAS movement and announcement of a 'comprehensive government program' for September's Thessaloniki Fair is triggering crisis meetings inside SYRIZA and explicit lines of separation from PASOK leader Nikos Androulakis. Polls show a stubborn 13.5% 'grey zone' of undecided voters."
+      },
+      "related_items": [
+        "475b84c41d3c",
+        "159c543d609d",
+        "215414f37159",
+        "ff9f51b66b05",
+        "2eecafe6489c",
+        "feefbeb15758",
+        "7810b4707d57",
+        "955aa5a79ea3",
+        "e289d8bf741b"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Επιστολή Ζελένσκι και διπλωματικές κινήσεις για την Ουκρανία",
+        "en": "Zelensky's letter and renewed Ukraine diplomacy"
+      },
+      "description": {
+        "el": "Ο Βολοντίμιρ Ζελένσκι έστειλε ανοιχτή επιστολή στον Πούτιν ζητώντας απευθείας διαπραγματεύσεις και κατάπαυση πυρός. Η Ευρωπαϊκή Επιτροπή και ο Εμανουέλ Μακρόν χαιρετίζουν την κίνηση, ενώ συνεχίζονται οι ρωσικές αεροπορικές επιθέσεις με τέσσερις νεκρούς στην περιοχή Μπροβάρι κοντά στο Κίεβο. Παράλληλα η Τεχεράνη απορρίπτει τη συνάντηση Τραμπ-Χαμενεΐ για τη Μέση Ανατολή.",
+        "en": "Volodymyr Zelensky sent an open letter to Putin calling for direct talks and a ceasefire. The European Commission and Emmanuel Macron welcomed the move, even as Russian air strikes killed four civilians in Brovary near Kyiv. Meanwhile Tehran rejected a Trump-Khamenei meeting on the Middle East war."
+      },
+      "related_items": [
+        "2ce3bc10a016",
+        "6214b5706e55",
+        "d1ac39cb0477",
+        "53170a222362",
+        "3a36b2de638d",
+        "9ae1be79b361"
+      ],
+      "importance": 86
+    },
+    {
+      "name": {
+        "el": "Οικονομική ελάφρυνση και αυξήσεις κόστους διαβίωσης",
+        "en": "Economic relief and rising cost-of-living pressures"
+      },
+      "description": {
+        "el": "Ο υπουργός Πιερρακάκης ανακοίνωσε αύξηση του ακατάσχετου σε 1.600 ευρώ και ο ESM ενέκρινε πρόωρη αποπληρωμή 6,95 δισ. ευρώ από το πρώτο Μνημόνιο. Παράλληλα, οι ασφαλιστικές προχωρούν σε διψήφιες αυξήσεις ασφαλίστρων υγείας και η κυβέρνηση Τραμπ ανακοίνωσε νέους δασμούς 10-12,5% σε 59 χώρες και την Ε.Ε.",
+        "en": "Finance Minister Pierrakakis raised the seizure-protected threshold to €1,600 and the ESM approved Greece's €6.95bn early bailout repayment. At the same time insurers are imposing double-digit health premium hikes and the Trump administration unveiled new 10-12.5% tariffs on 59 countries and the EU."
+      },
+      "related_items": [
+        "89dc0d5b4aca",
+        "ceb449428c8d",
+        "a9cde863f225",
+        "9796523f6a71",
+        "e3b8dce5d15b"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Κρίση στα σωφρονιστικά και την παιδεία",
+        "en": "Prisons and schools under strain"
+      },
+      "description": {
+        "el": "Η Εισαγγελία Πατρών διερευνά οκτώ θανάτους κρατουμένων στις φυλακές Αγίου Στεφάνου σε τρεις μήνες, ενώ η πρώην σύζυγος του δολοφονημένου Πολωνού καθηγητή αυτοκτόνησε στον Κορυδαλλό. Στην παιδεία, οι αιτήσεις εκπαιδευτικών μειώθηκαν κατά 16.000 λόγω χαμηλών μισθών 800-900 ευρώ.",
+        "en": "Patras prosecutors are investigating eight inmate deaths in three months at Agios Stefanos prison, while the ex-wife of the murdered Polish professor died by suicide at Korydallos. In education, teacher applications dropped by 16,000, blamed on €800-900 starting salaries."
+      },
+      "related_items": [
+        "f1f2553a0066",
+        "1f317f518969",
+        "729cc9ed6489",
+        "c1c077d8bfd1"
+      ],
+      "importance": 76
+    }
+  ],
+  "article_count": 77,
+  "categories": {
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "89dc0d5b4aca",
+          "title": "Πιερρακάκης: Στα 1.600 ευρώ αυξάνεται το ακατάσχετο όριο",
+          "url": "https://www.kathimerini.gr/economy/564267091/pierrakakis-sta-1-600-eyro-ayxanetai-to-akatascheto-orio/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T12:53:11+00:00",
+          "category": "economy",
+          "importance": 82,
+          "summary": {
+            "el": "Ο υπουργός Οικονομικών Κυριάκος Πιερρακάκης ανακοίνωσε από το βήμα της Βουλής αύξηση του ακατάσχετου ορίου τραπεζικών λογαριασμών από 1.250 σε 1.600 ευρώ, χαρακτηρίζοντας τη ρύθμιση «πράξη δικαιοσύνης και εμπιστοσύνης προς την κοινωνία».",
+            "en": "Finance Minister Kyriakos Pierrakakis announced from the parliament floor that the seizure-protected bank account threshold will rise from €1,250 to €1,600, calling the move 'an act of fairness and trust toward society.'"
+          },
+          "tags": {
+            "el": [
+              "Πιερρακάκης",
+              "ακατάσχετο",
+              "Βουλή",
+              "τράπεζες"
+            ],
+            "en": [
+              "Pierrakakis",
+              "seizure threshold",
+              "Parliament",
+              "banks"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ceb449428c8d",
+          "title": "«Πράσινο φως» από τον ESM για πρόωρη αποπληρωμή 6,95 δισ. ευρώ από το πρώτο Μνημόνιο",
+          "url": "https://www.kathimerini.gr/economy/564267046/prasino-fos-apo-ton-esm-gia-proori-apopliromi-6-95-dis-eyro-apo-to-proto-mnimonio/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T12:13:48+00:00",
+          "category": "economy",
+          "importance": 80,
+          "summary": {
+            "el": "Ο Ευρωπαϊκός Μηχανισμός Σταθερότητας (ESM) έδωσε το πράσινο φως στην Ελλάδα για πρόωρη αποπληρωμή 6,95 δισ. ευρώ από τα δάνεια του πρώτου Μνημονίου, εγκρίνοντας και τη χρήση πόρων από τον λογαριασμό ταμειακού αποθέματος.",
+            "en": "The European Stability Mechanism approved Greece's early repayment of €6.95bn of first-bailout loans, also clearing the use of cash-buffer reserves to fund part of the prepayment."
+          },
+          "tags": {
+            "el": [
+              "ESM",
+              "δημόσιο χρέος",
+              "Μνημόνιο",
+              "αποπληρωμή"
+            ],
+            "en": [
+              "ESM",
+              "public debt",
+              "bailout",
+              "repayment"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "a9cde863f225",
+          "title": "Συμβόλαια υγείας: Μεγάλες αυξήσεις στα ασφάλιστρα",
+          "url": "https://www.kathimerini.gr/visual/infographics/564266374/symvolaia-ygeias-megales-ayxiseis-sta-asfalistra/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T15:17:03+03:00",
+          "category": "economy",
+          "importance": 78,
+          "summary": {
+            "el": "Διψήφιες αυξήσεις σε ασφάλιστρα υγείας από αρκετές εταιρείες, εν αναμονή του ετήσιου Δείκτη Αναπροσαρμογής που η ΕΛΣΤΑΤ δεν έχει ακόμη δημοσιεύσει. Σε ηλικίες άνω των 70 ετών οι αυξήσεις φτάνουν έως 30%.",
+            "en": "Several insurers are raising health premiums in double digits, ahead of the long-promised annual repricing index ELSTAT has yet to publish. For policyholders over 70, hikes can reach 30%."
+          },
+          "tags": {
+            "el": [
+              "ασφάλιστρα",
+              "υγεία",
+              "ΕΛΣΤΑΤ",
+              "ακρίβεια"
+            ],
+            "en": [
+              "insurance premiums",
+              "health",
+              "ELSTAT",
+              "cost of living"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3fb335d3f16c",
+          "title": "Η Ευρωπαϊκή Ενωση μπαίνει στην «πρίζα»",
+          "url": "https://www.kathimerini.gr/economy/international/564266380/i-eyropaiki-enosi-mpainei-stin-priza/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T10:23:00+00:00",
+          "category": "economy",
+          "importance": 73,
+          "summary": {
+            "el": "Ο επίτροπος Ενέργειας Νταν Γιόργκενσεν προανήγγειλε στο συνέδριο της Eurelectric στο Ελσίνκι φιλόδοξο σχέδιο εξηλεκτρισμού της Ε.Ε. με υποχρεωτικούς στόχους και χρονοδιαγράμματα, υπό την πίεση της δεύτερης ενεργειακής κρίσης μέσα σε μια τετραετία.",
+            "en": "Energy Commissioner Dan Jørgensen previewed an ambitious EU electrification plan at the Eurelectric conference in Helsinki, featuring binding targets and timelines, as the bloc faces a second energy crisis in four years."
+          },
+          "tags": {
+            "el": [
+              "εξηλεκτρισμός",
+              "Ε.Ε.",
+              "ενέργεια",
+              "Eurelectric"
+            ],
+            "en": [
+              "electrification",
+              "EU",
+              "energy",
+              "Eurelectric"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "feff7ec20ad9",
+          "title": "Μ. Τραυλού: «Ανέφικτος στόχος» ο μηδενισμός των εκπομπών άνθρακα έως το 2050",
+          "url": "https://www.kathimerini.gr/economy/shipping/564267193/m-trayloy-anefiktos-stochos-o-midenismos-ton-ekpompon-anthraka-eos-to-2050/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T14:12:30+00:00",
+          "category": "economy",
+          "importance": 72,
+          "summary": {
+            "el": "Η πρόεδρος της ΕΕΕ Μελίνα Τραυλού χαρακτηρίζει «ανέφικτο» τον στόχο μηδενισμού των εκπομπών άνθρακα στη ναυτιλία έως το 2050, λέγοντας ότι ο ΙΜΟ παρασύρθηκε από εξωπραγματικούς ευρωπαϊκούς στόχους. Δηλώσεις στα Ποσειδώνια.",
+            "en": "Greek shipowners' chair Melina Travlou called the 2050 net-zero shipping target 'unachievable,' arguing the IMO was dragged into unrealistic European ambitions. She spoke at the Posidonia shipping fair."
+          },
+          "tags": {
+            "el": [
+              "ναυτιλία",
+              "Τραυλού",
+              "απανθρακοποίηση",
+              "ΙΜΟ",
+              "Ποσειδώνια"
+            ],
+            "en": [
+              "shipping",
+              "Travlou",
+              "decarbonization",
+              "IMO",
+              "Posidonia"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "159c543d609d",
+          "title": "ΣΥΡΙΖΑ: Πρόσω ολοταχώς για σύγκρουση λόγω Τσίπρα",
+          "url": "https://www.kathimerini.gr/politics/parties/564265942/syriza-proso-olotachos-gia-sygkroysi-logo-tsipra/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T09:14:37+00:00",
+          "category": "politics",
+          "importance": 80,
+          "summary": {
+            "el": "Κρίσιμες συνεδριάσεις της Πολιτικής Γραμματείας και της Κεντρικής Επιτροπής του ΣΥΡΙΖΑ. Ο πρόεδρος Σωκράτης Φάμελλος φέρεται να έχει αποφασίσει ότι το κόμμα πρέπει να στηρίξει την ΕΛΑΣ του Τσίπρα, εξέλιξη που οδηγεί την Κουμουνδούρου σε ανοιχτή ρήξη.",
+            "en": "Crisis meetings of SYRIZA's Political Secretariat and Central Committee are underway. Leader Sokratis Famellos reportedly favors backing Tsipras's new ELAS — a stance pushing the party toward open internal rupture."
+          },
+          "tags": {
+            "el": [
+              "ΣΥΡΙΖΑ",
+              "Φάμελλος",
+              "Τσίπρας",
+              "ΕΛΑΣ",
+              "διάσπαση"
+            ],
+            "en": [
+              "SYRIZA",
+              "Famellos",
+              "Tsipras",
+              "ELAS",
+              "split"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "475b84c41d3c",
+          "title": "ΕΛΑΣ: Τα επόμενα βήματα με ορίζοντα τη ΔΕΘ",
+          "url": "https://www.kathimerini.gr/politics/564267145/elas-ta-epomena-vimata-me-orizonta-ti-deth/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T13:36:04+00:00",
+          "category": "politics",
+          "importance": 78,
+          "summary": {
+            "el": "Στελέχη της ΕΛΑΣ ανακοίνωσαν ότι ο Αλέξης Τσίπρας θα παρουσιάσει στη ΔΕΘ τον Σεπτέμβριο «ολοκληρωμένο, κοστολογημένο κυβερνητικό πρόγραμμα». Σχεδιάζεται πανελλαδική οργανωτική ανάπτυξη με υβριδική ηλεκτρονική πλατφόρμα που ήδη συγκεντρώνει 30.000+ μέλη.",
+            "en": "Officials of Tsipras's new ELAS movement said he will present a 'comprehensive, costed government program' at the Thessaloniki Fair in September. They are planning nationwide organizational rollout and a hybrid online platform that already has 30,000+ members."
+          },
+          "tags": {
+            "el": [
+              "ΕΛΑΣ",
+              "Τσίπρας",
+              "ΔΕΘ",
+              "νέο κόμμα"
+            ],
+            "en": [
+              "ELAS",
+              "Tsipras",
+              "Thessaloniki Fair",
+              "new party"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "94d60bdd48c1",
+          "title": "Ελληνοτουρκικά: Καθυστερεί το νομοσχέδιο της Αγκυρας",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564265972/ellinotoyrkika-kathysterei-to-nomoschedio-tis-agkyras/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T07:10:00+00:00",
+          "category": "politics",
+          "importance": 76,
+          "summary": {
+            "el": "Το τουρκικό Haberturk επιβεβαίωσε δημοσίευμα της «Κ» ότι η ψήφιση του νομοσχεδίου της «Γαλάζιας Πατρίδας», που καθορίζει θαλάσσιες δικαιοδοσίες της Τουρκίας στο Αιγαίο και την Αν. Μεσόγειο, αναβάλλεται για τον Οκτώβριο λόγω φορτωμένης βουλευτικής ατζέντας.",
+            "en": "Turkey's Haberturk confirmed Kathimerini's report that legislation defining Turkey's maritime zones — the 'Blue Homeland' bill — is being postponed until October due to parliament's crowded agenda before its summer recess."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Γαλάζια Πατρίδα",
+              "Αιγαίο",
+              "ελληνοτουρκικά"
+            ],
+            "en": [
+              "Turkey",
+              "Blue Homeland",
+              "Aegean",
+              "Greek-Turkish"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "215414f37159",
+          "title": "Διαχωριστικές γραμμές Ανδρουλάκη από ΝΔ – Τσίπρα: Δεν μας αφορούν πολιτικά προξενιά",
+          "url": "https://www.kathimerini.gr/politics/564267241/diachoristikes-grammes-androylaki-apo-nd-tsipra-den-mas-aforoyn-politika-proxenia/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T14:36:03+00:00",
+          "category": "politics",
+          "importance": 75,
+          "summary": {
+            "el": "Ο Νίκος Ανδρουλάκης χάραξε σαφείς διαχωριστικές γραμμές από τη ΝΔ και την ΕΛ.Α.Σ. του Τσίπρα, μιλώντας στο Πολιτικό Συμβούλιο του ΠΑΣΟΚ. Έκανε λόγο για «οργανωμένη προσπάθεια» να ανοίξει ο δρόμος στο προσωπικό κόμμα Τσίπρα και υπογράμμισε την αυτονομία του ΠΑΣΟΚ.",
+            "en": "PASOK leader Nikos Androulakis drew clear lines separating his party both from New Democracy and from Tsipras's new ELAS movement, speaking at the party's Political Council. He charged that an 'organized effort' is underway to clear the path for Tsipras's personal vehicle and stressed PASOK's autonomy."
+          },
+          "tags": {
+            "el": [
+              "Ανδρουλάκης",
+              "ΠΑΣΟΚ",
+              "Τσίπρας",
+              "ΕΛΑΣ",
+              "αντιπολίτευση"
+            ],
+            "en": [
+              "Androulakis",
+              "PASOK",
+              "Tsipras",
+              "ELAS",
+              "opposition"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "3ba57aa3b210",
+          "title": "Εντός και Εκτός: Το χρονοδιάγραμμα της συνταγματικής αναθεώρησης",
+          "url": "https://www.kathimerini.gr/politics/564265966/entos-kai-ektos-to-chronodiagramma-tis-syntagmatikis-anatheorisis/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T07:45:00+00:00",
+          "category": "politics",
+          "importance": 75,
+          "summary": {
+            "el": "Στη Διάσκεψη των Προέδρων της Βουλής συμφωνήθηκε το χρονοδιάγραμμα της συνταγματικής αναθεώρησης. Διακομματική επιτροπή 42 βουλευτών θα ολοκληρώσει τη δουλειά της σε δύο μήνες, με πρώτη ψηφοφορία στα τέλη Ιουλίου και δεύτερη στα τέλη Αυγούστου.",
+            "en": "Parliament's Conference of Presidents agreed on the timetable for constitutional revision. A 42-member cross-party committee will complete its work in two months, with a first vote in late July and a second in late August."
+          },
+          "tags": {
+            "el": [
+              "σύνταγμα",
+              "αναθεώρηση",
+              "Βουλή",
+              "διακομματική"
+            ],
+            "en": [
+              "constitution",
+              "revision",
+              "Parliament",
+              "cross-party"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "6214b5706e55",
+          "title": "Ενημερώθηκε ο Πούτιν για την επιστολή Ζελένσκι – Οσα γράφει ο πρόεδρος της Ουκρανίας.",
+          "url": "https://www.kathimerini.gr/world/564266968/enimerothike-o-poytin-gia-tin-epistoli-zelenski-osa-grafei-o-proedros-tis-oykranias/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T11:40:47+00:00",
+          "category": "world",
+          "importance": 85,
+          "summary": {
+            "el": "Ο Βλαντιμίρ Πούτιν ενημερώθηκε για την επιστολή Ζελένσκι, ανέφερε ο εκπρόσωπος του Κρεμλίνου Ντμίτρι Πεσκόφ. Ο Ουκρανός πρόεδρος ζητά συνάντηση για τερματισμό του πολέμου, ασκώντας σκληρή κριτική στην 26ετή παρουσία του Πούτιν στην εξουσία.",
+            "en": "Vladimir Putin has been informed about Zelensky's letter, said Kremlin spokesman Dmitry Peskov. The Ukrainian president is seeking a meeting to end the war and sharply criticizes Putin's 26 years in power."
+          },
+          "tags": {
+            "el": [
+              "Πούτιν",
+              "Ζελένσκι",
+              "Ουκρανία",
+              "ειρηνευτική",
+              "Ρωσία"
+            ],
+            "en": [
+              "Putin",
+              "Zelensky",
+              "Ukraine",
+              "peace talks",
+              "Russia"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "2ce3bc10a016",
+          "title": "Ε.Ε.: «Χαιρετίζει» την επιστολή του Ζελένσκι για απευθείας διαπραγματεύσεις με τη Ρωσία",
+          "url": "https://www.kathimerini.gr/world/564267172/e-e-chairetizei-tin-epistoli-toy-zelenski-gia-ap-eytheias-diapragmateyseis-me-ti-rosia/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T14:01:06+00:00",
+          "category": "world",
+          "importance": 82,
+          "summary": {
+            "el": "Η Ευρωπαϊκή Επιτροπή και ο Εμανουέλ Μακρόν χαιρετίζουν την επιστολή Ζελένσκι υπέρ απευθείας διαπραγματεύσεων με τη Ρωσία και κατάπαυσης πυρός. «Η Ουκρανία θέλει ειρήνη, η Ευρώπη θέλει ειρήνη», δήλωσε η εκπρόσωπος Ανίτα Χίπερ.",
+            "en": "The European Commission and Emmanuel Macron welcomed Zelensky's letter calling for direct talks with Russia and a ceasefire. 'Ukraine wants peace, Europe wants peace,' said Commission spokesperson Anitta Hipper."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ζελένσκι",
+              "Ε.Ε.",
+              "διπλωματία",
+              "ειρήνη"
+            ],
+            "en": [
+              "Ukraine",
+              "Zelensky",
+              "EU",
+              "diplomacy",
+              "peace"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "53170a222362",
+          "title": "Αραγτσί: «Μη ρεαλιστική» μία συνάντηση Χαμενεΐ-Τραμπ",
+          "url": "https://www.kathimerini.gr/world/564267235/aragtsi-mi-realistiki-mia-synantisi-chamene-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T14:29:36+00:00",
+          "category": "world",
+          "importance": 76,
+          "summary": {
+            "el": "Ο Ιρανός υπουργός Εξωτερικών Αμπάς Αραγτσί απέρριψε ως «μη ρεαλιστική» κάθε πιθανότητα συνάντησης Τραμπ-Χαμενεΐ, καθώς οι συνομιλίες ΗΠΑ-Τεχεράνης για τον πόλεμο στη Μέση Ανατολή έχουν περιέλθει σε τέλμα.",
+            "en": "Iranian Foreign Minister Abbas Araghchi dismissed as 'unrealistic' any prospect of a Trump-Khamenei meeting, with US-Iran talks over the Middle East war at an impasse."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "Τραμπ",
+              "Χαμενεΐ",
+              "Μέση Ανατολή",
+              "διπλωματία"
+            ],
+            "en": [
+              "Iran",
+              "Trump",
+              "Khamenei",
+              "Middle East",
+              "diplomacy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d1ac39cb0477",
+          "title": "Κίεβο: Τέσσερις νεκροί πολίτες από ρωσική επίθεση σε βιομηχανία τροφίμων",
+          "url": "https://www.kathimerini.gr/world/564266866/kievo-tesseris-nekroi-polites-apo-rosiki-epithesi-se-viomichania-trofimon/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T11:01:51+00:00",
+          "category": "world",
+          "importance": 75,
+          "summary": {
+            "el": "Τέσσερις νεκροί πολίτες σε βιομηχανία τροφίμων στην περιοχή Μπροβάρι κοντά στο Κίεβο, από επίθεση με ρωσικό μη επανδρωμένο αεροσκάφος. Ο αριθμός των θυμάτων αυξήθηκε καθώς προχωρούσαν οι έρευνες.",
+            "en": "Four civilians were killed in a Russian drone strike on a food plant in the Brovary area near Kyiv. The toll rose as rescue operations progressed."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Κίεβο",
+              "ρωσική επίθεση",
+              "drone"
+            ],
+            "en": [
+              "Ukraine",
+              "Kyiv",
+              "Russian strike",
+              "drone"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3a36b2de638d",
+          "title": "Ρουμανία: Εκρηξη θαλάσσιου drone στο λιμάνι της Κωνστάντζας",
+          "url": "https://www.kathimerini.gr/world/564267070/roymania-ekrixi-thalassioy-drone-sto-limani-tis-kostantzas/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T12:39:09+00:00",
+          "category": "world",
+          "importance": 72,
+          "summary": {
+            "el": "Θαλάσσιο drone του τύπου που χρησιμοποιείται στον πόλεμο της Ουκρανίας αυτοανατινάχθηκε στο λιμάνι της Κωνστάντζας στη Ρουμανία κοντά σε τερματικό πετρελαίου. Δεν υπήρξαν θύματα. Η Ουκρανία ενημέρωσε ότι το drone παρασύρθηκε εκεί.",
+            "en": "A naval drone of the type used in the Ukraine war self-detonated at Romania's Constanța port near an oil terminal. No casualties. Ukraine notified Romania the drone had drifted there."
+          },
+          "tags": {
+            "el": [
+              "Ρουμανία",
+              "Κωνστάντζα",
+              "Ουκρανία",
+              "drone",
+              "Μαύρη Θάλασσα"
+            ],
+            "en": [
+              "Romania",
+              "Constanța",
+              "Ukraine",
+              "drone",
+              "Black Sea"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "f1f2553a0066",
+          "title": "Πάτρα: Παρέμβαση εισαγγελέα για τους θανάτους κρατουμένων στις φυλακές του Αγίου Στεφάνου",
+          "url": "https://www.kathimerini.gr/society/564267151/patra-paremvasi-eisaggelea-gia-toys-thanatoys-kratoymenon-stis-fylakes-toy-agioy-stefanoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T13:47:52+00:00",
+          "category": "society",
+          "importance": 78,
+          "summary": {
+            "el": "Η Εισαγγελία Εφετών Πατρών διέταξε διερεύνηση μετά τους θανάτους οκτώ κρατουμένων σε τρεις μήνες στις φυλακές Αγίου Στεφάνου. Η Αστυνομία αποδίδει τους θανάτους σε παθολογικά αίτια, ωστόσο ο Δικηγορικός Σύλλογος Πατρών έχει επισκεφθεί τις φυλακές.",
+            "en": "Prosecutors in Patras ordered an inquiry after eight inmates died in three months at the Agios Stefanos prison. Police attribute the deaths to pathological causes, but the Patras Bar Association has visited the facility."
+          },
+          "tags": {
+            "el": [
+              "φυλακές",
+              "Πάτρα",
+              "θάνατοι κρατουμένων",
+              "εισαγγελία"
+            ],
+            "en": [
+              "prisons",
+              "Patras",
+              "inmate deaths",
+              "prosecutor"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "729cc9ed6489",
+          "title": "Γυρίζουν την πλάτη στο σχολείο",
+          "url": "https://www.kathimerini.gr/visual/infographics/564265984/gyrizoyn-tin-plati-sto-scholeio-2/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T11:34:58+03:00",
+          "category": "society",
+          "importance": 78,
+          "summary": {
+            "el": "Λιγότερες κατά 16.219 οι αιτήσεις στους πίνακες εκπαιδευτικών του ΑΣΕΠ φέτος (136.059 από 152.278 το 2023). Βασική αιτία οι χαμηλοί εισαγωγικοί μισθοί 800-900 ευρώ. Το υπουργείο Παιδείας πρόσληψε ακόμη και συνταξιούχους δασκάλους για να καλύψει τα κενά.",
+            "en": "Greek teacher applications fell by 16,219 this year (136,059 down from 152,278 in 2023). The main reason: starting salaries of €800-900. The Education Ministry has even hired retired teachers to plug the gaps."
+          },
+          "tags": {
+            "el": [
+              "εκπαίδευση",
+              "ΑΣΕΠ",
+              "δάσκαλοι",
+              "μισθοί"
+            ],
+            "en": [
+              "education",
+              "teachers",
+              "ASEP",
+              "salaries"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "c450e3d1c55a",
+          "title": "Δημήτρης Λιγνάδης: Στις 17 Ιουνίου η απόφαση για το αν θα δικαστεί για 2 ή 3 βιασμούς",
+          "url": "https://www.kathimerini.gr/society/dikastiko/564267064/lignadis-stis-17-ioynioy-i-apofasi-gia-to-an-tha-dikastei-gia-2-i-3-viasmoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T12:25:43+00:00",
+          "category": "society",
+          "importance": 68,
+          "summary": {
+            "el": "Άνοιξε η δίκη του Δημήτρη Λιγνάδη σε δεύτερο βαθμό. Στις 17 Ιουνίου θα αποφασιστεί αν θα δικαστεί για δύο ή τρεις βιασμούς. Οι συνήγοροι υπέβαλαν ένσταση κατά της εισαγγελικής έφεσης.",
+            "en": "Director Dimitris Lignadis's appeals trial has opened. The court will decide on June 17 whether he will be retried on two or three rape charges. His lawyers filed an objection to the prosecutor's appeal."
+          },
+          "tags": {
+            "el": [
+              "Λιγνάδης",
+              "δίκη",
+              "βιασμός",
+              "Εφετείο"
+            ],
+            "en": [
+              "Lignadis",
+              "trial",
+              "rape",
+              "appeals court"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1f317f518969",
+          "title": "Φυλακές Κορυδαλλού: Αυτοκτόνησε η πρώην σύζυγος του Πολωνού καθηγητή που είχε δολοφονηθεί στην Αγία Παρασκευή",
+          "url": "https://www.kathimerini.gr/society/564266863/fylakes-korydalloy-aytoktonise-i-proin-syzygos-toy-polonoy-kathigiti-poy-eiche-dolofonithei-stin-agia-paraskeyi/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T10:46:22+00:00",
+          "category": "society",
+          "importance": 60,
+          "summary": {
+            "el": "Αυτοκτόνησε στις φυλακές Κορυδαλλού η 43χρονη πρώην σύζυγος του Πολωνού καθηγητή που δολοφονήθηκε τον Ιούλιο 2025 στην Αγία Παρασκευή. Είχε καταδικαστεί ως ηθική αυτουργός της δολοφονίας.",
+            "en": "The 43-year-old ex-wife of the Polish professor murdered in Agia Paraskevi in July 2025 has died by suicide in Korydallos prison. She had been convicted as the mastermind of the killing."
+          },
+          "tags": {
+            "el": [
+              "Κορυδαλλός",
+              "αυτοκτονία",
+              "δολοφονία",
+              "φυλακή"
+            ],
+            "en": [
+              "Korydallos",
+              "suicide",
+              "murder",
+              "prison"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3f002b49844e",
+          "title": "Συνελήφθη 62χρονος για πορνογραφία ανηλίκων, μετά από έρευνα ΗΠΑ, Ισπανίας, Ν. Αφρικής",
+          "url": "https://www.kathimerini.gr/society/564266782/synelifthi-62chronos-gia-pornografia-anilikon-meta-apo-ereyna-ipa-ispanias-n-afrikis/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T09:57:22+00:00",
+          "category": "society",
+          "importance": 55,
+          "summary": {
+            "el": "Συνελήφθη 62χρονος στην Ελλάδα στο πλαίσιο διεθνούς έρευνας ΗΠΑ-Ισπανίας-Ν. Αφρικής, με στην κατοχή του εκατοντάδες βίντεο σεξουαλικής εκμετάλλευσης ανηλίκων κάτω των 15 ετών. Η Διεύθυνση Δίωξης Κυβερνοεγκλήματος αξιοποίησε διεθνείς πληροφορίες των επιχειρήσεων «KAMI» και «Python».",
+            "en": "Greek cybercrime police arrested a 62-year-old in possession of hundreds of child sexual abuse videos, in a case stemming from US, Spanish and South African operations dubbed 'KAMI' and 'Python.'"
+          },
+          "tags": {
+            "el": [
+              "κυβερνοέγκλημα",
+              "πορνογραφία ανηλίκων",
+              "Δίωξη"
+            ],
+            "en": [
+              "cybercrime",
+              "child exploitation",
+              "police"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "6d8ba00217fe",
+          "title": "Βιμ Βεντερς: Συγγνώμη στη Ναστάζια Κίνσκι για το τόπλες στη «Λάθος Κίνηση» – Αποσύρει την ταινία",
+          "url": "https://www.kathimerini.gr/culture/cinema/564264778/vim-venters-syggnomi-sti-nastazia-kinski-gia-to-toples-sti-lathos-kinisi-aposyrei-tin-tainia/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T12:44:21+00:00",
+          "category": "culture",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Βιμ Βέντερς ζήτησε δημόσια συγγνώμη από την Ναστάζια Κίνσκι, που ήταν 13 ετών όταν εμφανίστηκε γυμνή στην ταινία «Λάθος Κίνηση» (1975), και ανακοίνωσε την απόσυρση της ταινίας από διανομή, streaming και τηλεόραση.",
+            "en": "Wim Wenders publicly apologized to Nastassja Kinski, who was 13 when she appeared nude in 'The Wrong Move' (1975), and announced he is pulling the film from distribution, streaming and TV."
+          },
+          "tags": {
+            "el": [
+              "Βέντερς",
+              "Κίνσκι",
+              "κινηματογράφος",
+              "MeToo"
+            ],
+            "en": [
+              "Wenders",
+              "Kinski",
+              "cinema",
+              "MeToo"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "db56cf4dfb1b",
+          "title": "ΗΠΑ: Ακατάλληλη για ανηλίκους κάτω των 17 ετών η «Οδύσσεια» του Νόλαν",
+          "url": "https://www.kathimerini.gr/culture/cinema/564266941/ipa-akatallili-gia-anilikoys-kato-ton-17-eton-i-odysseia-toy-nolan/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T11:56:27+00:00",
+          "category": "culture",
+          "importance": 65,
+          "summary": {
+            "el": "Η «Οδύσσεια» του Κρίστοφερ Νόλαν, που κυκλοφορεί στις 16 Ιουλίου στις ελληνικές αίθουσες, έλαβε χαρακτηρισμό R από την Motion Picture Association στις ΗΠΑ — οι κάτω των 17 θα τη βλέπουν μόνο με συνοδεία γονέα. Η παραγωγή κόστισε περίπου 250 εκατ. δολάρια.",
+            "en": "Christopher Nolan's 'Odyssey,' opening in Greek cinemas July 16, has been rated R by the Motion Picture Association — under-17 viewers will need a parent. The production reportedly cost about $250 million."
+          },
+          "tags": {
+            "el": [
+              "Νόλαν",
+              "Οδύσσεια",
+              "σινεμά",
+              "MPA"
+            ],
+            "en": [
+              "Nolan",
+              "Odyssey",
+              "cinema",
+              "MPA"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "48e4c0eabbb2",
+          "title": "Το «Gen 260» αποκαλύπτεται",
+          "url": "https://www.kathimerini.gr/culture/564266182/to-gen-260-apokalyptetai/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T13:22:00+00:00",
+          "category": "culture",
+          "importance": 50,
+          "summary": {
+            "el": "Το μίνι φεστιβάλ «Gen 260» στο Φεστιβάλ Αθηνών - Επιδαύρου συγκεντρώνει για πρώτη φορά έξι νέους δημιουργούς σκηνοθεσίας. Νεαρές σκηνοθέτιδες λένε ότι τα ζητήματα της Gen Z είναι «διαχρονικά».",
+            "en": "The 'Gen 260' mini-festival at the Athens-Epidaurus Festival brings together six emerging directors for the first time. Young filmmakers say Gen Z's concerns are 'timeless.'"
+          },
+          "tags": {
+            "el": [
+              "Gen 260",
+              "Φεστιβάλ Αθηνών",
+              "θέατρο",
+              "νέοι"
+            ],
+            "en": [
+              "Gen 260",
+              "Athens Festival",
+              "theater",
+              "youth"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "c00c66ad7342",
+          "title": "Ο 20χρονος YouTuber πίσω από τους λαβύρινθους του «Backrooms»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564266656/o-20chronos-youtuber-piso-apo-toys-lavyrinthoys-toy-backrooms/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T09:46:29+00:00",
+          "category": "culture",
+          "importance": 45,
+          "summary": {
+            "el": "Ο 20χρονος YouTuber Κέιν Πάρσονς, δημιουργός του «Backrooms», υπέγραψε στα 17 του με την A24 και στα 19 του συνεργάστηκε με τη Ρενάτε Ράινσβε και τον Τσιούετελ Ετζιοφόρ. Η ταινία σημειώνει υψηλές πτήσεις.",
+            "en": "Twenty-year-old YouTuber Kane Parsons, creator of 'Backrooms,' signed with A24 at 17 and worked with Renate Reinsve and Chiwetel Ejiofor at 19. The film is taking off at the box office."
+          },
+          "tags": {
+            "el": [
+              "A24",
+              "Backrooms",
+              "Πάρσονς",
+              "σινεμά"
+            ],
+            "en": [
+              "A24",
+              "Backrooms",
+              "Parsons",
+              "cinema"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "375fb48ba7c3",
+          "title": "Viva Italia. Η Ιταλική Δημοκρατία «έσβησε» 80 κεριά με 1.500 προσκεκλημένους",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564265918/viva-italia-i-italiki-dimokratia-esvise-80-keria-me-1-500-proskeklimenoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-05T11:40:18+00:00",
+          "category": "culture",
+          "importance": 40,
+          "summary": {
+            "el": "Με 1.500 προσκεκλημένους η ιταλική πρεσβεία στο ΚΠΣΙΝ γιόρτασε τα 80 χρόνια της Ιταλικής Δημοκρατίας. Η Μαργαρίτα Πουρνάρα σχολιάζει το ραφινάτο στιλ των Ιταλών και την επιρροή της ιταλικής μόδας.",
+            "en": "With 1,500 guests, the Italian embassy at the Stavros Niarchos Foundation Cultural Center marked Italy's 80th Republic Day. Margarita Pournara observes the elegance of the Italian dress code and the reach of Italian fashion."
+          },
+          "tags": {
+            "el": [
+              "Ιταλία",
+              "πρεσβεία",
+              "ΚΠΣΙΝ",
+              "Αθηναϊκά"
+            ],
+            "en": [
+              "Italy",
+              "embassy",
+              "SNF Cultural Center",
+              "Athens society"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "13ae6f09d287",
+          "title": "Ο πείσμων γέρων",
+          "url": "https://www.kathimerini.gr/opinion/564263629/o-peismon-geron-2/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T20:10:00+00:00",
+          "category": "opinion",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Κώστας Ιορδανίδης σχολιάζει τη χυδαία διαρροή της τηλεφωνικής συνομιλίας Τραμπ-Νετανιάχου για την επίθεση στη Βηρυτό, υποστηρίζοντας ότι ο Αμερικανός πρόεδρος επιθυμούσε να γίνει γνωστή.",
+            "en": "Kostas Iordanidis argues that the crude leak of a Trump-Netanyahu phone call about striking Beirut suburbs was intentional on Trump's part — a deliberate signal to the region."
+          },
+          "tags": {
+            "el": [
+              "Ιορδανίδης",
+              "Τραμπ",
+              "Νετανιάχου",
+              "Βηρυτός",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "Iordanidis",
+              "Trump",
+              "Netanyahu",
+              "Beirut",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "ad6930e44515",
+          "title": "Ο πρώτος τρισεκατομμυριούχος",
+          "url": "https://www.kathimerini.gr/columns/564262750/o-protos-trisekatommyrioychos/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T20:08:39+00:00",
+          "category": "opinion",
+          "importance": 65,
+          "summary": {
+            "el": "Ο Θοδωρής Γεωργακόπουλος προειδοποιεί ότι εντός Ιουνίου ο κόσμος ίσως αποκτήσει τον πρώτο τρισεκατομμυριούχο. Δεν είναι σημάδι υγείας, αλλά συμπυκνωμένης ανισότητας που δεν δικαιολογείται από παραγωγικότητα ή αξιοκρατία.",
+            "en": "Thodoris Georgakopoulos warns that June may produce the world's first personal trillionaire — not a sign of health, but of concentrated inequality unjustified by productivity or merit."
+          },
+          "tags": {
+            "el": [
+              "Γεωργακόπουλος",
+              "ανισότητα",
+              "ολιγάρχες",
+              "Μασκ"
+            ],
+            "en": [
+              "Georgakopoulos",
+              "inequality",
+              "oligarchs",
+              "Musk"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e289d8bf741b",
+          "title": "Μήπως πέτυχε το rebranding;",
+          "url": "https://www.kathimerini.gr/opinion/564263875/mipos-petyche-to-rebranding/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T20:04:00+00:00",
+          "category": "opinion",
+          "importance": 65,
+          "summary": {
+            "el": "Ο Σάκης Μουμτζής εκτιμά ότι ο Τσίπρας με το νέο κόμμα έχει εξασφαλίσει τη δεύτερη θέση και απειλείται περισσότερο από τη Μαρία Καρυστιανού παρά από το ΠΑΣΟΚ, καθώς εκείνη συμπαρατάσσεται με αντικρουόμενες δεξαμενές.",
+            "en": "Sakis Moumtzis judges that Tsipras's new party has locked in second place and is more threatened by Maria Karystianou — who straddles incompatible bases — than by PASOK."
+          },
+          "tags": {
+            "el": [
+              "Μουμτζής",
+              "Τσίπρας",
+              "Καρυστιανού",
+              "ΕΛΑΣ"
+            ],
+            "en": [
+              "Moumtzis",
+              "Tsipras",
+              "Karystianou",
+              "ELAS"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7a5d29440485",
+          "title": "«Αφετε τα παιδία…»",
+          "url": "https://www.kathimerini.gr/opinion/564264055/afete-ta-paidia/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T20:13:00+00:00",
+          "category": "opinion",
+          "importance": 60,
+          "summary": {
+            "el": "Ο Τάκης Θεοδωρόπουλος σχολιάζει με ειρωνεία τις εσωτερικές διεργασίες στον ΣΥΡΙΖΑ και τον ρόλο της Έφης Αχτσιόγλου ως «Ιφιγένειας» της ανανέωσης που προετοίμαζε ο Τσίπρας πριν αποχωρήσει.",
+            "en": "Takis Theodoropoulos ironically comments on SYRIZA's internal turmoil and Efi Achtsioglou's role as 'Iphigenia' of the renewal Tsipras was preparing before his exit."
+          },
+          "tags": {
+            "el": [
+              "σχόλιο",
+              "ΣΥΡΙΖΑ",
+              "Αχτσιόγλου",
+              "Τσίπρας"
+            ],
+            "en": [
+              "commentary",
+              "SYRIZA",
+              "Achtsioglou",
+              "Tsipras"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "47a955df853d",
+          "title": "Εφη Αχτσιόγλου: Παραγραφές",
+          "url": "https://www.kathimerini.gr/opinion/564264058/efi-achtsiogloy-paragrafes/",
+          "source": "Kathimerini",
+          "published": "2026-06-04T20:12:00+00:00",
+          "category": "opinion",
+          "importance": 60,
+          "summary": {
+            "el": "Ο Μιχάλης Τσιντσίνης αναλύει τη μη αποδοχή της Έφης Αχτσιόγλου να ηγηθεί του ΣΥΡΙΖΑ το 2023, αναφερόμενος στην εκδοχή Τσίπρα ότι την κράτησε «ο εγωισμός της αυτοσυντήρησης».",
+            "en": "Michalis Tsintsinis analyses Efi Achtsioglou's refusal to lead SYRIZA in 2023, citing Tsipras's memoir verdict that 'self-preservation egoism' held her back."
+          },
+          "tags": {
+            "el": [
+              "Τσιντσίνης",
+              "Αχτσιόγλου",
+              "ΣΥΡΙΖΑ",
+              "Τσίπρας"
+            ],
+            "en": [
+              "Tsintsinis",
+              "Achtsioglou",
+              "SYRIZA",
+              "Tsipras"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 77
+  }
+}
