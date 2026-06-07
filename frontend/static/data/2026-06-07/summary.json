@@ -1,0 +1,898 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T15:36:44.636409+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 53 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχήθηκε από τους ισχυρούς σεισμούς στη βόρεια Εύβοια, όπου διαδοχικές δονήσεις έως 5,2 βαθμών της κλίμακας Ρίχτερ έγιναν αισθητές και στην Αττική. Τα σχολεία στον δήμο Μαντουδίου θα παραμείνουν κλειστά τη Δευτέρα προληπτικά, καταγράφηκαν ζημιές σε σπίτια και κατολισθήσεις στο οδικό δίκτυο, ενώ οι σεισμολόγοι εμφανίστηκαν καθησυχαστικοί λέγοντας ότι η περιοχή δεν δίνει μεγέθη πάνω από 5,5 Ρίχτερ.\n\nΣτο πεδίο της ασφάλειας, η κοινή επιχείρηση «Odin» της ΕΥΠ και της Αντιτρομοκρατικής οδήγησε στη σύλληψη 37χρονου στην Κρήτη, ο οποίος ομολόγησε ότι είναι μέλος της Χαμάς, είχε εκπαιδευτεί στη Μαλαισία και είχε παραγγείλει διαδικτυακά χημικές ουσίες για κατασκευή εκρηκτικών με στόχο μαζικό πλήγμα.\n\nΣτο εσωτερικό, το πολιτικό σκηνικό μπαίνει σε προεκλογικό βηματισμό: ο Κυριάκος Μητσοτάκης παρουσίασε «τολμηρές αλλά αναγκαίες» αλλαγές στη συνταγματική αναθεώρηση, η Κεντρική Επιτροπή του ΣΥΡΙΖΑ υπερψήφισε τη σύμπλευση με την κίνηση Τσίπρα, και το ΠΑΣΟΚ απαντά με «σκιώδη κυβέρνηση» μέσα σε κλίμα δυσμενών δημοσκοπήσεων.\n\nΔιεθνώς, η κλιμάκωση στη Μέση Ανατολή συνεχίστηκε με ανταλλαγές πυρών Ισραήλ-Λιβάνου, νέους ισραηλινούς βομβαρδισμούς στη Γάζα, τρομοκρατική επίθεση με έναν νεκρό στο κεντρικό Ισραήλ και τον Ντόναλντ Τραμπ να αποκλείει την αποδέσμευση ιρανικών κεφαλαίων πριν από συμφωνία. Στην οικονομία, ξεχωρίζουν το βουνό των 165 δισ. ληξιπρόθεσμων οφειλών και η νέα ρύθμιση 72 δόσεων.",
+    "en": "The day was dominated by strong earthquakes in northern Euboea, where successive tremors of up to 5.2 on the Richter scale were felt as far as Attica. Schools in the Mantoudi municipality will stay shut Monday as a precaution, with damage to homes and road landslides recorded, while seismologists offered reassurance that the area does not produce magnitudes above 5.5.\n\nOn the security front, the joint \"Odin\" operation by the intelligence service and counter-terrorism unit led to the arrest of a 37-year-old in Crete, who confessed to being a Hamas member, having trained in Malaysia and ordered chemicals online to build explosives for a planned mass attack.\n\nDomestically, the political scene is shifting into election mode: PM Kyriakos Mitsotakis unveiled \"bold but necessary\" constitutional-revision changes, SYRIZA's central committee approved aligning with Tsipras's new movement, and PASOK responded with a shadow cabinet amid unfavorable polls.\n\nInternationally, Middle East escalation continued with Israel-Lebanon exchanges of fire, fresh Israeli strikes on Gaza, a deadly terror attack in central Israel, and Donald Trump ruling out releasing Iranian assets before a deal. In the economy, the standout stories were the €165 billion mountain of overdue debts and a new 72-installment repayment scheme."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σύλληψη μέλους Χαμάς στην Κρήτη",
+        "en": "Hamas plot foiled in Crete"
+      },
+      "description": {
+        "el": "Η επιχείρηση «Odin» ΕΥΠ-Αντιτρομοκρατικής οδήγησε στη σύλληψη 37χρονου που ομολόγησε ότι είναι μέλος της Χαμάς και σχεδίαζε μαζικό πλήγμα.",
+        "en": "The 'Odin' intelligence-counterterrorism operation led to the arrest of a 37-year-old who confessed to being a Hamas member planning a mass attack."
+      },
+      "related_items": [
+        "2acc9c50de47",
+        "c634eae0409e"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Σεισμοί στη βόρεια Εύβοια",
+        "en": "Northern Euboea earthquakes"
+      },
+      "description": {
+        "el": "Διαδοχικές δονήσεις έως 5,2 Ρίχτερ προκάλεσαν ζημιές και κλειστά σχολεία στο Μαντούδι, με τους σεισμολόγους καθησυχαστικούς.",
+        "en": "Successive tremors up to 5.2 Richter caused damage and school closures in Mantoudi, with seismologists striking a reassuring tone."
+      },
+      "related_items": [
+        "d650377ed5cf",
+        "633925b6a275",
+        "fbe3f2255b53",
+        "f177123a1c8b"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Προεκλογικός ανασχηματισμός του πολιτικού σκηνικού",
+        "en": "Pre-election political realignment"
+      },
+      "description": {
+        "el": "Συνταγματική αναθεώρηση Μητσοτάκη, σύμπλευση ΣΥΡΙΖΑ με Τσίπρα και σκιώδης κυβέρνηση ΠΑΣΟΚ σηματοδοτούν εκλογικό βηματισμό.",
+        "en": "Mitsotakis's constitutional revision, SYRIZA's alignment with Tsipras and PASOK's shadow cabinet signal an electoral footing."
+      },
+      "related_items": [
+        "5ff651a0d18d",
+        "e4ef58aa9ffb",
+        "7bfd5ce45e77",
+        "23e09f92109d"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Κλιμάκωση στη Μέση Ανατολή",
+        "en": "Middle East escalation"
+      },
+      "description": {
+        "el": "Συγκρούσεις Ισραήλ-Λιβάνου, πλήγματα στη Γάζα, τρομοκρατική επίθεση στο Ισραήλ και αδιέξοδο Τραμπ-Ιράν.",
+        "en": "Israel-Lebanon clashes, Gaza strikes, a terror attack in Israel and a Trump-Iran standoff."
+      },
+      "related_items": [
+        "1128ee02c442",
+        "3e15542b4560",
+        "1e546762209e",
+        "4f6ebca79bbd",
+        "6d2423af2889"
+      ],
+      "importance": 74
+    }
+  ],
+  "article_count": 53,
+  "categories": {
+    "politics": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "5ff651a0d18d",
+          "title": "Κυρ. Μητσοτάκης για Συνταγματική Αναθεώρηση: «Τολμηρές αλλά αναγκαίες οι αλλαγές»",
+          "url": "https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T11:13:14+00:00",
+          "category": "politics",
+          "importance": 80,
+          "summary": {
+            "el": "Στον εβδομαδιαίο απολογισμό του ο Κυριάκος Μητσοτάκης χαρακτήρισε «τολμηρές αλλά αναγκαίες» τις αλλαγές της συνταγματικής αναθεώρησης, με όραμα την Ελλάδα του 2030. Προτείνει μη κρατικά πανεπιστήμια, αλλαγή στην ευθύνη υπουργών, σύνδεση μονιμότητας με αξιολόγηση και συνταγματική κατοχύρωση της προσιτής στέγης.",
+            "en": "In his weekly review PM Kyriakos Mitsotakis called the constitutional-revision changes \"bold but necessary,\" framing a vision of Greece in 2030. He proposes non-state universities, reform of ministerial liability, linking civil-service tenure to evaluation, and constitutional protection of affordable housing."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "συνταγματική αναθεώρηση",
+              "μη κρατικά πανεπιστήμια",
+              "προσιτή στέγη"
+            ],
+            "en": [
+              "Mitsotakis",
+              "constitutional revision",
+              "non-state universities",
+              "affordable housing"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e4ef58aa9ffb",
+          "title": "ΣΥΡΙΖΑ: Υπερψηφίστηκε η πρόταση Φάμελλου – «Δίπλα» στην πρωτοβουλία Τσίπρα",
+          "url": "https://www.kathimerini.gr/politics/564270037/syriza-yperpsifistike-epi-tis-archis-i-protasi-famelloy/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:38:54+00:00",
+          "category": "politics",
+          "importance": 78,
+          "summary": {
+            "el": "Η Κεντρική Επιτροπή του ΣΥΡΙΖΑ υπερψήφισε την εισήγηση του Σωκράτη Φάμελλου για σύμπλευση με την ΕΛ.Α.Σ. του Αλέξη Τσίπρα, χωρίς ονομαστική ψηφοφορία. Η πλειοψηφία μιλά για ποσοστό 70%, ενώ ο Παύλος Πολάκης διεκδικεί άνω του 40% για τη δική του πρόταση.",
+            "en": "SYRIZA's central committee approved Socrates Famellos's motion to align with Alexis Tsipras's new movement, without a roll-call vote. The leadership claims about 70% support, while Pavlos Polakis insists his rival proposal drew over 40%."
+          },
+          "tags": {
+            "el": [
+              "ΣΥΡΙΖΑ",
+              "Φάμελλος",
+              "Τσίπρας",
+              "Πολάκης"
+            ],
+            "en": [
+              "SYRIZA",
+              "Famellos",
+              "Tsipras",
+              "Polakis"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7cc3adcf631b",
+          "title": "Ελληνικά drones θα δοκιμάσει ο στρατός",
+          "url": "https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T21:52:12+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Συστήματα drones ελληνικών εταιρειών, 11 φορέων που επέλεξε το ΕΛΚΑΚ, θα δοκιμαστούν 8-11 Ιουνίου στην άσκηση «Δούρειος Ίππος 2026» σε Θράκη, Πελοπόννησο και Ιόνιο. Η Αθήνα προχωρεί παράλληλα στην αγορά δέκα υποβρύχιων οχημάτων VICTA αξίας 145 εκατ. ευρώ.",
+            "en": "Drone systems from 11 Greek firms selected by the defense-innovation center ELKAK will be tested June 8-11 in the \"Trojan Horse 2026\" exercise across Thrace, the Peloponnese and the Ionian. Athens is also buying ten VICTA underwater vehicles worth €145 million."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "drones",
+              "ΕΛΚΑΚ",
+              "Δούρειος Ίππος"
+            ],
+            "en": [
+              "defense",
+              "drones",
+              "ELKAK",
+              "Trojan Horse exercise"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "7bfd5ce45e77",
+          "title": "Χορός με τη σκιά τους",
+          "url": "https://www.kathimerini.gr/politics/parties/564268924/choros-me-ti-skia-toys/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T17:15:54+00:00",
+          "category": "politics",
+          "importance": 66,
+          "summary": {
+            "el": "Το ΠΑΣΟΚ προσπαθεί να βγει από τη δίνη των δυσμενών δημοσκοπήσεων παρουσιάζοντας «σκιώδη κυβέρνηση», επαναπατρισμούς και μεταγραφές στελεχών. Ο Νίκος Ανδρουλάκης ποντάρει στο πρόγραμμα και τον «πάγκο» στελεχών, ενώ αναζωπυρώνεται η συζήτηση για μετεκλογικές συνεργασίες.",
+            "en": "PASOK is trying to escape a slump in the polls by unveiling a shadow cabinet, recalled cadres and new recruits. Leader Nikos Androulakis is betting on its programme and bench of officials, even as talk of post-election alliances resurfaces."
+          },
+          "tags": {
+            "el": [
+              "ΠΑΣΟΚ",
+              "Ανδρουλάκης",
+              "σκιώδης κυβέρνηση",
+              "δημοσκοπήσεις"
+            ],
+            "en": [
+              "PASOK",
+              "Androulakis",
+              "shadow cabinet",
+              "opinion polls"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "b1410d0ab19d",
+          "title": "Το real estate του Ράμα",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564268870/to-real-estate-toy-rama/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T18:18:11+00:00",
+          "category": "politics",
+          "importance": 62,
+          "summary": {
+            "el": "Η «Κ» χαρτογραφεί τον 35ετή εμφύλιο για τις περιουσίες στην Αλβανία και το γεωπολιτικό παιχνίδι του Έντι Ράμα, με αφορμή τον νόμο 7501 του 1991 για τη διανομή γης. Η ελληνική μειονότητα, και ιδίως η Χειμάρρα, εμφανίζεται αδικημένη από το ιδιοκτησιακό καθεστώς.",
+            "en": "Kathimerini maps Albania's 35-year feud over property restitution and PM Edi Rama's geopolitical maneuvering, tracing it to the 1991 law 7501 on land distribution. The Greek minority, and especially Himara, appears disadvantaged by the ownership regime."
+          },
+          "tags": {
+            "el": [
+              "Αλβανία",
+              "Έντι Ράμα",
+              "ελληνική μειονότητα",
+              "Χειμάρρα"
+            ],
+            "en": [
+              "Albania",
+              "Edi Rama",
+              "Greek minority",
+              "Himara"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "d7607bb1abba",
+          "title": "Από ρύθμιση σε ρύθμιση τα ίδια χρέη",
+          "url": "https://www.kathimerini.gr/economy/564269224/apo-rythmisi-se-rythmisi-ta-idia-chrei/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T11:32:42+00:00",
+          "category": "economy",
+          "importance": 76,
+          "summary": {
+            "el": "Οι συνολικές ληξιπρόθεσμες οφειλές προς εφορία και ταμεία αγγίζουν τα 165 δισ. ευρώ, αλλά εκτιμάται ότι μόλις 27 δισ. μπορούν να εισπραχθούν. Η κυβέρνηση ετοιμάζει νέα ρύθμιση 72 δόσεων, με τους αναλυτές να προειδοποιούν ότι οι προσδοκίες για μαζική ανταπόκριση είναι υπερβολικά αισιόδοξες.",
+            "en": "Total overdue debts to the tax authority and social-security funds reach €165 billion, but only an estimated €27 billion is realistically collectible. The government is preparing a new 72-installment scheme, though analysts warn expectations of mass uptake are overly optimistic."
+          },
+          "tags": {
+            "el": [
+              "χρέη",
+              "εφορία",
+              "ρύθμιση 72 δόσεων",
+              "δημόσια έσοδα"
+            ],
+            "en": [
+              "arrears",
+              "tax authority",
+              "72-installment scheme",
+              "public revenue"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "916ea71b0113",
+          "title": "Παραβιάζει την εργατική νομοθεσία το 25% των επιχειρήσεων",
+          "url": "https://www.kathimerini.gr/economy/564268603/paraviazei-tin-ergatiki-nomothesia-to-25-ton-epicheiriseon/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T19:07:20+00:00",
+          "category": "economy",
+          "importance": 68,
+          "summary": {
+            "el": "Στοιχεία της Επιθεώρησης Εργασίας για το 2025 δείχνουν ότι το 25% των επιχειρήσεων παραβιάζει την εργατική νομοθεσία, με κυρίαρχα φαινόμενα την αδήλωτη εργασία και τη μη καταβολή δεδουλευμένων. Από 82.233 ελέγχους προέκυψαν 19.093 κυρώσεις, άνω των 2.500 μηνύσεων και πρόστιμα 54 εκατ. ευρώ.",
+            "en": "Labor Inspectorate data for 2025 show 25% of businesses violate labor law, dominated by undeclared work and unpaid wages. Of 82,233 inspections, 19,093 sanctions, over 2,500 lawsuits and €54 million in fines resulted."
+          },
+          "tags": {
+            "el": [
+              "αγορά εργασίας",
+              "Επιθεώρηση Εργασίας",
+              "αδήλωτη εργασία",
+              "πρόστιμα"
+            ],
+            "en": [
+              "labor market",
+              "Labor Inspectorate",
+              "undeclared work",
+              "fines"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "72a3a7334f4b",
+          "title": "Goldman Sachs: Αγοραστική ευκαιρία το sell off στη Wall Street",
+          "url": "https://www.kathimerini.gr/world/564269836/goldman-sachs-agorastiki-eykairia-to-sell-off-sti-wall-street/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T21:15:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Η Goldman Sachs βλέπει αγοραστική ευκαιρία στο sell-off της Wall Street την Παρασκευή, εμμένοντας ότι ο S&P 500 μπορεί να φτάσει τις 8.000 μονάδες φέτος. Ο δείκτης υποχώρησε 2,6% και ο Nasdaq 100 περίπου 5%, στη μεγαλύτερη πτώση από τον Απρίλιο του 2025.",
+            "en": "Goldman Sachs sees a buying opportunity in Friday's Wall Street sell-off, insisting the S&P 500 can reach 8,000 points this year. The index fell 2.6% and the Nasdaq 100 about 5%, the biggest drop since April 2025."
+          },
+          "tags": {
+            "el": [
+              "Wall Street",
+              "Goldman Sachs",
+              "S&P 500",
+              "χρηματιστήρια"
+            ],
+            "en": [
+              "Wall Street",
+              "Goldman Sachs",
+              "S&P 500",
+              "stock markets"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "5b7a76d48137",
+          "title": "Eκατομμύρια crypto tokens κυκλοφορούν, αλλά ελάχιστα έχουν αξία",
+          "url": "https://www.kathimerini.gr/economy/564270070/ekatommyria-crypto-tokens-kykloforoyn-alla-elachista-echoyn-axia/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:58:00+00:00",
+          "category": "economy",
+          "importance": 48,
+          "summary": {
+            "el": "Ο ιδρυτής του Cardano Τσαρλς Χόσκινσον προειδοποιεί τους χρήστες crypto για «απογοητευτική» χρονιά, με αλλεπάλληλες αποτυχίες επιχειρήσεων και φυγή προγραμματιστών. Η προειδοποίηση συνδυάζεται με νέα πτώση του Bitcoin κάτω από τα 60.000 δολάρια.",
+            "en": "Cardano founder Charles Hoskinson warns crypto users of a \"disappointing\" year, predicting successive business failures and developer exits. His warning coincides with a fresh Bitcoin slide briefly below $60,000."
+          },
+          "tags": {
+            "el": [
+              "κρυπτονομίσματα",
+              "Cardano",
+              "Bitcoin",
+              "Χόσκινσον"
+            ],
+            "en": [
+              "cryptocurrency",
+              "Cardano",
+              "Bitcoin",
+              "Hoskinson"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "2acc9c50de47",
+          "title": "Eπιχείρηση «Odin»:  Τι αναφέρει η ΕΛ.ΑΣ. για τη σύλληψη του 37χρονου – Φωτογραφίες από το σπίτι στα Πατήσια",
+          "url": "https://www.kathimerini.gr/society/564270262/epicheirisi-odin-ti-anaferei-i-el-as-gia-ti-syllipsi-toy-37chronoy-fotografies-apo-to-spiti-sta-patisia/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T15:23:49+00:00",
+          "category": "society",
+          "importance": 82,
+          "summary": {
+            "el": "Η επιχείρηση «Odin» της ΕΥΠ και της Αντιτρομοκρατικής οδήγησε στη σύλληψη 37χρονου στον Άγιο Νικόλαο Κρήτης, ο οποίος είχε παραγγείλει διαδικτυακά χημικές ουσίες για κατασκευή εκρηκτικών. Ο συλληφθείς ομολόγησε ότι είναι μέλος της Χαμάς και σχεδίαζε μαζικό πλήγμα.",
+            "en": "The \"Odin\" operation by the intelligence service and the counter-terrorism unit led to the arrest of a 37-year-old in Agios Nikolaos, Crete, who had ordered chemicals online to build explosives. The suspect confessed to being a Hamas member planning a mass attack."
+          },
+          "tags": {
+            "el": [
+              "τρομοκρατία",
+              "Χαμάς",
+              "ΕΥΠ",
+              "Κρήτη"
+            ],
+            "en": [
+              "terrorism",
+              "Hamas",
+              "intelligence service",
+              "Crete"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d650377ed5cf",
+          "title": "Σεισμοί στην Εύβοια: Κλειστά αύριο τα σχολεία στο Μαντούδι – Κανονικά οι Πανελλήνιες",
+          "url": "https://www.kathimerini.gr/society/564270322/seismoi-stin-eyvoia-kleista-ayrio-ta-scholeia-sto-mantoydi-kanonika-oi-panellinies/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T17:05:00+00:00",
+          "category": "society",
+          "importance": 80,
+          "summary": {
+            "el": "Δύο ισχυρές σεισμικές δονήσεις γύρω στη 1 το μεσημέρι της Κυριακής με επίκεντρο τη βόρεια Εύβοια έγιναν αισθητές και στην Αττική. Τα σχολεία πρωτοβάθμιας στον δήμο Μαντουδίου θα παραμείνουν κλειστά τη Δευτέρα προληπτικά, ενώ οι Πανελλήνιες θα διεξαχθούν κανονικά.",
+            "en": "Two strong earthquakes around 1 p.m. Sunday centered on northern Euboea were also felt in Attica. Primary schools in the Mantoudi municipality will stay shut Monday as a precaution, while the national university exams proceed as scheduled."
+          },
+          "tags": {
+            "el": [
+              "σεισμός",
+              "Εύβοια",
+              "σχολεία",
+              "Πανελλήνιες"
+            ],
+            "en": [
+              "earthquake",
+              "Euboea",
+              "schools",
+              "national exams"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "c634eae0409e",
+          "title": "Κρήτη: Η εκπαίδευση στη Μαλαισία και οι online παραγγελίες χημικών – Η ομολογία του 37χρονου της Χαμάς",
+          "url": "https://www.kathimerini.gr/society/564270145/kriti-i-ekpaideysi-sti-malaisia-kai-oi-online-paraggelies-chimikon-i-omologia-toy-37chronoy-tis-chamas/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T10:11:57+00:00",
+          "category": "society",
+          "importance": 75,
+          "summary": {
+            "el": "Νέα στοιχεία για τον 37χρονο που συνελήφθη στον Άγιο Νικόλαο Κρήτης δείχνουν εκπαίδευση στη Μαλαισία και διαδικτυακές παραγγελίες χημικών ουσιών. Ομολόγησε ότι είναι μέλος της Χαμάς με επαφές με τους συλληφθέντες στην Κύπρο, χωρίς να έχει κατασκευάσει ακόμη βόμβα.",
+            "en": "New details on the 37-year-old arrested in Agios Nikolaos, Crete, point to training in Malaysia and online orders of chemicals. He confessed to being a Hamas member with contacts among those arrested in Cyprus, though he had not yet built a bomb."
+          },
+          "tags": {
+            "el": [
+              "τρομοκρατία",
+              "Χαμάς",
+              "Κρήτη",
+              "Μαλαισία"
+            ],
+            "en": [
+              "terrorism",
+              "Hamas",
+              "Crete",
+              "Malaysia"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "fbe3f2255b53",
+          "title": "Σεισμικές δονήσεις στη Βόρεια Εύβοια – «Η περιοχή δεν δίνει μεγέθη πάνω από 5,5 Ρίχτερ»",
+          "url": "https://www.kathimerini.gr/society/564270241/seismikes-doniseis-sti-voreia-eyvoia-i-periochi-den-dinei-megethi-pano-apo-5-5-richter/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T14:47:53+00:00",
+          "category": "society",
+          "importance": 66,
+          "summary": {
+            "el": "Σεισμολόγοι, μεταξύ τους ο πρόεδρος του ΟΑΣΠ Ευθύμιος Λέκκας, εμφανίζονται καθησυχαστικοί για τις δονήσεις στη βόρεια Εύβοια, σημειώνοντας ότι η περιοχή δεν δίνει μεγέθη πάνω από 5,5 Ρίχτερ. Η πρώτη ισχυρή δόνηση των 4,8 βαθμών προκάλεσε ζημιές σε παλιά σπίτια και κατολισθήσεις.",
+            "en": "Seismologists, including OASP head Efthymios Lekkas, struck a reassuring tone over the northern Euboea quakes, noting the area does not produce magnitudes above 5.5. The first strong 4.8 tremor caused damage to old houses and landslides."
+          },
+          "tags": {
+            "el": [
+              "σεισμός",
+              "Εύβοια",
+              "ΟΑΣΠ",
+              "Λέκκας"
+            ],
+            "en": [
+              "earthquake",
+              "Euboea",
+              "OASP",
+              "Lekkas"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "633925b6a275",
+          "title": "Σε αυξημένη ετοιμότητα η Πυροσβεστική σε Αττική και Εύβοια μετά τους σεισμούς",
+          "url": "https://www.kathimerini.gr/society/564270301/se-ayximeni-etoimotita-i-pyrosvestiki-se-attiki-kai-eyvoia-meta-toys-seismoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T16:14:00+00:00",
+          "category": "society",
+          "importance": 64,
+          "summary": {
+            "el": "Η Πυροσβεστική τέθηκε σε αυξημένη ετοιμότητα σε Αττική και Εύβοια μετά τις διαδοχικές δονήσεις 4,8, 4,3 και 5,2 Ρίχτερ. Καταγράφηκαν κατάπτωση τοίχου, ρωγμές σε κατοικίες και μικρές κατολισθήσεις στο οδικό δίκτυο, με τον υπουργό Πολιτικής Προστασίας σε συνεχή επικοινωνία.",
+            "en": "The fire service went on heightened alert in Attica and Euboea after successive quakes of 4.8, 4.3 and 5.2 on the Richter scale. A collapsed wall, cracks in homes and minor road landslides were recorded, with the civil-protection minister in constant contact."
+          },
+          "tags": {
+            "el": [
+              "σεισμός",
+              "Εύβοια",
+              "Πολιτική Προστασία",
+              "Πυροσβεστική"
+            ],
+            "en": [
+              "earthquake",
+              "Euboea",
+              "civil protection",
+              "fire service"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "1128ee02c442",
+          "title": "Ανταλλαγή επιθέσεων μεταξύ Ισραήλ και Λιβάνου – Νεκροί πέντε στρατιώτες",
+          "url": "https://www.kathimerini.gr/world/564270154/antallagi-epitheseon-metaxy-israil-kai-livanoy-nekroi-pente-stratiotes/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T12:25:52+00:00",
+          "category": "world",
+          "importance": 74,
+          "summary": {
+            "el": "Συνεχίστηκαν οι ανταλλαγές επιθέσεων Ισραήλ-Λιβάνου παρά τη συμφωνία που ανακοινώθηκε στην Ουάσιγκτον, με ισραηλινό πλήγμα να σκοτώνει τρία μέλη των λιβανέζικων ενόπλων δυνάμεων και δύο θανάτους στις τάξεις του ισραηλινού στρατού. Ο πρόεδρος Αούν καταδίκασε την «κατάφωρη παραβίαση» της κυριαρχίας.",
+            "en": "Israeli-Lebanese exchanges of fire continued despite a deal announced in Washington, with an Israeli strike killing three Lebanese soldiers and two deaths reported in Israeli ranks. President Aoun condemned the \"flagrant violation\" of sovereignty."
+          },
+          "tags": {
+            "el": [
+              "Ισραήλ",
+              "Λίβανος",
+              "συγκρούσεις",
+              "Αούν"
+            ],
+            "en": [
+              "Israel",
+              "Lebanon",
+              "clashes",
+              "Aoun"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "97dfb2d3587b",
+          "title": "Γαλλία και Κύπρος υπογράφουν συμφωνία για ανάπτυξη γαλλικών δυνάμεων στο νησί",
+          "url": "https://www.kathimerini.gr/world/564270370/gallia-kai-kypros-ypografoyn-symfonia-gia-anaptyxi-gallikon-dynameon-sto-nisi/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T17:34:12+00:00",
+          "category": "world",
+          "importance": 72,
+          "summary": {
+            "el": "Η Γαλλία και η Κύπρος υπογράφουν τη Δευτέρα συμφωνία για το καθεστώς στρατιωτικών δυνάμεων (SOFA) που επιτρέπει στο Παρίσι να σταθμεύει και να επιχειρεί στρατεύματα στο νησί. Η συμφωνία υπογράφεται στη Λευκωσία με πλήρη σεβασμό της εθνικής κυριαρχίας.",
+            "en": "France and Cyprus will sign a Status of Forces Agreement (SOFA) on Monday allowing Paris to station and operate troops on the island. The deal is to be signed in Nicosia with full respect for national sovereignty."
+          },
+          "tags": {
+            "el": [
+              "Κύπρος",
+              "Γαλλία",
+              "άμυνα",
+              "SOFA"
+            ],
+            "en": [
+              "Cyprus",
+              "France",
+              "defense",
+              "SOFA"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4f6ebca79bbd",
+          "title": "Τραμπ: «Οχι» σε αποδέσμευση ιρανικών κεφαλαίων πριν τη συμφωνία",
+          "url": "https://www.kathimerini.gr/world/564270304/tramp-ochi-se-apodesmeysi-iranikon-kefalaion-prin-ti-symfonia/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T16:36:21+00:00",
+          "category": "world",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ απέκλεισε την αποδέσμευση «παγωμένων» ιρανικών κεφαλαίων και την άρση κυρώσεων πριν από ειρηνευτική συμφωνία με την Τεχεράνη. Η δήλωση έρχεται ενώ στρατιωτικός σύμβουλος του ανώτατου ηγέτη του Ιράν συνδέει τη συμφωνία με την αποδέσμευση των κεφαλαίων.",
+            "en": "Donald Trump ruled out releasing \"frozen\" Iranian assets or lifting sanctions before a peace deal with Tehran. The statement comes as a military adviser to Iran's supreme leader links any agreement to the release of those funds."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Ιράν",
+              "κυρώσεις",
+              "διπλωματία"
+            ],
+            "en": [
+              "Trump",
+              "Iran",
+              "sanctions",
+              "diplomacy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1e546762209e",
+          "title": "Νέοι ισραηλινοί βομβαρδισμοί στη Γάζα – Τουλάχιστον εννέα νεκροί",
+          "url": "https://www.kathimerini.gr/world/564270082/neoi-israilinoi-vomvardismoi-sti-gaza-toylachiston-ennea-nekroi/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:19:31+00:00",
+          "category": "world",
+          "importance": 68,
+          "summary": {
+            "el": "Νέοι ισραηλινοί βομβαρδισμοί στη Λωρίδα της Γάζας στοίχισαν τη ζωή σε τουλάχιστον εννέα ανθρώπους, παρά την εκεχειρία του Οκτωβρίου 2025. Πλήγμα drone σκότωσε επτά ανθρώπους σε καταυλισμό εκτοπισμένων, ενώ ο ισραηλινός στρατός λέει ότι σκότωσε διοικητή της Χαμάς.",
+            "en": "Fresh Israeli strikes on the Gaza Strip killed at least nine people despite the October 2025 ceasefire. A drone strike killed seven in a displacement camp, while the Israeli military says it killed a Hamas commander."
+          },
+          "tags": {
+            "el": [
+              "Γάζα",
+              "Ισραήλ",
+              "βομβαρδισμοί",
+              "Χαμάς"
+            ],
+            "en": [
+              "Gaza",
+              "Israel",
+              "airstrikes",
+              "Hamas"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3e15542b4560",
+          "title": "Ενας νεκρός και πέντε τραυματίες από επίθεση με όπλο στο κεντρικό Ισραήλ",
+          "url": "https://www.kathimerini.gr/world/564270193/enas-nekros-kai-pente-traymaties-apo-epithesi-me-oplo-sto-kentriko-israil/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T12:00:41+00:00",
+          "category": "world",
+          "importance": 66,
+          "summary": {
+            "el": "Ένας νεκρός και πέντε τραυματίες προέκυψαν από πυροβολισμούς στο κεντρικό Ισραήλ την Κυριακή, σε επίθεση που αντιμετωπίζεται ως τρομοκρατική. Σύμφωνα με το Reuters οι πυροβολισμοί σημειώθηκαν σε τρεις περιοχές κοντά στην Καλκίλια, με τον δράστη να «εξουδετερώνεται».",
+            "en": "One person was killed and five wounded by gunfire in central Israel on Sunday, in an attack treated as terrorism. According to Reuters the shootings occurred in three areas near Qalqilya, with the assailant \"neutralized.\""
+          },
+          "tags": {
+            "el": [
+              "Ισραήλ",
+              "τρομοκρατία",
+              "επίθεση",
+              "Δυτική Όχθη"
+            ],
+            "en": [
+              "Israel",
+              "terrorism",
+              "attack",
+              "West Bank"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 10,
+      "top_items": [
+        {
+          "id": "d0f6c79b955a",
+          "title": "Ανοιχτή πληγή",
+          "url": "https://www.kathimerini.gr/opinion/564268060/anoichti-pligi-5/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:14:00+00:00",
+          "category": "opinion",
+          "importance": 58,
+          "summary": {
+            "el": "Το κύριο άρθρο της «Κ» σχολιάζει την έξοδο της χώρας από την επιτήρηση ως συμβολικό ορόσημο, αλλά επισημαίνει ότι κάποια τραύματα μένουν ανοιχτά. Οι πυρπολημένοι κινηματογράφοι «Αττικόν» και «Απόλλων» παραμένουν κλειστοί, με μόνη πρόοδο την ελευθέρωση του πεζοδρομίου.",
+            "en": "Kathimerini's editorial marks the country's exit from surveillance as a symbolic milestone but notes some wounds remain open. The torched Attikon and Apollon cinemas stay shut, with the only progress being the freeing of the sidewalk."
+          },
+          "tags": {
+            "el": [
+              "κύριο άρθρο",
+              "Αττικόν",
+              "κρίση",
+              "Αθήνα"
+            ],
+            "en": [
+              "editorial",
+              "Attikon cinema",
+              "crisis",
+              "Athens"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "af034f1ef678",
+          "title": "Αν ξέραμε τι πληρώνουμε…",
+          "url": "https://www.kathimerini.gr/opinion/564268330/an-xerame-ti-plironoyme/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:12:00+00:00",
+          "category": "opinion",
+          "importance": 54,
+          "summary": {
+            "el": "Ο Πάσχος Μανδραβέλης καταγγέλλει ότι το άρθρο 56 ενός προεκλογικού νομοσχεδίου, γραμμένο σε δυσνόητη γραφειοκρατική γλώσσα, ενισχύει οικονομικά τον αρχιεπίσκοπο, επισκόπους και τιτουλάριους. Επικρίνει τη διαφάνεια στο πώς δαπανώνται τα χρήματα των φορολογουμένων.",
+            "en": "Paschos Mandravelis denounces how article 56 of a pre-election bill, written in opaque bureaucratic language, financially boosts the archbishop, bishops and titular clergy. He criticizes the lack of transparency over how taxpayers' money is spent."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "Εκκλησία",
+              "διαφάνεια",
+              "φορολογούμενοι"
+            ],
+            "en": [
+              "opinion",
+              "Church",
+              "transparency",
+              "taxpayers"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e57cf8ae71d2",
+          "title": "ΠΑΣΟΚ, ωραία χρόνια",
+          "url": "https://www.kathimerini.gr/opinion/564268525/pasok-oraia-chronia/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:13:00+00:00",
+          "category": "opinion",
+          "importance": 52,
+          "summary": {
+            "el": "Ο Τάκης Θεοδωρόπουλος σχολιάζει σατιρικά την «κατήφεια» του ΠΑΣΟΚ, που προσδοκούσε να γίνει ηγεμονική δύναμη μετά τη διάλυση του ΣΥΡΙΖΑ. Η αποτυχία, ειρωνεύεται, αποδίδεται από τα στελέχη σε όσους φθονούν τη γοητεία του κόμματος.",
+            "en": "Takis Theodoropoulos satirizes PASOK's gloom, having expected to become the hegemonic force after SYRIZA's collapse. Its failure, he mocks, is blamed by cadres on those who envy the party's charm."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "ΠΑΣΟΚ",
+              "σάτιρα",
+              "αντιπολίτευση"
+            ],
+            "en": [
+              "opinion",
+              "PASOK",
+              "satire",
+              "opposition"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f1db32bccaab",
+          "title": "Μόνο θόρυβος",
+          "url": "https://www.kathimerini.gr/opinion/564268051/mono-thoryvos/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:10:00+00:00",
+          "category": "opinion",
+          "importance": 52,
+          "summary": {
+            "el": "Η Μαρία Κατσουνάκη παρατηρεί ότι όσο πληθαίνουν τα κόμματα, τόσο φτωχαίνει η πολιτική ζωή. Σχολιάζει τη «ρευστοποίηση» του ΣΥΡΙΖΑ και μια «γκρίζα ζώνη» 13,5% όπου υπερεκπροσωπούνται οι νεότεροι ψηφοφόροι.",
+            "en": "Maria Katsounaki observes that as parties multiply, political life grows poorer. She comments on SYRIZA's \"liquidation\" and a 13.5% \"grey zone\" where younger voters are over-represented."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "κόμματα",
+              "ΣΥΡΙΖΑ",
+              "ψηφοφόροι"
+            ],
+            "en": [
+              "opinion",
+              "parties",
+              "SYRIZA",
+              "voters"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e9be050d6822",
+          "title": "Γιατί το ΠΑΣΟΚ δεν πρέπει να φοβάται τον Αλέξη Τσίπρα",
+          "url": "https://www.kathimerini.gr/opinion/564268333/giati-to-pasok-den-prepei-na-fovatai-ton-alexi-tsipra/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T20:04:00+00:00",
+          "category": "opinion",
+          "importance": 52,
+          "summary": {
+            "el": "Ο Παναγιώτης Λάμψιας υποστηρίζει ότι το ΠΑΣΟΚ δεν πρέπει να φοβάται τον Αλέξη Τσίπρα, καθώς οι πρόσφατες δημοσκοπήσεις προκάλεσαν μεγαλύτερη αναστάτωση από όση δικαιολογούν. Τονίζει ότι τα σημερινά στοιχεία δεν αποτελούν ασφαλή πρόβλεψη για το μέλλον.",
+            "en": "Panagiotis Lampsias argues PASOK should not fear Alexis Tsipras, as recent polls caused more turmoil than their findings justify. He stresses that current figures are not a safe prediction of what will happen in a few months."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "ΠΑΣΟΚ",
+              "Τσίπρας",
+              "δημοσκοπήσεις"
+            ],
+            "en": [
+              "opinion",
+              "PASOK",
+              "Tsipras",
+              "polls"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "0c2b8d4233fc",
+          "title": "Δεκατέσσερα χρόνια για ένα πεζοδρόμιο",
+          "url": "https://www.kathimerini.gr/culture/564268378/dekatessera-chronia-gia-ena-pezodromio/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:39:14+00:00",
+          "category": "culture",
+          "importance": 52,
+          "summary": {
+            "el": "Ο Δημήτρης Ρηγόπουλος περιγράφει την αποκατάσταση του φαρδιού πεζοδρομίου της οδού Σταδίου μπροστά από τους κλειστούς κινηματογράφους «Αττικόν» και «Απόλλων», δεκατέσσερα χρόνια μετά την αντιμνημονιακή πυρπόληση του 2012. Η απομάκρυνση των λαμαρινών επιτρέπει ξανά να φανούν οι αρχιτεκτονικές γραμμές της πρόσοψης.",
+            "en": "Dimitris Rigopoulos describes the restoration of the wide Stadiou Street sidewalk in front of the shuttered Attikon and Apollon cinemas, fourteen years after the 2012 anti-austerity arson. Removing the metal sheeting again reveals the facade's architectural lines."
+          },
+          "tags": {
+            "el": [
+              "Αθήνα",
+              "Αττικόν",
+              "αρχιτεκτονική",
+              "πόλη"
+            ],
+            "en": [
+              "Athens",
+              "Attikon cinema",
+              "architecture",
+              "urban space"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "bff42f2e28eb",
+          "title": "Ουρς Φίσερ στην «Κ»: Το κολάζ συμπυκνώνει εμπειρίες",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564268405/oyrs-fiser-stin-k-to-kolaz-sympyknonei-empeiries/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:32:38+00:00",
+          "category": "culture",
+          "importance": 48,
+          "summary": {
+            "el": "Σε συνέντευξη στην «Κ» ο Ελβετός εικαστικός Ουρς Φίσερ μιλά για το κολάζ που «συμπυκνώνει εμπειρίες», τη συλλογή του και την πρώτη του έκθεση στην Αθήνα. Ο διεθνώς αναγνωρισμένος καλλιτέχνης αποφεύγει τις οριστικές κρίσεις και αναζητά να καταλάβει τι βλέπουν οι άλλοι.",
+            "en": "In an interview with Kathimerini, Swiss artist Urs Fischer discusses collage that \"condenses experiences,\" his collection and his first exhibition in Athens. The internationally acclaimed artist avoids definitive judgments and seeks to understand what others see."
+          },
+          "tags": {
+            "el": [
+              "τέχνη",
+              "Ουρς Φίσερ",
+              "συνέντευξη",
+              "Αθήνα"
+            ],
+            "en": [
+              "art",
+              "Urs Fischer",
+              "interview",
+              "Athens"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "e7ef6e479542",
+          "title": "Ναόμι Ισιγκούρο: Ξένος στον τόπο όπου ζεις",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564268375/naomi-isigkoyro-xenos-ston-topo-opoy-zeis/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:03:47+00:00",
+          "category": "culture",
+          "importance": 44,
+          "summary": {
+            "el": "Η Βρετανίδα συγγραφέας Ναόμι Ισιγκούρο μιλά στην «Κ» για το νέο της μυθιστόρημα «Πόλη από βροχή και σκιά», πρώτο μιας τριλογίας φανταστικού, και για το «βάρος» του επωνύμου του νομπελίστα πατέρα της. Διαμορφώνει σταθερά τη δική της πορεία στη λογοτεχνία.",
+            "en": "British author Naomi Ishiguro talks to Kathimerini about her new novel \"The Rainshadow Orphans,\" first of a fantasy trilogy, and the \"weight\" of her Nobel-laureate father's surname. She is steadily forging her own literary path."
+          },
+          "tags": {
+            "el": [
+              "βιβλίο",
+              "Ναόμι Ισιγκούρο",
+              "συνέντευξη",
+              "λογοτεχνία"
+            ],
+            "en": [
+              "books",
+              "Naomi Ishiguro",
+              "interview",
+              "literature"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "3ecc14642b3e",
+          "title": "500 λέξεις με την Αλεξία Κέπελη",
+          "url": "https://www.kathimerini.gr/culture/books/564265132/500-lexeis-me-tin-alexia-kepeli/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T09:00:39+00:00",
+          "category": "culture",
+          "importance": 40,
+          "summary": {
+            "el": "Στη στήλη «500 λέξεις» η συγγραφέας Αλεξία Κέπελη, της οποίας το βιβλίο «Η Μέντορας» κυκλοφορεί από τις εκδόσεις Διόπτρα, μιλά για τα αναγνώσματά της. Αναφέρεται σε βιβλία στο κομοδίνο της και σε όσα έμαθε πρόσφατα, όπως για την αναγνώριση της γυναικοκτονίας στο Μεξικό.",
+            "en": "In the \"500 Words\" column, author Alexia Kepeli, whose book \"The Mentor\" is published by Dioptra, discusses her reading. She mentions the books on her nightstand and recent things she learned, such as the recognition of femicide in Mexico."
+          },
+          "tags": {
+            "el": [
+              "βιβλίο",
+              "συνέντευξη",
+              "Αλεξία Κέπελη",
+              "λογοτεχνία"
+            ],
+            "en": [
+              "books",
+              "interview",
+              "Alexia Kepeli",
+              "literature"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 53
+  }
+}

@@ -1,190 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://zoetzikra.github.io/greek-news-aggregator/feeds/main.xml</id>
-  <title>Greek News Aggregator — Top of the Day</title>
-  <subtitle>Daily curated and summarised Greek news from kathimerini.gr</subtitle>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/feeds/main.xml" rel="self" />
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/" />
-  <updated>2026-06-05T12:48:29.457836+00:00</updated>
-  <author><name>greek-news-aggregator</name></author>
+  <title>Greek News Aggregator — Kathimerini Daily Digest</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
+  <id>https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml</id>
+  <updated>2026-06-07T15:36:44.636409+00:00</updated>
+  <subtitle>Top 20 stories by importance</subtitle>
   <entry>
-    <id>urn:greek-news:2026-06-05:6214b5706e55</id>
-    <title>Ενημερώθηκε ο Πούτιν για την επιστολή Ζελένσκι – Οσα γράφει ο πρόεδρος της Ουκρανίας.</title>
-    <link href="https://www.kathimerini.gr/world/564266968/enimerothike-o-poytin-gia-tin-epistoli-zelenski-osa-grafei-o-proedros-tis-oykranias/" />
-    <updated>2026-06-05T11:40:47+00:00</updated>
+    <title>Eπιχείρηση «Odin»:  Τι αναφέρει η ΕΛ.ΑΣ. για τη σύλληψη του 37χρονου – Φωτογραφίες από το σπίτι στα Πατήσια</title>
+    <link href="https://www.kathimerini.gr/society/564270262/epicheirisi-odin-ti-anaferei-i-el-as-gia-ti-syllipsi-toy-37chronoy-fotografies-apo-to-spiti-sta-patisia/"/>
+    <id>https://www.kathimerini.gr/society/564270262/epicheirisi-odin-ti-anaferei-i-el-as-gia-ti-syllipsi-toy-37chronoy-fotografies-apo-to-spiti-sta-patisia/</id>
+    <updated>2026-06-07T15:23:49+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Βλαντιμίρ Πούτιν ενημερώθηκε για την επιστολή Ζελένσκι, ανέφερε ο εκπρόσωπος του Κρεμλίνου Ντμίτρι Πεσκόφ. Ο Ουκρανός πρόεδρος ζητά συνάντηση για τερματισμό του πολέμου, ασκώντας σκληρή κριτική στην 26ετή παρουσία του Πούτιν στην εξουσία.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Vladimir Putin has been informed about Zelensky's letter, said Kremlin spokesman Dmitry Peskov. The Ukrainian president is seeking a meeting to end the war and sharply criticizes Putin's 26 years in power.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 85 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <category term="society"/>
+    <summary type="text">The "Odin" operation by the intelligence service and the counter-terrorism unit led to the arrest of a 37-year-old in Agios Nikolaos, Crete, who had ordered chemicals online to build explosives. The suspect confessed to being a Hamas member planning a mass attack.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:89dc0d5b4aca</id>
-    <title>Πιερρακάκης: Στα 1.600 ευρώ αυξάνεται το ακατάσχετο όριο</title>
-    <link href="https://www.kathimerini.gr/economy/564267091/pierrakakis-sta-1-600-eyro-ayxanetai-to-akatascheto-orio/" />
-    <updated>2026-06-05T12:53:11+00:00</updated>
+    <title>Κυρ. Μητσοτάκης για Συνταγματική Αναθεώρηση: «Τολμηρές αλλά αναγκαίες οι αλλαγές»</title>
+    <link href="https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/"/>
+    <id>https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/</id>
+    <updated>2026-06-07T11:13:14+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο υπουργός Οικονομικών Κυριάκος Πιερρακάκης ανακοίνωσε από το βήμα της Βουλής αύξηση του ακατάσχετου ορίου τραπεζικών λογαριασμών από 1.250 σε 1.600 ευρώ, χαρακτηρίζοντας τη ρύθμιση «πράξη δικαιοσύνης και εμπιστοσύνης προς την κοινωνία».&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Finance Minister Kyriakos Pierrakakis announced from the parliament floor that the seizure-protected bank account threshold will rise from €1,250 to €1,600, calling the move 'an act of fairness and trust toward society.'&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 82 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
+    <category term="politics"/>
+    <summary type="text">In his weekly review PM Kyriakos Mitsotakis called the constitutional-revision changes "bold but necessary," framing a vision of Greece in 2030. He proposes non-state universities, reform of ministerial liability, linking civil-service tenure to evaluation, and constitutional protection of affordable housing.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:2ce3bc10a016</id>
-    <title>Ε.Ε.: «Χαιρετίζει» την επιστολή του Ζελένσκι για απευθείας διαπραγματεύσεις με τη Ρωσία</title>
-    <link href="https://www.kathimerini.gr/world/564267172/e-e-chairetizei-tin-epistoli-toy-zelenski-gia-ap-eytheias-diapragmateyseis-me-ti-rosia/" />
-    <updated>2026-06-05T14:01:06+00:00</updated>
+    <title>Σεισμοί στην Εύβοια: Κλειστά αύριο τα σχολεία στο Μαντούδι – Κανονικά οι Πανελλήνιες</title>
+    <link href="https://www.kathimerini.gr/society/564270322/seismoi-stin-eyvoia-kleista-ayrio-ta-scholeia-sto-mantoydi-kanonika-oi-panellinies/"/>
+    <id>https://www.kathimerini.gr/society/564270322/seismoi-stin-eyvoia-kleista-ayrio-ta-scholeia-sto-mantoydi-kanonika-oi-panellinies/</id>
+    <updated>2026-06-07T17:05:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Ευρωπαϊκή Επιτροπή και ο Εμανουέλ Μακρόν χαιρετίζουν την επιστολή Ζελένσκι υπέρ απευθείας διαπραγματεύσεων με τη Ρωσία και κατάπαυσης πυρός. «Η Ουκρανία θέλει ειρήνη, η Ευρώπη θέλει ειρήνη», δήλωσε η εκπρόσωπος Ανίτα Χίπερ.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Commission and Emmanuel Macron welcomed Zelensky's letter calling for direct talks with Russia and a ceasefire. 'Ukraine wants peace, Europe wants peace,' said Commission spokesperson Anitta Hipper.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 82 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
+    <category term="society"/>
+    <summary type="text">Two strong earthquakes around 1 p.m. Sunday centered on northern Euboea were also felt in Attica. Primary schools in the Mantoudi municipality will stay shut Monday as a precaution, while the national university exams proceed as scheduled.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:ceb449428c8d</id>
-    <title>«Πράσινο φως» από τον ESM για πρόωρη αποπληρωμή 6,95 δισ. ευρώ από το πρώτο Μνημόνιο</title>
-    <link href="https://www.kathimerini.gr/economy/564267046/prasino-fos-apo-ton-esm-gia-proori-apopliromi-6-95-dis-eyro-apo-to-proto-mnimonio/" />
-    <updated>2026-06-05T12:13:48+00:00</updated>
+    <title>ΣΥΡΙΖΑ: Υπερψηφίστηκε η πρόταση Φάμελλου – «Δίπλα» στην πρωτοβουλία Τσίπρα</title>
+    <link href="https://www.kathimerini.gr/politics/564270037/syriza-yperpsifistike-epi-tis-archis-i-protasi-famelloy/"/>
+    <id>https://www.kathimerini.gr/politics/564270037/syriza-yperpsifistike-epi-tis-archis-i-protasi-famelloy/</id>
+    <updated>2026-06-06T20:38:54+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Ευρωπαϊκός Μηχανισμός Σταθερότητας (ESM) έδωσε το πράσινο φως στην Ελλάδα για πρόωρη αποπληρωμή 6,95 δισ. ευρώ από τα δάνεια του πρώτου Μνημονίου, εγκρίνοντας και τη χρήση πόρων από τον λογαριασμό ταμειακού αποθέματος.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The European Stability Mechanism approved Greece's early repayment of €6.95bn of first-bailout loans, also clearing the use of cash-buffer reserves to fund part of the prepayment.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 80 | &lt;em&gt;Sentiment:&lt;/em&gt; positive&lt;/p&gt;</summary>
+    <category term="politics"/>
+    <summary type="text">SYRIZA's central committee approved Socrates Famellos's motion to align with Alexis Tsipras's new movement, without a roll-call vote. The leadership claims about 70% support, while Pavlos Polakis insists his rival proposal drew over 40%.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:159c543d609d</id>
-    <title>ΣΥΡΙΖΑ: Πρόσω ολοταχώς για σύγκρουση λόγω Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564265942/syriza-proso-olotachos-gia-sygkroysi-logo-tsipra/" />
-    <updated>2026-06-05T09:14:37+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Κρίσιμες συνεδριάσεις της Πολιτικής Γραμματείας και της Κεντρικής Επιτροπής του ΣΥΡΙΖΑ. Ο πρόεδρος Σωκράτης Φάμελλος φέρεται να έχει αποφασίσει ότι το κόμμα πρέπει να στηρίξει την ΕΛΑΣ του Τσίπρα, εξέλιξη που οδηγεί την Κουμουνδούρου σε ανοιχτή ρήξη.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Crisis meetings of SYRIZA's Political Secretariat and Central Committee are underway. Leader Sokratis Famellos reportedly favors backing Tsipras's new ELAS — a stance pushing the party toward open internal rupture.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 80 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <title>Από ρύθμιση σε ρύθμιση τα ίδια χρέη</title>
+    <link href="https://www.kathimerini.gr/economy/564269224/apo-rythmisi-se-rythmisi-ta-idia-chrei/"/>
+    <id>https://www.kathimerini.gr/economy/564269224/apo-rythmisi-se-rythmisi-ta-idia-chrei/</id>
+    <updated>2026-06-07T11:32:42+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary type="text">Total overdue debts to the tax authority and social-security funds reach €165 billion, but only an estimated €27 billion is realistically collectible. The government is preparing a new 72-installment scheme, though analysts warn expectations of mass uptake are overly optimistic.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:a9cde863f225</id>
-    <title>Συμβόλαια υγείας: Μεγάλες αυξήσεις στα ασφάλιστρα</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564266374/symvolaia-ygeias-megales-ayxiseis-sta-asfalistra/" />
-    <updated>2026-06-05T15:17:03+03:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Διψήφιες αυξήσεις σε ασφάλιστρα υγείας από αρκετές εταιρείες, εν αναμονή του ετήσιου Δείκτη Αναπροσαρμογής που η ΕΛΣΤΑΤ δεν έχει ακόμη δημοσιεύσει. Σε ηλικίες άνω των 70 ετών οι αυξήσεις φτάνουν έως 30%.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Several insurers are raising health premiums in double digits, ahead of the long-promised annual repricing index ELSTAT has yet to publish. For policyholders over 70, hikes can reach 30%.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <title>Κρήτη: Η εκπαίδευση στη Μαλαισία και οι online παραγγελίες χημικών – Η ομολογία του 37χρονου της Χαμάς</title>
+    <link href="https://www.kathimerini.gr/society/564270145/kriti-i-ekpaideysi-sti-malaisia-kai-oi-online-paraggelies-chimikon-i-omologia-toy-37chronoy-tis-chamas/"/>
+    <id>https://www.kathimerini.gr/society/564270145/kriti-i-ekpaideysi-sti-malaisia-kai-oi-online-paraggelies-chimikon-i-omologia-toy-37chronoy-tis-chamas/</id>
+    <updated>2026-06-07T10:11:57+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <category term="society"/>
+    <summary type="text">New details on the 37-year-old arrested in Agios Nikolaos, Crete, point to training in Malaysia and online orders of chemicals. He confessed to being a Hamas member with contacts among those arrested in Cyprus, though he had not yet built a bomb.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:475b84c41d3c</id>
-    <title>ΕΛΑΣ: Τα επόμενα βήματα με ορίζοντα τη ΔΕΘ</title>
-    <link href="https://www.kathimerini.gr/politics/564267145/elas-ta-epomena-vimata-me-orizonta-ti-deth/" />
-    <updated>2026-06-05T13:36:04+00:00</updated>
+    <title>Ανταλλαγή επιθέσεων μεταξύ Ισραήλ και Λιβάνου – Νεκροί πέντε στρατιώτες</title>
+    <link href="https://www.kathimerini.gr/world/564270154/antallagi-epitheseon-metaxy-israil-kai-livanoy-nekroi-pente-stratiotes/"/>
+    <id>https://www.kathimerini.gr/world/564270154/antallagi-epitheseon-metaxy-israil-kai-livanoy-nekroi-pente-stratiotes/</id>
+    <updated>2026-06-07T12:25:52+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στελέχη της ΕΛΑΣ ανακοίνωσαν ότι ο Αλέξης Τσίπρας θα παρουσιάσει στη ΔΕΘ τον Σεπτέμβριο «ολοκληρωμένο, κοστολογημένο κυβερνητικό πρόγραμμα». Σχεδιάζεται πανελλαδική οργανωτική ανάπτυξη με υβριδική ηλεκτρονική πλατφόρμα που ήδη συγκεντρώνει 30.000+ μέλη.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Officials of Tsipras's new ELAS movement said he will present a 'comprehensive, costed government program' at the Thessaloniki Fair in September. They are planning nationwide organizational rollout and a hybrid online platform that already has 30,000+ members.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="text">Israeli-Lebanese exchanges of fire continued despite a deal announced in Washington, with an Israeli strike killing three Lebanese soldiers and two deaths reported in Israeli ranks. President Aoun condemned the "flagrant violation" of sovereignty.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:f1f2553a0066</id>
-    <title>Πάτρα: Παρέμβαση εισαγγελέα για τους θανάτους κρατουμένων στις φυλακές του Αγίου Στεφάνου</title>
-    <link href="https://www.kathimerini.gr/society/564267151/patra-paremvasi-eisaggelea-gia-toys-thanatoys-kratoymenon-stis-fylakes-toy-agioy-stefanoy/" />
-    <updated>2026-06-05T13:47:52+00:00</updated>
-    <author><name>Ηλίας Κάνιστρας</name></author>
-    <category term="society" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η Εισαγγελία Εφετών Πατρών διέταξε διερεύνηση μετά τους θανάτους οκτώ κρατουμένων σε τρεις μήνες στις φυλακές Αγίου Στεφάνου. Η Αστυνομία αποδίδει τους θανάτους σε παθολογικά αίτια, ωστόσο ο Δικηγορικός Σύλλογος Πατρών έχει επισκεφθεί τις φυλακές.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Prosecutors in Patras ordered an inquiry after eight inmates died in three months at the Agios Stefanos prison. Police attribute the deaths to pathological causes, but the Patras Bar Association has visited the facility.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; society | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2026-06-05:729cc9ed6489</id>
-    <title>Γυρίζουν την πλάτη στο σχολείο</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564265984/gyrizoyn-tin-plati-sto-scholeio-2/" />
-    <updated>2026-06-05T11:34:58+03:00</updated>
-    <author><name>Απόστολος Λακασάς</name></author>
-    <category term="society" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Λιγότερες κατά 16.219 οι αιτήσεις στους πίνακες εκπαιδευτικών του ΑΣΕΠ φέτος (136.059 από 152.278 το 2023). Βασική αιτία οι χαμηλοί εισαγωγικοί μισθοί 800-900 ευρώ. Το υπουργείο Παιδείας πρόσληψε ακόμη και συνταξιούχους δασκάλους για να καλύψει τα κενά.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek teacher applications fell by 16,219 this year (136,059 down from 152,278 in 2023). The main reason: starting salaries of €800-900. The Education Ministry has even hired retired teachers to plug the gaps.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; society | &lt;em&gt;Importance:&lt;/em&gt; 78 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2026-06-05:94d60bdd48c1</id>
-    <title>Ελληνοτουρκικά: Καθυστερεί το νομοσχέδιο της Αγκυρας</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564265972/ellinotoyrkika-kathysterei-to-nomoschedio-tis-agkyras/" />
-    <updated>2026-06-05T07:10:00+00:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το τουρκικό Haberturk επιβεβαίωσε δημοσίευμα της «Κ» ότι η ψήφιση του νομοσχεδίου της «Γαλάζιας Πατρίδας», που καθορίζει θαλάσσιες δικαιοδοσίες της Τουρκίας στο Αιγαίο και την Αν. Μεσόγειο, αναβάλλεται για τον Οκτώβριο λόγω φορτωμένης βουλευτικής ατζέντας.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Turkey's Haberturk confirmed Kathimerini's report that legislation defining Turkey's maritime zones — the 'Blue Homeland' bill — is being postponed until October due to parliament's crowded agenda before its summer recess.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 76 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2026-06-05:53170a222362</id>
-    <title>Αραγτσί: «Μη ρεαλιστική» μία συνάντηση Χαμενεΐ-Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564267235/aragtsi-mi-realistiki-mia-synantisi-chamene-tramp/" />
-    <updated>2026-06-05T14:29:36+00:00</updated>
+    <title>Γαλλία και Κύπρος υπογράφουν συμφωνία για ανάπτυξη γαλλικών δυνάμεων στο νησί</title>
+    <link href="https://www.kathimerini.gr/world/564270370/gallia-kai-kypros-ypografoyn-symfonia-gia-anaptyxi-gallikon-dynameon-sto-nisi/"/>
+    <id>https://www.kathimerini.gr/world/564270370/gallia-kai-kypros-ypografoyn-symfonia-gia-anaptyxi-gallikon-dynameon-sto-nisi/</id>
+    <updated>2026-06-07T17:34:12+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Ιρανός υπουργός Εξωτερικών Αμπάς Αραγτσί απέρριψε ως «μη ρεαλιστική» κάθε πιθανότητα συνάντησης Τραμπ-Χαμενεΐ, καθώς οι συνομιλίες ΗΠΑ-Τεχεράνης για τον πόλεμο στη Μέση Ανατολή έχουν περιέλθει σε τέλμα.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Iranian Foreign Minister Abbas Araghchi dismissed as 'unrealistic' any prospect of a Trump-Khamenei meeting, with US-Iran talks over the Middle East war at an impasse.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 76 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="text">France and Cyprus will sign a Status of Forces Agreement (SOFA) on Monday allowing Paris to station and operate troops on the island. The deal is to be signed in Nicosia with full respect for national sovereignty.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:215414f37159</id>
-    <title>Διαχωριστικές γραμμές Ανδρουλάκη από ΝΔ – Τσίπρα: Δεν μας αφορούν πολιτικά προξενιά</title>
-    <link href="https://www.kathimerini.gr/politics/564267241/diachoristikes-grammes-androylaki-apo-nd-tsipra-den-mas-aforoyn-politika-proxenia/" />
-    <updated>2026-06-05T14:36:03+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο Νίκος Ανδρουλάκης χάραξε σαφείς διαχωριστικές γραμμές από τη ΝΔ και την ΕΛ.Α.Σ. του Τσίπρα, μιλώντας στο Πολιτικό Συμβούλιο του ΠΑΣΟΚ. Έκανε λόγο για «οργανωμένη προσπάθεια» να ανοίξει ο δρόμος στο προσωπικό κόμμα Τσίπρα και υπογράμμισε την αυτονομία του ΠΑΣΟΚ.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PASOK leader Nikos Androulakis drew clear lines separating his party both from New Democracy and from Tsipras's new ELAS movement, speaking at the party's Political Council. He charged that an 'organized effort' is underway to clear the path for Tsipras's personal vehicle and stressed PASOK's autonomy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2026-06-05:3ba57aa3b210</id>
-    <title>Εντός και Εκτός: Το χρονοδιάγραμμα της συνταγματικής αναθεώρησης</title>
-    <link href="https://www.kathimerini.gr/politics/564265966/entos-kai-ektos-to-chronodiagramma-tis-syntagmatikis-anatheorisis/" />
-    <updated>2026-06-05T07:45:00+00:00</updated>
+    <title>Ελληνικά drones θα δοκιμάσει ο στρατός</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/"/>
+    <id>https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/</id>
+    <updated>2026-06-06T21:52:12+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Στη Διάσκεψη των Προέδρων της Βουλής συμφωνήθηκε το χρονοδιάγραμμα της συνταγματικής αναθεώρησης. Διακομματική επιτροπή 42 βουλευτών θα ολοκληρώσει τη δουλειά της σε δύο μήνες, με πρώτη ψηφοφορία στα τέλη Ιουλίου και δεύτερη στα τέλη Αυγούστου.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Parliament's Conference of Presidents agreed on the timetable for constitutional revision. A 42-member cross-party committee will complete its work in two months, with a first vote in late July and a second in late August.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <category term="politics"/>
+    <summary type="text">Drone systems from 11 Greek firms selected by the defense-innovation center ELKAK will be tested June 8-11 in the "Trojan Horse 2026" exercise across Thrace, the Peloponnese and the Ionian. Athens is also buying ten VICTA underwater vehicles worth €145 million.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:d1ac39cb0477</id>
-    <title>Κίεβο: Τέσσερις νεκροί πολίτες από ρωσική επίθεση σε βιομηχανία τροφίμων</title>
-    <link href="https://www.kathimerini.gr/world/564266866/kievo-tesseris-nekroi-polites-apo-rosiki-epithesi-se-viomichania-trofimon/" />
-    <updated>2026-06-05T11:01:51+00:00</updated>
+    <title>Παραβιάζει την εργατική νομοθεσία το 25% των επιχειρήσεων</title>
+    <link href="https://www.kathimerini.gr/economy/564268603/paraviazei-tin-ergatiki-nomothesia-to-25-ton-epicheiriseon/"/>
+    <id>https://www.kathimerini.gr/economy/564268603/paraviazei-tin-ergatiki-nomothesia-to-25-ton-epicheiriseon/</id>
+    <updated>2026-06-06T19:07:20+00:00</updated>
+    <author><name>Ρούλα Σαλούρου</name></author>
+    <category term="economy"/>
+    <summary type="text">Labor Inspectorate data for 2025 show 25% of businesses violate labor law, dominated by undeclared work and unpaid wages. Of 82,233 inspections, 19,093 sanctions, over 2,500 lawsuits and €54 million in fines resulted.</summary>
+  </entry>
+  <entry>
+    <title>Τραμπ: «Οχι» σε αποδέσμευση ιρανικών κεφαλαίων πριν τη συμφωνία</title>
+    <link href="https://www.kathimerini.gr/world/564270304/tramp-ochi-se-apodesmeysi-iranikon-kefalaion-prin-ti-symfonia/"/>
+    <id>https://www.kathimerini.gr/world/564270304/tramp-ochi-se-apodesmeysi-iranikon-kefalaion-prin-ti-symfonia/</id>
+    <updated>2026-06-07T16:36:21+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Τέσσερις νεκροί πολίτες σε βιομηχανία τροφίμων στην περιοχή Μπροβάρι κοντά στο Κίεβο, από επίθεση με ρωσικό μη επανδρωμένο αεροσκάφος. Ο αριθμός των θυμάτων αυξήθηκε καθώς προχωρούσαν οι έρευνες.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Four civilians were killed in a Russian drone strike on a food plant in the Brovary area near Kyiv. The toll rose as rescue operations progressed.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 75 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="text">Donald Trump ruled out releasing "frozen" Iranian assets or lifting sanctions before a peace deal with Tehran. The statement comes as a military adviser to Iran's supreme leader links any agreement to the release of those funds.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:3fb335d3f16c</id>
-    <title>Η Ευρωπαϊκή Ενωση μπαίνει στην «πρίζα»</title>
-    <link href="https://www.kathimerini.gr/economy/international/564266380/i-eyropaiki-enosi-mpainei-stin-priza/" />
-    <updated>2026-06-05T10:23:00+00:00</updated>
-    <author><name>Χρύσα Λιάγγου</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Ο επίτροπος Ενέργειας Νταν Γιόργκενσεν προανήγγειλε στο συνέδριο της Eurelectric στο Ελσίνκι φιλόδοξο σχέδιο εξηλεκτρισμού της Ε.Ε. με υποχρεωτικούς στόχους και χρονοδιαγράμματα, υπό την πίεση της δεύτερης ενεργειακής κρίσης μέσα σε μια τετραετία.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Energy Commissioner Dan Jørgensen previewed an ambitious EU electrification plan at the Eurelectric conference in Helsinki, featuring binding targets and timelines, as the bloc faces a second energy crisis in four years.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 73 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <title>Νέοι ισραηλινοί βομβαρδισμοί στη Γάζα – Τουλάχιστον εννέα νεκροί</title>
+    <link href="https://www.kathimerini.gr/world/564270082/neoi-israilinoi-vomvardismoi-sti-gaza-toylachiston-ennea-nekroi/"/>
+    <id>https://www.kathimerini.gr/world/564270082/neoi-israilinoi-vomvardismoi-sti-gaza-toylachiston-ennea-nekroi/</id>
+    <updated>2026-06-06T23:19:31+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Fresh Israeli strikes on the Gaza Strip killed at least nine people despite the October 2025 ceasefire. A drone strike killed seven in a displacement camp, while the Israeli military says it killed a Hamas commander.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:feff7ec20ad9</id>
-    <title>Μ. Τραυλού: «Ανέφικτος στόχος» ο μηδενισμός των εκπομπών άνθρακα έως το 2050</title>
-    <link href="https://www.kathimerini.gr/economy/shipping/564267193/m-trayloy-anefiktos-stochos-o-midenismos-ton-ekpompon-anthraka-eos-to-2050/" />
-    <updated>2026-06-05T14:12:30+00:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η πρόεδρος της ΕΕΕ Μελίνα Τραυλού χαρακτηρίζει «ανέφικτο» τον στόχο μηδενισμού των εκπομπών άνθρακα στη ναυτιλία έως το 2050, λέγοντας ότι ο ΙΜΟ παρασύρθηκε από εξωπραγματικούς ευρωπαϊκούς στόχους. Δηλώσεις στα Ποσειδώνια.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Greek shipowners' chair Melina Travlou called the 2050 net-zero shipping target 'unachievable,' arguing the IMO was dragged into unrealistic European ambitions. She spoke at the Posidonia shipping fair.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 72 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>urn:greek-news:2026-06-05:ff9f51b66b05</id>
-    <title>Δημοσκοπήσεις: Επιμένει η «γκρίζα ζώνη»</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564265951/dimoskopiseis-epimenei-i-gkriza-zoni/" />
-    <updated>2026-06-05T13:40:52+03:00</updated>
+    <title>Χορός με τη σκιά τους</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564268924/choros-me-ti-skia-toys/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564268924/choros-me-ti-skia-toys/</id>
+    <updated>2026-06-07T17:15:54+00:00</updated>
     <author><name>Δώρα Αντωνίου</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η «γκρίζα ζώνη» των δημοσκοπήσεων παραμένει στο 13,5% παρά τις ανακατατάξεις από την είσοδο των κομμάτων Τσίπρα και Καρυστιανού. Αναποφάσιστοι και επίδοξοι αποχοί ισοβαθμούν στη δεύτερη θέση με την ΕΛΑΣ, σύμφωνα με την έρευνα της Pulse για τον ΣΚΑΪ.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; Polling's 'grey zone' holds at 13.5% despite the political shake-up from the new Tsipras and Karystianou parties. Undecided voters and would-be abstainers tie for second place with ELAS, according to a Pulse survey for SKAI.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 72 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <category term="politics"/>
+    <summary type="text">PASOK is trying to escape a slump in the polls by unveiling a shadow cabinet, recalled cadres and new recruits. Leader Nikos Androulakis is betting on its programme and bench of officials, even as talk of post-election alliances resurfaces.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:3a36b2de638d</id>
-    <title>Ρουμανία: Εκρηξη θαλάσσιου drone στο λιμάνι της Κωνστάντζας</title>
-    <link href="https://www.kathimerini.gr/world/564267070/roymania-ekrixi-thalassioy-drone-sto-limani-tis-kostantzas/" />
-    <updated>2026-06-05T12:39:09+00:00</updated>
+    <title>Σεισμικές δονήσεις στη Βόρεια Εύβοια – «Η περιοχή δεν δίνει μεγέθη πάνω από 5,5 Ρίχτερ»</title>
+    <link href="https://www.kathimerini.gr/society/564270241/seismikes-doniseis-sti-voreia-eyvoia-i-periochi-den-dinei-megethi-pano-apo-5-5-richter/"/>
+    <id>https://www.kathimerini.gr/society/564270241/seismikes-doniseis-sti-voreia-eyvoia-i-periochi-den-dinei-megethi-pano-apo-5-5-richter/</id>
+    <updated>2026-06-07T14:47:53+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Θαλάσσιο drone του τύπου που χρησιμοποιείται στον πόλεμο της Ουκρανίας αυτοανατινάχθηκε στο λιμάνι της Κωνστάντζας στη Ρουμανία κοντά σε τερματικό πετρελαίου. Δεν υπήρξαν θύματα. Η Ουκρανία ενημέρωσε ότι το drone παρασύρθηκε εκεί.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; A naval drone of the type used in the Ukraine war self-detonated at Romania's Constanța port near an oil terminal. No casualties. Ukraine notified Romania the drone had drifted there.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; world | &lt;em&gt;Importance:&lt;/em&gt; 72 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <category term="society"/>
+    <summary type="text">Seismologists, including OASP head Efthymios Lekkas, struck a reassuring tone over the northern Euboea quakes, noting the area does not produce magnitudes above 5.5. The first strong 4.8 tremor caused damage to old houses and landslides.</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:9796523f6a71</id>
-    <title>Πιο ανθεκτικοί οι νέοι δασμοί</title>
-    <link href="https://www.kathimerini.gr/economy/international/564266479/pio-anthektikoi-oi-neoi-dasmoi/" />
-    <updated>2026-06-05T12:38:00+00:00</updated>
+    <title>Ενας νεκρός και πέντε τραυματίες από επίθεση με όπλο στο κεντρικό Ισραήλ</title>
+    <link href="https://www.kathimerini.gr/world/564270193/enas-nekros-kai-pente-traymaties-apo-epithesi-me-oplo-sto-kentriko-israil/"/>
+    <id>https://www.kathimerini.gr/world/564270193/enas-nekros-kai-pente-traymaties-apo-epithesi-me-oplo-sto-kentriko-israil/</id>
+    <updated>2026-06-07T12:00:41+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="economy" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Η κυβέρνηση Τραμπ ανακοίνωσε «Plan B» δασμών 10–12,5% σε 59 χώρες και την Ε.Ε. με δικαιολογία τους νόμους κατά της καταναγκαστικής εργασίας. Οι νέοι δασμοί, που μπορεί να ισχύσουν από τον Ιούλιο, χτίζονται μετά την απόρριψη των παγκόσμιων δασμών από το Ανώτατο Δικαστήριο.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; The Trump administration unveiled a Plan B of 10–12.5% tariffs on 59 countries and the EU, citing forced-labor laws. The new tariffs, potentially live by July, replace the global tariffs the Supreme Court struck down in February.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; economy | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; negative&lt;/p&gt;</summary>
+    <category term="world"/>
+    <summary type="text">One person was killed and five wounded by gunfire in central Israel on Sunday, in an attack treated as terrorism. According to Reuters the shootings occurred in three areas near Qalqilya, with the assailant "neutralized."</summary>
   </entry>
   <entry>
-    <id>urn:greek-news:2026-06-05:7810b4707d57</id>
-    <title>Η «σκιώδης κυβέρνηση» του ΠΑΣΟΚ – Ποιοι αναλαμβάνουν τα χαρτοφυλάκια</title>
-    <link href="https://www.kathimerini.gr/politics/564267253/i-skiodis-kyvernisi-toy-pasok-poioi-analamvanoyn-ta-chartofylakia/" />
-    <updated>2026-06-05T14:51:50+00:00</updated>
+    <title>Σε αυξημένη ετοιμότητα η Πυροσβεστική σε Αττική και Εύβοια μετά τους σεισμούς</title>
+    <link href="https://www.kathimerini.gr/society/564270301/se-ayximeni-etoimotita-i-pyrosvestiki-se-attiki-kai-eyvoia-meta-toys-seismoys/"/>
+    <id>https://www.kathimerini.gr/society/564270301/se-ayximeni-etoimotita-i-pyrosvestiki-se-attiki-kai-eyvoia-meta-toys-seismoys/</id>
+    <updated>2026-06-07T16:14:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics" />
-    <summary type="html">&lt;p&gt;&lt;strong&gt;EL:&lt;/strong&gt; Το ΠΑΣΟΚ ανακοίνωσε τη σύνθεση της «σκιώδους κυβέρνησης» σε συνεδρίαση του Πολιτικού Συμβουλίου, με οκτώ κύκλους δημόσιας πολιτικής αντίστοιχους των βασικών υπουργείων. Αποστολή τους η παρακολούθηση και αποδόμηση της κυβερνητικής πολιτικής και η προβολή των προγραμματικών θέσεων.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;EN:&lt;/strong&gt; PASOK announced the composition of its 'shadow cabinet' at a Political Council meeting, organized into eight policy circles matching the main ministries. Their task is to monitor and challenge government policy and project the party's programmatic positions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Category:&lt;/em&gt; politics | &lt;em&gt;Importance:&lt;/em&gt; 70 | &lt;em&gt;Sentiment:&lt;/em&gt; neutral&lt;/p&gt;</summary>
+    <category term="society"/>
+    <summary type="text">The fire service went on heightened alert in Attica and Euboea after successive quakes of 4.8, 4.3 and 5.2 on the Richter scale. A collapsed wall, cracks in homes and minor road landslides were recorded, with the civil-protection minister in constant contact.</summary>
+  </entry>
+  <entry>
+    <title>Σεισμοί στην Εύβοια: Κατολισθήσεις και ζημιές σε οδικό δίκτυο, σπίτια και μαγαζιά</title>
+    <link href="https://www.kathimerini.gr/society/564270247/seismoi-stin-eyvoia-katolisthiseis-kai-ektetamenes-zimies-se-odiko-diktyo-spitia-kai-magazia/"/>
+    <id>https://www.kathimerini.gr/society/564270247/seismoi-stin-eyvoia-katolisthiseis-kai-ektetamenes-zimies-se-odiko-diktyo-spitia-kai-magazia/</id>
+    <updated>2026-06-07T14:22:02+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">The Euboea quakes caused extensive road damage from landslides as well as damage to homes, buildings and shops. The Mantoudi mayor reported no injuries, though anxiety prevails among residents.</summary>
+  </entry>
+  <entry>
+    <title>Το real estate του Ράμα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564268870/to-real-estate-toy-rama/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564268870/to-real-estate-toy-rama/</id>
+    <updated>2026-06-07T18:18:11+00:00</updated>
+    <author><name>Σταύρος Τζίμας</name></author>
+    <category term="politics"/>
+    <summary type="text">Kathimerini maps Albania's 35-year feud over property restitution and PM Edi Rama's geopolitical maneuvering, tracing it to the 1991 law 7501 on land distribution. The Greek minority, and especially Himara, appears disadvantaged by the ownership regime.</summary>
+  </entry>
+  <entry>
+    <title>Επιχείρηση διάσωσης 61 μεταναστών στην Κρήτη</title>
+    <link href="https://www.kathimerini.gr/society/564270280/epicheirisi-diasosis-61-metanaston-stin-kriti/"/>
+    <id>https://www.kathimerini.gr/society/564270280/epicheirisi-diasosis-61-metanaston-stin-kriti/</id>
+    <updated>2026-06-07T15:57:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Two rescue operations south of Crete, coordinated by the national search-and-rescue center, picked up 61 migrants from two boats. The survivors were taken to Paleochora for reception and registration procedures.</summary>
+  </entry>
+  <entry>
+    <title>Ρωγμές στον άξονα Μπίμπι – Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564268963/rogmes-ston-axona-mpimpi-tramp/"/>
+    <id>https://www.kathimerini.gr/world/564268963/rogmes-ston-axona-mpimpi-tramp/</id>
+    <updated>2026-06-07T07:34:26+00:00</updated>
+    <author><name>Βασίλης Κωστούλας</name></author>
+    <category term="world"/>
+    <summary type="text">Vassilis Kostoulas examines the cracks in the Netanyahu-Trump axis as both leaders enter election season and the Iran impasse drags on. The US-Israel alliance, which had reached a historic high, is being tested.</summary>
   </entry>
 </feed>
