@@ -890,6 +890,95 @@
           "sentiment": "neutral"
         }
       ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "5ff651a0d18d",
+          "title": "Κυρ. Μητσοτάκης για Συνταγματική Αναθεώρηση: «Τολμηρές αλλά αναγκαίες οι αλλαγές»",
+          "url": "https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/",
+          "source": "Kathimerini",
+          "published": "2026-06-07T11:13:14+00:00",
+          "category": "politics",
+          "importance": 80,
+          "summary": {
+            "el": "Στον εβδομαδιαίο απολογισμό του ο Κυριάκος Μητσοτάκης χαρακτήρισε «τολμηρές αλλά αναγκαίες» τις αλλαγές της συνταγματικής αναθεώρησης, με όραμα την Ελλάδα του 2030. Προτείνει μη κρατικά πανεπιστήμια, αλλαγή στην ευθύνη υπουργών, σύνδεση μονιμότητας με αξιολόγηση και συνταγματική κατοχύρωση της προσιτής στέγης.",
+            "en": "In his weekly review PM Kyriakos Mitsotakis called the constitutional-revision changes \"bold but necessary,\" framing a vision of Greece in 2030. He proposes non-state universities, reform of ministerial liability, linking civil-service tenure to evaluation, and constitutional protection of affordable housing."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "συνταγματική αναθεώρηση",
+              "μη κρατικά πανεπιστήμια",
+              "προσιτή στέγη"
+            ],
+            "en": [
+              "Mitsotakis",
+              "constitutional revision",
+              "non-state universities",
+              "affordable housing"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7cc3adcf631b",
+          "title": "Ελληνικά drones θα δοκιμάσει ο στρατός",
+          "url": "https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T21:52:12+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Συστήματα drones ελληνικών εταιρειών, 11 φορέων που επέλεξε το ΕΛΚΑΚ, θα δοκιμαστούν 8-11 Ιουνίου στην άσκηση «Δούρειος Ίππος 2026» σε Θράκη, Πελοπόννησο και Ιόνιο. Η Αθήνα προχωρεί παράλληλα στην αγορά δέκα υποβρύχιων οχημάτων VICTA αξίας 145 εκατ. ευρώ.",
+            "en": "Drone systems from 11 Greek firms selected by the defense-innovation center ELKAK will be tested June 8-11 in the \"Trojan Horse 2026\" exercise across Thrace, the Peloponnese and the Ionian. Athens is also buying ten VICTA underwater vehicles worth €145 million."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "drones",
+              "ΕΛΚΑΚ",
+              "Δούρειος Ίππος"
+            ],
+            "en": [
+              "defense",
+              "drones",
+              "ELKAK",
+              "Trojan Horse exercise"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "5b7a76d48137",
+          "title": "Eκατομμύρια crypto tokens κυκλοφορούν, αλλά ελάχιστα έχουν αξία",
+          "url": "https://www.kathimerini.gr/economy/564270070/ekatommyria-crypto-tokens-kykloforoyn-alla-elachista-echoyn-axia/",
+          "source": "Kathimerini",
+          "published": "2026-06-06T23:58:00+00:00",
+          "category": "economy",
+          "importance": 48,
+          "summary": {
+            "el": "Ο ιδρυτής του Cardano Τσαρλς Χόσκινσον προειδοποιεί τους χρήστες crypto για «απογοητευτική» χρονιά, με αλλεπάλληλες αποτυχίες επιχειρήσεων και φυγή προγραμματιστών. Η προειδοποίηση συνδυάζεται με νέα πτώση του Bitcoin κάτω από τα 60.000 δολάρια.",
+            "en": "Cardano founder Charles Hoskinson warns crypto users of a \"disappointing\" year, predicting successive business failures and developer exits. His warning coincides with a fresh Bitcoin slide briefly below $60,000."
+          },
+          "tags": {
+            "el": [
+              "κρυπτονομίσματα",
+              "Cardano",
+              "Bitcoin",
+              "Χόσκινσον"
+            ],
+            "en": [
+              "cryptocurrency",
+              "Cardano",
+              "Bitcoin",
+              "Hoskinson"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
     }
   },
   "stats": {

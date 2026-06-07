@@ -19,6 +19,7 @@
     opinion: { el: 'Απόψεις', en: 'Opinion' },
     sports: { el: 'Αθλητικά', en: 'Sports' },
     social: { el: 'Social Media', en: 'Social Media' },
+    ai: { el: 'Τεχνητή Νοημοσύνη', en: 'AI' },
   };
 
   onMount(async () => {
