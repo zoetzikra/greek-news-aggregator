@@ -1,189 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Kathimerini Daily Digest</title>
+  <title>Greek News Aggregator — Top Stories</title>
+  <subtitle>Top 20 articles from kathimerini.gr for 2026-06-09</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
   <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
-  <id>https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml</id>
-  <updated>2026-06-07T15:36:44.636409+00:00</updated>
-  <subtitle>Top 20 stories by importance</subtitle>
+  <id>urn:greek-news-aggregator:2026-06-09</id>
+  <updated>2026-06-09T11:44:05.997934+00:00</updated>
   <entry>
-    <title>Eπιχείρηση «Odin»:  Τι αναφέρει η ΕΛ.ΑΣ. για τη σύλληψη του 37χρονου – Φωτογραφίες από το σπίτι στα Πατήσια</title>
-    <link href="https://www.kathimerini.gr/society/564270262/epicheirisi-odin-ti-anaferei-i-el-as-gia-ti-syllipsi-toy-37chronoy-fotografies-apo-to-spiti-sta-patisia/"/>
-    <id>https://www.kathimerini.gr/society/564270262/epicheirisi-odin-ti-anaferei-i-el-as-gia-ti-syllipsi-toy-37chronoy-fotografies-apo-to-spiti-sta-patisia/</id>
-    <updated>2026-06-07T15:23:49+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">The "Odin" operation by the intelligence service and the counter-terrorism unit led to the arrest of a 37-year-old in Agios Nikolaos, Crete, who had ordered chemicals online to build explosives. The suspect confessed to being a Hamas member planning a mass attack.</summary>
-  </entry>
-  <entry>
-    <title>Κυρ. Μητσοτάκης για Συνταγματική Αναθεώρηση: «Τολμηρές αλλά αναγκαίες οι αλλαγές»</title>
-    <link href="https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/"/>
-    <id>https://www.kathimerini.gr/politics/564270166/kyr-mitsotakis-gia-syntagmatiki-anatheorisi-tolmires-alla-anagkaies-oi-allages/</id>
-    <updated>2026-06-07T11:13:14+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">In his weekly review PM Kyriakos Mitsotakis called the constitutional-revision changes "bold but necessary," framing a vision of Greece in 2030. He proposes non-state universities, reform of ministerial liability, linking civil-service tenure to evaluation, and constitutional protection of affordable housing.</summary>
-  </entry>
-  <entry>
-    <title>Σεισμοί στην Εύβοια: Κλειστά αύριο τα σχολεία στο Μαντούδι – Κανονικά οι Πανελλήνιες</title>
-    <link href="https://www.kathimerini.gr/society/564270322/seismoi-stin-eyvoia-kleista-ayrio-ta-scholeia-sto-mantoydi-kanonika-oi-panellinies/"/>
-    <id>https://www.kathimerini.gr/society/564270322/seismoi-stin-eyvoia-kleista-ayrio-ta-scholeia-sto-mantoydi-kanonika-oi-panellinies/</id>
-    <updated>2026-06-07T17:05:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">Two strong earthquakes around 1 p.m. Sunday centered on northern Euboea were also felt in Attica. Primary schools in the Mantoudi municipality will stay shut Monday as a precaution, while the national university exams proceed as scheduled.</summary>
-  </entry>
-  <entry>
-    <title>ΣΥΡΙΖΑ: Υπερψηφίστηκε η πρόταση Φάμελλου – «Δίπλα» στην πρωτοβουλία Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/564270037/syriza-yperpsifistike-epi-tis-archis-i-protasi-famelloy/"/>
-    <id>https://www.kathimerini.gr/politics/564270037/syriza-yperpsifistike-epi-tis-archis-i-protasi-famelloy/</id>
-    <updated>2026-06-06T20:38:54+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">SYRIZA's central committee approved Socrates Famellos's motion to align with Alexis Tsipras's new movement, without a roll-call vote. The leadership claims about 70% support, while Pavlos Polakis insists his rival proposal drew over 40%.</summary>
-  </entry>
-  <entry>
-    <title>Από ρύθμιση σε ρύθμιση τα ίδια χρέη</title>
-    <link href="https://www.kathimerini.gr/economy/564269224/apo-rythmisi-se-rythmisi-ta-idia-chrei/"/>
-    <id>https://www.kathimerini.gr/economy/564269224/apo-rythmisi-se-rythmisi-ta-idia-chrei/</id>
-    <updated>2026-06-07T11:32:42+00:00</updated>
-    <author><name>Προκόπης Χατζηνικολάου</name></author>
-    <category term="economy"/>
-    <summary type="text">Total overdue debts to the tax authority and social-security funds reach €165 billion, but only an estimated €27 billion is realistically collectible. The government is preparing a new 72-installment scheme, though analysts warn expectations of mass uptake are overly optimistic.</summary>
-  </entry>
-  <entry>
-    <title>Κρήτη: Η εκπαίδευση στη Μαλαισία και οι online παραγγελίες χημικών – Η ομολογία του 37χρονου της Χαμάς</title>
-    <link href="https://www.kathimerini.gr/society/564270145/kriti-i-ekpaideysi-sti-malaisia-kai-oi-online-paraggelies-chimikon-i-omologia-toy-37chronoy-tis-chamas/"/>
-    <id>https://www.kathimerini.gr/society/564270145/kriti-i-ekpaideysi-sti-malaisia-kai-oi-online-paraggelies-chimikon-i-omologia-toy-37chronoy-tis-chamas/</id>
-    <updated>2026-06-07T10:11:57+00:00</updated>
-    <author><name>Γιάννης Σουλιώτης</name></author>
-    <category term="society"/>
-    <summary type="text">New details on the 37-year-old arrested in Agios Nikolaos, Crete, point to training in Malaysia and online orders of chemicals. He confessed to being a Hamas member with contacts among those arrested in Cyprus, though he had not yet built a bomb.</summary>
-  </entry>
-  <entry>
-    <title>Ανταλλαγή επιθέσεων μεταξύ Ισραήλ και Λιβάνου – Νεκροί πέντε στρατιώτες</title>
-    <link href="https://www.kathimerini.gr/world/564270154/antallagi-epitheseon-metaxy-israil-kai-livanoy-nekroi-pente-stratiotes/"/>
-    <id>https://www.kathimerini.gr/world/564270154/antallagi-epitheseon-metaxy-israil-kai-livanoy-nekroi-pente-stratiotes/</id>
-    <updated>2026-06-07T12:25:52+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Israeli-Lebanese exchanges of fire continued despite a deal announced in Washington, with an Israeli strike killing three Lebanese soldiers and two deaths reported in Israeli ranks. President Aoun condemned the "flagrant violation" of sovereignty.</summary>
-  </entry>
-  <entry>
-    <title>Γαλλία και Κύπρος υπογράφουν συμφωνία για ανάπτυξη γαλλικών δυνάμεων στο νησί</title>
-    <link href="https://www.kathimerini.gr/world/564270370/gallia-kai-kypros-ypografoyn-symfonia-gia-anaptyxi-gallikon-dynameon-sto-nisi/"/>
-    <id>https://www.kathimerini.gr/world/564270370/gallia-kai-kypros-ypografoyn-symfonia-gia-anaptyxi-gallikon-dynameon-sto-nisi/</id>
-    <updated>2026-06-07T17:34:12+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">France and Cyprus will sign a Status of Forces Agreement (SOFA) on Monday allowing Paris to station and operate troops on the island. The deal is to be signed in Nicosia with full respect for national sovereignty.</summary>
-  </entry>
-  <entry>
-    <title>Ελληνικά drones θα δοκιμάσει ο στρατός</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/"/>
-    <id>https://www.kathimerini.gr/politics/amyna/564268204/ellinika-drones-tha-dokimasei-o-stratos/</id>
-    <updated>2026-06-06T21:52:12+00:00</updated>
+    <title>Η Τουρκία παραδέχεται την παρενόχληση στο αεροσκάφος που μετέφερε τον Δένδια</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564272413/i-toyrkia-paradechetai-tin-parenochlisi-sto-aeroskafos-poy-metefere-ton-dendia/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564272413/i-toyrkia-paradechetai-tin-parenochlisi-sto-aeroskafos-poy-metefere-ton-dendia/</id>
+    <updated>2026-06-09T07:21:40+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Drone systems from 11 Greek firms selected by the defense-innovation center ELKAK will be tested June 8-11 in the "Trojan Horse 2026" exercise across Thrace, the Peloponnese and the Ionian. Athens is also buying ten VICTA underwater vehicles worth €145 million.</summary>
+    <summary>Turkey indirectly but clearly admitted the harassment of the C-27 transport carrying Defense Minister Nikos Dendias to Cyprus, an incident also involving French and Dutch aircraft. Dendias briefed the EU defense ministers' meeting on it.</summary>
   </entry>
   <entry>
-    <title>Παραβιάζει την εργατική νομοθεσία το 25% των επιχειρήσεων</title>
-    <link href="https://www.kathimerini.gr/economy/564268603/paraviazei-tin-ergatiki-nomothesia-to-25-ton-epicheiriseon/"/>
-    <id>https://www.kathimerini.gr/economy/564268603/paraviazei-tin-ergatiki-nomothesia-to-25-ton-epicheiriseon/</id>
-    <updated>2026-06-06T19:07:20+00:00</updated>
-    <author><name>Ρούλα Σαλούρου</name></author>
+    <title>Λίγο πριν από τις κάλπες το κόμμα από τον Σαμαρά</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564272389/ligo-prin-apo-tis-kalpes-to-komma-apo-ton-samara/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564272389/ligo-prin-apo-tis-kalpes-to-komma-apo-ton-samara/</id>
+    <updated>2026-06-09T11:35:20+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary>Reportedly, Antonis Samaras' new party 'is ready' and the former PM is weighing the political landscape before launching it, with 'Greek Citizens' floated as a possible name. Contacts over candidate lists are intensifying.</summary>
+  </entry>
+  <entry>
+    <title>Κυρ. Μητσοτάκης για το «gov.gr»: «Πίσω από κάθε ταλαιπωρία του πολίτη μπορεί να κρύβονται φαινόμενα διαφθοράς»</title>
+    <link href="https://www.kathimerini.gr/politics/564273520/kyr-mitsotakis-gia-to-gov-gr-piso-apo-kathe-talaiporia-toy-politi-mporei-na-kryvontai-fainomena-diafthoras/"/>
+    <id>https://www.kathimerini.gr/politics/564273520/kyr-mitsotakis-gia-to-gov-gr-piso-apo-kathe-talaiporia-toy-politi-mporei-na-kryvontai-fainomena-diafthoras/</id>
+    <updated>2026-06-09T12:59:24+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary>Marking six years of gov.gr, PM Kyriakos Mitsotakis argued the state's digital reform cut bureaucracy and corruption, noting countries such as Germany now seek Greek expertise. He said that 'behind every inconvenience to the citizen, phenomena of corruption may be hiding.'</summary>
+  </entry>
+  <entry>
+    <title>Μπήκαν υπογραφές σε κρίσιμη συμφωνία Κύπρου – Γαλλίας</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564272407/mpikan-ypografes-se-krisimi-symfonia-kyproy-gallias/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564272407/mpikan-ypografes-se-krisimi-symfonia-kyproy-gallias/</id>
+    <updated>2026-06-09T06:37:00+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary>A SOFA agreement was signed between France and the Republic of Cyprus institutionalizing the stationing of French forces in the free, southern part of the island. It marks a deepening of Nicosia–Paris defense ties.</summary>
+  </entry>
+  <entry>
+    <title>«Σήμα» Νετανιάχου προς Τραμπ και Ιράν με την εκκένωση της Τύρου</title>
+    <link href="https://www.kathimerini.gr/world/564273436/sima-netaniachoy-pros-tramp-kai-iran-me-tin-ekkenosi-tis-tyroy/"/>
+    <id>https://www.kathimerini.gr/world/564273436/sima-netaniachoy-pros-tramp-kai-iran-me-tin-ekkenosi-tis-tyroy/</id>
+    <updated>2026-06-09T11:59:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>The evacuation order for the city of Tyre in southern Lebanon and the bloody Israeli strike that followed are read as a Netanyahu 'signal' to Trump and Iran. Israel continues operations against targets it links to Hezbollah.</summary>
+  </entry>
+  <entry>
+    <title>Μαρινάκης: Εκλογές το 2027, δεν επιλέγουμε αντίπαλο – Στόχος να υπάρξουν νέες φοροελαφρύνσεις</title>
+    <link href="https://www.kathimerini.gr/politics/564273325/marinakis-ekloges-to-2027-den-epilegoyme-antipalo-stochos-na-yparxoyn-nees-foroelafrynseis/"/>
+    <id>https://www.kathimerini.gr/politics/564273325/marinakis-ekloges-to-2027-den-epilegoyme-antipalo-stochos-na-yparxoyn-nees-foroelafrynseis/</id>
+    <updated>2026-06-09T10:59:30+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary>Government spokesman Pavlos Marinakis reiterated that elections will be held in 2027, rejecting early-poll scenarios, and set new tax cuts as a goal. He also commented on the recent reshuffle and Tsipras' nascent party.</summary>
+  </entry>
+  <entry>
+    <title>Οι άγνωστες μεταβλητές στην αγορά πετρελαίου</title>
+    <link href="https://www.kathimerini.gr/economy/local/564272914/oi-agnostes-metavlites-stin-agora-petrelaioy/"/>
+    <id>https://www.kathimerini.gr/economy/local/564272914/oi-agnostes-metavlites-stin-agora-petrelaioy/</id>
+    <updated>2026-06-09T12:35:00+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Labor Inspectorate data for 2025 show 25% of businesses violate labor law, dominated by undeclared work and unpaid wages. Of 82,233 inspections, 19,093 sanctions, over 2,500 lawsuits and €54 million in fines resulted.</summary>
+    <summary>The biggest oil-supply shock in decades enters its fourth month, with neither the US nor Iran backing down, yet the market remains surprisingly calm. Key unknowns include how long global stockpiles can last.</summary>
   </entry>
   <entry>
-    <title>Τραμπ: «Οχι» σε αποδέσμευση ιρανικών κεφαλαίων πριν τη συμφωνία</title>
-    <link href="https://www.kathimerini.gr/world/564270304/tramp-ochi-se-apodesmeysi-iranikon-kefalaion-prin-ti-symfonia/"/>
-    <id>https://www.kathimerini.gr/world/564270304/tramp-ochi-se-apodesmeysi-iranikon-kefalaion-prin-ti-symfonia/</id>
-    <updated>2026-06-07T16:36:21+00:00</updated>
+    <title>Ουάσιγκτον: Ειρηνικό μοντέλο ενεργειακής συνεργασίας στην Αν. Μεσόγειο</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564272932/oyasigkton-eiriniko-montelo-energeiakis-synergasias-stin-an-mesogeio/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564272932/oyasigkton-eiriniko-montelo-energeiakis-synergasias-stin-an-mesogeio/</id>
+    <updated>2026-06-09T06:52:04+00:00</updated>
+    <author><name>Λένα Αργύρη</name></author>
+    <category term="politics"/>
+    <summary>The East Mediterranean Gas Forum ministerial in Washington, under Greek presidency, reaffirmed an energy-cooperation model for the Eastern Mediterranean grounded in international law and shared interests. The framework moves away from unilateral and aggressive actions.</summary>
+  </entry>
+  <entry>
+    <title>Δίκη για Τέμπη: Αίτημα Κωνσταντοπούλου για έγγραφο επικοινωνίας ΝΣΚ – Κυρανάκη</title>
+    <link href="https://www.kathimerini.gr/society/564273427/diki-gia-tempi-aitima-konstantopoyloy-gia-eggrafo-epikoinonias-nsk-kyranaki/"/>
+    <id>https://www.kathimerini.gr/society/564273427/diki-gia-tempi-aitima-konstantopoyloy-gia-eggrafo-epikoinonias-nsk-kyranaki/</id>
+    <updated>2026-06-09T11:43:53+00:00</updated>
+    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <category term="society"/>
+    <summary>At the Tempi trial, Zoe Konstantopoulou requested a document of communication between the State Legal Council and former deputy transport minister Kostas Kyranakis. The request concerns the State's declaration of participation.</summary>
+  </entry>
+  <entry>
+    <title>Κυβέρνηση: Το σκεπτικό των σημειακών αλλαγών</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564272392/kyvernisi-to-skeptiko-ton-simeiakon-allagon/"/>
+    <id>https://www.kathimerini.gr/visual/infographics/564272392/kyvernisi-to-skeptiko-ton-simeiakon-allagon/</id>
+    <updated>2026-06-09T06:51:09+03:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary>The reshuffle decided by Kyriakos Mitsotakis on returning from the US was ultimately limited, with Giorgos Kotsiras moving to Transport and a chain of changes. Marilena Soukouli becomes deputy environment minister, succeeding the late Nikos Tagaras.</summary>
+  </entry>
+  <entry>
+    <title>Διψήφια άνοδος των ελληνικών εξαγωγών το πρώτο τετράμηνο</title>
+    <link href="https://www.kathimerini.gr/economy/564272794/dipsifia-anodos-ton-ellinikon-exagogon-to-proto-tetramino/"/>
+    <id>https://www.kathimerini.gr/economy/564272794/dipsifia-anodos-ton-ellinikon-exagogon-to-proto-tetramino/</id>
+    <updated>2026-06-09T11:27:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>Greek exports rose by double digits—11.3%—in the first four months of 2026, reaching 17.77 billion euros despite geopolitical turbulence. Food remained a strong card, while exports to the US also grew.</summary>
+  </entry>
+  <entry>
+    <title>Εντός και Εκτός: O Πατριάρχης Ιεροσολύμων και η επίσκεψη Τραμπ</title>
+    <link href="https://www.kathimerini.gr/politics/564272410/entos-kai-ektos-o-patriarchis-ierosolymon-kai-i-episkepsi-tramp/"/>
+    <id>https://www.kathimerini.gr/politics/564272410/entos-kai-ektos-o-patriarchis-ierosolymon-kai-i-episkepsi-tramp/</id>
+    <updated>2026-06-09T07:50:53+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary>The 'Entos kai Ektos' column raises European states' growing cooperation with Turkey's defense industry, with PASOK defense spokesman Michalis Katrinis pressing minister Nikos Dendias for answers. It cites Safran's cooperation with the maker of Bayraktar drones.</summary>
+  </entry>
+  <entry>
+    <title>Ερευνα: Μόλις 1 στα 10 παιδιά από χαμηλά στρώματα φτάνει στην ανώτατη εκπαίδευση</title>
+    <link href="https://www.kathimerini.gr/economy/local/564272812/ereyna-molis-1-sta-10-paidia-apo-chamila-stromata-ftanei-stin-anotati-ekpaideysi/"/>
+    <id>https://www.kathimerini.gr/economy/local/564272812/ereyna-molis-1-sta-10-paidia-apo-chamila-stromata-ftanei-stin-anotati-ekpaideysi/</id>
+    <updated>2026-06-09T09:38:00+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary>An IOBE study reveals that just 1 in 10 children from low-income strata reaches higher education, highlighting persistent inequalities. Income gains have not translated into equal opportunities for households.</summary>
+  </entry>
+  <entry>
+    <title>Κονγκό: Ξεπέρασαν τους 100 οι νεκροί από τον Εμπολα</title>
+    <link href="https://www.kathimerini.gr/world/564273403/kongko-xeperasan-toys-100-oi-nekroi-apo-ton-empola/"/>
+    <id>https://www.kathimerini.gr/world/564273403/kongko-xeperasan-toys-100-oi-nekroi-apo-ton-empola/</id>
+    <updated>2026-06-09T11:43:23+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Donald Trump ruled out releasing "frozen" Iranian assets or lifting sanctions before a peace deal with Tehran. The statement comes as a military adviser to Iran's supreme leader links any agreement to the release of those funds.</summary>
+    <summary>Ebola deaths surpassed 100 in eastern Congo, less than a month after the outbreak was declared. Attacks on health workers, skepticism and armed conflict are hampering efforts to contain the epidemic.</summary>
   </entry>
   <entry>
-    <title>Νέοι ισραηλινοί βομβαρδισμοί στη Γάζα – Τουλάχιστον εννέα νεκροί</title>
-    <link href="https://www.kathimerini.gr/world/564270082/neoi-israilinoi-vomvardismoi-sti-gaza-toylachiston-ennea-nekroi/"/>
-    <id>https://www.kathimerini.gr/world/564270082/neoi-israilinoi-vomvardismoi-sti-gaza-toylachiston-ennea-nekroi/</id>
-    <updated>2026-06-06T23:19:31+00:00</updated>
+    <title>Κυρ. Πιερρακάκης για τα 6 χρόνια «gov.gr»: «Οι Ελληνες πίστεψαν ξανά ότι η χώρα μπορεί να αλλάξει»</title>
+    <link href="https://www.kathimerini.gr/politics/564273487/kyr-pierrakakis-gia-ta-6-chronia-gov-gr-oi-ellines-pistepsan-xana-oti-i-chora-mporei-na-allaxei/"/>
+    <id>https://www.kathimerini.gr/politics/564273487/kyr-pierrakakis-gia-ta-6-chronia-gov-gr-oi-ellines-pistepsan-xana-oti-i-chora-mporei-na-allaxei/</id>
+    <updated>2026-06-09T12:45:17+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Fresh Israeli strikes on the Gaza Strip killed at least nine people despite the October 2025 ceasefire. A drone strike killed seven in a displacement camp, while the Israeli military says it killed a Hamas commander.</summary>
+    <category term="politics"/>
+    <summary>Economy minister and Eurogroup president Kyriakos Pierrakakis called gov.gr 'the story of a country that decided to change' at the platform's six-year anniversary event. He recalled the path from the idea's inception to the portal's establishment.</summary>
   </entry>
   <entry>
-    <title>Χορός με τη σκιά τους</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564268924/choros-me-ti-skia-toys/"/>
-    <id>https://www.kathimerini.gr/politics/parties/564268924/choros-me-ti-skia-toys/</id>
-    <updated>2026-06-07T17:15:54+00:00</updated>
+    <title>Θεωρείο: Το σχέδιο Σαμαρά</title>
+    <link href="https://www.kathimerini.gr/politics/564272341/theoreio-to-schedio-samara/"/>
+    <id>https://www.kathimerini.gr/politics/564272341/theoreio-to-schedio-samara/</id>
+    <updated>2026-06-09T08:00:53+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary>In the 'Theoreio' column, the writer decodes the 'Samaras plan,' noting a discreet overture from the former PM toward Nikos Androulakis. He suggests a broader understanding is being sought should New Democracy weaken.</summary>
+  </entry>
+  <entry>
+    <title>Θολό το τοπίο για τις επόμενες κινήσεις του ΣΥΡΙΖΑ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564272422/tholo-to-topio-gia-tis-epomenes-kiniseis-toy-syriza/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564272422/tholo-to-topio-gia-tis-epomenes-kiniseis-toy-syriza/</id>
+    <updated>2026-06-09T07:00:39+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary>SYRIZA's Central Committee did not decide the party's future should Alexis Tsipras insist on not cooperating with other forces. Socratis Famellos secured a majority but pushed the crucial decisions further down the road.</summary>
+  </entry>
+  <entry>
+    <title>Η νέα εποχή των ελληνικών ναυπηγείων</title>
+    <link href="https://www.kathimerini.gr/economy/business/564272827/i-nea-epochi-ton-ellinikon-naypigeion/"/>
+    <id>https://www.kathimerini.gr/economy/business/564272827/i-nea-epochi-ton-ellinikon-naypigeion/</id>
+    <updated>2026-06-09T11:07:00+00:00</updated>
+    <author><name>Ηλίας Μπέλλος</name></author>
+    <category term="economy"/>
+    <summary>Greece's shipbuilding industry is attempting a systematic revival, leveraging geopolitical realignments and the West's need to diversify its industrial base. Deals with international giants and defense projects are multiplying.</summary>
+  </entry>
+  <entry>
+    <title>Σοκάρει η ταχύτητα των καρτέλ: Ενα νέο τεχνητό ναρκωτικό κάθε εβδομάδα</title>
+    <link href="https://www.kathimerini.gr/world/564273511/sokarei-i-tachytita-ton-kartel-ena-neo-technito-narkotiko-kathe-evdomada/"/>
+    <id>https://www.kathimerini.gr/world/564273511/sokarei-i-tachytita-ton-kartel-ena-neo-technito-narkotiko-kathe-evdomada/</id>
+    <updated>2026-06-09T12:51:45+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="world"/>
+    <summary>The European Drug Report 2026 warns the market is becoming more complex and dangerous, with cartels launching a new synthetic drug almost every week. The report was presented in Brussels by the EUDA.</summary>
+  </entry>
+  <entry>
+    <title>Μεγάλο στοίχημα για το ΠΑΣΟΚ το λεκανοπέδιο</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564272395/megalo-stoichima-gia-to-pasok-to-lekanopedio/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564272395/megalo-stoichima-gia-to-pasok-to-lekanopedio/</id>
+    <updated>2026-06-09T08:21:00+00:00</updated>
     <author><name>Δώρα Αντωνίου</name></author>
     <category term="politics"/>
-    <summary type="text">PASOK is trying to escape a slump in the polls by unveiling a shadow cabinet, recalled cadres and new recruits. Leader Nikos Androulakis is betting on its programme and bench of officials, even as talk of post-election alliances resurfaces.</summary>
-  </entry>
-  <entry>
-    <title>Σεισμικές δονήσεις στη Βόρεια Εύβοια – «Η περιοχή δεν δίνει μεγέθη πάνω από 5,5 Ρίχτερ»</title>
-    <link href="https://www.kathimerini.gr/society/564270241/seismikes-doniseis-sti-voreia-eyvoia-i-periochi-den-dinei-megethi-pano-apo-5-5-richter/"/>
-    <id>https://www.kathimerini.gr/society/564270241/seismikes-doniseis-sti-voreia-eyvoia-i-periochi-den-dinei-megethi-pano-apo-5-5-richter/</id>
-    <updated>2026-06-07T14:47:53+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">Seismologists, including OASP head Efthymios Lekkas, struck a reassuring tone over the northern Euboea quakes, noting the area does not produce magnitudes above 5.5. The first strong 4.8 tremor caused damage to old houses and landslides.</summary>
-  </entry>
-  <entry>
-    <title>Ενας νεκρός και πέντε τραυματίες από επίθεση με όπλο στο κεντρικό Ισραήλ</title>
-    <link href="https://www.kathimerini.gr/world/564270193/enas-nekros-kai-pente-traymaties-apo-epithesi-me-oplo-sto-kentriko-israil/"/>
-    <id>https://www.kathimerini.gr/world/564270193/enas-nekros-kai-pente-traymaties-apo-epithesi-me-oplo-sto-kentriko-israil/</id>
-    <updated>2026-06-07T12:00:41+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">One person was killed and five wounded by gunfire in central Israel on Sunday, in an attack treated as terrorism. According to Reuters the shootings occurred in three areas near Qalqilya, with the assailant "neutralized."</summary>
-  </entry>
-  <entry>
-    <title>Σε αυξημένη ετοιμότητα η Πυροσβεστική σε Αττική και Εύβοια μετά τους σεισμούς</title>
-    <link href="https://www.kathimerini.gr/society/564270301/se-ayximeni-etoimotita-i-pyrosvestiki-se-attiki-kai-eyvoia-meta-toys-seismoys/"/>
-    <id>https://www.kathimerini.gr/society/564270301/se-ayximeni-etoimotita-i-pyrosvestiki-se-attiki-kai-eyvoia-meta-toys-seismoys/</id>
-    <updated>2026-06-07T16:14:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">The fire service went on heightened alert in Attica and Euboea after successive quakes of 4.8, 4.3 and 5.2 on the Richter scale. A collapsed wall, cracks in homes and minor road landslides were recorded, with the civil-protection minister in constant contact.</summary>
-  </entry>
-  <entry>
-    <title>Σεισμοί στην Εύβοια: Κατολισθήσεις και ζημιές σε οδικό δίκτυο, σπίτια και μαγαζιά</title>
-    <link href="https://www.kathimerini.gr/society/564270247/seismoi-stin-eyvoia-katolisthiseis-kai-ektetamenes-zimies-se-odiko-diktyo-spitia-kai-magazia/"/>
-    <id>https://www.kathimerini.gr/society/564270247/seismoi-stin-eyvoia-katolisthiseis-kai-ektetamenes-zimies-se-odiko-diktyo-spitia-kai-magazia/</id>
-    <updated>2026-06-07T14:22:02+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">The Euboea quakes caused extensive road damage from landslides as well as damage to homes, buildings and shops. The Mantoudi mayor reported no injuries, though anxiety prevails among residents.</summary>
-  </entry>
-  <entry>
-    <title>Το real estate του Ράμα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564268870/to-real-estate-toy-rama/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564268870/to-real-estate-toy-rama/</id>
-    <updated>2026-06-07T18:18:11+00:00</updated>
-    <author><name>Σταύρος Τζίμας</name></author>
-    <category term="politics"/>
-    <summary type="text">Kathimerini maps Albania's 35-year feud over property restitution and PM Edi Rama's geopolitical maneuvering, tracing it to the 1991 law 7501 on land distribution. The Greek minority, and especially Himara, appears disadvantaged by the ownership regime.</summary>
-  </entry>
-  <entry>
-    <title>Επιχείρηση διάσωσης 61 μεταναστών στην Κρήτη</title>
-    <link href="https://www.kathimerini.gr/society/564270280/epicheirisi-diasosis-61-metanaston-stin-kriti/"/>
-    <id>https://www.kathimerini.gr/society/564270280/epicheirisi-diasosis-61-metanaston-stin-kriti/</id>
-    <updated>2026-06-07T15:57:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">Two rescue operations south of Crete, coordinated by the national search-and-rescue center, picked up 61 migrants from two boats. The survivors were taken to Paleochora for reception and registration procedures.</summary>
-  </entry>
-  <entry>
-    <title>Ρωγμές στον άξονα Μπίμπι – Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564268963/rogmes-ston-axona-mpimpi-tramp/"/>
-    <id>https://www.kathimerini.gr/world/564268963/rogmes-ston-axona-mpimpi-tramp/</id>
-    <updated>2026-06-07T07:34:26+00:00</updated>
-    <author><name>Βασίλης Κωστούλας</name></author>
-    <category term="world"/>
-    <summary type="text">Vassilis Kostoulas examines the cracks in the Netanyahu-Trump axis as both leaders enter election season and the Iran impasse drags on. The US-Israel alliance, which had reached a historic high, is being tested.</summary>
+    <summary>PASOK is crafting a special strategy for the Attica basin, an electorally tough area holding 40% of the electorate. Nikos Androulakis asked for proposals to tackle the capital's 'electoral riddle.'</summary>
   </entry>
 </feed>

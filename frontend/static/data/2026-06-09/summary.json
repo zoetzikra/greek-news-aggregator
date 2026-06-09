@@ -1,0 +1,978 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T11:42:16.580761+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 70 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφική ατζέντα της ημέρας κυριαρχείται από τις εσωτερικές πολιτικές ανακατατάξεις ενόψει του εκλογικού κύκλου του 2027. Ο πρωθυπουργός Κυριάκος Μητσοτάκης έκανε απολογισμό για τα έξι χρόνια του gov.gr, ενώ ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης απέκλεισε πρόωρες εκλογές. Παράλληλα, εντείνονται οι κινήσεις γύρω από τα νέα κόμματα του Αντώνη Σαμαρά και του Αλέξη Τσίπρα, με τον ΣΥΡΙΖΑ να αναζητεί τη συνοχή του. \n\nΣτο μέτωπο της εξωτερικής πολιτικής και της άμυνας, η Τουρκία παραδέχθηκε έμμεσα την παρενόχληση του αεροσκάφους που μετέφερε τον υπουργό Άμυνας Νίκο Δένδια στην Κύπρο, ενώ υπεγράφη η συμφωνία SOFA Γαλλίας–Κύπρου και η Υπουργική Σύνοδος του East Med Gas Forum στην Ουάσιγκτον προώθησε ένα μοντέλο ειρηνικής ενεργειακής συνεργασίας. Στο προσκήνιο παραμένει και η συνεργασία ευρωπαϊκών χωρών με την τουρκική αμυντική βιομηχανία. \n\nΗ οικονομία εμφανίζει θετικά σημάδια, με τις ελληνικές εξαγωγές να αυξάνονται κατά 11,3% στο πρώτο τετράμηνο και τον οίκο Jefferies να εκφράζει αισιοδοξία για τις τράπεζες, ενώ αναδεικνύονται και διαρθρωτικές προκλήσεις όπως το δημογραφικό και η εκπαιδευτική ανισότητα. Διεθνώς, ξεχωρίζουν η κλιμάκωση στον νότιο Λίβανο με την εκκένωση της Τύρου, η εξάπλωση του Έμπολα στο Κονγκό με πάνω από 100 νεκρούς και η νέα ευρωπαϊκή έκθεση για τα ναρκωτικά.",
+    "en": "The day's news agenda is dominated by domestic political realignments ahead of the 2027 electoral cycle. PM Kyriakos Mitsotakis reviewed six years of gov.gr, while government spokesman Pavlos Marinakis ruled out early elections. At the same time, maneuvering intensifies around the new parties of Antonis Samaras and Alexis Tsipras, with SYRIZA searching for cohesion. \n\nOn foreign policy and defense, Turkey indirectly admitted harassing the aircraft carrying Defense Minister Nikos Dendias to Cyprus, a France–Cyprus SOFA agreement was signed, and the East Med Gas Forum ministerial in Washington promoted a model of peaceful energy cooperation. European states' cooperation with Turkey's defense industry also remains in focus. \n\nThe economy shows positive signs, with Greek exports up 11.3% in the first four months and Jefferies upbeat on banks, even as structural challenges such as demographics and educational inequality come to the fore. Internationally, the escalation in southern Lebanon with the evacuation of Tyre, the spread of Ebola in Congo with over 100 dead, and the new European drug report stand out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πολιτικές ανακατατάξεις ενόψει 2027",
+        "en": "Political realignment ahead of 2027"
+      },
+      "description": {
+        "el": "Νέα κόμματα Σαμαρά και Τσίπρα, ανασχηματισμός, απολογισμός gov.gr και αναζήτηση συνοχής στον ΣΥΡΙΖΑ.",
+        "en": "New Samaras and Tsipras parties, the reshuffle, the gov.gr review and SYRIZA's search for cohesion."
+      },
+      "related_items": [
+        "eb1be43d562c",
+        "aa7d3116552f",
+        "4a3b174753c2",
+        "6e09b4d2ddd2",
+        "9be97a78e46a",
+        "fd7133171b36",
+        "4e7b0ccd65e9",
+        "ef4a220f0656"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά, Κύπρος και άμυνα",
+        "en": "Greek-Turkish relations, Cyprus and defense"
+      },
+      "description": {
+        "el": "Παραδοχή τουρκικής παρενόχλησης του αεροσκάφους Δένδια, συμφωνία SOFA Γαλλίας–Κύπρου, East Med Gas Forum και τουρκική αμυντική βιομηχανία.",
+        "en": "Turkey's admission of harassing Dendias' aircraft, the France–Cyprus SOFA deal, the East Med Gas Forum and Turkey's defense industry."
+      },
+      "related_items": [
+        "6177e33ba454",
+        "a145be62064f",
+        "67eeba408c70",
+        "ca91d405ef22",
+        "bf97242f0b31"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Ελληνική οικονομία",
+        "en": "Greek economy"
+      },
+      "description": {
+        "el": "Άνοδος εξαγωγών 11,3%, αισιοδοξία για τις τράπεζες, αναβίωση ναυπηγείων, αλλά και δημογραφικό και εκπαιδευτική ανισότητα.",
+        "en": "Exports up 11.3%, optimism on banks, a shipyards revival, but also demographics and educational inequality."
+      },
+      "related_items": [
+        "f2cc399a7ea8",
+        "ab9118d560fb",
+        "d71d50c52bab",
+        "b443e88b02aa",
+        "7f75b6c84dda"
+      ],
+      "importance": 66
+    },
+    {
+      "name": {
+        "el": "Διεθνείς κρίσεις: Μέση Ανατολή και Έμπολα",
+        "en": "International crises: Middle East and Ebola"
+      },
+      "description": {
+        "el": "Εκκένωση της Τύρου και ισραηλινή επίθεση στον Λίβανο, πάνω από 100 νεκροί από Έμπολα στο Κονγκό και νέα ευρωπαϊκή έκθεση για τα ναρκωτικά.",
+        "en": "Evacuation of Tyre and an Israeli strike in Lebanon, over 100 Ebola deaths in Congo and a new European drug report."
+      },
+      "related_items": [
+        "9cb83ccbd234",
+        "4d9a78f6d0bd",
+        "edbcfbcb8c6c",
+        "1faa98ea4c45"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 70,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "6177e33ba454",
+          "title": "Η Τουρκία παραδέχεται την παρενόχληση στο αεροσκάφος που μετέφερε τον Δένδια",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564272413/i-toyrkia-paradechetai-tin-parenochlisi-sto-aeroskafos-poy-metefere-ton-dendia/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T07:21:40+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Η Τουρκία παραδέχθηκε έμμεσα αλλά σαφώς την παρενόχληση του μεταγωγικού C-27 που μετέφερε στην Κύπρο τον υπουργό Άμυνας Νίκο Δένδια, περιστατικό που αφορούσε και αεροσκάφη Γαλλίας και Ολλανδίας. Ο Δένδιας ενημέρωσε σχετικά τη σύνοδο υπουργών Άμυνας της Ε.Ε.",
+            "en": "Turkey indirectly but clearly admitted the harassment of the C-27 transport carrying Defense Minister Nikos Dendias to Cyprus, an incident also involving French and Dutch aircraft. Dendias briefed the EU defense ministers' meeting on it."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Δένδιας",
+              "FIR Λευκωσίας",
+              "παρενόχληση"
+            ],
+            "en": [
+              "Turkey",
+              "Dendias",
+              "Nicosia FIR",
+              "harassment"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "politics"
+        },
+        {
+          "id": "eb1be43d562c",
+          "title": "Λίγο πριν από τις κάλπες το κόμμα από τον Σαμαρά",
+          "url": "https://www.kathimerini.gr/politics/parties/564272389/ligo-prin-apo-tis-kalpes-to-komma-apo-ton-samara/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:35:20+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Σύμφωνα με πληροφορίες, το νέο κόμμα του Αντώνη Σαμαρά «είναι έτοιμο» και ο πρώην πρωθυπουργός σταθμίζει το πολιτικό σκηνικό πριν το ανακοινώσει, με την ονομασία «Ελληνες Πολίτες» να συζητείται. Εντείνονται οι επαφές για τα ψηφοδέλτια.",
+            "en": "Reportedly, Antonis Samaras' new party 'is ready' and the former PM is weighing the political landscape before launching it, with 'Greek Citizens' floated as a possible name. Contacts over candidate lists are intensifying."
+          },
+          "tags": {
+            "el": [
+              "Σαμαράς",
+              "νέο κόμμα",
+              "εκλογές"
+            ],
+            "en": [
+              "Samaras",
+              "new party",
+              "elections"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "politics"
+        },
+        {
+          "id": "fd7133171b36",
+          "title": "Κυρ. Μητσοτάκης για το «gov.gr»: «Πίσω από κάθε ταλαιπωρία του πολίτη μπορεί να κρύβονται φαινόμενα διαφθοράς»",
+          "url": "https://www.kathimerini.gr/politics/564273520/kyr-mitsotakis-gia-to-gov-gr-piso-apo-kathe-talaiporia-toy-politi-mporei-na-kryvontai-fainomena-diafthoras/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:59:24+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Με αφορμή τα 6 χρόνια του gov.gr, ο πρωθυπουργός Κυριάκος Μητσοτάκης υποστήριξε ότι η ψηφιακή μεταρρύθμιση του κράτους περιόρισε τη γραφειοκρατία και τη διαφθορά, σημειώνοντας ότι χώρες όπως η Γερμανία αναζητούν πλέον ελληνική τεχνογνωσία. Τόνισε ότι «πίσω από κάθε ταλαιπωρία του πολίτη μπορεί να κρύβονται φαινόμενα διαφθοράς».",
+            "en": "Marking six years of gov.gr, PM Kyriakos Mitsotakis argued the state's digital reform cut bureaucracy and corruption, noting countries such as Germany now seek Greek expertise. He said that 'behind every inconvenience to the citizen, phenomena of corruption may be hiding.'"
+          },
+          "tags": {
+            "el": [
+              "gov.gr",
+              "Μητσοτάκης",
+              "ψηφιακή διακυβέρνηση",
+              "διαφθορά"
+            ],
+            "en": [
+              "gov.gr",
+              "Mitsotakis",
+              "digital governance",
+              "corruption"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "politics"
+        },
+        {
+          "id": "67eeba408c70",
+          "title": "Μπήκαν υπογραφές σε κρίσιμη συμφωνία Κύπρου – Γαλλίας",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564272407/mpikan-ypografes-se-krisimi-symfonia-kyproy-gallias/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T06:37:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Υπεγράφη συμφωνία SOFA μεταξύ Γαλλίας και Κυπριακής Δημοκρατίας που θεσμοθετεί τη δυνατότητα στάθμευσης γαλλικών δυνάμεων στο ελεύθερο νότιο τμήμα της Κύπρου. Αποτελεί βήμα εμβάθυνσης των αμυντικών σχέσεων Λευκωσίας–Παρισιού.",
+            "en": "A SOFA agreement was signed between France and the Republic of Cyprus institutionalizing the stationing of French forces in the free, southern part of the island. It marks a deepening of Nicosia–Paris defense ties."
+          },
+          "tags": {
+            "el": [
+              "Κύπρος",
+              "Γαλλία",
+              "SOFA",
+              "άμυνα"
+            ],
+            "en": [
+              "Cyprus",
+              "France",
+              "SOFA",
+              "defense"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "politics"
+        },
+        {
+          "id": "aa7d3116552f",
+          "title": "Μαρινάκης: Εκλογές το 2027, δεν επιλέγουμε αντίπαλο – Στόχος να υπάρξουν νέες φοροελαφρύνσεις",
+          "url": "https://www.kathimerini.gr/politics/564273325/marinakis-ekloges-to-2027-den-epilegoyme-antipalo-stochos-na-yparxoyn-nees-foroelafrynseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T10:59:30+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης επανέλαβε ότι οι εκλογές θα γίνουν το 2027, απορρίπτοντας σενάρια πρόωρης προσφυγής στις κάλπες, και έθεσε ως στόχο νέες φοροελαφρύνσεις. Σχολίασε επίσης τον πρόσφατο ανασχηματισμό και το υπό σύσταση κόμμα Τσίπρα.",
+            "en": "Government spokesman Pavlos Marinakis reiterated that elections will be held in 2027, rejecting early-poll scenarios, and set new tax cuts as a goal. He also commented on the recent reshuffle and Tsipras' nascent party."
+          },
+          "tags": {
+            "el": [
+              "Μαρινάκης",
+              "εκλογές 2027",
+              "φοροελαφρύνσεις"
+            ],
+            "en": [
+              "Marinakis",
+              "2027 elections",
+              "tax cuts"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "politics"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "01e1b6c40653",
+          "title": "Οι άγνωστες μεταβλητές στην αγορά πετρελαίου",
+          "url": "https://www.kathimerini.gr/economy/local/564272914/oi-agnostes-metavlites-stin-agora-petrelaioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:35:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Η μεγαλύτερη διαταραχή στην προσφορά πετρελαίου εδώ και δεκαετίες μπαίνει στον τέταρτο μήνα της, με ΗΠΑ και Ιράν να μην υποχωρούν, ωστόσο η αγορά παραμένει αναπάντεχα ήρεμη. Κρίσιμοι άγνωστοι παράγοντες είναι η αντοχή των παγκόσμιων αποθεμάτων.",
+            "en": "The biggest oil-supply shock in decades enters its fourth month, with neither the US nor Iran backing down, yet the market remains surprisingly calm. Key unknowns include how long global stockpiles can last."
+          },
+          "tags": {
+            "el": [
+              "πετρέλαιο",
+              "ενέργεια",
+              "ΗΠΑ-Ιράν"
+            ],
+            "en": [
+              "oil",
+              "energy",
+              "US-Iran"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "economy"
+        },
+        {
+          "id": "f2cc399a7ea8",
+          "title": "Διψήφια άνοδος των ελληνικών εξαγωγών το πρώτο τετράμηνο",
+          "url": "https://www.kathimerini.gr/economy/564272794/dipsifia-anodos-ton-ellinikon-exagogon-to-proto-tetramino/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:27:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Οι ελληνικές εξαγωγές σημείωσαν διψήφια άνοδο 11,3% το πρώτο τετράμηνο του 2026, φθάνοντας τα 17,77 δισ. ευρώ, παρά τις γεωπολιτικές αναταράξεις. Ισχυρό χαρτί παρέμειναν τα τρόφιμα, ενώ ενισχύθηκαν και οι εξαγωγές προς τις ΗΠΑ.",
+            "en": "Greek exports rose by double digits—11.3%—in the first four months of 2026, reaching 17.77 billion euros despite geopolitical turbulence. Food remained a strong card, while exports to the US also grew."
+          },
+          "tags": {
+            "el": [
+              "εξαγωγές",
+              "εμπόριο",
+              "τρόφιμα"
+            ],
+            "en": [
+              "exports",
+              "trade",
+              "food"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "economy"
+        },
+        {
+          "id": "b443e88b02aa",
+          "title": "Ερευνα: Μόλις 1 στα 10 παιδιά από χαμηλά στρώματα φτάνει στην ανώτατη εκπαίδευση",
+          "url": "https://www.kathimerini.gr/economy/local/564272812/ereyna-molis-1-sta-10-paidia-apo-chamila-stromata-ftanei-stin-anotati-ekpaideysi/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T09:38:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Έρευνα του ΙΟΒΕ αποκαλύπτει ότι μόλις 1 στα 10 παιδιά από χαμηλά κοινωνικά στρώματα φθάνει στην ανώτατη εκπαίδευση, αναδεικνύοντας επίμονες ανισότητες. Η εισοδηματική βελτίωση δεν έχει μεταφραστεί σε ισότιμες ευκαιρίες για τα νοικοκυριά.",
+            "en": "An IOBE study reveals that just 1 in 10 children from low-income strata reaches higher education, highlighting persistent inequalities. Income gains have not translated into equal opportunities for households."
+          },
+          "tags": {
+            "el": [
+              "ΙΟΒΕ",
+              "ανισότητα",
+              "εκπαίδευση"
+            ],
+            "en": [
+              "IOBE",
+              "inequality",
+              "education"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "economy"
+        },
+        {
+          "id": "d71d50c52bab",
+          "title": "Η νέα εποχή των ελληνικών ναυπηγείων",
+          "url": "https://www.kathimerini.gr/economy/business/564272827/i-nea-epochi-ton-ellinikon-naypigeion/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:07:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η ελληνική ναυπηγική βιομηχανία επιχειρεί συστηματική ανασύνταξη, αξιοποιώντας τις γεωπολιτικές ανακατατάξεις και την ανάγκη της Δύσης να διαφοροποιήσει τις βιομηχανικές βάσεις της. Πληθαίνουν οι συμφωνίες με διεθνείς κολοσσούς και τα αμυντικά έργα.",
+            "en": "Greece's shipbuilding industry is attempting a systematic revival, leveraging geopolitical realignments and the West's need to diversify its industrial base. Deals with international giants and defense projects are multiplying."
+          },
+          "tags": {
+            "el": [
+              "ναυπηγεία",
+              "άμυνα",
+              "βιομηχανία"
+            ],
+            "en": [
+              "shipyards",
+              "defense",
+              "industry"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "economy"
+        },
+        {
+          "id": "ab9118d560fb",
+          "title": "Ανθεκτική η ελληνική οικονομία, ανοδικά οι τράπεζες",
+          "url": "https://www.kathimerini.gr/economy/564272821/anthektiki-i-elliniki-oikonomia-anodika-oi-trapezes/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T10:22:47+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η Jefferies εμφανίζεται αισιόδοξη για τις ελληνικές τράπεζες, χαρακτηρίζοντας το μακροοικονομικό περιβάλλον ως ένα από τα πιο ελκυστικά στην Ευρώπη. Η ανθεκτικότητα της ελληνικής οικονομίας θεωρείται βασικός πυλώνας της επενδυτικής περίπτωσης.",
+            "en": "Jefferies is upbeat on Greek banks, calling the macroeconomic environment one of the most attractive in Europe. The resilience of the Greek economy is seen as a key pillar of the investment case."
+          },
+          "tags": {
+            "el": [
+              "τράπεζες",
+              "Jefferies",
+              "οικονομία"
+            ],
+            "en": [
+              "banks",
+              "Jefferies",
+              "economy"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "economy"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "59662e204a3d",
+          "title": "Δίκη για Τέμπη: Αίτημα Κωνσταντοπούλου για έγγραφο επικοινωνίας ΝΣΚ – Κυρανάκη",
+          "url": "https://www.kathimerini.gr/society/564273427/diki-gia-tempi-aitima-konstantopoyloy-gia-eggrafo-epikoinonias-nsk-kyranaki/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:43:53+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Στη δίκη για τα Τέμπη, η Ζωή Κωνσταντοπούλου ζήτησε να προσκομιστεί έγγραφο επικοινωνίας μεταξύ του Νομικού Συμβουλίου του Κράτους και του πρώην αν. υπουργού Μεταφορών Κώστα Κυρανάκη. Το αίτημα αφορά τη δήλωση παράστασης του Δημοσίου.",
+            "en": "At the Tempi trial, Zoe Konstantopoulou requested a document of communication between the State Legal Council and former deputy transport minister Kostas Kyranakis. The request concerns the State's declaration of participation."
+          },
+          "tags": {
+            "el": [
+              "Τέμπη",
+              "δίκη",
+              "Κωνσταντοπούλου"
+            ],
+            "en": [
+              "Tempi",
+              "trial",
+              "Konstantopoulou"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "society"
+        },
+        {
+          "id": "407193c2d35b",
+          "title": "Πώς έκαναν «μπίζνες» σε πολεοδομίες",
+          "url": "https://www.kathimerini.gr/society/reportaz/564272437/pos-ekanan-mpiznes-se-poleodomies/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T10:19:43+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Εξαρθρώθηκε κύκλωμα δωροδοκίας σε πολεοδομικές υπηρεσίες, με «ταρίφα» που έφτανε τις 30.000 ευρώ· σε καφετέρια της Ηλιούπολης ιδιώτης μηχανικός παρέδωσε φάκελο με 3.000 ευρώ σε γενική γραμματέα δήμου. Συνελήφθησαν συνολικά πέντε υπάλληλοι.",
+            "en": "A bribery ring in urban-planning offices was dismantled, with a 'tariff' reaching 30,000 euros; at an Ilioupoli cafe an engineer handed an envelope of 3,000 euros to a municipal secretary general. Five employees were arrested in total."
+          },
+          "tags": {
+            "el": [
+              "διαφθορά",
+              "πολεοδομία",
+              "συλλήψεις"
+            ],
+            "en": [
+              "corruption",
+              "urban planning",
+              "arrests"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "society"
+        },
+        {
+          "id": "213e8aa819a4",
+          "title": "Ογκος εγκεφάλου στα παιδιά: Η δεύτερη πιο συχνή κακοήθεια",
+          "url": "https://www.kathimerini.gr/society/564272449/ogkos-egkefaloy-sta-paidia-i-deyteri-pio-sychni-kakoitheia/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:01:10+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ο όγκος εγκεφάλου αποτελεί τη δεύτερη πιο συχνή κακοήθεια στα παιδιά, με πάνω από 70 νέες διαγνώσεις ετησίως στην Ελλάδα, σημειώνει ο καθηγητής Αντώνης Καττάμης. «Εχουμε αρκετά όπλα, όχι όμως πάρα πολλά» για την αντιμετώπιση.",
+            "en": "Brain tumors are the second most common malignancy in children, with over 70 new diagnoses a year in Greece, notes professor Antonis Kattamis. 'We have quite a few weapons, but not very many' to treat it."
+          },
+          "tags": {
+            "el": [
+              "παιδιατρική ογκολογία",
+              "υγεία",
+              "όγκος εγκεφάλου"
+            ],
+            "en": [
+              "pediatric oncology",
+              "health",
+              "brain tumor"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "society"
+        },
+        {
+          "id": "93b7bd6604d5",
+          "title": "Αυθαίρετα: AI, drones και δορυφόροι στη μάχη για τον εντοπισμό τους",
+          "url": "https://www.kathimerini.gr/society/564273349/aythaireta-ai-drones-kai-doryforoi-sti-machi-gia-ton-entopismo-toys/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:06:19+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Σε νέα εποχή περνά ο εντοπισμός της αυθαίρετης δόμησης με τη συνδρομή Τεχνητής Νοημοσύνης, drones και δορυφόρων, σύμφωνα με τον πρόεδρο του ΤΕΕ Γιώργο Στασινό. Προαναγγέλλεται ψηφιακό σύστημα άμεσου εντοπισμού των αυθαιρέτων.",
+            "en": "Detecting illegal construction is entering a new era with the help of artificial intelligence, drones and satellites, according to TEE president Giorgos Stasinos. A digital system for instant detection of unauthorized buildings is announced."
+          },
+          "tags": {
+            "el": [
+              "αυθαίρετα",
+              "τεχνητή νοημοσύνη",
+              "drones",
+              "δορυφόροι"
+            ],
+            "en": [
+              "illegal building",
+              "artificial intelligence",
+              "drones",
+              "satellites"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "society"
+        },
+        {
+          "id": "528fd7faa92b",
+          "title": "Διαμαρτυρία δασκάλων έξω από το υπουργείο Παιδείας",
+          "url": "https://www.kathimerini.gr/society/564273697/diamartyria-daskalon-exo-apo-to-ypoyrgeio-paideias/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T13:55:46+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Δάσκαλοι συγκεντρώθηκαν διαμαρτυρόμενοι έξω από το υπουργείο Παιδείας, ανταποκρινόμενοι στο κάλεσμα της ΔΟΕ. Στο επίκεντρο η διαδικασία επιλογής σχολικών εγχειριδίων και οι «δραστικές περικοπές» σε διορισμούς εκπαιδευτικών.",
+            "en": "Teachers gathered in protest outside the Education Ministry, responding to a call by the DOE federation. At issue are the textbook-selection process and 'drastic cuts' to teacher appointments."
+          },
+          "tags": {
+            "el": [
+              "εκπαιδευτικοί",
+              "ΔΟΕ",
+              "διαμαρτυρία"
+            ],
+            "en": [
+              "teachers",
+              "DOE",
+              "protest"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "society"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "9cb83ccbd234",
+          "title": "«Σήμα» Νετανιάχου προς Τραμπ και Ιράν με την εκκένωση της Τύρου",
+          "url": "https://www.kathimerini.gr/world/564273436/sima-netaniachoy-pros-tramp-kai-iran-me-tin-ekkenosi-tis-tyroy/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:59:21+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η εντολή εκκένωσης της πόλης Τύρου στον νότιο Λίβανο και η αιματηρή ισραηλινή επίθεση που ακολούθησε εκλαμβάνονται ως «σήμα» Νετανιάχου προς Τραμπ και Ιράν. Το Ισραήλ συνεχίζει επιχειρήσεις εναντίον στόχων που συνδέει με τη Χεζμπολάχ.",
+            "en": "The evacuation order for the city of Tyre in southern Lebanon and the bloody Israeli strike that followed are read as a Netanyahu 'signal' to Trump and Iran. Israel continues operations against targets it links to Hezbollah."
+          },
+          "tags": {
+            "el": [
+              "Ισραήλ",
+              "Λίβανος",
+              "Τύρος",
+              "Χεζμπολάχ"
+            ],
+            "en": [
+              "Israel",
+              "Lebanon",
+              "Tyre",
+              "Hezbollah"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "world"
+        },
+        {
+          "id": "4d9a78f6d0bd",
+          "title": "Κονγκό: Ξεπέρασαν τους 100 οι νεκροί από τον Εμπολα",
+          "url": "https://www.kathimerini.gr/world/564273403/kongko-xeperasan-toys-100-oi-nekroi-apo-ton-empola/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:43:23+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ξεπέρασαν τους 100 οι νεκροί από τον Έμπολα στο ανατολικό Κονγκό, λιγότερο από έναν μήνα μετά την κήρυξη του ξεσπάσματος. Επιθέσεις σε υγειονομικούς, σκεπτικισμός και ένοπλες συγκρούσεις εμποδίζουν την αναχαίτιση της επιδημίας.",
+            "en": "Ebola deaths surpassed 100 in eastern Congo, less than a month after the outbreak was declared. Attacks on health workers, skepticism and armed conflict are hampering efforts to contain the epidemic."
+          },
+          "tags": {
+            "el": [
+              "Κονγκό",
+              "Έμπολα",
+              "επιδημία"
+            ],
+            "en": [
+              "Congo",
+              "Ebola",
+              "epidemic"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "world"
+        },
+        {
+          "id": "1faa98ea4c45",
+          "title": "Σοκάρει η ταχύτητα των καρτέλ: Ενα νέο τεχνητό ναρκωτικό κάθε εβδομάδα",
+          "url": "https://www.kathimerini.gr/world/564273511/sokarei-i-tachytita-ton-kartel-ena-neo-technito-narkotiko-kathe-evdomada/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:51:45+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η Ευρωπαϊκή Έκθεση για τα Ναρκωτικά 2026 προειδοποιεί ότι η αγορά γίνεται πιο σύνθετη και επικίνδυνη, με τα καρτέλ να λανσάρουν ένα νέο συνθετικό ναρκωτικό σχεδόν κάθε εβδομάδα. Η έκθεση παρουσιάστηκε στις Βρυξέλλες από την EUDA.",
+            "en": "The European Drug Report 2026 warns the market is becoming more complex and dangerous, with cartels launching a new synthetic drug almost every week. The report was presented in Brussels by the EUDA."
+          },
+          "tags": {
+            "el": [
+              "ναρκωτικά",
+              "Ε.Ε.",
+              "EUDA"
+            ],
+            "en": [
+              "drugs",
+              "EU",
+              "EUDA"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "world"
+        },
+        {
+          "id": "b521389dfab9",
+          "title": "Politico: Μυστικές συνομιλίες Γερμανίας – ΗΠΑ για τις τιμές των φαρμάκων",
+          "url": "https://www.kathimerini.gr/world/564273715/politico-mystikes-synomilies-germanias-ipa-gia-tis-times-ton-farmakon/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T14:01:25+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Σύμφωνα με το Politico, η γερμανική κυβέρνηση βρίσκεται εδώ και μήνες σε εμπιστευτικές συνομιλίες με το αμερικανικό υπουργείο Υγείας σχετικά με τις τιμές των φαρμάκων. Οι συζητήσεις παραμένουν εμπιστευτικές.",
+            "en": "According to Politico, the German government has for months been in confidential talks with the US Department of Health over drug prices. The discussions remain confidential."
+          },
+          "tags": {
+            "el": [
+              "Γερμανία",
+              "ΗΠΑ",
+              "φάρμακα",
+              "τιμές"
+            ],
+            "en": [
+              "Germany",
+              "USA",
+              "pharmaceuticals",
+              "prices"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "world"
+        },
+        {
+          "id": "c7656c9ba0d7",
+          "title": "Κομισιόν: Η Ε.Ε. έχει εκφράσει ανησυχία στην Αλβανία για το θέρετρο που συνδέεται με τον Κούσνερ",
+          "url": "https://www.kathimerini.gr/world/564273670/komision-i-e-e-echei-ekfrasei-anisychia-stin-alvania-gia-to-theretro-poy-syndeetai-me-ton-koysner/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T13:50:20+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Η Κομισιόν δήλωσε ότι έχει εκφράσει ανησυχίες προς τις αλβανικές αρχές για το σχέδιο πολυτελούς τουριστικού θερέτρου που συνδέεται με τον Τζάρεντ Κούσνερ. Το ζήτημα εγείρει ερωτήματα ενόψει της ενταξιακής πορείας της Αλβανίας.",
+            "en": "The European Commission said it has voiced concerns to Albanian authorities over a luxury tourist resort project linked to Jared Kushner. The matter raises questions amid Albania's EU accession path."
+          },
+          "tags": {
+            "el": [
+              "Κομισιόν",
+              "Αλβανία",
+              "Κούσνερ"
+            ],
+            "en": [
+              "Commission",
+              "Albania",
+              "Kushner"
+            ]
+          },
+          "sentiment": "negative",
+          "category": "world"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 2,
+      "top_items": [
+        {
+          "id": "ef4a220f0656",
+          "title": "Είναι ο κ. Τσίπρας ο αντίπαλος που ψάχνει η Ν.Δ.;",
+          "url": "https://www.kathimerini.gr/opinion/564268888/einai-o-k-tsipras-o-antipalos-poy-psachnei-i-n-d/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T12:20:13+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Άρθρο γνώμης διερωτάται αν ο Αλέξης Τσίπρας είναι ο αντίπαλος που χρειάζεται η Ν.Δ., επικαλούμενο τη ρήση Μιτεράν ότι «χρειάζεσαι εχθρούς». Υποστηρίζει ότι μετά την κατάρρευση του ΣΥΡΙΖΑ το 2023 η Ν.Δ. συσσώρευσε φθορά.",
+            "en": "An op-ed asks whether Alexis Tsipras is the opponent New Democracy needs, invoking Mitterrand's line that 'you need enemies.' It argues that after SYRIZA's 2023 collapse, New Democracy accumulated wear and tear."
+          },
+          "tags": {
+            "el": [
+              "Τσίπρας",
+              "Ν.Δ.",
+              "πολιτική ανάλυση"
+            ],
+            "en": [
+              "Tsipras",
+              "New Democracy",
+              "political analysis"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "opinion"
+        },
+        {
+          "id": "bf97242f0b31",
+          "title": "Διδάγματα για την αμυντική βιομηχανία",
+          "url": "https://www.kathimerini.gr/opinion/564269044/didagmata-gia-tin-amyntiki-viomichania/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T21:10:00+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Άρθρο γνώμης εξετάζει τα διδάγματα για την αμυντική βιομηχανία από την κρίση στη Μ. Ανατολή και τον πόλεμο στην Ουκρανία, που οδηγούν σε αναθεώρηση αμυντικών πολιτικών. Σημειώνει ότι ακόμη και οι ΗΠΑ δεν έχουν ενσωματώσει επαρκώς την τεχνητή νοημοσύνη στα αμυντικά τους προγράμματα.",
+            "en": "An op-ed examines lessons for the defense industry from the Middle East crisis and the Ukraine war, which are driving a rethink of defense policies. It notes that even the US has not adequately integrated artificial intelligence into its defense programs."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "τεχνητή νοημοσύνη",
+              "Ουκρανία"
+            ],
+            "en": [
+              "defense",
+              "artificial intelligence",
+              "Ukraine"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "opinion"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        {
+          "id": "b9d89d9ccb0e",
+          "title": "Τουρκία: Αρχαιολογικός χώρος το πεδίο της μάχης του Γρανικού – Εκεί όπου ο Μέγας Αλέξανδρος νίκησε τους Πέρσες",
+          "url": "https://www.kathimerini.gr/world/564271447/toyrkia-archaiologikos-choros-to-pedio-tis-machis-toy-granikoy-ekei-opoy-o-megas-alexandros-nikise-toys-perses/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T14:27:20+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Το τουρκικό υπουργείο Πολιτισμού κήρυξε «διατηρητέο ιστορικό και αρχαιολογικό χώρο» το πεδίο της μάχης του Γρανικού, όπου ο Μέγας Αλέξανδρος σημείωσε την πρώτη μεγάλη νίκη του κατά των Περσών. Η απόφαση βασίστηκε σε αρχαιολογικά ευρήματα και μελέτες.",
+            "en": "Turkey's Culture Ministry declared the battlefield of Granicus—where Alexander the Great won his first major victory over the Persians—a 'protected historical and archaeological site.' The decision was based on archaeological findings and studies."
+          },
+          "tags": {
+            "el": [
+              "Μέγας Αλέξανδρος",
+              "Γρανικός",
+              "αρχαιολογία",
+              "Τουρκία"
+            ],
+            "en": [
+              "Alexander the Great",
+              "Granicus",
+              "archaeology",
+              "Turkey"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "culture"
+        },
+        {
+          "id": "9a1420f8f11a",
+          "title": "Eλλάδα και Τσεχία συσφίγγουν τις σχέσεις τους σε ένα σημαντικό συνέδριο στην Πράγα",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564272338/ellada-kai-tsechia-sysfiggoyn-tis-scheseis-toys-se-ena-simantiko-synedrio-stin-praga/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T13:10:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ελλάδα και Τσεχία συσφίγγουν τις σχέσεις τους σε σημαντικό συνέδριο στην Πράγα, με φόντο τη συζήτηση για βαθύτερη ευρωπαϊκή συνεργασία. Ο Ενρίκο Λέτα είχε τονίσει ότι η συνεργασία των κρατών-μελών είναι μονόδρομος για το μέλλον της Ευρώπης.",
+            "en": "Greece and the Czech Republic are tightening ties at a major conference in Prague, against a backdrop of debate over deeper European cooperation. Enrico Letta had stressed that member-state cooperation is the only way forward for Europe."
+          },
+          "tags": {
+            "el": [
+              "Ελλάδα",
+              "Τσεχία",
+              "Ευρώπη",
+              "συνέδριο"
+            ],
+            "en": [
+              "Greece",
+              "Czech Republic",
+              "Europe",
+              "conference"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "culture"
+        },
+        {
+          "id": "5d55b6660560",
+          "title": "Λάνθιμος: «Θα κάνω άλλες ταινίες; Δεν ξέρω, θα δούμε»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564271480/lanthimos-tha-kano-ki-alles-tainies-den-xero-tha-doyme/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T15:01:02+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Γιώργος Λάνθιμος αφήνει ανοιχτό το ενδεχόμενο να κάνει κι άλλες ταινίες, λέγοντας «δεν ξέρω, θα δούμε», και τονίζοντας την ανάγκη να ξαναβρεί τη χαρά της δημιουργίας. Το μέλλον του στη σκηνοθεσία παραμένει αβέβαιο.",
+            "en": "Yorgos Lanthimos leaves open the possibility of making more films, saying 'I don't know, we'll see,' and stressing the need to rediscover the joy of creating. His future in directing remains uncertain."
+          },
+          "tags": {
+            "el": [
+              "Λάνθιμος",
+              "κινηματογράφος",
+              "σκηνοθεσία"
+            ],
+            "en": [
+              "Lanthimos",
+              "cinema",
+              "directing"
+            ]
+          },
+          "sentiment": "neutral",
+          "category": "culture"
+        },
+        {
+          "id": "8401e5afc76a",
+          "title": "Αρχίζει την Τρίτη στην Αθήνα το 2ο Παγκόσμιο Συνέδριο Κλασικών Σπουδών",
+          "url": "https://www.kathimerini.gr/culture/564271120/archizei-tin-triti-stin-athina-to-2o-pagkosmio-synedrio-klasikon-spoydon/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T12:09:54+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ανοίγει στην Ακαδημία Αθηνών το 2ο Παγκόσμιο Συνέδριο Κλασικών Σπουδών, με τίτλο «Διάλογος μεταξύ του Αρχαίου και του Νεότερου», παρουσία Ελλήνων και Κινέζων ακαδημαϊκών. Συνδιοργανώνεται από την Ακαδημία Αθηνών και την Κινεζική Ακαδημία Κοινωνικών Επιστημών.",
+            "en": "The 2nd World Congress of Classical Studies opens at the Academy of Athens, titled 'Dialogue between the Ancient and the Modern,' with Greek and Chinese academics. It is co-organized by the Academy of Athens and the Chinese Academy of Social Sciences."
+          },
+          "tags": {
+            "el": [
+              "κλασικές σπουδές",
+              "Ακαδημία Αθηνών",
+              "συνέδριο"
+            ],
+            "en": [
+              "classical studies",
+              "Academy of Athens",
+              "congress"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "culture"
+        },
+        {
+          "id": "c27cceb23bc0",
+          "title": "Πωλ ΜαΚάρτνεϊ: Για 24η φορά στο Νο.1 των βρετανικών charts",
+          "url": "https://www.kathimerini.gr/culture/music/564273448/pol-makartnei-gia-24i-fora-sto-no-1-ton-charts-toy-inomenoy-vasileioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:55:28+00:00",
+          "importance": 46,
+          "summary": {
+            "el": "Ο Πωλ ΜαΚάρτνεϊ κατέκτησε για 24η φορά την κορυφή των βρετανικών charts με το νέο άλμπουμ «The Boys Of Dungeon Lane», εμπνευσμένο από τα παιδικά του χρόνια στο Λίβερπουλ. Παραμένει ο πιο επιτυχημένος καλλιτέχνης άλμπουμ.",
+            "en": "Paul McCartney topped the UK charts for the 24th time with his new album 'The Boys Of Dungeon Lane,' inspired by his childhood in Liverpool. He remains the most successful albums artist."
+          },
+          "tags": {
+            "el": [
+              "ΜαΚάρτνεϊ",
+              "μουσική",
+              "charts"
+            ],
+            "en": [
+              "McCartney",
+              "music",
+              "charts"
+            ]
+          },
+          "sentiment": "positive",
+          "category": "culture"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 5,
+      "top_items": [
+        {
+          "id": "fd7133171b36",
+          "title": "Κυρ. Μητσοτάκης για το «gov.gr»: «Πίσω από κάθε ταλαιπωρία του πολίτη μπορεί να κρύβονται φαινόμενα διαφθοράς»",
+          "url": "https://www.kathimerini.gr/politics/564273520/kyr-mitsotakis-gia-to-gov-gr-piso-apo-kathe-talaiporia-toy-politi-mporei-na-kryvontai-fainomena-diafthoras/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:59:24+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Με αφορμή τα 6 χρόνια του gov.gr, ο πρωθυπουργός Κυριάκος Μητσοτάκης υποστήριξε ότι η ψηφιακή μεταρρύθμιση του κράτους περιόρισε τη γραφειοκρατία και τη διαφθορά, σημειώνοντας ότι χώρες όπως η Γερμανία αναζητούν πλέον ελληνική τεχνογνωσία. Τόνισε ότι «πίσω από κάθε ταλαιπωρία του πολίτη μπορεί να κρύβονται φαινόμενα διαφθοράς».",
+            "en": "Marking six years of gov.gr, PM Kyriakos Mitsotakis argued the state's digital reform cut bureaucracy and corruption, noting countries such as Germany now seek Greek expertise. He said that 'behind every inconvenience to the citizen, phenomena of corruption may be hiding.'"
+          },
+          "tags": {
+            "el": [
+              "gov.gr",
+              "Μητσοτάκης",
+              "ψηφιακή διακυβέρνηση",
+              "διαφθορά"
+            ],
+            "en": [
+              "gov.gr",
+              "Mitsotakis",
+              "digital governance",
+              "corruption"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0bdcd0dc2bd2",
+          "title": "Κυρ. Πιερρακάκης για τα 6 χρόνια «gov.gr»: «Οι Ελληνες πίστεψαν ξανά ότι η χώρα μπορεί να αλλάξει»",
+          "url": "https://www.kathimerini.gr/politics/564273487/kyr-pierrakakis-gia-ta-6-chronia-gov-gr-oi-ellines-pistepsan-xana-oti-i-chora-mporei-na-allaxei/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T12:45:17+00:00",
+          "category": "politics",
+          "importance": 60,
+          "summary": {
+            "el": "Ο υπουργός Εθνικής Οικονομίας και πρόεδρος του Eurogroup Κυριάκος Πιερρακάκης χαρακτήρισε το gov.gr «ιστορία μιας χώρας που αποφάσισε να αλλάξει», στην εκδήλωση για τα 6 χρόνια λειτουργίας του. Αναφέρθηκε στην πορεία από τη σύλληψη της ιδέας έως την καθιέρωση της ψηφιακής πύλης.",
+            "en": "Economy minister and Eurogroup president Kyriakos Pierrakakis called gov.gr 'the story of a country that decided to change' at the platform's six-year anniversary event. He recalled the path from the idea's inception to the portal's establishment."
+          },
+          "tags": {
+            "el": [
+              "gov.gr",
+              "Πιερρακάκης",
+              "ψηφιακό κράτος"
+            ],
+            "en": [
+              "gov.gr",
+              "Pierrakakis",
+              "digital state"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "bf97242f0b31",
+          "title": "Διδάγματα για την αμυντική βιομηχανία",
+          "url": "https://www.kathimerini.gr/opinion/564269044/didagmata-gia-tin-amyntiki-viomichania/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T21:10:00+00:00",
+          "category": "opinion",
+          "importance": 56,
+          "summary": {
+            "el": "Άρθρο γνώμης εξετάζει τα διδάγματα για την αμυντική βιομηχανία από την κρίση στη Μ. Ανατολή και τον πόλεμο στην Ουκρανία, που οδηγούν σε αναθεώρηση αμυντικών πολιτικών. Σημειώνει ότι ακόμη και οι ΗΠΑ δεν έχουν ενσωματώσει επαρκώς την τεχνητή νοημοσύνη στα αμυντικά τους προγράμματα.",
+            "en": "An op-ed examines lessons for the defense industry from the Middle East crisis and the Ukraine war, which are driving a rethink of defense policies. It notes that even the US has not adequately integrated artificial intelligence into its defense programs."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "τεχνητή νοημοσύνη",
+              "Ουκρανία"
+            ],
+            "en": [
+              "defense",
+              "artificial intelligence",
+              "Ukraine"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "93b7bd6604d5",
+          "title": "Αυθαίρετα: AI, drones και δορυφόροι στη μάχη για τον εντοπισμό τους",
+          "url": "https://www.kathimerini.gr/society/564273349/aythaireta-ai-drones-kai-doryforoi-sti-machi-gia-ton-entopismo-toys/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T11:06:19+00:00",
+          "category": "society",
+          "importance": 54,
+          "summary": {
+            "el": "Σε νέα εποχή περνά ο εντοπισμός της αυθαίρετης δόμησης με τη συνδρομή Τεχνητής Νοημοσύνης, drones και δορυφόρων, σύμφωνα με τον πρόεδρο του ΤΕΕ Γιώργο Στασινό. Προαναγγέλλεται ψηφιακό σύστημα άμεσου εντοπισμού των αυθαιρέτων.",
+            "en": "Detecting illegal construction is entering a new era with the help of artificial intelligence, drones and satellites, according to TEE president Giorgos Stasinos. A digital system for instant detection of unauthorized buildings is announced."
+          },
+          "tags": {
+            "el": [
+              "αυθαίρετα",
+              "τεχνητή νοημοσύνη",
+              "drones",
+              "δορυφόροι"
+            ],
+            "en": [
+              "illegal building",
+              "artificial intelligence",
+              "drones",
+              "satellites"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "8401e5afc76a",
+          "title": "Αρχίζει την Τρίτη στην Αθήνα το 2ο Παγκόσμιο Συνέδριο Κλασικών Σπουδών",
+          "url": "https://www.kathimerini.gr/culture/564271120/archizei-tin-triti-stin-athina-to-2o-pagkosmio-synedrio-klasikon-spoydon/",
+          "source": "Kathimerini",
+          "published": "2026-06-08T12:09:54+00:00",
+          "category": "culture",
+          "importance": 50,
+          "summary": {
+            "el": "Ανοίγει στην Ακαδημία Αθηνών το 2ο Παγκόσμιο Συνέδριο Κλασικών Σπουδών, με τίτλο «Διάλογος μεταξύ του Αρχαίου και του Νεότερου», παρουσία Ελλήνων και Κινέζων ακαδημαϊκών. Συνδιοργανώνεται από την Ακαδημία Αθηνών και την Κινεζική Ακαδημία Κοινωνικών Επιστημών.",
+            "en": "The 2nd World Congress of Classical Studies opens at the Academy of Athens, titled 'Dialogue between the Ancient and the Modern,' with Greek and Chinese academics. It is co-organized by the Academy of Athens and the Chinese Academy of Social Sciences."
+          },
+          "tags": {
+            "el": [
+              "κλασικές σπουδές",
+              "Ακαδημία Αθηνών",
+              "συνέδριο"
+            ],
+            "en": [
+              "classical studies",
+              "Academy of Athens",
+              "congress"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 70
+  }
+}
