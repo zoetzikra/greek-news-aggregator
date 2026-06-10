@@ -1,0 +1,1095 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:31:02.523295+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 81 articles over 24h.",
+  "executive_summary": {
+    "el": "Η πολιτική επικαιρότητα κυριαρχείται από τη συνταγματική αναθεώρηση και την ευρύτερη αναδιάταξη του κομματικού σκηνικού. Η Βουλή συγκρότησε την Επιτροπή Αναθεώρησης με προθεσμία δύο μηνών, ενώ ο Αλέξης Τσίπρας χτίζει το νέο του κόμμα (ΕΛΑΣ) απορροφώντας στελέχη του ΣΥΡΙΖΑ και ο Αντώνης Σαμαράς ετοιμάζει τη δική του κίνηση — εξελίξεις που, όπως σχολιάζουν αρθρογράφοι, καθιστούν το σύστημα ολοένα πιο προσωποπαγές.\n\nΣτην οικονομία, η ΕΛΣΤΑΤ ανακοίνωσε οριακή υποχώρηση του πληθωρισμού στο 5,2% τον Μάιο, με έντονες όμως ανατιμήσεις σε τρόφιμα, ενοίκια και καύσιμα. Η αγορά εργασίας δείχνει σημάδια επιβράδυνσης, το Δημόσιο βγαίνει στις αγορές με 10ετές ομόλογο πριν την αύξηση επιτοκίων της ΕΚΤ, ενώ ξεχωρίζει διεθνώς το σχέδιο της Κίνας για επένδυση 295 δισ. δολαρίων στην τεχνητή νοημοσύνη.\n\nΣτο διεθνές πεδίο, συνεχίζεται η κλιμάκωση στη Μέση Ανατολή μεταξύ Ιράν, ΗΠΑ και Ισραήλ, με το κλείσιμο των Στενών του Ορμούζ να πιέζει την αγορά πετρελαίου και τον Ερντογάν να κλιμακώνει τη ρητορική για Συρία, Λίβανο και Κύπρο. Νύχτα αντιμεταναστευτικής βίας στο Μπέλφαστ και ο φονικός σεισμός των 7,8 βαθμών στις Φιλιππίνες συμπληρώνουν τη διεθνή ειδησεογραφία.\n\nΣε κοινωνία και πολιτισμό, αποκάλυψη της «Κ» φωτίζει κύκλωμα διαφθοράς στις πολεοδομίες, ενώ η Ελλάδα ανακηρύσσεται τιμώμενη χώρα του Marché du Film των Καννών για το 2027.",
+    "en": "The political agenda is dominated by constitutional revision and a broader reshaping of the party landscape. Parliament formed the Revision Committee with a two-month deadline, while Alexis Tsipras builds his new party (ELAS) by absorbing SYRIZA cadres and Antonis Samaras prepares his own launch — developments that, as columnists note, make the system increasingly leader-centric.\n\nIn the economy, ELSTAT reported a marginal easing of inflation to 5.2% in May, though with sharp rises in food, rents and fuel. The labor market shows signs of slowing, the state is tapping markets with a 10-year bond ahead of an ECB rate hike, and internationally China's plan to invest $295bn in artificial intelligence stands out.\n\nAbroad, Middle East escalation among Iran, the US and Israel continues, with the Strait of Hormuz closure pressuring oil markets and Erdogan sharpening his rhetoric over Syria, Lebanon and Cyprus. A night of anti-migrant violence in Belfast and the deadly magnitude-7.8 earthquake in the Philippines round out the international news.\n\nIn society and culture, a Kathimerini exposé sheds light on a town-planning corruption ring, while Greece is named country of honor at Cannes' Marché du Film for 2027."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Συνταγματική αναθεώρηση & πολιτική αναδιάταξη",
+        "en": "Constitutional revision & political realignment"
+      },
+      "description": {
+        "el": "Συγκροτήθηκε η Επιτροπή Αναθεώρησης του Συντάγματος με προθεσμία δύο μηνών, εν μέσω προεκλογικού κλίματος, αποχωρήσεων προς το νέο κόμμα Τσίπρα και επικείμενης ίδρυσης κόμματος από τον Σαμαρά.",
+        "en": "Parliament formed the Constitutional Revision Committee with a two-month deadline, amid a pre-electoral climate, defections to Tsipras's new party and Samaras's looming party launch."
+      },
+      "related_items": [
+        "b20c643eebbc",
+        "09c4488c404c",
+        "9c249272b3cd",
+        "cf6b3277f6f0",
+        "4dcb611a6bc4"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Πληθωρισμός και πιέσεις στην οικονομία",
+        "en": "Inflation and economic pressures"
+      },
+      "description": {
+        "el": "Ο πληθωρισμός υποχώρησε οριακά στο 5,2% τον Μάιο με έντονες ανατιμήσεις σε τρόφιμα και ενέργεια, ενώ η αγορά εργασίας επιβραδύνεται και το Δημόσιο βγαίνει στις αγορές με 10ετές ομόλογο.",
+        "en": "Inflation eased marginally to 5.2% in May with sharp food and energy increases, while the labor market slows and the state taps markets with a 10-year bond."
+      },
+      "related_items": [
+        "75f8fc07ea7c",
+        "a7fbfd7e6897",
+        "e2b5142d0d93",
+        "bcfa1b434d19"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Κλιμάκωση στη Μέση Ανατολή",
+        "en": "Middle East escalation"
+      },
+      "description": {
+        "el": "Συνεχίζεται η ένταση μεταξύ Ιράν, ΗΠΑ και Ισραήλ, με το κλείσιμο του Ορμούζ να πιέζει την αγορά πετρελαίου και τον Ερντογάν να κλιμακώνει τη ρητορική για Συρία, Λίβανο και Κύπρο.",
+        "en": "Tensions persist among Iran, the US and Israel, with the Hormuz closure straining oil markets and Erdogan escalating rhetoric over Syria, Lebanon and Cyprus."
+      },
+      "related_items": [
+        "7bee9e6a3275",
+        "818189dc73ac",
+        "a6d0bc2f7480",
+        "56583ea22f0e"
+      ],
+      "importance": 66
+    },
+    {
+      "name": {
+        "el": "Αντιμεταναστευτική βία στο Μπέλφαστ",
+        "en": "Anti-migrant violence in Belfast"
+      },
+      "description": {
+        "el": "Νύχτα βίας με πυρπολήσεις και επιθέσεις σε μετανάστες συγκλόνισε το Μπέλφαστ, με τη βρετανική κυβέρνηση να κατηγορεί τον Έλον Μασκ ότι υποδαύλισε την ένταση.",
+        "en": "A night of arson and attacks on migrants shook Belfast, with the British government accusing Elon Musk of inflaming the tensions."
+      },
+      "related_items": [
+        "77e44b1e39d7",
+        "e05af6b46757"
+      ],
+      "importance": 62
+    }
+  ],
+  "article_count": 81,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "09c4488c404c",
+          "title": "Πρεμιέρα στη μάχη τού Συντάγματος",
+          "url": "https://www.kathimerini.gr/politics/parliament/564274708/premiera-sti-machi-toy-syntagmatos/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T06:58:02+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Ξεκινά σήμερα στη Βουλή η συζήτηση για τη σύσταση της Επιτροπής Αναθεώρησης του Συντάγματος, με τον Μάκη Βορίδη να αναλαμβάνει την προεδρία από πλευράς ΝΔ. Σε φορτισμένο, προεκλογικό κλίμα δεν αναμένεται συναίνεση στα άρθρα της πλειοψηφίας.",
+            "en": "Parliament begins debating the formation of the Constitutional Revision Committee, with Makis Voridis set to chair it for New Democracy. In a charged, pre-electoral climate, no consensus is expected on the articles the majority will propose."
+          },
+          "tags": {
+            "el": [
+              "Σύνταγμα",
+              "αναθεώρηση",
+              "Βουλή",
+              "Βορίδης"
+            ],
+            "en": [
+              "constitution",
+              "revision",
+              "parliament",
+              "Voridis"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "8d95301f3171",
+          "title": "Ανοιχτοί δίαυλοι με τη Λιβύη",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564274729/anoichtoi-diayloi-me-ti-livyi/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T07:42:00+00:00",
+          "category": "politics",
+          "importance": 67,
+          "summary": {
+            "el": "Η υφυπουργός Εξωτερικών Αλεξάνδρα Παπαδοπούλου επισκέφθηκε την Τρίπολη, όπου διεξάγεται ο δεύτερος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών Ελλάδας-Λιβύης. Στόχος η διατήρηση των επαφών και με τις δύο πλευρές της Λιβύης, χωρίς προσδοκίες για ουσιαστικές εξελίξεις.",
+            "en": "Deputy FM Alexandra Papadopoulou visited Tripoli for a second round of technical talks on delimiting Greek-Libyan maritime zones. Athens aims to keep channels open with both Libyan governments while tempering expectations of a breakthrough."
+          },
+          "tags": {
+            "el": [
+              "Λιβύη",
+              "ΑΟΖ",
+              "εξωτερική πολιτική",
+              "Παπαδοπούλου"
+            ],
+            "en": [
+              "Libya",
+              "EEZ",
+              "foreign policy",
+              "maritime delimitation"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "b20c643eebbc",
+          "title": "Βουλή: Συγκροτήθηκε η Επιτροπή Αναθεώρησης του Συντάγματος",
+          "url": "https://www.kathimerini.gr/politics/564275545/voyli-sygkrotithike-i-epitropi-anatheorisis-toy-syntagmatos/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T09:53:36+00:00",
+          "category": "politics",
+          "importance": 66,
+          "summary": {
+            "el": "Η Ολομέλεια της Βουλής συγκρότησε την Επιτροπή Αναθεώρησης του Συντάγματος, μετά την πρόταση του προέδρου της ΝΔ και 154 βουλευτών. Αποφασίστηκε κατά πλειοψηφία προθεσμία δύο μηνών για την υποβολή της έκθεσης.",
+            "en": "Parliament's plenary formally established the Constitutional Revision Committee following a proposal by the ND leader and 154 MPs. It set a two-month deadline, by majority vote, for the committee to submit its report."
+          },
+          "tags": {
+            "el": [
+              "Σύνταγμα",
+              "Βουλή",
+              "Επιτροπή Αναθεώρησης",
+              "ΝΔ"
+            ],
+            "en": [
+              "constitution",
+              "parliament",
+              "revision committee",
+              "New Democracy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "6689106bffe3",
+          "title": "Προστασία υποδομών από υβριδικές επιθέσεις",
+          "url": "https://www.kathimerini.gr/visual/infographics/564272353/prostasia-ypodomon-apo-yvridikes-epitheseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T19:45:13+00:00",
+          "category": "politics",
+          "importance": 62,
+          "summary": {
+            "el": "Η κυβέρνηση προωθεί εθνικό σχέδιο προστασίας κρίσιμων υποδομών από υβριδικές και κυβερνοαπειλές, με επίκεντρο την ενέργεια. Κεντρικός πυλώνας θα είναι νέα Γενική Γραμματεία υπό το υπουργείο Προστασίας του Πολίτη, σε εκπλήρωση και ευρωπαϊκής υποχρέωσης (οδηγία CER).",
+            "en": "The government is advancing a national plan to protect critical infrastructure from hybrid and cyber threats, centered on energy. A new General Secretariat under the Citizen Protection ministry will coordinate it, fulfilling an EU obligation under the CER directive."
+          },
+          "tags": {
+            "el": [
+              "κρίσιμες υποδομές",
+              "κυβερνοασφάλεια",
+              "υβριδικές απειλές",
+              "ενέργεια"
+            ],
+            "en": [
+              "critical infrastructure",
+              "cybersecurity",
+              "hybrid threats",
+              "energy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "57ef0db048b6",
+          "title": "Υποκλοπές: Προς συνεδρίαση της Επιτροπής Θεσμών",
+          "url": "https://www.kathimerini.gr/politics/564274723/ypoklopes-pros-synedriasi-tis-epitropis-thesmon/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T07:25:20+00:00",
+          "category": "politics",
+          "importance": 60,
+          "summary": {
+            "el": "Ανοίγει ο δρόμος για κλήση των Ταλ Ντίλιαν και Γρηγόρη Δημητριάδη στην Επιτροπή Θεσμών και Διαφάνειας για την υπόθεση των υποκλοπών, μετά από αίτημα του ΣΥΡΙΖΑ. Στη λίστα και ο πρώην διοικητής της ΕΥΠ Π. Κοντολέων.",
+            "en": "The path opens for Tal Dilian and Grigoris Dimitriadis to be summoned before Parliament's Institutions and Transparency Committee over the wiretapping affair, after a SYRIZA request. The list also includes former intelligence chief P. Kontoleon."
+          },
+          "tags": {
+            "el": [
+              "υποκλοπές",
+              "Predator",
+              "Επιτροπή Θεσμών",
+              "ΣΥΡΙΖΑ"
+            ],
+            "en": [
+              "wiretaps",
+              "Predator",
+              "institutions committee",
+              "SYRIZA"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "a32daafd8534",
+          "title": "Η Κίνα επενδύει 295 δισ. δολ. για να κυριαρχήσει στην AI",
+          "url": "https://www.kathimerini.gr/economy/international/564275155/i-kina-ependyei-295-dis-dol-gia-na-kyriarchisei-stin-ai/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T08:26:00+00:00",
+          "category": "economy",
+          "importance": 72,
+          "summary": {
+            "el": "Η Κίνα σχεδιάζει να δαπανήσει περίπου 295 δισ. δολάρια την επόμενη πενταετία για ένα εθνικό δίκτυο κέντρων δεδομένων τεχνητής νοημοσύνης, με στόχο να ξεπεράσει τις ΗΠΑ. Θα βασιστεί κατά 80% σε εγχώριους προμηθευτές όπως η Huawei, αποκλείοντας Nvidia και AMD.",
+            "en": "China plans to spend about $295bn over five years on a national network of AI data centers, aiming to surpass the US. It will rely on domestic suppliers like Huawei for at least 80% of the technology, effectively shutting out Nvidia and AMD."
+          },
+          "tags": {
+            "el": [
+              "Κίνα",
+              "τεχνητή νοημοσύνη",
+              "κέντρα δεδομένων",
+              "Huawei"
+            ],
+            "en": [
+              "China",
+              "artificial intelligence",
+              "data centers",
+              "Huawei"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "75f8fc07ea7c",
+          "title": "ΕΛΣΤΑΤ: Στο 5,2% ο πληθωρισμός τον Μάιο",
+          "url": "https://www.kathimerini.gr/economy/564275827/elstat-sto-5-2-o-plithorismos-ton-maio/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T13:03:57+00:00",
+          "category": "economy",
+          "importance": 70,
+          "summary": {
+            "el": "Ο πληθωρισμός υποχώρησε ελαφρά στο 5,2% τον Μάιο, από 5,4% τον Απρίλιο, σύμφωνα με την ΕΛΣΤΑΤ. Ξεχωρίζουν μεγάλες ανατιμήσεις σε κρέατα, ενοίκια (7,7%), καύσιμα και ενέργεια, με το πετρέλαιο θέρμανσης στο +53,2%.",
+            "en": "Inflation eased slightly to 5.2% in May from 5.4% in April, according to ELSTAT. Standout increases hit meat, rents (7.7%), fuel and energy, with heating oil up 53.2%."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "ΕΛΣΤΑΤ",
+              "ακρίβεια",
+              "καύσιμα"
+            ],
+            "en": [
+              "inflation",
+              "ELSTAT",
+              "cost of living",
+              "fuel"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "a6d0bc2f7480",
+          "title": "«Διαρροή» αργού από το Ορμούζ απέτρεψε ένα μεγάλο σοκ τιμών",
+          "url": "https://www.kathimerini.gr/economy/international/564275203/diarroi-argoy-apo-to-ormoyz-apetrepse-ena-megalo-sok-timon/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T07:04:05+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Παρά το τρίμηνο κλείσιμο των Στενών του Ορμούζ λόγω του πολέμου στο Ιράν, οι τιμές πετρελαίου δεν εκτινάχθηκαν. Η JP Morgan εκτιμά ότι «αόρατα» τάνκερ μεταφέρουν έως και 2,1 εκατ. βαρέλια ημερησίως, αποφεύγοντας τον αποκλεισμό απενεργοποιώντας τους αναμεταδότες.",
+            "en": "Despite a three-month closure of the Strait of Hormuz amid the Iran war, oil prices have not spiked. JP Morgan estimates that 'invisible' tankers move up to 2.1m barrels a day, evading the blockade by switching off their transponders."
+          },
+          "tags": {
+            "el": [
+              "πετρέλαιο",
+              "Ορμούζ",
+              "Ιράν",
+              "ενέργεια"
+            ],
+            "en": [
+              "oil",
+              "Strait of Hormuz",
+              "Iran",
+              "energy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "a7fbfd7e6897",
+          "title": "Νέα έξοδος της Ελλάδας στις αγορές, με 10ετές ομόλογο",
+          "url": "https://www.kathimerini.gr/economy/564275338/nea-exodos-tis-elladas-stis-agores-me-10etes-omologo-2/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T08:04:42+00:00",
+          "category": "economy",
+          "importance": 64,
+          "summary": {
+            "el": "Το ελληνικό Δημόσιο βγαίνει στις αγορές με επανέκδοση 10ετούς ομολόγου λήξης 2036, δύο ημέρες πριν την πρώτη φετινή αύξηση επιτοκίων από την ΕΚΤ. Στόχος δεν είναι τόσο η ρευστότητα όσο η ενίσχυση της καμπύλης των ελληνικών τίτλων.",
+            "en": "The Greek state is tapping markets with a re-issue of a 10-year bond maturing in 2036, two days before the ECB's first rate hike of the year. The aim is less to raise liquidity than to strengthen the Greek yield curve."
+          },
+          "tags": {
+            "el": [
+              "ομόλογο",
+              "ΟΔΔΗΧ",
+              "αγορές",
+              "ΕΚΤ"
+            ],
+            "en": [
+              "bond",
+              "debt agency",
+              "markets",
+              "ECB"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7c6d7f66da27",
+          "title": "Οι Συν-Ερευνητές της Τ.Ν. και ο ρόλος του ανθρώπου",
+          "url": "https://www.kathimerini.gr/economy/564269254/oi-syn-ereynites-tis-t-n-kai-o-rolos-toy-anthropoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T21:48:34+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Το περιοδικό Nature παρουσίασε δύο νέα συστήματα τεχνητής νοημοσύνης, το Co-Scientist της Google DeepMind και το Robin της FutureHouse, που λειτουργούν ως «Συν-Ερευνητές». Μπορούν να διατυπώνουν επιστημονικές υποθέσεις και να αναλύουν δεδομένα, μειώνοντας δραματικά τον χρόνο των ανακαλύψεων.",
+            "en": "The journal Nature unveiled two new AI systems, Google DeepMind's Co-Scientist and FutureHouse's Robin, acting as 'co-researchers.' They can formulate scientific hypotheses and analyze data, dramatically cutting the time to discovery."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Nature",
+              "έρευνα",
+              "DeepMind"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Nature",
+              "research",
+              "DeepMind"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "adeb14d404ab",
+          "title": "Αποκάλυψη «Κ»: Καρέ καρέ η δράση του κυκλώματος στις πολεοδομίες",
+          "url": "https://www.kathimerini.gr/society/564275986/apokalypsi-k-kare-kare-i-drasi-toy-kyklomatos-stis-poleodomies/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T14:02:58+00:00",
+          "category": "society",
+          "importance": 62,
+          "summary": {
+            "el": "Αποκλειστικές φωτογραφίες της «Κ» φωτίζουν τη δράση κυκλώματος διαφθοράς και χρηματισμού στις πολεοδομίες. Σύμφωνα με τη δικογραφία, υπάλληλοι εισέπρατταν χρήματα σε φακέλους και κουτιά γλυκών για να ξεπαγώνουν άδειες και να διαγράφουν πρόστιμα.",
+            "en": "Exclusive Kathimerini photos shed light on a bribery and corruption ring in town-planning offices. According to the case file, officials took cash in envelopes and boxes of sweets to unblock permits and erase fines."
+          },
+          "tags": {
+            "el": [
+              "πολεοδομίες",
+              "διαφθορά",
+              "χρηματισμός",
+              "δικογραφία"
+            ],
+            "en": [
+              "town planning",
+              "corruption",
+              "bribery",
+              "case file"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "c0e51ef6f99f",
+          "title": "Εγκλημα στην Αιγιάλεια: Δίωξη για ανθρωποκτονία κατά του 65χρονου Ιταλού",
+          "url": "https://www.kathimerini.gr/society/564275794/dimoglidoy-gia-egklima-stin-aigialeia-dioxi-gia-anthropoktonia-kata-toy-65chronoy-italoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T12:35:08+00:00",
+          "category": "society",
+          "importance": 50,
+          "summary": {
+            "el": "Δίωξη για ανθρωποκτονία ασκήθηκε κατά του 65χρονου Ιταλού στην υπόθεση του διπλού φόνου στην Αιγιάλεια, λόγω αντιφάσεων στην κατάθεσή του. Κατηγορείται για τις δολοφονίες της 54χρονης συντρόφου του και του 26χρονου γιου της και αρνείται κάθε εμπλοκή.",
+            "en": "The 65-year-old Italian in the Aigialeia double-murder case faces homicide charges over contradictions in his statement. He is accused of killing his 54-year-old partner and her 26-year-old son and denies any involvement."
+          },
+          "tags": {
+            "el": [
+              "έγκλημα",
+              "Αιγιάλεια",
+              "ανθρωποκτονία",
+              "ΕΛΑΣ"
+            ],
+            "en": [
+              "crime",
+              "Aigialeia",
+              "homicide",
+              "police"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "0bb637baf474",
+          "title": "Γιατί χρειαζόμαστε «σπουδές φύλου» και στην Ελλάδα",
+          "url": "https://www.kathimerini.gr/society/564269017/giati-chreiazomaste-spoydes-fyloy-kai-stin-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T12:16:47+00:00",
+          "category": "society",
+          "importance": 46,
+          "summary": {
+            "el": "Το πρώτο πανεπιστημιακό τμήμα «Σπουδών φύλου» ιδρύεται στην Ελλάδα, στο Πανεπιστήμιο Αιγαίου, σε εποχή σφοδρής πόλωσης γύρω από το αντικείμενο διεθνώς. Στόχος η μελέτη ανισοτήτων που παράγονται από έμφυλες σχέσεις.",
+            "en": "Greece's first university gender-studies department is being founded at the University of the Aegean, at a time of intense international polarization over the field. Its aim is to study inequalities produced by gender relations."
+          },
+          "tags": {
+            "el": [
+              "σπουδές φύλου",
+              "πανεπιστήμιο",
+              "ισότητα"
+            ],
+            "en": [
+              "gender studies",
+              "university",
+              "equality"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "102544371df1",
+          "title": "Εγκλημα στην Αιγιάλεια: «Κλειδί» τα ευρήματα στη μονοκατοικία και το πόρισμα του ιατροδικαστή",
+          "url": "https://www.kathimerini.gr/society/564275539/egklima-stin-aigialeia-kleidi-ta-eyrimata-sti-monokatoikia-kai-to-porisma-toy-iatrodikasti/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T09:51:35+00:00",
+          "category": "society",
+          "importance": 44,
+          "summary": {
+            "el": "Στην υπόθεση του διπλού φόνου στον Λόγγο Αιγίου, οι αρχές αναμένουν τα αποτελέσματα των εγκληματολογικών εργαστηρίων και το ιατροδικαστικό πόρισμα για τον ακριβή χρόνο και τις συνθήκες θανάτου. Ο 65χρονος Ιταλός παραμένει αρνητής, συλληφθείς για οπλοκατοχή.",
+            "en": "In the Logos-Aigio double-murder case, authorities await forensic lab results and the coroner's report on the time and circumstances of death. The 65-year-old Italian, arrested for illegal weapons possession, continues to deny involvement."
+          },
+          "tags": {
+            "el": [
+              "έγκλημα",
+              "Αίγιο",
+              "ιατροδικαστής",
+              "έρευνα"
+            ],
+            "en": [
+              "crime",
+              "Aigio",
+              "coroner",
+              "investigation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "20fcf0a15d85",
+          "title": "ΕΦΕΤ: Ανάκληση καπνιστής πέστροφας λόγω παθογόνου μικροοργανισμού",
+          "url": "https://www.kathimerini.gr/society/564275905/efet-anaklisi-kapnistis-pestrofas-logo-pathogonoy-mikroorganismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T13:45:41+00:00",
+          "category": "society",
+          "importance": 42,
+          "summary": {
+            "el": "Ο ΕΦΕΤ ανακάλεσε παρτίδα καπνιστής μαριναρισμένης πέστροφας λόγω ανίχνευσης του παθογόνου Listeria monocytogenes. Το προϊόν παράγεται στην Ελλάδα και η ανάκληση έγινε στο πλαίσιο ελέγχων μικροβιολογικών κριτηρίων ασφάλειας τροφίμων.",
+            "en": "Greece's food safety authority (EFET) recalled a batch of smoked marinated trout after detecting the pathogen Listeria monocytogenes. The Greek-made product was withdrawn during routine microbiological safety checks."
+          },
+          "tags": {
+            "el": [
+              "ΕΦΕΤ",
+              "ανάκληση",
+              "Listeria",
+              "τρόφιμα"
+            ],
+            "en": [
+              "food safety",
+              "recall",
+              "Listeria",
+              "food"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "af6364ce8578",
+          "title": "Φιλιππίνες: Πλησιάζουν τους 50 οι νεκροί του μεγάλου σεισμού των 7,8 βαθμών [εικόνες]",
+          "url": "https://www.kathimerini.gr/world/564275443/filippines-plisiazoyn-toys-50-oi-nekroi-toy-megaloy-seismoy-ton-7-8-vathmon-eikones/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T09:33:02+00:00",
+          "category": "world",
+          "importance": 66,
+          "summary": {
+            "el": "Ο απολογισμός του σεισμού των 7,8 βαθμών στις Φιλιππίνες πλησιάζει τους 50 νεκρούς και εκατοντάδες τραυματίες, με τα συνεργεία να αναζητούν αγνοούμενους. Ο σεισμός σημειώθηκε ανοιχτά του νησιού Μιντανάο, προκαλώντας καταρρεύσεις και κατολισθήσεις.",
+            "en": "The death toll from the magnitude 7.8 earthquake in the Philippines is nearing 50, with hundreds injured and crews searching for the missing. The quake struck off Mindanao, causing building collapses and landslides."
+          },
+          "tags": {
+            "el": [
+              "Φιλιππίνες",
+              "σεισμός",
+              "καταστροφή"
+            ],
+            "en": [
+              "Philippines",
+              "earthquake",
+              "disaster"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "56583ea22f0e",
+          "title": "Ερντογάν: Κλιμακώνει τη ρητορική για Ισραήλ και Κύπρο – «Κάποιοι προσπαθούν να πυροδοτήσουν διχόνοια στο νησί»",
+          "url": "https://www.kathimerini.gr/world/564275833/erntogan-oi-epitheseis-toy-israil-se-syria-kai-livano-echoyn-ftasei-na-apeiloyn-tin-toyrkia/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T13:13:12+00:00",
+          "category": "world",
+          "importance": 62,
+          "summary": {
+            "el": "Ο Τούρκος πρόεδρος Ερντογάν κλιμακώνει τη ρητορική, υποστηρίζοντας ότι οι επιθέσεις του Ισραήλ σε Συρία και Λίβανο απειλούν την Τουρκία. Προειδοποίησε και για «προκλητικές κινήσεις υπό την ηγεσία του Ισραήλ» στη Μεσόγειο και την Κύπρο.",
+            "en": "Turkish President Erdogan is escalating his rhetoric, claiming Israeli strikes on Syria and Lebanon threaten Turkey. He also warned of 'provocative, Israeli-led moves' in the Mediterranean and Cyprus."
+          },
+          "tags": {
+            "el": [
+              "Ερντογάν",
+              "Τουρκία",
+              "Ισραήλ",
+              "Κύπρος"
+            ],
+            "en": [
+              "Erdogan",
+              "Turkey",
+              "Israel",
+              "Cyprus"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "77e44b1e39d7",
+          "title": "Νύχτα αντιμεταναστευτικής βίας στο Μπέλφαστ: Πυρπολήσεις σπιτιών και Ι.Χ. – «Φυλετικό πογκρόμ»",
+          "url": "https://www.kathimerini.gr/world/564275614/nychta-antimetanasteytikis-vias-sto-mpelfast-pyrpoliseis-spition-kai-i-ch-fyletiko-pogkrom/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T11:34:34+00:00",
+          "category": "world",
+          "importance": 62,
+          "summary": {
+            "el": "Νύχτα αντιμεταναστευτικής βίας σημάδεψε το Μπέλφαστ, με πυρπολήσεις σπιτιών και αυτοκινήτων, επιθέσεις σε μετανάστες και βίαιη φυγή οικογενειών. Τα επεισόδια πυροδοτήθηκαν από τη σύλληψη Σουδανού για επίθεση με μαχαίρι· χαρακτηρίστηκαν «φυλετικό πογκρόμ».",
+            "en": "A night of anti-migrant violence gripped Belfast, with homes and cars torched, attacks on migrants and families fleeing. The unrest, sparked by the arrest of a Sudanese man over a stabbing, was described as a 'racial pogrom.'"
+          },
+          "tags": {
+            "el": [
+              "Μπέλφαστ",
+              "βία",
+              "μετανάστες",
+              "ταραχές"
+            ],
+            "en": [
+              "Belfast",
+              "violence",
+              "migrants",
+              "riots"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "818189dc73ac",
+          "title": "CNN: Οι νέοι ηγέτες του Ιράν ρισκάρουν περισσότερο από τους προκατόχους τους",
+          "url": "https://www.kathimerini.gr/world/564275521/cnn-oi-neoi-igetes-toy-iran-riskaroyn-perissotero-apo-toys-prokatochoys-toys/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T10:09:32+00:00",
+          "category": "world",
+          "importance": 60,
+          "summary": {
+            "el": "Ανάλυση του CNN υποστηρίζει ότι οι νέοι ηγέτες του Ιράν ακολουθούν πιο επιθετική και λιγότερο συγκρατημένη στρατηγική, απομακρυνόμενοι από τις έμμεσες συγκρούσεις μέσω πληρεξουσίων. Οι πρόσφατες επιθέσεις κατά του Ισραήλ επανακαθορίζουν τα «όρια εμπλοκής».",
+            "en": "A CNN analysis argues Iran's new leaders are pursuing a more aggressive, less restrained strategy, moving away from proxy conflicts. Recent attacks on Israel signal Tehran is redefining its 'rules of engagement.'"
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "Ισραήλ",
+              "CNN",
+              "Μέση Ανατολή"
+            ],
+            "en": [
+              "Iran",
+              "Israel",
+              "CNN",
+              "Middle East"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "7bee9e6a3275",
+          "title": "Ιράν: ΗΠΑ και Ισραήλ υπονομεύουν τη διπλωματία",
+          "url": "https://www.kathimerini.gr/world/564275698/antipoina-toy-iran-kai-apeiles-kata-choron-toy-kolpoy-meta-ta-pligmata-ton-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T11:45:41+00:00",
+          "category": "world",
+          "importance": 60,
+          "summary": {
+            "el": "Συνεχίζεται η κλιμάκωση στη Μέση Ανατολή, με το Ιράν να ανακοινώνει ότι η διπλωματία με τις ΗΠΑ δεν μπορεί να προχωρήσει όσο παραβιάζεται η εκεχειρία. Η Τεχεράνη κατηγορεί ΗΠΑ και Ισραήλ ότι υπονομεύουν τη διπλωματία.",
+            "en": "Middle East escalation continues, with Iran announcing that diplomacy with the US cannot proceed while the ceasefire is violated. Tehran accuses both the US and Israel of undermining diplomacy."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "διπλωματία",
+              "εκεχειρία"
+            ],
+            "en": [
+              "Iran",
+              "USA",
+              "diplomacy",
+              "ceasefire"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "id": "150a882b4641",
+          "title": "Τα βάρη των πολεοδομιών",
+          "url": "https://www.kathimerini.gr/opinion/564272290/ta-vari-ton-poleodomion/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:14:00+00:00",
+          "category": "opinion",
+          "importance": 50,
+          "summary": {
+            "el": "Σε κύριο άρθρο, η «Κ» σημειώνει ότι οι πολεοδομίες υπήρξαν εστίες διαφθοράς για δεκαετίες, ανεξαρτήτως φορέα εποπτείας. Υποστηρίζει ότι υπάρχουν πλέον τα μέσα για τον ψηφιακό εκσυγχρονισμό αυτών των νευραλγικών υπηρεσιών.",
+            "en": "In an editorial, Kathimerini notes town-planning offices have been hotbeds of corruption for decades, regardless of who oversees them. It argues the tools now exist to digitally modernize these critical services."
+          },
+          "tags": {
+            "el": [
+              "κύριο άρθρο",
+              "πολεοδομίες",
+              "διαφθορά",
+              "ψηφιοποίηση"
+            ],
+            "en": [
+              "editorial",
+              "town planning",
+              "corruption",
+              "digitization"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "bc577b671e25",
+          "title": "Oι Ισραηλινοί τουρίστες και οι τρομοκράτες",
+          "url": "https://www.kathimerini.gr/opinion/564272539/oi-israilinoi-toyristes-kai-oi-tromokrates/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:04:00+00:00",
+          "category": "opinion",
+          "importance": 48,
+          "summary": {
+            "el": "Ο Σάκης Μουμτζής επικρίνει όσους στην Ελλάδα στοχοποιούν Ισραηλινούς τουρίστες ενώ υπερασπίζονται Παλαιστίνιους. Αναφέρεται στη σύλληψη 37χρονου Παλαιστίνιου, καθ' ομολογίαν ενόχου, με φερόμενη σχέση με τη Χαμάς.",
+            "en": "Sakis Moumtzis criticizes those in Greece who target Israeli tourists while defending Palestinians. He cites the arrest of a 37-year-old Palestinian, a self-confessed culprit, with alleged ties to Hamas."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "Ισραήλ",
+              "τρομοκρατία",
+              "Χαμάς"
+            ],
+            "en": [
+              "opinion",
+              "Israel",
+              "terrorism",
+              "Hamas"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "4dcb611a6bc4",
+          "title": "Οχι σε καφενείο, σε σωσίβια λέμβο",
+          "url": "https://www.kathimerini.gr/opinion/564272554/ochi-se-kafeneio-se-sosivia-lemvo/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:06:00+00:00",
+          "category": "opinion",
+          "importance": 46,
+          "summary": {
+            "el": "Ο Νίκος Κωνσταντάρας σχολιάζει ότι με την προσχώρηση των αριστερών κομμάτων στο άρμα του Τσίπρα το πολιτικό σύστημα γίνεται πιο προσωποπαγές. Παρατηρεί ότι μόνο ΝΔ, ΠΑΣΟΚ και ΚΚΕ παραμένουν μηχανισμοί συλλογικής δράσης.",
+            "en": "Nikos Konstandaras argues that as left-wing parties hitch themselves to Tsipras, the political system grows more leader-centric. He notes only ND, PASOK and the KKE remain mechanisms of collective action."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "κόμματα",
+              "Τσίπρας",
+              "πολιτική"
+            ],
+            "en": [
+              "opinion",
+              "parties",
+              "Tsipras",
+              "politics"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "9372936da831",
+          "title": "Μας ήρθε κι η Χαμάς",
+          "url": "https://www.kathimerini.gr/opinion/564272719/mas-irthe-ki-i-chamas/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:13:00+00:00",
+          "category": "opinion",
+          "importance": 46,
+          "summary": {
+            "el": "Ο Τάκης Θεοδωρόπουλος προειδοποιεί ότι η Ελλάδα εσφαλμένα θεωρεί ότι η παλαιστινιακή τρομοκρατία δεν την αφορά. Με αφορμή τη σύλληψη του τρομοκράτη που φέρεται να σχεδίαζε επίθεση σε κρουαζιερόπλοιο, κρίνει τις στάσεις φιλοξενίας προς τη Χαμάς.",
+            "en": "Takis Theodoropoulos warns that Greece wrongly assumes Palestinian terrorism does not concern it. Citing the arrest of a man allegedly planning to attack a cruise ship, he criticizes sympathetic attitudes toward Hamas."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "τρομοκρατία",
+              "Χαμάς",
+              "ασφάλεια"
+            ],
+            "en": [
+              "opinion",
+              "terrorism",
+              "Hamas",
+              "security"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "5573b5778e99",
+          "title": "Οι επισυνδέσεις του κ. Τσίπρα",
+          "url": "https://www.kathimerini.gr/opinion/564272536/oi-episyndeseis-toy-k-tsipra/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:07:00+00:00",
+          "category": "opinion",
+          "importance": 45,
+          "summary": {
+            "el": "Ο Πάσχος Μανδραβέλης αμφισβητεί την αξιοπιστία των καταγγελιών της Ζωής Κωνσταντοπούλου για παρακολουθήσεις, που εμπλέκουν τον Τσίπρα και τον Μητσοτάκη. Θέτει ερωτήματα για την επιλεκτική υιοθέτηση ισχυρισμών στη δημόσια συζήτηση.",
+            "en": "Paschos Mandravelis questions the credibility of Zoi Konstantopoulou's wiretapping claims implicating both Tsipras and Mitsotakis. He probes the selective adoption of such allegations in public debate."
+          },
+          "tags": {
+            "el": [
+              "άποψη",
+              "υποκλοπές",
+              "Κωνσταντοπούλου",
+              "πολιτική"
+            ],
+            "en": [
+              "opinion",
+              "wiretaps",
+              "Konstantopoulou",
+              "politics"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "f4895d3134b7",
+          "title": "Φεστιβάλ Καννών: Η Ελλάδα τιμώμενη χώρα του Marché du Film το 2027",
+          "url": "https://www.kathimerini.gr/culture/cinema/564275914/festival-kannon-i-ellada-timomeni-chora-toy-marche-du-film-to-2027/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T13:51:46+00:00",
+          "category": "culture",
+          "importance": 52,
+          "summary": {
+            "el": "Η Ελλάδα θα είναι η τιμώμενη χώρα στο Marché du Film του Φεστιβάλ Καννών το 2027, τη μεγαλύτερη κινηματογραφική αγορά στον κόσμο. Η διοργάνωση θα διεξαχθεί 11-19 Μαΐου 2027.",
+            "en": "Greece will be the country of honor at the Cannes Film Festival's Marché du Film in 2027, the world's largest film market. The event will run May 11-19, 2027."
+          },
+          "tags": {
+            "el": [
+              "Κάννες",
+              "κινηματογράφος",
+              "Ελλάδα",
+              "φεστιβάλ"
+            ],
+            "en": [
+              "Cannes",
+              "cinema",
+              "Greece",
+              "festival"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "31396126421c",
+          "title": "Νέο ντοκιμαντέρ για τα Γλυπτά του Παρθενώνα",
+          "url": "https://www.kathimerini.gr/culture/564272602/neo-ntokimanter-gia-ta-glypta-toy-parthenona/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:34:48+00:00",
+          "category": "culture",
+          "importance": 50,
+          "summary": {
+            "el": "Νέο δραματοποιημένο ντοκιμαντέρ με τίτλο «Η γυναίκα πίσω από τον Έλγιν» έκανε πρεμιέρα απέναντι από την Ακρόπολη, φωτίζοντας την αρπαγή των Γλυπτών του Παρθενώνα μέσα από τις επιστολές της συζύγου του Έλγιν. Το προλόγισε ο διευθυντής του Μουσείου Ακρόπολης Ν. Σταμπολίδης.",
+            "en": "A new dramatized documentary, 'The Woman Behind Elgin,' premiered opposite the Acropolis, illuminating the looting of the Parthenon Marbles through letters by Elgin's wife. Acropolis Museum director N. Stampolidis introduced it."
+          },
+          "tags": {
+            "el": [
+              "Γλυπτά Παρθενώνα",
+              "Ακρόπολη",
+              "ντοκιμαντέρ",
+              "Έλγιν"
+            ],
+            "en": [
+              "Parthenon Marbles",
+              "Acropolis",
+              "documentary",
+              "Elgin"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "42bd1d7f5163",
+          "title": "Αντλώντας σύγχρονη έμπνευση από την κλασική σοφία",
+          "url": "https://www.kathimerini.gr/culture/564274918/antlontas-sygchroni-empneysi-apo-tin-klasiki-sofia/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T11:07:00+00:00",
+          "category": "culture",
+          "importance": 42,
+          "summary": {
+            "el": "Ξεκίνησε στην Αθήνα το 2ο Παγκόσμιο Συνέδριο Κλασικών Σπουδών, συνδιοργανωμένο από την Ακαδημία Αθηνών και την Κινεζική Ακαδημία Κοινωνικών Επιστημών. Θέμα του ο διάλογος παρελθόντος και παρόντος μέσα από την κλασική σοφία.",
+            "en": "The 2nd World Congress of Classical Studies opened in Athens, co-organized by the Academy of Athens and the Chinese Academy of Social Sciences. Its theme is the dialogue between past and present through classical wisdom."
+          },
+          "tags": {
+            "el": [
+              "κλασικές σπουδές",
+              "Ακαδημία Αθηνών",
+              "Κίνα",
+              "συνέδριο"
+            ],
+            "en": [
+              "classical studies",
+              "Academy of Athens",
+              "China",
+              "congress"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "c364734eb91f",
+          "title": "Μια συμβολική αλλαγή πορείας",
+          "url": "https://www.kathimerini.gr/culture/arts/564274924/mia-symvoliki-allagi-poreias/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T12:44:00+00:00",
+          "category": "culture",
+          "importance": 40,
+          "summary": {
+            "el": "Η καλλιτεχνική διευθύντρια του ΕΜΣΤ Κατερίνα Γρέγου παρουσίασε νέες εκθέσεις και απολογισμό της πενταετούς πορείας της, με πάνω από 60 εκθέσεις. Στο επίκεντρο και το φως του γλύπτη Γιώργου Λάππα, σε μια «συμβολική αλλαγή πορείας».",
+            "en": "EMST artistic director Katerina Gregou unveiled new exhibitions and a five-year review featuring over 60 shows. The light of sculptor Giorgos Lappas is central to what she calls a 'symbolic change of course.'"
+          },
+          "tags": {
+            "el": [
+              "ΕΜΣΤ",
+              "σύγχρονη τέχνη",
+              "έκθεση",
+              "Γρέγου"
+            ],
+            "en": [
+              "EMST",
+              "contemporary art",
+              "exhibition",
+              "Gregou"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "a6b034c38da3",
+          "title": "Ελλη Σολομωνίδου-Μπαλάνου (1931-2026): Αποτύπωσε με σκίτσα την αθηναϊκή καλλιτεχνική ζωή",
+          "url": "https://www.kathimerini.gr/culture/564274894/elli-solomonidoy-mpalanoy-1931-2026-apotypose-me-skitsa-tin-athinaiki-kallitechniki-zoi/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T08:45:00+00:00",
+          "category": "culture",
+          "importance": 40,
+          "summary": {
+            "el": "Πέθανε η Έλλη Σολομωνίδου-Μπαλάνου (1931-2026), που αποτύπωσε με τα σκίτσα της την αθηναϊκή καλλιτεχνική ζωή. Συνδέθηκε με την Ελένη Βλάχου και από το 1974 με την «Καθημερινή».",
+            "en": "Elli Solomonidou-Balanou (1931-2026) has died; she captured Athenian artistic life through her sketches. She was associated with Eleni Vlachou and, from 1974, with Kathimerini."
+          },
+          "tags": {
+            "el": [
+              "νεκρολογία",
+              "σκίτσα",
+              "Καθημερινή",
+              "τέχνη"
+            ],
+            "en": [
+              "obituary",
+              "sketches",
+              "Kathimerini",
+              "art"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "a32daafd8534",
+          "title": "Η Κίνα επενδύει 295 δισ. δολ. για να κυριαρχήσει στην AI",
+          "url": "https://www.kathimerini.gr/economy/international/564275155/i-kina-ependyei-295-dis-dol-gia-na-kyriarchisei-stin-ai/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T08:26:00+00:00",
+          "category": "economy",
+          "importance": 72,
+          "summary": {
+            "el": "Η Κίνα σχεδιάζει να δαπανήσει περίπου 295 δισ. δολάρια την επόμενη πενταετία για ένα εθνικό δίκτυο κέντρων δεδομένων τεχνητής νοημοσύνης, με στόχο να ξεπεράσει τις ΗΠΑ. Θα βασιστεί κατά 80% σε εγχώριους προμηθευτές όπως η Huawei, αποκλείοντας Nvidia και AMD.",
+            "en": "China plans to spend about $295bn over five years on a national network of AI data centers, aiming to surpass the US. It will rely on domestic suppliers like Huawei for at least 80% of the technology, effectively shutting out Nvidia and AMD."
+          },
+          "tags": {
+            "el": [
+              "Κίνα",
+              "τεχνητή νοημοσύνη",
+              "κέντρα δεδομένων",
+              "Huawei"
+            ],
+            "en": [
+              "China",
+              "artificial intelligence",
+              "data centers",
+              "Huawei"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "6689106bffe3",
+          "title": "Προστασία υποδομών από υβριδικές επιθέσεις",
+          "url": "https://www.kathimerini.gr/visual/infographics/564272353/prostasia-ypodomon-apo-yvridikes-epitheseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T19:45:13+00:00",
+          "category": "politics",
+          "importance": 62,
+          "summary": {
+            "el": "Η κυβέρνηση προωθεί εθνικό σχέδιο προστασίας κρίσιμων υποδομών από υβριδικές και κυβερνοαπειλές, με επίκεντρο την ενέργεια. Κεντρικός πυλώνας θα είναι νέα Γενική Γραμματεία υπό το υπουργείο Προστασίας του Πολίτη, σε εκπλήρωση και ευρωπαϊκής υποχρέωσης (οδηγία CER).",
+            "en": "The government is advancing a national plan to protect critical infrastructure from hybrid and cyber threats, centered on energy. A new General Secretariat under the Citizen Protection ministry will coordinate it, fulfilling an EU obligation under the CER directive."
+          },
+          "tags": {
+            "el": [
+              "κρίσιμες υποδομές",
+              "κυβερνοασφάλεια",
+              "υβριδικές απειλές",
+              "ενέργεια"
+            ],
+            "en": [
+              "critical infrastructure",
+              "cybersecurity",
+              "hybrid threats",
+              "energy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7c6d7f66da27",
+          "title": "Οι Συν-Ερευνητές της Τ.Ν. και ο ρόλος του ανθρώπου",
+          "url": "https://www.kathimerini.gr/economy/564269254/oi-syn-ereynites-tis-t-n-kai-o-rolos-toy-anthropoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T21:48:34+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Το περιοδικό Nature παρουσίασε δύο νέα συστήματα τεχνητής νοημοσύνης, το Co-Scientist της Google DeepMind και το Robin της FutureHouse, που λειτουργούν ως «Συν-Ερευνητές». Μπορούν να διατυπώνουν επιστημονικές υποθέσεις και να αναλύουν δεδομένα, μειώνοντας δραματικά τον χρόνο των ανακαλύψεων.",
+            "en": "The journal Nature unveiled two new AI systems, Google DeepMind's Co-Scientist and FutureHouse's Robin, acting as 'co-researchers.' They can formulate scientific hypotheses and analyze data, dramatically cutting the time to discovery."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Nature",
+              "έρευνα",
+              "DeepMind"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Nature",
+              "research",
+              "DeepMind"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "4a93395c1f8c",
+          "title": "Ουκρανικά drones έπληξαν μουσείο στην Κριμαία – Επιθέσεις και στη Μαριούπολη",
+          "url": "https://www.kathimerini.gr/world/564275623/oykranika-drones-eplixan-moyseio-stin-krimaia-epitheseis-kai-sti-marioypoli/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T11:00:22+00:00",
+          "category": "world",
+          "importance": 55,
+          "summary": {
+            "el": "Ουκρανικά drones έπληξαν ιστορικό μουσείο στη Σεβαστούπολη της προσαρτημένης Κριμαίας, τυλίγοντας στις φλόγες τη στέγη του. Σε άλλη επίθεση, το λιμάνι της Μαριούπολης έμεινε χωρίς ηλεκτροδότηση.",
+            "en": "Ukrainian drones struck a historic museum in Sevastopol in annexed Crimea, setting its roof ablaze. In a separate attack, the port of Mariupol was left without power."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "drones",
+              "Κριμαία",
+              "πόλεμος"
+            ],
+            "en": [
+              "Ukraine",
+              "drones",
+              "Crimea",
+              "war"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "150a882b4641",
+          "title": "Τα βάρη των πολεοδομιών",
+          "url": "https://www.kathimerini.gr/opinion/564272290/ta-vari-ton-poleodomion/",
+          "source": "Kathimerini",
+          "published": "2026-06-09T20:14:00+00:00",
+          "category": "opinion",
+          "importance": 50,
+          "summary": {
+            "el": "Σε κύριο άρθρο, η «Κ» σημειώνει ότι οι πολεοδομίες υπήρξαν εστίες διαφθοράς για δεκαετίες, ανεξαρτήτως φορέα εποπτείας. Υποστηρίζει ότι υπάρχουν πλέον τα μέσα για τον ψηφιακό εκσυγχρονισμό αυτών των νευραλγικών υπηρεσιών.",
+            "en": "In an editorial, Kathimerini notes town-planning offices have been hotbeds of corruption for decades, regardless of who oversees them. It argues the tools now exist to digitally modernize these critical services."
+          },
+          "tags": {
+            "el": [
+              "κύριο άρθρο",
+              "πολεοδομίες",
+              "διαφθορά",
+              "ψηφιοποίηση"
+            ],
+            "en": [
+              "editorial",
+              "town planning",
+              "corruption",
+              "digitization"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 81
+  }
+}
