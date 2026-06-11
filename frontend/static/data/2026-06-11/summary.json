@@ -1,0 +1,1072 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:15:47.796794+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχήθηκε από το διευρυνόμενο σκάνδαλο διαφθοράς στις πολεοδομίες της Αττικής. Δύο γενικοί γραμματείς —ο Ευθύμιος Μπακογιάννης και ο Γιώργος Διδασκάλου— παραιτήθηκαν μέσα σε λίγες ημέρες, με την αντιπολίτευση (ΠΑΣΟΚ, ΣΥΡΙΖΑ) να καταγγέλλει «βιομηχανία παραγωγής πολιτικού χρήματος» και τον κυβερνητικό εκπρόσωπο Παύλο Μαρινάκη να ζητά να αφεθεί το θέμα στη Δικαιοσύνη. Η υπόθεση επεκτείνεται και σε μέλος του Συμβουλίου Νεωτέρων Μνημείων.\n\nΣτο διεθνές πεδίο, κλιμακώθηκε ο πόλεμος ΗΠΑ-Ιράν: αμερικανικά πλήγματα σε τάνκερ στα ανοιχτά του Ομάν, ιρανικές απειλές να μετατραπούν τα Στενά του Ορμούζ σε «κόλαση» και εκκλήσεις Τουρκίας και Σαουδικής Αραβίας για αποκλιμάκωση. Η ενεργειακή ασφάλεια αναδεικνύεται σε παγκόσμιο διακύβευμα, με αναφορές και στην ελληνική απεξάρτηση από το ρωσικό αέριο.\n\nΣτα ελληνοτουρκικά, ο Τούρκος ΥΠΕΞ Χακάν Φιντάν επιβεβαίωσε ότι η Αγκυρα προχωρά το νομοσχέδιο της «Γαλάζιας Πατρίδας» για τις θαλάσσιες ζώνες, ενώ η Αγκυρα αντέδρασε σφοδρά στη στρατιωτική συμφωνία Κύπρου-Γαλλίας. Ο Γιώργος Γεραπετρίτης προειδοποίησε ότι οι μονομερείς οριοθετήσεις δεν έχουν νομική ισχύ.\n\nΣτην οικονομία, ο πληθωρισμός παρέμεινε στο 5,2% τον Μάιο, με τις τιμές καταλυμάτων να εκτοξεύονται 11% σε έναν μήνα και το πρόγραμμα «Σπίτι μου ΙΙ» να αναδεικνύει την έλλειψη κατοικιών. Παράλληλα, ο τουρισμός στηρίζει την ανάπτυξη, ενώ προετοιμάζεται και ανασχηματισμός της κυβέρνησης με ορκωμοσία την Παρασκευή.",
+    "en": "The day's news was dominated by the expanding urban-planning corruption scandal in Attica. Two general secretaries — Efthymios Bakoyannis and Yorgos Didaskalou — resigned within days, with the opposition (PASOK, SYRIZA) denouncing an 'industry producing political money' and government spokesman Pavlos Marinakis urging that the matter be left to the judiciary. The case has also widened to a member of the Modern Monuments Council.\n\nInternationally, the US-Iran war escalated: US strikes on tankers off Oman, Iranian threats to turn the Strait of Hormuz into 'hell', and calls from Turkey and Saudi Arabia for de-escalation. Energy security emerged as a global stake, including references to Greece's diversification away from Russian gas.\n\nOn Greek-Turkish relations, Turkish FM Hakan Fidan confirmed Ankara is advancing its 'Blue Homeland' maritime-zones bill, while Ankara reacted strongly to the Cyprus-France military agreement. Yorgos Gerapetritis warned that unilateral delimitations have no legal force.\n\nIn the economy, inflation held at 5.2% in May, with accommodation prices surging 11% in a month and the 'My Home II' program exposing a housing shortage. Meanwhile, tourism supported growth as a cabinet reshuffle prepared for a Friday swearing-in."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σκάνδαλο πολεοδομιών",
+        "en": "Urban-planning corruption scandal"
+      },
+      "description": {
+        "el": "Παραιτήσεις δύο γενικών γραμματέων εν μέσω του κυκλώματος διαφθοράς στις πολεοδομίες της Αττικής, με πολιτική κόντρα κυβέρνησης-αντιπολίτευσης.",
+        "en": "Two general secretaries resigned amid the Attica urban-planning bribery ring, sparking a government-opposition clash."
+      },
+      "related_items": [
+        "1e0dc9e9fe26",
+        "f2c5bad4bddf",
+        "206f1ec1330c",
+        "de30f87caf5a",
+        "02a01a7ccb4f"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Πόλεμος ΗΠΑ-Ιράν και Στενά Ορμούζ",
+        "en": "US-Iran war and the Strait of Hormuz"
+      },
+      "description": {
+        "el": "Κλιμάκωση με αμερικανικά πλήγματα σε τάνκερ, ιρανικές απειλές για τα Στενά του Ορμούζ και διεθνείς εκκλήσεις για αποκλιμάκωση.",
+        "en": "Escalation with US strikes on tankers, Iranian threats over the Strait of Hormuz and international calls for de-escalation."
+      },
+      "related_items": [
+        "bc0d8a88b8b5",
+        "6331337ed869",
+        "3da9504ba0d0",
+        "dbe02ba5c972",
+        "65eec18add54"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά και θαλάσσιες ζώνες",
+        "en": "Greek-Turkish relations and maritime zones"
+      },
+      "description": {
+        "el": "Η Αγκυρα προχωρά το νομοσχέδιο της «Γαλάζιας Πατρίδας», ενώ αντιδρά στη συμφωνία Κύπρου-Γαλλίας· η Αθήνα προειδοποιεί για μονομερείς ενέργειες.",
+        "en": "Ankara advances its 'Blue Homeland' bill and reacts to the Cyprus-France deal, while Athens warns against unilateral moves."
+      },
+      "related_items": [
+        "730e4e1526e6",
+        "430d49fc0f42",
+        "cd0b96b29a22"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Ακρίβεια και πληθωρισμός",
+        "en": "High prices and inflation"
+      },
+      "description": {
+        "el": "Ο πληθωρισμός παρέμεινε στο 5,2% τον Μάιο, με ακριβότερο πακέτο διακοπών, καύσιμα και τρόφιμα να πιέζουν τα νοικοκυριά.",
+        "en": "Inflation held at 5.2% in May, with pricier holiday packages, fuel and food squeezing households."
+      },
+      "related_items": [
+        "30b6d709caa4",
+        "2cad8e298e8b",
+        "1e25b2da233d"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "430d49fc0f42",
+          "title": "Μήνυμα Γεραπετρίτη στην Αγκυρα: Οι μονομερείς οριοθετήσεις δεν έχουν καμία νομική ισχύ",
+          "url": "https://www.kathimerini.gr/politics/564277993/minyma-gerapetriti-stin-agkyra-oi-monomereis-oriothetiseis-den-echoyn-kamia-nomiki-ischy/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T12:36:51+00:00",
+          "category": "politics",
+          "importance": 78,
+          "summary": {
+            "el": "Ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης προειδοποίησε την Αγκυρα ότι οι μονομερείς οριοθετήσεις δεν έχουν καμία νομική ισχύ. Η Ελλάδα δεν θα διαμορφώσει πολιτική βάσει του τουρκικού νομοσχεδίου για τις θαλάσσιες ζώνες.",
+            "en": "FM Yorgos Gerapetritis warned Ankara that unilateral maritime delimitations have no legal force. Greece will not shape policy based on Turkey's draft bill on maritime zones."
+          },
+          "tags": {
+            "el": [
+              "ελληνοτουρκικά",
+              "Γεραπετρίτης",
+              "θαλάσσιες ζώνες",
+              "διεθνές δίκαιο"
+            ],
+            "en": [
+              "Greek-Turkish",
+              "Gerapetritis",
+              "maritime zones",
+              "international law"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "730e4e1526e6",
+          "title": "Ελληνοτουρκικά: Προχωράει με το νομοσχέδιο η Αγκυρα",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564276955/ellinotoyrkika-prochoraei-me-to-nomoschedio-i-agkyra/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T06:59:00+00:00",
+          "category": "politics",
+          "importance": 76,
+          "summary": {
+            "el": "Ο Τούρκος ΥΠΕΞ Χακάν Φιντάν παραδέχθηκε στον Γεραπετρίτη ότι η Αγκυρα προχωρά το νομοσχέδιο της «Γαλάζιας Πατρίδας» για τις θαλάσσιες ζώνες. Το θέμα αναμένεται να γίνει σημείο τριβής το φθινόπωρο, ίσως σε προεκλογική περίοδο.",
+            "en": "Turkish FM Hakan Fidan told Gerapetritis that Ankara is proceeding with its 'Blue Homeland' maritime-zones bill. The issue is expected to become a friction point in the autumn, possibly during an election period."
+          },
+          "tags": {
+            "el": [
+              "ελληνοτουρκικά",
+              "Γαλάζια Πατρίδα",
+              "Φιντάν",
+              "νομοσχέδιο"
+            ],
+            "en": [
+              "Greek-Turkish",
+              "Blue Homeland",
+              "Fidan",
+              "draft bill"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "cd0b96b29a22",
+          "title": "Ελληνοτουρκικά: Σφοδρή αντίδραση της Αγκυρας για τη συμφωνία Κύπρου – Γαλλίας",
+          "url": "https://www.kathimerini.gr/politics/564277783/ellinotoyrkika-sfodri-antidrasi-tis-agkyras-gia-ti-symfonia-kyproy-gallias/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:03:28+00:00",
+          "category": "politics",
+          "importance": 75,
+          "summary": {
+            "el": "Η Αγκυρα αντέδρασε σφοδρά στη συμφωνία Γαλλίας-Κύπρου για το καθεστώς στρατιωτικών δυνάμεων, που επιτρέπει γαλλικά στρατεύματα στο νησί. Το τουρκικό υπουργείο Αμυνας προειδοποίησε για «επικίνδυνες συνέπειες».",
+            "en": "Ankara reacted strongly to the France-Cyprus military forces agreement allowing French troops on the island. Turkey's defense ministry warned of 'dangerous consequences'."
+          },
+          "tags": {
+            "el": [
+              "ελληνοτουρκικά",
+              "Κύπρος",
+              "Γαλλία",
+              "Αγκυρα"
+            ],
+            "en": [
+              "Greek-Turkish",
+              "Cyprus",
+              "France",
+              "Ankara"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "1e0dc9e9fe26",
+          "title": "Παραιτήθηκε ο γ.γ. του υπουργείου Πολιτισμού, Γιώργος Διδασκάλου",
+          "url": "https://www.kathimerini.gr/politics/564277819/paraitithike-o-g-g-toy-ypoyrgeioy-politismoy-giorgos-didaskaloy/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:07:00+00:00",
+          "category": "politics",
+          "importance": 72,
+          "summary": {
+            "el": "Παραιτήθηκε ο γενικός γραμματέας του υπουργείου Πολιτισμού Γιώργος Διδασκάλου, με φόντο το κύκλωμα των πολεοδομιών. Η παραίτηση ακολουθεί εκείνη του γ.γ. Χωρικού Σχεδιασμού Ευθύμιου Μπακογιάννη.",
+            "en": "Culture ministry general secretary Yorgos Didaskalou resigned against the backdrop of the urban-planning ring. It follows the resignation of spatial-planning secretary Efthymios Bakoyannis."
+          },
+          "tags": {
+            "el": [
+              "πολεοδομίες",
+              "παραίτηση",
+              "Διδασκάλου",
+              "Πολιτισμός"
+            ],
+            "en": [
+              "urban planning",
+              "resignation",
+              "Didaskalou",
+              "Culture ministry"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "f2c5bad4bddf",
+          "title": "Μαρινάκης για κύκλωμα πολεοδομιών: «Αφήστε τον ρόλο του εισαγγελέα στους εισαγγελείς. Μη βιάζεστε»",
+          "url": "https://www.kathimerini.gr/politics/564278197/marinakis-gia-kykloma-poleodomion-afiste-ton-rolo-toy-eisaggelea-stoys-eisaggeleis-mi-viazeste/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:54:52+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης απέφυγε να συνδέσει τις δύο παραιτήσεις γενικών γραμματέων με το κύκλωμα των πολεοδομιών, καλώντας να αφεθεί ο ρόλος του εισαγγελέα στους εισαγγελείς. Δέχθηκε πιέσεις από τον ΣΥΡΙΖΑ για την εμπλοκή στελεχών σε σκάνδαλο χρηματισμού.",
+            "en": "Government spokesman Pavlos Marinakis declined to link two general-secretary resignations to the urban-planning bribery ring, urging that prosecutors be left to their work. He faced pressure from SYRIZA over officials' alleged involvement in graft."
+          },
+          "tags": {
+            "el": [
+              "πολεοδομίες",
+              "διαφθορά",
+              "κυβέρνηση",
+              "Μαρινάκης"
+            ],
+            "en": [
+              "urban planning",
+              "corruption",
+              "government",
+              "Marinakis"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "08b0ff6d60f2",
+          "title": "Απεξάρτηση από ρωσικό αέριο, κυριαρχία αμερικανικού LNG",
+          "url": "https://www.kathimerini.gr/economy/local/564277387/apexartisi-apo-rosiko-aerio-kyriarchia-amerikanikoy-lng/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:49:00+00:00",
+          "category": "economy",
+          "importance": 70,
+          "summary": {
+            "el": "Το LNG κάλυψε το 64,3% της εγχώριας ζήτησης αερίου στο πεντάμηνο, περιορίζοντας το ρωσικό αέριο στο 24,4%. Η Ελλάδα κινείται προς πλήρη απεξάρτηση από το ρωσικό αέριο έως το 2027, πληρώνοντας όμως ακριβότερο τίμημα.",
+            "en": "LNG covered 64.3% of domestic gas demand in the first five months, cutting Russian gas to 24.4%. Greece is moving toward full independence from Russian gas by 2027, but at a higher cost."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "LNG",
+              "ρωσικό αέριο",
+              "απεξάρτηση"
+            ],
+            "en": [
+              "energy",
+              "LNG",
+              "Russian gas",
+              "diversification"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "c318796e9d24",
+          "title": "Ο τουρισμός αντισταθμίζει τις μέχρι τώρα επιπτώσεις της γεωπολιτικής κρίσης",
+          "url": "https://www.kathimerini.gr/economy/local/564277351/o-toyrismos-antistathmizei-tis-mechri-tora-epiptoseis-tis-geopolitikis-krisis/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:26:00+00:00",
+          "category": "economy",
+          "importance": 68,
+          "summary": {
+            "el": "Ο τουρισμός αντισταθμίζει τις επιπτώσεις της γεωπολιτικής κρίσης, με το ΑΕΠ να αυξάνεται 2% το α΄ τρίμηνο. Τα τουριστικά έσοδα αυξήθηκαν 64,3% και οι αφίξεις 38,3% σε ετήσια βάση, σύμφωνα με την Εθνική Τράπεζα.",
+            "en": "Tourism offsets the effects of the geopolitical crisis, with GDP up 2% in the first quarter. Tourism revenue rose 64.3% and arrivals 38.3% year-on-year, according to the National Bank."
+          },
+          "tags": {
+            "el": [
+              "τουρισμός",
+              "ΑΕΠ",
+              "Εθνική Τράπεζα",
+              "ανάπτυξη"
+            ],
+            "en": [
+              "tourism",
+              "GDP",
+              "National Bank",
+              "growth"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "2cad8e298e8b",
+          "title": "Είμαστε τόσο σίγουροι για την ανταγωνιστικότητα του τουρισμού;",
+          "url": "https://www.kathimerini.gr/economy/local/564277294/eimaste-toso-sigoyroi-gia-tin-antagonistikotita-toy-toyrismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:44:00+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Οι τιμές των καταλυμάτων αυξήθηκαν 11% μέσα σε έναν μήνα, ενώ ο πληθωρισμός παραμένει πάνω από 5%. Οι μεγάλες ανατιμήσεις στο πακέτο διακοπών απειλούν την ανταγωνιστικότητα του ελληνικού τουρισμού.",
+            "en": "Accommodation prices rose 11% in a single month while inflation stayed above 5%. Steep holiday-package hikes threaten the competitiveness of Greek tourism."
+          },
+          "tags": {
+            "el": [
+              "τουρισμός",
+              "ανατιμήσεις",
+              "πληθωρισμός",
+              "ανταγωνιστικότητα"
+            ],
+            "en": [
+              "tourism",
+              "price hikes",
+              "inflation",
+              "competitiveness"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "30b6d709caa4",
+          "title": "Εκρηκτικό κοκτέιλ στην αγορά συντηρεί την ακρίβεια",
+          "url": "https://www.kathimerini.gr/visual/infographics/564277324/ekriktiko-kokteil-stin-agora-syntirei-tin-akriveia/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T10:47:00+03:00",
+          "category": "economy",
+          "importance": 64,
+          "summary": {
+            "el": "Η ΕΛΣΤΑΤ ανακοίνωσε ετήσιο πληθωρισμό 5,2% τον Μάιο, με κύριες πηγές τα καύσιμα, τις υπηρεσίες και τα νωπά τρόφιμα. Οι αναλυτές προειδοποιούν ότι τα επιδόματα χωρίς δομικές παρεμβάσεις συντηρούν την ακρίβεια.",
+            "en": "Greek statistics authority ELSTAT reported 5.2% annual inflation in May, driven by fuel, services and fresh food. Analysts warn that benefits without structural reforms sustain high prices."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "ακρίβεια",
+              "ΕΛΣΤΑΤ",
+              "τρόφιμα"
+            ],
+            "en": [
+              "inflation",
+              "high prices",
+              "statistics",
+              "food"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "65eec18add54",
+          "title": "Παγκόσμια κούρσα για ενεργειακή αυτάρκεια",
+          "url": "https://www.kathimerini.gr/economy/international/564277399/pagkosmia-koyrsa-gia-energeiaki-aytarkeia/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T09:23:00+00:00",
+          "category": "economy",
+          "importance": 63,
+          "summary": {
+            "el": "Το ναυτικό μπλόκο στα Στενά του Ορμούζ ωθεί κυβερνήσεις παγκοσμίως προς την ενεργειακή αυτάρκεια. Χώρες στρέφονται σε εγχώριους πόρους, ΑΠΕ, άνθρακα ή πυρηνικά, ανάλογα με τη διάρκεια του πολέμου στο Ιράν.",
+            "en": "The naval blockade in the Strait of Hormuz is pushing governments worldwide toward energy self-sufficiency. Countries turn to domestic resources, renewables, coal or nuclear, depending on the duration of the war in Iran."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "αυτάρκεια",
+              "Ορμούζ",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "energy",
+              "self-sufficiency",
+              "Hormuz",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "5caf2e85b0fb",
+          "title": "Κρήτη: Μονόδρομος η δομή στο πρώην ΚΤΕΟ",
+          "url": "https://www.kathimerini.gr/society/reportaz/564276991/kriti-monodromos-i-domi-sto-proin-kteo/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:55:00+00:00",
+          "category": "society",
+          "importance": 68,
+          "summary": {
+            "el": "Η Κρήτη δεν διαθέτει δεύτερη δομή φιλοξενίας μεταναστών καθώς εφαρμόζεται το νέο ευρωπαϊκό σύμφωνο, με 2.189 αφίξεις τον Ιούνιο. Ο υπουργός Θάνος Πλεύρης ζητά τη χρήση του πρώην ΚΤΕΟ Ηρακλείου, προκαλώντας τοπικές αντιδράσεις.",
+            "en": "Crete lacks a second migrant reception facility as the new EU pact takes effect, with 2,189 arrivals in June. Minister Thanos Plevris seeks to use the former Heraklion vehicle-inspection site, sparking local reactions."
+          },
+          "tags": {
+            "el": [
+              "μετανάστευση",
+              "Κρήτη",
+              "δομή",
+              "Πλεύρης"
+            ],
+            "en": [
+              "migration",
+              "Crete",
+              "facility",
+              "Plevris"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "de30f87caf5a",
+          "title": "«Το πάλεψα, στο τσακ το ’φερα»: Πώς πέρασε το ακίνητο στα Πετράλωνα από το Συμβούλιο Νεωτέρων Μνημείων",
+          "url": "https://www.kathimerini.gr/society/564278140/to-palepsa-sto-tsak-to-fera-pos-perase-to-akinito-sta-petralona-apo-to-symvoylio-neoteron-mnimeion/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:26:54+00:00",
+          "category": "society",
+          "importance": 64,
+          "summary": {
+            "el": "Νέες διαστάσεις στο κύκλωμα των πολεοδομιών, με μέλος του Κεντρικού Συμβουλίου Νεωτέρων Μνημείων μεταξύ των κατηγορούμενων. Η εμπλοκή αφορά την κατεδάφιση ακινήτου στα Πετράλωνα.",
+            "en": "New dimensions to the urban-planning ring, with a member of the Central Council of Modern Monuments among the accused. The involvement concerns the demolition of a property in Petralona."
+          },
+          "tags": {
+            "el": [
+              "πολεοδομίες",
+              "Πετράλωνα",
+              "διαφθορά",
+              "μνημεία"
+            ],
+            "en": [
+              "urban planning",
+              "Petralona",
+              "corruption",
+              "monuments"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "922c9ce94715",
+          "title": "Εξαρθρώθηκαν οργανώσεις που διακινούσαν ναρκωτικά σε ανηλίκους",
+          "url": "https://www.kathimerini.gr/society/564278104/exarthrothike-organosi-poy-diakinoyse-narkotika-se-anilikoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:27:59+00:00",
+          "category": "society",
+          "importance": 60,
+          "summary": {
+            "el": "Εξαρθρώθηκαν δύο εγκληματικές οργανώσεις που διακινούσαν ναρκωτικά σε ανηλίκους στα βόρεια προάστια της Αθήνας. Συνελήφθησαν εννέα νεαροί ηλικίας 14 έως 19 ετών, ενώ διώκονται και οι γονείς τους.",
+            "en": "Two criminal gangs that sold drugs to minors in Athens's northern suburbs were dismantled. Nine youths aged 14 to 19 were arrested, while their parents are also being prosecuted."
+          },
+          "tags": {
+            "el": [
+              "ναρκωτικά",
+              "ανήλικοι",
+              "εγκληματική οργάνωση",
+              "συλλήψεις"
+            ],
+            "en": [
+              "drugs",
+              "minors",
+              "criminal gang",
+              "arrests"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "86d8c6a79593",
+          "title": "Δίκη Βαλυράκη – Αντώνης Σαμαράς: «Ηταν δολοφονία – Ο Σήφης Βαλυράκης δεν μπορούσε να πνιγεί»",
+          "url": "https://www.kathimerini.gr/society/dikastiko/564277963/diki-valyraki-antonis-samaras-itan-dolofonia-o-sifis-valyrakis-den-mporoyse-na-pnigei/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T12:10:53+00:00",
+          "category": "society",
+          "importance": 60,
+          "summary": {
+            "el": "Ο πρώην πρωθυπουργός Αντώνης Σαμαράς κατέθεσε ότι ο θάνατος του Σήφη Βαλυράκη το 2021 ήταν δολοφονία και όχι ατύχημα. Αναφέρθηκε στη μακρόχρονη φιλία τους και στην επικοινωνία τους την ημέρα του θανάτου.",
+            "en": "Former PM Antonis Samaras testified that Sifis Valyrakis's 2021 death was murder, not an accident. He recalled their long friendship and their contact on the day of the death."
+          },
+          "tags": {
+            "el": [
+              "Βαλυράκης",
+              "Σαμαράς",
+              "δίκη",
+              "δολοφονία"
+            ],
+            "en": [
+              "Valyrakis",
+              "Samaras",
+              "trial",
+              "murder"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f8be9f915209",
+          "title": "Θάνατος 19χρονου σε λούνα παρκ: Ενοχή και για τους τέσσερις κατηγορουμένους δείχνει η εισαγγελέας",
+          "url": "https://www.kathimerini.gr/society/564278155/thanatos-19chronoy-se-loyna-park-enochi-kai-gia-toys-tesseris-katigoroymenoys-deichnei-i-eisaggeleas/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:50:20+00:00",
+          "category": "society",
+          "importance": 58,
+          "summary": {
+            "el": "Η εισαγγελέας πρότεινε ενοχή και για τους τέσσερις κατηγορουμένους στη δίκη για τον θάνατο 19χρονου σε λούνα παρκ του Πευκοχωρίου το 2024. Οι κατηγορούμενοι είχαν αρνηθεί τις κατηγορίες, κάνοντας λόγο για ατύχημα.",
+            "en": "The prosecutor proposed guilt for all four defendants in the trial over a 19-year-old's death at a Pefkochori amusement park in 2024. The defendants had denied the charges, calling it an accident."
+          },
+          "tags": {
+            "el": [
+              "λούνα παρκ",
+              "δίκη",
+              "θάνατος",
+              "Χαλκιδική"
+            ],
+            "en": [
+              "amusement park",
+              "trial",
+              "death",
+              "Halkidiki"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "bc0d8a88b8b5",
+          "title": "Νέα αμερικανική επίθεση σε τάνκερ στα ανοικτά του Ομάν",
+          "url": "https://www.kathimerini.gr/world/564278278/nea-amerikaniki-epithesi-se-tanker-sta-anoikta-toy-oman/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T14:45:09+00:00",
+          "category": "world",
+          "importance": 80,
+          "summary": {
+            "el": "Ο αμερικανικός στρατός ανακοίνωσε νέα επίθεση σε τάνκερ στα ανοιχτά του Ομάν, κοντά στα Στενά του Ορμούζ. Το πλοίο, που μετέφερε ιρανικό πετρέλαιο, χτυπήθηκε με πυραύλους Hellfire αφού αρνήθηκε να συμμορφωθεί.",
+            "en": "The US military announced a new strike on a tanker off Oman, near the Strait of Hormuz. The ship, carrying Iranian oil, was hit with Hellfire missiles after refusing to comply."
+          },
+          "tags": {
+            "el": [
+              "ΗΠΑ",
+              "Ιράν",
+              "Ορμούζ",
+              "τάνκερ"
+            ],
+            "en": [
+              "USA",
+              "Iran",
+              "Hormuz",
+              "tanker"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6331337ed869",
+          "title": "Ιρανός διοικητής αεροπορίας: Αν πειράξετε τα Στενά του Ορμούζ, θα τα μετατρέψουμε σε κόλαση",
+          "url": "https://www.kathimerini.gr/world/564277981/iranos-dioikitis-aeroporias-an-peiraxete-ta-stena-toy-ormoyz-tha-ta-metatrepsoyme-se-kolasi/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T12:32:31+00:00",
+          "category": "world",
+          "importance": 76,
+          "summary": {
+            "el": "Ιρανός διοικητής της αεροπορίας του IRGC απείλησε να μετατρέψει την περιοχή σε «κόλαση» αν οι ΗΠΑ αποσταθεροποιήσουν τα Στενά του Ορμούζ. Το Ιράν ανακοίνωσε κλείσιμο των Στενών, κάτι που η CENTCOM διέψευσε.",
+            "en": "An Iranian IRGC air force commander threatened to turn the region into 'hell' if the US destabilizes the Strait of Hormuz. Iran announced a closure of the strait, which CENTCOM denied."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "Ορμούζ",
+              "IRGC",
+              "απειλή"
+            ],
+            "en": [
+              "Iran",
+              "Hormuz",
+              "IRGC",
+              "threat"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3da9504ba0d0",
+          "title": "Η Τουρκία κάλεσε Ιράν και ΗΠΑ να σταματήσουν τις επιθέσεις",
+          "url": "https://www.kathimerini.gr/world/564278143/i-toyrkia-kalese-iran-kai-ipa-na-stamatisoyn-tis-epitheseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:30:52+00:00",
+          "category": "world",
+          "importance": 75,
+          "summary": {
+            "el": "Η Τουρκία κάλεσε Ιράν και ΗΠΑ να σταματήσουν τα αμοιβαία πλήγματα μετά από νέα νύχτα βομβαρδισμών. Η Σαουδική Αραβία καταδίκασε τις ιρανικές επιθέσεις σε Ιορδανία, Μπαχρέιν και Κουβέιτ, ζητώντας αποκλιμάκωση.",
+            "en": "Turkey called on Iran and the US to stop mutual strikes after another night of bombing. Saudi Arabia condemned Iranian attacks on Jordan, Bahrain and Kuwait, urging de-escalation."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Ιράν",
+              "ΗΠΑ",
+              "Κόλπος"
+            ],
+            "en": [
+              "Turkey",
+              "Iran",
+              "USA",
+              "Gulf"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "dbe02ba5c972",
+          "title": "G7: Η σύνοδος κορυφής του Εβιάν στη σκιά του πολέμου",
+          "url": "https://www.kathimerini.gr/world/564278245/g7-i-synodos-koryfis-toy-evian-sti-skia-toy-polemoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T14:18:10+00:00",
+          "category": "world",
+          "importance": 72,
+          "summary": {
+            "el": "Η σύνοδος κορυφής της G7 στο Εβιάν θα είναι η πρώτη διατλαντική συνάντηση μετά τον πόλεμο ΗΠΑ-Ισραήλ κατά του Ιράν. Οι Ευρωπαίοι θα επιχειρήσουν να καλύψουν το χάσμα με τον Ντόναλντ Τραμπ για Μέση Ανατολή και Ουκρανία.",
+            "en": "The G7 summit at Evian will be the first transatlantic meeting since the US-Israel war on Iran. Europeans will try to bridge the gap with Donald Trump over the Middle East and Ukraine."
+          },
+          "tags": {
+            "el": [
+              "G7",
+              "Εβιάν",
+              "Τραμπ",
+              "Μακρόν"
+            ],
+            "en": [
+              "G7",
+              "Evian",
+              "Trump",
+              "Macron"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4eb71d15da4d",
+          "title": "Παραιτήθηκε ο Βρετανός υπουργός Αμυνας Τζον Χίλι",
+          "url": "https://www.kathimerini.gr/world/564278263/paraitithike-o-vretanos-ypoyrgos-amynas-tzon-chili/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T14:22:38+00:00",
+          "category": "world",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Βρετανός υπουργός Αμυνας Τζον Χίλι παραιτήθηκε λόγω διαφωνίας για το ύψος των αμυντικών δαπανών. Κατηγόρησε τον πρωθυπουργό Κιρ Στάρμερ και το υπουργείο Οικονομικών ότι δεν διέθεσαν τους αναγκαίους πόρους.",
+            "en": "UK Defence Secretary John Healey resigned over a disagreement on defense spending. He accused PM Keir Starmer and the Treasury of failing to provide the necessary resources."
+          },
+          "tags": {
+            "el": [
+              "Βρετανία",
+              "άμυνα",
+              "παραίτηση",
+              "Στάρμερ"
+            ],
+            "en": [
+              "Britain",
+              "defense",
+              "resignation",
+              "Starmer"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "id": "e8588dfe28b0",
+          "title": "Καλοκαίρι ευκαιριών αλλά και ρίσκου",
+          "url": "https://www.kathimerini.gr/opinion/564274870/kalokairi-eykairion-alla-kai-riskoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:09:00+00:00",
+          "category": "opinion",
+          "importance": 58,
+          "summary": {
+            "el": "Η Κατερίνα Σώκου αναλύει τρεις μεγάλες δημόσιες προσφορές — SpaceX, OpenAI και Anthropic — που θα μεταφέρουν κεφάλαια τριών τρισ. δολαρίων στις δημόσιες αγορές. Επισημαίνει τις ευκαιρίες αλλά και το ρίσκο για τους μικροεπενδυτές.",
+            "en": "Katerina Sokou analyzes three major IPOs — SpaceX, OpenAI and Anthropic — that will shift $3 trillion in capital to public markets. She notes the opportunities but also the risk for retail investors."
+          },
+          "tags": {
+            "el": [
+              "IPO",
+              "SpaceX",
+              "OpenAI",
+              "επενδύσεις"
+            ],
+            "en": [
+              "IPO",
+              "SpaceX",
+              "OpenAI",
+              "investment"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4426944c8d0d",
+          "title": "Τρέχοντας πίσω από την τεχνητή νοημοσύνη",
+          "url": "https://www.kathimerini.gr/opinion/564274627/trechontas-piso-apo-tin-techniti-noimosyni/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:10:00+00:00",
+          "category": "opinion",
+          "importance": 55,
+          "summary": {
+            "el": "Ο Νότης Παπαδόπουλος σχολιάζει ότι η τεχνητή νοημοσύνη διέψευσε τους «γκουρού» που προέτρεπαν τους νέους να μάθουν κώδικα. Εργαλεία όπως το ChatGPT και το Claude αντικαθιστούν επαγγέλματα που βασίζονται στην επεξεργασία πληροφοριών.",
+            "en": "Notis Papadopoulos comments that AI has disproven the 'gurus' who urged young people to learn to code. Tools like ChatGPT and Claude are replacing professions based on information processing."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "εργασία",
+              "επαγγέλματα",
+              "τεχνολογία"
+            ],
+            "en": [
+              "artificial intelligence",
+              "work",
+              "professions",
+              "technology"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "02a01a7ccb4f",
+          "title": "Φτιάχνοντας τον ΟΠΕΚΕΠΕ της δόμησης",
+          "url": "https://www.kathimerini.gr/opinion/564274855/ftiachnontas-ton-opekepe-tis-domisis/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:07:00+00:00",
+          "category": "opinion",
+          "importance": 54,
+          "summary": {
+            "el": "Ο Πάσχος Μανδραβέλης σχολιάζει ότι η διαφθορά είναι σύμφυτη με τα ανθρώπινα και αμφισβητεί το δόγμα ότι η τοπική αυτοδιοίκηση είναι το πιο διεφθαρμένο κομμάτι του κράτους. Παραλληλίζει με τη χρόνια διαφθορά στον ΟΠΕΚΕΠΕ που πέρασε απαρατήρητη.",
+            "en": "Paschos Mandravelis comments that corruption is inherent to human affairs and challenges the dogma that local government is the most corrupt part of the state. He draws a parallel with the chronic, unnoticed corruption at the OPEKEPE agency."
+          },
+          "tags": {
+            "el": [
+              "διαφθορά",
+              "δόμηση",
+              "ΟΠΕΚΕΠΕ",
+              "κράτος"
+            ],
+            "en": [
+              "corruption",
+              "building",
+              "state agency",
+              "state"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "bb4e6603baf4",
+          "title": "Κωνσταντίνος Κυρανάκης: Κουζίνες",
+          "url": "https://www.kathimerini.gr/opinion/564275041/konstantinos-kyranakis-koyzines/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:12:00+00:00",
+          "category": "opinion",
+          "importance": 52,
+          "summary": {
+            "el": "Ο Μιχάλης Τσιντσίνης σχολιάζει ότι η σημαντικότερη κίνηση του ανασχηματισμού ήταν αυτή που δεν έγινε — η μη μετακίνηση Μαρινάκη. Αναλύει πώς η ΝΔ μετασχηματίστηκε σε κυβερνητικό μηχανισμό μετά από επτά χρόνια εξουσίας.",
+            "en": "Michalis Tsintsinis comments that the most important reshuffle move was the one that didn't happen — Marinakis not moving. He analyzes how ND has morphed into a government apparatus after seven years in power."
+          },
+          "tags": {
+            "el": [
+              "Νέα Δημοκρατία",
+              "ανασχηματισμός",
+              "Κυρανάκης",
+              "σχόλιο"
+            ],
+            "en": [
+              "New Democracy",
+              "reshuffle",
+              "Kyranakis",
+              "column"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "eee91271eb37",
+          "title": "Gov.gr και υπηρεσίες",
+          "url": "https://www.kathimerini.gr/opinion/564274633/gov-gr-kai-ypiresies/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:14:00+00:00",
+          "category": "opinion",
+          "importance": 50,
+          "summary": {
+            "el": "Κύριο άρθρο: το Gov.gr αποτελεί μεταρρυθμιστικό ορόσημο που άλλαξε τη σχέση πολίτη-κράτους, αλλά όχι το ίδιο το κράτος. Η επιτυχία της ψηφιακής διακυβέρνησης πρέπει να οδηγήσει σε αλλαγή του γραφειοκρατικού σκελετού.",
+            "en": "Editorial: Gov.gr is a reform milestone that changed the citizen-state relationship but not the state itself. The success of digital governance should drive a change in the bureaucratic skeleton."
+          },
+          "tags": {
+            "el": [
+              "Gov.gr",
+              "ψηφιακό κράτος",
+              "γραφειοκρατία",
+              "μεταρρύθμιση"
+            ],
+            "en": [
+              "Gov.gr",
+              "digital state",
+              "bureaucracy",
+              "reform"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "8daffb6a7df4",
+          "title": "Η Ελλάδα τιμώμενη χώρα στην κινηματογραφική αγορά των Καννών",
+          "url": "https://www.kathimerini.gr/culture/564277138/i-ellada-timomeni-chora-stin-kinimatografiki-agora-ton-kannon/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T09:15:00+00:00",
+          "category": "culture",
+          "importance": 60,
+          "summary": {
+            "el": "Η Ελλάδα θα είναι τιμώμενη χώρα στο Marché du Film των Καννών το 2027, τη μεγαλύτερη κινηματογραφική αγορά στον κόσμο. Ο διευθυντής του ΕΚΚ μιλά για μία από τις ισχυρότερες θέσεις της χώρας στον διεθνή οπτικοακουστικό χάρτη.",
+            "en": "Greece will be the honored country at the Cannes Marché du Film in 2027, the world's largest film market. The Greek Film Centre director speaks of one of the country's strongest positions on the international audiovisual map."
+          },
+          "tags": {
+            "el": [
+              "Κάννες",
+              "Ελλάδα",
+              "κινηματογράφος",
+              "Marché du Film"
+            ],
+            "en": [
+              "Cannes",
+              "Greece",
+              "cinema",
+              "Marché du Film"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "f4895d3134b7",
+          "title": "Φεστιβάλ Καννών: Η Ελλάδα τιμώμενη χώρα του Marché du Film το 2027",
+          "url": "https://www.kathimerini.gr/culture/cinema/564275914/festival-kannon-i-ellada-timomeni-chora-toy-marche-du-film-to-2027/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T13:51:46+00:00",
+          "category": "culture",
+          "importance": 55,
+          "summary": {
+            "el": "Η Ελλάδα ανακοινώθηκε ως τιμώμενη χώρα του Marché du Film των Καννών για το 2027, με θεματικό άξονα το «Ride the Greek Wave». Η αγορά είναι η μεγαλύτερη κινηματογραφική αγορά στον κόσμο όπου κλείνονται διεθνείς συμφωνίες.",
+            "en": "Greece was announced as the honored country of the Cannes Marché du Film for 2027, under the theme 'Ride the Greek Wave'. The market is the world's largest film market where international deals are made."
+          },
+          "tags": {
+            "el": [
+              "Κάννες",
+              "Ελλάδα",
+              "Marché du Film",
+              "κινηματογράφος"
+            ],
+            "en": [
+              "Cannes",
+              "Greece",
+              "Marché du Film",
+              "cinema"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "7595e4804ebc",
+          "title": "Φρανσουά Οζόν: Δεν κατάλαβα απόλυτα τον «Ξένο»",
+          "url": "https://www.kathimerini.gr/culture/564270052/fransoya-ozon-den-katalava-apolyta-ton-xeno/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T23:32:17+00:00",
+          "category": "culture",
+          "importance": 50,
+          "summary": {
+            "el": "Ο σκηνοθέτης Φρανσουά Οζόν μιλά για τη μεταφορά του «Ξένου» του Αλμπέρ Καμύ στη μεγάλη οθόνη. Παραδέχεται ότι δεν κατάλαβε απόλυτα το μυθιστόρημα, κάτι που αποτέλεσε κίνητρο για την ταινία.",
+            "en": "Director François Ozon discusses adapting Albert Camus's 'The Stranger' for the big screen. He admits he did not fully understand the novel, which was a motivation for making the film."
+          },
+          "tags": {
+            "el": [
+              "Οζόν",
+              "Καμύ",
+              "Ξένος",
+              "κινηματογράφος"
+            ],
+            "en": [
+              "Ozon",
+              "Camus",
+              "The Stranger",
+              "cinema"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "12a1de7fe158",
+          "title": "Οι νέες ταινίες της εβδομάδας: Επιστροφή στις εξωγήινες αναζητήσεις",
+          "url": "https://www.kathimerini.gr/culture/cinema/564277141/oi-nees-tainies-tis-evdomadas-epistrofi-stis-exogiines-anazitiseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:08:00+00:00",
+          "category": "culture",
+          "importance": 48,
+          "summary": {
+            "el": "Η νέα ταινία του Στίβεν Σπίλμπεργκ «Ημέρα Αποκάλυψης» είναι ένα θρίλερ φαντασίας που θυμίζει τις «Στενές επαφές τρίτου τύπου». Η κριτική παρουσιάζει τις νέες ταινίες της εβδομάδας με φόντο έναν κόσμο στα πρόθυρα πολέμου.",
+            "en": "Steven Spielberg's new film 'Day of Revelation' is a sci-fi thriller reminiscent of 'Close Encounters of the Third Kind'. The review covers the week's new releases against a world on the brink of war."
+          },
+          "tags": {
+            "el": [
+              "κινηματογράφος",
+              "Σπίλμπεργκ",
+              "ταινίες",
+              "κριτική"
+            ],
+            "en": [
+              "cinema",
+              "Spielberg",
+              "films",
+              "review"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "283b87ba4103",
+          "title": "Athens Photo Festival: Οικογενειακά τεκμήρια",
+          "url": "https://www.kathimerini.gr/culture/arts/564277120/athens-photo-festival-oikogeneiaka-tekmiria/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T13:16:00+00:00",
+          "category": "culture",
+          "importance": 45,
+          "summary": {
+            "el": "Το Athens Photo Festival εξερευνά τη γονεϊκότητα, την ταυτότητα και τις ρίζες μέσα από προσωπικά φωτογραφικά έργα. Ξεχωρίζει το «Our Hidden Room» του Μοχάμεντ Χασάν για τη σχέση με τον πατέρα του.",
+            "en": "The Athens Photo Festival explores parenthood, identity and roots through personal photographic works. The standout is Mohamed Hassan's 'Our Hidden Room' on his relationship with his father."
+          },
+          "tags": {
+            "el": [
+              "Athens Photo Festival",
+              "φωτογραφία",
+              "ταυτότητα",
+              "έκθεση"
+            ],
+            "en": [
+              "Athens Photo Festival",
+              "photography",
+              "identity",
+              "exhibition"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "e8588dfe28b0",
+          "title": "Καλοκαίρι ευκαιριών αλλά και ρίσκου",
+          "url": "https://www.kathimerini.gr/opinion/564274870/kalokairi-eykairion-alla-kai-riskoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:09:00+00:00",
+          "category": "opinion",
+          "importance": 58,
+          "summary": {
+            "el": "Η Κατερίνα Σώκου αναλύει τρεις μεγάλες δημόσιες προσφορές — SpaceX, OpenAI και Anthropic — που θα μεταφέρουν κεφάλαια τριών τρισ. δολαρίων στις δημόσιες αγορές. Επισημαίνει τις ευκαιρίες αλλά και το ρίσκο για τους μικροεπενδυτές.",
+            "en": "Katerina Sokou analyzes three major IPOs — SpaceX, OpenAI and Anthropic — that will shift $3 trillion in capital to public markets. She notes the opportunities but also the risk for retail investors."
+          },
+          "tags": {
+            "el": [
+              "IPO",
+              "SpaceX",
+              "OpenAI",
+              "επενδύσεις"
+            ],
+            "en": [
+              "IPO",
+              "SpaceX",
+              "OpenAI",
+              "investment"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4426944c8d0d",
+          "title": "Τρέχοντας πίσω από την τεχνητή νοημοσύνη",
+          "url": "https://www.kathimerini.gr/opinion/564274627/trechontas-piso-apo-tin-techniti-noimosyni/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:10:00+00:00",
+          "category": "opinion",
+          "importance": 55,
+          "summary": {
+            "el": "Ο Νότης Παπαδόπουλος σχολιάζει ότι η τεχνητή νοημοσύνη διέψευσε τους «γκουρού» που προέτρεπαν τους νέους να μάθουν κώδικα. Εργαλεία όπως το ChatGPT και το Claude αντικαθιστούν επαγγέλματα που βασίζονται στην επεξεργασία πληροφοριών.",
+            "en": "Notis Papadopoulos comments that AI has disproven the 'gurus' who urged young people to learn to code. Tools like ChatGPT and Claude are replacing professions based on information processing."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "εργασία",
+              "επαγγέλματα",
+              "τεχνολογία"
+            ],
+            "en": [
+              "artificial intelligence",
+              "work",
+              "professions",
+              "technology"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "eee91271eb37",
+          "title": "Gov.gr και υπηρεσίες",
+          "url": "https://www.kathimerini.gr/opinion/564274633/gov-gr-kai-ypiresies/",
+          "source": "Kathimerini",
+          "published": "2026-06-10T20:14:00+00:00",
+          "category": "opinion",
+          "importance": 50,
+          "summary": {
+            "el": "Κύριο άρθρο: το Gov.gr αποτελεί μεταρρυθμιστικό ορόσημο που άλλαξε τη σχέση πολίτη-κράτους, αλλά όχι το ίδιο το κράτος. Η επιτυχία της ψηφιακής διακυβέρνησης πρέπει να οδηγήσει σε αλλαγή του γραφειοκρατικού σκελετού.",
+            "en": "Editorial: Gov.gr is a reform milestone that changed the citizen-state relationship but not the state itself. The success of digital governance should drive a change in the bureaucratic skeleton."
+          },
+          "tags": {
+            "el": [
+              "Gov.gr",
+              "ψηφιακό κράτος",
+              "γραφειοκρατία",
+              "μεταρρύθμιση"
+            ],
+            "en": [
+              "Gov.gr",
+              "digital state",
+              "bureaucracy",
+              "reform"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "12a1de7fe158",
+          "title": "Οι νέες ταινίες της εβδομάδας: Επιστροφή στις εξωγήινες αναζητήσεις",
+          "url": "https://www.kathimerini.gr/culture/cinema/564277141/oi-nees-tainies-tis-evdomadas-epistrofi-stis-exogiines-anazitiseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T11:08:00+00:00",
+          "category": "culture",
+          "importance": 48,
+          "summary": {
+            "el": "Η νέα ταινία του Στίβεν Σπίλμπεργκ «Ημέρα Αποκάλυψης» είναι ένα θρίλερ φαντασίας που θυμίζει τις «Στενές επαφές τρίτου τύπου». Η κριτική παρουσιάζει τις νέες ταινίες της εβδομάδας με φόντο έναν κόσμο στα πρόθυρα πολέμου.",
+            "en": "Steven Spielberg's new film 'Day of Revelation' is a sci-fi thriller reminiscent of 'Close Encounters of the Third Kind'. The review covers the week's new releases against a world on the brink of war."
+          },
+          "tags": {
+            "el": [
+              "κινηματογράφος",
+              "Σπίλμπεργκ",
+              "ταινίες",
+              "κριτική"
+            ],
+            "en": [
+              "cinema",
+              "Spielberg",
+              "films",
+              "review"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 80
+  }
+}
