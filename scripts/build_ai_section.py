@@ -55,7 +55,7 @@ _STRONG = [
     r"chatgpt",
     r"openai",
     r"anthropic",
-    r"\bclaude\b",
+    r"(?<![\w-])claude(?![\w-])",
     r"copilot",
     r"\bai\b",
     r"\ba\.i\.\b",

@@ -1,0 +1,1014 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T12:03:28.192982+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 82 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχείται από το προεκλογικό κλίμα και τις πολιτικές κόντρες: το Μαξίμου αποκρούει τις κατηγορίες για «γαλάζιο» σκάνδαλο στις πολεοδομίες μετά τις παραιτήσεις δύο γενικών γραμματέων, ο ΣΥΡΙΖΑ κινείται «σε τεντωμένο σχοινί» γύρω από τη συμπόρευση με τον Αλέξη Τσίπρα, ενώ ο πρωθυπουργός τοποθέτησε τις εκλογές στην άνοιξη του 2027. Στο μέτωπο της εξωτερικής πολιτικής και ενέργειας, η ίδρυση του East Med Energy Center στο Χιούστον σφραγίζει τη συνεργασία Ελλάδας-Κύπρου-Ισραήλ-ΗΠΑ, με την Τουρκία να εντείνει την πίεση κατά της Λευκωσίας.\n\nΣτην οικονομία, ξεχωρίζουν οι διευρυνόμενες ανισότητες στο συνταξιοδοτικό, οι επιπτώσεις της αύξησης επιτοκίων της ΕΚΤ στις τράπεζες και η συνεχιζόμενη πίεση από την ακρίβεια. Διεθνώς, η προσοχή στρέφεται στον πόλεμο στο Ιράν, με ιρανικό προσχέδιο 14 σημείων προς τις ΗΠΑ και ενδείξεις διπλωματικής προόδου, καθώς και στο νέο αίτημα της Ουκρανίας για 20 δισ. δολάρια. Στην κοινωνία, η κακοκαιρία και ο κίνδυνος πυρκαγιών συνυπάρχουν με υποθέσεις προστασίας ανηλίκων και διαφθοράς στην υγεία.\n\nΣτον πολιτισμό, η ημέρα σημαδεύτηκε από τον θάνατο του Ντέιβιντ Χόκνεϊ και τη βράβευση του Μάριο Μπανούσι στη Βενετία, ενώ τα άρθρα γνώμης επικεντρώθηκαν στον πληθωρισμό, τη γεωπολιτική του Τραμπ και την κριτική στο Μουντιάλ.",
+    "en": "The day's news is dominated by the pre-election climate and political clashes: the government is rebutting accusations of a New Democracy urban-planning scandal after two general secretaries resigned, SYRIZA is 'walking a tightrope' over aligning with Alexis Tsipras, and the PM signaled elections for spring 2027. On foreign policy and energy, the founding of the East Med Energy Center in Houston cements Greece-Cyprus-Israel-US cooperation, while Turkey escalates pressure on Nicosia.\n\nIn the economy, widening pension inequalities, the impact of the ECB rate hike on banks, and persistent inflationary pressure stand out. Internationally, attention turns to the war in Iran — with a 14-point Iranian draft to the US and signs of diplomatic progress — and Ukraine's new $20 billion funding request. Domestically, bad weather and wildfire risk coincide with cases of child protection and health-sector corruption.\n\nIn culture, the day was marked by the death of David Hockney and Mario Banushi's award in Venice, while opinion pieces focused on inflation, Trump's geopolitics and criticism of the World Cup."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σκάνδαλο πολεοδομιών & προεκλογική κόντρα",
+        "en": "Urban-planning scandal & pre-election clash"
+      },
+      "description": {
+        "el": "Το Μαξίμου αποκρούει τις κατηγορίες περί «γαλάζιου» σκανδάλου μετά τις παραιτήσεις δύο γενικών γραμματέων, εν μέσω έντονης αντιπαράθεσης με την αντιπολίτευση και προεκλογικού κλίματος.",
+        "en": "The government rebuts accusations of a New Democracy scandal after two general secretaries resigned, amid sharp opposition confrontation and a pre-election climate."
+      },
+      "related_items": [
+        "3d9253aaee43",
+        "a37d14258390",
+        "ba47aa375880",
+        "9d930d99de1b",
+        "2f9ec70245d3"
+      ],
+      "importance": 75
+    },
+    {
+      "name": {
+        "el": "Πόλεμος στο Ιράν & διπλωματικές διεργασίες",
+        "en": "Iran war & diplomatic efforts"
+      },
+      "description": {
+        "el": "Ιρανικό προσχέδιο 14 σημείων προς τις ΗΠΑ, ενδείξεις διπλωματικής προόδου κατά τη Γερμανία, αλλά και επιφυλάξεις της Τεχεράνης για οριστικοποίηση της συμφωνίας.",
+        "en": "A 14-point Iranian draft to the US, signs of diplomatic progress per Germany, and Tehran's reservations about finalizing any deal."
+      },
+      "related_items": [
+        "a7d4175fdadd",
+        "25b751fa19d8",
+        "f212ac9a2d9f",
+        "75c2e36d4b44",
+        "71ca860a8846"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή συνεργασία στην Αν. Μεσόγειο",
+        "en": "East Med energy cooperation"
+      },
+      "description": {
+        "el": "Η ίδρυση του East Med Energy Center στο Χιούστον στο πλαίσιο του σχήματος 3+1 ενισχύει τη συνεργασία Ελλάδας-Κύπρου-Ισραήλ-ΗΠΑ, εν μέσω τουρκικής πίεσης.",
+        "en": "The founding of the East Med Energy Center in Houston under the 3+1 scheme strengthens Greece-Cyprus-Israel-US cooperation, amid Turkish pressure."
+      },
+      "related_items": [
+        "7faa9ecee5f0",
+        "ffb7aa0ab1d7",
+        "364f334857d0"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Οικονομικές πιέσεις: συντάξεις, επιτόκια, ακρίβεια",
+        "en": "Economic pressures: pensions, rates, inflation"
+      },
+      "description": {
+        "el": "Διευρύνεται το χάσμα στις συντάξεις, η αύξηση επιτοκίων της ΕΚΤ ενισχύει τις τράπεζες, ενώ η ακρίβεια και τα κρατικά χρέη παραμένουν στο επίκεντρο.",
+        "en": "The pension gap widens, the ECB rate hike boosts banks, while inflation and state arrears remain in focus."
+      },
+      "related_items": [
+        "9a89e2656ad1",
+        "52f936019a2f",
+        "335cc6ab1c1c",
+        "e32dbe6726ae",
+        "702e4f8c8a1e"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 82,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "3d9253aaee43",
+          "title": "Πολεοδομίες: Το Μαξίμου αποκρούει τις αιτιάσεις περί «γαλάζιου» σκανδάλου",
+          "url": "https://www.kathimerini.gr/politics/government/564279313/poleodomies-to-maximoy-apokroyei-tis-aitiaseis-peri-galazioy-skandaloy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T07:09:00+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Το Μαξίμου αποκρούει τις κατηγορίες της αντιπολίτευσης περί «γαλάζιου» σκανδάλου στις πολεοδομίες μετά τις παραιτήσεις των γεν. γραμματέων Ε. Μπακογιάννη και Γ. Διδασκάλου, επιμένοντας ότι έγιναν για προσωπικούς λόγους.",
+            "en": "Maximos Mansion is rebutting opposition accusations of a 'New Democracy' urban-planning scandal after the resignations of general secretaries Efthymios Bakoyannis and Giorgos Didaskalou, insisting they left for personal reasons."
+          },
+          "tags": {
+            "el": [
+              "πολεοδομίες",
+              "Μπακογιάννης",
+              "παραιτήσεις",
+              "διαφθορά"
+            ],
+            "en": [
+              "urban planning",
+              "Bakoyannis",
+              "resignations",
+              "corruption"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "364f334857d0",
+          "title": "Τουρκία: Προτεκτοράτο του Ισραήλ η Κύπρος – Επίθεση και για τη διμερή αμυντική συμφωνία με τη Γαλλία",
+          "url": "https://www.kathimerini.gr/politics/564279337/toyrkia-protektorato-toy-israil-i-kypros-epithesi-kai-gia-ti-dimeri-amyntiki-symfonia-me-ti-gallia/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T06:42:00+00:00",
+          "importance": 73,
+          "summary": {
+            "el": "Η Τουρκία εντείνει την επίθεση κατά της Κύπρου, χαρακτηρίζοντάς την «προτεκτοράτο του Ισραήλ» και βάλλοντας κατά της αμυντικής συμφωνίας Λευκωσίας-Παρισιού. Το τουρκικό νομοσχέδιο για θαλάσσιες ζώνες ενδέχεται να μετατεθεί μετά το φθινόπωρο.",
+            "en": "Turkey is escalating its rhetoric against Cyprus, calling it an 'Israeli protectorate' and attacking the Nicosia-Paris defense pact. Turkey's maritime-zones bill may be postponed beyond the autumn."
+          },
+          "tags": {
+            "el": [
+              "Τουρκία",
+              "Κύπρος",
+              "Ισραήλ",
+              "θαλάσσιες ζώνες"
+            ],
+            "en": [
+              "Turkey",
+              "Cyprus",
+              "Israel",
+              "maritime zones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "7faa9ecee5f0",
+          "title": "Στ. Παπασταύρου: Στο Χιούστον για την ίδρυση του Κέντρου Ενέργειας Ανατολικής Μεσογείου",
+          "url": "https://www.kathimerini.gr/politics/564279979/st-papastayroy-sto-chioyston-gia-tin-idrysi-toy-kentroy-energeias-anatolikis-mesogeioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T07:48:14+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Υπεγράφη στο Χιούστον η διακήρυξη ίδρυσης του East Med Energy Center (EMEC) στο πλαίσιο του σχήματος 3+1 (Ελλάδα, Κύπρος, Ισραήλ, ΗΠΑ). Ο υπουργός Ενέργειας Στ. Παπασταύρου τόνισε ότι η ενέργεια δεν πρέπει να εργαλειοποιείται.",
+            "en": "The declaration founding the East Med Energy Center (EMEC) was signed in Houston under the 3+1 scheme (Greece, Cyprus, Israel, US). Energy minister Stavros Papastavrou stressed that energy must not be weaponized."
+          },
+          "tags": {
+            "el": [
+              "EMEC",
+              "3+1",
+              "ενέργεια",
+              "Παπασταύρου"
+            ],
+            "en": [
+              "EMEC",
+              "3+1",
+              "energy",
+              "Papastavrou"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ffb7aa0ab1d7",
+          "title": "East Med Energy Center: Νέο κεφάλαιο στη συνεργασία ΗΠΑ – Ελλάδας στην ανατολική Μεσόγειο",
+          "url": "https://www.kathimerini.gr/world/564280030/east-med-energy-center-neo-kefalaio-sti-synergasia-ipa-elladas-stin-anatoliki-mesogeio/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T08:54:41+00:00",
+          "importance": 71,
+          "summary": {
+            "el": "Ανάλυση για το νέο East Med Energy Center με έδρα το Baker Institute του Rice, που φιλοδοξεί να γίνει ο βασικός μηχανισμός ενεργειακής και γεωπολιτικής συνεργασίας ΗΠΑ-Ελλάδας-Κύπρου-Ισραήλ, υλοποιώντας πρόβλεψη του EastMed Act του 2019.",
+            "en": "An analysis of the new East Med Energy Center, based at Rice University's Baker Institute, which aims to become the principal mechanism for US-Greece-Cyprus-Israel energy and geopolitical cooperation, fulfilling a provision of the 2019 EastMed Act."
+          },
+          "tags": {
+            "el": [
+              "EMEC",
+              "Ανατ. Μεσόγειος",
+              "γεωπολιτική",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "EMEC",
+              "East Med",
+              "geopolitics",
+              "US"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "2f9ec70245d3",
+          "title": "Σε τεντωμένο σχοινί κινείται πλέον ο ΣΥΡΙΖΑ",
+          "url": "https://www.kathimerini.gr/politics/parties/564279349/se-tentomeno-schoini-kineitai-pleon-o-syriza/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T07:22:27+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο ΣΥΡΙΖΑ κινείται «σε τεντωμένο σχοινί» μετά την απόφαση συμπόρευσης με τον Αλ. Τσίπρα, με στελέχη ακόμη και της πλειοψηφίας να ζητούν πιο «καθαρή γραμμή». Ο Π. Πολάκης έχει θέσει δεκαήμερη προθεσμία στον πρόεδρο Σ. Φάμελλο για συμφωνία.",
+            "en": "SYRIZA is 'walking a tightrope' after deciding to align with Alexis Tsipras, with even majority cadres demanding a 'cleaner line'. Pavlos Polakis has set leader Sokratis Famellos a ten-day deadline to reach a deal."
+          },
+          "tags": {
+            "el": [
+              "ΣΥΡΙΖΑ",
+              "Τσίπρας",
+              "Φάμελλος",
+              "Πολάκης"
+            ],
+            "en": [
+              "SYRIZA",
+              "Tsipras",
+              "Famellos",
+              "Polakis"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "9a89e2656ad1",
+          "title": "Συνταξιοδοτικό σύστημα ανισοτήτων και συντάξεων πολλαπλών ταχυτήτων",
+          "url": "https://www.kathimerini.gr/economy/syntaxeis/564279724/syntaxiodotiko-systima-anisotiton-kai-syntaxeon-pollaplon-tachytiton/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T10:23:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Διευρύνεται το χάσμα μεταξύ παλαιών και νέων συντάξεων και μεταξύ ιδιωτικού-δημόσιου τομέα, σύμφωνα με τα στοιχεία του συστήματος «Ηλιος» για τον Μάιο 2026. Μεγάλοι χαμένοι οι νέοι συνταξιούχοι του ιδιωτικού τομέα.",
+            "en": "The gap is widening between old and new pensions and between private- and public-sector retirees, per the 'Ilios' system data for May 2026. New private-sector pensioners are the biggest losers."
+          },
+          "tags": {
+            "el": [
+              "συντάξεις",
+              "ΕΦΚΑ",
+              "ανισότητα",
+              "Ηλιος"
+            ],
+            "en": [
+              "pensions",
+              "EFKA",
+              "inequality",
+              "Ilios"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "52f936019a2f",
+          "title": "Τι αλλάζει σε δάνεια και καταθέσεις η αύξηση επιτοκίων από την ΕΚΤ",
+          "url": "https://www.kathimerini.gr/visual/infographics/564279742/ti-allazei-se-daneia-kai-katatheseis-i-ayxisi-epitokion-apo-tin-ekt/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T10:39:40+03:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η πρώτη αύξηση επιτοκίων της ΕΚΤ μετά το 2023 αναμένεται να προσθέσει ~147 εκατ. ευρώ στα ετήσια έσοδα των ελληνικών τραπεζών, καθώς η άνοδος δεν μετακυλίεται εξίσου στις καταθέσεις, διευρύνοντας το spread δανείων-καταθέσεων.",
+            "en": "The ECB's first rate hike since 2023 is expected to add roughly €147 million to Greek banks' annual interest income, as the increase is not passed on equally to deposits, widening the loan-deposit spread."
+          },
+          "tags": {
+            "el": [
+              "ΕΚΤ",
+              "επιτόκια",
+              "τράπεζες",
+              "καταθέσεις"
+            ],
+            "en": [
+              "ECB",
+              "interest rates",
+              "banks",
+              "deposits"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "2d293915c4d9",
+          "title": "Η BYD πατάει γκάζι για κυριαρχία στην παγκόσμια αγορά αυτοκινήτου",
+          "url": "https://www.kathimerini.gr/economy/international/564279817/i-byd-pataei-gkazi-gia-kyriarchia-stin-pagkosmia-agora-aytokinitoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T09:33:00+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Η κινεζική BYD φιλοδοξεί να ξεπεράσει την Toyota και να γίνει η μεγαλύτερη αυτοκινητοβιομηχανία στον κόσμο σε πέντε χρόνια, επενδύοντας πάνω από 2 δισ. ευρώ στην Ευρώπη σε υποδομές υπερταχείας φόρτισης.",
+            "en": "China's BYD aims to overtake Toyota and become the world's largest carmaker within five years, investing over €2 billion in Europe in ultra-fast charging infrastructure."
+          },
+          "tags": {
+            "el": [
+              "BYD",
+              "ηλεκτρικά",
+              "Toyota",
+              "Κίνα"
+            ],
+            "en": [
+              "BYD",
+              "EVs",
+              "Toyota",
+              "China"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4a4963e8bf5c",
+          "title": "Ανοιξε ο δρόμος για την αύξηση κεφαλαίου 1 δισ. του ΑΔΜΗΕ",
+          "url": "https://www.kathimerini.gr/economy/564279790/anoixe-o-dromos-gia-tin-ayxisi-kefalaioy-1-dis-toy-admie/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T08:45:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Άνοιξε ο δρόμος για την αύξηση μετοχικού κεφαλαίου 1 δισ. ευρώ του ΑΔΜΗΕ, μετά την έγκριση της έκτακτης γ.σ. της ΑΔΜΗΕ Συμμετοχών, που θα συμμετάσχει με 510 εκατ. Η άντληση θα γίνει με συνδυασμένη δημόσια προσφορά και ιδιωτική τοποθέτηση.",
+            "en": "The path opened for IPTO's (ADMIE) €1 billion capital increase after approval by ADMIE Holdings' extraordinary general meeting, which will contribute €510 million via a combined public offering and private placement."
+          },
+          "tags": {
+            "el": [
+              "ΑΔΜΗΕ",
+              "αύξηση κεφαλαίου",
+              "ενέργεια",
+              "χρηματιστήριο"
+            ],
+            "en": [
+              "IPTO",
+              "capital increase",
+              "energy",
+              "stock market"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "e1fed72e93c5",
+          "title": "Διπλασιάστηκαν σε 15 χρόνια τα παγκόσμια χρέη από μικροδάνεια",
+          "url": "https://www.kathimerini.gr/economy/international/564279865/diplasiastikan-se-15-chronia-ta-pagkosmia-chrei-apo-mikrodaneia/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T10:10:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Τα παγκόσμια χρέη από μικροδάνεια διπλασιάστηκαν σε 15 χρόνια, με κρίσεις αποπληρωμής σε πολλές χώρες. Το όραμα του νομπελίστα Μ. Γιουνούς για μικροχρηματοδότηση χωρίς φτώχεια έχει μετατραπεί σε φαύλο κύκλο χρέους για εκατομμύρια.",
+            "en": "Global microloan debt has doubled in 15 years, with repayment crises in many countries. Nobel laureate Muhammad Yunus's vision of poverty-free microfinance has turned into a vicious cycle of debt for millions."
+          },
+          "tags": {
+            "el": [
+              "μικροδάνεια",
+              "Γιουνούς",
+              "φτώχεια",
+              "χρέος"
+            ],
+            "en": [
+              "microfinance",
+              "Yunus",
+              "poverty",
+              "debt"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "c6164b399f6d",
+          "title": "«Βάρα τα να σε φοβούνται» – Οι διάλογοι της συμμορίας που στρατολογούσε ανηλίκους στα σχολεία",
+          "url": "https://www.kathimerini.gr/society/564280471/vara-ta-na-se-fovoyntai-oi-dialogoi-tis-symmorias-poy-stratologoyse-anilikoys-sta-scholeia/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T13:09:08+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Αποκαλυπτικοί διάλογοι «καίνε» κύκλωμα διακίνησης ναρκωτικών που στρατολογούσε ανηλίκους —ακόμη και 12 ετών— στα βόρεια προάστια, με πωλήσεις σε πάρκα, παιδικές χαρές και σχολεία.",
+            "en": "Revealing dialogues implicate a drug-trafficking ring that recruited minors — some as young as 12 — in Athens' northern suburbs, selling in parks, playgrounds and even schools."
+          },
+          "tags": {
+            "el": [
+              "ναρκωτικά",
+              "ανήλικοι",
+              "κύκλωμα",
+              "σχολεία"
+            ],
+            "en": [
+              "drugs",
+              "minors",
+              "ring",
+              "schools"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d735cfa934ab",
+          "title": "Νέο έκτακτο δελτίο ΕΜΥ: Καταιγίδες και μπουρίνια τις επόμενες ώρες – Ποιες περιοχές θα πληγούν",
+          "url": "https://www.kathimerini.gr/society/564280429/neo-ektakto-deltio-emy-kataigides-kai-mpoyrinia-tis-epomenes-ores-poies-perioches-tha-pligoyn/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T12:32:48+00:00",
+          "importance": 57,
+          "summary": {
+            "el": "Νέο έκτακτο δελτίο της ΕΜΥ προειδοποιεί για ισχυρές βροχές, καταιγίδες, μπουρίνια και πιθανές χαλαζοπτώσεις σε βόρεια και κεντρική Ελλάδα, καθώς και στη Θράκη και το ΒΑ Αιγαίο.",
+            "en": "A new emergency bulletin from the national weather service warns of heavy rain, thunderstorms, squalls and possible hail in northern and central Greece, as well as Thrace and the NE Aegean."
+          },
+          "tags": {
+            "el": [
+              "καιρός",
+              "ΕΜΥ",
+              "κακοκαιρία",
+              "καταιγίδες"
+            ],
+            "en": [
+              "weather",
+              "forecast",
+              "storm",
+              "thunderstorms"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "fe6db90c08bd",
+          "title": "Καθαρισμός οικοπέδων: Παρατείνεται η προθεσμία έως τις 22 Ιουνίου",
+          "url": "https://www.kathimerini.gr/society/564280630/katharismos-oikopedon-parateinetai-i-prothesmia-eos-tis-22-ioynioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T13:57:04+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Παρατείνεται έως τις 22 Ιουνίου η προθεσμία καθαρισμού οικοπέδων, ανακοίνωσε ο υπουργός Πολιτικής Προστασίας Ε. Τουρνάς. Έχουν δηλωθεί 373.000 καθαρισμοί, εν όψει δύσκολων καιρικών συνθηκών και κινδύνου πυρκαγιών.",
+            "en": "The deadline for clearing plots of land has been extended to June 22, civil protection minister Evangelos Tournas announced. Some 373,000 clearances have been declared amid worsening weather and fire risk."
+          },
+          "tags": {
+            "el": [
+              "καθαρισμός οικοπέδων",
+              "πυροπροστασία",
+              "Τουρνάς",
+              "προθεσμία"
+            ],
+            "en": [
+              "land clearing",
+              "fire prevention",
+              "Tournas",
+              "deadline"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "5a9ebae0fca1",
+          "title": "Μητέρα και γιος, μαθητές της Α΄ Λυκείου",
+          "url": "https://www.kathimerini.gr/society/reportaz/564276202/mitera-kai-gios-mathites-tis-a-lykeioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T13:00:19+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Ρεπορτάζ-πορτρέτο για ενήλικες που επιστρέφουν στο σχολείο δεκαετίες μετά, όπως η Ουρανία Κουρκούτα που εγκατέλειψε την εκπαίδευση τη δεκαετία του '60. Η «Κ» φωτίζει ιστορίες μαθητών σχολείων δεύτερης ευκαιρίας.",
+            "en": "A feature on adults returning to school decades later, such as Ourania Kourkouta who left education in the 1960s. Kathimerini profiles the stories of second-chance school students."
+          },
+          "tags": {
+            "el": [
+              "εκπαίδευση",
+              "δεύτερη ευκαιρία",
+              "ανθρώπινες ιστορίες"
+            ],
+            "en": [
+              "education",
+              "second chance",
+              "human interest"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "6b66f7749873",
+          "title": "Παξοί: Μία σύλληψη μετά τη φωτιά και τη βύθιση δύο τουριστικών σκαφών",
+          "url": "https://www.kathimerini.gr/society/564280288/paxoi-mia-syllipsi-meta-ti-fotia-kai-ti-vythisi-dyo-toyristikon-skafon/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:08:08+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Συνελήφθη ο 30χρονος κυβερνήτης τουριστικού σκάφους μετά τη φωτιά και βύθιση δύο σκαφών στους Παξούς, που προκάλεσε θαλάσσια ρύπανση. Οι 18 Αμερικανοί επιβάτες και τα πληρώματα αποβιβάστηκαν χωρίς τραυματισμούς.",
+            "en": "The 30-year-old skipper of a tourist boat was arrested after a fire sank two vessels off Paxos, causing marine pollution. The 18 US passengers and crews disembarked without injuries."
+          },
+          "tags": {
+            "el": [
+              "Παξοί",
+              "σκάφος",
+              "φωτιά",
+              "ρύπανση"
+            ],
+            "en": [
+              "Paxos",
+              "boat",
+              "fire",
+              "pollution"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "25b751fa19d8",
+          "title": "Ιράν: Η συμφωνία με τις ΗΠΑ δεν έχει οριστικοποιηθεί",
+          "url": "https://www.kathimerini.gr/world/564280303/iran-i-symfonia-me-tis-ipa-den-echei-oristikopoiithei/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:18:37+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Το Ιράν διαμηνύει ότι η συμφωνία με τις ΗΠΑ δεν έχει οριστικοποιηθεί, παρά τους ισχυρισμούς Τραμπ. Σύμφωνα με το Mehr, απαιτείται έγκριση από τις αρμόδιες αρχές, ενώ το πρόγραμμα βαλλιστικών πυραύλων μένει εκτός ατζέντας.",
+            "en": "Iran signals that a deal with the US is not finalized despite Trump's claims. Per Mehr, approval from competent authorities is required, while the ballistic missile program stays off the agenda."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "συμφωνία",
+              "Τραμπ"
+            ],
+            "en": [
+              "Iran",
+              "US",
+              "deal",
+              "Trump"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "a7d4175fdadd",
+          "title": "Προσχέδιο συμφωνίας με τις ΗΠΑ δημοσίευσε το Ιράν – Τα 14 σημεία του",
+          "url": "https://www.kathimerini.gr/world/564280438/schedio-symfonias-me-tis-ipa-dimosieyse-to-iran-ta-14-simeia-toy/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T12:38:43+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Το ιρανικό πρακτορείο Mehr δημοσίευσε προσχέδιο 14 σημείων μνημονίου κατανόησης Ιράν-ΗΠΑ, με εκτεταμένες πολιτικές, στρατιωτικές και οικονομικές ρυθμίσεις για άμεση αποκλιμάκωση και διαπραγματεύσεις 60 ημερών. Δεν επιβεβαιώθηκε από την Ουάσιγκτον.",
+            "en": "Iran's Mehr agency published a 14-point draft memorandum of understanding with the US, with extensive political, military and economic arrangements for immediate de-escalation and 60-day talks. It was not confirmed by Washington."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "προσχέδιο",
+              "διαπραγματεύσεις"
+            ],
+            "en": [
+              "Iran",
+              "US",
+              "draft",
+              "negotiations"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f4fdbaf3c3c9",
+          "title": "Ο Ελον Μασκ γίνεται ο πρώτος τρισεκατομμυριούχος",
+          "url": "https://www.kathimerini.gr/world/564280291/o-elon-mask-ginetai-o-protos-trisekatommyrioychos/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:47:50+00:00",
+          "importance": 67,
+          "summary": {
+            "el": "Ο Έλον Μασκ έγινε ο πρώτος τρισεκατομμυριούχος στην ιστορία μετά την IPO-ρεκόρ της SpaceX (75 δισ. δολ.), με τη συνολική του περιουσία να ξεπερνά το 1,1 τρισ. δολάρια.",
+            "en": "Elon Musk became history's first trillionaire after SpaceX's record IPO ($75 billion), with his total wealth surpassing $1.1 trillion."
+          },
+          "tags": {
+            "el": [
+              "Μασκ",
+              "SpaceX",
+              "IPO",
+              "τρισεκατομμυριούχος"
+            ],
+            "en": [
+              "Musk",
+              "SpaceX",
+              "IPO",
+              "trillionaire"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "aaf0c4374b18",
+          "title": "Ουκρανία: Ζητά επιπλέον 20 δισ. από τους συμμάχους για να διατηρήσει το «πλεονέκτημα» έναντι της Ρωσίας",
+          "url": "https://www.kathimerini.gr/world/564280348/oykrania-zita-epipleon-20-dis-apo-toys-symmachoys-gia-na-diatirisei-to-pleonektima-enanti-tis-rosias/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:54:45+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Η Ουκρανία αναμένεται να ζητήσει επιπλέον 20 δισ. δολάρια στρατιωτικής χρηματοδότησης από τους συμμάχους στην «Ομάδα Ραμστάιν», επικαλούμενη «παράθυρο ευκαιρίας» 6-9 μηνών στο πεδίο έναντι της Ρωσίας.",
+            "en": "Ukraine is expected to request an additional $20 billion in military funding from allies in the 'Ramstein Group', citing a 6-9 month 'window of opportunity' on the battlefield against Russia."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ραμστάιν",
+              "χρηματοδότηση",
+              "Ρωσία"
+            ],
+            "en": [
+              "Ukraine",
+              "Ramstein",
+              "funding",
+              "Russia"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "71ca860a8846",
+          "title": "E.E.: Πακέτο στήριξης 540 εκατ. ευρώ για αγρότες λόγω της εκτίναξης των τιμών των λιπασμάτων",
+          "url": "https://www.kathimerini.gr/world/564280582/e-e-paketo-stirixis-540-ekat-eyro-gia-agrotes-logo-tis-ektinaxis-ton-timon-ton-lipasmaton/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T13:37:18+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Η Ευρωπαϊκή Επιτροπή πρότεινε πακέτο στήριξης 540 εκατ. ευρώ για τους αγρότες της ΕΕ λόγω της εκτίναξης των τιμών των λιπασμάτων, εξαιτίας του πολέμου με το Ιράν. Με εθνικούς πόρους μπορεί να φτάσει το 1,5 δισ.",
+            "en": "The European Commission proposed a €540 million support package for EU farmers due to soaring fertilizer prices stemming from the war with Iran. With national funds it could reach €1.5 billion."
+          },
+          "tags": {
+            "el": [
+              "ΕΕ",
+              "αγρότες",
+              "λιπάσματα",
+              "Κομισιόν"
+            ],
+            "en": [
+              "EU",
+              "farmers",
+              "fertilizer",
+              "Commission"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "5eed8519a079",
+          "title": "Ο Claude συναντά τον Λάμπρο Κωνσταντάρα",
+          "url": "https://www.kathimerini.gr/opinion/564277090/o-claude-synanta-ton-lampro-konstantara/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:09:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Άρθρο της Ξ. Κουναλάκη για τα έξι χρόνια του Gov.gr: πίσω από την εντυπωσιακή ψηφιακή πρόσοψη εξακολουθούν να υπάρχουν παλιά προβλήματα δημόσιας διοίκησης. Παραλληλίζει την κατάσταση με ταινία του Λ. Κωνσταντάρα.",
+            "en": "An opinion piece by Xenia Kounalaki on Gov.gr's sixth anniversary: behind the impressive digital facade, old public-administration problems persist. She likens it to a Lambros Konstantaras film."
+          },
+          "tags": {
+            "el": [
+              "Gov.gr",
+              "ψηφιοποίηση",
+              "δημόσια διοίκηση",
+              "τεχνολογία"
+            ],
+            "en": [
+              "Gov.gr",
+              "digitization",
+              "public administration",
+              "technology"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "75c2e36d4b44",
+          "title": "Ο εγκλωβισμός του κ. Τραμπ",
+          "url": "https://www.kathimerini.gr/opinion/564276853/o-egklovismos-toy-k-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:12:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Άρθρο του Κ. Ιορδανίδη για τον «εγκλωβισμό» του Ντ. Τραμπ, που έχει ανακοινώσει 37 φορές «κατάπαυση πυρός» στον πόλεμο ΗΠΑ-Ισραήλ εναντίον Ιράν, με τις λέξεις να χάνουν το νόημά τους.",
+            "en": "An article by Costas Iordanidis on Trump's 'entrapment', having announced a 'ceasefire' 37 times in the US-Israel war against Iran, as words lose their meaning."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "Ιράν",
+              "κατάπαυση πυρός",
+              "γεωπολιτική"
+            ],
+            "en": [
+              "Trump",
+              "Iran",
+              "ceasefire",
+              "geopolitics"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "f865532808ff",
+          "title": "Από τον Μπόνο στο ευρωπαϊκό μαχητικό",
+          "url": "https://www.kathimerini.gr/opinion/564277087/apo-ton-mpono-sto-eyropaiko-machitiko/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:06:00+00:00",
+          "importance": 59,
+          "summary": {
+            "el": "Άρθρο του Α. Έλλη για την αδυναμία Γερμανίας-Γαλλίας να συμφωνήσουν στην κοινή ανάπτυξη ευρωπαϊκού μαχητικού 6ης γενιάς, ενώ η Αμερική πιέζει την Ευρώπη να αναλάβει την άμυνά της.",
+            "en": "An article by Athanasios Ellis on the German-French failure to agree on jointly developing a 6th-generation European fighter jet, as America pressures Europe to take charge of its own defense."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "Ευρώπη",
+              "μαχητικό",
+              "Γερμανία-Γαλλία"
+            ],
+            "en": [
+              "defense",
+              "Europe",
+              "fighter jet",
+              "Germany-France"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "7488a12f7d91",
+          "title": "Η ιρλανδική Κρίσταλναχτ",
+          "url": "https://www.kathimerini.gr/opinion/564277069/i-irlandiki-kristalnacht/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:07:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Άρθρο του Π. Μανδραβέλη που παραλληλίζει τις πρόσφατες ταραχές και επιθέσεις σε σπίτια/μαγαζιά στο Μπέλφαστ με τη ναζιστική «Νύχτα των Κρυστάλλων» του 1938.",
+            "en": "An article by Paschos Mandravelis drawing a parallel between the recent riots and attacks on homes and shops in Belfast and the Nazi 'Kristallnacht' of 1938."
+          },
+          "tags": {
+            "el": [
+              "Μπέλφαστ",
+              "Κρίσταλναχτ",
+              "βία",
+              "ρατσισμός"
+            ],
+            "en": [
+              "Belfast",
+              "Kristallnacht",
+              "violence",
+              "racism"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "54b8f0ed24a6",
+          "title": "Παγκόσμιο κύπελλο ρατσισμού",
+          "url": "https://www.kathimerini.gr/columns/564276073/pagkosmio-kypello-ratsismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:08:00+00:00",
+          "importance": 57,
+          "summary": {
+            "el": "Άρθρο γνώμης του Θ. Γεωργακόπουλου που συγκρίνει τις διαμαρτυρίες για τα Μουντιάλ Κατάρ και Ρωσίας με τη σιωπή για το φετινό, θέτοντας ζητήματα υποκρισίας και ρατσισμού της Δύσης.",
+            "en": "An opinion piece by Thodoris Georgakopoulos comparing protests over the Qatar and Russia World Cups with the silence around this year's, raising questions of Western hypocrisy and racism."
+          },
+          "tags": {
+            "el": [
+              "Μουντιάλ",
+              "ρατσισμός",
+              "Δύση",
+              "υποκρισία"
+            ],
+            "en": [
+              "World Cup",
+              "racism",
+              "West",
+              "hypocrisy"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "48afc221a5c0",
+          "title": "Ντέιβιντ Χόκνεϊ: Πέθανε ο σπουδαίος Βρετανός καλλιτέχνης",
+          "url": "https://www.kathimerini.gr/culture/564280468/nteivint-choknei-pethane-o-spoydaios-vretanos-kallitechnis/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T12:49:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Πέθανε σε ηλικία 88 ετών ο σπουδαίος Βρετανός καλλιτέχνης Ντέιβιντ Χόκνεϊ, μία από τις επιδραστικότερες μορφές της σύγχρονης τέχνης του 20ού και 21ου αιώνα, γνωστός για τις εμβληματικές πισίνες του.",
+            "en": "Renowned British artist David Hockney has died at age 88, one of the most influential figures of 20th- and 21st-century modern art, known for his iconic swimming-pool paintings."
+          },
+          "tags": {
+            "el": [
+              "Χόκνεϊ",
+              "τέχνη",
+              "θάνατος",
+              "ζωγραφική"
+            ],
+            "en": [
+              "Hockney",
+              "art",
+              "death",
+              "painting"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "9dec112bf842",
+          "title": "Μάριο Μπανούσι: Η εμπειρία της Βενετίας",
+          "url": "https://www.kathimerini.gr/culture/theater/564279556/mario-mpanoysi-i-empeiria-tis-venetias/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T13:15:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο 27χρονος Ελληνοαλβανός σκηνοθέτης Μάριο Μπανούσι μιλά στην «Κ» λίγο πριν τη βράβευσή του με τον Αργυρό Λέοντα της Μπιενάλε Βενετίας για το θέατρο, βραβείο που πρότεινε ο Γουίλεμ Νταφόε.",
+            "en": "The 27-year-old Greek-Albanian director Mario Banushi speaks to Kathimerini shortly before receiving the Silver Lion for theater at the Venice Biennale, an award proposed by Willem Dafoe."
+          },
+          "tags": {
+            "el": [
+              "Μπανούσι",
+              "Βενετία",
+              "θέατρο",
+              "Αργυρός Λέων"
+            ],
+            "en": [
+              "Banushi",
+              "Venice",
+              "theater",
+              "Silver Lion"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "49d8ab6a4d07",
+          "title": "Νέα εποχή για το «Μπρόντγουαιη» της Πατησίων",
+          "url": "https://www.kathimerini.gr/culture/564277114/nea-epochi-gia-to-mprontgoyaii-tis-patision/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T21:47:26+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Το θρυλικό σινεμά «Μπρόντγουαιη» στην Πατησίων ξαναγεννιέται ως σύγχρονη θεατρική αίθουσα 800 θέσεων («Αθενς Μπρόντγουαιη»), που θα ανοίξει τον Δεκέμβριο του 2026 από τις Θεατρικές Επιχειρήσεις Τάγαρη.",
+            "en": "The legendary 'Broadway' cinema on Patision Street is being reborn as a modern 800-seat theater ('Athens Broadway'), opening in December 2026 under Tagaris Theatrical Enterprises."
+          },
+          "tags": {
+            "el": [
+              "Μπρόντγουαιη",
+              "θέατρο",
+              "Πατησίων",
+              "Αθήνα"
+            ],
+            "en": [
+              "Broadway",
+              "theater",
+              "Patision",
+              "Athens"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "70079b6cc7ba",
+          "title": "Ενα λογοτεχνικό φεστιβάλ γεννιέται στη Σητεία της Κρήτης",
+          "url": "https://www.kathimerini.gr/culture/books/564279532/ena-logotechniko-festival-gennietai-sti-siteia-tis-kritis/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T08:53:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Γεννιέται στη Σητεία της Κρήτης ένα νέο Λογοτεχνικό Φεστιβάλ, με τέσσερα στρογγυλά τραπέζια όπου είκοσι Έλληνες συγγραφείς θα συζητήσουν για το ιστορικό και αστυνομικό μυθιστόρημα, την αυτοβιογράφηση και την ντοπιολαλιά.",
+            "en": "A new Literary Festival is born in Sitia, Crete, with four round tables where twenty Greek authors will discuss historical and crime fiction, autobiography and regional dialect in literature."
+          },
+          "tags": {
+            "el": [
+              "λογοτεχνία",
+              "φεστιβάλ",
+              "Σητεία",
+              "συγγραφείς"
+            ],
+            "en": [
+              "literature",
+              "festival",
+              "Sitia",
+              "authors"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "86600bbbe7bb",
+          "title": "Στίβεν Σπίλμπεργκ: «Ζήτησα να σκηνοθετήσω Τζέιμς Μποντ και με απέρριψαν»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564280309/stiven-spilmpergk-zitisa-na-skinothetiso-tzeims-mpont-kai-me-aperripsan/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:23:12+00:00",
+          "importance": 49,
+          "summary": {
+            "el": "Ο Στίβεν Σπίλμπεργκ αποκάλυψε ότι ζήτησε επανειλημμένα να σκηνοθετήσει ταινία Τζέιμς Μποντ μετά τα «Σαγόνια του Καρχαρία», αλλά ο παραγωγός Άλμπερτ Μπρόκολι τον απέρριψε.",
+            "en": "Steven Spielberg revealed he repeatedly asked to direct a James Bond film after 'Jaws', but producer Albert Broccoli turned him down."
+          },
+          "tags": {
+            "el": [
+              "Σπίλμπεργκ",
+              "Τζέιμς Μποντ",
+              "σινεμά",
+              "Χόλιγουντ"
+            ],
+            "en": [
+              "Spielberg",
+              "James Bond",
+              "cinema",
+              "Hollywood"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "f4fdbaf3c3c9",
+          "title": "Ο Ελον Μασκ γίνεται ο πρώτος τρισεκατομμυριούχος",
+          "url": "https://www.kathimerini.gr/world/564280291/o-elon-mask-ginetai-o-protos-trisekatommyrioychos/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T11:47:50+00:00",
+          "category": "world",
+          "importance": 67,
+          "summary": {
+            "el": "Ο Έλον Μασκ έγινε ο πρώτος τρισεκατομμυριούχος στην ιστορία μετά την IPO-ρεκόρ της SpaceX (75 δισ. δολ.), με τη συνολική του περιουσία να ξεπερνά το 1,1 τρισ. δολάρια.",
+            "en": "Elon Musk became history's first trillionaire after SpaceX's record IPO ($75 billion), with his total wealth surpassing $1.1 trillion."
+          },
+          "tags": {
+            "el": [
+              "Μασκ",
+              "SpaceX",
+              "IPO",
+              "τρισεκατομμυριούχος"
+            ],
+            "en": [
+              "Musk",
+              "SpaceX",
+              "IPO",
+              "trillionaire"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "5eed8519a079",
+          "title": "Ο Claude συναντά τον Λάμπρο Κωνσταντάρα",
+          "url": "https://www.kathimerini.gr/opinion/564277090/o-claude-synanta-ton-lampro-konstantara/",
+          "source": "Kathimerini",
+          "published": "2026-06-11T20:09:00+00:00",
+          "category": "opinion",
+          "importance": 62,
+          "summary": {
+            "el": "Άρθρο της Ξ. Κουναλάκη για τα έξι χρόνια του Gov.gr: πίσω από την εντυπωσιακή ψηφιακή πρόσοψη εξακολουθούν να υπάρχουν παλιά προβλήματα δημόσιας διοίκησης. Παραλληλίζει την κατάσταση με ταινία του Λ. Κωνσταντάρα.",
+            "en": "An opinion piece by Xenia Kounalaki on Gov.gr's sixth anniversary: behind the impressive digital facade, old public-administration problems persist. She likens it to a Lambros Konstantaras film."
+          },
+          "tags": {
+            "el": [
+              "Gov.gr",
+              "ψηφιοποίηση",
+              "δημόσια διοίκηση",
+              "τεχνολογία"
+            ],
+            "en": [
+              "Gov.gr",
+              "digitization",
+              "public administration",
+              "technology"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "099c00709b0b",
+          "title": "Νότια Κορέα: Ο πρώην πρόεδρος καταδικάστηκε για την αποστολή drones στη Βόρεια Κορέα",
+          "url": "https://www.kathimerini.gr/world/564280390/notia-korea-o-proin-proedros-katadikastike-gia-tin-apostoli-drones-sti-voreia-korea/",
+          "source": "Kathimerini",
+          "published": "2026-06-12T12:01:40+00:00",
+          "category": "world",
+          "importance": 60,
+          "summary": {
+            "el": "Ο πρώην πρόεδρος της Νότιας Κορέας Γιουν Σουκ Γέολ καταδικάστηκε σε 30 χρόνια κάθειρξη για την αποστολή drones στη Βόρεια Κορέα, ως πρόσχημα για να κηρύξει στρατιωτικό νόμο· είχε ήδη καταδικαστεί ισόβια για «εξέγερση».",
+            "en": "Former South Korean president Yoon Suk Yeol was sentenced to 30 years for sending drones to North Korea as a pretext to declare martial law; he had already been given life for 'insurrection'."
+          },
+          "tags": {
+            "el": [
+              "Νότια Κορέα",
+              "Γιουν",
+              "drones",
+              "στρατιωτικός νόμος"
+            ],
+            "en": [
+              "South Korea",
+              "Yoon",
+              "drones",
+              "martial law"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 82
+  }
+}
