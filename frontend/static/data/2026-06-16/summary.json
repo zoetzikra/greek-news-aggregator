@@ -1,0 +1,562 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T09:17:47.871798+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 67 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχείται από το προεκλογικό κλίμα, καθώς η χώρα οδεύει σε εκλογές εντός οκτώ-εννέα μηνών. Ο Αλέξης Τσίπρας εγκαινίασε τον κύκλο εκδηλώσεων της νέας ΕΛΑΣ θέτοντας το δίλημμα «εντιμότητα ή διαφθορά», η Νέα Δημοκρατία ξεκινά υπό τον νέο γραμματέα Κυρανάκη την προσπάθεια επανασύνδεσης με τη βάση, ενώ φουντώνουν τα σενάρια για νέο κόμμα Σαμαρά και η συζήτηση για την αξιοπιστία των δημοσκοπήσεων.\n\nΣτο διεθνές πεδίο, η αποκλιμάκωση στη Μέση Ανατολή βρίσκεται στο επίκεντρο: νέος γύρος διαπραγματεύσεων Ιράν-ΗΠΑ ξεκινά την Παρασκευή στην Ελβετία, το άνοιγμα των Στενών του Ορμούζ ανακουφίζει την Ασία, και ο Τραμπ φτάνει ενισχυμένος στη Σύνοδο της G7 στο Εβιάν, όπου ο Ζελένσκι ζητά στήριξη για την Ουκρανία.\n\nΣτην οικονομία ξεχωρίζουν η πρόωρη αποπληρωμή 6,94 δισ. ευρώ δανείων του πρώτου μνημονίου, η ανοδική αναθεώρηση του πληθωρισμού στο 3,8% από την ΤτΕ, η είσοδος της Chevron στο Ιόνιο και νέα μέτρα για ακίνητα, φορολογία και τουρισμό. Στην κοινωνία και τον κόσμο, ο ρωσικός βομβαρδισμός της Λαύρας του Κιέβου, η δίωξη στην υπόθεση διαρροής emails αποδήμων και η επιστροφή του Γιωτόπουλου στη φυλακή συμπληρώνουν την εικόνα της ημέρας.",
+    "en": "The day's news is dominated by the pre-election climate, with the country heading to polls within eight to nine months. Alexis Tsipras launched his new ELAS party's event series around an \"integrity or corruption\" dilemma, New Democracy under new secretary Kyranakis began an effort to reconnect with its base, while speculation about a new Samaras party and debate over the credibility of opinion polls intensified.\n\nInternationally, Middle East de-escalation took center stage: a new round of Iran-US talks starts Friday in Switzerland, the reopening of the Strait of Hormuz relieves Asia, and Trump arrives strengthened at the G7 summit in Evian, where Zelensky seeks support for Ukraine.\n\nIn the economy, highlights include the early repayment of €6.94bn in first-bailout loans, the Bank of Greece's upward inflation revision to 3.8%, Chevron's entry into the Ionian, and new measures on real estate, taxation and tourism. In society and the world, the Russian bombing of Kyiv's Lavra, the prosecution in the diaspora email-leak case, and Giotopoulos's return to prison round out the day's picture."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Προεκλογικό σκηνικό & νέα κόμματα",
+        "en": "Pre-election landscape & new parties"
+      },
+      "description": {
+        "el": "Ο Τσίπρας εγκαινιάζει την ΕΛΑΣ, η ΝΔ ξεκινά προεκλογική αναδιοργάνωση υπό τον Κυρανάκη, εντείνονται τα σενάρια κόμματος Σαμαρά και η αμφισβήτηση των δημοσκοπήσεων.",
+        "en": "Tsipras launches ELAS, ND begins a pre-election reorganization under Kyranakis, and speculation about a Samaras party and doubts over polling intensify."
+      },
+      "related_items": [
+        "9a765d7f5e22",
+        "314008c237b3",
+        "15186da22a51",
+        "a52f7b063e6d",
+        "58aedda459ac",
+        "3cb1c13ba4dc",
+        "a21726cd5ea6",
+        "99ebb688ef6c",
+        "43bfcb3194b9"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Αποκλιμάκωση στη Μέση Ανατολή",
+        "en": "Middle East de-escalation"
+      },
+      "description": {
+        "el": "Νέος γύρος διαπραγματεύσεων Ιράν-ΗΠΑ, άνοιγμα του Ορμούζ και η σύνοδος G7 στο Εβιάν διαμορφώνουν ένα νέο, ρευστό περιφερειακό σκηνικό με επιπτώσεις στην οικονομία.",
+        "en": "A new round of Iran-US talks, the reopening of Hormuz and the G7 summit in Evian shape a fluid new regional landscape with economic repercussions."
+      },
+      "related_items": [
+        "b1e175d8a61e",
+        "2d01b277296e",
+        "d607306af4b2",
+        "b2953abd6c10",
+        "f185b190cc1c"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Οικονομία: χρέος, πληθωρισμός & ενέργεια",
+        "en": "Economy: debt, inflation & energy"
+      },
+      "description": {
+        "el": "Πρόωρη αποπληρωμή 6,94 δισ. ευρώ δανείων του πρώτου μνημονίου, ανοδική αναθεώρηση πληθωρισμού στο 3,8% και ενεργειακές κινήσεις όπως η είσοδος της Chevron στο Ιόνιο.",
+        "en": "Early repayment of €6.94bn in first-bailout loans, an inflation revision up to 3.8%, and energy moves such as Chevron's entry into the Ionian."
+      },
+      "related_items": [
+        "0858738103da",
+        "f185b190cc1c",
+        "560d5dd9615c",
+        "e0d4b569303b",
+        "28f6cde0224c"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Πόλεμος στην Ουκρανία",
+        "en": "War in Ukraine"
+      },
+      "description": {
+        "el": "Ρωσικός βομβαρδισμός της Λαύρας του Κιέβου, ουκρανική επίθεση με drone σε διυλιστήριο της Μόσχας και η προσπάθεια Ζελένσκι για στήριξη στην G7.",
+        "en": "The Russian bombing of Kyiv's Lavra, a Ukrainian drone attack on a Moscow refinery, and Zelensky's push for support at the G7."
+      },
+      "related_items": [
+        "4ec5d84ed754",
+        "401959a65afc",
+        "d607306af4b2"
+      ],
+      "importance": 66
+    }
+  ],
+  "article_count": 67,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "0c8712da6a95",
+          "title": "Με το στίγμα του Ισραήλ",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564282418/me-to-stigma-toy-israil/",
+          "source": "Kathimerini",
+          "published": "2026-06-15T21:44:50+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Η στενή συμμαχία της Αθήνας με τον Νετανιάχου προκαλεί την αντίδραση της Άγκυρας και δημιουργεί παρενέργειες στις σχέσεις της Ελλάδας με άλλα κράτη της Μέσης Ανατολής. Η ασταθής κατάσταση στο Ισραήλ έχει εγκατασταθεί ως σταθερή παράμετρος της ελληνικής εξωτερικής πολιτικής.",
+            "en": "Athens's close alliance with Netanyahu draws Ankara's reaction and creates side-effects in Greece's ties with other Middle East states. Israel's volatile posture has become a fixed parameter of Greek foreign policy."
+          }
+        },
+        {
+          "id": "ba9049fbf6ac",
+          "title": "Ενοπλες Δυνάμεις: Κυνήγι τεχνολογίας στις ΗΠΑ",
+          "url": "https://www.kathimerini.gr/politics/amyna/564286546/enoples-dynameis-kynigi-technologias-stis-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T06:57:40+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο υπουργός Άμυνας Νίκος Δένδιας μετέβη στις ΗΠΑ για επαφές με εταιρείες και ερευνητικά ιδρύματα στους τομείς της ρομποτικής, της τεχνητής νοημοσύνης, της κυβερνοάμυνας και των μη επανδρωμένων συστημάτων. Στόχος είναι ο εξοπλισμός του Πολεμικού Ναυτικού με drones.",
+            "en": "Defense Minister Nikos Dendias traveled to the US for contacts with firms and research institutes in robotics, artificial intelligence, cyber-defense and unmanned systems. The aim is to equip the Navy with drones."
+          }
+        },
+        {
+          "id": "c27b531fcaee",
+          "title": "Η μείωση των ροών στη «βαλίτσα» του Σαντάμ Χαφτάρ",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564286543/i-meiosi-ton-roon-sti-valitsa-toy-santam-chaftar/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T07:09:21+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Στις επαφές του Σαντάμ Χαφτάρ, γιου του στρατάρχη της Ανατολικής Λιβύης, με τον ΥΠΕΞ Γιώργο Γεραπετρίτη στην Αθήνα κυριάρχησε το μεταναστευτικό, καθώς οι ροές προς την Κρήτη προέρχονται πλέον σχεδόν αποκλειστικά από τη Βεγγάζη. Συζητήθηκε επίσης η οριοθέτηση θαλασσίων ζωνών.",
+            "en": "Migration dominated talks in Athens between Saddam Haftar, son of eastern Libya's marshal, and FM George Gerapetritis, as flows to Crete now come almost exclusively from Benghazi. Maritime-zone delimitation was also on the table."
+          }
+        },
+        {
+          "id": "a52f7b063e6d",
+          "title": "Νέα Δημοκρατία: «Εξορμήσεις» σε κάθε χωριό",
+          "url": "https://www.kathimerini.gr/politics/parties/564286531/nea-dimokratia-exormiseis-se-kathe-chorio/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T08:37:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Με την ανάληψη καθηκόντων του νέου γραμματέα Κωνσταντίνου Κυρανάκη, η Νέα Δημοκρατία ξεκινά επίσημα την προεκλογική περίοδο, με στόχο την επανασύνδεση με τη βάση. Προτεραιότητα δίνεται στις περιοχές με χαμηλές επιδόσεις στις μετρήσεις, εν όψει εκλογών σε οκτώ-εννέα μήνες.",
+            "en": "With Konstantinos Kyranakis taking over as secretary, New Democracy formally launches its pre-election period, aiming to reconnect with its base. Priority goes to areas where polling is weakest, with elections eight to nine months away."
+          }
+        },
+        {
+          "id": "5852ac5f83b9",
+          "title": "Αχμέτ Νταβούτογλου στην «Κ»: Το Αιγαίο είναι κοινό",
+          "url": "https://www.kathimerini.gr/politics/564282433/achmet-ntavoytogloy-stin-k-to-aigaio-einai-koino/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:15:44+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Σε συνέντευξη στην «Κ», ο πρώην Τούρκος πρωθυπουργός Αχμέτ Νταβούτογλου υποστήριξε ότι «το Αιγαίο είναι κοινό» και ότι η Μέση Ανατολή χρειάζεται νέα περιφερειακή αρχιτεκτονική ασφαλείας. Σχολίασε και το επίμαχο νομοσχέδιο για τη «Γαλάζια Πατρίδα».",
+            "en": "In a Kathimerini interview, former Turkish PM Ahmet Davutoglu argued that \"the Aegean is shared\" and that the Middle East needs a new regional security architecture. He also commented on the contested \"Blue Homeland\" bill."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "560d5dd9615c",
+          "title": "Εγκρίθηκε η είσοδος της Chevron στο Βlock 10 του νοτίου Ιονίου",
+          "url": "https://www.kathimerini.gr/economy/local/564286894/egkrithike-i-eisodos-tis-chevron-sto-vlock-10-toy-notioy-ionioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T08:54:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Εγκρίθηκε η είσοδος της Chevron στο Block 10 του νοτίου Ιονίου, σε συνεργασία με τη HELLENiQ ENERGY, με τη διαδικασία farm-in. Πρόκειται για την πέμπτη παραχώρηση όπου δραστηριοποιείται πλέον η αμερικανική εταιρεία στην Ελλάδα.",
+            "en": "Greece approved Chevron's entry into Block 10 in the southern Ionian alongside HELLENiQ ENERGY via a farm-in. It is the fifth concession where the US major now operates in the country."
+          }
+        },
+        {
+          "id": "0858738103da",
+          "title": "Πρόωρη αποπληρωμή δανείων 6,94 δισ. ευρώ",
+          "url": "https://www.kathimerini.gr/economy/diktis/564287008/proori-apopliromi-daneion-6-94-dis-eyro/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T08:07:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Το ελληνικό Δημόσιο προχώρησε σε πρόωρη αποπληρωμή 6,94 δισ. ευρώ δανείων του πρώτου μνημονίου (GLF), χρησιμοποιώντας το «σκληρό μαξιλάρι» του ESM και ταμειακά διαθέσιμα. Στόχος είναι η αποπληρωμή των δανείων δέκα χρόνια νωρίτερα, έως το 2031.",
+            "en": "Greece made an early repayment of €6.94bn in first-bailout (GLF) loans, drawing on the ESM \"hard cushion\" and cash reserves. The goal is to repay the loans ten years ahead of schedule, by 2031."
+          }
+        },
+        {
+          "id": "f185b190cc1c",
+          "title": "Η ειρήνευση στη Μ. Ανατολή δεν φέρνει αποκλιμάκωση των τιμών",
+          "url": "https://www.kathimerini.gr/economy/local/564286900/i-eirineysi-sti-m-anatoli-den-fernei-apoklimakosi-ton-timon/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T09:15:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Η Τράπεζα της Ελλάδος αναθεώρησε ανοδικά την πρόβλεψη για τον πληθωρισμό του 2026 στο 3,8% από 3,1%, καθώς η ειρήνευση στη Μέση Ανατολή δεν θα μεταφραστεί άμεσα σε αποκλιμάκωση τιμών. Αυξήσεις σε μισθούς, ενοίκια και η τουριστική ζήτηση συντηρούν τον επίμονο πληθωρισμό υπηρεσιών.",
+            "en": "The Bank of Greece revised its 2026 inflation forecast up to 3.8% from 3.1%, as Middle East peace won't quickly translate into lower prices. Wage and rent rises plus tourism demand sustain stubborn services inflation."
+          }
+        },
+        {
+          "id": "2d01b277296e",
+          "title": "Aνακούφιση στην Ασία από το άνοιγμα του Ορμούζ",
+          "url": "https://www.kathimerini.gr/economy/international/564287005/anakoyfisi-stin-asia-apo-to-anoigma-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T11:51:07+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Μια πιθανή συμφωνία ΗΠΑ-Ιράν για το άνοιγμα των Στενών του Ορμούζ θα ανακουφίσει βραχυπρόθεσμα την Ασία, που έχει πληγεί ιδιαίτερα από τον πόλεμο. Ωστόσο το σοκ της κρίσης —νομισματικές πιέσεις, πληθωρισμός, συμφόρηση εφοδιαστικής— ίσως διαρκέσει ώς το τέλος του έτους.",
+            "en": "A possible US-Iran deal to reopen the Strait of Hormuz would bring short-term relief to Asia, hit hard by the war. Still, the crisis shock—currency pressure, inflation, supply-chain congestion—may last until year-end."
+          }
+        },
+        {
+          "id": "a8f378946c25",
+          "title": "Ο Ντόναλντ Τραμπ απειλεί με δασμό 100% στα γαλλικά κρασιά",
+          "url": "https://www.kathimerini.gr/economy/international/564286957/o-ntonalnt-tramp-apeilei-me-dasmo-100-sta-gallika-krasia/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T08:14:00+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ απείλησε με δασμό 100% στα γαλλικά κρασιά και σαμπάνιες αν η Γαλλία δεν καταργήσει τον φόρο 3% στις ψηφιακές υπηρεσίες. Η απειλή ήρθε λίγο πριν τη σύνοδο της G7 στο Εβιάν.",
+            "en": "Donald Trump threatened a 100% tariff on French wines and champagne unless France scraps its 3% digital-services tax. The threat came just before the G7 summit in Evian."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "4ec5d84ed754",
+          "title": "Επλήγη η «καρδιά» της Λαύρας – «Το θέαμα ήταν εφιαλτικό»",
+          "url": "https://www.kathimerini.gr/society/reportaz/564286708/epligi-i-kardia-tis-layras-to-theama-itan-efialtiko/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T12:03:16+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ρωσικός βομβαρδισμός έπληξε στοχευμένα την ιστορική Λαύρα των Σπηλαίων στο Κίεβο, μνημείο της UNESCO και σύμβολο της ορθόδοξης χριστιανοσύνης με δεσμούς προς το Άγιον Όρος. Ο Έλληνας πρέσβης έγινε αυτόπτης μάρτυρας της καταστροφής.",
+            "en": "A Russian strike deliberately hit the historic Kyiv Pechersk Lavra, a UNESCO monument and symbol of Orthodox Christianity with ties to Mount Athos. The Greek ambassador witnessed the destruction firsthand."
+          }
+        },
+        {
+          "id": "48faeab8230c",
+          "title": "Διαρροή emails αποδήμων: Ενοχή για Ασημακοπούλου και Σταυριανουδάκη για δύο αδικήματα ζητά η εισαγγελέας",
+          "url": "https://www.kathimerini.gr/society/564287569/diarroi-emails-apodimon-enochi-gia-asimakopoyloy-kai-stayrianoydaki-gia-dyo-adikimata-zita-i-eisaggeleas/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T11:51:36+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η εισαγγελέας ζήτησε την ενοχή της πρώην ευρωβουλευτή Άννας-Μισέλ Ασημακοπούλου και του πρώην γγ Εσωτερικών Μιχάλη Σταυριανουδάκη για παραβίαση υπηρεσιακού απορρήτου και προσωπικών δεδομένων στην υπόθεση διαρροής emails αποδήμων πριν τις ευρωεκλογές του 2024. Για Κορομηλά και Θεοδωρόπουλο ζητήθηκε ενοχή για ένα αδίκημα.",
+            "en": "The prosecutor sought a guilty verdict for ex-MEP Anna-Michelle Asimakopoulou and former interior ministry secretary Michalis Stavrianoudakis over breach of confidentiality and data protection in the diaspora email-leak case before the 2024 Euro-elections. A single-count guilt was sought for Koromilas and Theodoropoulos."
+          }
+        },
+        {
+          "id": "8f2eeb407e1d",
+          "title": "Επέστρεψε στις φυλακές Κορυδαλλού ο Αλέξανδρος Γιωτόπουλος",
+          "url": "https://www.kathimerini.gr/society/564287209/epestrepse-stis-fylakes-korydalloy-o-alexandros-giotopoylos/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T11:59:06+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο Αλέξανδρος Γιωτόπουλος, καταδικασμένος ως ηγετικό στέλεχος της «17 Νοέμβρη», επέστρεψε στις φυλακές Κορυδαλλού μετά την ανατροπή απόφασης αποφυλάκισης. Ο Άρειος Πάγος έκανε δεκτή την αναίρεση κατά του βουλεύματος του Συμβουλίου Εφετών Πειραιά.",
+            "en": "Alexandros Giotopoulos, convicted as a leader of the \"17 November\" group, returned to Korydallos prison after a release ruling was overturned. The Supreme Court accepted the appeal against the Piraeus appeals council decision."
+          }
+        },
+        {
+          "id": "f7de2641707c",
+          "title": "Υπόθεση ΟΠΕΚΕΠΕ: «Μεθόδευση της ΑΑΔΕ η μη επανατοποθέτηση της Τυχεροπούλου»",
+          "url": "https://www.kathimerini.gr/society/564287485/ypothesi-opekepe-methodeysi-tis-aade-i-mi-epanatopothetisi-tis-tycheropoyloy/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T11:05:16+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο συνήγορος της Παρασκευής Τυχεροπούλου κάνει λόγο για «μεθόδευση» της ΑΑΔΕ και «φωτογραφικές διατάξεις» που την αποκλείουν από θέση προϊσταμένης, χαρακτηρίζοντάς το εκδικητική μεταχείριση. Η υπόθεση συνδέεται με το σκάνδαλο ΟΠΕΚΕΠΕ.",
+            "en": "Paraskevi Tycheropoulou's lawyer alleges the tax authority engineered \"tailor-made provisions\" to exclude her from a director post, calling it retaliatory treatment. The case is linked to the OPEKEPE scandal."
+          }
+        },
+        {
+          "id": "9738b14170c6",
+          "title": "Συνελήφθη 56χρονος αρχαιοκάπηλος – Εισήγαγε από το εξωτερικό αρχαία νομίσματα και αντικείμενα",
+          "url": "https://www.kathimerini.gr/society/564287287/synelifthi-56chronos-archaiokapilos-eisigage-apo-to-exoteriko-archaia-nomismata-kai-antikeimena/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T09:23:40+00:00",
+          "importance": 46,
+          "summary": {
+            "el": "Συνελήφθη 56χρονος αρχαιοκάπηλος που εισήγαγε από το εξωτερικό αρχαία νομίσματα και αντικείμενα, επιχειρώντας να τα διαθέσει μέσω πλατφόρμας κοινωνικής δικτύωσης. Έρευνα στην οικία του οδήγησε σε κατασχέσεις.",
+            "en": "A 56-year-old antiquities smuggler who imported ancient coins and artifacts and tried to sell them via social media was arrested. A search of his home led to seizures."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "b1e175d8a61e",
+          "title": "Ιράν: Νέος γύρος συνομιλιών με τις ΗΠΑ από την Παρασκευή",
+          "url": "https://www.kathimerini.gr/world/564287440/iran-tin-paraskeyi-tha-xekinisei-neos-gyros-synomilion-me-tis-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:40:24+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Ιρανός ΥΠΕΞ Αμπάς Αραγτσί ανακοίνωσε νέο γύρο διαπραγματεύσεων Ιράν-ΗΠΑ από την Παρασκευή στην Ελβετία, με στόχο τελική συμφωνία μετά την έναρξη ενδιάμεσης συμφωνίας. Προειδοποίησε ότι ισραηλινή επίθεση στον Λίβανο θα θεωρηθεί παραβίαση της εκεχειρίας.",
+            "en": "Iranian FM Abbas Araghchi announced a new round of Iran-US talks starting Friday in Switzerland, aiming for a final deal after an interim agreement took effect. He warned that an Israeli attack on Lebanon would breach the ceasefire."
+          }
+        },
+        {
+          "id": "d607306af4b2",
+          "title": "G7: Ο Ζελένσκι επιχειρεί να πείσει τον Τραμπ ότι η Ρωσία χάνει τον πόλεμο",
+          "url": "https://www.kathimerini.gr/world/564287551/g7-o-zelenski-epicheirei-na-peisei-ton-tramp-oti-i-rosia-chanei-ton-polemo/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T11:38:55+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι έφτασε στη Σύνοδο της G7 στο Εβιάν επιδιώκοντας να πείσει τον Τραμπ ότι η Ρωσία χάνει τον πόλεμο και ότι χρειάζεται ενισχυμένη διεθνής στήριξη. Ο Τραμπ είχε φτάσει ενισχυμένος από τη συμφωνία-πλαίσιο με το Ιράν.",
+            "en": "Ukrainian President Volodymyr Zelensky arrived at the G7 summit in Evian, seeking to convince Trump that Russia is losing the war and that stronger international support is needed. Trump had arrived buoyed by the framework deal with Iran."
+          }
+        },
+        {
+          "id": "cc16d50c65d3",
+          "title": "Υπό πίεση το σχέδιο Τραμπ για «χαλαρή» εποπτεία της ΑΙ",
+          "url": "https://www.kathimerini.gr/world/564287401/ypo-piesi-to-schedio-tramp-gia-chalari-epopteia-tis-ai/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:17:03+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Οι πρόσφατοι περιορισμοί της κυβέρνησης Τραμπ στην εταιρεία τεχνητής νοημοσύνης Anthropic προκαλούν αμφιβολίες για το αν μπορεί να διατηρηθεί η υποσχεθείσα «laissez-faire» προσέγγιση στη ρύθμιση της ΑΙ. Η βιομηχανία ανησυχεί ότι το πλαίσιο συνεργασίας καταρρέει.",
+            "en": "The Trump administration's recent restrictions on AI firm Anthropic cast doubt on whether the promised \"laissez-faire\" approach to AI regulation can hold. Industry figures fear the cooperation framework is collapsing."
+          }
+        },
+        {
+          "id": "401959a65afc",
+          "title": "Ρωσία: Ζημιές στο μεγαλύτερο διυλιστήριο της Μόσχας από ουκρανικό drone",
+          "url": "https://www.kathimerini.gr/world/564287317/rosia-zimies-sto-megalytero-diylistirio-tis-moschas-apo-oykraniko-drone/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:06:35+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ουκρανική επίθεση με drone προκάλεσε ζημιές στο μεγαλύτερο διυλιστήριο της περιοχής της Μόσχας, ιδιοκτησίας της Gazpromneft, χωρίς θύματα σύμφωνα με τον δήμαρχο Σομπιάνιν. Δεν διευκρινίστηκε αν επηρεάστηκε η λειτουργία του.",
+            "en": "A Ukrainian drone attack damaged the largest refinery in the Moscow region, owned by Gazpromneft, with no casualties per Mayor Sobyanin. It was unclear whether operations were affected."
+          }
+        },
+        {
+          "id": "a746680ac268",
+          "title": "Αλβανία: η μαφία πίσω από τη μεγάλη επένδυση",
+          "url": "https://www.kathimerini.gr/world/564286561/alvania-i-mafia-piso-apo-ti-megali-ependysi/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T09:59:39+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η αντιδιαφθορική εισαγγελία της Αλβανίας (SPAK) σχημάτισε δικογραφία εις βάρος 20 ατόμων για ξέπλυμα χρήματος συνδεδεμένο με ύποπτες αγοραπωλησίες γης στην Αλβανική Ριβιέρα. Οι έρευνες προηγήθηκαν των διαδηλώσεων κατά των επενδυτικών σχεδίων στην ακτογραμμή.",
+            "en": "Albania's anti-corruption prosecutor (SPAK) charged 20 people for money laundering tied to suspicious land deals on the Albanian Riviera. The probe preceded protests against coastal investment plans."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 2,
+      "top_items": [
+        {
+          "id": "b2953abd6c10",
+          "title": "Ο Τραμπ καλείται να τετραγωνίσει τον κύκλο στη Μέση Ανατολή",
+          "url": "https://www.kathimerini.gr/opinion/564282652/o-tramp-kaleitai-na-tetragonisei-ton-kyklo-sti-mesi-anatoli/",
+          "source": "Kathimerini",
+          "published": "2026-06-15T12:10:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Σε ανάλυσή του, ο Κωνσταντίνος Φίλης υποστηρίζει ότι ο Τραμπ καλείται να «τετραγωνίσει τον κύκλο» στη Μέση Ανατολή, εξασφαλίζοντας καλύτερη πυρηνική συμφωνία με την Τεχεράνη και αποκαθιστώντας την κλονισμένη εμπιστοσύνη των κρατών της περιοχής. Πρέπει να ικανοποιήσει ακροατήρια με αποκλίνοντα συμφέροντα.",
+            "en": "In his analysis, Konstantinos Filis argues Trump must \"square the circle\" in the Middle East, securing a better nuclear deal with Tehran while restoring the region's shaken trust in US leadership. He must satisfy audiences with conflicting interests."
+          }
+        },
+        {
+          "id": "43bfcb3194b9",
+          "title": "Πού θα κριθεί η μάχη της δεύτερης θέσης;",
+          "url": "https://www.kathimerini.gr/opinion/564282388/poy-tha-krithei-i-machi-tis-deyteris-thesis/",
+          "source": "Kathimerini",
+          "published": "2026-06-15T12:00:00+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ο αρθρογράφος αναλύει ότι η μάχη για τη δεύτερη θέση θα κλιμακωθεί, καθώς όποιο κόμμα εδραιωθεί εκεί θα αξιώνει τον ρόλο του βασικού πόλου αλλαγής. Η ΕΛΑΣ του Τσίπρα φαίνεται να έχει επισφαλές προβάδισμα, αντίστοιχο του «γκελ» που είχε το ΠΑΣΟΚ μετά την εκλογή Ανδρουλάκη.",
+            "en": "The columnist argues the battle for second place will intensify, as whichever party secures it can claim the role of the main pole for change. Tsipras's ELAS appears to hold a fragile lead, echoing the bounce PASOK had after Androulakis's election."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "id": "858684ad267e",
+          "title": "Στον λάτρη των Πρεσπών, συγγραφέα Τζούλιαν Χόφμαν, το φετινό βραβείο Ράνσιμαν",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564282340/ston-latri-ton-prespon-syggrafea-tzoylian-chofman-to-fetino-vraveio-ransiman/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:30:11+00:00",
+          "importance": 48,
+          "summary": {
+            "el": "Ο συγγραφέας Τζούλιαν Χόφμαν, που εγκαταστάθηκε στις Πρέσπες εμπνευσμένος από ένα βιβλίο για τη φύση, τιμήθηκε με το φετινό βραβείο Ράνσιμαν. Η ιστορία του δείχνει πώς ένα βιβλίο μπορεί να αλλάξει μια ζωή.",
+            "en": "Author Julian Hoffman, who settled in the Prespes inspired by a book about nature, won this year's Runciman Award. His story shows how a single book can change a life."
+          }
+        },
+        {
+          "id": "6af1bdb8adcf",
+          "title": "Ο Σπίλμπεργκ ξανά «εκεί έξω»",
+          "url": "https://www.kathimerini.gr/culture/564281344/o-spilmpergk-xana-ekei-exo/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T09:16:33+00:00",
+          "importance": 46,
+          "summary": {
+            "el": "Ο Στίβεν Σπίλμπεργκ επιστρέφει στο θέμα της εξωγήινης ζωής, 49 χρόνια μετά τις «Στενές επαφές τρίτου τύπου». Το άρθρο ανατρέχει στην πορεία του από τα «Σαγόνια του καρχαρία» έως το νέο του εγχείρημα.",
+            "en": "Steven Spielberg returns to the theme of alien life, 49 years after \"Close Encounters of the Third Kind.\" The piece revisits his path from \"Jaws\" to his new project."
+          }
+        },
+        {
+          "id": "8c5d14a7269b",
+          "title": "Η Ανια Τέιλορ-Τζόι μπαίνει στο σύμπαν του Τόλκιν",
+          "url": "https://www.kathimerini.gr/culture/cinema/564286342/i-ania-teilor-tzoi-mpainei-sto-sympan-toy-tolkin/",
+          "source": "Kathimerini",
+          "published": "2026-06-15T22:43:22+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Η Άνια Τέιλορ-Τζόι εντάσσεται στο καστ της ταινίας «The Lord of the Rings: The Hunt for Gollum», ενσαρκώνοντας το ξωτικό Σερέν. Η ταινία σκηνοθετείται από τον Άντι Σέρκις, που επιστρέφει και στον ρόλο του Γκόλουμ.",
+            "en": "Anya Taylor-Joy joins the cast of \"The Lord of the Rings: The Hunt for Gollum\" as the elf Seren. The film is directed by Andy Serkis, who also returns to play Gollum."
+          }
+        },
+        {
+          "id": "d27e90529cfa",
+          "title": "Οι Μικρές Κυκλάδες αποχαιρέτισαν τον Γιάννη Σκοπελίτη με λαούτα και βιολιά",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564286483/oi-mikres-kyklades-apochairetisan-ton-gianni-skopeliti-me-laoyta-kai-violia/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T09:08:00+00:00",
+          "importance": 44,
+          "summary": {
+            "el": "Οι Μικρές Κυκλάδες και η Αμοργός αποχαιρέτισαν με λαούτα και βιολιά τον θρυλικό καπετάνιο Γιάννη Σκοπελίτη, που έφυγε σε ηλικία 68 ετών. Το μικρό του πλοίο υπήρξε σύμβολο μιας ολόκληρης εποχής του Αιγαίου.",
+            "en": "The Small Cyclades and Amorgos bid farewell, with lutes and violins, to legendary captain Yiannis Skopelitis, who died at 68. His small ferry was a symbol of an entire Aegean era."
+          }
+        },
+        {
+          "id": "a56bf0e7e080",
+          "title": "Καβάκος και Σολτάνι με τη Φιλαρμόνια",
+          "url": "https://www.kathimerini.gr/culture/564283204/kavakos-kai-soltani-me-ti-filarmonia/",
+          "source": "Kathimerini",
+          "published": "2026-06-15T23:54:26+00:00",
+          "importance": 43,
+          "summary": {
+            "el": "Ο Λεωνίδας Καβάκος, που στρέφεται όλο και περισσότερο στη διεύθυνση ορχήστρας, διηύθυνε τη Φιλαρμόνια του Λονδίνου στην Αθήνα σε πρόγραμμα Ντβόρζακ, Σούμαν και Μπραμς. Από το 2027 θα είναι κύριος προσκεκλημένος αρχιμουσικός της Ορχήστρας της Μινεσότα.",
+            "en": "Leonidas Kavakos, increasingly turning to conducting, led the Philharmonia of London in Athens in a Dvorak, Schumann and Brahms program. From 2027 he will be principal guest conductor of the Minnesota Orchestra."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "ba9049fbf6ac",
+          "title": "Ενοπλες Δυνάμεις: Κυνήγι τεχνολογίας στις ΗΠΑ",
+          "url": "https://www.kathimerini.gr/politics/amyna/564286546/enoples-dynameis-kynigi-technologias-stis-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T06:57:40+00:00",
+          "category": "politics",
+          "importance": 68,
+          "summary": {
+            "el": "Ο υπουργός Άμυνας Νίκος Δένδιας μετέβη στις ΗΠΑ για επαφές με εταιρείες και ερευνητικά ιδρύματα στους τομείς της ρομποτικής, της τεχνητής νοημοσύνης, της κυβερνοάμυνας και των μη επανδρωμένων συστημάτων. Στόχος είναι ο εξοπλισμός του Πολεμικού Ναυτικού με drones.",
+            "en": "Defense Minister Nikos Dendias traveled to the US for contacts with firms and research institutes in robotics, artificial intelligence, cyber-defense and unmanned systems. The aim is to equip the Navy with drones."
+          },
+          "tags": {
+            "el": [
+              "Ένοπλες Δυνάμεις",
+              "Δένδιας",
+              "drones",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "armed forces",
+              "Dendias",
+              "drones",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "a8f378946c25",
+          "title": "Ο Ντόναλντ Τραμπ απειλεί με δασμό 100% στα γαλλικά κρασιά",
+          "url": "https://www.kathimerini.gr/economy/international/564286957/o-ntonalnt-tramp-apeilei-me-dasmo-100-sta-gallika-krasia/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T08:14:00+00:00",
+          "category": "economy",
+          "importance": 63,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ απείλησε με δασμό 100% στα γαλλικά κρασιά και σαμπάνιες αν η Γαλλία δεν καταργήσει τον φόρο 3% στις ψηφιακές υπηρεσίες. Η απειλή ήρθε λίγο πριν τη σύνοδο της G7 στο Εβιάν.",
+            "en": "Donald Trump threatened a 100% tariff on French wines and champagne unless France scraps its 3% digital-services tax. The threat came just before the G7 summit in Evian."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "δασμοί",
+              "Γαλλία",
+              "ψηφιακός φόρος"
+            ],
+            "en": [
+              "Trump",
+              "tariffs",
+              "France",
+              "digital tax"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "cc16d50c65d3",
+          "title": "Υπό πίεση το σχέδιο Τραμπ για «χαλαρή» εποπτεία της ΑΙ",
+          "url": "https://www.kathimerini.gr/world/564287401/ypo-piesi-to-schedio-tramp-gia-chalari-epopteia-tis-ai/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:17:03+00:00",
+          "category": "world",
+          "importance": 62,
+          "summary": {
+            "el": "Οι πρόσφατοι περιορισμοί της κυβέρνησης Τραμπ στην εταιρεία τεχνητής νοημοσύνης Anthropic προκαλούν αμφιβολίες για το αν μπορεί να διατηρηθεί η υποσχεθείσα «laissez-faire» προσέγγιση στη ρύθμιση της ΑΙ. Η βιομηχανία ανησυχεί ότι το πλαίσιο συνεργασίας καταρρέει.",
+            "en": "The Trump administration's recent restrictions on AI firm Anthropic cast doubt on whether the promised \"laissez-faire\" approach to AI regulation can hold. Industry figures fear the cooperation framework is collapsing."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Anthropic",
+              "Τραμπ",
+              "ρύθμιση"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Anthropic",
+              "Trump",
+              "regulation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "401959a65afc",
+          "title": "Ρωσία: Ζημιές στο μεγαλύτερο διυλιστήριο της Μόσχας από ουκρανικό drone",
+          "url": "https://www.kathimerini.gr/world/564287317/rosia-zimies-sto-megalytero-diylistirio-tis-moschas-apo-oykraniko-drone/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T10:06:35+00:00",
+          "category": "world",
+          "importance": 60,
+          "summary": {
+            "el": "Ουκρανική επίθεση με drone προκάλεσε ζημιές στο μεγαλύτερο διυλιστήριο της περιοχής της Μόσχας, ιδιοκτησίας της Gazpromneft, χωρίς θύματα σύμφωνα με τον δήμαρχο Σομπιάνιν. Δεν διευκρινίστηκε αν επηρεάστηκε η λειτουργία του.",
+            "en": "A Ukrainian drone attack damaged the largest refinery in the Moscow region, owned by Gazpromneft, with no casualties per Mayor Sobyanin. It was unclear whether operations were affected."
+          },
+          "tags": {
+            "el": [
+              "Ρωσία",
+              "Ουκρανία",
+              "drone",
+              "διυλιστήριο"
+            ],
+            "en": [
+              "Russia",
+              "Ukraine",
+              "drone",
+              "refinery"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 67
+  }
+}
