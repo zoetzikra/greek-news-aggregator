@@ -1,0 +1,628 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T13:45:16.189596+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχείται από την αποκλιμάκωση στη Μέση Ανατολή και τις απηχήσεις της. Η συμφωνία-πλαίσιο ΗΠΑ-Ιράν επαναφέρει την κυκλοφορία στα Στενά του Ορμούζ —25 διελεύσεις σε μία ημέρα— και πιέζει προς τα κάτω τις τιμές του πετρελαίου, με τον Μητσοτάκη να δεσμεύεται ότι η μείωση θα περάσει στην αντλία. Παράλληλα, ανακοινώνεται εκεχειρία Ισραήλ-Χεζμπολάχ, η οποία όμως δοκιμάζεται άμεσα: ο Νετανιάχου διατάζει εκτεταμένα πλήγματα στον Λίβανο με δεκάδες νεκρούς, ενώ το Πεντάγωνο ζητεί επιπλέον 80 δισ. δολάρια για τον πόλεμο.\n\nΣτο εσωτερικό, η πολιτική σκηνή μπαίνει σε προεκλογική τροχιά: η Ν.Δ. ετοιμάζει «απόβαση» στην Πελοπόννησο, το ΠΑΣΟΚ ταλανίζεται από τη δημόσια σύγκρουση Διαμαντοπούλου-Δούκα και ο ΣΥΡΙΖΑ αναζητεί «φόρμουλα» πριν τη ΔΕΘ, την ώρα που η αναθεώρηση του Συντάγματος προχωρά σε άδεια έδρανα. Στο μέτωπο των ελληνοτουρκικών, η Άγκυρα απειλεί ανοιχτά την Κύπρο και τη Γαλλία για τη στρατιωτική τους συμφωνία.\n\nΣτην οικονομία, η εικόνα είναι διφορούμενη: η Eurostat και το IMD αποτυπώνουν την ακρίβεια στα τρόφιμα και τη στάσιμη ανταγωνιστικότητα (50ή θέση), αλλά οι αγορές δείχνουν εμπιστοσύνη, με την ΑΜΚ της ΑΔΜΗΕ και το ομόλογο του Διεθνούς Αερολιμένα Αθηνών να υπερκαλύπτονται πολλαπλά και τις ΑΠΕ να κάνουν την Ελλάδα φθηνότερη αγορά ηλεκτρισμού στην Ευρώπη. Στην κοινωνία ξεχωρίζει η επιβολή ισόβιας κάθειρξης για τον θάνατο του 11χρονου Μάριου στο Μενίδι και το ιστορικό χαμηλό της ανεργίας, ενώ στον πολιτισμό ολοκληρώνεται η αναστήλωση του δυτικού αετώματος του Παρθενώνα μετά από 220 χρόνια.",
+    "en": "The day is dominated by Middle East de-escalation and its ripple effects. The US-Iran framework agreement restores traffic through the Strait of Hormuz —25 transits in a single day— and pushes oil prices down, with Mitsotakis pledging the drop will reach the pump. At the same time, an Israel-Hezbollah ceasefire is announced but immediately tested: Netanyahu orders extensive strikes in Lebanon leaving dozens dead, while the Pentagon seeks an additional $80 billion for the war.\n\nDomestically, the political scene shifts into campaign mode: New Democracy prepares a 'landing' in the Peloponnese, PASOK is rattled by the public Diamantopoulou-Doukas clash, and SYRIZA seeks a 'formula' before the Thessaloniki fair, as the constitutional revision proceeds to empty benches. On the Greek-Turkish front, Ankara openly threatens Cyprus and France over their military agreement.\n\nIn the economy the picture is mixed: Eurostat and IMD capture high food prices and stagnant competitiveness (50th place), yet markets show confidence, with ADMIE's capital increase and the Athens Airport bond heavily oversubscribed and renewables making Greece Europe's cheapest electricity market. In society, a life sentence for the death of 11-year-old Marios in Menidi and a record low in unemployment stand out, while in culture the restoration of the Parthenon's west pediment is completed after 220 years."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Αποκλιμάκωση στη Μέση Ανατολή & ενεργειακό μέτωπο",
+        "en": "Middle East de-escalation & the energy front"
+      },
+      "description": {
+        "el": "Η συμφωνία-πλαίσιο ΗΠΑ-Ιράν ανοίγει εκ νέου τα Στενά του Ορμούζ και αποκλιμακώνει τις τιμές πετρελαίου, ενώ ανακοινώνεται εύθραυστη εκεχειρία Ισραήλ-Χεζμπολάχ που ήδη δοκιμάζεται από νέα πλήγματα στον Λίβανο.",
+        "en": "The US-Iran framework reopens the Strait of Hormuz and eases oil prices, while a fragile Israel-Hezbollah ceasefire is announced and immediately tested by fresh strikes in Lebanon."
+      },
+      "related_items": [
+        "f6ac3097cac5",
+        "472ba0fefdf1",
+        "a683768fbf48",
+        "59a89d2bf6f2",
+        "b589e803e433",
+        "d8ae27d9fee5",
+        "98741e11fb2b",
+        "55ab445dc084"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ελληνική πολιτική σε προεκλογική τροχιά",
+        "en": "Greek politics shifts into campaign mode"
+      },
+      "description": {
+        "el": "Η Ν.Δ. οργανώνει περιοδείες στην Πελοπόννησο, το ΠΑΣΟΚ ταλανίζεται από εσωκομματικές εντάσεις και ο ΣΥΡΙΖΑ αναζητεί «φόρμουλα» πριν τη ΔΕΘ, ενώ η αναθεώρηση του Συντάγματος προχωρά σε άδεια έδρανα.",
+        "en": "New Democracy tours the Peloponnese, PASOK is rattled by internal tensions and SYRIZA hunts for a 'formula' before the Thessaloniki fair, while the constitutional revision proceeds to empty benches."
+      },
+      "related_items": [
+        "29ad1a181eb8",
+        "9c4b1330bf98",
+        "44aa4ff99ff8",
+        "871267d66dfd",
+        "ce6da39c8d37",
+        "1e428cc2d39a"
+      ],
+      "importance": 64
+    },
+    {
+      "name": {
+        "el": "Ελληνική οικονομία: ακρίβεια έναντι ισχυρών αγορών",
+        "en": "Greek economy: high prices vs. strong markets"
+      },
+      "description": {
+        "el": "Η Eurostat και το IMD αναδεικνύουν την ακρίβεια στα τρόφιμα και τη στάσιμη ανταγωνιστικότητα, την ίδια ώρα που η ΑΜΚ της ΑΔΜΗΕ και το ομόλογο του Διεθνούς Αερολιμένα υπερκαλύπτονται πολλαπλά και οι ΑΠΕ ρίχνουν το ρεύμα.",
+        "en": "Eurostat and IMD highlight high food prices and stagnant competitiveness, even as ADMIE's share issue and the Athens Airport bond are heavily oversubscribed and renewables drive electricity to the cheapest in Europe."
+      },
+      "related_items": [
+        "ec7fa8926095",
+        "6760536ca2c9",
+        "9ad322bca7dc",
+        "8e5e42fd47c1",
+        "2ce7b962fb88",
+        "4d948c9dffb6"
+      ],
+      "importance": 62
+    },
+    {
+      "name": {
+        "el": "Ένταση Άγκυρας για τη συμφωνία Κύπρου-Γαλλίας",
+        "en": "Ankara's tension over the Cyprus-France pact"
+      },
+      "description": {
+        "el": "Η Τουρκία απειλεί ανοιχτά την Κύπρο και τη Γαλλία για τη στρατιωτική τους συμφωνία, σε ένα κλίμα όπου η Ελλάδα προωθεί παράλληλα την άμυνα και την ευρωπαϊκή προοπτική των Δυτικών Βαλκανίων.",
+        "en": "Turkey openly threatens Cyprus and France over their military pact, against a backdrop where Greece is simultaneously advancing defense ties and the EU prospects of the Western Balkans."
+      },
+      "related_items": [
+        "0d3e5f6fc763",
+        "9d868097708f",
+        "e8d627283a26",
+        "abc55135c032"
+      ],
+      "importance": 58
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "0d3e5f6fc763",
+          "title": "Η Αγκυρα απειλεί Κύπρο και Γαλλία για τη μεταξύ τους συμφωνία",
+          "url": "https://www.kathimerini.gr/politics/564295282/i-agkyra-apeilei-kypro-kai-gallia-gia-ti-metaxy-toys-symfonia/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T15:55:31+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η Άγκυρα, μέσω του υπουργού Άμυνας Γιασάρ Γκιουλέρ, απείλησε εκ νέου την Κύπρο και τη Γαλλία για τη στρατιωτική συμφωνία τους, χαρακτηρίζοντάς την παράνομη και απειλή για την ασφάλεια του νησιού. Η Τουρκία δήλωσε έτοιμη να πράξει «όσα πρέπει» ως εγγυήτρια δύναμη.",
+            "en": "Ankara, via Defense Minister Yasar Guler, again threatened Cyprus and France over their military agreement, calling it illegal and a threat to the island's security. Turkey declared itself ready to do 'whatever is necessary' as a guarantor power."
+          }
+        },
+        {
+          "id": "f52899dd4a65",
+          "title": "Συνάντηση Μητσοτάκη – Ζελένσκι με αναφορά για το ουκρανικό drone στη Λευκάδα",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564293434/synantisi-mitsotaki-zelenski-me-anafora-gia-to-oykraniko-drone-sti-leykada/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T19:55:15+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης συναντήθηκε με τον Ουκρανό πρόεδρο Ζελένσκι πριν τη σύνοδο του Ευρωπαϊκού Συμβουλίου, επαναλαμβάνοντας τη στήριξη της Ελλάδας. Έθεσε όμως το περιστατικό του ουκρανικού drone στη Λευκάδα και την ανάγκη μη διάχυσης των επιχειρήσεων.",
+            "en": "PM Mitsotakis met Ukrainian President Zelensky before the European Council summit, reiterating Greece's support. He raised the incident of the Ukrainian drone in Lefkada and the need to avoid spreading operations beyond the war zone."
+          }
+        },
+        {
+          "id": "d8ae27d9fee5",
+          "title": "Κυρ. Μητσοτάκης: Χρέος μας να περάσει στην αντλία η μείωση των τιμών πετρελαίου",
+          "url": "https://www.kathimerini.gr/politics/564293347/kyr-mitsotakis-chreos-mas-na-perasei-stin-antlia-i-meiosi-ton-timon-petrelaioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T19:18:25+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Από το Ευρωπαϊκό Συμβούλιο, ο Μητσοτάκης χαιρέτισε τη συμφωνία ΗΠΑ-Ιράν και τόνισε ότι προτεραιότητα είναι η αποκατάσταση της ναυσιπλοΐας στα Στενά του Ορμούζ. Δεσμεύτηκε ότι η μείωση των τιμών του αργού πρέπει να περάσει άμεσα στην αντλία προς όφελος των καταναλωτών.",
+            "en": "From the European Council, Mitsotakis welcomed the US-Iran deal and stressed that restoring navigation in the Strait of Hormuz is a priority. He pledged that falling crude prices must reach the pump quickly to benefit consumers."
+          }
+        },
+        {
+          "id": "9d868097708f",
+          "title": "Γεραπετρίτης: Kορυφαία προτεραιότητα η ένταξη των Δυτικών Βαλκανίων στην Ε.Ε.",
+          "url": "https://www.kathimerini.gr/politics/564295273/gerapetritis-koryfaia-proteraiotita-i-entaxi-ton-dytikon-valkanion-stin-e-e/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T15:31:28+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ο ΥΠΕΞ Γιώργος Γεραπετρίτης, μετά τη συνάντησή του με τον Βόσνιο ομόλογό του στο Σεράγεβο, χαρακτήρισε κορυφαία προτεραιότητα την ένταξη των Δυτικών Βαλκανίων στην Ε.Ε., στόχος που θα τεθεί ψηλά στην ατζέντα της ελληνικής προεδρίας του Συμβουλίου το β΄ εξάμηνο του 2027.",
+            "en": "FM Gerapetritis, after meeting his Bosnian counterpart in Sarajevo, called the Western Balkans' EU integration a top priority that will rank high on the agenda of Greece's Council presidency in the second half of 2027."
+          }
+        },
+        {
+          "id": "abc55135c032",
+          "title": "Μπελέρης: Για πρώτη φορά αναγνωρίζονται ιστορική παρουσία και περιουσιακά δικαιώματα της ελληνικής μειονότητας στην Αλβανία",
+          "url": "https://www.kathimerini.gr/politics/564292894/mpeleris-gia-ekthesi-gia-alvania-gia-proti-fora-anagnorizetai-i-istoriki-paroysia-tis-ellinikis-meionotitas/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T14:48:22+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Το Ευρωπαϊκό Κοινοβούλιο υπερψήφισε την έκθεση για την Αλβανία, ενσωματώνοντας τροπολογίες του ευρωβουλευτή Φρέντη Μπελέρη. Για πρώτη φορά αναγνωρίζονται επίσημα η ιστορική παρουσία και τα περιουσιακά δικαιώματα της ελληνικής εθνικής μειονότητας.",
+            "en": "The European Parliament approved its report on Albania, incorporating amendments by MEP Fredi Beleris. For the first time it officially recognizes the historical presence and property rights of the Greek national minority."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "ec7fa8926095",
+          "title": "Ακριβότερη η Ελλάδα από την Ευρώπη σε τρόφιμα και μη αλκοολούχα ποτά",
+          "url": "https://www.kathimerini.gr/visual/infographics/564294253/akrivoteri-i-ellada-apo-tin-eyropi-se-trofima-kai-mi-alkooloycha-pota/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T11:12:00+03:00",
+          "importance": 64,
+          "summary": {
+            "el": "Σύμφωνα με τη Eurostat, το επίπεδο τιμών στα τρόφιμα και μη αλκοολούχα ποτά στην Ελλάδα ήταν 5,3% πάνω από τον μέσο όρο της Ε.Ε. το 2025, με τα γαλακτοκομικά στο +29,9% (1η θέση). Η απόκλιση τιμών-εισοδήματος, με το ΑΕΠ 32% κάτω του μ.ό., εξηγεί το αίσθημα της ακρίβειας.",
+            "en": "According to Eurostat, food and non-alcoholic beverage prices in Greece were 5.3% above the EU average in 2025, with dairy at +29.9% (1st place). The price-income gap, with GDP 32% below average, explains the sense of high cost of living."
+          }
+        },
+        {
+          "id": "9ad322bca7dc",
+          "title": "Προσφορές 3,5 δισ. για την ΑΜΚ της ΑΔΜΗΕ",
+          "url": "https://www.kathimerini.gr/economy/business/564294280/prosfores-3-5-dis-gia-tin-amk-tis-admie/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T10:36:17+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Η αύξηση μετοχικού κεφαλαίου της ΑΔΜΗΕ Συμμετοχών ολοκληρώθηκε με ισχυρή υπερκάλυψη: οι προσφορές ξεπέρασαν τα 3,5 δισ. ευρώ, 14 φορές πάνω από τα 250 εκατ. που επιδίωκε. Η ΑΜΚ χρηματοδοτεί επενδυτικό πρόγραμμα 6 δισ. ευρώ έως το 2029.",
+            "en": "ADMIE Holdings' capital increase concluded with strong oversubscription: offers exceeded 3.5 billion euros, 14 times the 250 million sought. The raise funds a 6 billion-euro investment program through 2029."
+          }
+        },
+        {
+          "id": "8a1535bf1811",
+          "title": "H E.E. αναζητεί ενιαία στρατηγική απέναντι στην Κίνα",
+          "url": "https://www.kathimerini.gr/economy/international/564294313/h-e-e-anaziteieniaia-stratigikiapenantistin-kina/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T07:39:59+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Η Ε.Ε. αναζητεί ενιαία στρατηγική απέναντι στην Κίνα, καθώς το εμπορικό έλλειμμα έφτασε τα 360 δισ. ευρώ το 2025 — σχεδόν ένα δισ. την ημέρα. Στο Ευρωπαϊκό Συμβούλιο έγινε η πρώτη ουσιαστική συζήτηση των «27» για τις κινεζικές οικονομικές πρακτικές.",
+            "en": "The EU is seeking a unified strategy toward China, as the trade deficit reached 360 billion euros in 2025 — nearly one billion a day. The European Council held the '27's' first substantive discussion of Beijing's economic practices."
+          }
+        },
+        {
+          "id": "6760536ca2c9",
+          "title": "Σταθερά χαμηλή ανταγωνιστικότητα",
+          "url": "https://www.kathimerini.gr/visual/infographics/564294265/stathera-chamili-antagonistikotita/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T11:51:00+03:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η Ελλάδα παρέμεινε στάσιμη το 2026, στην 50ή θέση μεταξύ 70 χωρών στην Παγκόσμια Επετηρίδα Ανταγωνιστικότητας του IMD. Κρίσιμες αδυναμίες παραμένουν η γραφειοκρατία, η φορολογική πολιτική, οι υποδομές και η αργή ενσωμάτωση νέων τεχνολογιών.",
+            "en": "Greece remained stagnant in 2026, ranking 50th of 70 countries in the IMD World Competitiveness Ranking. Key weaknesses persist: bureaucracy, tax policy, infrastructure and slow adoption of new technologies."
+          }
+        },
+        {
+          "id": "8e5e42fd47c1",
+          "title": "Υπερκαλύφθηκε 5,2 φορές το ομόλογο 500 εκατ. του Διεθνούς Αερολιμένα Αθηνών",
+          "url": "https://www.kathimerini.gr/economy/business/564294289/yperkalyfthike-5-2-fores-to-omologo-500-ekat-toy-diethnoys-aerolimena-athinon/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T07:34:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η πρώτη διεθνής ομολογιακή έκδοση του Διεθνούς Αερολιμένα Αθηνών, ύψους 500 εκατ. ευρώ και επταετούς διάρκειας, υπερκαλύφθηκε 5,2 φορές με εντολές άνω των 2,6 δισ. ευρώ. Το επιτόκιο διαμορφώθηκε στο 3,75%, κάτω από το ψυχολογικό όριο του 4%.",
+            "en": "Athens International Airport's first international bond issue, 500 million euros over seven years, was 5.2 times oversubscribed with orders above 2.6 billion. The coupon settled at 3.75%, below the psychological 4% threshold."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "e28bc05aa11b",
+          "title": "Ισόβια στον βασικό κατηγορούμενο για τον θάνατο του 11χρονου Μάριου στο Μενίδι",
+          "url": "https://www.kathimerini.gr/society/564295339/isovia-ston-vasiko-katigoroymeno-gia-ton-thanato-toy-11chronoy-marioy-sto-menidi/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T16:20:15+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Το Μικτό Ορκωτό Δικαστήριο επέβαλε ομόφωνα ισόβια κάθειρξη στον βασικό κατηγορούμενο για τον θάνατο του 11χρονου Μάριου Σουλούκου στο Μενίδι το 2017, χωρίς να του αναγνωρίσει κανένα ελαφρυντικό, υιοθετώντας πλήρως την εισαγγελική πρόταση.",
+            "en": "The mixed jury court unanimously imposed a life sentence on the main defendant for the death of 11-year-old Marios Souloukos in Menidi in 2017, granting no mitigating factors and fully adopting the prosecutor's proposal."
+          }
+        },
+        {
+          "id": "9ba95a991d32",
+          "title": "ΔΥΠΑ: Μειώθηκαν κατά 10,8% οι εγγεγραμμένοι άνεργοι τον Μάιο 2026 σε σχέση με τον αντίστοιχο μήνα του 2025",
+          "url": "https://www.kathimerini.gr/society/564295090/dypa-meiothikan-kata-10-8-oi-eggegrammenoi-anergoi-ton-maio-2026-se-schesi-me-ton-antistoicho-mina-toy-2025/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T13:36:40+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Οι εγγεγραμμένοι άνεργοι μειώθηκαν κατά 10,8% τον Μάιο 2026 σε σχέση με πέρυσι, υποχωρώντας στα 660.682 άτομα — ιστορικό χαμηλό. Η μεγαλύτερη συγκέντρωση ανέργων αφορά την ηλικιακή κατηγορία 30-44 ετών.",
+            "en": "Registered unemployment fell 10.8% in May 2026 year-on-year, dropping to 660,682 people — a record low. The largest concentration of jobseekers is in the 30-44 age group."
+          }
+        },
+        {
+          "id": "fad4a9b01f59",
+          "title": "«Τι να περιμένει μια κοινωνία που τα παιδιά της δολοφονούνται σε σχολική γιορτή σε καιρό ειρήνης;»",
+          "url": "https://www.kathimerini.gr/society/564294715/ti-na-perimenei-mia-koinonia-poy-ta-paidia-tis-dolofonoyntai-se-scholiki-giorti-se-kairo-eirinis/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T10:31:01+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Στη δίκη για τον θανάσιμο τραυματισμό του 11χρονου Μάριου Σουλούκου το 2017 σε σχολική γιορτή στο Μενίδι, ο εισαγγελέας ζήτησε την ενοχή του βασικού κατηγορουμένου χωρίς κανένα ελαφρυντικό, μιλώντας για «ανείπωτη αδικία σε βάρος ολόκληρης της κοινωνίας».",
+            "en": "In the trial over the 2017 fatal shooting of 11-year-old Marios Souloukos at a school celebration in Menidi, the prosecutor sought the main defendant's conviction with no mitigating factors, calling it an 'unspeakable injustice against all of society.'"
+          }
+        },
+        {
+          "id": "aa54b69b8d42",
+          "title": "Ομόφωνα ένοχος ο βασικός κατηγορούμενος για τον θάνατο του 11χρονου από σφαίρα στο Μενίδι",
+          "url": "https://www.kathimerini.gr/society/564295297/omofona-enochos-o-vasikos-katigoroymenos-gia-ton-thanato-toy-11chronoy-apo-sfaira-sto-menidi/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T16:01:56+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ο βασικός κατηγορούμενος για τον θάνατο του 11χρονου Μάριου στο Μενίδι κρίθηκε ομόφωνα ένοχος για ανθρωποκτονία από πρόθεση με ενδεχόμενο δόλο. Η πρόεδρος χαρακτήρισε την απόφαση «πολύ δύσκολη αλλά ομόφωνη».",
+            "en": "The main defendant in the death of 11-year-old Marios in Menidi was unanimously found guilty of intentional homicide with possible intent. The presiding judge called the decision 'very difficult but unanimous.'"
+          }
+        },
+        {
+          "id": "6cc16efc90a4",
+          "title": "Πανελλαδικές: Την Πέμπτη 25 Ιουνίου η ανακοίνωση των βαθμολογιών",
+          "url": "https://www.kathimerini.gr/society/ekpaideysi/564295336/panelladikes-tin-pempti-25-ioynioy-i-anakoinosi-ton-vathmologion/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T16:09:43+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Τα αποτελέσματα των φετινών Πανελλαδικών Εξετάσεων θα ανακοινωθούν την Πέμπτη 25 Ιουνίου, για υποψηφίους ΓΕΛ και ΕΠΑΛ. Το υπουργείο Παιδείας απέστειλε κατεπείγουσα οδηγία στα βαθμολογικά κέντρα για επιτάχυνση των διαδικασιών.",
+            "en": "Results of this year's Panhellenic exams will be announced Thursday June 25, for both general and vocational lyceum candidates. The Education Ministry sent an urgent directive to grading centers to speed up procedures."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "f6ac3097cac5",
+          "title": "ΗΠΑ: Ισραήλ και Χεζμπολάχ συμφώνησαν σε εκεχειρία",
+          "url": "https://www.kathimerini.gr/world/564295279/ipa-israil-kai-chezmpolach-symfonisan-se-ekecheiria/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T15:53:47+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ανώτερος Αμερικανός αξιωματούχος ανακοίνωσε ότι το Ισραήλ και η Χεζμπολάχ συμφώνησαν σε κατάπαυση του πυρός από τις 16:00 τοπική ώρα, με τη βοήθεια διαπραγματευτών ΗΠΑ, Κατάρ και Ιράν. Ο ισραηλινός στρατός διευκρίνισε ότι διατηρεί την ελευθερία να αντιδρά σε απειλές.",
+            "en": "A senior US official announced that Israel and Hezbollah agreed to a ceasefire from 16:00 local time, brokered with US, Qatari and Iranian negotiators. The Israeli army clarified it retains freedom to respond to threats."
+          }
+        },
+        {
+          "id": "a683768fbf48",
+          "title": "Χεζμπολάχ: «Θα υπερασπιστούμε τη γη και τον λαό μας»",
+          "url": "https://www.kathimerini.gr/world/564295246/chezmpolach-tha-yperaspistoyme-ti-gi-kai-to-lao-mas/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T15:19:19+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η Χεζμπολάχ δεσμεύτηκε να «υπερασπιστεί τη γη και τον λαό της» από το Ισραήλ, με τουλάχιστον 18 νεκρούς από ισραηλινά πλήγματα στον Λίβανο. Η οργάνωση αρνήθηκε ότι παραβίασε την εκεχειρία και απέδωσε την ευθύνη στο Ισραήλ.",
+            "en": "Hezbollah pledged to 'defend its land and people' against Israel, with at least 18 killed in Israeli strikes in Lebanon. The group denied violating the ceasefire and blamed Israel."
+          }
+        },
+        {
+          "id": "472ba0fefdf1",
+          "title": "Νετανιάχου: Το Ισραήλ θα παραμείνει στον Λίβανο «όσο χρειαστεί»",
+          "url": "https://www.kathimerini.gr/world/564295210/netaniachoy-to-israil-tha-parameinei-ston-livano-gia-oso-chreiastei/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T14:21:28+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Ισραηλινός πρωθυπουργός Νετανιάχου δήλωσε ότι το Ισραήλ θα παραμείνει στον Λίβανο «όσο χρειαστεί» και διέταξε εκτεταμένα πλήγματα κατά της Χεζμπολάχ μετά τον θάνατο τεσσάρων στρατιωτών, χτυπώντας πάνω από 80 στόχους. Χαρακτήρισε την επίθεση «κατάφωρη παραβίαση της εκεχειρίας».",
+            "en": "Israeli PM Netanyahu said Israel will stay in Lebanon 'as long as necessary' and ordered extensive strikes against Hezbollah after four soldiers died, hitting over 80 targets. He called the attack a 'flagrant violation of the ceasefire.'"
+          }
+        },
+        {
+          "id": "59a89d2bf6f2",
+          "title": "Ιράν για Ορμούζ: Τα πλοία να καταθέτουν αίτημα 48 ώρες πριν από τη διέλευση",
+          "url": "https://www.kathimerini.gr/world/564295144/iran-gia-ormoyz-ta-ploia-na-katathetoyn-aitima-48-ores-prin-ti-dieleysi/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T14:09:14+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Το Ιράν εξέδωσε νέες οδηγίες για τη διέλευση πλοίων από τα Στενά του Ορμούζ: για 60 ημέρες η διέλευση θα είναι δωρεάν, αλλά τα πλοία πρέπει να καταθέτουν αίτημα τουλάχιστον 48 ώρες πριν και να συντονίζουν τις διαδρομές λόγω ναρκών σε ορισμένες περιοχές.",
+            "en": "Iran issued new instructions for ships passing through the Strait of Hormuz: for 60 days passage will be free, but vessels must submit a request at least 48 hours in advance and coordinate routes due to mines in some areas."
+          }
+        },
+        {
+          "id": "3e42548cc329",
+          "title": "ΗΠΑ: Το Πεντάγωνο θα ζητήσει επιπλέον 80 δισ. από το Κογκρέσο για τον πόλεμο εναντίον του Ιράν",
+          "url": "https://www.kathimerini.gr/world/564294964/ipa-to-pentagono-tha-zitisei-epipleon-80-dis-apo-to-kogkreso-gia-ton-polemo-enantion-toy-iran/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T12:50:30+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Το Πεντάγωνο θα ζητήσει από το Κογκρέσο επιπλέον 80 δισ. δολάρια για να καλύψει το κόστος του πολέμου εναντίον του Ιράν, σύμφωνα με τη Wall Street Journal. Οι επικεφαλής προειδοποίησαν για ελλείψεις χρημάτων το καλοκαίρι αν δεν εγκριθεί νέο νομοσχέδιο.",
+            "en": "The Pentagon will ask Congress for an additional $80 billion to cover the cost of the war against Iran, per the Wall Street Journal. Leaders warned of funding shortfalls this summer if no new bill is passed."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        {
+          "id": "f530a942e501",
+          "title": "Από την επομένη πλέον τα σπουδαία",
+          "url": "https://www.kathimerini.gr/opinion/564291391/apo-tin-epomeni-pleon-ta-spoydaia/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T20:12:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο Κώστας Ιορδανίδης σχολιάζει ότι η επίθεση στο Ιράν σχεδιάστηκε αποκλειστικά από Τραμπ και Νετανιάχου, χωρίς τη συμμετοχή συμμάχων. Η αναμενόμενη συμφωνία-πλαίσιο για την κατάπαυση των εχθροπραξιών είναι ενδιαφέρουσα γιατί ο Τραμπ αγνόησε προκλητικά τις θέσεις του Νετανιάχου.",
+            "en": "Kostas Iordanidis observes that the attack on Iran was planned solely by Trump and Netanyahu, with no allied participation. The expected framework agreement to halt hostilities is notable because Trump provocatively ignored Netanyahu's positions."
+          }
+        },
+        {
+          "id": "eeeed429e943",
+          "title": "Το νέο πρόβλημα του Ισραήλ",
+          "url": "https://www.kathimerini.gr/opinion/564291805/to-neo-provlima-toy-israil/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T20:02:00+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ο Δημήτρης Ρηγόπουλος, με αφορμή τις αντιδράσεις οπαδών σε φιλικό με ισραηλινή ομάδα, αναλύει το «νέο πρόβλημα» του Ισραήλ: πώς ένα κράτος στο απόγειο της στρατιωτικής ισχύος βρίσκεται ταυτόχρονα στο χαμηλότερο σημείο της διεθνούς ηθικής και πολιτικής επιρροής του.",
+            "en": "Dimitris Rigopoulos, prompted by fan reactions to a friendly with an Israeli team, analyzes Israel's 'new problem': how a state at the peak of its military power is simultaneously at the lowest point of its international moral and political influence."
+          }
+        },
+        {
+          "id": "e168662f05d7",
+          "title": "Το ελληνικό εκπαιδευτικό σύστημα πουλάει κενές υποσχέσεις",
+          "url": "https://www.kathimerini.gr/opinion/564291634/to-elliniko-ekpaideytiko-systima-poylaei-kenes-yposcheseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T20:00:00+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Η Βίβιαν Στεργίου ασκεί δριμεία κριτική στο ελληνικό εκπαιδευτικό σύστημα, που «πουλάει κενές υποσχέσεις»: γονείς πληρώνουν χρυσάφι σε φροντιστήρια, τα δημόσια πανεπιστήμια πάσχουν από γραφειοκρατία και εργασιακή επισφάλεια, και η ουσιαστική μάθηση υποβαθμίζεται.",
+            "en": "Vivian Stergiou sharply criticizes the Greek education system that 'sells empty promises': parents pay fortunes for cram schools, public universities suffer from bureaucracy and job precarity, and substantive learning is devalued."
+          }
+        },
+        {
+          "id": "b6bf7b003e6d",
+          "title": "Πολίτες σε ομηρία",
+          "url": "https://www.kathimerini.gr/opinion/564291397/polites-se-omiria/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T20:14:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Κύριο άρθρο της «Κ» σχολιάζει την τολμηρή μεταρρύθμιση στις πολεοδομίες και την επιτάχυνση του κτηματολογίου. Τονίζει ότι χρειάζεται απλοποίηση, διαφάνεια και πολιτική βούληση για να τελειώσει η «ομηρία» των πολιτών στις συναλλαγές ακινήτων.",
+            "en": "A Kathimerini editorial comments on the bold reform of urban planning offices and the acceleration of the cadastre. It stresses the need for simplification, transparency and political will to end citizens' 'hostage' status in property transactions."
+          }
+        },
+        {
+          "id": "8acea3a5b214",
+          "title": "To κράτος δεν «διαγωνίζεται» με τους εγκληματίες",
+          "url": "https://www.kathimerini.gr/opinion/564291643/to-kratos-den-diagonizetai-me-toys-egklimaties/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T20:09:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Η Ξένια Κουναλάκη σχολιάζει την αμφιλεγόμενη απόφαση του Αρείου Πάγου να ξαναστείλει στη φυλακή τον Αλέξανδρο Γιωτόπουλο, αρχηγό της «17Ν», ανατρέποντας προηγούμενο βούλευμα. Υποστηρίζει ότι η εσπευσμένη πρακτική και το σκεπτικό δεν αποκαθιστούν το κύρος της Δικαιοσύνης.",
+            "en": "Xenia Kounalaki comments on the Supreme Court's controversial decision to return '17N' leader Alexandros Giotopoulos to prison, overturning a prior ruling. She argues the hasty practice and reasoning do not restore the justice system's prestige."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        {
+          "id": "0bb3bcb469a7",
+          "title": "«Μοναδικές αναλογίες και η γεωμετρική τελειότητα»",
+          "url": "https://www.kathimerini.gr/culture/564293269/monadikes-analogies-kai-i-geometriki-teleiotita/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T18:55:13+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ολοκληρώθηκε η αποκατάσταση του δυτικού αετώματος του Παρθενώνα και απομακρύνθηκαν οι εξωτερικές σκαλωσιές. Για πρώτη φορά μετά από περίπου δύο αιώνες, η δυτική όψη του μνημείου αποδίδεται στο κοινό στην πληρέστερη δυνατή μορφή της, με χρηματοδότηση από το Ταμείο Ανάκαμψης.",
+            "en": "The restoration of the Parthenon's west pediment is complete and the external scaffolding removed. For the first time in about two centuries, the monument's west face is presented to the public in its fullest form, funded by the Recovery Fund."
+          }
+        },
+        {
+          "id": "9edce8f5482b",
+          "title": "Παρθενώνας: Πώς συμπληρώθηκε το δυτικό αέτωμα",
+          "url": "https://www.kathimerini.gr/society/reportaz/564293809/parthenonas-pos-symplirothike-to-dytiko-aetoma/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T06:58:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ρεπορτάζ για το πώς συμπληρώθηκε το δυτικό αέτωμα του Παρθενώνα: οι έμπειροι αναστηλωτές τοποθέτησαν δύο ορθοστάτες στις κενές θέσεις και αποκατέστησαν τον υποστηρικτικό τοίχο. Έτσι η δυτική όψη αποδίδεται «στην πληρέστερη μορφή της» χωρίς σκαλωσιές για πρώτη φορά μετά από 220 χρόνια.",
+            "en": "A report on how the Parthenon's west pediment was completed: experienced restorers placed two orthostates in the empty slots and restored the supporting wall. Thus the west face is presented 'in its fullest form' without scaffolding for the first time in 220 years."
+          }
+        },
+        {
+          "id": "15b20cc5a88e",
+          "title": "Αρχαιολογικό παζλ με 70.000 κομμάτια αγγείων",
+          "url": "https://www.kathimerini.gr/culture/564294049/archaiologiko-pazl-me-70-000-kommatia-aggeion/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T11:27:45+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Η ελληνοϊταλική επιστημονική ομάδα ανασυνθέτει πάνω από 70.000 κεραμικά θραύσματα που είχαν κατασχεθεί το 2023 από την εταιρεία του διαβόητου εμπόρου τέχνης Ρόμπιν Σάιμς. Τα εντυπωσιακά αποτελέσματα παρουσιάστηκαν στο Αρχαιολογικό Μουσείο Θεσσαλονίκης.",
+            "en": "A Greek-Italian scientific team is reassembling over 70,000 ceramic fragments seized in 2023 from the company of notorious art dealer Robin Symes. The impressive results were presented at the Archaeological Museum of Thessaloniki."
+          }
+        },
+        {
+          "id": "cbe58bd3a6a5",
+          "title": "Η Ευελπίδων του Αλεξάνδρου",
+          "url": "https://www.kathimerini.gr/culture/564291670/i-eyelpidon-toy-alexandroy/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T21:07:10+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Νέα στοιχεία από τις ανασκαφές της Αγγελικής Κοτταρίδη επιβεβαιώνουν ότι το βασιλικό γυμνάσιο της αρχαίας Μίεζας χρονολογείται στην εποχή του Φιλίππου Β΄ και ότι εκεί εκπαιδεύτηκε ο Μέγας Αλέξανδρος, βάσει κεραμικής και νομισμάτων στις υποθεμελιώσεις.",
+            "en": "New findings from Angeliki Kottaridi's excavations confirm that the royal gymnasium of ancient Mieza dates to the era of Philip II and that Alexander the Great was educated there, based on ceramics and coins in its foundations."
+          }
+        },
+        {
+          "id": "e202537c614d",
+          "title": "Βραβεία ΙΡΙΣ: Θρίαμβος για την ταινία «Πολύ κοριτσίστικο όνομα το Πάττυ»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564292810/vraveia-iris-thriamvos-gia-tin-tainia-poly-koritsistiko-onoma-to-patty/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T13:41:03+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Η ταινία «Πολύ κοριτσίστικο όνομα το Πάττυ» του Γιώργου Γεωργόπουλου κυριάρχησε στα Βραβεία ΙΡΙΣ της Ελληνικής Ακαδημίας Κινηματογράφου, αποσπώντας επτά βραβεία, μεταξύ των οποίων Καλύτερης Ταινίας, Σκηνοθεσίας και Σεναρίου.",
+            "en": "Giorgos Georgopoulos's film 'Patty Is a Very Girly Name' dominated the IRIS Awards of the Hellenic Film Academy, winning seven prizes, including Best Film, Director and Screenplay."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "f52899dd4a65",
+          "title": "Συνάντηση Μητσοτάκη – Ζελένσκι με αναφορά για το ουκρανικό drone στη Λευκάδα",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564293434/synantisi-mitsotaki-zelenski-me-anafora-gia-to-oykraniko-drone-sti-leykada/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T19:55:15+00:00",
+          "category": "politics",
+          "importance": 64,
+          "summary": {
+            "el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης συναντήθηκε με τον Ουκρανό πρόεδρο Ζελένσκι πριν τη σύνοδο του Ευρωπαϊκού Συμβουλίου, επαναλαμβάνοντας τη στήριξη της Ελλάδας. Έθεσε όμως το περιστατικό του ουκρανικού drone στη Λευκάδα και την ανάγκη μη διάχυσης των επιχειρήσεων.",
+            "en": "PM Mitsotakis met Ukrainian President Zelensky before the European Council summit, reiterating Greece's support. He raised the incident of the Ukrainian drone in Lefkada and the need to avoid spreading operations beyond the war zone."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "Ζελένσκι",
+              "Ουκρανία",
+              "drone Λευκάδας"
+            ],
+            "en": [
+              "Mitsotakis",
+              "Zelensky",
+              "Ukraine",
+              "Lefkada drone"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "b2a9be167347",
+          "title": "Ρωσία: 8χρονο κορίτσι σκοτώθηκε στη χθεσινή ουκρανική επίθεση στη Μόσχα",
+          "url": "https://www.kathimerini.gr/world/564295132/rosia-8chrono-koritsi-skotothike-sti-chthesini-oykraniki-epithesi-sti-moscha/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T13:52:40+00:00",
+          "category": "world",
+          "importance": 60,
+          "summary": {
+            "el": "Ένα 8χρονο κορίτσι σκοτώθηκε σε πυρκαγιά που προκάλεσε μαζική ουκρανική επίθεση με drone στην περιφέρεια της Μόσχας, σύμφωνα με τον κυβερνήτη Αντρέι Βορομπιόφ. Τουλάχιστον 16 άνθρωποι τραυματίστηκαν και 18 πολυκατοικίες υπέστησαν ζημιές.",
+            "en": "An 8-year-old girl was killed in a fire caused by a massive Ukrainian drone attack on the Moscow region, according to Governor Andrei Vorobyov. At least 16 people were injured and 18 apartment blocks damaged."
+          },
+          "tags": {
+            "el": [
+              "Ρωσία",
+              "Μόσχα",
+              "ουκρανικό drone",
+              "θύμα"
+            ],
+            "en": [
+              "Russia",
+              "Moscow",
+              "Ukrainian drone",
+              "victim"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e8d627283a26",
+          "title": "Στον «πάγο» τα ελληνο-ουκρανικά drones – Προς εθνικό USV και ναρκοθηρευτικό στρέφεται η Αθήνα",
+          "url": "https://www.kathimerini.gr/politics/amyna/564291226/ston-pago-ta-ellino-oykranika-drones-pros-ethniko-usv-kai-narkothireytiko-strefetai-i-athina/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T16:28:16+00:00",
+          "category": "politics",
+          "importance": 58,
+          "summary": {
+            "el": "Η ελληνο-ουκρανική πρωτοβουλία συμπαραγωγής ναυτικών drones (USV) μπαίνει στον «πάγο», με το περιστατικό της Λευκάδας ως επιβαρυντικό παράγοντα. Η Αθήνα στρέφεται προς ανάπτυξη εθνικού USV και απόκτηση ναρκοθηρευτικών drones.",
+            "en": "The Greek-Ukrainian initiative to co-produce naval drones (USVs) is being shelved, with the Lefkada incident an aggravating factor. Athens is turning toward developing a national USV and acquiring mine-hunting drones."
+          },
+          "tags": {
+            "el": [
+              "άμυνα",
+              "drones",
+              "Ουκρανία",
+              "Πολεμικό Ναυτικό"
+            ],
+            "en": [
+              "defense",
+              "drones",
+              "Ukraine",
+              "Navy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "2ce7b962fb88",
+          "title": "Θεαματική αύξηση της παραγωγής των ΑΠΕ",
+          "url": "https://www.kathimerini.gr/economy/diktis/564294376/theamatiki-ayxisi-tis-paragogis-ton-ape/",
+          "source": "Kathimerini",
+          "published": "2026-06-19T08:16:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Η θεαματική αύξηση της παραγωγής ΑΠΕ (έως 68,6% της ζήτησης) ανέδειξε για δεύτερη μέρα την Ελλάδα ως τη φθηνότερη αγορά ηλεκτρισμού στην Ευρώπη, με μέση τιμή 76,84 ευρώ/MWh. Το Υπερταμείο προετοιμάζει την επιλογή νέου προέδρου των ΕΛΤΑ.",
+            "en": "The dramatic rise in renewables output (up to 68.6% of demand) made Greece Europe's cheapest electricity market for a second day, at 76.84 euros/MWh. The Superfund is preparing to select a new ELTA chief."
+          },
+          "tags": {
+            "el": [
+              "ΑΠΕ",
+              "ηλεκτρισμός",
+              "τιμές",
+              "ΕΛΤΑ"
+            ],
+            "en": [
+              "renewables",
+              "electricity",
+              "prices",
+              "ELTA"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "e0ed058c6d36",
+          "title": "Συνεργατικά drones: Το μέλλον της εναέριας μάχης και το ενδιαφέρον της Ελλάδας",
+          "url": "https://www.kathimerini.gr/politics/amyna/564293578/synergatika-drones-to-mellon-tis-enaerias-machis-kai-to-endiaferon-tis-elladas/",
+          "source": "Kathimerini",
+          "published": "2026-06-18T21:22:36+00:00",
+          "category": "politics",
+          "importance": 57,
+          "summary": {
+            "el": "Η αμερικανική αεροπορία ανέθεσε σε General Atomics και Anduril την κατασκευή των πρώτων συνεργατικών αεροσκαφών μάχης (CCA) που πετούν μαζί με τα μαχητικά. Η εξέλιξη ενδιαφέρει την Ελλάδα, καθώς η θυγατρική Shield AI υπέγραψε μνημόνιο με τον όμιλο EFA και θα ανοίξει γραφεία στην Αθήνα.",
+            "en": "The US Air Force tasked General Atomics and Anduril with building the first Collaborative Combat Aircraft (CCA) that fly alongside fighters. The development interests Greece, as subsidiary Shield AI signed an MoU with the EFA group and will open offices in Athens."
+          },
+          "tags": {
+            "el": [
+              "συνεργατικά drones",
+              "F-35",
+              "Shield AI",
+              "άμυνα"
+            ],
+            "en": [
+              "collaborative drones",
+              "F-35",
+              "Shield AI",
+              "defense"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 80
+  }
+}

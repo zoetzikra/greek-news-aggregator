@@ -1,0 +1,1068 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:17:50.684080+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφική ημέρα κυριαρχείται από τις πολιτικές και κοινωνικές συνέπειες της εμπρηστικής επίθεσης σε στελέχη της Νέας Δημοκρατίας στη Θεσσαλονίκη, που στοίχισε τη ζωή στη μητέρα της πολιτεύτριας Αφροδίτης Νέστορα. Η κυβέρνηση, το ΠΑΣΟΚ και όλο το πολιτικό φάσμα καταδίκασαν ομόφωνα την ενέργεια, με τον πρωθυπουργό να μιλά για «καμία ανοχή στο αίμα και στον διχασμό των άκρων» και την υπόθεση να αντιμετωπίζεται ως τρομοκρατική.\n\nΣτο εσωτερικό πολιτικό σκηνικό συνεχίζεται η αναταραχή στον ΣΥΡΙΖΑ, το ΠΑΣΟΚ σχεδιάζει την ανάκτηση της δεύτερης θέσης εν όψει φθινοπωρινών δημοσκοπήσεων, ενώ η κυβέρνηση προωθεί ρυθμίσεις όπως η κατάργηση των περικοπών στις συντάξεις χηρείας. Στα διεθνή, η Ελλάδα παρακολουθεί τη σύνοδο του ΝΑΤΟ στην Άγκυρα και τις σχέσεις με τις ΗΠΑ.\n\nΣτην οικονομία, η ΕΚΤ προειδοποιεί ότι το ενεργειακό κόστος διατηρεί τον πληθωρισμό, ενώ η τεχνητή νοημοσύνη και η ρομποτική προσελκύουν ρεκόρ επενδύσεων. Το ελληνικό σύστημα πληρωμών IRIS συνδέεται με άλλες ευρωπαϊκές χώρες και οι ξένες επενδύσεις στα ακίνητα αυξάνονται.\n\nΔιεθνώς ξεχωρίζουν η επικείμενη επανέναρξη των διαπραγματεύσεων ΗΠΑ-Ιράν, οι νέες κυρώσεις της ΕΕ κατά της Ρωσίας, η απόρριψη της προσφυγής της Google για το πρόστιμο-ρεκόρ και οι εξελίξεις στη Γερμανία και τη Γαλλία. Στον πολιτισμό, το ενδιαφέρον στρέφεται στην «Οδύσσεια» του Κρίστοφερ Νόλαν, εν μέσω απωλειών όπως της ηθοποιού Τζένης Ζαχαροπούλου.",
+    "en": "The day's news is dominated by the political and social fallout of the arson attack on New Democracy officials in Thessaloniki, which killed the mother of party candidate Aphroditi Nestora. The government, PASOK and the entire political spectrum unanimously condemned the act, with the PM denouncing 'no tolerance for blood and the division of the extremes' and the case being treated as terrorism.\n\nOn the domestic front, turmoil continues within SYRIZA, PASOK is plotting to reclaim second place ahead of autumn polls, and the government is advancing measures such as abolishing widow-pension cuts. Internationally, Greece is watching the NATO summit in Ankara and its relations with the United States.\n\nIn the economy, the ECB warns that energy costs are sustaining inflation, while AI and robotics attract record investment. Greece's IRIS payment system is linking up with other European countries, and foreign investment in real estate is rising.\n\nAbroad, the highlights include the imminent resumption of US-Iran talks, new EU sanctions on Russia, the EU court's rejection of Google's appeal against a record fine, and developments in Germany and France. In culture, attention turns to Christopher Nolan's 'Odyssey', amid losses such as that of actress Jenny Zacharopoulou."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Εμπρηστική επίθεση σε στελέχη ΝΔ στη Θεσσαλονίκη",
+        "en": "Arson attack on ND officials in Thessaloniki"
+      },
+      "description": {
+        "el": "Συντονισμένη επίθεση με γκαζάκια στις οικίες τριών στελεχών της ΝΔ στη Θεσσαλονίκη στοίχισε τη ζωή στη μητέρα της πολιτεύτριας Αφροδίτης Νέστορα, προκαλώντας ομόφωνη πολιτική καταδίκη και ανάληψη της υπόθεσης ως τρομοκρατικής.",
+        "en": "A coordinated gas-canister attack on three ND officials' homes in Thessaloniki killed the mother of candidate Aphroditi Nestora, triggering unanimous political condemnation and a terrorism investigation."
+      },
+      "related_items": [
+        "6e3324d174d9",
+        "5cabc3c5d569",
+        "1f5e93aa916a",
+        "0a07129ad7c7",
+        "213a444c4686"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Ενέργεια, τεχνητή νοημοσύνη και η πίεση στις τιμές",
+        "en": "Energy, AI and pressure on prices"
+      },
+      "description": {
+        "el": "Η ΕΚΤ προειδοποιεί ότι το ενεργειακό κόστος διατηρεί τον πληθωρισμό, ενώ η ραγδαία ανάπτυξη της τεχνητής νοημοσύνης απορροφά τεράστια κεφάλαια και εγείρει ερωτήματα για το κόστος ενέργειας και τις επενδύσεις.",
+        "en": "The ECB warns that energy costs are sustaining inflation, while the rapid growth of AI absorbs vast capital and raises questions about energy costs and investment."
+      },
+      "related_items": [
+        "eccb1ae4ae77",
+        "acd7887d1b44",
+        "cef34c9f5576",
+        "a2074c11ad9a",
+        "c9c58649deb6",
+        "fd7c0d26d254",
+        "4ba69bc4f85d",
+        "b6f1f6205655",
+        "cf6e5569f55f",
+        "1a0efd9fe9da",
+        "29e319ffa55f",
+        "03fd09203cb0"
+      ],
+      "importance": 63
+    },
+    {
+      "name": {
+        "el": "Μέση Ανατολή και ο πόλεμος στην Ουκρανία",
+        "en": "Middle East and the war in Ukraine"
+      },
+      "description": {
+        "el": "Οι διαπραγματεύσεις ΗΠΑ-Ιράν αναμένεται να επαναληφθούν μετά την κηδεία Χαμενεΐ, ενώ η ΕΕ προτείνει νέες κυρώσεις κατά της Ρωσίας και η ρωσική κρίση καυσίμων βαθαίνει λόγω ουκρανικών επιθέσεων.",
+        "en": "US-Iran talks are set to resume after Khamenei's funeral, while the EU proposes new sanctions on Russia and Russia's fuel crisis deepens due to Ukrainian attacks."
+      },
+      "related_items": [
+        "89050b40b312",
+        "c5e60741c23c",
+        "4618d6b486ae",
+        "869dee7dcb2a"
+      ],
+      "importance": 66
+    },
+    {
+      "name": {
+        "el": "Η «Οδύσσεια» του Νόλαν και ο πολιτισμός",
+        "en": "Nolan's 'Odyssey' and the arts"
+      },
+      "description": {
+        "el": "Ενόψει της πρεμιέρας της «Οδύσσειας» του Κρίστοφερ Νόλαν στις 17 Ιουλίου, ο κινηματογραφικός κόσμος στρέφεται στο έργο του, ενώ σημειώνονται και σημαντικές απώλειες καλλιτεχνών.",
+        "en": "Ahead of the 17 July premiere of Christopher Nolan's 'Odyssey', the film world turns to his work, while the arts also mourn significant losses."
+      },
+      "related_items": [
+        "a0c1dd374c20",
+        "c74ecb9c71af",
+        "a293a5383efc",
+        "e4781693228e"
+      ],
+      "importance": 50
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "0a07129ad7c7",
+          "title": "Ν.Δ.: Μηδενική ανοχή στην τρομοκρατία",
+          "url": "https://www.kathimerini.gr/politics/564319828/n-d-mideniki-anochi-stin-tromokratia/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T07:27:34+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Η Νέα Δημοκρατία αποδίδει μεγάλη πολιτική βαρύτητα στη συντονισμένη επίθεση με γκαζάκια στις οικίες τριών στελεχών της στη Θεσσαλονίκη, από την οποία τραυματίστηκαν πέντε άνθρωποι και έχασε τη ζωή της η μητέρα της Αφροδίτης Νέστορα. Στο Μέγαρο Μαξίμου σήμανε συναγερμός, με το κόμμα να διακηρύσσει μηδενική ανοχή στην τρομοκρατία.",
+            "en": "New Democracy is treating the coordinated gas-canister attack on three of its members' homes in Thessaloniki as a matter of major political weight, after five people were injured and the mother of Aphroditi Nestora died. The government reacted with alarm, vowing zero tolerance for terrorism."
+          },
+          "tags": {
+            "el": [
+              "τρομοκρατία",
+              "Νέα Δημοκρατία",
+              "Θεσσαλονίκη",
+              "εμπρησμός"
+            ],
+            "en": [
+              "terrorism",
+              "New Democracy",
+              "Thessaloniki",
+              "arson"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "1f5e93aa916a",
+          "title": "Μητσοτάκης για θάνατο της Βάγιας Νέστορα: «Καμία ανοχή στο αίμα και στον διχασμό των άκρων»",
+          "url": "https://www.kathimerini.gr/politics/564319414/mitsotakis-gia-thanato-tis-vagias-nestora-kamia-anochi-sto-aima-kai-ton-dichasmo-ton-akron/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T19:58:46+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης χαρακτήρισε το τραγικό τέλος της Βάγιας Νέστορα επιβεβαίωση του δολοφονικού χαρακτήρα της τυφλής βίας στη δημόσια ζωή. Κάλεσε τη νομιμότητα και την ενότητα της κοινωνίας να εξορίσουν την τρομοκρατία στο περιθώριο, μιλώντας για «καμία ανοχή στο αίμα και στον διχασμό των άκρων».",
+            "en": "PM Kyriakos Mitsotakis called the death of Vagia Nestora confirmation of the murderous character of blind violence in public life. He urged legality and social unity to banish terrorism to the margins, denouncing 'no tolerance for blood and the division of the extremes.'"
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "τρομοκρατία",
+              "Νέστορα",
+              "βία"
+            ],
+            "en": [
+              "Mitsotakis",
+              "terrorism",
+              "Nestora",
+              "violence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "1eff7902c0ae",
+          "title": "Κεραμέως: Καταργείται η περικοπή συντάξεων χηρείας του νόμου Κατρούγκαλου",
+          "url": "https://www.kathimerini.gr/economy/564320854/kerameos-kamia-perikopi-stis-syntaxeis-chireias/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T11:58:13+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Η υπουργός Εργασίας Νίκη Κεραμέως ανακοίνωσε από τη Βουλή νομοθετική ρύθμιση που καταργεί την περικοπή των συντάξεων χηρείας του νόμου Κατρούγκαλου. Οι συντάξεις θα διαμορφώνονται στο 70% της σύνταξης του θανόντος για όλους, με τους δικαιούχους του δημοσίου να επιστρέφουν από το 35% στο 70%.",
+            "en": "Labour Minister Niki Kerameos announced legislation abolishing the widow-pension cuts of the Katrougalos law. Survivor pensions will be set at 70% of the deceased's pension for all, with public-sector beneficiaries returning from 35% to 70%."
+          },
+          "tags": {
+            "el": [
+              "συντάξεις χηρείας",
+              "Κεραμέως",
+              "νόμος Κατρούγκαλου",
+              "ασφαλιστικό"
+            ],
+            "en": [
+              "survivor pensions",
+              "Kerameos",
+              "Katrougalos law",
+              "social security"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "d6eaaaddf410",
+          "title": "Ρούτε για Τουρκία: Ζωτικής σημασίας σύμμαχος",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564319855/royte-gia-toyrkia-zotikis-simasias-symmachos/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T08:26:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ο γενικός γραμματέας του ΝΑΤΟ Μαρκ Ρούτε χαρακτήρισε την Τουρκία «ζωτικής σημασίας σύμμαχο» και μία από τις ισχυρότερες στρατιωτικές δυνάμεις, ενόψει της συνόδου της Συμμαχίας στην Άγκυρα στις 7-8 Ιουλίου. Τόνισε τον ρόλο της στην ενίσχυση της αμυντικής βιομηχανικής βάσης του ΝΑΤΟ.",
+            "en": "NATO Secretary General Mark Rutte called Turkey a 'vital ally' and one of the alliance's strongest militaries, ahead of the NATO summit in Ankara on 7-8 July. He highlighted Turkey's role in strengthening the alliance's defence industrial base."
+          },
+          "tags": {
+            "el": [
+              "ΝΑΤΟ",
+              "Ρούτε",
+              "Τουρκία",
+              "Άγκυρα"
+            ],
+            "en": [
+              "NATO",
+              "Rutte",
+              "Turkey",
+              "Ankara"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "bba154c57354",
+          "title": "Συνεχείς ρωγμές στον ΣΥΡΙΖΑ",
+          "url": "https://www.kathimerini.gr/politics/parties/564319840/synecheis-rogmes-ston-syriza/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T08:48:11+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Συνεχείς ρωγμές εμφανίζονται στον ΣΥΡΙΖΑ, με στελέχη όπως ο Νίκος Παππάς και η Ρένα Δούρου να παίρνουν αποστάσεις από την πρωτοβουλία Πολάκη να διεκδικήσει την ηγεσία. Το κόμμα παραμένει σε αναβρασμό μετά τις ασάφειες της Κεντρικής Επιτροπής.",
+            "en": "Fresh cracks are appearing in SYRIZA, with figures such as Nikos Pappas and Rena Dourou distancing themselves from Polakis' bid for the leadership. The party remains in turmoil after unresolved Central Committee positions."
+          },
+          "tags": {
+            "el": [
+              "ΣΥΡΙΖΑ",
+              "Πολάκης",
+              "αντιπολίτευση",
+              "εσωκομματικά"
+            ],
+            "en": [
+              "SYRIZA",
+              "Polakis",
+              "opposition",
+              "party turmoil"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "4ba69bc4f85d",
+          "title": "Το IRIS συνδέεται με τα συστήματα της Ισπανίας, της Πορτογαλίας και της Ιταλίας",
+          "url": "https://www.kathimerini.gr/economy/local/564317812/to-iris-syndeetai-me-ta-systimata-tis-ispanias-tis-portogalias-kai-tis-italias/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T21:56:15+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Το ελληνικό σύστημα άμεσων πληρωμών IRIS συνδέεται με τα αντίστοιχα συστήματα Ισπανίας, Πορτογαλίας, Ιταλίας και Ανδόρας μέσω της ευρωπαϊκής συμμαχίας EuroPA. Πρόκειται για το πρώτο βήμα προς ένα ενιαίο ευρωπαϊκό σύστημα άμεσων πληρωμών, με τα ίδια όρια δωρεάν αποστολής.",
+            "en": "Greece's IRIS instant-payment system is connecting with the equivalent systems of Spain, Portugal, Italy and Andorra through the European EuroPA alliance. It marks a first step toward a unified European instant-payments system, keeping the same free-transfer limits."
+          },
+          "tags": {
+            "el": [
+              "IRIS",
+              "πληρωμές",
+              "EuroPA",
+              "Ευρώπη"
+            ],
+            "en": [
+              "IRIS",
+              "payments",
+              "EuroPA",
+              "Europe"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "a2074c11ad9a",
+          "title": "Ρομποτική με ΑΙ, ο συνδυασμός που φέρνει χρήματα στις startups",
+          "url": "https://www.kathimerini.gr/economy/business/564317872/rompotiki-me-ai-o-syndyasmos-poy-fernei-chrimata-stis-startups/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T22:40:35+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ο συνδυασμός ρομποτικής και τεχνητής νοημοσύνης προσελκύει ρεκόρ χρηματοδοτήσεων, με τις επενδύσεις σε σχετικές startups να φτάνουν τα 18,8 δισ. δολάρια στο εξάμηνο. Ελληνικές καινοτομίες διεκδικούν θέση στη ραγδαία αναπτυσσόμενη αγορά, από ανθρωποειδή ρομπότ έως εξωσκελετικά συστήματα.",
+            "en": "The combination of robotics and artificial intelligence is attracting record funding, with investment in related startups reaching $18.8 billion in the half-year. Greek innovations are competing in the fast-growing market, from humanoid robots to exoskeletons."
+          },
+          "tags": {
+            "el": [
+              "ρομποτική",
+              "τεχνητή νοημοσύνη",
+              "startups",
+              "επενδύσεις"
+            ],
+            "en": [
+              "robotics",
+              "artificial intelligence",
+              "startups",
+              "investment"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "acd7887d1b44",
+          "title": "Η ενέργεια συνεχίζει να πιέζει τις τιμές",
+          "url": "https://www.kathimerini.gr/economy/diktis/564317932/i-energeia-synechizei-na-piezei-tis-times/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T23:52:17+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Το ενεργειακό κόστος συνεχίζει να πιέζει τις τιμές, με αξιωματούχους της ΕΚΤ να προειδοποιούν ότι το σοκ θα διατηρηθεί παρά την πτώση του πετρελαίου. Ο επικεφαλής οικονομολόγος της ΕΚΤ Φίλιπ Λέιν επισήμανε ότι οι τιμές πάνω από τα προπολεμικά επίπεδα τροφοδοτούν τον πληθωρισμό.",
+            "en": "Energy costs keep pressuring prices, with ECB officials warning the shock will persist despite falling oil prices. ECB chief economist Philip Lane noted that prices above pre-war levels are fuelling inflation."
+          },
+          "tags": {
+            "el": [
+              "ΕΚΤ",
+              "ενέργεια",
+              "πληθωρισμός",
+              "Λέιν"
+            ],
+            "en": [
+              "ECB",
+              "energy",
+              "inflation",
+              "Lane"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "fd7c0d26d254",
+          "title": "Ρευστότητα 650 εκατ. για νέα έργα εξασφάλισε η ΓΕΚ ΤΕΡΝΑ",
+          "url": "https://www.kathimerini.gr/economy/business/564317836/reystotita-650-ekat-gia-nea-erga-exasfalise-i-gek-terna/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T22:21:29+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο όμιλος ΓΕΚ ΤΕΡΝΑ εξασφάλισε ρευστότητα 650 εκατ. ευρώ για νέα έργα μέσω αύξησης κεφαλαίου με ιδιωτική τοποθέτηση σε ξένους επενδυτές. Εκδόθηκαν νέες μετοχές, με τους παλαιούς μετόχους να παραιτούνται από το δικαίωμα συμμετοχής.",
+            "en": "GEK TERNA secured €650 million in liquidity for new projects through a capital increase via private placement to foreign investors. New shares were issued, with existing shareholders waiving their subscription rights."
+          },
+          "tags": {
+            "el": [
+              "ΓΕΚ ΤΕΡΝΑ",
+              "αύξηση κεφαλαίου",
+              "επενδύσεις",
+              "υποδομές"
+            ],
+            "en": [
+              "GEK TERNA",
+              "capital increase",
+              "investment",
+              "infrastructure"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "cf6e5569f55f",
+          "title": "Αύξηση ξένων επενδύσεων 43,4% στα ακίνητα",
+          "url": "https://www.kathimerini.gr/economy/564317860/ayxisi-xenon-ependyseon-43-4-sta-akinita/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T21:34:18+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Οι άμεσες ξένες επενδύσεις στην ελληνική αγορά ακινήτων αυξήθηκαν κατά 43,4% στο πρώτο τρίμηνο του 2026, παρά την πτώση 52,2% των αιτήσεων για «χρυσή βίζα». Η εξέλιξη δείχνει ότι η αγορά ακινήτων παραμένει ελκυστική για τους ξένους επενδυτές.",
+            "en": "Foreign direct investment in Greek real estate rose 43.4% in the first quarter of 2026, despite a 52.2% drop in 'golden visa' applications. The trend shows the property market remains attractive to foreign investors."
+          },
+          "tags": {
+            "el": [
+              "ακίνητα",
+              "ξένες επενδύσεις",
+              "χρυσή βίζα"
+            ],
+            "en": [
+              "real estate",
+              "foreign investment",
+              "golden visa"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "213a444c4686",
+          "title": "Θεσσαλονίκη: Βίντεο από τη στιγμή της έκρηξης στο σπίτι της Αφροδίτης Νέστορα",
+          "url": "https://www.kathimerini.gr/society/564320872/thessaloniki-vinteo-apo-ti-stigmi-tis-ekrixis-sto-spiti-tis-afroditis-nestora/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T12:12:51+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Κάμερα ασφαλείας κατέγραψε τη στιγμή της έκρηξης έξω από το σπίτι της πολιτεύτριας της ΝΔ Αφροδίτης Νέστορα στη Θεσσαλονίκη. Η έκρηξη προκάλεσε μεγάλη φωτιά που στοίχισε τη ζωή στη μητέρα της, ενώ τραυματίστηκαν άλλοι τέσσερις ένοικοι.",
+            "en": "A security camera captured the moment of the explosion outside the Thessaloniki home of ND candidate Aphroditi Nestora. The blast caused a large fire that killed her mother and injured four other residents."
+          },
+          "tags": {
+            "el": [
+              "Θεσσαλονίκη",
+              "έκρηξη",
+              "Νέστορα",
+              "βίντεο"
+            ],
+            "en": [
+              "Thessaloniki",
+              "explosion",
+              "Nestora",
+              "video"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "47939c11395f",
+          "title": "Ηράκλειο: 58χρονος συνελήφθη για απόπειρα δολοφονίας 8χρονου",
+          "url": "https://www.kathimerini.gr/society/564320725/irakleio-58chronos-synelifthi-gia-apopeira-dolofonias-8chronoy/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T10:54:43+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ένας 58χρονος συνελήφθη σε χωριό του Ηρακλείου για απόπειρα δολοφονίας 8χρονου παιδιού, μετά από καταγγελία της μητέρας. Σύμφωνα με την καταγγελία, ο εκμισθωτής του ακινήτου μπήκε στο σπίτι εν απουσία της και επιτέθηκε στο παιδί.",
+            "en": "A 58-year-old man was arrested in a village near Heraklion for the attempted murder of an 8-year-old child, following the mother's complaint. According to the report, the property's landlord entered the home in her absence and attacked the child."
+          },
+          "tags": {
+            "el": [
+              "Ηράκλειο",
+              "σύλληψη",
+              "απόπειρα δολοφονίας",
+              "παιδί"
+            ],
+            "en": [
+              "Heraklion",
+              "arrest",
+              "attempted murder",
+              "child"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "a58cb534a8e3",
+          "title": "Συλλήψεις σκληρών χούλιγκαν στην Αθήνα – Στη δικογραφία για τη δολοφονία Κατσουρή ο «αρχηγός»",
+          "url": "https://www.kathimerini.gr/society/564320578/syllipseis-10-opadon-stin-athina-katigories-gia-egklimatiki-organosi-apopeira-anthropoktonias/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T09:55:16+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Δέκα οπαδοί του Παναθηναϊκού συνελήφθησαν στην Αθήνα στο πλαίσιο επιχείρησης κατά της αθλητικής βίας, με 39 συνολικά κατηγορούμενους. Ο φερόμενος «αρχηγός» εντάσσεται στη δικογραφία για τη δολοφονία Κατσουρή, με κατηγορίες που περιλαμβάνουν εγκληματική οργάνωση και εμπρησμό.",
+            "en": "Ten Panathinaikos fans were arrested in Athens as part of an anti-sports-violence operation, with 39 defendants in total. The alleged 'leader' is included in the Katsouris murder case file, facing charges including criminal organisation and arson."
+          },
+          "tags": {
+            "el": [
+              "χούλιγκαν",
+              "Παναθηναϊκός",
+              "αθλητική βία",
+              "Κατσουρής"
+            ],
+            "en": [
+              "hooligans",
+              "Panathinaikos",
+              "sports violence",
+              "Katsouris"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "5d7d86539c1b",
+          "title": "Ωραιόκαστρο: To σπίτι δίπλα στο δάσος",
+          "url": "https://www.kathimerini.gr/society/564319876/oraiokastro-to-spiti-dipla-sto-dasos/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T11:28:03+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Ρεπορτάζ για την τραγωδία στη Λητή Ωραιοκάστρου, όπου φωτιά κατέστρεψε σπίτι που είχε χτίσει μόνος του ένας συνταξιούχος δάσκαλος μέσα στο δάσος. Ο πατέρας προσπάθησε να προστατεύσει τη γυναίκα και το παιδί του από τις φλόγες.",
+            "en": "A report on the tragedy in Liti, Oraiokastro, where a fire destroyed a forest home a retired teacher had built himself. The father tried to shield his wife and child from the flames."
+          },
+          "tags": {
+            "el": [
+              "Ωραιόκαστρο",
+              "φωτιά",
+              "τραγωδία",
+              "δάσος"
+            ],
+            "en": [
+              "Oraiokastro",
+              "fire",
+              "tragedy",
+              "forest"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "8efce8c8fb5c",
+          "title": "Ελαφόνησος: Πλοίο μπήκε στο λιμάνι με ανοιχτό καταπέλτη – Ανδρας επιβιβάστηκε κολυμπώντας",
+          "url": "https://www.kathimerini.gr/society/564320950/elafonisos-ploio-mpike-sto-limani-me-anoichto-katapelti-andras-epivivastike-kolympontas/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T12:55:12+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Σοβαρά ερωτήματα για την ασφάλεια στις πορθμειακές συγκοινωνίες προκαλεί περιστατικό στη γραμμή Ελαφόνησος–Πούντα, όπου πλοίο μπήκε στο λιμάνι με ανοιχτό καταπέλτη. Σύμφωνα με το Λιμενικό, ένας άνδρας επιβιβάστηκε στο πλοίο κολυμπώντας.",
+            "en": "A ferry entering the port of Elafonisos with an open ramp has raised serious safety questions on the Elafonisos-Pounta route. According to the Coast Guard, a man boarded the vessel by swimming."
+          },
+          "tags": {
+            "el": [
+              "Ελαφόνησος",
+              "Λιμενικό",
+              "ασφάλεια",
+              "πλοίο"
+            ],
+            "en": [
+              "Elafonisos",
+              "Coast Guard",
+              "safety",
+              "ferry"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "89050b40b312",
+          "title": "Οι διαπραγματεύσεις ΗΠΑ – Ιράν θα επαναληφθούν μετά την κηδεία Χαμενεΐ",
+          "url": "https://www.kathimerini.gr/world/564320863/oi-diapragmateyseis-ipa-iran-tha-epanalifthoyn-meta-tin-kideia-chamene/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T12:03:18+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Οι διαπραγματεύσεις ανάμεσα στο Ιράν και τις ΗΠΑ αναμένεται να επαναληφθούν «το συντομότερο δυνατόν» μετά την κηδεία του αγιατολάχ Αλί Χαμενεΐ, σύμφωνα με τους μεσολαβητές του Κατάρ και του Πακιστάν. Οι τελετές για τον θάνατο του ανώτατου ηγέτη του Ιράν βρίσκονται σε εξέλιξη.",
+            "en": "Talks between Iran and the US are expected to resume 'as soon as possible' after the funeral of Ayatollah Ali Khamenei, according to Qatari and Pakistani mediators. Ceremonies for the death of Iran's supreme leader are under way."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "Χαμενεΐ",
+              "διαπραγματεύσεις"
+            ],
+            "en": [
+              "Iran",
+              "USA",
+              "Khamenei",
+              "negotiations"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "85935edb8a91",
+          "title": "Το Δικαστήριο της Ε.Ε. απέρριψε την προσφυγή της Google για το πρόστιμο-ρεκόρ",
+          "url": "https://www.kathimerini.gr/world/564320719/to-dikastirio-tis-e-e-aperripse-tin-prosfygi-tis-google-gia-to-prostimo-rekor/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T10:53:38+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Το ανώτατο δικαστήριο της ΕΕ απέρριψε την προσφυγή της Alphabet, μητρικής της Google, κατά του προστίμου-ρεκόρ για κατάχρηση δεσπόζουσας θέσης στο λειτουργικό Android. Το πρόστιμο, αρχικά 4,34 δισ. ευρώ, είχε μειωθεί στα 4,1 δισ. ευρώ το 2022.",
+            "en": "The EU's top court rejected the appeal by Alphabet, Google's parent, against the record fine for abusing its dominant position with the Android operating system. The penalty, initially €4.34 billion, had been reduced to €4.1 billion in 2022."
+          },
+          "tags": {
+            "el": [
+              "Google",
+              "ΕΕ",
+              "πρόστιμο",
+              "Android"
+            ],
+            "en": [
+              "Google",
+              "EU",
+              "fine",
+              "Android"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4618d6b486ae",
+          "title": "Η Κάλας πρότεινε νέες κυρώσεις κατά της Ρωσίας μετά τις επιθέσεις στην Ουκρανία",
+          "url": "https://www.kathimerini.gr/world/564320674/i-kalas-proteine-nees-kyroseis-kata-tis-rosias-meta-tis-epitheseis-stin-oykrania/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T10:21:29+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η επικεφαλής της Εξωτερικής Πολιτικής της ΕΕ Κάγια Κάλας δήλωσε ότι θα προτείνει νέες κυρώσεις κατά της Ρωσίας, στον απόηχο νέου κύματος επιθέσεων στην Ουκρανία. Τόνισε ότι όσο η Μόσχα επιτίθεται σε αμάχους, τόσο περισσότερες κυρώσεις πρέπει να επιβάλλονται.",
+            "en": "EU foreign policy chief Kaja Kallas said she will propose new sanctions against Russia in the wake of a fresh wave of attacks on Ukraine. She stressed that the more Moscow attacks civilians, the more sanctions must be imposed."
+          },
+          "tags": {
+            "el": [
+              "Κάλας",
+              "Ρωσία",
+              "κυρώσεις",
+              "Ουκρανία"
+            ],
+            "en": [
+              "Kallas",
+              "Russia",
+              "sanctions",
+              "Ukraine"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "c5e60741c23c",
+          "title": "Στη Βηρυτό ο Σύρος ΥΠΕΞ μετά τις δηλώσεις Τραμπ για ρόλο της Συρίας απέναντι στη Χεζμπολάχ",
+          "url": "https://www.kathimerini.gr/world/564320821/sti-viryto-o-syros-ypex-meta-tis-diloseis-tramp-gia-rolo-tis-syrias-apenanti-sti-chezmpolach/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T11:35:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο υπουργός Εξωτερικών της Συρίας μετέβη στη Βηρυτό για συναντήσεις με την πολιτική ηγεσία του Λιβάνου, στην πρώτη του επίσκεψη μετά τις δηλώσεις Τραμπ. Ο Αμερικανός πρόεδρος είχε αναφερθεί σε ενδεχόμενο ρόλο συριακών δυνάμεων απέναντι στη φιλοϊρανική Χεζμπολάχ.",
+            "en": "Syria's foreign minister travelled to Beirut for meetings with Lebanon's political leadership, his first visit since Trump's remarks. The US president had suggested a possible role for Syrian forces against the pro-Iranian Hezbollah."
+          },
+          "tags": {
+            "el": [
+              "Συρία",
+              "Λίβανος",
+              "Χεζμπολάχ",
+              "Τραμπ"
+            ],
+            "en": [
+              "Syria",
+              "Lebanon",
+              "Hezbollah",
+              "Trump"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "48a45c829284",
+          "title": "Δέσμη μέτρων παρουσίασε ο Μερτς, καθώς αυξάνεται η πίεση για την κυβέρνησή του",
+          "url": "https://www.kathimerini.gr/world/564320695/desmi-metron-paroysiase-o-merts-kathos-ayxanetai-i-piesi-gia-tin-kyvernisi-toy/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T10:36:28+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η κυβερνητική συμμαχία του Γερμανού καγκελαρίου Φρίντριχ Μερτς παρουσίασε δέσμη μέτρων, καθώς αυξάνεται η πίεση προς την κυβέρνησή του. Το πακέτο περιλαμβάνει φοροελαφρύνσεις 10 δισ. ευρώ για τα χαμηλότερα εισοδήματα, αλλαγές στο συνταξιοδοτικό και μέτρα για προσιτή κατοικία.",
+            "en": "German Chancellor Friedrich Merz's governing coalition presented a package of measures as pressure on his government grows. It includes €10 billion in tax relief for lower incomes, pension changes and affordable-housing measures."
+          },
+          "tags": {
+            "el": [
+              "Γερμανία",
+              "Μερτς",
+              "φοροελαφρύνσεις",
+              "κατοικία"
+            ],
+            "en": [
+              "Germany",
+              "Merz",
+              "tax relief",
+              "housing"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "id": "71c097dca195",
+          "title": "Σε χρόνο TikTok",
+          "url": "https://www.kathimerini.gr/opinion/564317755/se-chrono-tiktok/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:10:00+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Στήλη σχολιάζει την ομολογία του 17χρονου δράστη για τη δολοφονία 15χρονου στην Καλλιθέα, τονίζοντας πώς το περιστατικό εξελίχθηκε «σε χρόνο TikTok». Η κατάθεση αποκαλύπτει την ανησυχητική αδιαφορία και τη σχέση της νεολαίας με τα social media.",
+            "en": "A column reflects on the confession of the 17-year-old perpetrator in the murder of a 15-year-old in Kallithea, noting how the event unfolded 'in TikTok time'. The testimony reveals troubling indifference and youth's relationship with social media."
+          },
+          "tags": {
+            "el": [
+              "Καλλιθέα",
+              "νεανική βία",
+              "TikTok",
+              "δολοφονία"
+            ],
+            "en": [
+              "Kallithea",
+              "youth violence",
+              "TikTok",
+              "murder"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "2809b2eed393",
+          "title": "Οι περιπολίες και η σιωπή της ντροπής",
+          "url": "https://www.kathimerini.gr/opinion/564317560/oi-peripolies-kai-i-siopi-tis-ntropis/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:06:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Σκληρή στήλη καταγγέλλει «περιπολία» περίπου πενήντα ατόμων με μπλούζες παλαιστινιακής σημαίας που διαδήλωσαν στη Θεσσαλονίκη κατά της παρουσίας Εβραίων. Το κείμενο μιλά για τη «σιωπή της ντροπής» απέναντι σε αντισημιτικές εκδηλώσεις.",
+            "en": "A sharp column denounces a 'patrol' of about fifty people in Palestinian-flag shirts who demonstrated in Thessaloniki against the presence of Jews. The piece speaks of the 'silence of shame' toward antisemitic incidents."
+          },
+          "tags": {
+            "el": [
+              "Θεσσαλονίκη",
+              "αντισημιτισμός",
+              "διαδήλωση"
+            ],
+            "en": [
+              "Thessaloniki",
+              "antisemitism",
+              "demonstration"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "7c9066587e1e",
+          "title": "Αξιολόγηση και κίνητρα",
+          "url": "https://www.kathimerini.gr/opinion/564317329/axiologisi-kai-kinitra/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:14:00+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Άρθρο γνώμης υποστηρίζει ότι η ουσιαστική αξιολόγηση και τα κίνητρα μπορούν να αποκαταστήσουν το κύρος της εργασίας στο ελληνικό Δημόσιο. Η σύνδεση της επάρκειας με την ιεραρχική και μισθολογική ανέλιξη μπορεί να προσελκύσει ξανά ταλέντο στη δημόσια υπηρεσία.",
+            "en": "An opinion piece argues that meaningful evaluation and incentives can restore the prestige of working in the Greek public sector. Linking competence to promotion and pay could again attract talent to public service."
+          },
+          "tags": {
+            "el": [
+              "Δημόσιο",
+              "αξιολόγηση",
+              "κίνητρα",
+              "μεταρρύθμιση"
+            ],
+            "en": [
+              "public sector",
+              "evaluation",
+              "incentives",
+              "reform"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1c2b5aa82d6a",
+          "title": "Συμφωνίες και ανταγωνισμός",
+          "url": "https://www.kathimerini.gr/opinion/564317554/symfonies-kai-antagonismos/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:11:00+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Άρθρο εκφράζει σκεπτικισμό για τη νέα «συμφωνία κυρίων» για τις τιμές στην αγορά, αναρωτώμενο γιατί δεν εφαρμόστηκε τα προηγούμενα χρόνια. Επισημαίνει ότι ο ελληνικός πληθωρισμός υπερέβαινε πάντα κατά δύο-τρεις μονάδες τον μέσο ευρωπαϊκό.",
+            "en": "An article voices scepticism about the new 'gentlemen's agreement' on market prices, asking why it was not applied in earlier years. It notes that Greek inflation consistently exceeded the European average by two to three points."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "τιμές",
+              "αγορά",
+              "οικονομία"
+            ],
+            "en": [
+              "inflation",
+              "prices",
+              "market",
+              "economy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0500a54d8720",
+          "title": "Ας μαζέψει τα σκουπίδια",
+          "url": "https://www.kathimerini.gr/opinion/564317317/as-mazepsei-ta-skoypidia/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:13:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Κύριο άρθρο επικρίνει την κατάσταση καθαριότητας στην Αθήνα, καλώντας τον δήμαρχο «να μαζέψει τα σκουπίδια». Η πραγματική εικόνα της πρωτεύουσας, σύμφωνα με το άρθρο, απέχει πολύ από αυτή μιας καθαρής πόλης.",
+            "en": "An editorial criticises the state of cleanliness in Athens, urging the mayor to 'collect the garbage'. The real picture of the capital, it argues, is far from that of a clean city."
+          },
+          "tags": {
+            "el": [
+              "Αθήνα",
+              "καθαριότητα",
+              "δήμαρχος"
+            ],
+            "en": [
+              "Athens",
+              "cleanliness",
+              "mayor"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "a293a5383efc",
+          "title": "«Οδύσσεια»: Κυκλοφόρησε το νέο τρέιλερ της πολυαναμενόμενης ταινίας του Κρίστοφερ Νόλαν",
+          "url": "https://www.kathimerini.gr/culture/564319606/odysseia-kykloforise-to-neo-treiler-tis-polyanamenomenis-tainias-toy-kristofer-nolan/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T21:46:21+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Κυκλοφόρησε το νέο τρέιλερ της πολυαναμενόμενης «Οδύσσειας» του Κρίστοφερ Νόλαν, με διάρκεια 2,5 λεπτών, προσφέροντας την πληρέστερη ώς τώρα εικόνα της ταινίας. Η πρεμιέρα αναμένεται στις 17 Ιουλίου 2026.",
+            "en": "A new 2.5-minute trailer for Christopher Nolan's much-anticipated 'The Odyssey' has been released, offering the fullest glimpse yet of the film. The premiere is expected on 17 July 2026."
+          },
+          "tags": {
+            "el": [
+              "Οδύσσεια",
+              "Νόλαν",
+              "τρέιλερ",
+              "κινηματογράφος"
+            ],
+            "en": [
+              "Odyssey",
+              "Nolan",
+              "trailer",
+              "cinema"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "d76ba27e1cbc",
+          "title": "Ο Καναδάς θα συμμετάσχει στη Eurovision του 2027",
+          "url": "https://www.kathimerini.gr/culture/564318889/o-kanadas-tha-symmetaschei-sti-eurovision-toy-2027/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T15:25:55+00:00",
+          "importance": 48,
+          "summary": {
+            "el": "Ο Καναδάς θα συμμετάσχει για πρώτη φορά στη Eurovision το 2027, όπως ανακοίνωσαν οι διοργανωτές. Είναι η πρώτη νέα χώρα που εντάσσεται στον διαγωνισμό μετά την Αυστραλία το 2015 και θα διαγωνιστεί κανονικά στους ημιτελικούς.",
+            "en": "Canada will take part in Eurovision for the first time in 2027, the organisers announced. It is the first new country to join since Australia in 2015 and will compete normally in the semi-finals."
+          },
+          "tags": {
+            "el": [
+              "Eurovision",
+              "Καναδάς",
+              "μουσική",
+              "διαγωνισμός"
+            ],
+            "en": [
+              "Eurovision",
+              "Canada",
+              "music",
+              "contest"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "a0c1dd374c20",
+          "title": "Βίκτορ Γουίλις: Από την παγκόσμια επιτυχία του «Y.M.C.A.» στο πλευρό του Τραμπ",
+          "url": "https://www.kathimerini.gr/culture/564320041/viktor-goyilis-apo-tin-pagkosmia-epitychia-toy-y-m-c-a-sto-pleyro-toy-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T12:20:27+00:00",
+          "importance": 46,
+          "summary": {
+            "el": "Πέθανε σε ηλικία 75 ετών ο Βίκτορ Γουίλις, τραγουδιστής των Village People και φωνή πίσω από το παγκόσμιο σουξέ «Y.M.C.A.». Η διαδρομή του υπήρξε γεμάτη αντιθέσεις, καταλήγοντας στα τελευταία χρόνια στο πλευρό του Ντόναλντ Τραμπ.",
+            "en": "Victor Willis, lead singer of the Village People and the voice behind the global hit 'Y.M.C.A.', has died at 75. His path was full of contrasts, ending in recent years at Donald Trump's side."
+          },
+          "tags": {
+            "el": [
+              "Village People",
+              "Γουίλις",
+              "YMCA",
+              "νεκρολογία"
+            ],
+            "en": [
+              "Village People",
+              "Willis",
+              "YMCA",
+              "obituary"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "c74ecb9c71af",
+          "title": "Πέθανε η ηθοποιός Τζένη Ζαχαροπούλου",
+          "url": "https://www.kathimerini.gr/society/564320533/pethane-i-ithopoios-tzeni-zacharopoyloy/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T08:35:38+00:00",
+          "importance": 45,
+          "summary": {
+            "el": "Πέθανε σε ηλικία 85 ετών η ηθοποιός Τζένη Ζαχαροπούλου, που άφησε το στίγμα της στη χρυσή εποχή του ελληνικού κινηματογράφου. Είχε γίνει γνωστή από τους ρόλους της δίπλα στην Αλίκη Βουγιουκλάκη.",
+            "en": "Actress Jenny Zacharopoulou has died at 85, having left her mark on the golden age of Greek cinema. She became known for her roles alongside Aliki Vougiouklaki."
+          },
+          "tags": {
+            "el": [
+              "Ζαχαροπούλου",
+              "ελληνικός κινηματογράφος",
+              "νεκρολογία"
+            ],
+            "en": [
+              "Zacharopoulou",
+              "Greek cinema",
+              "obituary"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e4781693228e",
+          "title": "Πώς γεννήθηκε το φαινόμενο Κρίστοφερ Νόλαν",
+          "url": "https://www.kathimerini.gr/culture/tv/564319240/pos-gennithike-to-fainomeno-kristofer-nolan/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T19:55:58+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Με αφορμή την παγκόσμια πρεμιέρα της «Οδύσσειας», το Cinobo παρουσιάζει τα τρία πρώτα φιλμ του Κρίστοφερ Νόλαν που ανέδειξαν το ξεχωριστό κινηματογραφικό του σύμπαν. Στη νέα ταινία, ο Ματ Ντέιμον υποδύεται τον Οδυσσέα και η Αν Χάθαγουεϊ την Πηνελόπη.",
+            "en": "Marking the world premiere of 'The Odyssey', Cinobo presents Christopher Nolan's first three films that shaped his distinctive cinematic universe. In the new film, Matt Damon plays Odysseus and Anne Hathaway plays Penelope."
+          },
+          "tags": {
+            "el": [
+              "Νόλαν",
+              "Cinobo",
+              "Οδύσσεια",
+              "κινηματογράφος"
+            ],
+            "en": [
+              "Nolan",
+              "Cinobo",
+              "Odyssey",
+              "cinema"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "id": "a2074c11ad9a",
+          "title": "Ρομποτική με ΑΙ, ο συνδυασμός που φέρνει χρήματα στις startups",
+          "url": "https://www.kathimerini.gr/economy/business/564317872/rompotiki-me-ai-o-syndyasmos-poy-fernei-chrimata-stis-startups/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T22:40:35+00:00",
+          "category": "economy",
+          "importance": 62,
+          "summary": {
+            "el": "Ο συνδυασμός ρομποτικής και τεχνητής νοημοσύνης προσελκύει ρεκόρ χρηματοδοτήσεων, με τις επενδύσεις σε σχετικές startups να φτάνουν τα 18,8 δισ. δολάρια στο εξάμηνο. Ελληνικές καινοτομίες διεκδικούν θέση στη ραγδαία αναπτυσσόμενη αγορά, από ανθρωποειδή ρομπότ έως εξωσκελετικά συστήματα.",
+            "en": "The combination of robotics and artificial intelligence is attracting record funding, with investment in related startups reaching $18.8 billion in the half-year. Greek innovations are competing in the fast-growing market, from humanoid robots to exoskeletons."
+          },
+          "tags": {
+            "el": [
+              "ρομποτική",
+              "τεχνητή νοημοσύνη",
+              "startups",
+              "επενδύσεις"
+            ],
+            "en": [
+              "robotics",
+              "artificial intelligence",
+              "startups",
+              "investment"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "c9c58649deb6",
+          "title": "Η τεχνητή νοημοσύνη στραγγαλίζει την οικονομία μας",
+          "url": "https://www.kathimerini.gr/economy/564317794/i-techniti-noimosyni-straggalizei-tin-oikonomia-mas/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T22:31:25+00:00",
+          "category": "economy",
+          "importance": 57,
+          "summary": {
+            "el": "Ανάλυση υποστηρίζει ότι η τεχνητή νοημοσύνη «στραγγαλίζει» την οικονομία, απορροφώντας τεράστια κεφάλαια, γη, ταλέντο και ημιαγωγούς. Η ανάπτυξη της ΑΙ αναμένεται να ξεπεράσει το 1 τρισ. δολάρια ετησίως, υπερβαίνοντας προηγούμενες τεχνολογικές εκρήξεις.",
+            "en": "An analysis argues that artificial intelligence is 'strangling' the economy by absorbing vast capital, land, talent and semiconductors. AI spending is expected to surpass $1 trillion a year, exceeding previous technological booms at their peak."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "οικονομία",
+              "επενδύσεις",
+              "ημιαγωγοί"
+            ],
+            "en": [
+              "artificial intelligence",
+              "economy",
+              "investment",
+              "semiconductors"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "869dee7dcb2a",
+          "title": "Ρωσία: Η λαϊκή δυσφορία αυξάνεται καθώς οξύνεται η κρίση με τα καύσιμα",
+          "url": "https://www.kathimerini.gr/world/564320503/rosia-i-laiki-dysforia-ayxanetai-kathos-oxynetai-i-krisi-me-ta-kaysima/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T09:09:54+00:00",
+          "category": "world",
+          "importance": 57,
+          "summary": {
+            "el": "Η λαϊκή δυσφορία αυξάνεται στη Ρωσία καθώς οξύνεται η κρίση καυσίμων, με τους αγρότες στον σιτοβολώνα της χώρας να ανησυχούν για τη συγκομιδή. Η κρίση προκλήθηκε από ουκρανικές επιθέσεις με drones σε ρωσικά διυλιστήρια και αποθήκες πετρελαίου.",
+            "en": "Public discontent is rising in Russia as the fuel crisis intensifies, with farmers in the country's breadbasket worried about the harvest. The crisis stems from Ukrainian drone attacks on Russian refineries and fuel depots."
+          },
+          "tags": {
+            "el": [
+              "Ρωσία",
+              "καύσιμα",
+              "Ουκρανία",
+              "drones"
+            ],
+            "en": [
+              "Russia",
+              "fuel",
+              "Ukraine",
+              "drones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d57959cfb3d1",
+          "title": "Ποιες επενδύσεις έφεραν κέρδη στον Τραμπ",
+          "url": "https://www.kathimerini.gr/world/564319906/poies-ependyseis-eferan-kerdi-ston-tramp/",
+          "source": "Kathimerini",
+          "published": "2026-07-02T10:51:38+00:00",
+          "category": "world",
+          "importance": 56,
+          "summary": {
+            "el": "Η φορολογική δήλωση του Αμερικανού προέδρου Ντόναλντ Τραμπ έδειξε ότι αύξησε την περιουσία του κυρίως χάρη στα κρυπτονομίσματα, με 1,4 δισ. δολάρια από τις οικογενειακές επιχειρήσεις κρυπτο. Τη χρονιά της επανεκλογής του εμφάνισε έσοδα 622 εκατ. δολαρίων.",
+            "en": "US President Donald Trump's tax return showed he grew his wealth mainly through cryptocurrencies, with $1.4 billion from the family's crypto ventures. In his re-election year he reported $622 million in income."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "κρυπτονομίσματα",
+              "φορολογική δήλωση",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "Trump",
+              "cryptocurrency",
+              "tax return",
+              "USA"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "03fd09203cb0",
+          "title": "Το ενεργειακό πρόβλημα στις ΗΠΑ δεν είναι τα data centers",
+          "url": "https://www.kathimerini.gr/economy/international/564317929/to-energeiako-provlima-stis-ipa-den-einai-ta-data-centers/",
+          "source": "Kathimerini",
+          "published": "2026-07-01T20:41:34+00:00",
+          "category": "economy",
+          "importance": 51,
+          "summary": {
+            "el": "Ανάλυση υποστηρίζει ότι το ενεργειακό πρόβλημα στις ΗΠΑ δεν οφείλεται στα data centers ή στην τεχνητή νοημοσύνη, αλλά είναι διαρθρωτικό και προϋπάρχει. Οι μέσες τιμές ηλεκτρικής ενέργειας για οικιακή χρήση αυξήθηκαν κατά 6% πέρυσι, πάνω από το διπλάσιο του πληθωρισμού.",
+            "en": "An analysis argues the US energy problem is not caused by data centres or AI but is structural and predates the recent boom. Average residential electricity prices rose 6% last year, more than twice the rate of inflation."
+          },
+          "tags": {
+            "el": [
+              "ΗΠΑ",
+              "ενέργεια",
+              "data centers",
+              "ηλεκτρισμός"
+            ],
+            "en": [
+              "USA",
+              "energy",
+              "data centres",
+              "electricity"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

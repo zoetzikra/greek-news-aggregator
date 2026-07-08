@@ -1,0 +1,283 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T09:31:44.344816+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχείται από τη σύνοδο κορυφής του ΝΑΤΟ στην Άγκυρα, όπου ο Κυριάκος Μητσοτάκης τόνισε ότι μια συμμαχία πρέπει να θεμελιώνεται στην καλή γειτονία, θέτοντας το τουρκικό casus belli, στον απόηχο των δηλώσεων Τραμπ-Ερντογάν για πιθανή επιστροφή της Τουρκίας στα F-35. Η σύνοδος εξελίχθηκε σε «παράσταση για δύο ηγέτες», με τον Τραμπ να επιτίθεται σε συμμάχους —διακοπή εμπορίου με Ισπανία, «λήξαν» το μνημόνιο με το Ιράν, νέα επιμονή για τη Γροιλανδία που ανάγκασε τη Δανία σε αντίδραση.\n\nΣτο εσωτερικό μέτωπο, οξύνονται οι κομματικές αναταράξεις: οριστική ρήξη Μαξίμου-Σαμαρά, εσωκομματική κρίση στον ΣΥΡΙΖΑ με τον Πολάκη να αμφισβητεί τον Φάμελλο, και διάλυση του κόμματος Καρυστιανού πριν καν συσταθεί. Παράλληλα, η κυβέρνηση επιχειρεί να ακυρώσει το «ηθικό πλεονέκτημα» του νέου κόμματος ΕΛΑΣ του Τσίπρα.\n\nΣτην οικονομία, η τεχνητή νοημοσύνη τροφοδοτεί ρεκόρ επενδύσεων (άνω των 390 δισ. δολ. παγκοσμίως) και εκτόξευση κερδών για Samsung και SpaceX, ενώ ξεχωρίζουν οι εξελίξεις σε τουρισμό, ακίνητα (παράταση αναστολής ΦΠΑ) και τράπεζες. Οι τιμές πετρελαίου ανέβηκαν μετά νέες αμερικανικές επιθέσεις στο Ιράν.\n\nΣτην κοινωνία, υψηλός κίνδυνος πυρκαγιάς σε 29 περιοχές και σεισμικές δονήσεις στην Κρήτη, ενώ στον πολιτισμό συνεχίζεται το πρόγραμμα «Όλη η Ελλάδα ένας πολιτισμός» και συζητείται η άνοδος της AI στο σινεμά (Οδύσσεια σε IMAX, η ψηφιακή «ηθοποιός» Τίλι Νόργουντ).",
+    "en": "The day is dominated by the NATO summit in Ankara, where Kyriakos Mitsotakis stressed that an alliance must rest on good-neighbourly principles, raising Turkey's casus belli in the wake of Trump-Erdogan remarks about Turkey's possible return to the F-35 programme. The summit became a 'show for two leaders', with Trump attacking allies — cutting trade with Spain, declaring the Iran memorandum 'over', and renewing his push for Greenland, which forced Denmark to respond.\n\nOn the domestic front, party turmoil is intensifying: a definitive Maximos-Samaras rift, an internal SYRIZA crisis with Polakis challenging Famellos, and the collapse of the Karystianou party before it was even founded. Meanwhile the government is seeking to neutralise the 'moral high ground' of Tsipras's new ELAS party.\n\nIn the economy, artificial intelligence is driving record investment (over 390 billion dollars globally) and surging profits at Samsung and SpaceX, while tourism, real estate (an extended VAT-suspension) and banks stand out. Oil prices rose after fresh US strikes on Iran.\n\nIn society, 29 regions face high wildfire risk and earthquakes struck Crete, while in culture the 'All of Greece, One Culture' programme continues and AI's rise in cinema is in focus (the Odyssey in IMAX, the digital 'actress' Tilly Norwood)."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σύνοδος ΝΑΤΟ στην Άγκυρα & το παζάρι για τα F-35",
+        "en": "NATO summit in Ankara & the F-35 bargain"
+      },
+      "description": {
+        "el": "Η διήμερη σύνοδος επισκιάζεται από τις δηλώσεις Τραμπ για πιθανή επιστροφή της Τουρκίας στα F-35, την άρση κυρώσεων και τους κινητήρες για το ΚΑΑΝ. Η Αθήνα θέτει το casus belli και τις αρχές καλής γειτονίας.",
+        "en": "The two-day summit is overshadowed by Trump's remarks on Turkey's possible F-35 return, sanctions relief and engines for the KAAN jet. Athens raises the casus belli and good-neighbourly principles."
+      },
+      "related_items": [
+        "b7f6d20efc9e",
+        "0aec7a852cad",
+        "4694e34db50f",
+        "cbcf9d6a4349",
+        "24511e8fcb84",
+        "59d91237a7a7",
+        "cd12763e4700",
+        "1eb7d0ee273a"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Τραμπ κατά συμμάχων: Ισπανία, Ιράν, Γροιλανδία",
+        "en": "Trump vs. allies: Spain, Iran, Greenland"
+      },
+      "description": {
+        "el": "Ο Αμερικανός πρόεδρος ανακοίνωσε διακοπή εμπορίου με την Ισπανία, θεώρησε «λήξαν» το μνημόνιο με το Ιράν και επέμεινε στον έλεγχο της Γροιλανδίας, προκαλώντας αντιδράσεις και ανησυχία στους εταίρους.",
+        "en": "The US president announced a trade break with Spain, declared the Iran memorandum 'over' and insisted on controlling Greenland, prompting pushback and unease among partners."
+      },
+      "related_items": [
+        "b7f6d20efc9e",
+        "6828769f0d2c",
+        "3631742c25da",
+        "8a197a689f5c",
+        "f4541733d8b8",
+        "6d470f26e391",
+        "2f62ec97af0d"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Κομματικές αναταράξεις: ΝΔ, ΣΥΡΙΖΑ, ΕΛΑΣ, Καρυστιανού",
+        "en": "Party turmoil: ND, SYRIZA, ELAS, Karystianou"
+      },
+      "description": {
+        "el": "Οριστική ρήξη Μητσοτάκη-Σαμαρά, εσωκομματική κρίση στον ΣΥΡΙΖΑ με τον Πολάκη, διάλυση του κόμματος Καρυστιανού και μάχη της κυβέρνησης με το «ηθικό πλεονέκτημα» του Τσίπρα.",
+        "en": "A definitive Mitsotakis-Samaras rift, an internal SYRIZA crisis around Polakis, the collapse of the Karystianou party, and the government's battle over Tsipras's 'moral high ground'."
+      },
+      "related_items": [
+        "318ceaffc051",
+        "64d847fb51af",
+        "9cfcb70949f0",
+        "44c1dbd823f1",
+        "339e7c3e3fff",
+        "62600cf290dc"
+      ],
+      "importance": 66
+    },
+    {
+      "name": {
+        "el": "Η τεχνητή νοημοσύνη σαρώνει: επενδύσεις, κέρδη, σινεμά",
+        "en": "AI everywhere: investment, profits, cinema"
+      },
+      "description": {
+        "el": "Ρεκόρ χρηματοδοτήσεων σε εταιρείες AI, εκτόξευση κερδών Samsung, είσοδος της AI στα πανεπιστήμια και στο σινεμά (Τίλι Νόργουντ), σκιαγραφούν τον κυρίαρχο τεχνολογικό μετασχηματισμό.",
+        "en": "Record AI funding, surging Samsung profits, AI entering universities and cinema (Tilly Norwood) sketch the dominant technological shift."
+      },
+      "related_items": [
+        "11f45ba5c23b",
+        "f0644f910c3f",
+        "1302b6d71248",
+        "ae642a22dfb0",
+        "6e1aac1328af"
+      ],
+      "importance": 63
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 13,
+      "top_items": [
+        "cbcf9d6a4349",
+        "0aec7a852cad",
+        "4694e34db50f"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "11f45ba5c23b",
+        "44a34353255b",
+        "ab566ed313a4"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "ae642a22dfb0",
+        "319541687540",
+        "7f78c71e299a"
+      ]
+    },
+    "world": {
+      "item_count": 13,
+      "top_items": [
+        "b7f6d20efc9e",
+        "1405310b6464",
+        "8a197a689f5c"
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        "cd12763e4700",
+        "6d470f26e391",
+        "318ceaffc051"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "6e1aac1328af",
+        "39cccc87209b",
+        "ba68f506f21b"
+      ]
+    },
+    "ai": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "id": "11f45ba5c23b",
+          "title": "Ρεκόρ χρηματοδότησης για εταιρείες AI από την αρχή του έτους",
+          "url": "https://www.kathimerini.gr/economy/business/564331354/rekor-chrimatodotisis-gia-etaireies-ai-apo-tin-archi-toy-etoys/",
+          "source": "Kathimerini",
+          "published": "2026-07-08T09:37:00+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Οι παγκόσμιες χρηματοδοτήσεις σε εταιρείες AI έσπασαν ρεκόρ με άνω των 390 δισ. δολαρίων το πρώτο εξάμηνο, με ΗΠΑ και Ασία να πρωτοστατούν. Ελληνικές νεοφυείς εταιρείες έχουν αντλήσει πάνω από 300 εκατ. δολάρια.",
+            "en": "Global funding for AI companies hit a record of over 390 billion dollars in the first half, led by the US and Asia. Greek startups have raised more than 300 million dollars."
+          },
+          "tags": {
+            "el": [
+              "Τεχνητή νοημοσύνη",
+              "Χρηματοδότηση",
+              "Startups",
+              "Ελλάδα"
+            ],
+            "en": [
+              "AI",
+              "Funding",
+              "Startups",
+              "Greece"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "1302b6d71248",
+          "title": "Ψήφος εμπιστοσύνης στη SpaceX από έξι χρηματιστηριακές",
+          "url": "https://www.kathimerini.gr/economy/international/564331390/psifos-empistosynis-sti-spacex-apo-exi-chrimatistiriakes/",
+          "source": "Kathimerini",
+          "published": "2026-07-08T09:18:00+00:00",
+          "category": "economy",
+          "importance": 62,
+          "summary": {
+            "el": "Η SpaceX του Έλον Μασκ εντάχθηκε στον δείκτη Nasdaq 100 και έλαβε συστάσεις αγοράς από τουλάχιστον έξι χρηματιστηριακές, μεταξύ των οποίων Morgan Stanley και Goldman Sachs, μετά την IPO των 86 δισ. δολαρίων. Αντιμετωπίζεται πλέον και ως «παίκτης» στην τεχνητή νοημοσύνη.",
+            "en": "Elon Musk's SpaceX has joined the Nasdaq 100 and drawn buy ratings from at least six brokerages, including Morgan Stanley and Goldman Sachs, after its 86-billion-dollar IPO. It is now viewed also as a player in artificial intelligence."
+          },
+          "tags": {
+            "el": [
+              "SpaceX",
+              "Nasdaq 100",
+              "Μασκ",
+              "Wall Street"
+            ],
+            "en": [
+              "SpaceX",
+              "Nasdaq 100",
+              "Musk",
+              "Wall Street"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ae642a22dfb0",
+          "title": "Τα δικά της μαθήματα στο Ιόνιο Πανεπιστήμιο αποκτά η AI",
+          "url": "https://www.kathimerini.gr/society/ekpaideysi/564328861/ta-dika-tis-mathimata-sto-ionio-panepistimio-apokta-i-ai/",
+          "source": "Kathimerini",
+          "published": "2026-07-07T21:44:49+00:00",
+          "category": "society",
+          "importance": 62,
+          "summary": {
+            "el": "Το Ιόνιο Πανεπιστήμιο εντάσσει τη διδασκαλία της τεχνητής νοημοσύνης σε όλα τα προπτυχιακά του προγράμματα, με στόχο κάθε απόφοιτος να αποκτά βασική γνώση αλλά και κριτική και ηθική στάση απέναντι στην AI.",
+            "en": "The Ionian University is adding AI instruction to all its undergraduate programmes, aiming for every graduate to gain basic knowledge as well as a critical and ethical stance toward AI."
+          },
+          "tags": {
+            "el": [
+              "Τεχνητή νοημοσύνη",
+              "Ιόνιο Πανεπιστήμιο",
+              "Παιδεία"
+            ],
+            "en": [
+              "AI",
+              "Ionian University",
+              "Education"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "f0644f910c3f",
+          "title": "Εκρηκτική αύξηση κερδοφορίας για Samsung με ώθηση από την AI",
+          "url": "https://www.kathimerini.gr/economy/international/564331393/ekriktiki-ayxisi-kerdoforias-gia-samsung-me-othisi-apo-tin-ai/",
+          "source": "Kathimerini",
+          "published": "2026-07-08T08:53:00+00:00",
+          "category": "economy",
+          "importance": 60,
+          "summary": {
+            "el": "Η Samsung Electronics προβλέπει εκρηκτική αύξηση λειτουργικών κερδών στο β' τρίμηνο, περίπου 58,4 δισ. δολάρια, 19 φορές υψηλότερα σε ετήσια βάση, χάρη στην έντονη ζήτηση για μνήμες σε υποδομές AI και data centers.",
+            "en": "Samsung Electronics expects an explosive rise in second-quarter operating profit of about 58.4 billion dollars, 19 times higher year-on-year, driven by strong demand for memory chips used in AI infrastructure and data centres."
+          },
+          "tags": {
+            "el": [
+              "Samsung",
+              "Τσιπ",
+              "AI",
+              "Κέρδη"
+            ],
+            "en": [
+              "Samsung",
+              "Chips",
+              "AI",
+              "Profits"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "6e1aac1328af",
+          "title": "Τίλι Νόργουντ, η ΑΙ πρωταγωνίστρια που κυριολεκτικά «δεν υπάρχει»",
+          "url": "https://www.kathimerini.gr/culture/cinema/564330358/tili-norgoynt-i-ai-protagonistria-poy-kyriolektika-quot-den-yparchei-quot/",
+          "source": "Kathimerini",
+          "published": "2026-07-07T18:40:18+00:00",
+          "category": "culture",
+          "importance": 58,
+          "summary": {
+            "el": "Η Τίλι Νόργουντ, μια «ηθοποιός» εξ ολοκλήρου δημιουργημένη από AI, θα κάνει ντεμπούτο στην ταινία «Misaligned», εγείροντας ερωτήματα για το μέλλον της υποκριτικής και τη θέση της τεχνητής νοημοσύνης στο Χόλιγουντ.",
+            "en": "Tilly Norwood, an 'actress' created entirely by AI, will debut in the film 'Misaligned', raising questions about the future of acting and AI's place in Hollywood."
+          },
+          "tags": {
+            "el": [
+              "Τεχνητή νοημοσύνη",
+              "Κινηματογράφος",
+              "Τίλι Νόργουντ",
+              "Χόλιγουντ"
+            ],
+            "en": [
+              "AI",
+              "Cinema",
+              "Tilly Norwood",
+              "Hollywood"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

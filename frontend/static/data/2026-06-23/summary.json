@@ -1,0 +1,606 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:49:31.360283+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 71 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχείται από το ευρωπαϊκό ένταλμα σύλληψης κατά του πρώην Επιτρόπου και βουλευτή της Ν.Δ. Δημήτρη Αβραμόπουλου για το σκάνδαλο Qatargate· το αίτημα άρσης ασυλίας του διαβιβάστηκε στη Βουλή, προκαλώντας σφοδρή πολιτική αντιπαράθεση, ενώ παράλληλα βαθαίνει η εσωκομματική κρίση στον ΣΥΡΙΖΑ.\n\nΣτο διεθνές πεδίο κυριαρχεί η «επόμενη μέρα» της κρίσης στη Μέση Ανατολή: η Ελλάδα προετοιμάζεται να συμμετάσχει στην αποναρκοθέτηση των Στενών του Ορμούζ, το Ιράν αρνείται επιθεωρήσεις στις πυρηνικές του εγκαταστάσεις, νέα έκθεση του ΟΗΕ καταγγέλλει γενοκτονία στη Γάζα και η Ρωσία δηλώνει έτοιμη για συνομιλίες με την Ουκρανία.\n\nΣτην οικονομία ξεχωρίζουν το νέο επενδυτικό σχέδιο 24 δισ. της ΔΕΗ με είσοδο στα data centers, οι ενεργειακές επιπτώσεις του πολέμου στο Ιράν με άνοδο του πετρελαίου, καθώς και η συνεχιζόμενη στεγαστική πίεση, με το μέσο ενοίκιο τριαριού στην Αθήνα στα 1.500 ευρώ.\n\nΣτο εσωτερικό μέτωπο, η αστυνομία εξάρθρωσε κυκλώματα ρευματοκλοπών και φοροδιαφυγής, συνεχίζεται η δίκη για τα Τέμπη, ενώ η Ευρώπη πλήττεται από φονικό κύμα καύσωνα. Στον πολιτισμό ξεχωρίζουν η αποθέωση της «Μήδειας» στην Επίδαυρο και ο προβληματισμός για την παραμέληση του Ζαππείου.",
+    "en": "The day's news is dominated by the European arrest warrant against former EU Commissioner and ND MP Dimitris Avramopoulos over the Qatargate scandal; his immunity-lifting request was forwarded to Parliament, sparking fierce political confrontation, while the internal crisis within SYRIZA deepens.\n\nInternationally, the 'day after' the Middle East crisis dominates: Greece is preparing to join the demining of the Strait of Hormuz, Iran refuses inspections of its nuclear facilities, a new UN report alleges genocide in Gaza, and Russia declares itself ready for talks with Ukraine.\n\nIn the economy, the standouts are PPC's new 24-billion-euro investment plan with an entry into data centres, the energy fallout of the Iran war with rising oil prices, and continued housing pressure, with the average rent for a three-room flat in Athens at 1,500 euros.\n\nOn the domestic front, police dismantled electricity-theft and tax-evasion rings, the Tempi trial continues, and Europe is hit by a deadly heatwave. In culture, the triumph of 'Medea' at Epidaurus and concern over the neglect of the Zappeio stand out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Ένταλμα σύλληψης Αβραμόπουλου για το Qatargate",
+        "en": "Avramopoulos arrest warrant over Qatargate"
+      },
+      "description": {
+        "el": "Το αίτημα άρσης ασυλίας του πρώην Επιτρόπου Δημήτρη Αβραμόπουλου διαβιβάστηκε στη Βουλή για την ενεργοποίηση βελγικού εντάλματος σύλληψης, προκαλώντας σφοδρή πολιτική αντιπαράθεση μεταξύ κυβέρνησης και αντιπολίτευσης.",
+        "en": "The request to lift former Commissioner Dimitris Avramopoulos's immunity was sent to Parliament to activate a Belgian arrest warrant, sparking fierce confrontation between government and opposition."
+      },
+      "related_items": [
+        "717cf0a29d16",
+        "e750f6730635",
+        "7d43c16d2749",
+        "65cc535ebf85",
+        "cdedbb27d0a0"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ελλάδα και Στενά του Ορμούζ",
+        "en": "Greece and the Strait of Hormuz"
+      },
+      "description": {
+        "el": "Η Ελλάδα προετοιμάζεται να συμμετάσχει στην αποναρκοθέτηση των Στενών του Ορμούζ, καθώς Ιράν και Ομάν συγκροτούν κοινή επιτροπή και χώρες σπεύδουν να αυξήσουν τα αποθέματα πετρελαίου μετά τον πόλεμο.",
+        "en": "Greece prepares to join the demining of the Strait of Hormuz as Iran and Oman form a joint committee and countries race to boost oil reserves after the war."
+      },
+      "related_items": [
+        "6f9a41f4aeb3",
+        "8426fd02bcc8",
+        "308f36a5ea5a"
+      ],
+      "importance": 75
+    },
+    {
+      "name": {
+        "el": "Επόμενη μέρα στη Μέση Ανατολή",
+        "en": "The day after in the Middle East"
+      },
+      "description": {
+        "el": "Νέα έκθεση του ΟΗΕ καταγγέλλει γενοκτονία στη Γάζα, το Ιράν αρνείται επιθεωρήσεις στις κατεστραμμένες πυρηνικές εγκαταστάσεις και δύο άμαχοι σκοτώνονται από ισραηλινά πυρά στον Λίβανο.",
+        "en": "A new UN report alleges genocide in Gaza, Iran refuses inspections of its destroyed nuclear facilities, and two civilians are killed by Israeli fire in Lebanon."
+      },
+      "related_items": [
+        "eb26801e220a",
+        "8c62305b1373",
+        "3542476baa91"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή μετάβαση και επενδύσεις",
+        "en": "Energy transition and investment"
+      },
+      "description": {
+        "el": "Η ΔΕΗ ανακοινώνει επενδυτικό πρόγραμμα 24 δισ. με είσοδο στα data centers, ενώ η Ελλάδα παραμένει πρωτοπόρος στις ΑΠΕ αλλά ουραγός στην αποθήκευση ενέργειας.",
+        "en": "PPC unveils a 24-billion-euro investment plan with an entry into data centres, while Greece remains a renewables pioneer but a laggard in energy storage."
+      },
+      "related_items": [
+        "1486e21b9791",
+        "6dc9b3c68ded",
+        "308f36a5ea5a"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Φονικός καύσωνας στην Ευρώπη",
+        "en": "Deadly heatwave in Europe"
+      },
+      "description": {
+        "el": "Κύμα καύσωνα σαρώνει την Ευρώπη με θερμοκρασίες έως 43°C, ενώ στη Γαλλία καταγράφονται 40 πνιγμοί από ανθρώπους που επιχείρησαν να δροσιστούν σε μη επιτηρούμενες περιοχές.",
+        "en": "A heatwave sweeps Europe with temperatures up to 43°C, while France records 40 drownings of people trying to cool off in unsupervised areas."
+      },
+      "related_items": [
+        "d6a00bf64019"
+      ],
+      "importance": 64
+    }
+  ],
+  "article_count": 71,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "717cf0a29d16",
+          "title": "Δημήτρης Αβραμόπουλος: Στη Βουλή το αίτημα άρσης ασυλίας – Ποια αδικήματα αφορά",
+          "url": "https://www.kathimerini.gr/politics/564301915/dimitris-avramopoylos-sti-voyli-to-aitima-arsis-asylias-poia-adikimata-afora/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T13:37:45+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Το αίτημα άρσης ασυλίας του πρώην Επιτρόπου και βουλευτή της Ν.Δ. Δημήτρη Αβραμόπουλου διαβιβάστηκε στη Βουλή, ώστε να ενεργοποιηθεί ευρωπαϊκό ένταλμα σύλληψης της βελγικής Δικαιοσύνης για το Qatargate. Του αποδίδονται ένταξη σε εγκληματική οργάνωση, δημόσια διαφθορά και ξέπλυμα χρήματος, μέσω της συνεργασίας του με ΜΚΟ του Αντόνιο Παντσέρι.",
+            "en": "The request to lift the immunity of former EU Commissioner and ND MP Dimitris Avramopoulos was sent to Parliament to activate a Belgian arrest warrant over the Qatargate scandal. He faces charges of criminal organisation membership, public corruption and money laundering linked to his cooperation with Antonio Panzeri's NGO."
+          }
+        },
+        {
+          "id": "6f9a41f4aeb3",
+          "title": "Επιχείρηση «Στενά» για την Ελλάδα",
+          "url": "https://www.kathimerini.gr/politics/amyna/564296995/epicheirisi-stena-gia-tin-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T10:20:59+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Η απόφαση της Ελλάδας να συμμετάσχει στην επιχείρηση αποναρκοθέτησης των Στενών του Ορμούζ θεωρείται πρακτικά ειλημμένη εδώ και δύο μήνες, με πιθανό ρόλο του Πολεμικού Ναυτικού. Εντάσσεται σε ευρύτερη αλλαγή φιλοσοφίας της Αθήνας, είτε υπό την ομπρέλα της Ε.Ε. (επέκταση «Ασπίδες») είτε σε γαλλοβρετανική «Συμμαχία των προθύμων».",
+            "en": "Greece's decision to join the operation to clear mines from the Strait of Hormuz has effectively been taken for two months, with a possible role for the Navy. It reflects a broader shift in Athens' posture, either under an EU umbrella (extending the 'Aspides' mission) or a Franco-British 'coalition of the willing'."
+          }
+        },
+        {
+          "id": "e750f6730635",
+          "title": "O Αβραμόπουλος, το Qatargate και το ένταλμα των Βέλγων",
+          "url": "https://www.kathimerini.gr/politics/government/564300727/o-avramopoylos-to-qatargate-kai-to-entalma-ton-velgon/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T07:12:46+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Η στήλη αναλύει την εσωτερική αναταραχή που προκαλεί το ευρωπαϊκό ένταλμα σύλληψης κατά του Αβραμόπουλου για το Qatargate. Η υπόθεση αφορά τη συνεργασία του με ΜΚΟ του Παντσέρι έναντι 5.000 ευρώ τον μήνα και κατηγορίες για συμμετοχή σε εγκληματική οργάνωση.",
+            "en": "The column examines the political turmoil caused by the European arrest warrant against Avramopoulos over Qatargate. The case concerns his cooperation with Panzeri's NGO for 5,000 euros a month and charges of participation in a criminal organisation."
+          }
+        },
+        {
+          "id": "d590e9a76e06",
+          "title": "ΣΥΡΙΖΑ: Με το όπλο παρά πόδα οι αντιμαχόμενες πλευρές",
+          "url": "https://www.kathimerini.gr/politics/564300718/me-to-oplo-para-poda-oi-antimachomenes-pleyres-ston-syriza/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T08:14:56+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Σε θέση μάχης βρίσκονται οι πλευρές στον ΣΥΡΙΖΑ, με τη μειοψηφία Πολάκη-Παππά-Δούρου να ζητεί «ξεκαθάρισμα λογαριασμών» και την πλευρά Φάμελλου να συνιστά υπομονή. Αμφισβητείται αν ο Παύλος Πολάκης θα συγκεντρώσει τις 70 υπογραφές για τη σύγκληση της Κεντρικής Επιτροπής.",
+            "en": "Factions within SYRIZA are in battle mode, with the Polakis-Pappas-Dourou minority demanding a 'reckoning' while the Famellos camp urges patience. It is unclear whether Pavlos Polakis will gather the 70 signatures needed to convene the Central Committee."
+          }
+        },
+        {
+          "id": "7d43c16d2749",
+          "title": "Qatargate: Η αλληλογραφία του Αβραμόπουλου με την Κομισιόν για τη συνεργασία με τη ΜΚΟ του Παντσέρι",
+          "url": "https://www.kathimerini.gr/politics/564300202/qatargate-i-allilografia-toy-avramopoyloy-me-tin-komision-gia-ti-synergasia-me-ti-mko-toy-pantseri/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T18:03:41+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Η «Κ» φέρνει στο φως την αλληλογραφία του Αβραμόπουλου με την Επιτροπή Δεοντολογίας της Κομισιόν σχετικά με το αίτημά του να εργαστεί στη ΜΚΟ του Παντσέρι. Η Ανεξάρτητη Επιτροπή είχε γνωμοδοτήσει τον Δεκέμβριο 2020 για την προβλεπόμενη θέση του.",
+            "en": "Kathimerini reveals Avramopoulos's correspondence with the Commission's ethics committee regarding his request to work for Panzeri's NGO. The independent committee had issued an opinion in December 2020 on his planned position."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "1486e21b9791",
+          "title": "Οι 3 άξονες του νέου επενδυτικού σχεδίου της ΔΕΗ, ύψους 24 δισ.",
+          "url": "https://www.kathimerini.gr/economy/business/564301162/oi-3-axones-toy-neoy-ependytikoy-schedioy-tis-dei-ypsoys-24-dis/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T12:16:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Η ΔΕΗ παρουσίασε νέο επενδυτικό πρόγραμμα 24 δισ. ευρώ με τρεις άξονες: επιτάχυνση σε Ελλάδα-Ρουμανία, επέκταση σε Πολωνία, Σλοβακία και Ουγγαρία, και δυναμική είσοδο στα data centers. Η γενική συνέλευση ενέκρινε μέρισμα 0,60 ευρώ ανά μετοχή, αυξημένο κατά 50%.",
+            "en": "PPC unveiled a new 24-billion-euro investment plan built on three axes: accelerating in Greece and Romania, expanding into Poland, Slovakia and Hungary, and a strong entry into data centres. The AGM approved a dividend of 0.60 euros per share, up 50%."
+          }
+        },
+        {
+          "id": "ff4dfdd3c0a3",
+          "title": "Στα 1.500 ευρώ το μέσο ενοίκιο για τριάρι στην Αθήνα, σύμφωνα με τη Eurostat",
+          "url": "https://www.kathimerini.gr/visual/infographics/564301126/sta-1-500-eyro-to-meso-enoikio-gia-triari-stin-athina-symfona-me-ti-eurostat/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:14:00+03:00",
+          "importance": 70,
+          "summary": {
+            "el": "Σύμφωνα με στοιχεία της Eurostat, το μέσο μηνιαίο ενοίκιο για τριάρι στην Αθήνα φτάνει τα 1.500 ευρώ, αναδεικνύοντας τις μεγάλες αποκλίσεις στην Ευρώπη. Σε 40 πόλεις τα ενοίκια κυμαίνονται από 470 ευρώ στα Σκόπια έως 3.350 ευρώ στη Γενεύη, με το Λονδίνο 2ο.",
+            "en": "According to Eurostat data, the average monthly rent for a three-room flat in Athens reaches 1,500 euros, highlighting wide disparities across Europe. Across 40 cities rents range from 470 euros in Skopje to 3,350 in Geneva, with London second."
+          }
+        },
+        {
+          "id": "308f36a5ea5a",
+          "title": "Aγώνας δρόμου για αύξηση των αποθεμάτων πετρελαίου",
+          "url": "https://www.kathimerini.gr/economy/international/564301267/agonas-dromoy-gia-ayxisi-ton-apothematon-petrelaioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:58:24+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Χώρες-εισαγωγείς και παραγωγοί ενέργειας τρέχουν να αυξήσουν τα αποθέματα πετρελαίου και φυσικού αερίου μετά τον πόλεμο στο Ιράν. Το σχεδόν ολικό κλείσιμο των Στενών του Ορμούζ είχε διακόψει το 1/5 των παγκόσμιων προμηθειών, εκτοξεύοντας το Brent κοντά στα 120 δολάρια.",
+            "en": "Energy-importing and producing countries are racing to build oil and gas reserves after the war in Iran. The near-total closure of the Strait of Hormuz had cut a fifth of global supplies, sending Brent crude to nearly 120 dollars a barrel."
+          }
+        },
+        {
+          "id": "5f6594795535",
+          "title": "Τι φέρνει η ρύθμιση για τα δάνεια του νόμου Κατσέλη – 9 ερωταπαντήσεις και παραδείγματα",
+          "url": "https://www.kathimerini.gr/economy/local/564301522/ti-fernei-i-rythmisi-gia-ta-daneia-toy-nomoy-katseli-9-erotapantiseis-kai-paradeigmata/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T10:02:19+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Το υπουργείο Εθνικής Οικονομίας καταθέτει νομοθετική ρύθμιση για τα δάνεια του νόμου Κατσέλη, επιχειρώντας να κλείσει την ερμηνευτική διαμάχη μετά την απόφαση της Ολομέλειας του Αρείου Πάγου. Η παρέμβαση απαντά σε τρία κρίσιμα ζητήματα, με κυριότερο τον υπολογισμό τόκων στις ρυθμίσεις διάσωσης κύριας κατοικίας.",
+            "en": "The finance ministry is tabling legislation on Katseli-law loans, seeking to end the interpretive dispute following the Supreme Court plenary ruling. The intervention addresses three key issues, chiefly the calculation of interest in primary-residence rescue arrangements."
+          }
+        },
+        {
+          "id": "6dc9b3c68ded",
+          "title": "Οι ελληνικές ΑΠΕ γεμίζουν μπαταρίες της Βουλγαρίας",
+          "url": "https://www.kathimerini.gr/economy/564297313/oi-ellinikes-ape-gemizoyn-mpataries-tis-voylgarias/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:20:21+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Η Ελλάδα εμφανίζεται πρωτοπόρος στις ΑΠΕ αλλά ουραγός στην αποθήκευση ενέργειας, με πάνω από 17 GW εγκατεστημένης ισχύος το 2025. Σύμφωνα με μελέτη της Ember, βρίσκεται 3η παγκοσμίως στη συμμετοχή φωτοβολταϊκών, ενώ η αργή αποθήκευση οδηγεί πλεόνασμα προς μπαταρίες της Βουλγαρίας.",
+            "en": "Greece is a pioneer in renewables but a laggard in energy storage, with over 17 GW of installed capacity in 2025. Per an Ember study it ranks third globally in solar's share of generation, while slow storage sends surplus power to Bulgarian batteries."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "c011291bb658",
+          "title": "Δίκη για Τέμπη: Αίτημα για αλλαγή στη σειρά εξέτασης των μαρτύρων",
+          "url": "https://www.kathimerini.gr/society/564301831/diki-gia-tempi-aitima-gia-allagi-sti-seira-exetasis-ton-martyron/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T13:06:13+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Στη δίκη για το δυστύχημα των Τεμπών, το Τριμελές Εφετείο Κακουργημάτων Λάρισας καλείται να αποφανθεί για τρία νέα αιτήματα του συνηγόρου και πατέρα θύματος Αντώνη Ψαρόπουλου. Αφορούν την αλλαγή στη σειρά εξέτασης μαρτύρων, την κλήση επιπλέον μαρτύρων και την προσκόμιση στοιχείων.",
+            "en": "In the Tempi disaster trial, the Larisa appeals court must rule on three new requests by lawyer and victim's father Antonis Psaropoulos. They concern changing the order of witness examination, calling additional witnesses and submitting further evidence."
+          }
+        },
+        {
+          "id": "3a1a2d7e727c",
+          "title": "Τα σημάδια της παιδικής κακοποίησης και τα κενά της προστασίας",
+          "url": "https://www.kathimerini.gr/society/564300793/ta-simadia-tis-paidikis-kakopoiisis-kai-ta-kena-tis-prostasias/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T13:51:29+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ρεπορτάζ για τα σημάδια της παιδικής κακοποίησης και τα κενά της προστασίας, με αφορμή την περίπτωση βρέφους 7 μηνών στην Πάτρα. Παρά το «ακαταδίωκτο» των επαγγελματιών υγείας από το 2021 για τη γνωστοποίηση περιστατικών, παραμένουν σοβαρά θεσμικά κενά.",
+            "en": "A report on the signs of child abuse and gaps in protection, prompted by the case of a 7-month-old infant in Patra. Despite a 2021 law shielding health professionals who report abuse, serious institutional gaps remain."
+          }
+        },
+        {
+          "id": "c7bf7bfa50ae",
+          "title": "«Πείραζαν» μετρητές και έκλεβαν ρεύμα στη μισή Ελλάδα – Πάνω από 9 εκατ. η ζημιά",
+          "url": "https://www.kathimerini.gr/society/564301789/peirazan-metrites-kai-eklevan-reyma-sti-misi-ellada-pano-apo-9-ekat-i-zimia/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T12:34:44+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Εξαρθρώθηκε πολυμελές κύκλωμα ρευματοκλοπών σε Αττική, Μακεδονία, Θράκη, Θεσσαλία και Πελοπόννησο, με ζημιά άνω των 9 εκατ. ευρώ στον ΔΕΔΔΗΕ. Στην κοινή επιχείρηση του «ελληνικού FBI» και του ΔΕΔΔΗΕ έγιναν τρεις συλλήψεις, με 105 άτομα συνολικά στο κύκλωμα.",
+            "en": "A large electricity-theft ring operating across Attica, Macedonia, Thrace, Thessaly and the Peloponnese was dismantled, causing over 9 million euros in damage to grid operator HEDNO. A joint operation by the 'Greek FBI' and HEDNO made three arrests, with 105 people involved overall."
+          }
+        },
+        {
+          "id": "b25c13695f82",
+          "title": "Αιγάλεω: Μεγάλη φωτιά σε εργοστάσιο – Ισχυρές δυνάμεις της Πυροσβεστικής",
+          "url": "https://www.kathimerini.gr/society/564302068/aigaleo-megali-fotia-se-ergostasio-ischyres-dynameis-tis-pyrosvestikis/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T14:32:27+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Μεγάλη κινητοποίηση της Πυροσβεστικής για την κατάσβεση πυρκαγιάς σε εργοστάσιο πλαστικών και χαρτιών στην οδό Ορφέως στο Αιγάλεω. Επιχειρούν 35 πυροσβέστες με 10 οχήματα, ειδικό βραχιονοφόρο, εθελοντές και υδροφόρες ΟΤΑ.",
+            "en": "A large fire brigade operation is under way to extinguish a blaze at a plastics and paper factory on Orfeos Street in Aigaleo. Some 35 firefighters with 10 vehicles, a special aerial unit, volunteers and municipal water tankers are responding."
+          }
+        },
+        {
+          "id": "6e1398fe55d9",
+          "title": "Ανοίγει ο δρόμος και για πέμπτη Νομική Σχολή στην Ελλάδα",
+          "url": "https://www.kathimerini.gr/visual/infographics/564300763/anoigei-o-dromos-kai-gia-pempti-nomiki-scholi-stin-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:04:19+03:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η Ελλάδα αποκτά πέμπτη Νομική Σχολή, καθώς από το ακαδημαϊκό έτος 2026-2027 προστίθεται η Νομική του παραρτήματος του Πανεπιστημίου του York στη Θεσσαλονίκη. Το ίδρυμα είχε καταθέσει αίτηση και πέρυσι, με την ΕΘΑΑΕ να ζητεί προσαρμογές· οι θέσεις φοιτητών είναι 80.",
+            "en": "Greece gains a fifth law school, as a law faculty at the University of York's Thessaloniki branch is added from the 2026-2027 academic year. The institution had applied last year too, with the quality-assurance authority requesting adjustments; there are 80 student places."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "eb26801e220a",
+          "title": "Εκθεση ΟΗΕ: Το Ισραήλ στόχευσε παιδιά στη Γάζα, προκαλώντας γενοκτονία",
+          "url": "https://www.kathimerini.gr/world/564301633/ekthesi-oie-to-israil-stocheyse-paidia-sti-gaza-prokalontas-genoktonia/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:16:58+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ανεξάρτητη επιτροπή του ΟΗΕ καταλήγει ότι το Ισραήλ στόχευσε σκόπιμα Παλαιστίνιους ανηλίκους στη Γάζα, με πράξεις που συνιστούν γενοκτονία, εγκλήματα κατά της ανθρωπότητας και εγκλήματα πολέμου. Η έκθεση επιτείνει τη διεθνή πίεση γύρω από τη σύρραξη στη Λωρίδα.",
+            "en": "An independent UN commission concludes that Israel deliberately targeted Palestinian minors in Gaza, in acts amounting to genocide, crimes against humanity and war crimes. The report intensifies international pressure over the conflict in the Strip."
+          }
+        },
+        {
+          "id": "01a9cd003a50",
+          "title": "Λαβρόφ: Η Ρωσία είναι έτοιμη να επαναλάβει τις συνομιλίες με την Ουκρανία",
+          "url": "https://www.kathimerini.gr/world/564302035/lavrof-i-rosia-einai-etoimi-na-epanalavei-tis-synomilies-me-tin-oykrania/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T14:21:56+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο Ρώσος υπουργός Εξωτερικών Σεργκέι Λαβρόφ δήλωσε ότι η Ρωσία είναι έτοιμη να επαναλάβει τις ειρηνευτικές διαπραγματεύσεις με την Ουκρανία από το σημείο που είχαν σταματήσει. «Είμαστε έτοιμοι να συνομιλήσουμε με το Κίεβο, όπως ήμασταν πάντα», τόνισε.",
+            "en": "Russian Foreign Minister Sergei Lavrov said Russia is ready to resume peace negotiations with Ukraine from where they left off. 'We are ready to talk with Kyiv, as we always have been,' he stressed."
+          }
+        },
+        {
+          "id": "8426fd02bcc8",
+          "title": "Συγκρότηση κοινής επιτροπής Ιράν-Ομάν για το θέμα των Στενών",
+          "url": "https://www.kathimerini.gr/world/564302056/sygkrotisi-koinis-epitropis-iran-oman-gia-to-thema-ton-stenon/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T14:33:35+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Το Ιράν και το Ομάν συγκρότησαν κοινή επιτροπή για το ζήτημα των Στενών του Ορμούζ, ανακοίνωσε ο πρόεδρος του ιρανικού κοινοβουλίου Μοχαμάντ Μπαγέρ Γκαλιμπάφ. Διαβεβαίωσε ότι η διοίκηση των Στενών «δεν θα επιστρέψει ποτέ» στην προπολεμική κατάσταση.",
+            "en": "Iran and Oman have set up a joint committee on the Strait of Hormuz, the Iranian parliament speaker Mohammad Bagher Ghalibaf announced. He insisted that control of the strait will 'never return' to its pre-war state."
+          }
+        },
+        {
+          "id": "8c62305b1373",
+          "title": "Ιράν: Καμία επιθεώρηση σε κατεστραμμένες πυρηνικές εγκαταστάσεις",
+          "url": "https://www.kathimerini.gr/world/564301762/iran-kamia-epitheorisi-se-katestrammenes-pyrinikes-egkatastaseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T12:19:29+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Το Ιράν ανακοίνωσε ότι δεν έχει πραγματοποιηθεί συνάντηση με τον επικεφαλής του ΔΟΑΕ Ραφαέλ Γκρόσι, ούτε υπάρχουν σχέδια για επιθεωρήσεις στις κατεστραμμένες πυρηνικές εγκαταστάσεις. Ο εκπρόσωπος του ιρανικού ΥΠΕΞ Ισμαήλ Μπαγκεΐ διέψευσε σχετικά σενάρια.",
+            "en": "Iran announced that no meeting has taken place with IAEA chief Rafael Grossi, nor are there plans for inspections of the destroyed nuclear facilities. Foreign ministry spokesman Esmaeil Baghaei denied related reports."
+          }
+        },
+        {
+          "id": "d6a00bf64019",
+          "title": "Κύμα καύσωνα σαρώνει την Ευρώπη: 40 πνιγμοί στη Γαλλία",
+          "url": "https://www.kathimerini.gr/world/564301876/kyma-kaysona-saronei-tin-eyropi-40-pnigmoi-sti-gallia/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T13:17:55+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Κύμα καύσωνα σαρώνει την Ευρώπη, με τη Γαλλία να θρηνεί 40 πνιγμούς από το περασμένο Σαββατοκύριακο καθώς πολλοί κολυμπούσαν σε μη επιτηρούμενες περιοχές. Η Meteo France προειδοποιεί για θερμοκρασίες έως 43°C στη δυτική Γαλλία.",
+            "en": "A heatwave is sweeping Europe, with France mourning 40 drownings since last weekend as many swam in unsupervised areas. Meteo France warns of temperatures up to 43°C in western France."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 2,
+      "top_items": [
+        {
+          "id": "e21f99fe4211",
+          "title": "Κίνδυνοι και ευκαιρίες για την Ελλάδα στο μεταπολεμικό σκηνικό",
+          "url": "https://www.kathimerini.gr/opinion/564296998/kindynoi-kai-eykairies-gia-tin-ellada-sto-metapolemiko-skiniko/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:10:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ανάλυση του Κωνσταντίνου Φίλη για τους κινδύνους και τις ευκαιρίες της Ελλάδας στο μεταπολεμικό σκηνικό της Μέσης Ανατολής. Υποστηρίζει ότι η συντριπτική στρατιωτική υπεροχή ΗΠΑ-Ισραήλ δεν κατάφερε να κάμψει το Ιράν, επιβάλλοντας επαναπροσαρμογή της ελληνικής πολιτικής.",
+            "en": "An analysis by Konstantinos Filis on the risks and opportunities for Greece in the Middle East's post-war landscape. He argues that the overwhelming US-Israeli military superiority failed to break Iran, requiring a recalibration of Greek policy."
+          }
+        },
+        {
+          "id": "c86da7160d9a",
+          "title": "Γυρίζει πίσω η αποχή;",
+          "url": "https://www.kathimerini.gr/opinion/564296935/gyrizei-piso-i-apochi/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:20:00+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Αρθρο που εξετάζει αν η αποχή επιστρέφει ως καθοριστικός παράγοντας των εκλογών, καθώς νέα και παλαιά κόμματα στοχεύουν στην κινητοποίηση όσων απέχουν. Με βάση τα δεδομένα των εκλογών του Μαΐου 2023, ο αρθρογράφος αμφισβητεί την υπερεκτίμηση αυτού του κοινού.",
+            "en": "An article examining whether abstention is returning as a decisive electoral factor, as new and old parties target mobilising non-voters. Drawing on data from the May 2023 elections, the author questions the overestimation of this constituency."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "052f993ecf17",
+          "title": "Αποθέωση για τη «Μήδεια»: Διπλή πρόκληση που στέφθηκε με επιτυχία",
+          "url": "https://www.kathimerini.gr/culture/theater/564300961/apotheosi-gia-ti-mideia-dipli-proklisi-poy-stefthike-me-epitychia/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T12:36:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Αποθεωτική υποδοχή για την αναβίωση της «Μήδειας» του Λουίτζι Κερουμπίνι στο αρχαίο θέατρο της Επιδαύρου, μετά από 65 χρόνια απουσίας της όπερας. Η παράσταση σημείωσε απόλυτο sold out του Φεστιβάλ Αθηνών-Επιδαύρου με 10.000 θέσεις.",
+            "en": "A rapturous reception greeted the revival of Luigi Cherubini's 'Medea' at the ancient theatre of Epidaurus, after a 65-year absence of opera there. The production was a complete sell-out of the Athens-Epidaurus Festival with 10,000 seats."
+          }
+        },
+        {
+          "id": "696a039bfbc1",
+          "title": "Οι αυθαιρεσίες που «πληγώνουν» το Ζάππειο",
+          "url": "https://www.kathimerini.gr/society/564300703/oi-aythairesies-poy-pligonoyn-to-zappeio/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T14:26:19+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Σχόλιο για τις αυθαιρεσίες που «πληγώνουν» το Ζάππειο, με αφορμή τη ματαίωση του Φεστιβάλ Ολυμπίων και τα κακώς κείμενα στο ιστορικό τοπόσημο. Ο αρθρογράφος περιγράφει τη δύσκολη καθημερινότητα και την παραμέληση των κήπων του μεγάρου Χάνσεν.",
+            "en": "A commentary on the arbitrary practices that 'wound' the Zappeio, prompted by the cancellation of the Olympia Festival and the neglect of the historic landmark. The author describes the difficult daily reality and the deterioration of the Hansen building's gardens."
+          }
+        },
+        {
+          "id": "263d8bb1516d",
+          "title": "H Μονή Σινά και η ιερότητά της «ταξίδεψαν» στη Νέα Υόρκη χάρη στη Λίζυ Μανωλά",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564300682/h-moni-sina-kai-i-ierotita-tis-taxidepsan-sti-nea-yorki-chari-sti-lizy-manola/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T12:47:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Η ιερότητα της Μονής Σινά «ταξίδεψε» στη Νέα Υόρκη μέσα από το φωτογραφικό έργο της Λίζυς Μανωλά, που από το 2013 επισκεπτόταν τη Μονή της Αγίας Αικατερίνης. Η έκθεση αποτυπώνει την ιδιαίτερη ατμόσφαιρα του καστρομονάστηρου και τη ζωή των πατέρων.",
+            "en": "The sanctity of the Sinai Monastery 'travelled' to New York through the photographic work of Lizzy Manola, who has visited Saint Catherine's Monastery since 2013. The exhibition captures the unique atmosphere of the fortress-monastery and the life of its monks."
+          }
+        },
+        {
+          "id": "ed7dc7a96e5a",
+          "title": "«Beyond Borders»: Χωρίς χρηματοδότηση, αλλά με πείσμα και πολλά ντοκιμαντέρ",
+          "url": "https://www.kathimerini.gr/culture/564300958/beyond-borders-choris-chrimatodotisi-alla-me-peisma-kai-polla-ntokimanter/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T08:52:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Το Διεθνές Φεστιβάλ Ντοκιμαντέρ «Beyond Borders» του Καστελλόριζου, που γιόρτασε δέκα χρόνια πέρυσι, κινδυνεύει η 11η έκδοσή του να μην πραγματοποιηθεί λόγω έλλειψης χρηματοδότησης. Η καλλιτεχνική διευθύντρια Ειρήνη Σαρίογλου παλεύει με πείσμα να το κρατήσει ζωντανό.",
+            "en": "The 'Beyond Borders' international documentary festival of Kastellorizo, which marked ten years last year, sees its 11th edition at risk of cancellation due to lack of funding. Artistic director Irini Sarioglou is fighting stubbornly to keep it alive."
+          }
+        },
+        {
+          "id": "c9f4be25c987",
+          "title": "Το υδατογράφημα του Κολοκοτρώνη, το πρώτο εισιτήριο των Ολυμπιακών Αγώνων και το «περφορέ» του τραμ",
+          "url": "https://www.kathimerini.gr/society/reportaz/564288214/to-ydatografima-toy-kolokotroni-to-proto-eisitirio-ton-olympiakon-agonon-kai-to-perfore-toy-tram/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T16:50:32+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Η συντήρηση τριών ιστορικών αντικειμένων στο Μουσείο Τύπου της Πάτρας —μεταξύ τους επιστολή του Θεόδωρου Κολοκοτρώνη, το πρώτο εισιτήριο των Ολυμπιακών Αγώνων και το «περφορέ» του τραμ— «φώτισε» άγνωστες πτυχές της ελληνικής ιστορίας. Στην επιστολή του Γέρου του Μοριά αποκαλύφθηκε άγνωστο υδατογράφημα.",
+            "en": "The conservation of three historic items at the Press Museum of Patra — including a letter by Theodoros Kolokotronis, the first Olympic Games ticket and a tram ticket — 'illuminated' unknown aspects of Greek history. An unknown watermark was revealed in the letter of the revolutionary hero."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "id": "9af83ce1ee8f",
+          "title": "Κυρ. Μητσοτάκης για τη Μονάδα 1864: Οι απειλές παίρνουν υβριδικό χαρακτήρα",
+          "url": "https://www.kathimerini.gr/politics/amyna/564300460/geetha-egkainia-gia-ti-dieythynsi-pliroforikis-kai-kyvernochoroy/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T20:57:51+00:00",
+          "category": "politics",
+          "importance": 64,
+          "summary": {
+            "el": "Παρουσία Μητσοτάκη και Δένδια εγκαινιάστηκαν οι νέες εγκαταστάσεις της Διεύθυνσης Πληροφορικής και Κυβερνοχώρου (ΔΙΠΛΗΚΥΒ) στο ΓΕΕΘΑ, όπου στεγάζεται η μονάδα κυβερνοασφάλειας «Μονάδα 1864». Ο πρωθυπουργός σημείωσε ότι οι απειλές παίρνουν «υβριδικό χαρακτήρα».",
+            "en": "In the presence of PM Mitsotakis and Defence Minister Dendias, the new premises of the Directorate of IT and Cyberspace were inaugurated at the armed forces HQ, housing the 'Unit 1864' cybersecurity team. The PM noted that threats are taking on a 'hybrid character'."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "κυβερνοασφάλεια",
+              "Μονάδα 1864",
+              "ΓΕΕΘΑ",
+              "άμυνα"
+            ],
+            "en": [
+              "Mitsotakis",
+              "cybersecurity",
+              "Unit 1864",
+              "armed forces",
+              "defense"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e9fc8df75eb5",
+          "title": "Εγκαινιάζεται το νέο «ψηφιακό στρατηγείο» των Ενόπλων Δυνάμεων",
+          "url": "https://www.kathimerini.gr/politics/amyna/564300298/egkainiazetai-to-neo-psifiako-stratigeio-ton-enoplon-dynameon/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T18:55:44+00:00",
+          "category": "politics",
+          "importance": 60,
+          "summary": {
+            "el": "Η Μονάδα 1864, μία από τις πλέον διαβαθμισμένες του ΓΕΕΘΑ, αποκτά κτίριο 2.500 τ.μ., δωρεά Αθανάσιου Λασκαρίδη, ως πυρήνας της «ψηφιακής ασπίδας» της χώρας. Το νέο στρατηγείο ψηφιακών επιχειρήσεων των Ενόπλων Δυνάμεων αποκτά «σάρκα και οστά».",
+            "en": "Unit 1864, one of the most highly classified at the armed forces HQ, gains a 2,500-sq-m building donated by Athanasios Laskaridis, as the core of the country's 'digital shield'. The armed forces' new digital operations headquarters takes concrete form."
+          },
+          "tags": {
+            "el": [
+              "Μονάδα 1864",
+              "ψηφιακή ασπίδα",
+              "Ένοπλες Δυνάμεις",
+              "Λασκαρίδης"
+            ],
+            "en": [
+              "Unit 1864",
+              "digital shield",
+              "armed forces",
+              "Laskaridis"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e0636009ef7e",
+          "title": "Η AI δεν υποκαθιστά τις «ανθρώπινες» δεξιότητες",
+          "url": "https://www.kathimerini.gr/economy/local/564301138/i-ai-den-ypokathista-tis-anthropines-dexiotites/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T10:38:04+00:00",
+          "category": "economy",
+          "importance": 60,
+          "summary": {
+            "el": "Νέα έρευνα της ManpowerGroup δείχνει ότι η τεχνητή νοημοσύνη λειτουργεί ως εργαλείο ενίσχυσης της παραγωγικότητας στη διαχείριση ανθρώπινου δυναμικού, χωρίς να υποκαθιστά τον ανθρώπινο παράγοντα. Πάνω από τους μισούς εργοδότες στην Ελλάδα (53%) αξιολογούν θετικά τη χρήση της.",
+            "en": "A new ManpowerGroup study finds that artificial intelligence acts as a productivity tool in human resources and recruitment without replacing the human factor. More than half of Greek employers (53%) view its use positively."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "εργασία",
+              "ManpowerGroup",
+              "δεξιότητες"
+            ],
+            "en": [
+              "artificial intelligence",
+              "work",
+              "ManpowerGroup",
+              "skills"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "9b7c914fc158",
+          "title": "Νέα εποχή για το Υπερταμείο",
+          "url": "https://www.kathimerini.gr/economy/diktis/564301270/nea-epochi-gia-to-ypertameio/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T08:07:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Το Υπερταμείο μετονομάζεται σε Εθνικό Αναπτυξιακό Ταμείο, όπως ανακοίνωσε ο υπουργός Κυριάκος Πιερρακάκης στο Growthfund Investor Summit. Στόχος ο νέος ρόλος του ως μοχλού επενδύσεων, μετατρέποντας τη δημόσια περιουσία σε παραγωγικό κεφάλαιο.",
+            "en": "The Hellenic Corporation of Assets (Hyperfund) is being renamed the National Development Fund, Minister Kyriakos Pierrakakis announced at the Growthfund Investor Summit. The aim is a new role as an investment lever, turning public property into productive capital."
+          },
+          "tags": {
+            "el": [
+              "Υπερταμείο",
+              "Πιερρακάκης",
+              "επενδύσεις",
+              "ανάπτυξη"
+            ],
+            "en": [
+              "Hyperfund",
+              "Pierrakakis",
+              "investment",
+              "development"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "dbba77a93549",
+          "title": "Κατασκευαστική εταιρεία δήλωνε έσοδα… 3 ευρώ – Πώς είχε στήσει κομπίνα με μεσιτική",
+          "url": "https://www.kathimerini.gr/society/564301699/kataskeyastiki-etaireia-dilone-esoda-3-eyro-pos-eiche-stisei-kompina-me-mesitiki/",
+          "source": "Kathimerini",
+          "published": "2026-06-23T11:58:47+00:00",
+          "category": "society",
+          "importance": 52,
+          "summary": {
+            "el": "Ελεγκτές της μονάδας ΔΕΟΣ της ΑΑΔΕ εντόπισαν «μαύρο χρήμα» 3,1 εκατ. ευρώ σε μία κατασκευαστική και μία μεσιτική εταιρεία στις Κυκλάδες μόνο για το 2024. Η κατασκευαστική δήλωνε έσοδα μόλις 3 ευρώ, στήνοντας «κομπίνα» με τη μεσιτική.",
+            "en": "Auditors of the tax authority's financial-crime unit uncovered 3.1 million euros in undeclared money at a construction and a real-estate firm in the Cyclades for 2024 alone. The construction company declared income of just 3 euros, running a scheme with the brokerage."
+          },
+          "tags": {
+            "el": [
+              "φοροδιαφυγή",
+              "ΑΑΔΕ",
+              "Κυκλάδες",
+              "μαύρο χρήμα"
+            ],
+            "en": [
+              "tax evasion",
+              "tax authority",
+              "Cyclades",
+              "undeclared money"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 71,
+    "by_category": {
+      "politics": 14,
+      "economy": 14,
+      "society": 14,
+      "world": 14,
+      "opinion": 2,
+      "culture": 13
+    }
+  }
+}

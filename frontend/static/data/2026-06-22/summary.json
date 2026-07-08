@@ -1,0 +1,586 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T10:53:02.134271+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 68 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφική ημέρα κυριαρχείται από τη δραματική παραίτηση του Βρετανού πρωθυπουργού Κιρ Στάρμερ από την πρωθυπουργία και την ηγεσία των Εργατικών, που ανοίγει τον δρόμο για τον έβδομο πρωθυπουργό της Βρετανίας μέσα σε μια δεκαετία πολιτικής αστάθειας με αφετηρία το δημοψήφισμα του Brexit. Η εξέλιξη βυθίζει το Ηνωμένο Βασίλειο σε νέα περίοδο αβεβαιότητας και διαδοχικών διεργασιών για τη διαδοχή.\n\nΣτο διεθνές σκηνικό, ξεκινά νέα τεχνική φάση των διαπραγματεύσεων ΗΠΑ–Ιράν στην Ελβετία για την εφαρμογή του μνημονίου κατανόησης, με τις διεθνείς τιμές πετρελαίου να υποχωρούν για έβδομη συνεχόμενη ημέρα μετά την 60ήμερη εκεχειρία, αν και ο ναυτιλιακός κλάδος ανησυχεί για ενδεχόμενα διόδια στα Στενά του Ορμούζ. Παράλληλα συνεχίζεται ο πόλεμος στην Ουκρανία, με το Κίεβο να πλήττει ρωσικές υποδομές και τον Ζελένσκι να διεκδικεί ρόλο στις διαπραγματεύσεις.\n\nΣτο εσωτερικό, η ακρίβεια και το κόστος ζωής παραμένουν στο επίκεντρο: η νέα πλατφόρμα «PosoKanei» αναδεικνύει σημαντικές αποκλίσεις τιμών μεταξύ Ελλάδας και Ευρώπης για πανομοιότυπα προϊόντα, ενώ ο πρωθυπουργός Κυριάκος Μητσοτάκης την υπερασπίζεται ως εργαλείο διαφάνειας. Στο δημοσιονομικό πεδίο, νέες προβλέψεις δείχνουν τον ΕΦΚΑ να επιστρέφει σε ελλείμματα από το 2029, εντείνοντας τις ανησυχίες για τη βιωσιμότητα του ασφαλιστικού.\n\nΣτην κοινωνία και τη Δικαιοσύνη ξεχωρίζουν ο θάνατος 34χρονης στα κρατητήρια του Ηρακλείου παραμονή της δίκης της και οι καταδίκες για τη διαρροή email αποδήμων, ενώ η αρθρογραφία εστιάζει στον πολιτικό λαϊκισμό, στη ρευστότητα του κομματικού σκηνικού μετά την επανεκκίνηση Τσίπρα και στο χάσμα ανάμεσα στις ελίτ και την κοινωνία.",
+    "en": "The day's news is dominated by the dramatic resignation of British Prime Minister Keir Starmer as both premier and Labour leader, opening the way for Britain's seventh prime minister in a decade of political instability that traces back to the Brexit referendum. The move plunges the United Kingdom into a fresh period of uncertainty and a scramble over the succession.\n\nInternationally, a new technical phase of US–Iran negotiations begins in Switzerland to implement the memorandum of understanding, with global oil prices falling for a seventh consecutive day after the 60-day truce, even as the shipping sector worries about possible transit fees in the Strait of Hormuz. The war in Ukraine continues in parallel, with Kyiv striking Russian infrastructure and Zelensky asserting a role in negotiations.\n\nDomestically, inflation and the cost of living remain central: the new 'PosoKanei' platform exposes significant price gaps between Greece and Europe for identical products, while PM Kyriakos Mitsotakis defends it as a transparency tool. On the fiscal front, new projections show the EFKA social-security fund returning to deficits from 2029, sharpening concerns over the pension system's sustainability.\n\nIn society and justice, the death of a 34-year-old woman in the Heraklion police holding cells on the eve of her trial and the convictions over the leak of diaspora Greeks' emails stand out, while opinion columns focus on political populism, the fluid party landscape after Tsipras's relaunch, and the gap between elites and society."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Παραίτηση Στάρμερ και πολιτική αναταραχή στη Βρετανία",
+        "en": "Starmer's resignation and UK political turmoil"
+      },
+      "description": {
+        "el": "Ο Κιρ Στάρμερ παραιτείται από πρωθυπουργός και ηγέτης των Εργατικών, ανοίγοντας τον δρόμο για τον έβδομο Βρετανό πρωθυπουργό σε μια δεκαετία αστάθειας.",
+        "en": "Keir Starmer resigns as prime minister and Labour leader, paving the way for Britain's seventh PM in a decade of instability."
+      },
+      "related_items": [
+        "c7b546367e9f",
+        "bb93d9f6c395",
+        "008ccce2624d"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Διαπραγματεύσεις ΗΠΑ–Ιράν και τιμές πετρελαίου",
+        "en": "US–Iran talks and oil prices"
+      },
+      "description": {
+        "el": "Νέα φάση τεχνικών συνομιλιών ΗΠΑ–Ιράν στην Ελβετία, με το πετρέλαιο να υποχωρεί μετά την εκεχειρία αλλά φόβους για διόδια στα Στενά του Ορμούζ.",
+        "en": "A new phase of US–Iran technical talks in Switzerland, with oil falling after the truce but fears over tolls in the Strait of Hormuz."
+      },
+      "related_items": [
+        "39340af47957",
+        "042001dd43e4",
+        "65499e0492fe"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ακρίβεια, «PosoKanei» και κόστος ζωής",
+        "en": "Inflation, 'PosoKanei' and cost of living"
+      },
+      "description": {
+        "el": "Η νέα κρατική πλατφόρμα «PosoKanei» αποκαλύπτει αποκλίσεις τιμών Ελλάδας–Ευρώπης, με τον Μητσοτάκη να την υπερασπίζεται ως εργαλείο διαφάνειας.",
+        "en": "The new state 'PosoKanei' platform reveals Greece–Europe price gaps, with Mitsotakis defending it as a transparency tool."
+      },
+      "related_items": [
+        "952e9cca5890",
+        "c3559225dcc5"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Δημοσιονομικές πιέσεις: ΕΦΚΑ και ασφαλιστικό",
+        "en": "Fiscal pressures: EFKA and pensions"
+      },
+      "description": {
+        "el": "Νέες προβλέψεις δείχνουν τον ΕΦΚΑ να επιστρέφει σε ελλείμματα από το 2029, εντείνοντας τις ανησυχίες για τη βιωσιμότητα του ασφαλιστικού.",
+        "en": "New projections show EFKA returning to deficits from 2029, intensifying concerns about pension sustainability."
+      },
+      "related_items": [
+        "353df8de5491"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Κοινωνία και Δικαιοσύνη",
+        "en": "Society and justice"
+      },
+      "description": {
+        "el": "Ο θάνατος 34χρονης στα κρατητήρια του Ηρακλείου και οι καταδίκες για τη διαρροή email αποδήμων κυριαρχούν στην κοινωνική επικαιρότητα.",
+        "en": "The death of a 34-year-old in Heraklion holding cells and convictions over the diaspora email leak dominate social affairs."
+      },
+      "related_items": [
+        "300c80b5ce69",
+        "97f0ea91aa42"
+      ],
+      "importance": 68
+    }
+  ],
+  "article_count": 68,
+  "categories": {
+    "politics": {
+      "item_count": 5,
+      "top_items": [
+        {
+          "id": "c3559225dcc5",
+          "title": "Μητσοτάκης: Tο «posokanei» ήρθε για να μείνει και θα γίνεται καλύτερο – Επιδότηση έως και 36.000 ευρώ με το «Ανακαίνιση Κατοικίας»",
+          "url": "https://www.kathimerini.gr/politics/564298573/mitsotakis-to-posokanei-irthe-gia-na-meinei-kai-tha-ginetai-kalytero-epidotisi-eos-kai-36-000-eyro-me-to-anakainisi-katoikias/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T11:14:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Στην εβδομαδιαία ανασκόπησή του ο πρωθυπουργός Κυριάκος Μητσοτάκης παρουσίασε τη νέα πλατφόρμα posokanei.gov.gr ως εργαλείο διαφάνειας κατά της ακρίβειας, παραδεχόμενος ότι δεν υπάρχουν «μαγικές λύσεις». Ανακοίνωσε τη νέα δράση «Ανακαίνιση Κατοικίας» με επιδότηση έως 36.000 ευρώ για αύξηση της προσφοράς στέγης, καθώς και την ολοκλήρωση της αποκατάστασης της δυτικής όψης του Παρθενώνα. Αναφέρθηκε επίσης σε νέα συλλογική σύμβαση για τεχνολόγους τροφίμων, στην πρόληψη πυρκαγιών και χαιρέτισε τη συμφωνία-πλαίσιο ΗΠΑ-Ιράν.",
+            "en": "In his weekly review, PM Kyriakos Mitsotakis presented the new posokanei.gov.gr platform as a transparency tool against inflation, admitting there are no 'magic solutions.' He announced the new 'Home Renovation' program with subsidies up to 36,000 euros to boost housing supply, plus the completed restoration of the Parthenon's western facade. He also cited a new collective agreement for food technologists, fire prevention, and welcomed the US-Iran framework agreement."
+          }
+        },
+        {
+          "id": "d4d5d326a419",
+          "title": "Αλέξης Τσίπρας: Η ανατομία μιας επανεκκίνησης",
+          "url": "https://www.kathimerini.gr/politics/parties/564296953/alexis-tsipras-i-anatomia-mias-epanekkinisis/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T13:02:20+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ανάλυση του Γεράσιμου Μοσχονά για το πώς το νέο κόμμα ΕΛΑΣ του Αλέξη Τσίπρα απέκτησε αμέσως δημοσκοπικό προβάδισμα έναντι του ΠΑΣΟΚ. Επικαλούμενος τη μελέτη του Πάνου Κολιαστάση (2015) και τα παραδείγματα του γαλλικού PS και των Ολλανδών σοσιαλδημοκρατών, υποστηρίζει ότι η ανάκαμψη απαιτεί πολιτική γενναίων συνεργασιών. Κρίνει ότι ο Νίκος Ανδρουλάκης εγκατέλειψε τη γραμμή συνεργασιών της Φώφης Γεννηματά, μετατοπιζόμενος στρατηγικά προς τα αριστερά μετά την ομιλία στη Σορβόννη.",
+            "en": "Gerasimos Moschonas analyzes how Alexis Tsipras's new ELAS party immediately gained a polling lead over PASOK. Citing Panos Koliastasis's 2015 study and the examples of France's PS and the Dutch social democrats, he argues that recovery requires a policy of bold alliances. He judges that Nikos Androulakis abandoned Fofi Gennimata's cooperation line, strategically shifting leftward after his Sorbonne speech."
+          }
+        },
+        {
+          "id": "1520a765bf10",
+          "title": "ΥΠΕΞ: Δυσαρέσκεια για την απαγόρευση εισόδου Ελλήνων στο Ισραήλ",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564299065/ypex-dysareskeia-gia-tin-apagoreysi-eisodoy-ellinon-sto-israil/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T22:08:22+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Το ελληνικό υπουργείο Εξωτερικών εξέφρασε με ανακοίνωσή του τη δυσαρέσκειά του προς τις ισραηλινές Αρχές για την απαγόρευση εισόδου και την απέλαση Ελλήνων πολιτών, εκπροσώπων εργατικών σωματείων. Οι πολίτες είχαν τελικό προορισμό τη Ραμάλλα, κατόπιν πρόσκλησης της παλαιστινιακής πλευράς. Η Αθήνα τονίζει ότι είχαν τακτοποιήσει όλες τις υποχρεώσεις εισόδου και είχαν δηλώσει τον σκοπό του ταξιδιού τους στις Αρχές.",
+            "en": "The Greek Foreign Ministry issued a statement expressing displeasure with Israeli authorities over the denial of entry and deportation of Greek citizens who were representatives of labor unions. The citizens were headed for Ramallah at the invitation of the Palestinian side. Athens stresses that they had fulfilled all entry obligations and declared the purpose of their trip to the authorities."
+          }
+        },
+        {
+          "id": "1516a44a2386",
+          "title": "Θεωρείο: Τετ α τετ Χατζηδάκη με Καραμανλή",
+          "url": "https://www.kathimerini.gr/politics/564296989/theoreio-tet-a-tet-chatzidaki-me-karamanli/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T07:14:20+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Στήλη παρασκηνίου που αποκαλύπτει μακρά κατ' ιδίαν συνάντηση του αντιπροέδρου της κυβέρνησης Κωστή Χατζηδάκη με τον πρώην πρωθυπουργό Κώστα Καραμανλή στο γραφείο του, παρά την κριτική του τελευταίου στην κυβέρνηση. Σύμφωνα με τη στήλη, ο Κυριάκος Μητσοτάκης εξέφρασε σε κορυφαίο υπουργό ότι το σενάριο εκλογών το 2027 είναι υπαρκτό και όχι μπλόφα, αν και το κόμμα ετοιμάζεται και για φθινόπωρο. Αναφέρεται επίσης η δυσφορία για την πτώση και των επτά ελληνικών πανεπιστημίων στην κατάταξη QS, με το ΕΜΠ να πέφτει από την 355η στην 378η θέση.",
+            "en": "A backstage column reveals a lengthy private meeting between Deputy PM Kostis Hatzidakis and former PM Kostas Karamanlis at his office, despite the latter's criticism of the government. According to the column, Kyriakos Mitsotakis told a senior minister that the 2027 election scenario is real and not a bluff, though the party is also preparing for autumn. It also notes displeasure over all seven Greek universities slipping in the QS rankings, with the NTUA falling from 355th to 378th."
+          }
+        },
+        {
+          "id": "8139823a8916",
+          "title": "Η Αννα, ο Χάρης και η φαγούρα των συνεργασιών",
+          "url": "https://www.kathimerini.gr/politics/parties/564296947/i-anna-o-charis-kai-i-fagoyra-ton-synergasion/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T16:26:08+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ρεπορτάζ για την έντονη εσωστρέφεια στο ΠΑΣΟΚ εν μέσω αρνητικής δημοσκοπικής εικόνας, με πρωταγωνιστές της πιο πρόσφατης κρίσης την Άννα Διαμαντοπούλου και τον Χάρη Δούκα. Η σύγκρουση, που πυροδοτήθηκε από δηλώσεις Δούκα για συνεργασία με την ΕΛΑΣ του Αλέξη Τσίπρα, προκάλεσε ενόχληση στη Χαριλάου Τρικούπη, όπου στελέχη χαρακτηρίζουν τις δημόσιες αντιδικίες «κουραστικές» και «υπονομευτικές». Το ζήτημα των συνεργασιών έχει γίνει μόνιμος πονοκέφαλος, καθώς οι ομόφωνες αποφάσεις του Πολιτικού Συμβουλίου ερμηνεύονται διαφορετικά.",
+            "en": "A report on the intense internal strife within PASOK amid poor polling, with Anna Diamantopoulou and Charis Doukas as protagonists of the latest crisis. The conflict, triggered by Doukas's remarks about cooperating with Alexis Tsipras's ELAS, caused annoyance at the party headquarters, where officials call the public disputes 'tiring' and 'undermining.' The coalition question has become a chronic headache, as the Political Council's unanimous decisions are interpreted differently."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "353df8de5491",
+          "title": "Ο ΕΦΚΑ επιστρέφει στα ελλείμματα από το 2029",
+          "url": "https://www.kathimerini.gr/economy/564297301/o-efka-epistrefei-sta-elleimmata-apo-to-2029/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T13:00:56+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Νέες προβολές του υπουργείου Εθνικής Οικονομίας δείχνουν ότι τα Ταμεία του ΕΦΚΑ θα επιστρέψουν σε ελλείμματα από το 2029, με έλλειμμα 362 εκατ. ευρώ που διευρύνεται στο 1,27 δισ. ευρώ το 2030, μετά από 13 χρόνια θετικών αποτελεσμάτων. Αιτία είναι η γήρανση του πληθυσμού και η απόκλιση εσόδων-δαπανών: οι συνταξιοδοτικές δαπάνες ανεβαίνουν από 35,43 σε 40,75 δισ. ευρώ, ενώ τα έσοδα από εισφορές μόνο από 20,49 σε 24,31 δισ. ευρώ. Συνολικά το ισοζύγιο μετακινείται κατά 2,4 δισ. ευρώ.",
+            "en": "New projections from the Ministry of National Economy show EFKA pension funds returning to deficits from 2029, with a 362 million euro shortfall widening to 1.27 billion euros in 2030, after 13 years of surpluses. The cause is population ageing and a widening gap between revenue and spending: pension expenditure rises from 35.43 to 40.75 billion euros, while contribution revenue grows only from 20.49 to 24.31 billion euros. Overall the balance shifts by 2.4 billion euros."
+          }
+        },
+        {
+          "id": "952e9cca5890",
+          "title": "«PosoAkrivotera» είναι τα προϊόντα στην Ελλάδα",
+          "url": "https://www.kathimerini.gr/economy/564297319/posoakrivotera-einai-ta-proionta-stin-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:24:39+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Νέα εφαρμογή «PosoKanei» αποκαλύπτει μεγάλες διαφορές τιμών σε ίδιους κωδικούς προϊόντων μεταξύ Ελλάδας και Ευρώπης: βρεφικό γάλα 1ης ηλικίας πολυεθνικής πωλείται στην Ελλάδα 28,63 ευρώ/κιλό, έναντι 16,86 στο Βέλγιο (70% ακριβότερα) και 24,34 στη Ρουμανία (17% ακριβότερα), παρότι το ελληνικό ΑΕΠ και η αγοραστική δύναμη είναι χαμηλότερα. Δυόμισι χρόνια μετά την έρευνα της Επιτροπής Ανταγωνισμού και την επιβολή πλαφόν στο περιθώριο κέρδους, η κατάσταση μοιάζει αμετάβλητη. Ο Κ. Μητσοτάκης είχε στείλει επιστολή στην Ούρσουλα φον ντερ Λάιεν για την ασύμμετρη ισχύ των πολυεθνικών.",
+            "en": "A new 'PosoKanei' app reveals large price gaps for identical product codes between Greece and Europe: a multinational's first-stage infant milk sells in Greece for 28.63 euros/kg versus 16.86 in Belgium (70% higher) and 24.34 in Romania (17% higher), despite Greece's lower GDP and purchasing power. Two and a half years after the Competition Commission's study and the imposition of a profit-margin cap, the situation seems unchanged. Mitsotakis had written to Ursula von der Leyen about multinationals' asymmetric bargaining power."
+          }
+        },
+        {
+          "id": "e234f3b93284",
+          "title": "Περικυκλωμένο από ναυάγια το λιμάνι Ελευσίνας",
+          "url": "https://www.kathimerini.gr/economy/564297373/perikyklomeno-apo-nayagia-to-limani-eleysinas/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T13:06:51+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Περισσότερα από 30 βυθισμένα πλοία στον κόλπο της Ελευσίνας, μεταξύ των οποίων το ημιβυθισμένο «Mediterranean Sky», απειλούν τη ναυσιπλοΐα ενώ η κυβέρνηση δρομολογεί διαγωνισμό για την υποπαραχώρηση της χερσαίας ζώνης στη θέση Βλύχα. Στρατηγικές επενδύσεις σε λιμενικές υποδομές, logistics και ναυπηγεία που αγγίζουν το 1 δισ. ευρώ διεκδικούν εγχώριοι όμιλοι και χώρες όπως οι ΗΠΑ. Πλοία έχουν ήδη προσκρούσει στα ναυάγια περισσότερες από μία φορές.",
+            "en": "More than 30 sunken ships in the Gulf of Elefsina, including the half-submerged 'Mediterranean Sky', threaten navigation as the government launches a tender to sub-concede the port's land zone at Vlycha. Strategic investments in port infrastructure, logistics and shipyards approaching 1 billion euros are being contested by domestic groups and countries like the US. Ships have already struck the wrecks more than once."
+          }
+        },
+        {
+          "id": "042001dd43e4",
+          "title": "Φόβοι για διόδια στα Στενά του Ορμούζ",
+          "url": "https://www.kathimerini.gr/economy/564297433/fovoi-gia-diodia-sta-stena-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T22:53:02+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Στελέχη της ναυτιλιακής βιομηχανίας εκφράζουν φόβους ότι η ειρηνευτική συμφωνία ΗΠΑ-Ιράν ανοίγει τον δρόμο για επιβολή τελών διέλευσης στα Στενά του Ορμούζ. Η προκαταρκτική συμφωνία προβλέπει δωρεάν διέλευση για 60 ημέρες, μετά τις οποίες το Ιράν θα ξεκινήσει διάλογο με το Ομάν και τα κράτη του Κόλπου, ενδεχομένως στα πρότυπα ενός εθελοντικού ταμείου όπως στα Στενά της Μάλακα. Μετά τις αμερικανοϊσραηλινές επιθέσεις τον Φεβρουάριο, η Τεχεράνη είχε απαιτήσει τέλος 2 εκατ. δολαρίων σε bitcoin.",
+            "en": "Shipping industry executives fear the US-Iran peace deal opens the way for transit fees in the Strait of Hormuz. The preliminary agreement provides free passage for 60 days, after which Iran will begin talks with Oman and Gulf states, possibly modelled on a voluntary fund like the Strait of Malacca. After the US-Israeli strikes in February, Tehran had demanded a 2 million dollar fee in bitcoin."
+          }
+        },
+        {
+          "id": "65499e0492fe",
+          "title": "Πετρέλαιο: Συνεχίζουν την πτωτική τους πορεία οι διεθνείς τιμές",
+          "url": "https://www.kathimerini.gr/economy/international/564299410/petrelaio-synechizoyn-tin-ptotiki-toys-poreia-oi-diethneis-times/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:28:28+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Οι διεθνείς τιμές πετρελαίου συνεχίζουν την πτώση μετά το μνημόνιο ανακωχής 60 ημερών μεταξύ ΗΠΑ και Ιράν, με το Brent κάτω από τα 79 δολάρια για έβδομη συνεχόμενη ημέρα και το αργό του Τέξας στα 76,1 δολάρια. Στην Ελλάδα η αμόλυβδη των 95 οκτανίων υποχώρησε στα 1,94 ευρώ/λίτρο, μειωμένη κατά 5,5 λεπτά σε σχέση με μία εβδομάδα πριν. Το ντίζελ έπεσε στα 1,655 ευρώ/λίτρο, με εβδομαδιαία πτώση 8,4 λεπτά.",
+            "en": "International oil prices continue to fall after the 60-day US-Iran truce memorandum, with Brent below 79 dollars for a seventh straight day and Texas crude at 76.1 dollars. In Greece, 95-octane unleaded fell to 1.94 euros/litre, down 5.5 cents from a week earlier. Diesel dropped to 1.655 euros/litre, a weekly decline of 8.4 cents."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "97f0ea91aa42",
+          "title": "Διαρροή email αποδήμων: Ποινή 20 μηνών με αναστολή στην Αννα Μισέλ Ασημακοπούλου",
+          "url": "https://www.kathimerini.gr/society/564299443/diarroi-email-apodimon-poini-20-minon-me-anastoli-stin-anna-misel-asimakopoyloy/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:25:08+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Το Τριμελές Πλημμελειοδικείο Αθηνών επέβαλε ποινές 8 έως 20 μηνών με τριετή αναστολή στους τέσσερις κατηγορούμενους για τη διαρροή email απόδημων Ελλήνων λίγο πριν τις ευρωεκλογές του 2024. Η πρώην ευρωβουλευτής της ΝΔ Άννα Μισέλ Ασημακοπούλου και ο πρώην γενικός γραμματέας Εσωτερικών Μιχάλης Σταυριανουδάκης καταδικάστηκαν σε 20 και 18 μήνες για παραβίαση υπηρεσιακού απορρήτου και προσωπικών δεδομένων. Οι Νίκος Θεοδωρόπουλος και Μένιος Κορομηλάς καταδικάστηκαν σε 8 και 12 μήνες μόνο για παραβίαση της νομοθεσίας περί προσωπικών δεδομένων.",
+            "en": "The Athens Three-Member Misdemeanor Court imposed sentences of 8 to 20 months, suspended for three years, on four defendants in the case of the leak of diaspora Greeks' emails shortly before the 2024 European elections. Former ND MEP Anna Michelle Asimakopoulou and former Interior Ministry general secretary Michalis Stavrianoudakis were sentenced to 20 and 18 months for breach of official secrecy and data protection law. Nikos Theodoropoulos and Menios Koromilas received 8 and 12 months solely for the data protection violation."
+          }
+        },
+        {
+          "id": "300c80b5ce69",
+          "title": "Ηράκλειο: Νεκρή η 34χρονη που είχε πετάξει το νεογέννητο μωρό της σε κάδο απορριμμάτων – Τι ερευνούν οι αρχές",
+          "url": "https://www.kathimerini.gr/society/564299515/irakleio-nekri-i-34chroni-poy-eiche-petaxei-to-neogennito-moro-tis-se-kado-aporrimmaton-ti-ereynoyn-oi-arches/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:09:05+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Μια 34χρονη βρέθηκε νεκρή στα κρατητήρια του Αστυνομικού Μεγάρου Ηρακλείου, μία ημέρα πριν δικαστεί για την εγκατάλειψη του νεογέννητου παιδιού της σε κάδο απορριμμάτων τον Μάιο του 2025. Ο συνήγορός της Γιώργος Καρούτσος ανέφερε ότι αντιμετώπιζε σοβαρά προβλήματα ψυχικής υγείας και νοητική υστέρηση και είχε ζητηθεί η νοσηλεία της σε ψυχιατρείο. Τα αίτια του θανάτου θα διερευνηθούν με ιατροδικαστική εξέταση, ενώ το μωρό προωθήθηκε για υιοθεσία εκτός Κρήτης.",
+            "en": "A 34-year-old woman was found dead in the holding cells of the Heraklion police headquarters, a day before her trial for abandoning her newborn in a rubbish bin in May 2025. Her lawyer, Giorgos Karoutsos, said she suffered serious mental health problems and intellectual disability and that psychiatric hospitalization had been requested. The cause of death will be examined forensically, while the baby was placed for adoption outside Crete."
+          }
+        },
+        {
+          "id": "1d249351da85",
+          "title": "Ο Αλβανός επιχειρηματίας που πούλησε τη Σβέρνιτσα",
+          "url": "https://www.kathimerini.gr/society/564297061/o-alvanos-epicheirimatias-poy-poylise-ti-svernitsa/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:06:36+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Έρευνα της «Κ» φωτίζει την υπόθεση του 60χρονου Αλβανού επιχειρηματία Αρτούρ Σ., ο οποίος κατηγορείται από τους Έλληνες ομογενείς της Σβέρνιτσας ότι πούλησε τις περιουσίες τους ως δικές του για ένα μεγάλο τουριστικό έργο που συνδέεται με επενδυτικό ενδιαφέρον του Τζάρεντ Κούσνερ. Η ειδική εισαγγελία SPAK σχημάτισε δικογραφία κατά 20 ατόμων για διακίνηση ναρκωτικών και ξέπλυμα χρήματος μέσω αγοράς ακινήτων στην Αλβανική Ριβιέρα, ενώ δεσμεύθηκαν 110 εκατ. ευρώ από την εταιρεία καταριανών συμφερόντων Albanian Land Development. Η υπόθεση εκτυλίσσεται εν μέσω μαζικών διαδηλώσεων κατά της διαφθοράς στα Τίρανα.",
+            "en": "A Kathimerini investigation examines the case of 60-year-old Albanian businessman Artur S., accused by the Greek diaspora of Svernitsa of selling their properties as his own for a major tourism project linked to Jared Kushner's investment interest. Anti-corruption prosecutor SPAK filed charges against 20 people for drug trafficking and money laundering via Albanian Riviera real estate, and 110 million euros from Qatari-linked firm Albanian Land Development were frozen. The case unfolds amid mass anti-corruption protests in Tirana."
+          }
+        },
+        {
+          "id": "9f7c4ab271fd",
+          "title": "Θεσσαλονίκη: Σε δίκη 12 υγειονομικοί κατηγορούμενοι για τον θάνατο 27χρονου στρατιώτη",
+          "url": "https://www.kathimerini.gr/society/564299473/thessaloniki-se-diki-12-ygeionomikoi-katigoroymenoi-gia-ton-thanato-27chronoy-stratioti/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:51:16+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Δώδεκα γιατροί και μέλη νοσηλευτικού προσωπικού παραπέμφθηκαν στο Πενταμελές Στρατοδικείο Θεσσαλονίκης για τον θάνατο από αμέλεια του 27χρονου στρατιώτη Νίκου Γκάτση, που κατέληξε στις 3 Νοεμβρίου 2023 λίγες ώρες μετά από ολική θυρεοειδεκτομή στο 424 Στρατιωτικό Νοσοκομείο. Το κατηγορητήριο περιγράφει παραλείψεις στη μετεγχειρητική παρακολούθηση που οδήγησαν σε καθυστερημένη αντιμετώπιση εσωτερικής αιμορραγίας. Η δίκη αναβλήθηκε για δικονομικούς λόγους για τις 5 Ιανουαρίου 2027, ενώ η οικογένεια ζητεί αναβάθμιση της κατηγορίας σε ανθρωποκτονία με ενδεχόμενο δόλο.",
+            "en": "Twelve doctors and nursing staff were referred to the Thessaloniki Military Court over the negligent death of 27-year-old soldier Nikos Gatsis, who died on November 3, 2023, hours after total thyroidectomy surgery at the 424 Military Hospital. The indictment describes failures in post-operative monitoring that led to delayed treatment of internal bleeding. The trial was postponed for procedural reasons to January 5, 2027, while the family seeks to upgrade the charge to homicide with possible intent."
+          }
+        },
+        {
+          "id": "24e9f2194cdc",
+          "title": "Καλάβρυτα: Αιματηρή συμπλοκή μεταξύ ανηλίκων σε δομή φιλοξενίας – Δύο τραυματίες, τρεις συλλήψεις",
+          "url": "https://www.kathimerini.gr/society/564299539/kalavryta-aimatiri-symploki-metaxy-anilikon-se-domi-filoxenias-dyo-traymaties-treis-syllipseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:34:43+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Αιματηρή συμπλοκή μεταξύ ανηλίκων σε δομή φιλοξενίας στα Καλάβρυτα τραυμάτισε έναν 17χρονο και έναν 15χρονο, ενώ συνελήφθησαν δύο 17χρονοι και ένας 14χρονος. Οι δράστες χρησιμοποίησαν κοπίδι, μεταλλικό σωλήνα, ξύλο και σπιράλ καλώδιο, ενώ ο 14χρονος χτύπησε στο πρόσωπο και εργαζόμενη της δομής. Σχηματίστηκε δικογραφία για σωματική βλάβη αδυνάμων ατόμων, επικίνδυνη σωματική βλάβη και παράβαση της νομοθεσίας περί όπλων.",
+            "en": "A violent brawl among minors at a care facility in Kalavryta injured a 17-year-old and a 15-year-old, while two 17-year-olds and a 14-year-old were arrested. The assailants used a box cutter, a metal pipe, wood and a coiled cable, and the 14-year-old also struck a facility employee in the face. Charges were filed for bodily harm to vulnerable persons, dangerous bodily harm and violation of weapons law."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 15,
+      "top_items": [
+        {
+          "id": "c7b546367e9f",
+          "title": "Παραιτείται από την πρωθυπουργία και την ηγεσία των Εργατικών ο Κιρ Στάρμερ",
+          "url": "https://www.kathimerini.gr/world/564299224/paraiteitai-apo-tin-igesia-ton-ergatikon-o-kir-starmer/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:35:36+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο Κιρ Στάρμερ ανακοίνωσε σε διάγγελμα στη Ντάουνινγκ Στριτ το πρωί της Δευτέρας την παραίτησή του από την πρωθυπουργία και την ηγεσία των Εργατικών, αφού άκουσε την απάντηση της κοινοβουλευτικής του ομάδας. Είπε ότι κληρονόμησε ένα κόμμα «που πολλοί θεωρούσαν χρεοκοπημένο» και ότι ενημέρωσε τον βασιλιά για την απόφασή του. Ζήτησε από την Εθνική Εκτελεστική Επιτροπή να καθορίσει το χρονοδιάγραμμα διαδοχής, με τις υποψηφιότητες να ξεκινούν στις 9 Ιουλίου και την ολοκλήρωση μέχρι το τέλος του καλοκαιριού.",
+            "en": "Keir Starmer announced in an address at Downing Street on Monday morning his resignation as prime minister and Labour leader, after hearing the response of his parliamentary group. He said he inherited a party 'many considered bankrupt' and informed the King of his decision. He asked the National Executive Committee to set the succession timeline, with nominations starting 9 July and the process concluding by the end of summer."
+          }
+        },
+        {
+          "id": "bb93d9f6c395",
+          "title": "Παραίτηση Στάρμερ: Τα επόμενα βήματα για τη διαδοχή στην πρωθυπουργία και την ηγεσία των Εργατικών",
+          "url": "https://www.kathimerini.gr/world/564299362/paraitisi-starmer-ta-epomena-vimata-gia-tin-diadochi-stin-prothypoyrgia-kai-tin-igesia-ton-ergatikon/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:50:35+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Το Ηνωμένο Βασίλειο εισέρχεται σε νέα περίοδο αβεβαιότητας μετά την ανακοίνωση Στάρμερ ότι αποχωρεί από τη Ντάουνινγκ Στριτ, ανοίγοντας τον δρόμο για τον 7ο πρωθυπουργό σε μια δεκαετία. Παρότι επανέφερε τους Εργατικούς στην εξουσία μετά 14 χρόνια, κατέγραψε τα χαμηλότερα ποσοστά ικανοποίησης εδώ και μισό αιώνα, λόγω αυξήσεων φόρων, περικοπών και του διορισμού του Πίτερ Μάντελσον ως πρέσβη στις ΗΠΑ. Η ήττα στις τοπικές εκλογές του Μαΐου σφράγισε την πτώση του.",
+            "en": "The UK enters a new period of uncertainty after Starmer announced he will leave Downing Street, opening the way for the seventh PM in a decade. Although he returned Labour to power after 14 years, he recorded the lowest approval ratings of any PM in half a century amid tax hikes, spending cuts and the controversial appointment of Peter Mandelson as ambassador to the US. His crushing defeat in May's local elections sealed his downfall."
+          }
+        },
+        {
+          "id": "39340af47957",
+          "title": "Ιράν – ΗΠΑ: Νέα φάση διαπραγματεύσεων ξεκινά στην Ελβετία",
+          "url": "https://www.kathimerini.gr/world/564299461/iran-ipa-technikes-synomilies-gia-tin-efarmogi-toy-mnimonioy-stin-elvetia/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T11:35:49+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Νέα φάση τεχνικών διαπραγματεύσεων ΗΠΑ-Ιράν ξεκινά στην Ελβετία, με επίκεντρο τους μηχανισμούς εφαρμογής του μνημονίου κατανόησης και τη συγκρότηση ομάδων εργασίας, σύμφωνα με το πρακτορείο ISNA. Της ιρανικής αντιπροσωπείας ηγείται ο υφυπουργός Εξωτερικών Καζέμ Γκαριμπαμπαντί, με μεσολαβητές το Πακιστάν και το Κατάρ. Έχει συμφωνηθεί «οδικός χάρτης» για τελική συμφωνία εντός 60 ημερών, αν και οι ουσιαστικές διαπραγματεύσεις για το πυρηνικό πρόγραμμα δεν έχουν ξεκινήσει.",
+            "en": "A new phase of US-Iran technical talks begins in Switzerland, focusing on mechanisms to implement the memorandum of understanding and setting up working groups, according to ISNA. The Iranian delegation is led by Deputy Foreign Minister Kazem Gharibabadi, with Pakistan and Qatar as mediators. A roadmap toward a final deal within 60 days has been agreed, though substantive talks on the nuclear program have not yet begun."
+          }
+        },
+        {
+          "id": "008ccce2624d",
+          "title": "Δεκαετία πολιτικού χάους στη Βρετανία – Η «άνοδος« και η «πτώση» έξι πρωθυπουργών",
+          "url": "https://www.kathimerini.gr/world/564299614/dekaetia-politikoy-chaoys-sti-vretania-i-anodos-kai-i-ptosi-exi-prothypoyrgon/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T13:11:37+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Η παραίτηση Στάρμερ ανοίγει τον δρόμο για τον έβδομο Βρετανό πρωθυπουργό σε μια δεκαετία, αφετηρία της οποίας θεωρείται το δημοψήφισμα για το Brexit στις 23 Ιουνίου 2016. Το 2026 οι πιέσεις κορυφώθηκαν μετά τις ήττες των Εργατικών στις τοπικές εκλογές και τις αποχωρήσεις των υπουργών Γουές Στρίτινγκ και Τζον Χίλι. Φαβορί για τη διαδοχή θεωρείται ο δήμαρχος του Μάντσεστερ Αντι Μπέρναμ.",
+            "en": "Starmer's resignation paves the way for Britain's seventh prime minister in a decade, a period traced back to the Brexit referendum of 23 June 2016. Pressure peaked in 2026 after Labour's local election defeats and the departures of ministers Wes Streeting and John Healey. Manchester mayor Andy Burnham is now the favorite to succeed him."
+          }
+        },
+        {
+          "id": "6d1be460f279",
+          "title": "Ζελένσκι: Το Κίεβο θα αποφασίσει ποιος θα εκπροσωπήσει την Ευρώπη στις συνομιλίες με τη Ρωσία",
+          "url": "https://www.kathimerini.gr/world/564299524/zelenski-to-kievo-tha-apofasisei-poios-tha-ekprosopisei-tin-eyropi-stis-synomilies-me-ti-rosia/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T12:12:12+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Ουκρανός πρόεδρος Βολοντίμιρ Ζελένσκι δήλωσε ότι η Ουκρανία θα αποφασίσει ποιος θα εκπροσωπήσει την Ευρώπη σε διαπραγματεύσεις με τη Ρωσία, καθώς το Κίεβο επιχειρεί να αναβιώσει τη διπλωματία για τον τερματισμό του πολέμου που ξέσπασε πριν από πάνω από τέσσερα χρόνια. Σημείωσε ότι το ζήτημα συζητήθηκε εκτενέστερα από ποτέ στο Ευρωπαϊκό Συμβούλιο την προηγούμενη εβδομάδα. Οι υποστηριζόμενες από τις ΗΠΑ συνομιλίες φαίνεται να έχουν περιέλθει σε αδιέξοδο.",
+            "en": "Ukrainian President Volodymyr Zelensky said Ukraine will decide who represents Europe in negotiations with Russia, as Kyiv tries to revive diplomacy to end the war that erupted over four years ago. He noted the issue was discussed more extensively than ever at the European Council the previous week. US-backed talks appear to have reached an impasse."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "6a65b8beb98d",
+          "title": "Ο «κόσμος μας» και ο κόσμος",
+          "url": "https://www.kathimerini.gr/opinion/564297148/o-kosmos-mas-kai-o-kosmos/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:13:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Παπαχελάς προειδοποιεί ότι οι προνομιούχες ελίτ ζουν σε μια «φούσκα» και απορούν πώς συμπολίτες τους στηρίζουν αντισυστημικά κόμματα διαμαρτυρίας. Υποστηρίζει ότι το πραγματικό σφάλμα δεν είναι να θεωρεί μια μειοψηφία τον εαυτό της πλειοψηφία, αλλά να ειρωνεύεται και να περιφρονεί όσους δεν καταλαβαίνει. Παραλληλίζει το ελληνικό 2012 με την άνοδο του Τραμπ το 2016, καλώντας σε κατανόηση του «κόσμου» που υποφέρει αντί για χλευασμό.",
+            "en": "Papachelas warns that privileged elites live in a 'bubble', baffled that fellow citizens back anti-system protest parties. He argues the real mistake is not a minority mistaking itself for a majority, but openly mocking and despising those one fails to understand. Drawing a parallel between Greece in 2012 and Trump's 2016 rise, he calls for empathy toward the struggling 'world' out there rather than ridicule."
+          }
+        },
+        {
+          "id": "5da9e5caeb38",
+          "title": "Το φίδι του ποινικού λαϊκισμού",
+          "url": "https://www.kathimerini.gr/opinion/564297184/to-fidi-toy-poinikoy-laikismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:08:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Μανδραβέλης συμφωνεί επί της ουσίας με τον Αδωνη Γεωργιάδη ότι η ποινικοποίηση πολιτικής αμέλειας, όπως στην υπόθεση Ασημακοπούλου, είναι υπερβολική. Επισημαίνει όμως την υποκρισία: η ίδια η κυβέρνηση εκτρέφει επί χρόνια τον «ποινικό λαϊκισμό», ποινικοποιώντας αμέλειες απλών πολιτών και προφυλακίζοντας ανθρώπους για τροχαία. Καταλήγει ότι όταν το σύνθημα «κρεμάστε τους ψηλά» υιοθετείται από τους πολιτικούς, αναπόφευκτα η κοινωνία απαντά «και τους πολιτικούς ψηλότερα».",
+            "en": "Mandravelis agrees in substance with Adonis Georgiadis that criminalizing political negligence, as in the Asimakopoulou case, is excessive. But he highlights the hypocrisy: the government itself has long bred 'penal populism', criminalizing ordinary citizens' negligence and jailing people pretrial for traffic offenses. He concludes that when 'hang them high' becomes a politicians' slogan, society inevitably replies 'and the politicians higher'."
+          }
+        },
+        {
+          "id": "c90343b41608",
+          "title": "Μεγαλοϊδεατισμοί",
+          "url": "https://www.kathimerini.gr/opinion/564297151/megaloideatismoi/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:09:00+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ο Ιορδανίδης αναλύει τη συμφωνία-πλαίσιο ΗΠΑ-Ιράν ως τη μόνη λογικά εφικτή έκβαση, αφού καμία ειρήνη δεν είναι οριστική χωρίς πλήρη συντριβή του ενός αντιπάλου. Υποστηρίζει ότι μόνος δυσαρεστημένος είναι ο Νετανιάχου, που επί τριάντα χρόνια προειδοποιούσε αβάσιμα για ιρανικά πυρηνικά, ενώ ο Τραμπ ενεπλάκη σε έναν «ανόητο» πόλεμο. Διακρίνει ότι ο Τραμπ, ως «εργολάβος» που βλέπει τον πόλεμο ως στρατηγικό παιχνίδι κέρδους, επιχειρεί νέο σύστημα ασφαλείας στη Μέση Ανατολή χωρίς καθοδηγητικό ρόλο για το Ισραήλ.",
+            "en": "Iordanidis reads the US-Iran framework agreement as the only logically possible outcome, since no peace is final without one side's total defeat. He argues the sole dissatisfied figure is Netanyahu, who for thirty years baselessly warned of Iranian nukes, while Trump got drawn into a 'foolish' war. He sees Trump—a 'contractor' viewing war as a strategic profit game—attempting a new Middle East security order in which Israel no longer leads."
+          }
+        },
+        {
+          "id": "90b138bb1b11",
+          "title": "Ξανά στο στόμα του απορροφητήρα",
+          "url": "https://www.kathimerini.gr/opinion/564296902/xana-sto-stoma-toy-aporrofitira/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:11:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ο Τσιντσίνης υποστηρίζει ότι η Αννα Διαμαντοπούλου σωστά αποφεύγει τον μηδενισμό αναγνωρίζοντας τη δημοσιονομική πρόοδο, αλλά σφάλλει όταν λέει ότι το ΠΑΣΟΚ δεν χρειάζεται να περιγράψει την κυβερνητική του πρόταση. Θεωρεί ότι η αποφυγή αυτή αφήνει το κόμμα ευάλωτο στο δίλημμα του «χάους» και το αποσύρει από τη διεκδίκηση της χρήσιμης ψήφου. Προτείνει το ΠΑΣΟΚ να μην πει «με ποιον» αλλά «το πώς», ορίζοντας μια δική του «χάρτα» όρων διακυβέρνησης.",
+            "en": "Tsintsinis argues that Anna Diamantopoulou rightly avoids nihilism by acknowledging fiscal progress, but errs in claiming PASOK need not yet describe its governing plan. He contends this evasion leaves the party exposed to the 'chaos' dilemma and cedes the contest for the useful vote. He proposes PASOK should not say 'with whom' but 'how', defining its own 'charter' of governing terms others could co-sign."
+          }
+        },
+        {
+          "id": "db3d36aa519f",
+          "title": "Φορολογήστε τους πλουσίους για… να φύγουν",
+          "url": "https://www.kathimerini.gr/opinion/564297358/forologiste-toys-ploysioys-gia-na-fygoyn/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T20:05:00+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Ο Δρυμιώτης ασκεί κριτική στον προεκλογικό ανταγωνισμό ΣΥΡΙΖΑ και ΠΑΣΟΚ για το ποιος θα φορολογήσει περισσότερο τους «πλουσίους», παραθέτοντας ρήσεις για το αντιπαραγωγικό των υψηλών φόρων. Υποστηρίζει ότι η στόχευση χιλίων-δύο χιλιάδων ατόμων είναι αριθμητικά ασήμαντη ως έσοδο και θα οδηγήσει απλώς στη φυγή των πλουσίων στο εξωτερικό. Το επιχείρημά του είναι ότι η υψηλή φορολόγηση αποδιώχνει το κεφάλαιο αντί να αυξάνει τα δημόσια έσοδα.",
+            "en": "Drymiotis criticizes the pre-election contest between SYRIZA and PASOK over who will tax the 'rich' more, citing quips on the counterproductiveness of high taxes. He argues that targeting one to two thousand people yields trivial revenue and will simply drive the wealthy abroad. His thesis is that heavy taxation chases away capital rather than increasing public revenue."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 11,
+      "top_items": [
+        {
+          "id": "0dda0484c4a4",
+          "title": "Ζαν Μισέλ Ζαρ, Ντέβιντ Μπερν και ρεμπέτικα στην έναρξη του Nostos SNF 2026",
+          "url": "https://www.kathimerini.gr/culture/564299095/zan-misel-zar-ntevint-mpern-kai-rempetika-stin-enarxi-toy-nostos-snf-2026/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T23:08:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Στην εναρκτήρια συζήτηση του SNF Nostos 2026 του Ιδρύματος Σταύρος Νιάρχος, που φέτος γιορτάζει 30 χρόνια δράσης, ο πρωτοπόρος της ηλεκτρονικής μουσικής Ζαν-Μισέλ Ζαρ μίλησε για την τεχνητή νοημοσύνη ως «επαυξημένη φαντασία». Η συζήτηση «Τέχνη και Ανθρωπιά στην Εποχή της Τεχνητής Νοημοσύνης» έγινε στην Εθνική Λυρική Σκηνή με συνομιλήτρια την Αννα-Κύνθια Μπουσδούκου. Ο Ζαρ, πρώην πρόεδρος της CISAC, εξέφρασε αισιοδοξία και θίγει το ζήτημα των πνευματικών δικαιωμάτων.",
+            "en": "At the opening discussion of the Stavros Niarchos Foundation's SNF Nostos 2026, which marks 30 years of philanthropy, electronic music pioneer Jean-Michel Jarre spoke of AI as \"augmented imagination.\" The talk \"Art and Humanity in the Age of Artificial Intelligence\" took place at the Greek National Opera with Anna-Kynthia Bousdoukou. Jarre, a former CISAC president, expressed optimism while raising the issue of intellectual property rights."
+          }
+        },
+        {
+          "id": "af28ba2e8a65",
+          "title": "Το «Obsession» σπάει τα ταμεία. Ποιοι συντελεστές (δεν) επωφελούνται;",
+          "url": "https://www.kathimerini.gr/culture/cinema/564299299/to-obsession-spaei-ta-tameia-poioi-syntelestes-den-epofeloyntai/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T10:18:07+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Η ανεξάρτητη ταινία τρόμου «Obsession», ντεμπούτο του 26χρονου Κάρι Μπάρκερ, συγκέντρωσε 300 εκατ. δολάρια με προϋπολογισμό μόλις 750.000 δολαρίων, αποτελώντας τη μεγαλύτερη επιτυχία της Focus Features και του παραγωγού Τζέισον Μπλουμ. Η καλλιτεχνική διευθύντρια Σάλι Τσόι αποκάλυψε ότι έλαβε μόλις 6.741 δολάρια για τρεις εβδομάδες εργασίας, αναζωπυρώνοντας τη συζήτηση για τη συμμετοχή των συντελεστών στα κέρδη. Το ρεπορτάζ ανατρέχει και στο «The Blair Witch Project» του 1999 ως παρόμοιο φαινόμενο.",
+            "en": "The independent horror film \"Obsession,\" the debut of 26-year-old Cary Barker, grossed $300 million worldwide on a budget of just $750,000, becoming the biggest hit for Focus Features and producer Jason Blumhouse. Production designer Sally Choi revealed she was paid only $6,741 for roughly three weeks of work, reigniting debate over profit-sharing for crew. The piece draws a parallel to 1999's \"The Blair Witch Project.\""
+          }
+        },
+        {
+          "id": "9e4714205b8f",
+          "title": "Χρήστος Θεοδωρίδης: Πώς πενθείς στην εποχή των τρολ;",
+          "url": "https://www.kathimerini.gr/culture/564297526/christos-theodoridis-pos-pentheis-stin-epochi-ton-trol/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T23:38:09+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ο σκηνοθέτης Χρήστος Θεοδωρίδης μιλά για την πρώτη του αναμέτρηση με το αρχαίο δράμα, σκηνοθετώντας τους «Πέρσες» του Αισχύλου στην Επίδαυρο (6-7 Ιουλίου). Εξηγεί πως μέχρι τώρα κρατούσε αποστάσεις από την τραγωδία επειδή «δεν την καταλάβαινε», παρά τη θεωρητική του γοητεία. Συνδέει τους «Πέρσες» με τις πρόσφατες δουλειές του, όπως η «Ιεροτελεστία» του Γκιγιόμ Πουά και «Ποιος σκότωσε τον πατέρα μου» του Εντουάρ Λουί, που μετατρέπουν την ατομική εμπειρία σε συλλογική αφήγηση.",
+            "en": "Director Christos Theodoridis discusses his first encounter with ancient drama, staging Aeschylus's \"The Persians\" at Epidaurus (July 6-7). He explains he had kept his distance from tragedy because he \"didn't understand it,\" despite its theoretical allure. He links \"The Persians\" to his recent work, such as Guillaume Poix's \"Ieroteleestia\" and Édouard Louis's \"Who Killed My Father,\" which turn individual experience into collective narrative."
+          }
+        },
+        {
+          "id": "9c5bed9fac46",
+          "title": "Επιστροφή στο Ακρωτήρι του Φόβου",
+          "url": "https://www.kathimerini.gr/culture/564297619/epistrofi-sto-akrotiri-toy-fovoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T23:55:24+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Το άρθρο εξετάζει τη νέα σειρά «Cape Fear» του Apple TV, σε σκηνοθεσία Νικ Αντόσκα, όπου ο Χαβιέ Μπαρδέμ ενσαρκώνει τον Μαξ Κέιντι. Ο ρόλος, που πρωτοπαρουσιάστηκε στο βιβλίο «The Executioners» του Τζον Ντ. ΜακΝτόναλντ το 1957 και ενσάρκωσαν παλιότερα οι Ρόμπερτ Μίτσαμ (1962) και Ρόμπερτ Ντε Νίρο (1991), αποκτά εδώ μια πιο σύνθετη και ανθρώπινη διάσταση. Ο νέος Κέιντι κουβαλά παιδικά τραύματα και αντικατοπτρίζει την ταραγμένη Αμερική του 2026.",
+            "en": "The piece examines Apple TV's new series \"Cape Fear,\" directed by Nick Antosca, with Javier Bardem as Max Cady. The character, first introduced in John D. MacDonald's 1957 novel \"The Executioners\" and previously played by Robert Mitchum (1962) and Robert De Niro (1991), is given a more complex, human dimension here. This Cady carries childhood trauma and reflects the troubled America of 2026."
+          }
+        },
+        {
+          "id": "5e8ae4fd90fb",
+          "title": "Πού δείχνει η πυξίδα του ΕΜΣΤ;",
+          "url": "https://www.kathimerini.gr/culture/564297568/poy-deichnei-i-pyxida-toy-emst/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T21:40:00+00:00",
+          "importance": 57,
+          "summary": {
+            "el": "Το άρθρο σχολιάζει την κεντρική καλοκαιρινή έκθεση του ΕΜΣΤ «South by Southeast – Προς-Ανατολίζοντας τη Συλλογή», με την οποία η διευθύντρια Κατερίνα Γρέγου επιχειρεί έναν συμβολικό αναπροσανατολισμό πέρα από τα αγγλοσαξονικά και δυτικοευρωπαϊκά πρότυπα. Η έκθεση επικαλείται το βιβλίο του Σον Μάθιους «The New Byzantines», που θεωρεί την Ελλάδα πιο κοντά στην Εγγύς Ανατολή παρά στη Δύση. Ο αρθρογράφος αμφισβητεί αυτή τη θέση, επικαλούμενος την κληρονομιά της αρχαιότητας και του Βυζαντίου.",
+            "en": "The piece comments on the National Museum of Contemporary Art's (EMST) main summer exhibition \"South by Southeast – Orienting the Collection,\" through which director Katerina Gregos attempts a symbolic reorientation away from Anglo-Saxon and Western European models. The show invokes Sean Mathews's book \"The New Byzantines,\" which places Greece closer to the Near East than the West. The writer challenges this thesis, citing the legacy of antiquity and Byzantium."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "042001dd43e4",
+          "title": "Φόβοι για διόδια στα Στενά του Ορμούζ",
+          "url": "https://www.kathimerini.gr/economy/564297433/fovoi-gia-diodia-sta-stena-toy-ormoyz/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T22:53:02+00:00",
+          "category": "economy",
+          "importance": 70,
+          "summary": {
+            "el": "Στελέχη της ναυτιλιακής βιομηχανίας εκφράζουν φόβους ότι η ειρηνευτική συμφωνία ΗΠΑ-Ιράν ανοίγει τον δρόμο για επιβολή τελών διέλευσης στα Στενά του Ορμούζ. Η προκαταρκτική συμφωνία προβλέπει δωρεάν διέλευση για 60 ημέρες, μετά τις οποίες το Ιράν θα ξεκινήσει διάλογο με το Ομάν και τα κράτη του Κόλπου, ενδεχομένως στα πρότυπα ενός εθελοντικού ταμείου όπως στα Στενά της Μάλακα. Μετά τις αμερικανοϊσραηλινές επιθέσεις τον Φεβρουάριο, η Τεχεράνη είχε απαιτήσει τέλος 2 εκατ. δολαρίων σε bitcoin.",
+            "en": "Shipping industry executives fear the US-Iran peace deal opens the way for transit fees in the Strait of Hormuz. The preliminary agreement provides free passage for 60 days, after which Iran will begin talks with Oman and Gulf states, possibly modelled on a voluntary fund like the Strait of Malacca. After the US-Israeli strikes in February, Tehran had demanded a 2 million dollar fee in bitcoin."
+          },
+          "tags": {
+            "el": [
+              "Στενά Ορμούζ",
+              "ναυτιλία",
+              "ΗΠΑ-Ιράν",
+              "διόδια",
+              "διεθνείς εξελίξεις"
+            ],
+            "en": [
+              "Strait of Hormuz",
+              "shipping",
+              "US-Iran",
+              "tolls",
+              "international affairs"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "0dda0484c4a4",
+          "title": "Ζαν Μισέλ Ζαρ, Ντέβιντ Μπερν και ρεμπέτικα στην έναρξη του Nostos SNF 2026",
+          "url": "https://www.kathimerini.gr/culture/564299095/zan-misel-zar-ntevint-mpern-kai-rempetika-stin-enarxi-toy-nostos-snf-2026/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T23:08:00+00:00",
+          "category": "culture",
+          "importance": 64,
+          "summary": {
+            "el": "Στην εναρκτήρια συζήτηση του SNF Nostos 2026 του Ιδρύματος Σταύρος Νιάρχος, που φέτος γιορτάζει 30 χρόνια δράσης, ο πρωτοπόρος της ηλεκτρονικής μουσικής Ζαν-Μισέλ Ζαρ μίλησε για την τεχνητή νοημοσύνη ως «επαυξημένη φαντασία». Η συζήτηση «Τέχνη και Ανθρωπιά στην Εποχή της Τεχνητής Νοημοσύνης» έγινε στην Εθνική Λυρική Σκηνή με συνομιλήτρια την Αννα-Κύνθια Μπουσδούκου. Ο Ζαρ, πρώην πρόεδρος της CISAC, εξέφρασε αισιοδοξία και θίγει το ζήτημα των πνευματικών δικαιωμάτων.",
+            "en": "At the opening discussion of the Stavros Niarchos Foundation's SNF Nostos 2026, which marks 30 years of philanthropy, electronic music pioneer Jean-Michel Jarre spoke of AI as \"augmented imagination.\" The talk \"Art and Humanity in the Age of Artificial Intelligence\" took place at the Greek National Opera with Anna-Kynthia Bousdoukou. Jarre, a former CISAC president, expressed optimism while raising the issue of intellectual property rights."
+          },
+          "tags": {
+            "el": [
+              "μουσική",
+              "SNF Nostos",
+              "Ζαν-Μισέλ Ζαρ",
+              "τεχνητή νοημοσύνη",
+              "φεστιβάλ"
+            ],
+            "en": [
+              "music",
+              "SNF Nostos",
+              "Jean-Michel Jarre",
+              "artificial intelligence",
+              "festival"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "730f30668248",
+          "title": "Ουκρανία: Εγγονός, πατέρας και γιαγιά σκοτώθηκαν σε ρωσική επίθεση",
+          "url": "https://www.kathimerini.gr/world/564299251/oykrania-eggonos-pateras-kai-giagia-skotothikan-se-rosiki-epithesi/",
+          "source": "Kathimerini",
+          "published": "2026-06-22T09:10:44+00:00",
+          "category": "world",
+          "importance": 62,
+          "summary": {
+            "el": "Επίθεση με ρωσικό drone σκότωσε τρία μέλη της ίδιας οικογένειας στην περιφέρεια Σούμι της βόρειας Ουκρανίας, ένα 13χρονο αγόρι, τον 36χρονο πατέρα του και την 73χρονη γιαγιά του. Η μητέρα και δύο ακόμη παιδιά τραυματίστηκαν. Το περιστατικό σημειώθηκε γύρω στις 4:50 π.μ. τοπική ώρα και οι εισαγγελικές αρχές έχουν ξεκινήσει έρευνα.",
+            "en": "A Russian drone attack killed three members of the same family in the Sumy region of northern Ukraine: a 13-year-old boy, his 36-year-old father and his 73-year-old grandmother. The mother and two other children were wounded. The incident occurred around 4:50 a.m. local time and prosecutors have launched an investigation."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "drone",
+              "Σούμι",
+              "θύματα"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "drone",
+              "Sumy",
+              "casualties"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 68,
+    "by_category": {
+      "politics": 5,
+      "economy": 9,
+      "society": 14,
+      "world": 15,
+      "opinion": 14,
+      "culture": 11
+    }
+  }
+}

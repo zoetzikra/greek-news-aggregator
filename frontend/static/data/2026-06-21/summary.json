@@ -1,0 +1,620 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T08:39:54Z",
+  "source_note": "Articles scraped from kathimerini.gr. 60 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της 21ης Ιουνίου 2026 κυριαρχείται από τη γεωπολιτική ένταση στη Μέση Ανατολή: ξεκινά νέος γύρος συνομιλιών ΗΠΑ-Ιράν στην Ελβετία, με την άφιξη του αντιπροέδρου Τζέι Ντι Βανς, υπό τη σκιά της αμφισβητούμενης απειλής για κλείσιμο των Στενών του Ορμούζ και μιας εύθραυστης 60ήμερης εκεχειρίας. Η εξέλιξη συνδέεται άμεσα με την οικονομία, καθώς ένα 14σήμειο μνημόνιο μειώνει τον κίνδυνο στασιμοπληθωρισμού στην παγκόσμια οικονομία.\n\nΣτο εσωτερικό, η ατζέντα διαμορφώνεται από την κυβερνητική πρωτοβουλία για την πλατφόρμα «posokanei» που υπερασπίστηκε ο πρωθυπουργός Κυριάκος Μητσοτάκης ως εργαλείο διαφάνειας στην ακρίβεια, καθώς και από ένα δεκαετές στεγαστικό πρόγραμμα 6,5 δισ. ευρώ. Παράλληλα, το προεκλογικό κλίμα εντείνεται, με αναλύσεις για τη στρατηγική της Νέας Δημοκρατίας προς τη συντηρητική βάση και σενάρια για τον εκλογικό νόμο.\n\nΣτην κοινωνία, ξεχωρίζουν η εξάρθρωση κυκλώματος ανηλίκων που εκβίαζαν κορίτσια για πορνογραφικό υλικό, η τραγική κατάληξη της υπόθεσης εξαφάνισης στα Χανιά και οι προειδοποιήσεις επιστημόνων για ένα ισχυρό φαινόμενο «Ελ Νίνιο», ενώ συνεχίζονται οι μάχες με πυρκαγιές. Στις απόψεις κυριαρχούν τα θέματα της γυναικοκτονίας, της ανεξαρτησίας της Δικαιοσύνης και της προεκλογικής παροχολογίας.\n\nΣτον πολιτισμό ξεχωρίζει η πρεμιέρα του ντοκιμαντέρ της Μιμής Ντενίση «Η γυναίκα πίσω από τον Ελγιν» στο Μουσείο Ακρόπολης, που επαναφέρει το ζήτημα της επανένωσης των Γλυπτών του Παρθενώνα.",
+    "en": "The news of 21 June 2026 is dominated by geopolitical tension in the Middle East: a new round of US-Iran talks opens in Switzerland with the arrival of Vice President JD Vance, under the shadow of a disputed threat to close the Strait of Hormuz and a fragile 60-day truce. The development ties directly to the economy, as a 14-point memorandum reduces the risk of stagflation in the global economy.\n\nDomestically, the agenda is shaped by the government's 'posokanei' price-transparency platform, defended by PM Kyriakos Mitsotakis, and by a ten-year, 6.5-billion-euro national housing program. The pre-election climate intensifies, with analyses of New Democracy's strategy toward its conservative base and scenarios around the electoral law.\n\nIn society, the standout stories are the dismantling of a ring of minors blackmailing girls for pornographic material, the tragic conclusion of the Chania disappearance case, and scientists' warnings of a strong El Nino, alongside ongoing wildfire battles. Opinion pages are dominated by femicide, judicial independence, and pre-election giveaways.\n\nIn culture, the premiere of Mimi Denissi's documentary 'The Woman Behind Elgin' at the Acropolis Museum stands out, reviving the campaign for the reunification of the Parthenon Marbles."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Συνομιλίες ΗΠΑ-Ιράν και Στενά του Ορμούζ",
+        "en": "US-Iran Talks and the Strait of Hormuz"
+      },
+      "description": {
+        "el": "Νέος γύρος διαπραγματεύσεων ΗΠΑ-Ιράν στην Ελβετία υπό εύθραυστη εκεχειρία, με επιπτώσεις στην ενέργεια και την παγκόσμια οικονομία.",
+        "en": "A new round of US-Iran negotiations in Switzerland under a fragile truce, with implications for energy and the global economy."
+      },
+      "related_items": [
+        "fa6d11d5a0b1",
+        "474ecefcf29b",
+        "921014830b25",
+        "01e2100bd064"
+      ],
+      "importance": 92
+    },
+    {
+      "name": {
+        "el": "Κυβερνητική ατζέντα: ακρίβεια, στέγαση και προεκλογικό κλίμα",
+        "en": "Government Agenda: Cost of Living, Housing and Pre-election Climate"
+      },
+      "description": {
+        "el": "Η πλατφόρμα «posokanei», το δεκαετές στεγαστικό πρόγραμμα 6,5 δισ. και η εντεινόμενη προεκλογική αντιπαράθεση.",
+        "en": "The 'posokanei' platform, the ten-year 6.5-billion-euro housing program, and the intensifying pre-election confrontation."
+      },
+      "related_items": [
+        "c3559225dcc5",
+        "3e972f0c0000",
+        "7120e377f387",
+        "1f7af79385f2",
+        "056bc9a62813"
+      ],
+      "importance": 83
+    },
+    {
+      "name": {
+        "el": "Εγκληματικότητα και προστασία ανηλίκων",
+        "en": "Crime and Protection of Minors"
+      },
+      "description": {
+        "el": "Εξάρθρωση κυκλώματος ανηλίκων που εκβίαζαν κορίτσια, η υπόθεση των Χανίων και ο δημόσιος διάλογος για τη γυναικοκτονία.",
+        "en": "Dismantling of a ring of minors blackmailing girls, the Chania case, and the public debate on femicide."
+      },
+      "related_items": [
+        "b442c04eb113",
+        "e90417277cdb",
+        "f6961e39153c"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Κλίμα: «Ελ Νίνιο» και πυρκαγιές",
+        "en": "Climate: El Nino and Wildfires"
+      },
+      "description": {
+        "el": "Προειδοποιήσεις για ένα ισχυρό φαινόμενο «Ελ Νίνιο» και η συνεχιζόμενη μάχη με τις πυρκαγιές του καλοκαιριού.",
+        "en": "Warnings of a strong El Nino and the ongoing battle against summer wildfires."
+      },
+      "related_items": [
+        "3518746520be",
+        "fe67bc0f3ac0"
+      ],
+      "importance": 75
+    },
+    {
+      "name": {
+        "el": "Τεχνητή νοημοσύνη και παγκόσμια ισχύς",
+        "en": "Artificial Intelligence and Global Power"
+      },
+      "description": {
+        "el": "Η κυριαρχία των ΗΠΑ στην τεχνητή νοημοσύνη ως μοχλός γεωπολιτικής ισχύος και οι οικονομικές της προεκτάσεις.",
+        "en": "US dominance in AI as a lever of geopolitical power and its economic ramifications."
+      },
+      "related_items": [
+        "724eb6e9838a"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 60,
+  "categories": {
+    "politics": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "c3559225dcc5",
+          "title": "Μητσοτάκης: Tο «posokanei» ήρθε για να μείνει και θα γίνεται καλύτερο – Επιδότηση έως και 36.000 ευρώ με το «Ανακαίνιση Κατοικίας»",
+          "url": "https://www.kathimerini.gr/politics/564298573/mitsotakis-to-posokanei-irthe-gia-na-meinei-kai-tha-ginetai-kalytero-epidotisi-eos-kai-36-000-eyro-me-to-anakainisi-katoikias/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T11:14:00+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Στην εβδομαδιαία ανασκόπησή του ο πρωθυπουργός Κυριάκος Μητσοτάκης υπερασπίστηκε τη νέα πλατφόρμα posokanei.gov.gr ως εργαλείο διαφάνειας κατά της ακρίβειας και παρουσίασε το πρόγραμμα «Ανακαίνιση Κατοικίας» με επιδότηση έως 36.000 ευρώ για την επαναφορά έως 20.000 αδρανών κατοικιών στην αγορά. Αναφέρθηκε επίσης στην ολοκλήρωση αποκατάστασης του Παρθενώνα, σε νέα συλλογική σύμβαση εργασίας, στην πρόληψη πυρκαγιών, καθώς και στη συμφωνία-πλαίσιο ΗΠΑ-Ιράν και την ένταξη της Ελλάδας στο αμυντικό εργαλείο SAFE με 700 εκατ. ευρώ.",
+            "en": "In his weekly review, PM Kyriakos Mitsotakis defended the new posokanei.gov.gr platform as a transparency tool against high prices and unveiled the 'Home Renovation' program offering subsidies of up to 36,000 euros to return up to 20,000 idle homes to the market. He also touched on the completed Parthenon restoration, a new collective labor agreement, fire prevention, the US-Iran framework agreement, and Greece's entry into the EU SAFE defense instrument securing 700 million euros."
+          }
+        },
+        {
+          "id": "7120e377f387",
+          "title": "Στήνουν το παζλ της Δεξιάς",
+          "url": "https://www.kathimerini.gr/politics/parties/564296284/stinoyn-to-pazl-tis-dexias/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T23:44:53+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Το άρθρο αναλύει τη στρατηγική της Ν.Δ. να ενισχύσει τη σχέση της με τη συντηρητική βάση, αξιοποιώντας το ψήφισμα του Ευρωκοινοβουλίου για την Τουρκία ώστε να συμπιέσει τα κόμματα στα δεξιά της και να χαρακτηρίσει «ψευτοπατριώτες» όσους απείχαν ή καταψήφισαν. Παράλληλα, με τη στάση στο Athens Pride και την αυστηροποίηση της μεταναστευτικής πολιτικής από τον Θάνο Πλεύρη, το Μαξίμου επιδιώκει να αφαιρέσει πολιτικό οξυγόνο από τον Αντώνη Σαμαρά και να αποτρέψει την ίδρυση νέου κόμματος.",
+            "en": "The article analyzes New Democracy's strategy to strengthen ties with its conservative base, using the European Parliament's resolution on Turkey to squeeze parties to its right and brand as 'fake patriots' those who abstained or voted against it. Combined with its stance on Athens Pride and Thanos Plevris's hardening of migration policy, the government aims to drain political oxygen from Antonis Samaras and discourage him from founding a new party."
+          }
+        },
+        {
+          "id": "d186ee2c028c",
+          "title": "Ερχεται πολιτικός «καύσωνας» εντός του Κοινοβουλίου",
+          "url": "https://www.kathimerini.gr/politics/parliament/564296296/erchetai-politikos-kaysonas-entos-toy-koinovoylioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T09:17:00+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Εντατικοί ρυθμοί νομοθετικής εργασίας αναμένονται στη Βουλή, με την ψήφιση μεγάλου πολυνομοσχεδίου του υπουργείου Οικονομικών και τη συζήτηση του Κώδικα Τοπικής Αυτοδιοίκησης 774 άρθρων, ενώ συνεχίζεται η επιτροπή αναθεώρησης του Συντάγματος με κρίσιμη συνεδρίαση για το άρθρο 86 περί ποινικής ευθύνης υπουργών. Παραμένει εκκρεμής η σύγκληση της Επιτροπής Θεσμών και Διαφάνειας για την υπόθεση των παρακολουθήσεων, καθώς όλες οι πλευρές προετοιμάζονται για πιθανές πρόωρες εκλογές.",
+            "en": "Parliament faces an intense legislative pace, with a major Finance Ministry omnibus bill and debate on a 774-article Local Government Code, while the constitutional revision committee continues, including a key session on Article 86 covering ministers' criminal liability. The convening of the Committee on Institutions and Transparency over the wiretapping case remains pending, as all parties position themselves for possible early elections."
+          }
+        },
+        {
+          "id": "5ffb0e9816e9",
+          "title": "Π. Χρηστίδης: «340.000 ευρώ πήγαν στα βαφτίσια του “e-καταναλωτής” σε “PosoKanei”»",
+          "url": "https://www.kathimerini.gr/politics/564298249/p-christidis-340-000-eyro-pigan-sta-vaftisia-toy-quot-e-katanalotis-quot-se-quot-posokanei-quot/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T18:32:29+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Ο κοινοβουλευτικός εκπρόσωπος του ΠΑΣΟΚ Παύλος Χρηστίδης άσκησε κριτική στην κυβέρνηση, χαρακτηρίζοντας επικοινωνιακή διαχείριση τη νέα πλατφόρμα «PosoKanei» και καταγγέλλοντας ότι κόστισε 340.000 ευρώ ως απλή μετονομασία του «e-καταναλωτής». Τόνισε τη συνεχιζόμενη υποχώρηση της αγοραστικής δύναμης, με την Ελλάδα τελευταία στην Ευρώπη και το βρεφικό γάλα 30% ακριβότερο, αποδίδοντας την ευθύνη στην έλλειψη ελέγχων και λειτουργικών επιτροπών ανταγωνισμού.",
+            "en": "PASOK parliamentary spokesman Pavlos Christidis criticized the government, calling the new 'PosoKanei' platform a PR stunt and alleging it cost 340,000 euros as a mere rebranding of 'e-katanalotis'. He stressed the ongoing decline in purchasing power, with Greece ranked last in Europe and baby milk 30% more expensive, blaming the lack of controls and functioning competition committees."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "3e972f0c0000",
+          "title": "Δεκαετές πρόγραμμα 6,5 δισ. για το στεγαστικό",
+          "url": "https://www.kathimerini.gr/economy/local/564296683/dekaetes-programma-6-5-dis-gia-to-stegastiko/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T11:27:55+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Νομοσχέδιο του υπουργείου Κοινωνικής Συνοχής και Οικογένειας θεσπίζει εθνική στεγαστική στρατηγική 2026-2035 ύψους 6,5 δισ. ευρώ, με 14 νέα και 36 υφιστάμενα μέτρα. Περιλαμβάνει επέκταση του «Σπίτι μου» μέσω φορολογικών κινήτρων στις τράπεζες, νέα κατηγορία Golden Visa συνδεδεμένη με μακροχρόνια μίσθωση, μειωμένο ΦΠΑ για κοινωνικές κατοικίες και Ενιαίο Φορέα Στεγαστικής Πολιτικής. Το σχέδιο τίθεται σε δημόσια διαβούλευση μέχρι τις 3 Ιουλίου.",
+            "en": "A bill from the Ministry of Social Cohesion and Family establishes a 2026-2035 national housing strategy worth 6.5 billion euros, combining 14 new and 36 existing measures. It expands the \"My Home\" scheme via tax incentives to banks, introduces a new Golden Visa category tied to long-term rentals, reduced VAT for social housing, and a unified Housing Policy Authority. The plan is in public consultation until July 3."
+          }
+        },
+        {
+          "id": "01e2100bd064",
+          "title": "Η συμφωνία μειώνει τον κίνδυνο στασιμοπληθωρισμού",
+          "url": "https://www.kathimerini.gr/economy/international/564296755/i-symfonia-meionei-ton-kindyno-stasimoplithorismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T08:46:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Η υπογραφή μνημονίου κατανόησης 14 σημείων μεταξύ ΗΠΑ και Ιράν, μετά από 3,5 μήνες εντάσεων, μειώνει τον κίνδυνο στασιμοπληθωρισμού στην παγκόσμια οικονομία. Το επανάνοιγμα των Στενών του Ορμούζ και η αποκατάσταση των ροών πετρελαίου περιορίζουν την πιθανότητα νέου ενεργειακού σοκ. Ωστόσο η πλήρης ομαλοποίηση θα απαιτήσει εβδομάδες ή μήνες, με το Brent στα 79,60 δολάρια το βαρέλι, 19% υψηλότερα από τις αρχές του έτους.",
+            "en": "A 14-point memorandum of understanding between the US and Iran, after 3.5 months of tensions, reduces the risk of stagflation in the global economy. The reopening of the Strait of Hormuz and restoration of oil flows limit the chance of a new energy shock. However, full normalization will take weeks or months, with Brent at $79.60 per barrel, 19% above the start of the year."
+          }
+        },
+        {
+          "id": "724eb6e9838a",
+          "title": "Η τεχνητή νοημοσύνη αυξάνει την παγκόσμια ισχύ των ΗΠΑ",
+          "url": "https://www.kathimerini.gr/economy/international/564296794/i-techniti-noimosyni-ayxanei-tin-pagkosmia-ischy-ton-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T09:27:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Σύμφωνα με ανάλυση του Economist, οι ΗΠΑ ενισχύουν την παγκόσμια ισχύ τους μέσω της κυριαρχίας στην τεχνητή νοημοσύνη, με την κυβέρνηση Τραμπ να διατάζει στις 12 Ιουνίου την Anthropic να αποκλείσει ξένους χρήστες από τα κορυφαία μοντέλα της. Οι ΗΠΑ ενδέχεται να κρατήσουν τις καλύτερες δυνατότητες AI για εσωτερική χρήση και να διαθέσουν υποδεέστερες εκδόσεις στους συμμάχους, όπως με τα F-35. Με 15 φορές περισσότερη υπολογιστική ισχύ από την Ευρώπη, η Ε.Ε. και η Ασία καλούνται να χτίσουν δικό τους οικοσύστημα AI.",
+            "en": "According to an Economist analysis, the US is bolstering its global power through AI dominance, with the Trump administration ordering Anthropic on June 12 to block foreign users from its top models. The US may keep its best AI capabilities for domestic use and offer weaker versions to allies, as it does with F-35 jets. With 15 times more computing power than Europe, the EU and Asia are urged to build their own AI ecosystems."
+          }
+        },
+        {
+          "id": "dad3c6a2bb7c",
+          "title": "Τρία ευρώ για να φρενάρει η κινεζική επέλαση",
+          "url": "https://www.kathimerini.gr/visual/infographics/564296689/tria-eyro-gia-na-frenarei-i-kineziki-epelasi/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:42:45+03:00",
+          "importance": 68,
+          "summary": {
+            "el": "Από την 1η Ιουλίου 2026 η Ε.Ε. επιβάλλει δασμό 3 ευρώ ανά τεμάχιο σε μικροδέματα αξίας κάτω των 150 ευρώ από τρίτες χώρες, με στόχο να φρενάρει τις κινεζικές πλατφόρμες Temu, Shein και Aliexpress. Το 2025 εισήχθησαν 5,88 δισ. τέτοια δέματα, με το 93% του όγκου να προέρχεται από την Κίνα. Οι πλατφόρμες αντιδρούν δημιουργώντας αποθήκες εντός Ε.Ε. για να αποφύγουν την επιβάρυνση.",
+            "en": "From July 1, 2026, the EU imposes a 3-euro duty per item on small parcels worth under 150 euros from third countries, aiming to curb Chinese platforms Temu, Shein and Aliexpress. In 2025, 5.88 billion such parcels were imported, with 93% of volume coming from China. The platforms are responding by building warehouses within the EU to avoid the charge."
+          }
+        },
+        {
+          "id": "4f468895c1fe",
+          "title": "Εκπληξη στη Ρωσία με συγκρατημένη μείωση επιτοκίων",
+          "url": "https://www.kathimerini.gr/economy/international/564296740/ekplixi-sti-rosia-me-sygkratimeni-meiosi-epitokion/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T08:54:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Η κεντρική τράπεζα της Ρωσίας εξέπληξε τους αναλυτές μειώνοντας το βασικό επιτόκιο μόλις κατά 25 μονάδες βάσης, στο 14,25%, αντί του αναμενόμενου 14%. Ο πληθωρισμός επιβραδύνθηκε στο 5,3% τον Μάιο, χαμηλότερος σχεδόν τριετίας, ενισχυόμενος από την ανατίμηση του ρουβλίου λόγω υψηλότερων τιμών πετρελαίου. Η τράπεζα προειδοποίησε ότι οι πληθωριστικοί κίνδυνοι παραμένουν, με την επόμενη συνεδρίαση στις 24 Ιουλίου.",
+            "en": "Russia's central bank surprised analysts by cutting its key rate by just 25 basis points to 14.25%, instead of the expected 14%. Inflation slowed to 5.3% in May, a near three-year low, supported by ruble appreciation driven by higher oil prices. The bank warned that inflationary risks persist, with the next meeting set for July 24."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "b442c04eb113",
+          "title": "17χρονοι απειλούσαν ανήλικες αποσπώντας πορνογραφικό υλικό – Δύο συλλήψεις",
+          "url": "https://www.kathimerini.gr/society/astynomiko/564298270/17chronoi-apeiloysan-anilikes-apospontas-pornografiko-yliko-dyo-syllipseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T19:45:57+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Δύο 17χρονοι συνελήφθησαν στην Κρήτη και τη Θεσσαλονίκη για απειλές και εκβιασμό ανήλικων κοριτσιών με σκοπό την απόσπαση πορνογραφικού υλικού. Σύμφωνα με τις Αρχές, παρότρυναν τα θύματα σε αυτοτραυματισμό και ενεργούσαν στο πλαίσιο εξτρεμιστικής-σαδιστικής ομάδας με διεθνή δράση. Κατασχέθηκε ψηφιακό υλικό σεξουαλικής κακοποίησης που θα εξεταστεί εργαστηριακά.",
+            "en": "Two 17-year-olds were arrested in Crete and Thessaloniki for threatening and blackmailing underage girls to extract pornographic material. Authorities say they pushed victims toward self-harm and operated within an extremist-sadistic abuse group with international reach. Seized digital evidence of child sexual abuse will undergo forensic examination."
+          }
+        },
+        {
+          "id": "3518746520be",
+          "title": "Το «Ελ Νίνιο» στο μικροσκόπιο του Κολούμπια: Τι δείχνουν τα κλιματικά μοντέλα για Ελλάδα και Μεσόγειο",
+          "url": "https://www.kathimerini.gr/society/reportaz/564293035/to-el-ninio-sto-mikroskopio-toy-koloympia-ti-deichnoyn-ta-klimatika-montela-gia-ellada-kai-mesogeio/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T11:02:11+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Επιστήμονες από τη NOAA και το Πανεπιστήμιο Κολούμπια προειδοποιούν ότι το φαινόμενο «Ελ Νίνιο» έχει ήδη εγκατασταθεί στον τροπικό Ειρηνικό και ενδέχεται να εξελιχθεί σε ένα από τα ισχυρότερα από το 1950. Εκτιμάται 63% πιθανότητα για πολύ ισχυρό επεισόδιο μεταξύ Νοεμβρίου-Ιανουαρίου, που θα μπορούσε να κάνει το 2026 ή 2027 το θερμότερο έτος παγκοσμίως. Για την ανατολική Ελλάδα προβλέπονται αυξημένες βροχοπτώσεις το φθινόπωρο και πιο ήπιος χειμώνας.",
+            "en": "Scientists from NOAA and Columbia University warn that El Nino has already set in over the tropical Pacific and could become one of the strongest since 1950. There is a 63% chance of a very strong episode between November and January, which could make 2026 or 2027 the hottest year on record globally. For eastern Greece, models indicate increased autumn rainfall and a milder winter."
+          }
+        },
+        {
+          "id": "e90417277cdb",
+          "title": "Χανιά: Εντοπίστηκε η σορός της 45χρονης Σταυρούλας – Ομολόγησε ο 43χρονος",
+          "url": "https://www.kathimerini.gr/society/564298558/chania-entopistike-i-soros-tis-45chronis-stayroylas-omologise-o-43chronos/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T09:50:15+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Εντοπίστηκε η σορός της 45χρονης Σταυρούλας Λεβεντάκη που αγνοούνταν στα Χανιά, σε χωράφι περίπου 5 χιλιόμετρα από το σπίτι της. Ο 43χρονος ενοικιαστής με καταγωγή από τη Βόρεια Μακεδονία φέρεται να ομολόγησε ότι, μετά από καβγά για το σπίτι, τη σκότωσε με μαχαίρι και έθαψε τη σορό. Είχε αρχικά συλληφθεί για υπόθεση ναρκωτικών και αρνούνταν κάθε εμπλοκή.",
+            "en": "The body of 45-year-old Stavroula Leventaki, missing in Chania, was found buried in a field about 5 kilometers from her home. The 43-year-old tenant, of North Macedonian origin, reportedly confessed that after an argument over the house he stabbed her to death and buried the body. He had initially been arrested in a drugs case and had denied any involvement."
+          }
+        },
+        {
+          "id": "fe67bc0f3ac0",
+          "title": "Εύβοια: Οριοθετήθηκε η φωτιά στην Κάρυστο",
+          "url": "https://www.kathimerini.gr/society/564298438/eyvoia-oriothetithike-i-fotia-stin-karysto/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T23:56:13+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Οριοθετήθηκε η πυρκαγιά που ξέσπασε στον Αλμυροπόταμο της Καρύστου στην Εύβοια έπειτα από μάχη ωρών. Στο σημείο επιχείρησαν 120 πυροσβέστες με 35 οχήματα και εθελοντές, ενώ ισχυροί άνεμοι δυσκόλεψαν το έργο τους. Οι κατοικημένες περιοχές Μεσοχώρια και Ραπταίοι που εκκενώθηκαν προληπτικά μέσω 112 δεν κινδύνευσαν.",
+            "en": "A wildfire that broke out in Almyropotamos near Karystos, Evia, was contained after hours of effort. 120 firefighters with 35 vehicles and volunteers operated at the scene amid strong winds. The residential areas of Mesochoria and Raptaioi, evacuated preemptively via the 112 system, were not endangered."
+          }
+        },
+        {
+          "id": "9400f83b9ca1",
+          "title": "Αυθαίρετο μπιτς μπαρ για πελάτες κρουαζιέρας",
+          "url": "https://www.kathimerini.gr/society/reportaz/564296383/aythaireto-mpits-mpar-gia-pelates-kroyazieras/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T22:36:36+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ο Δήμος Θήρας κατήγγειλε αυθαίρετες κατασκευές σε beach bar στη Βλυχάδα Σαντορίνης, το οποίο εξαγοράστηκε από ξένη εταιρεία κρουαζιέρας και διαφημίζεται ως ιδιωτικό club για πελάτες της. Έχει ασφαλτοστρωθεί δρόμος και τοποθετηθεί ογκόλιθοι, αλλοιώνοντας το μοναδικό τοπίο, ενώ περιορίζεται η πρόσβαση στην παραλία. Οι κατασκευές παραβιάζουν το Προεδρικό Διάταγμα του 1990 για τη δόμηση κοντά στον αιγιαλό.",
+            "en": "The Municipality of Thira filed a complaint over illegal construction at a beach bar in Vlychada, Santorini, which was bought by a foreign cruise company and marketed as a private club for its customers. A road was paved and boulders placed, altering the unique landscape, while public access to the beach is being restricted. The structures violate a 1990 presidential decree on construction near the shoreline."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "fa6d11d5a0b1",
+          "title": "Μέση Ανατολή: Εναρξη νέων συνομιλιών σε θολό τοπίο",
+          "url": "https://www.kathimerini.gr/world/564298483/mesi-anatoli-enarxi-neon-synomilion-se-tholo-topio/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T07:25:53+00:00",
+          "importance": 92,
+          "summary": {
+            "el": "Νέος γύρος συνομιλιών ΗΠΑ-Ιράν ξεκινά στην Ελβετία με στόχο τον τερματισμό του πολέμου στη Μέση Ανατολή, παρά το αμφισβητούμενο κλείσιμο των Στενών του Ορμούζ από το Ιράν. Οι διαπραγματεύσεις, που ακολουθούν αρχική συμφωνία με ορίζοντα 60 ημερών, υπονομεύονται από τις συνεχιζόμενες ισραηλινές επιδρομές στον Λίβανο, όπου σκοτώθηκαν τουλάχιστον 47 άνθρωποι.",
+            "en": "A new round of US-Iran talks opens in Switzerland aiming to end the Middle East war, despite Iran's disputed claim of closing the Strait of Hormuz. The negotiations, following an initial 60-day-framework agreement, are undermined by ongoing Israeli strikes in Lebanon, where at least 47 people were killed."
+          }
+        },
+        {
+          "id": "474ecefcf29b",
+          "title": "ΗΠΑ – Ιράν: Αφιξη Βανς στην Ελβετία για τις νέες συνομιλίες",
+          "url": "https://www.kathimerini.gr/world/564298519/ipa-iran-afixi-vans-stin-elvetia-gia-tis-nees-synomilies/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T08:19:09+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Ο αντιπρόεδρος των ΗΠΑ Τζέι Ντι Βανς έφτασε στην Ελβετία για τις νέες συνομιλίες με το Ιράν, με στόχο τον διαρκή τερματισμό του πολέμου στη Μέση Ανατολή. Προσγειώθηκε με τη σύζυγό του στην αεροπορική βάση του Έμεν κοντά στη Λουκέρνη.",
+            "en": "US Vice President JD Vance arrived in Switzerland for the new talks with Iran, aiming for a lasting end to the Middle East war. He landed with his wife at the Emmen air base near Lucerne."
+          }
+        },
+        {
+          "id": "921014830b25",
+          "title": "Τραμπ: Δεν θα επιβληθούν διόδια στα Στενά του Ορμούζ, παρεκτός κι αν τα θέσουν οι ΗΠΑ",
+          "url": "https://www.kathimerini.gr/world/564298447/tramp-den-tha-epivlithoyn-diodia-sta-stena-toy-ormoyz-parektos-ki-an-ta-thesoyn-oi-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T23:30:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ δήλωσε ότι δεν θα επιβληθούν διόδια στα Στενά του Ορμούζ κατά την 60ήμερη εκεχειρία, εκτός αν τα επιβάλουν οι ΗΠΑ σε περίπτωση αποτυχίας της συμφωνίας. Το Ιράν ανακοίνωσε εκ νέου κλείσιμο των Στενών λόγω των ισραηλινών επιχειρήσεων στον Λίβανο, ισχυρισμό που διέψευσε ο αμερικανικός στρατός.",
+            "en": "Donald Trump said no tolls will be imposed on the Strait of Hormuz during the 60-day truce, unless set by the US should the deal collapse. Iran announced a renewed closure of the strait over Israeli operations in Lebanon, a claim disputed by the US military."
+          }
+        },
+        {
+          "id": "dc2e00759e45",
+          "title": "Ουκρανία: Τρεις νεκροί έπειτα από ρωσικές επιθέσεις στο ανατολικό τμήμα της χώρας",
+          "url": "https://www.kathimerini.gr/world/564298525/oykrania-treis-nekroi-epeita-apo-rosikes-epitheseis-sto-anatoliko-tmima-tis-choras/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T10:48:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Τουλάχιστον τρεις άνθρωποι σκοτώθηκαν και δεκάδες τραυματίστηκαν σε ρωσικά πλήγματα με βομβαρδισμούς, drones και πυροβολικό στις περιφέρειες Πολτάβα και Ντνιπροπετρόφσκ της ανατολικής Ουκρανίας. Η Ρωσία ανακοίνωσε ότι κατέρριψε 239 ουκρανικά drones στη διάρκεια της νύχτας.",
+            "en": "At least three people were killed and dozens wounded in Russian strikes involving shelling, drones and artillery in Ukraine's eastern Poltava and Dnipropetrovsk regions. Russia said it shot down 239 Ukrainian drones overnight."
+          }
+        },
+        {
+          "id": "2e84ea72eba4",
+          "title": "Ο Ζελένσκι επέστρεψε στη Βαρσοβία το παράσημο που του είχε απονεμηθεί",
+          "url": "https://www.kathimerini.gr/world/564298366/zelenski-epestrepse-sti-varsovia-to-tagma-toy-leykoy-aetoy-tin-anotati-diakrisi-poy-toy-eiche-aponemithei/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T23:00:10+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο Βολοντίμιρ Ζελένσκι επέστρεψε στην Πολωνία το Τάγμα του Λευκού Αετού, αφού ο Πολωνός πρόεδρος Ναβρότσκι αποφάσισε να του το αφαιρέσει εξαιτίας της απόφασης να δοθεί σε στρατιωτική μονάδα το όνομα της εθνικιστικής UPA. Η διπλωματική κρίση πηγάζει από διαφορετικές ερμηνείες ιστορικών σφαγών Πολωνών κατά τον Β΄ Παγκόσμιο Πόλεμο.",
+            "en": "Volodymyr Zelensky returned Poland's Order of the White Eagle after Polish President Nawrocki moved to strip him of it over the naming of a military unit after the nationalist UPA. The diplomatic crisis stems from conflicting interpretations of WWII-era massacres of Poles."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 10,
+      "top_items": [
+        {
+          "id": "f6961e39153c",
+          "title": "Ιχνηλατώντας γυναικοκτόνους",
+          "url": "https://www.kathimerini.gr/opinion/564296281/ichnilatontas-gynaikoktonoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:07:00+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Ο αρθρογράφος υποστηρίζει ότι η εμμονική αναζήτηση «προειδοποιητικών σημαδιών» μετά από κάθε γυναικοκτονία αποσκοπεί κυρίως στην αποποίηση ευθυνών, αφού οι κακοποιητές κρύβουν επιδέξια την επικινδυνότητά τους. Θεωρεί ότι η ρίζα του εγκλήματος είναι ο «μέσος μισογυνισμός» που προϋπάρχει της ψυχοπαθολογίας του δράστη και κατευθύνει το μίσος προς τη γυναίκα ως κτήμα. Καταλήγει ότι, μέχρι να λειτουργήσουν θεσμοί και πρόληψη, οι γυναίκες πρέπει να εκπαιδεύονται στην έγκαιρη ανίχνευση του κινδύνου και στην αυτοπροστασία.",
+            "en": "The columnist argues that the obsessive search for warning signs after each femicide mainly serves to deflect responsibility, since abusers skillfully hide their dangerousness. He contends the crime's root is an 'average misogyny' that precedes the killer's psychopathology and directs hatred toward the woman as property. He concludes that, until institutions and prevention work, women must be trained to detect danger early and protect themselves."
+          }
+        },
+        {
+          "id": "ef399a313478",
+          "title": "Οι εξαρτήσεις της Δικαιοσύνης",
+          "url": "https://www.kathimerini.gr/opinion/564296446/oi-exartiseis-tis-dikaiosynis/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:12:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο αρθρογράφος σχολιάζει τη συζήτηση για τον τρόπο επιλογής της ηγεσίας των ανωτάτων δικαστηρίων, συμφωνώντας με τη Σακελλαροπούλου ότι η αυτόνομη επιλογή από τους ίδιους τους δικαστές δημιουργεί προβληματικά στεγανά. Υποστηρίζει όμως ότι το σημερινό σύστημα δεν είναι ανεξάρτητο αλλά εξαρτημένο από τον εκάστοτε πρωθυπουργό. Προτείνει ένα διευρυμένο εκλεκτορικό σώμα με βουλευτές και αυτοδιοικητικούς, όπου οι αναπόφευκτες εξαρτήσεις αλληλοεξουδετερώνονται και εκφράζεται γνησιότερα η λαϊκή κυριαρχία.",
+            "en": "The columnist comments on the debate over how to select the leadership of the supreme courts, agreeing with former President Sakellaropoulou that having judges choose autonomously creates problematic insularity. He argues, however, that the current system is not independent but dependent on the sitting prime minister. He favors a broadened electoral body including MPs and local officials, where inevitable dependencies cancel each other out and popular sovereignty is more genuinely expressed."
+          }
+        },
+        {
+          "id": "1f7af79385f2",
+          "title": "To μοντέλο του απόλυτου χάους",
+          "url": "https://www.kathimerini.gr/opinion/564296455/to-montelo-toy-apolytoy-chaoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:09:00+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο αρθρογράφος αναλύει το σενάριο η ΝΔ να πέσει κάτω από το 25%, οπότε χάνει το μπόνους και ισχύει απλή αναλογική, καθιστώντας ανέφικτο τον σχηματισμό κυβέρνησης σε μια κατακερματισμένη, ίσως δεκακομματική Βουλή. Κατηγορεί όσους επιδιώκουν αυτό το αποτέλεσμα ότι δρουν από «ηροστράτειο» μίσος για τον Μητσοτάκη, διακινδυνεύοντας τη χώρα εν μέσω εθνικών κινδύνων. Καθησυχάζει ότι οι δημοσκοπήσεις δίνουν τη ΝΔ στο 29-31%, άρα το χαοτικό σενάριο είναι απίθανο.",
+            "en": "The columnist analyzes the scenario of New Democracy falling below 25%, losing the seat bonus and triggering pure proportional representation, making government formation impossible in a fragmented, possibly ten-party parliament. He accuses those seeking this outcome of acting out of 'Herostratic' hatred for Mitsotakis, gambling the country amid national risks. He reassures that polls put New Democracy at 29-31%, so the chaotic scenario is unlikely."
+          }
+        },
+        {
+          "id": "056bc9a62813",
+          "title": "Η δωρεάν επιστροφή στο φαύλο παρελθόν",
+          "url": "https://www.kathimerini.gr/opinion/564296452/i-dorean-epistrofi-sto-faylo-parelthon/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:04:00+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ο αρθρογράφος επικρίνει το προεκλογικό «παζάρι» δωρεάν παροχών που άνοιξε με την πρόταση Ανδρουλάκη για δωρεάν μετακινήσεις των νέων και κλιμακώθηκε με τον Τσίπρα να προσφέρει δωρεάν συγκοινωνίες σχεδόν για όλους. Υπενθυμίζει ότι «το δωρεάν δεν υπάρχει» και ότι τον λογαριασμό, ιδίως όταν χρηματοδοτείται με δανεικά, τον πληρώνει ο φορολογούμενος και οι επόμενες γενιές. Προειδοποιεί ότι τέτοιες παροχές γίνονται μόνιμα κεκτημένα και θυμίζει το φαύλο παρελθόν που οδήγησε στα μνημόνια.",
+            "en": "The columnist criticizes the pre-election bidding war of free handouts, opened by Androulakis's proposal for free transit for young people and escalated by Tsipras offering nearly universal free transport. He stresses that 'free does not exist' and that the bill, especially when debt-financed, is paid by taxpayers and future generations. He warns such giveaways become permanent entitlements and recalls the ruinous past that led to the bailout memoranda."
+          }
+        },
+        {
+          "id": "af097054c0d9",
+          "title": "Ο βάλτος της Ουάσιγκτον",
+          "url": "https://www.kathimerini.gr/opinion/564296464/o-valtos-tis-oyasigkton/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:06:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ο αρθρογράφος χρησιμοποιεί την αποτυχημένη υπόσχεση του Τραμπ να καθαρίσει το κανάλι μπροστά στο μνημείο του Λίνκολν ως αλληγορία για όλη τη διακυβέρνησή του. Περιγράφει πώς το έργο δόθηκε με απευθείας ανάθεση σε άπειρη εταιρεία, κόστισε σχεδόν οκταπλάσια, καθυστέρησε και απέτυχε παταγωδώς. Καταλήγει ότι ο Τραμπ, αντί να «αποστραγγίσει τον βάλτο» του 2016, έστησε μια πρωτοφανή κλεπτοκρατία ικανή μόνο να κλέβει και ανίκανη να υλοποιεί πολιτικές.",
+            "en": "The columnist uses Trump's failed promise to clean the reflecting pool by the Lincoln Memorial as an allegory for his entire administration. He describes how the project was directly awarded to an inexperienced firm, cost nearly eight times more, ran for months and failed spectacularly. He concludes that Trump, rather than 'draining the swamp' as promised in 2016, built an unprecedented kleptocracy able only to steal and incapable of implementing policy."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 10,
+      "top_items": [
+        {
+          "id": "901b184346cd",
+          "title": "Πρεμιέρα για τη «Γυναίκα πίσω από τον Ελγιν» στο Μουσείο της Ακρόπολης",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564296242/premiera-gia-ti-gynaika-piso-apo-ton-elgin-sto-moyseio-tis-akropolis/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T09:37:00+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Στο Μουσείο της Ακρόπολης έκανε πρεμιέρα το δραματοποιημένο ντοκιμαντέρ της Μιμής Ντενίση «Η γυναίκα πίσω από τον Ελγιν», που αφηγείται την ιστορία των Γλυπτών του Παρθενώνα μέσα από τη ματιά της συζύγου του λόρδου Ελγιν, Μαίρης Νίσμπετ. Η παραγωγή, βασισμένη σε αναξιοποίητες επιστολές, παρουσιάστηκε παρουσία του Προέδρου της Δημοκρατίας Κωνσταντίνου Τασούλα και πλήθους προσωπικοτήτων. Το έργο εντάσσεται στον διεθνή αγώνα για την επανένωση των Γλυπτών.",
+            "en": "Mimi Denissi's dramatized documentary \"The Woman Behind Elgin\" premiered at the Acropolis Museum, telling the story of the Parthenon Marbles through the eyes of Lord Elgin's wife, Mary Nisbet. Based on previously unused letters, it was screened in the presence of President Konstantinos Tasoulas and many notable figures. The project supports the international campaign for the reunification of the Marbles."
+          }
+        },
+        {
+          "id": "abc55219e8f4",
+          "title": "20 χρόνια LIFO: Ποιοι έδωσαν το «παρών» στην έκθεση Lifo Portraits",
+          "url": "https://www.kathimerini.gr/culture/564298000/20-chronia-lifo-poioi-edosan-to-paron-stin-ekthesi-lifo-portraits/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T13:19:55+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Με αφορμή τα 20 χρόνια της LiFO, εγκαινιάστηκε στις 18 Ιουνίου η έκθεση LiFO Portraits στον ιστορικό Ατμοηλεκτρικό Σταθμό Νέου Φαλήρου της ΔΕΗ. Ο εκδότης Στάθης Τσαγκαρουσιάνος αφιέρωσε την έκθεση στους Έλληνες καλλιτέχνες που πέρασαν από τις σελίδες του εντύπου. Στα εγκαίνια παρευρέθηκαν ο Πρόεδρος της Δημοκρατίας, η υπουργός Πολιτισμού και πλήθος προσωπικοτήτων της τέχνης.",
+            "en": "Marking LiFO's 20th anniversary, the LiFO Portraits exhibition opened on 18 June at the historic Neo Faliro power station. Publisher Stathis Tsangarousianos dedicated the show to the Greek artists featured over the magazine's two decades. The opening drew the President of the Republic, the Culture Minister and numerous arts figures."
+          }
+        },
+        {
+          "id": "d30f1b594c4d",
+          "title": "Σαν άτυπο ημερολόγιο",
+          "url": "https://www.kathimerini.gr/culture/arts/564296488/san-atypo-imerologio/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T09:46:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η Δημοτική Πινακοθήκη Χανίων φιλοξενεί την αναδρομική έκθεση «Κινδύνεψα μόνο από ανεξέλεγκτες σκέψεις» του εικαστικού Αλέξανδρου Ψυχούλη, σε επιμέλεια Χριστόφορου Μαρίνου. Περίπου 150 έργα καλύπτουν 40 χρόνια δημιουργίας, με χαρακτηριστικό υλικό το κορδόνι και κεντρικό έργο μια γιγαντιαία φάλαινα επτά μέτρων. Η έκθεση λειτουργεί σαν προσωπικό ημερολόγιο, με βαθιά αυτοβιογραφικές αναφορές του καλλιτέχνη.",
+            "en": "The Chania Municipal Gallery presents \"I Was Only Endangered by Uncontrolled Thoughts,\" a retrospective of visual artist Alexandros Psychoulis, curated by Christoforos Marinos. Around 150 works span 40 years, with cord as a signature material and a seven-metre whale as a central piece. The show reads like a personal diary rooted in the artist's own life."
+          }
+        },
+        {
+          "id": "970236e15899",
+          "title": "Η Amazon αποσύρει την ταινία του Λούκα Γκουαντανίνο για τον Σαμ Αλτμαν",
+          "url": "https://www.kathimerini.gr/culture/cinema/564297844/i-amazon-aposyrei-tin-tainia-toy-loyka-gkoyantanino-gia-ton-sam-altman/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T15:31:49+00:00",
+          "importance": 55,
+          "summary": {
+            "el": "Τα Amazon MGM Studios απέσυραν τη σχεδόν ολοκληρωμένη ταινία «Artificial» του Λούκα Γκουαντανίνο για τον Σαμ Άλτμαν, με τον Άντριου Γκάρφιλντ στον ρόλο του CEO της OpenAI. Η κίνηση συνδέεται με την τεράστια συνεργασία της Amazon με την OpenAI, που περιλάμβανε επένδυση 50 δισ. δολαρίων. Η ταινία, που δεν θεωρείται κολακευτική για τον Άλτμαν, αναμένεται να κυκλοφορήσει από άλλο στούντιο.",
+            "en": "Amazon MGM Studios pulled Luca Guadagnino's nearly finished film \"Artificial\" about Sam Altman, with Andrew Garfield as the OpenAI CEO. The move follows Amazon's massive partnership with OpenAI, including a 50-billion-dollar investment. The film, reportedly unflattering to Altman, is expected to be released by a different studio."
+          }
+        },
+        {
+          "id": "b6f0ee139626",
+          "title": "Το αποτύπωμα των ατμοπλοίων «Πηλέας» και «Διαμαντής»",
+          "url": "https://www.kathimerini.gr/culture/books/564296497/to-apotypoma-ton-atmoploion-pileas-kai-diamantis/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T11:14:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Το βιβλίο του Δημήτρη Καραΐσκου «1939-1945 Ατλαντικός: Πηλέας και Διαμαντής» (εκδ. Ψυχογιός) ανασύρει τη ξεχασμένη ιστορία των Ελλήνων εμποροναυτών στη μάχη του Ατλαντικού. Μέσα από τη βύθιση δύο ατμόπλοιων αναδεικνύονται δύο αντίθετες όψεις του πολέμου: μια πράξη ιπποσύνης και ένα αποτρόπαιο έγκλημα. Το βιβλίο, μέρος της σειράς «Ιστορίες πολέμου», παρουσιάζεται στις 25 Ιουνίου στην Αθήνα.",
+            "en": "Dimitris Karaiskos's book \"1939-1945 Atlantic: Pileas and Diamantis\" (Psichogios) recovers the forgotten story of Greek merchant sailors in the Battle of the Atlantic. Through the sinking of two steamships it portrays two opposite faces of war: an act of chivalry and a heinous crime. Part of the \"War Stories\" series, it will be presented in Athens on 25 June."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "b442c04eb113",
+          "title": "17χρονοι απειλούσαν ανήλικες αποσπώντας πορνογραφικό υλικό – Δύο συλλήψεις",
+          "url": "https://www.kathimerini.gr/society/astynomiko/564298270/17chronoi-apeiloysan-anilikes-apospontas-pornografiko-yliko-dyo-syllipseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T19:45:57+00:00",
+          "category": "society",
+          "importance": 85,
+          "summary": {
+            "el": "Δύο 17χρονοι συνελήφθησαν στην Κρήτη και τη Θεσσαλονίκη για απειλές και εκβιασμό ανήλικων κοριτσιών με σκοπό την απόσπαση πορνογραφικού υλικού. Σύμφωνα με τις Αρχές, παρότρυναν τα θύματα σε αυτοτραυματισμό και ενεργούσαν στο πλαίσιο εξτρεμιστικής-σαδιστικής ομάδας με διεθνή δράση. Κατασχέθηκε ψηφιακό υλικό σεξουαλικής κακοποίησης που θα εξεταστεί εργαστηριακά.",
+            "en": "Two 17-year-olds were arrested in Crete and Thessaloniki for threatening and blackmailing underage girls to extract pornographic material. Authorities say they pushed victims toward self-harm and operated within an extremist-sadistic abuse group with international reach. Seized digital evidence of child sexual abuse will undergo forensic examination."
+          },
+          "tags": {
+            "el": [
+              "κυβερνοέγκλημα",
+              "κακοποίηση ανηλίκων",
+              "συλλήψεις",
+              "διαδίκτυο"
+            ],
+            "en": [
+              "cybercrime",
+              "child abuse",
+              "arrests",
+              "internet"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "dc2e00759e45",
+          "title": "Ουκρανία: Τρεις νεκροί έπειτα από ρωσικές επιθέσεις στο ανατολικό τμήμα της χώρας",
+          "url": "https://www.kathimerini.gr/world/564298525/oykrania-treis-nekroi-epeita-apo-rosikes-epitheseis-sto-anatoliko-tmima-tis-choras/",
+          "source": "Kathimerini",
+          "published": "2026-06-21T10:48:00+00:00",
+          "category": "world",
+          "importance": 72,
+          "summary": {
+            "el": "Τουλάχιστον τρεις άνθρωποι σκοτώθηκαν και δεκάδες τραυματίστηκαν σε ρωσικά πλήγματα με βομβαρδισμούς, drones και πυροβολικό στις περιφέρειες Πολτάβα και Ντνιπροπετρόφσκ της ανατολικής Ουκρανίας. Η Ρωσία ανακοίνωσε ότι κατέρριψε 239 ουκρανικά drones στη διάρκεια της νύχτας.",
+            "en": "At least three people were killed and dozens wounded in Russian strikes involving shelling, drones and artillery in Ukraine's eastern Poltava and Dnipropetrovsk regions. Russia said it shot down 239 Ukrainian drones overnight."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "Πόλεμος",
+              "Drones"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "War",
+              "Drones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "724eb6e9838a",
+          "title": "Η τεχνητή νοημοσύνη αυξάνει την παγκόσμια ισχύ των ΗΠΑ",
+          "url": "https://www.kathimerini.gr/economy/international/564296794/i-techniti-noimosyni-ayxanei-tin-pagkosmia-ischy-ton-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T09:27:00+00:00",
+          "category": "economy",
+          "importance": 70,
+          "summary": {
+            "el": "Σύμφωνα με ανάλυση του Economist, οι ΗΠΑ ενισχύουν την παγκόσμια ισχύ τους μέσω της κυριαρχίας στην τεχνητή νοημοσύνη, με την κυβέρνηση Τραμπ να διατάζει στις 12 Ιουνίου την Anthropic να αποκλείσει ξένους χρήστες από τα κορυφαία μοντέλα της. Οι ΗΠΑ ενδέχεται να κρατήσουν τις καλύτερες δυνατότητες AI για εσωτερική χρήση και να διαθέσουν υποδεέστερες εκδόσεις στους συμμάχους, όπως με τα F-35. Με 15 φορές περισσότερη υπολογιστική ισχύ από την Ευρώπη, η Ε.Ε. και η Ασία καλούνται να χτίσουν δικό τους οικοσύστημα AI.",
+            "en": "According to an Economist analysis, the US is bolstering its global power through AI dominance, with the Trump administration ordering Anthropic on June 12 to block foreign users from its top models. The US may keep its best AI capabilities for domestic use and offer weaker versions to allies, as it does with F-35 jets. With 15 times more computing power than Europe, the EU and Asia are urged to build their own AI ecosystems."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "ΗΠΑ",
+              "γεωπολιτική",
+              "Anthropic"
+            ],
+            "en": [
+              "artificial intelligence",
+              "USA",
+              "geopolitics",
+              "Anthropic"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "af097054c0d9",
+          "title": "Ο βάλτος της Ουάσιγκτον",
+          "url": "https://www.kathimerini.gr/opinion/564296464/o-valtos-tis-oyasigkton/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T20:06:00+00:00",
+          "category": "opinion",
+          "importance": 64,
+          "summary": {
+            "el": "Ο αρθρογράφος χρησιμοποιεί την αποτυχημένη υπόσχεση του Τραμπ να καθαρίσει το κανάλι μπροστά στο μνημείο του Λίνκολν ως αλληγορία για όλη τη διακυβέρνησή του. Περιγράφει πώς το έργο δόθηκε με απευθείας ανάθεση σε άπειρη εταιρεία, κόστισε σχεδόν οκταπλάσια, καθυστέρησε και απέτυχε παταγωδώς. Καταλήγει ότι ο Τραμπ, αντί να «αποστραγγίσει τον βάλτο» του 2016, έστησε μια πρωτοφανή κλεπτοκρατία ικανή μόνο να κλέβει και ανίκανη να υλοποιεί πολιτικές.",
+            "en": "The columnist uses Trump's failed promise to clean the reflecting pool by the Lincoln Memorial as an allegory for his entire administration. He describes how the project was directly awarded to an inexperienced firm, cost nearly eight times more, ran for months and failed spectacularly. He concludes that Trump, rather than 'draining the swamp' as promised in 2016, built an unprecedented kleptocracy able only to steal and incapable of implementing policy."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "ΗΠΑ",
+              "διαφθορά",
+              "διακυβέρνηση"
+            ],
+            "en": [
+              "Trump",
+              "USA",
+              "corruption",
+              "governance"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "b61ab1b084f1",
+          "title": "Η ΑΙ στο μέλλον μπορεί να είναι μικρότερη, φθηνότερη και ασύμφορη",
+          "url": "https://www.kathimerini.gr/economy/564296659/i-ai-sto-mellon-mporei-na-einai-mikroteri-fthinoteri-kai-asymfori/",
+          "source": "Kathimerini",
+          "published": "2026-06-20T11:41:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Μελέτη του Πανεπιστημίου του Στάνφορντ διαπιστώνει ότι τα μικρά γλωσσικά μοντέλα (SLM) σε επιτραπέζιους υπολογιστές αποδίδουν εξίσου ή καλύτερα από τα μεγάλα μοντέλα σε πάνω από 80% των εργασιών, καταναλώνοντας 50-80% λιγότερη ενέργεια. Αυτό αμφισβητεί την ανάγκη για τεράστια κέντρα δεδομένων και θα μπορούσε να υπονομεύσει τις υψηλές αποτιμήσεις εταιρειών όπως OpenAI και Anthropic. Μια τέτοια εξέλιξη ενδέχεται να αντιστρέψει την άνθηση της τεχνητής νοημοσύνης.",
+            "en": "A Stanford University study finds that small language models (SLMs) on desktop computers perform as well as or better than large models in over 80% of tasks, while using 50-80% less energy. This challenges the need for massive data centers and could undermine the high valuations of companies like OpenAI and Anthropic. Such a shift might reverse the AI boom."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "data centers",
+              "γλωσσικά μοντέλα",
+              "επενδύσεις"
+            ],
+            "en": [
+              "artificial intelligence",
+              "data centers",
+              "language models",
+              "investment"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 60
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T09:23:17.166142+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφική ημέρα κυριαρχείται από τον φονικό καύσωνα που πλήττει τη δυτική Ευρώπη, με δεκάδες νεκρούς και ιστορικά υψηλές θερμοκρασίες σε Βρετανία, Γαλλία και Ελβετία, και τα συστήματα υγείας υπό πίεση. Στο εσωτερικό μέτωπο, η εσωκομματική σύγκρουση στον ΣΥΡΙΖΑ φουντώνει: ο πρόεδρος Σωκράτης Φάμελλος επιμένει στη συμπόρευση με το νέο κόμμα του Αλέξη Τσίπρα, ο Παύλος Πολάκης αποχωρεί από την Πολιτική Γραμματεία, ενώ η κυβέρνηση μέσω Μαρινάκη εξαπολύει πυρά κατά του πρώην πρωθυπουργού, σε ένα τοπίο ανασύνθεσης της κεντροαριστεράς. Στη διεθνή σκηνή, οι εντάσεις Ιράν–ΗΠΑ μετά τον πόλεμο στον Κόλπο παραμένουν στο επίκεντρο, με τα πλήγματα του Ιράν σε αμερικανικές βάσεις να αναγκάζουν την Ουάσιγκτον σε αναθεώρηση της στρατιωτικής της παρουσίας, ενώ συνεχίζονται οι διπλωματικές αντιπαραθέσεις για τον Ορμούζ και τον Λίβανο. Στην οικονομία ξεχωρίζει η τελική έγκριση της εμπορικής συμφωνίας ΕΕ-ΗΠΑ και οι ενδείξεις επίμονου πληθωρισμού, ενώ στα δικαστικά η προσφυγή Αβραμόπουλου κατά του ευρωπαϊκού εντάλματος για το Qatargate δίνει νέα ώθηση στη συζήτηση περί διαφάνειας.",
+    "en": "The day's news is dominated by the deadly heatwave gripping western Europe, with dozens of deaths and record temperatures in Britain, France and Switzerland and health systems under strain. Domestically, the internal conflict within SYRIZA is intensifying: leader Socrates Famellos insists on aligning with Alexis Tsipras's new party, Pavlos Polakis walks out of the political secretariat, and the government, via spokesman Marinakis, attacks the former prime minister, against a backdrop of centre-left realignment. Internationally, Iran-US tensions after the Gulf war remain central, with Iran's strikes on US bases forcing Washington to review its military presence, while diplomatic clashes over the Strait of Hormuz and Lebanon continue. In economics, the final approval of the EU-US trade deal and signs of persistent inflation stand out, while in the courts, Avramopoulos's appeal against the European arrest warrant over Qatargate revives the debate on transparency."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Φονικός καύσωνας στη δυτική Ευρώπη",
+        "en": "Deadly heatwave across western Europe"
+      },
+      "description": {
+        "el": "Πρωτοφανής καύσωνας πλήττει τη δυτική Ευρώπη με δεκάδες νεκρούς και ιστορικά υψηλές θερμοκρασίες σε Βρετανία, Γαλλία και Ελβετία, ενώ τα συστήματα υγείας δοκιμάζονται.",
+        "en": "An exceptional heatwave is hitting western Europe with dozens of deaths and record temperatures in Britain, France and Switzerland, straining health systems."
+      },
+      "related_items": [
+        "10eabb915bc0",
+        "3d4e5841e0fe"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Εσωκομματική κρίση στον ΣΥΡΙΖΑ και κίνηση Τσίπρα",
+        "en": "SYRIZA crisis and Tsipras's new party"
+      },
+      "description": {
+        "el": "Η σύγκρουση στον ΣΥΡΙΖΑ για τη συμπόρευση με το νέο κόμμα του Αλέξη Τσίπρα κορυφώνεται, με αποχώρηση Πολάκη από την Π.Γ. και κυβερνητικά πυρά, αναδιατάσσοντας την κεντροαριστερά.",
+        "en": "The SYRIZA conflict over aligning with Alexis Tsipras's new party is escalating, with Polakis walking out of the secretariat and government attacks, reshaping the centre-left."
+      },
+      "related_items": [
+        "2d1c0115a669",
+        "1929a10ff1b1",
+        "7a2c0f563c18",
+        "d90112debccc",
+        "13b5ebae7449"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Εντάσεις Ιράν–ΗΠΑ στη Μέση Ανατολή",
+        "en": "Iran-US tensions in the Middle East"
+      },
+      "description": {
+        "el": "Μετά τον πόλεμο στον Κόλπο, τα πλήγματα του Ιράν αλλάζουν τον στρατιωτικό χάρτη των ΗΠΑ, ενώ συνεχίζονται οι διπλωματικές αψιμαχίες για τον Ορμούζ και τον Λίβανο.",
+        "en": "After the Gulf war, Iran's strikes are reshaping the US military map, while diplomatic sparring over Hormuz and Lebanon continues."
+      },
+      "related_items": [
+        "f27be72d433d",
+        "ad0b7901bb3c",
+        "e88764b11e07",
+        "310c12665be2"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Έγκριση εμπορικής συμφωνίας ΕΕ-ΗΠΑ",
+        "en": "EU-US trade deal approved"
+      },
+      "description": {
+        "el": "Τα κράτη-μέλη της Ε.Ε. ενέκριναν τη νέα εμπορική συμφωνία με τις ΗΠΑ, καταργώντας δασμούς σε βιομηχανικά προϊόντα μετά από έναν χρόνο διαπραγματεύσεων.",
+        "en": "EU member states approved the new trade deal with the US, scrapping tariffs on industrial goods after a year of negotiations."
+      },
+      "related_items": [
+        "2f69ee1c0f5a"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Υπόθεση Αβραμόπουλου και Qatargate",
+        "en": "Avramopoulos case and Qatargate"
+      },
+      "description": {
+        "el": "Ο πρώην επίτροπος Δημήτρης Αβραμόπουλος προσφεύγει στον Άρειο Πάγο κατά του ευρωπαϊκού εντάλματος σύλληψης για το Qatargate, απορρίπτοντας τις κατηγορίες.",
+        "en": "Former commissioner Dimitris Avramopoulos is appealing to the Supreme Court against the European arrest warrant over Qatargate, rejecting the charges."
+      },
+      "related_items": [
+        "15442a3da576"
+      ],
+      "importance": 74
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 13,
+      "top_items": [
+        "15442a3da576",
+        "7a2c0f563c18",
+        "98ec02067552"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "2f69ee1c0f5a",
+        "ba140d986a4f",
+        "e7d041e425dc"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "a1ef8179791e",
+        "5e058f0c3dc1",
+        "29ca9b0dbe97"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "f27be72d433d",
+        "7803997e4e44",
+        "10eabb915bc0"
+      ]
+    },
+    "opinion": {
+      "item_count": 13,
+      "top_items": [
+        "b68b7e70c38e",
+        "310c12665be2",
+        "6c47e9c66ef8"
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        "9d999ed96ff6",
+        "235e3abb228b",
+        "10ba0030dae7"
+      ]
+    },
+    "ai": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "7803997e4e44",
+          "title": "Ρωσία: Εκατοντάδες ουκρανικά drones στους ρωσικούς ουρανούς – Κατάρριψη 660 από αυτά",
+          "url": "https://www.kathimerini.gr/world/564308749/rosia-ekatontades-oykranika-drones-stoys-rosikoys-oyranoys-katarripsi-660-apo-ayta/",
+          "source": "Kathimerini",
+          "published": "2026-06-26T09:21:57+00:00",
+          "category": "world",
+          "importance": 70,
+          "summary": {
+            "el": "Η ρωσική αντιαεροπορική άμυνα ανακοίνωσε ότι κατέρριψε 660 ουκρανικά drones μέσα σε μία νύχτα, έναν από τους υψηλότερους αριθμούς από την έναρξη του πολέμου, με στόχους σε δέκα και πλέον περιφέρειες, μεταξύ των οποίων η Μόσχα.",
+            "en": "Russia's air defence said it shot down 660 Ukrainian drones overnight, one of the highest figures since the war began, with targets across more than ten regions including Moscow."
+          },
+          "tags": {
+            "el": [
+              "Ρωσία",
+              "Ουκρανία",
+              "drones"
+            ],
+            "en": [
+              "Russia",
+              "Ukraine",
+              "drones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e7d041e425dc",
+          "title": "Apple: Αυξήσεις τιμών έως 25% λόγω ελλείψεων τσιπ μνήμης",
+          "url": "https://www.kathimerini.gr/economy/international/564308500/apple-ayxiseis-timon-eos-25-logo-elleipseon-tsip-mnimis/",
+          "source": "Kathimerini",
+          "published": "2026-06-26T09:45:00+00:00",
+          "category": "economy",
+          "importance": 62,
+          "summary": {
+            "el": "Η Apple ανακοίνωσε αυξήσεις τιμών 15% έως 25% σε MacBook και iPad λόγω της πρωτοφανούς έλλειψης τσιπ μνήμης, αφήνοντας ωστόσο αμετάβλητες τις τιμές των iPhone.",
+            "en": "Apple announced price increases of 15% to 25% on MacBooks and iPads due to an unprecedented memory-chip shortage, while leaving iPhone prices unchanged."
+          },
+          "tags": {
+            "el": [
+              "Apple",
+              "τσιπ μνήμης",
+              "τεχνολογία",
+              "τιμές"
+            ],
+            "en": [
+              "Apple",
+              "memory chips",
+              "technology",
+              "prices"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "a1ef8179791e",
+          "title": "Εντός διετίας η πρώτη αποστολή Ελληνα αστροναύτη στον ΔΔΣ",
+          "url": "https://www.kathimerini.gr/life/diastima/564309034/entos-dietias-i-proti-apostoli-ellina-astronayti-ston-dds/",
+          "source": "Kathimerini",
+          "published": "2026-06-26T11:35:21+00:00",
+          "category": "society",
+          "importance": 62,
+          "summary": {
+            "el": "Εντός διετίας σχεδιάζεται η πρώτη αποστολή Έλληνα αστροναύτη στον Διεθνή Διαστημικό Σταθμό, μετά την έναρξη εκπαίδευσης του Αδριανού Γολέμη στον ESA. Ο σχεδιασμός συζητήθηκε σε σύσκεψη υπό τον πρωθυπουργό Κυριάκο Μητσοτάκη.",
+            "en": "The first mission of a Greek astronaut to the International Space Station is planned within two years, after Adrianos Golemis began ESA training. The plan was discussed at a meeting chaired by PM Kyriakos Mitsotakis."
+          },
+          "tags": {
+            "el": [
+              "διάστημα",
+              "αστροναύτης",
+              "ΔΔΣ"
+            ],
+            "en": [
+              "space",
+              "astronaut",
+              "ISS"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "86d47c6b47f2",
+          "title": "Στη Hellenic Cables έργο 1,15 δισ. του ΑΔΜΗΕ",
+          "url": "https://www.kathimerini.gr/economy/diktis/564308548/sti-hellenic-cables-ergo-1-15-dis-toy-admie/",
+          "source": "Kathimerini",
+          "published": "2026-06-26T08:13:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Η Hellenic Cables, θυγατρική της Cenergy Holdings, επιλέχθηκε από τον ΑΔΜΗΕ για συμφωνία-πλαίσιο 1,15 δισ. ευρώ για τέσσερις ηλεκτρικές διασυνδέσεις νησιών στα Δωδεκάνησα και το Β. Αιγαίο, με ολοκλήρωση έως το 2031.",
+            "en": "Hellenic Cables, a Cenergy Holdings subsidiary, was selected by grid operator ADMIE for a €1.15bn framework deal for four island electricity interconnections in the Dodecanese and North Aegean, to be completed by 2031."
+          },
+          "tags": {
+            "el": [
+              "Hellenic Cables",
+              "ΑΔΜΗΕ",
+              "ενέργεια"
+            ],
+            "en": [
+              "Hellenic Cables",
+              "ADMIE",
+              "energy"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "74f279b96722",
+          "title": "Πρόγραμμα εκπαίδευσης στα ναυτικά drones",
+          "url": "https://www.kathimerini.gr/politics/amyna/564307996/programma-ekpaideysis-sta-naytika-drones/",
+          "source": "Kathimerini",
+          "published": "2026-06-26T07:34:07+00:00",
+          "category": "politics",
+          "importance": 56,
+          "summary": {
+            "el": "Ο πρωθυπουργός Κυριάκος Μητσοτάκης και ο υπουργός Άμυνας Νίκος Δένδιας ενημερώθηκαν για το πρόγραμμα εκπαίδευσης υποψήφιων αξιωματικών του Πολεμικού Ναυτικού στα ναυτικά drones, που υλοποιείται με το ΜΙΤ και το Ελληνικό Κέντρο Αμυντικής Καινοτομίας.",
+            "en": "PM Kyriakos Mitsotakis and Defence Minister Nikos Dendias were briefed on a training programme for naval-officer candidates in marine drones, run with MIT and the Hellenic Center for Defense Innovation."
+          },
+          "tags": {
+            "el": [
+              "ναυτικά drones",
+              "άμυνα",
+              "ΜΙΤ",
+              "τεχνολογία"
+            ],
+            "en": [
+              "naval drones",
+              "defence",
+              "MIT",
+              "technology"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+}

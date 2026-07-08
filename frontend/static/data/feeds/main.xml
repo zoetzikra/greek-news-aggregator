@@ -1,187 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top Stories</title>
+  <title>Greek News Digest</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <id>urn:greek-news-aggregator:2026-06-16</id>
-  <updated>2026-06-16T09:18:48.617366+00:00</updated>
+  <updated>2026-07-08T09:32:19.768482+00:00</updated>
+  <id>urn:greek-news-aggregator:feed</id>
   <entry>
-    <title>Με το στίγμα του Ισραήλ</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564282418/me-to-stigma-toy-israil/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564282418/me-to-stigma-toy-israil/</id>
-    <updated>2026-06-15T21:44:50+00:00</updated>
-    <author><name>Kathimerini</name></author>
+    <title>Τραμπ κατά πάντων: Διακοπή εμπορικών σχέσεων με Ισπανία – Τέλος η συμφωνία με το Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564331858/tramp-kata-panton-diakopi-emporikon-scheseon-me-ispania-telos-i-symfonia-me-to-iran/"/>
+    <id>urn:kathimerini:b7f6d20efc9e</id>
+    <updated>2026-07-08T11:39:16+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <summary>Donald Trump launched a fierce attack on allies at the NATO summit, announcing a break in trade ties with Spain and declaring the memorandum of understanding with Iran 'over', calling Iranians 'scum', while praising Erdogan.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Αρθρο Κωνσταντίνου Φίλη στην «Κ»: Παράσταση για δύο ηγέτες η σύνοδος του ΝΑΤΟ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564330889/arthro-konstantinoy-fili-stin-k-parastasi-gia-dyo-igetes-i-synodos-toy-nato/"/>
+    <id>urn:kathimerini:cbcf9d6a4349</id>
+    <updated>2026-07-08T12:17:08+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <summary>In a Kathimerini analysis, Konstantinos Filis argues the Ankara NATO summit is becoming a 'show for two leaders', Erdogan and Trump, seeking to revive US-Turkey ties. Erdogan has convinced Trump of Turkey's reliability.</summary>
     <category term="politics"/>
-    <summary>Athens&#x27;s close alliance with Netanyahu draws Ankara&#x27;s reaction and creates side-effects in Greece&#x27;s ties with other Middle East states. Israel&#x27;s volatile posture has become a fixed parameter of Greek foreign policy.</summary>
   </entry>
   <entry>
-    <title>Εγκρίθηκε η είσοδος της Chevron στο Βlock 10 του νοτίου Ιονίου</title>
-    <link href="https://www.kathimerini.gr/economy/local/564286894/egkrithike-i-eisodos-tis-chevron-sto-vlock-10-toy-notioy-ionioy/"/>
-    <id>https://www.kathimerini.gr/economy/local/564286894/egkrithike-i-eisodos-tis-chevron-sto-vlock-10-toy-notioy-ionioy/</id>
-    <updated>2026-06-16T08:54:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
+    <title>Μητσοτάκης στη Σύνοδο ΝΑΤΟ: Πρέπει να λαμβάνονται υπόψη οι ευαισθησίες όλων των κρατών-μελών</title>
+    <link href="https://www.kathimerini.gr/politics/564331702/mitsotakis-sti-synodo-nato-prepei-na-lamvanontai-ypopsi-oi-eyaisthisies-olon-ton-kraton-melon/"/>
+    <id>urn:kathimerini:0aec7a852cad</id>
+    <updated>2026-07-08T09:54:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>From the NATO summit, Mitsotakis stressed that an alliance must rest on good-neighbourly principles, raising Turkey's casus belli in the wake of the Trump-Erdogan talks on the F-35. He voiced support for European strategic autonomy.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Το «καλάθι» της Συνόδου: Υποσχέσεις αλλά όχι δεσμεύσεις</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564330769/to-kalathi-tis-synodoy-yposcheseis-alla-ochi-desmeyseis/"/>
+    <id>urn:kathimerini:4694e34db50f</id>
+    <updated>2026-07-07T23:12:42+00:00</updated>
+    <author><name>Σταύρος Ιωαννίδης</name></author>
+    <summary>A first-day wrap-up of the NATO summit: Trump's remarks on the F-35, lifting sanctions and selling engines for Turkey's KAAN jet left more questions than commitments. Erdogan did not secure an explicit F-35 pledge.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Πώς είδε τη συνάντηση Τραμπ – Ερντογάν η Αθήνα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564330904/pos-eide-ti-synantisi-tramp-erntogan-i-athina/"/>
+    <id>urn:kathimerini:24511e8fcb84</id>
+    <updated>2026-07-08T06:38:00+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <summary>Athens was aware early on of Trump's plans regarding Turkey's possible return to the F-35 programme. Any resolution of the CAATSA sanctions issue would not automatically clear the hurdle to exporting the fifth-generation jets.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Στην Αγκυρα ο Μητσοτάκης: Η υποδοχή Ερντογάν στο Λευκό Παλάτι (βίντεο)</title>
+    <link href="https://www.kathimerini.gr/politics/564330538/stin-agkyra-o-mitsotakis-i-ypodochi-erntogan-sto-leyko-palati-vinteo/"/>
+    <id>urn:kathimerini:59d91237a7a7</id>
+    <updated>2026-07-07T20:39:46+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Kyriakos Mitsotakis arrived in Ankara for the NATO summit, where Erdogan hosted an official dinner for the leaders. Athens is expected to stress its geopolitical importance and its consistency on the 5%-of-GDP defence-spending pledge.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Ουκρανία: Τρίτη ρωσική επίθεση κατά του Κιέβου σε μία εβδομάδα</title>
+    <link href="https://www.kathimerini.gr/world/564331627/oykrania-triti-rosiki-epithesi-kata-toy-kievoy-se-mia-evdomada/"/>
+    <id>urn:kathimerini:1405310b6464</id>
+    <updated>2026-07-08T09:14:29+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Russia launched a third ballistic-missile attack on Kyiv in a week, exploiting a shortage of interceptors, while the NATO summit is under way and Trump is due to meet Zelensky.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>«Αποφασίζει μόνο του το δίδυμο»</title>
+    <link href="https://www.kathimerini.gr/politics/564325261/apofasizei-mono-toy-to-didymo/"/>
+    <id>urn:kathimerini:9cfcb70949f0</id>
+    <updated>2026-07-07T18:55:49+00:00</updated>
+    <author><name>Νεκταρία Σταμούλη</name></author>
+    <summary>Maria Karystianou's 'Hope for Democracy' party appears to be collapsing before it is even formally founded, as members quit citing a lack of collective decision-making and a blurred political identity. Former members describe a tight inner circle around the leader.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Ρεκόρ χρηματοδότησης για εταιρείες AI από την αρχή του έτους</title>
+    <link href="https://www.kathimerini.gr/economy/business/564331354/rekor-chrimatodotisis-gia-etaireies-ai-apo-tin-archi-toy-etoys/"/>
+    <id>urn:kathimerini:11f45ba5c23b</id>
+    <updated>2026-07-08T09:37:00+00:00</updated>
+    <author><name>Δέσποινα Κόντη</name></author>
+    <summary>Global funding for AI companies hit a record of over 390 billion dollars in the first half, led by the US and Asia. Greek startups have raised more than 300 million dollars.</summary>
     <category term="economy"/>
-    <summary>Greece approved Chevron&#x27;s entry into Block 10 in the southern Ionian alongside HELLENiQ ENERGY via a farm-in. It is the fifth concession where the US major now operates in the country.</summary>
   </entry>
   <entry>
-    <title>Επλήγη η «καρδιά» της Λαύρας – «Το θέαμα ήταν εφιαλτικό»</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564286708/epligi-i-kardia-tis-layras-to-theama-itan-efialtiko/"/>
-    <id>https://www.kathimerini.gr/society/reportaz/564286708/epligi-i-kardia-tis-layras-to-theama-itan-efialtiko/</id>
-    <updated>2026-06-16T12:03:16+00:00</updated>
-    <author><name>Kathimerini</name></author>
+    <title>Ιράν: Η νεκρική πομπή του Χαμενεΐ πέρασε τα σύνορα και μπήκε στο Ιράκ [εικόνες]</title>
+    <link href="https://www.kathimerini.gr/world/564331759/iran-i-nekriki-pompi-toy-chamene-perase-ta-synora-kai-mpike-sto-irak-eikones/"/>
+    <id>urn:kathimerini:8a197a689f5c</id>
+    <updated>2026-07-08T11:00:33+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>The funeral procession of Iran's late leader Ali Khamenei, executed by Israel on 28 February, crossed the border into the holy Shiite city of Najaf in Iraq, where thousands of mourners chanted 'Death to America'.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Μέτωπο της Ν.Δ. με την ΕΛΑΣ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564330940/metopo-tis-n-d-me-tin-elas/"/>
+    <id>urn:kathimerini:44c1dbd823f1</id>
+    <updated>2026-07-08T09:13:45+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <summary>The government is trying to neutralise Alexis Tsipras's bid to claim the 'moral high ground' through his new ELAS party by constantly recalling SYRIZA's record in office. Corruption remains a weak point for the Mitsotakis government.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Ανοδος άνω του 3% στις τιμές του πετρελαίου μετά την ανάφλεξη στη Μέση Ανατολή</title>
+    <link href="https://www.kathimerini.gr/economy/564331669/anodos-ano-toy-3-stis-times-toy-petrelaioy-meta-tin-anaflexi-sti-mesi-anatoli/"/>
+    <id>urn:kathimerini:44a34353255b</id>
+    <updated>2026-07-08T09:29:38+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Oil prices rose more than 3% after fresh US strikes on Iran, with Brent at 76.54 dollars a barrel. Geopolitical tensions are fuelling market uncertainty.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Δανία: Ετοιμη να υπερασπιστεί τη Γροιλανδία δηλώνει η πρωθυπουργός</title>
+    <link href="https://www.kathimerini.gr/world/564331840/dania-etoimi-na-yperaspistei-ti-groilandia-dilonei-i-prothypoyrgos/"/>
+    <id>urn:kathimerini:3631742c25da</id>
+    <updated>2026-07-08T11:44:31+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Denmark pledged to defend Greenland after Trump's renewed insistence that the US should control it, which disrupted the NATO summit. PM Frederiksen called for the Greenlandic people's right to self-determination to be respected.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Σε τεντωμένο σχοινί ο ΣΥΡΙΖΑ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564330943/se-tentomeno-schoini-o-syriza-2/"/>
+    <id>urn:kathimerini:64d847fb51af</id>
+    <updated>2026-07-08T07:07:42+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <summary>Pavlos Polakis is escalating the internal fight in SYRIZA, demanding the reversal of the self-dissolution decision, the resignation of Socratis Famellos and putting himself forward for the leadership at Saturday's Central Committee meeting.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Τουρισμός: Μεγάλη μείωση αεροπορικών κρατήσεων</title>
+    <link href="https://www.kathimerini.gr/economy/local/564331321/toyrismos-megali-meiosi-aeroporikon-kratiseon/"/>
+    <id>urn:kathimerini:ab566ed313a4</id>
+    <updated>2026-07-08T09:26:00+00:00</updated>
+    <author><name>Ματίνα Χαρκοφτάκη</name></author>
+    <summary>Despite a 7% rise in scheduled airline seats for July-August, bookings show a significant decline for the rest of the season, according to INSETE, notably from the United Kingdom.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Ψήφος εμπιστοσύνης στη SpaceX από έξι χρηματιστηριακές</title>
+    <link href="https://www.kathimerini.gr/economy/international/564331390/psifos-empistosynis-sti-spacex-apo-exi-chrimatistiriakes/"/>
+    <id>urn:kathimerini:1302b6d71248</id>
+    <updated>2026-07-08T09:18:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Elon Musk's SpaceX has joined the Nasdaq 100 and drawn buy ratings from at least six brokerages, including Morgan Stanley and Goldman Sachs, after its 86-billion-dollar IPO. It is now viewed also as a player in artificial intelligence.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Τα δικά της μαθήματα στο Ιόνιο Πανεπιστήμιο αποκτά η AI</title>
+    <link href="https://www.kathimerini.gr/society/ekpaideysi/564328861/ta-dika-tis-mathimata-sto-ionio-panepistimio-apokta-i-ai/"/>
+    <id>urn:kathimerini:ae642a22dfb0</id>
+    <updated>2026-07-07T21:44:49+00:00</updated>
+    <author><name>Απόστολος Λακασάς</name></author>
+    <summary>The Ionian University is adding AI instruction to all its undergraduate programmes, aiming for every graduate to gain basic knowledge as well as a critical and ethical stance toward AI.</summary>
     <category term="society"/>
-    <summary>A Russian strike deliberately hit the historic Kyiv Pechersk Lavra, a UNESCO monument and symbol of Orthodox Christianity with ties to Mount Athos. The Greek ambassador witnessed the destruction firsthand.</summary>
   </entry>
   <entry>
-    <title>Ενοπλες Δυνάμεις: Κυνήγι τεχνολογίας στις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564286546/enoples-dynameis-kynigi-technologias-stis-ipa/"/>
-    <id>https://www.kathimerini.gr/politics/amyna/564286546/enoples-dynameis-kynigi-technologias-stis-ipa/</id>
-    <updated>2026-06-16T06:57:40+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>Defense Minister Nikos Dendias traveled to the US for contacts with firms and research institutes in robotics, artificial intelligence, cyber-defense and unmanned systems. The aim is to equip the Navy with drones.</summary>
+    <title>Δύσκολη και κρίσιμη σύνοδος του ΝΑΤΟ</title>
+    <link href="https://www.kathimerini.gr/opinion/564328981/dyskoli-kai-krisimi-synodos-toy-nato/"/>
+    <id>urn:kathimerini:cd12763e4700</id>
+    <updated>2026-07-07T20:07:00+00:00</updated>
+    <author><name>Νίκος Κωνσταντάρας</name></author>
+    <summary>Nikos Konstandaras argues that Greece, accustomed to managing complex situations with an unpredictable and aggressive neighbour-ally, is not out of its depth at the difficult NATO summit in Ankara.</summary>
+    <category term="opinion"/>
   </entry>
   <entry>
-    <title>Ιράν: Νέος γύρος συνομιλιών με τις ΗΠΑ από την Παρασκευή</title>
-    <link href="https://www.kathimerini.gr/world/564287440/iran-tin-paraskeyi-tha-xekinisei-neos-gyros-synomilion-me-tis-ipa/"/>
-    <id>https://www.kathimerini.gr/world/564287440/iran-tin-paraskeyi-tha-xekinisei-neos-gyros-synomilion-me-tis-ipa/</id>
-    <updated>2026-06-16T10:40:24+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="world"/>
-    <summary>Iranian FM Abbas Araghchi announced a new round of Iran-US talks starting Friday in Switzerland, aiming for a final deal after an interim agreement took effect. He warned that an Israeli attack on Lebanon would breach the ceasefire.</summary>
-  </entry>
-  <entry>
-    <title>Η μείωση των ροών στη «βαλίτσα» του Σαντάμ Χαφτάρ</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564286543/i-meiosi-ton-roon-sti-valitsa-toy-santam-chaftar/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564286543/i-meiosi-ton-roon-sti-valitsa-toy-santam-chaftar/</id>
-    <updated>2026-06-16T07:09:21+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>Migration dominated talks in Athens between Saddam Haftar, son of eastern Libya&#x27;s marshal, and FM George Gerapetritis, as flows to Crete now come almost exclusively from Benghazi. Maritime-zone delimitation was also on the table.</summary>
-  </entry>
-  <entry>
-    <title>G7: Ο Ζελένσκι επιχειρεί να πείσει τον Τραμπ ότι η Ρωσία χάνει τον πόλεμο</title>
-    <link href="https://www.kathimerini.gr/world/564287551/g7-o-zelenski-epicheirei-na-peisei-ton-tramp-oti-i-rosia-chanei-ton-polemo/"/>
-    <id>https://www.kathimerini.gr/world/564287551/g7-o-zelenski-epicheirei-na-peisei-ton-tramp-oti-i-rosia-chanei-ton-polemo/</id>
-    <updated>2026-06-16T11:38:55+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="world"/>
-    <summary>Ukrainian President Volodymyr Zelensky arrived at the G7 summit in Evian, seeking to convince Trump that Russia is losing the war and that stronger international support is needed. Trump had arrived buoyed by the framework deal with Iran.</summary>
-  </entry>
-  <entry>
-    <title>Πρόωρη αποπληρωμή δανείων 6,94 δισ. ευρώ</title>
-    <link href="https://www.kathimerini.gr/economy/diktis/564287008/proori-apopliromi-daneion-6-94-dis-eyro/"/>
-    <id>https://www.kathimerini.gr/economy/diktis/564287008/proori-apopliromi-daneion-6-94-dis-eyro/</id>
-    <updated>2026-06-16T08:07:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
+    <title>Ακίνητα: Παρατείνεται ξανά η αναστολή του ΦΠΑ 24% στα νεόδμητα</title>
+    <link href="https://www.kathimerini.gr/economy/local/564331315/akinita-parateinetai-xana-i-anastoli-toy-fpa-24-sta-neodmita/"/>
+    <id>urn:kathimerini:44716f8daebf</id>
+    <updated>2026-07-08T08:19:00+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <summary>The government plans a further one- or two-year extension of the suspension of the 24% VAT on new-build properties and the 15% capital-gains tax on property transfers, with decisions to be finalised ahead of the Thessaloniki trade fair.</summary>
     <category term="economy"/>
-    <summary>Greece made an early repayment of €6.94bn in first-bailout (GLF) loans, drawing on the ESM &quot;hard cushion&quot; and cash reserves. The goal is to repay the loans ten years ahead of schedule, by 2031.</summary>
   </entry>
   <entry>
-    <title>Νέα Δημοκρατία: «Εξορμήσεις» σε κάθε χωριό</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564286531/nea-dimokratia-exormiseis-se-kathe-chorio/"/>
-    <id>https://www.kathimerini.gr/politics/parties/564286531/nea-dimokratia-exormiseis-se-kathe-chorio/</id>
-    <updated>2026-06-16T08:37:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>With Konstantinos Kyranakis taking over as secretary, New Democracy formally launches its pre-election period, aiming to reconnect with its base. Priority goes to areas where polling is weakest, with elections eight to nine months away.</summary>
-  </entry>
-  <entry>
-    <title>Η ειρήνευση στη Μ. Ανατολή δεν φέρνει αποκλιμάκωση των τιμών</title>
-    <link href="https://www.kathimerini.gr/economy/local/564286900/i-eirineysi-sti-m-anatoli-den-fernei-apoklimakosi-ton-timon/"/>
-    <id>https://www.kathimerini.gr/economy/local/564286900/i-eirineysi-sti-m-anatoli-den-fernei-apoklimakosi-ton-timon/</id>
-    <updated>2026-06-16T09:15:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="economy"/>
-    <summary>The Bank of Greece revised its 2026 inflation forecast up to 3.8% from 3.1%, as Middle East peace won&#x27;t quickly translate into lower prices. Wage and rent rises plus tourism demand sustain stubborn services inflation.</summary>
-  </entry>
-  <entry>
-    <title>Αχμέτ Νταβούτογλου στην «Κ»: Το Αιγαίο είναι κοινό</title>
-    <link href="https://www.kathimerini.gr/politics/564282433/achmet-ntavoytogloy-stin-k-to-aigaio-einai-koino/"/>
-    <id>https://www.kathimerini.gr/politics/564282433/achmet-ntavoytogloy-stin-k-to-aigaio-einai-koino/</id>
-    <updated>2026-06-16T10:15:44+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>In a Kathimerini interview, former Turkish PM Ahmet Davutoglu argued that &quot;the Aegean is shared&quot; and that the Middle East needs a new regional security architecture. He also commented on the contested &quot;Blue Homeland&quot; bill.</summary>
-  </entry>
-  <entry>
-    <title>Aνακούφιση στην Ασία από το άνοιγμα του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564287005/anakoyfisi-stin-asia-apo-to-anoigma-toy-ormoyz/"/>
-    <id>https://www.kathimerini.gr/economy/international/564287005/anakoyfisi-stin-asia-apo-to-anoigma-toy-ormoyz/</id>
-    <updated>2026-06-16T11:51:07+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="economy"/>
-    <summary>A possible US-Iran deal to reopen the Strait of Hormuz would bring short-term relief to Asia, hit hard by the war. Still, the crisis shock—currency pressure, inflation, supply-chain congestion—may last until year-end.</summary>
-  </entry>
-  <entry>
-    <title>Ο Ντόναλντ Τραμπ απειλεί με δασμό 100% στα γαλλικά κρασιά</title>
-    <link href="https://www.kathimerini.gr/economy/international/564286957/o-ntonalnt-tramp-apeilei-me-dasmo-100-sta-gallika-krasia/"/>
-    <id>https://www.kathimerini.gr/economy/international/564286957/o-ntonalnt-tramp-apeilei-me-dasmo-100-sta-gallika-krasia/</id>
-    <updated>2026-06-16T08:14:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="economy"/>
-    <summary>Donald Trump threatened a 100% tariff on French wines and champagne unless France scraps its 3% digital-services tax. The threat came just before the G7 summit in Evian.</summary>
-  </entry>
-  <entry>
-    <title>Ιδιοκτήτες και ενοικιαστές γλιτώνουν το τέλος περιφερειακής ανάπτυξης</title>
-    <link href="https://www.kathimerini.gr/economy/local/564286885/idioktites-kai-enoikiastes-glitonoyn-to-telos-perifereiakis-anaptyxis/"/>
-    <id>https://www.kathimerini.gr/economy/local/564286885/idioktites-kai-enoikiastes-glitonoyn-to-telos-perifereiakis-anaptyxis/</id>
-    <updated>2026-06-16T07:38:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="economy"/>
-    <summary>A planned regional-development levy on electricity bills that would have burdened property owners and tenants was ultimately avoided. A local-development fee replaces older charges, albeit with higher rates.</summary>
-  </entry>
-  <entry>
-    <title>Υπό πίεση το σχέδιο Τραμπ για «χαλαρή» εποπτεία της ΑΙ</title>
-    <link href="https://www.kathimerini.gr/world/564287401/ypo-piesi-to-schedio-tramp-gia-chalari-epopteia-tis-ai/"/>
-    <id>https://www.kathimerini.gr/world/564287401/ypo-piesi-to-schedio-tramp-gia-chalari-epopteia-tis-ai/</id>
-    <updated>2026-06-16T10:17:03+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="world"/>
-    <summary>The Trump administration&#x27;s recent restrictions on AI firm Anthropic cast doubt on whether the promised &quot;laissez-faire&quot; approach to AI regulation can hold. Industry figures fear the cooperation framework is collapsing.</summary>
-  </entry>
-  <entry>
-    <title>Οι κατάλληλες περιοχές για ανάπτυξη πυρηνικού σταθμού στην Ελλάδα</title>
-    <link href="https://www.kathimerini.gr/economy/local/564286918/oi-katalliles-perioches-gia-anaptyxi-pyrinikoy-stathmoy-stin-ellada/"/>
-    <id>https://www.kathimerini.gr/economy/local/564286918/oi-katalliles-perioches-gia-anaptyxi-pyrinikoy-stathmoy-stin-ellada/</id>
-    <updated>2026-06-16T10:53:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="economy"/>
-    <summary>A preliminary assessment by Athlos Energy with US firm Cambrian Nuclear flags Thrace and southern Evia as more suitable for potential nuclear plants due to lower seismic risk. Enhanced specs could widen the map.</summary>
-  </entry>
-  <entry>
-    <title>Ποιον λάκκο έχει το γκάλοπ;</title>
-    <link href="https://www.kathimerini.gr/politics/564282394/poion-lakko-echei-to-gkalop/"/>
-    <id>https://www.kathimerini.gr/politics/564282394/poion-lakko-echei-to-gkalop/</id>
-    <updated>2026-06-16T11:26:16+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>Pollsters and analysts explain why the credibility of opinion polls has been shaken, attributing it not just to disgruntled critics but to structural problems and political excesses. The issue is sharpened by the anti-establishment climate eroding the electoral process.</summary>
-  </entry>
-  <entry>
-    <title>Θεωρείο: Τηλεφωνήματα κατά ριπάς</title>
-    <link href="https://www.kathimerini.gr/politics/564286486/theoreio-tilefonimata-kata-ripas/"/>
-    <id>https://www.kathimerini.gr/politics/564286486/theoreio-tilefonimata-kata-ripas/</id>
-    <updated>2026-06-16T07:54:00+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="politics"/>
-    <summary>Per the &quot;Theoreio&quot; column, Antonis Samaras keeps reaching out to center-right figures with a clear right-wing background to run in the next elections. The reporting rebuts those who think he is bluffing.</summary>
-  </entry>
-  <entry>
-    <title>Διαρροή emails αποδήμων: Ενοχή για Ασημακοπούλου και Σταυριανουδάκη για δύο αδικήματα ζητά η εισαγγελέας</title>
-    <link href="https://www.kathimerini.gr/society/564287569/diarroi-emails-apodimon-enochi-gia-asimakopoyloy-kai-stayrianoydaki-gia-dyo-adikimata-zita-i-eisaggeleas/"/>
-    <id>https://www.kathimerini.gr/society/564287569/diarroi-emails-apodimon-enochi-gia-asimakopoyloy-kai-stayrianoydaki-gia-dyo-adikimata-zita-i-eisaggeleas/</id>
-    <updated>2026-06-16T11:51:36+00:00</updated>
-    <author><name>Kathimerini</name></author>
+    <title>EPPO: Εφεση κατά της αθώωσης μίας εκ των 58 Κρητικών – Ερευνα για ποινικές ευθύνες υπαλλήλων ΟΠΕΚΕΠΕ</title>
+    <link href="https://www.kathimerini.gr/society/564331789/eppo-efesi-kata-tis-athoosis-mias-ek-ton-58-kritikon-ereyna-gia-poinikes-eythynes-ypallilon-opekepe/"/>
+    <id>urn:kathimerini:319541687540</id>
+    <updated>2026-07-08T11:09:42+00:00</updated>
+    <author><name>Νεκταρία Σταμούλη</name></author>
+    <summary>The European Public Prosecutor's Office has appealed the acquittal of one of the 58 Cretan producers over false pasture declarations and is investigating criminal liability of OPEKEPE staff, arguing that repaying the money does not erase the harm.</summary>
     <category term="society"/>
-    <summary>The prosecutor sought a guilty verdict for ex-MEP Anna-Michelle Asimakopoulou and former interior ministry secretary Michalis Stavrianoudakis over breach of confidentiality and data protection in the diaspora email-leak case before the 2024 Euro-elections. A single-count guilt was sought for Koromilas and Theodoropoulos.</summary>
-  </entry>
-  <entry>
-    <title>Ρωσία: Ζημιές στο μεγαλύτερο διυλιστήριο της Μόσχας από ουκρανικό drone</title>
-    <link href="https://www.kathimerini.gr/world/564287317/rosia-zimies-sto-megalytero-diylistirio-tis-moschas-apo-oykraniko-drone/"/>
-    <id>https://www.kathimerini.gr/world/564287317/rosia-zimies-sto-megalytero-diylistirio-tis-moschas-apo-oykraniko-drone/</id>
-    <updated>2026-06-16T10:06:35+00:00</updated>
-    <author><name>Kathimerini</name></author>
-    <category term="world"/>
-    <summary>A Ukrainian drone attack damaged the largest refinery in the Moscow region, owned by Gazpromneft, with no casualties per Mayor Sobyanin. It was unclear whether operations were affected.</summary>
   </entry>
 </feed>

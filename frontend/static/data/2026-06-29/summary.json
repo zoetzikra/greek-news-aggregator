@@ -1,0 +1,977 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T09:15:00.162316+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 65 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημερήσια ειδησεογραφία κυριαρχείται από την οικονομία και την πολιτική: στο επίκεντρο βρίσκεται η κρίσιμη σύσκεψη στο Μέγαρο Μαξίμου για την ακρίβεια, όπου η κυβέρνηση επιδιώκει «συμφωνία κυρίων» με την αγορά για μειώσεις τιμών σε βασικά προϊόντα, με αντάλλαγμα την κατάργηση του πλαφόν στο περιθώριο κέρδους. Παράλληλα, έκθεση της BMI κατατάσσει την Ελλάδα στις πιο ευάλωτες χώρες σε επίμονα υψηλό πληθωρισμό, ενώ πιστώνεται το έκτακτο επίδομα παιδιού των 150 ευρώ.\n\nΣτο πολιτικό πεδίο, η χώρα μπαίνει σε προεκλογικό κλίμα με ορίζοντα πιθανών εκλογών έως το φθινόπωρο: ο Κυριάκος Μητσοτάκης παρουσιάζει συνολικό απολογισμό της επταετίας, το ΠΑΣΟΚ απαντά κάνοντας λόγο για «χαμένη ευκαιρία» και επαναφέρει έμπειρα στελέχη, ενώ η Θεοδώρα Τζάκρη αποχωρεί από τους «Δημοκράτες» του Στέφανου Κασσελάκη καταγγέλλοντας «δεξιά απόκλιση».\n\nΣτη διεθνή σκηνή, προχωρά η προσωρινή συμφωνία Ιράν-ΗΠΑ με την αποδέσμευση 6 δισ. δολαρίων και την πρώτη κοινή επιτροπή Ιράν-Ομάν για τα Στενά του Ορμούζ, την ώρα που οι ρωσικές επιθέσεις στην Ουκρανία αφήνουν επτά νεκρούς και Γερμανία-ΗΠΑ συζητούν νέα κατανομή βαρών στο ΝΑΤΟ ενόψει της Συνόδου της Άγκυρας.\n\nΣε κοινωνικό επίπεδο, υψηλός κίνδυνος πυρκαγιάς σε 28 περιοχές και σειρά αστυνομικών περιστατικών (έκρηξη στα Πατήσια, ναρκωτικά, εμπρησμοί) κυριαρχούν, ενώ θλίψη προκαλεί ο θάνατος δύο παιδιών στην Κύπρο. Στον πολιτισμό ξεχωρίζουν το Φεστιβάλ Επιδαύρου και τα 100ά γενέθλια του Μελ Μπρουκς.",
+    "en": "The day's news is dominated by economics and politics: at the center is the crucial meeting at the Maximou Mansion on the cost of living, where the government seeks a 'gentlemen's agreement' with the market for price cuts on basic goods in exchange for scrapping the profit-margin cap. Meanwhile, a BMI report ranks Greece among the countries most vulnerable to persistently high inflation, and a €150 extraordinary child benefit is being paid out.\n\nOn the political front, the country enters campaign mode with possible elections by autumn: Kyriakos Mitsotakis presents an overall account of his seven years, PASOK responds by calling it a 'missed opportunity' and reactivates veteran cadres, while Theodora Tzakri quits Stefanos Kasselakis's 'Democrats' citing a 'rightward drift'.\n\nInternationally, the interim Iran-U.S. deal advances with $6bn unfrozen and the first joint Iran-Oman committee on the Strait of Hormuz, while Russian attacks in Ukraine leave seven dead and Germany and the U.S. discuss new NATO burden-sharing ahead of the Ankara summit.\n\nOn the social side, a high wildfire risk across 28 regions and a string of crime incidents (a Patisia explosion, drugs, arson) dominate, while the death of two children in Cyprus brings grief. In culture, the Epidaurus Festival and Mel Brooks's 100th birthday stand out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σύσκεψη Μαξίμου για την ακρίβεια",
+        "en": "Maximou meeting on the cost of living"
+      },
+      "description": {
+        "el": "Η κυβέρνηση επιδιώκει «συμφωνία κυρίων» με την αγορά για μειώσεις τιμών σε βασικά αγαθά, με αντάλλαγμα την κατάργηση του πλαφόν στο περιθώριο κέρδους, εν μέσω επίμονα υψηλού πληθωρισμού.",
+        "en": "The government seeks a 'gentlemen's agreement' with the market to cut prices on basic goods in exchange for scrapping the profit-margin cap, amid persistently high inflation."
+      },
+      "related_items": [
+        "73cc94eb9b86",
+        "527cb6abb414",
+        "34d82ac19441",
+        "3a321a37716b",
+        "9bb8eeec1f69"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Προεκλογικό κλίμα & αναδιατάξεις",
+        "en": "Pre-election climate & realignments"
+      },
+      "description": {
+        "el": "Με ορίζοντα πιθανών εκλογών έως το φθινόπωρο, ο Μητσοτάκης παρουσιάζει επταετή απολογισμό, το ΠΑΣΟΚ επανενεργοποιεί έμπειρα στελέχη, ενώ η Τζάκρη αποχωρεί από τους «Δημοκράτες» του Κασσελάκη.",
+        "en": "With possible autumn elections looming, Mitsotakis presents a seven-year record, PASOK reactivates veteran cadres, and Tzakri quits Kasselakis's 'Democrats'."
+      },
+      "related_items": [
+        "3d7a24f47fef",
+        "d0c08bbe9fc5",
+        "fb3b85c019d8",
+        "3c2d50026dc8",
+        "74fc1842234d",
+        "fe666ef2c0a8"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Συμφωνία Ιράν-ΗΠΑ & Στενά του Ορμούζ",
+        "en": "Iran-U.S. deal & Strait of Hormuz"
+      },
+      "description": {
+        "el": "Η προσωρινή συμφωνία Ιράν-ΗΠΑ προχωρά με αποδέσμευση 6 δισ. δολαρίων και κοινή επιτροπή Ιράν-Ομάν για τον Ορμούζ· η πρόσφατη κλιμάκωση και οι ενεργειακές τιμές συνδέονται με τον ελληνικό πληθωρισμό.",
+        "en": "The interim Iran-U.S. deal advances with $6bn unfrozen and an Iran-Oman committee on Hormuz; the recent escalation and energy prices are linked to Greek inflation."
+      },
+      "related_items": [
+        "cd70b989e529",
+        "461fc19e0085",
+        "6a845e98edf3",
+        "34d82ac19441"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Άμυνα, drones & ευρωπαϊκή ασφάλεια",
+        "en": "Defense, drones & European security"
+      },
+      "description": {
+        "el": "Η ελληνική αμυντική βιομηχανία μετασχηματίζεται μέσω του ReArm Europe, ενώ η Ευρώπη σχεδιάζει σύστημα προστασίας από drones και Γερμανία-ΗΠΑ συζητούν νέα κατανομή βαρών στο ΝΑΤΟ.",
+        "en": "Greece's defense industry transforms via ReArm Europe, Europe plans a counter-drone system, and Germany and the U.S. discuss new NATO burden-sharing."
+      },
+      "related_items": [
+        "7b97c500ef09",
+        "c00e574d3090",
+        "053b91563827",
+        "d7a5aebebab7"
+      ],
+      "importance": 78
+    }
+  ],
+  "article_count": 65,
+  "categories": {
+    "politics": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "3d7a24f47fef",
+          "title": "Μητσοτάκης: Ο απολογισμός του κυβερνητικού έργου από το 2019 έως σήμερα",
+          "url": "https://www.kathimerini.gr/politics/564312832/mitsotakis-o-apologismos-toy-kyvernitikoy-ergoy-apo-to-2019-eos-simera/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T10:15:31+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Στην καθιερωμένη κυριακάτικη ανάρτηση, ο Κυριάκος Μητσοτάκης παρουσιάζει συνολικό απολογισμό του κυβερνητικού έργου από το 2019, με ορίζοντα το 2030. Τονίζει την «πρόοδο σε πολλά πεδία» και επιλέγει «τη σύγκριση αντί για τη σύγκρουση».",
+            "en": "In his customary Sunday post, PM Kyriakos Mitsotakis offers an overall account of his government's work since 2019, looking toward 2030. He stresses 'progress on many fronts' and chooses 'comparison over confrontation'."
+          },
+          "tags": {
+            "el": [
+              "Μητσοτάκης",
+              "κυβέρνηση",
+              "απολογισμός"
+            ],
+            "en": [
+              "Mitsotakis",
+              "government",
+              "record"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "fb3b85c019d8",
+          "title": "Παραιτήθηκε από τους «Δημοκράτες» η Θεοδώρα Τζάκρη",
+          "url": "https://www.kathimerini.gr/politics/564313090/paraitithike-apo-toys-dimokrates-i-theodora-tzakri/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T17:49:41+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Η βουλευτής Θεοδώρα Τζάκρη αποχώρησε από τους «Δημοκράτες» του Στέφανου Κασσελάκη, παραιτούμενη και από αντιπρόεδρος, καταγγέλλοντας «δεξιά απόκλιση». Ο Κασσελάκης είπε ότι ο ίδιος ζήτησε την παραίτησή της.",
+            "en": "MP Theodora Tzakri quit Stefanos Kasselakis's 'Democrats' party, resigning as vice-president and citing a 'rightward drift.' Kasselakis said he had asked her to resign."
+          },
+          "tags": {
+            "el": [
+              "Τζάκρη",
+              "Κασσελάκης",
+              "Δημοκράτες"
+            ],
+            "en": [
+              "Tzakri",
+              "Kasselakis",
+              "Democrats"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d0c08bbe9fc5",
+          "title": "ΠΑΣΟΚ για την ανασκόπηση Μητσοτάκη: Μια επταετία, μεγάλη χαμένη ευκαιρία για τη χώρα",
+          "url": "https://www.kathimerini.gr/politics/564312895/pasok-gia-tin-anaskopisi-mitsotaki-mia-eptaetia-megali-chameni-eykairia-gia-ti-chora/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T12:15:20+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Το ΠΑΣΟΚ απαντά στον απολογισμό Μητσοτάκη: ο εκπρόσωπος Κώστας Τσουκαλάς κάνει λόγο για «μια επταετία, μεγάλη χαμένη ευκαιρία», καταγγέλλοντας ανισότητες, ακρίβεια, διαφθορά και απρόσιτη στέγη.",
+            "en": "PASOK responds to Mitsotakis's record: spokesman Kostas Tsoukalas calls the seven years 'a great missed opportunity,' citing inequality, high prices, corruption and unaffordable housing."
+          },
+          "tags": {
+            "el": [
+              "ΠΑΣΟΚ",
+              "αντιπολίτευση",
+              "κριτική"
+            ],
+            "en": [
+              "PASOK",
+              "opposition",
+              "criticism"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "fe666ef2c0a8",
+          "title": "Πολυπρόσωπη φορο-ζάλη",
+          "url": "https://www.kathimerini.gr/politics/parties/564311251/polyprosopi-foro-zali-k/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T17:44:44+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ανάλυση για τη φορολογική γραμμή της σκιώδους κυβέρνησης Τσίπρα (ΕΛΑΣ): σύσταση αποφυγής αναφορών σε νέους φόρους, με έμφαση στη φορολόγηση κινητής περιουσίας (μερίσματα, τόκοι, υπεραξίες) αντί ορατού πλούτου.",
+            "en": "Analysis of the tax line of Tsipras's shadow cabinet (ELAS): a directive to avoid talk of new taxes, emphasizing taxation of movable wealth (dividends, interest, capital gains) over visible wealth."
+          },
+          "tags": {
+            "el": [
+              "Τσίπρας",
+              "φορολογία",
+              "ΕΛΑΣ"
+            ],
+            "en": [
+              "Tsipras",
+              "taxation",
+              "ELAS"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "3c2d50026dc8",
+          "title": "Η παλιά φρουρά είναι εδώ",
+          "url": "https://www.kathimerini.gr/politics/564311230/i-palia-froyra-einai-edo/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T21:33:30+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ρεπορτάζ για το ΠΑΣΟΚ: ο Νίκος Ανδρουλάκης επαναφέρει έμπειρα στελέχη («παλιά φρουρά») όπως οι Λαλιώτης και Σκανδαλίδης, ενόψει της επιστροφής Τσίπρα και της δυσκολίας του κόμματος να κερδίσει έδαφος.",
+            "en": "Feature on PASOK: Nikos Androulakis brings back veteran cadres (the 'old guard') such as Laliotis and Skandalidis, amid Tsipras's return and the party's struggle to gain ground."
+          },
+          "tags": {
+            "el": [
+              "ΠΑΣΟΚ",
+              "Ανδρουλάκης",
+              "στελέχη"
+            ],
+            "en": [
+              "PASOK",
+              "Androulakis",
+              "cadres"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "73cc94eb9b86",
+          "title": "Προς συμφωνία «κυρίων» για την ακρίβεια",
+          "url": "https://www.kathimerini.gr/economy/564311635/pros-symfonia-kyrion-gia-tin-akriveia/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T12:43:08+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Η κυβέρνηση επιδιώκει «συμφωνία κυρίων» με την αγορά στην κρίσιμη σύσκεψη του Μαξίμου για την ακρίβεια: ζητά μειώσεις τιμών σε βασικά προϊόντα με αντάλλαγμα την κατάργηση του πλαφόν στο περιθώριο κέρδους.",
+            "en": "The government seeks a 'gentlemen's agreement' with the market at the key Maximou meeting on prices: it asks for cuts on basic goods in exchange for scrapping the cap on profit margins."
+          },
+          "tags": {
+            "el": [
+              "ακρίβεια",
+              "Μαξίμου",
+              "τιμές"
+            ],
+            "en": [
+              "cost of living",
+              "Maximou",
+              "prices"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "34d82ac19441",
+          "title": "O πληθωρισμός ήρθε για να μείνει",
+          "url": "https://www.kathimerini.gr/economy/564310279/o-plithorismos-irthe-gia-na-meinei/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T07:26:56+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Έκθεση της BMI (όμιλος Fitch) κατατάσσει την Ελλάδα στις πιο ευάλωτες χώρες σε επίμονα υψηλό πληθωρισμό, παρά την υποχώρηση των τιμών ενέργειας. Τον Μάιο ο πληθωρισμός ήταν 4,9% έναντι 3,2% στην Ευρωζώνη.",
+            "en": "A BMI (Fitch group) report ranks Greece among the economies most vulnerable to persistently high inflation, despite falling energy prices. May inflation was 4.9% versus 3.2% in the eurozone."
+          },
+          "tags": {
+            "el": [
+              "πληθωρισμός",
+              "ακρίβεια",
+              "BMI"
+            ],
+            "en": [
+              "inflation",
+              "cost of living",
+              "BMI"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "527cb6abb414",
+          "title": "Σύσκεψη στο Μαξίμου για τη «συμφωνία κυρίων» με στόχο μειώσεις τιμών",
+          "url": "https://www.kathimerini.gr/economy/564313312/syskepsi-sto-maximoy-gia-ti-symfonia-kyrion-me-stocho-meioseis-timon/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T08:29:39+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Σήμερα η κρίσιμη σύσκεψη στο Μαξίμου για την ακρίβεια υπό τον Μητσοτάκη. Το «χαρτί» του πλαφόν χρησιμοποιείται ως μοχλός πίεσης για ταχεία εφαρμογή της «συμφωνίας κυρίων» με στόχο μειώσεις τιμών.",
+            "en": "Today's key Maximou meeting on prices under Mitsotakis. The profit-margin cap is used as leverage to speed up the 'gentlemen's agreement' aimed at price cuts."
+          },
+          "tags": {
+            "el": [
+              "ακρίβεια",
+              "πλαφόν",
+              "Μαξίμου"
+            ],
+            "en": [
+              "cost of living",
+              "price cap",
+              "Maximou"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "7b97c500ef09",
+          "title": "Αλλάζει πίστα η αμυντική βιομηχανία",
+          "url": "https://www.kathimerini.gr/economy/564311626/allazei-pista-i-amyntiki-viomichania/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T10:05:01+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Η ελληνική αμυντική βιομηχανία μετασχηματίζεται, με νέο οικοσύστημα κρατικών φορέων, ομίλων και startups. Το σχέδιο ReArm Europe (έως 800 δισ.) και η δέσμευση για 25% εγχώρια συμμετοχή ανοίγουν έργα ~750 εκατ. ευρώ.",
+            "en": "Greece's defense industry is transforming, with a new ecosystem of state bodies, large groups and startups. The ReArm Europe plan (up to €800bn) and a 25% domestic-participation pledge open projects worth ~€750m."
+          },
+          "tags": {
+            "el": [
+              "αμυντική βιομηχανία",
+              "ReArm Europe",
+              "startups"
+            ],
+            "en": [
+              "defense industry",
+              "ReArm Europe",
+              "startups"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "9bb8eeec1f69",
+          "title": "Εκτακτο επίδομα παιδιού: Πιστώνεται έως αύριο στους λογαριασμούς",
+          "url": "https://www.kathimerini.gr/economy/local/564313390/ektakto-epidoma-paidioy-pistonetai-eos-ayrio-stoys-logariasmoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T09:08:18+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Έκτακτο επίδομα παιδιού 150 ευρώ πιστώνεται έως την Τρίτη σε περίπου ένα εκατομμύριο οικογένειες, κλιμακούμενο ανά αριθμό παιδιών. Δεύτερος γύρος πληρωμών ακολουθεί έως τις 31 Αυγούστου 2026.",
+            "en": "A €150 extraordinary child benefit is being paid out by Tuesday to about one million families, scaled by number of children. A second round of payments follows by 31 August 2026."
+          },
+          "tags": {
+            "el": [
+              "επίδομα",
+              "οικογένειες",
+              "ΑΑΔΕ"
+            ],
+            "en": [
+              "benefit",
+              "families",
+              "tax authority"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    },
+    "society": {
+      "item_count": 15,
+      "top_items": [
+        {
+          "id": "0cdfc42bc6cf",
+          "title": "Υψηλός κίνδυνος πυρκαγιάς σε 28 περιοχές – Μέτρα προστασίας στη Χαλκιδική",
+          "url": "https://www.kathimerini.gr/society/564313405/ypsilos-kindynos-pyrkagias-se-28-perioches-metra-prostasias-sti-chalkidiki/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T09:03:58+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Υψηλός κίνδυνος πυρκαγιάς (κατηγορία 3) προβλέπεται τη Δευτέρα 29 Ιουνίου σε 28 περιοχές της χώρας. Η Πολιτική Προστασία καλεί τους πολίτες σε αυξημένη προσοχή· ειδικά μέτρα στη Χαλκιδική.",
+            "en": "A high wildfire risk (category 3) is forecast for Monday 29 June across 28 regions of Greece. Civil Protection urges caution; special measures apply in Halkidiki."
+          },
+          "tags": {
+            "el": [
+              "πυρκαγιά",
+              "κίνδυνος",
+              "Πολιτική Προστασία"
+            ],
+            "en": [
+              "wildfire",
+              "risk",
+              "civil protection"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "2dbfcefc5369",
+          "title": "Κακοκαιρία «Ελπίδα»: Ενοχα τρία στελέχη για τον εγκλωβισμό στην Αττική Οδό",
+          "url": "https://www.kathimerini.gr/society/564313426/kakokairia-elpida-enocha-tria-stelechi-gia-ton-egklovismo-stin-attiki-odo/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T09:26:42+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Τρία στελέχη της εταιρείας Αττικές Διαδρομές καταδικάστηκαν σε 10 μήνες με αναστολή για τον εγκλωβισμό χιλιάδων οδηγών στην Αττική Οδό κατά την κακοκαιρία «Ελπίδα» το 2022. Νέα έρευνα και για διευθυντή Τροχαίας.",
+            "en": "Three executives of Attiki Odos operator were given 10-month suspended sentences over the entrapment of thousands of drivers during the 2022 'Elpida' snowstorm. A new probe also targets a traffic-police director."
+          },
+          "tags": {
+            "el": [
+              "Αττική Οδός",
+              "Ελπίδα",
+              "δικαστήριο"
+            ],
+            "en": [
+              "Attiki Odos",
+              "Elpida",
+              "court"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "da37ae2cfdb4",
+          "title": "Αχαρνών: Εκρηξη σε εταιρεία ενοικίασης αυτοκινήτων – Βρέθηκε εκρηκτική ύλη",
+          "url": "https://www.kathimerini.gr/society/564313468/acharnon-ekrixi-se-etaireia-enoikiasis-aytokiniton-vrethike-ekriktiki-yli/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T09:35:17+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Έκρηξη τα ξημερώματα σε κατάστημα ενοικίασης αυτοκινήτων στην οδό Αχαρνών στα Πατήσια προκάλεσε ζημιές. Βρέθηκαν βραδύκαυστο φυτίλι και σακούλα με εκρηκτική ύλη· τις έρευνες έχει το τμήμα εκβιαστών της ΕΛ.ΑΣ.",
+            "en": "A pre-dawn explosion at a car-rental shop on Acharnon Street in Patisia caused damage. A slow-burning fuse and a bag of explosives were found; the police anti-extortion unit is investigating."
+          },
+          "tags": {
+            "el": [
+              "έκρηξη",
+              "Αθήνα",
+              "ΕΛΑΣ"
+            ],
+            "en": [
+              "explosion",
+              "Athens",
+              "police"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "ec7e8912cc0f",
+          "title": "Θεσσαλονίκη: Αναχώρηση εθελοντών για τη Βενεζουέλα",
+          "url": "https://www.kathimerini.gr/society/564313387/thessaloniki-anachorisi-ethelonton-gia-ti-venezoyela/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T09:11:35+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Ομάδα 15 εθελοντών από τη Θεσσαλονίκη, με εκπαιδευμένα σκυλιά και drone, αναχωρεί για τη σεισμόπληκτη Βενεζουέλα για να συνδράμει στις έρευνες, πέντε μέρες μετά τους σεισμούς 7,2 και 7,5 βαθμών.",
+            "en": "A team of 15 volunteers from Thessaloniki, with trained dogs and a drone, departs for earthquake-hit Venezuela to aid search efforts, five days after the 7.2 and 7.5 magnitude quakes."
+          },
+          "tags": {
+            "el": [
+              "εθελοντές",
+              "Βενεζουέλα",
+              "σεισμός"
+            ],
+            "en": [
+              "volunteers",
+              "Venezuela",
+              "earthquake"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "0352700084cc",
+          "title": "Αμαλιάδα: Καταδίκη πέντε ετών σε αστυνομικό για κακοποίηση συζύγου και παιδιού",
+          "url": "https://www.kathimerini.gr/society/564313624/amaliada-katadiki-pente-eton-se-astynomiko-gia-kakopoiisi-syzygoy-kai-paidioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T11:11:31+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Στην Αμαλιάδα, εν ενεργεία αστυνομικός καταδικάστηκε σε 5 χρόνια και 3 μήνες χωρίς αναστολή για κακοποίηση της συζύγου και των παιδιών του. Παραμένει φυγόποινος.",
+            "en": "In Amaliada, a serving police officer was sentenced to 5 years and 3 months without suspension for abusing his wife and children. He remains a fugitive."
+          },
+          "tags": {
+            "el": [
+              "ενδοοικογενειακή βία",
+              "καταδίκη",
+              "αστυνομικός"
+            ],
+            "en": [
+              "domestic violence",
+              "conviction",
+              "officer"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "cd70b989e529",
+          "title": "Πεζεσκιάν: «Ξεπαγώνουν» 6 δισ. από τα δεσμευμένα κεφάλαια του Ιράν στο Κατάρ",
+          "url": "https://www.kathimerini.gr/world/564313627/pezeskian-xepagonoyn-6-dis-apo-ta-desmeymena-kefalaia-toy-iran-sto-katar/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T11:16:26+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Ο Ιρανός πρόεδρος Μασούντ Πεζεσκιάν ανακοίνωσε ότι 6 δισ. δολάρια από δεσμευμένα ιρανικά κεφάλαια στο Κατάρ θα αποδεσμευτούν, στο πλαίσιο της προσωρινής συμφωνίας Ιράν-ΗΠΑ μετά την άρση κυρώσεων στο πετρέλαιο.",
+            "en": "Iranian President Masoud Pezeshkian said $6bn of frozen Iranian funds in Qatar will be released under the interim Iran-U.S. deal, following the lifting of oil sanctions."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "ΗΠΑ",
+              "κυρώσεις"
+            ],
+            "en": [
+              "Iran",
+              "USA",
+              "sanctions"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "59a10cf1674f",
+          "title": "Ουκρανία: Επτά πολίτες νεκροί από ρωσικές επιθέσεις",
+          "url": "https://www.kathimerini.gr/world/564313297/oykrania-epta-polites-nekroi-apo-rosikes-epitheseis/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T08:17:50+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Επτά άμαχοι σκοτώθηκαν από ρωσικές επιθέσεις σε νοτιοανατολική και βορειοανατολική Ουκρανία την Κυριακή. Πλήγματα στη Ζαπορίζια σκότωσαν τέσσερις και τραυμάτισαν 28· νεκροί και στο Χάρκοβο.",
+            "en": "Seven civilians were killed by Russian attacks in southeastern and northeastern Ukraine on Sunday. Strikes on Zaporizhzhia killed four and wounded 28; there were also deaths in Kharkiv."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "πόλεμος"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "war"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6a845e98edf3",
+          "title": "Στενά του Ορμούζ: Γιατί η πρόσφατη κλιμάκωση ήταν απαραίτητη για το Ιράν",
+          "url": "https://www.kathimerini.gr/world/564313423/stena-toy-ormoyz-giati-i-prosfati-klimakosi-itan-aparaititi-gia-to-iran/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T10:04:25+00:00",
+          "importance": 69,
+          "summary": {
+            "el": "Ανάλυση (NYT): γιατί η πρόσφατη κλιμάκωση στα Στενά του Ορμούζ ήταν «απαραίτητη» για το Ιράν, που χρησιμοποιεί τον έλεγχό του ως μοχλό πίεσης στις διαπραγματεύσεις με τις ΗΠΑ, ρισκάροντας την εκεχειρία.",
+            "en": "Analysis (NYT): why the recent escalation in the Strait of Hormuz was 'necessary' for Iran, which uses its control as leverage in U.S. talks, risking the ceasefire."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "Ορμούζ",
+              "εκεχειρία"
+            ],
+            "en": [
+              "Iran",
+              "Hormuz",
+              "ceasefire"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "03d66e62661c",
+          "title": "Κύπρος: Κλειδωμένα για ώρες στο αυτοκίνητο τα δύο αδέλφια που βρέθηκαν νεκρά",
+          "url": "https://www.kathimerini.gr/world/564313606/kypros-kleidomena-gia-ores-sto-aytokinito-ta-dyo-adelfia-poy-vrethikan-nekra/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T11:05:13+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Τραγωδία στην Κύπρο: δύο αδέλφια 8 και 10 ετών από τη Βουλγαρία βρέθηκαν νεκρά στην Ξυλοφάγου, έχοντας πιθανότατα κλειδωθεί επί ώρες σε αυτοκίνητο υπό καύσωνα. Αναμένονται ιατροδικαστικές εξετάσεις.",
+            "en": "Tragedy in Cyprus: two siblings aged 8 and 10 from Bulgaria were found dead in Xylofagou, likely locked for hours in a car in the heat. Forensic tests are awaited."
+          },
+          "tags": {
+            "el": [
+              "Κύπρος",
+              "παιδιά",
+              "τραγωδία"
+            ],
+            "en": [
+              "Cyprus",
+              "children",
+              "tragedy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "d7a5aebebab7",
+          "title": "Γερμανία και ΗΠΑ συζητούν νέο μοντέλο κατανομής βαρών στο ΝΑΤΟ",
+          "url": "https://www.kathimerini.gr/world/564313363/germania-kai-ipa-syzitoyn-neo-montelo-katanomis-varon-sto-nato/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T08:30:28+00:00",
+          "importance": 67,
+          "summary": {
+            "el": "Γερμανία και ΗΠΑ θα συζητήσουν στην Ουάσιγκτον νέο μοντέλο κατανομής βαρών στο ΝΑΤΟ (Βάντεφουλ-Ρούμπιο), με στόχο σταθερή μακροπρόθεσμη στήριξη της Ουκρανίας ενόψει της Συνόδου Κορυφής στην Άγκυρα.",
+            "en": "Germany and the U.S. will discuss a new NATO burden-sharing model in Washington (Wadephul-Rubio), aiming for steady long-term support for Ukraine ahead of the Ankara summit."
+          },
+          "tags": {
+            "el": [
+              "ΝΑΤΟ",
+              "Γερμανία",
+              "Ουκρανία"
+            ],
+            "en": [
+              "NATO",
+              "Germany",
+              "Ukraine"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "74fc1842234d",
+          "title": "Το κρίσιμο φθινόπωρo",
+          "url": "https://www.kathimerini.gr/opinion/564311458/to-krisimo-fthinoporo/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:13:00+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Ο Αλέξης Παπαχελάς προβλέπει εκλογές έως τον Οκτώβριο, με τη χώρα ήδη σε προεκλογικό κλίμα. Εκτιμά ότι η άνοδος Τσίπρα βραχυπρόθεσμα βολεύει τον Μητσοτάκη, που θέλει βασικό αντίπαλο τον προκάτοχό του.",
+            "en": "Alexis Papachelas predicts elections by October, with the country already in campaign mode. He argues Tsipras's rise short-term suits Mitsotakis, who wants his predecessor as main rival."
+          },
+          "tags": {
+            "el": [
+              "εκλογές",
+              "Μητσοτάκης",
+              "Τσίπρας"
+            ],
+            "en": [
+              "elections",
+              "Mitsotakis",
+              "Tsipras"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "053b91563827",
+          "title": "Αμυνα από την «κουζίνα» έως τους ουρανούς",
+          "url": "https://www.kathimerini.gr/opinion/564311287/amyna-apo-tin-koyzina-eos-toys-oyranoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:02:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Άρθρο του Νίκου Κωνσταντάρα για το πώς τα φθηνά drones άλλαξαν τη φύση του πολέμου και της άμυνας, με αφορμή τη χλεύη του επικεφαλής της Rheinmetall προς τους Ουκρανούς αυτοσχεδιαστές.",
+            "en": "Nikos Konstantaras on how cheap drones have changed the nature of war and defense, prompted by the Rheinmetall chief's mockery of Ukrainian improvisers."
+          },
+          "tags": {
+            "el": [
+              "drones",
+              "άμυνα",
+              "πόλεμος"
+            ],
+            "en": [
+              "drones",
+              "defense",
+              "war"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "558586bbb21d",
+          "title": "Στη σωστή πλευρά",
+          "url": "https://www.kathimerini.gr/opinion/564311461/sti-sosti-pleyra/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:10:00+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ο Κώστας Ιορδανίδης σχολιάζει την επικείμενη επίσκεψη Τραμπ στη Σύνοδο του ΝΑΤΟ στην Άγκυρα (7-8 Ιουλίου) και τα ερωτήματα για πιθανή επάνοδο της Τουρκίας στο πρόγραμμα F-35.",
+            "en": "Kostas Iordanidis on Trump's upcoming visit to the NATO summit in Ankara (7-8 July) and questions over Turkey's possible return to the F-35 program."
+          },
+          "tags": {
+            "el": [
+              "Τραμπ",
+              "ΝΑΤΟ",
+              "Τουρκία"
+            ],
+            "en": [
+              "Trump",
+              "NATO",
+              "Turkey"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f2e79929bd9b",
+          "title": "Η κυβέρνηση που χρειαζόμαστε",
+          "url": "https://www.kathimerini.gr/opinion/564311506/i-kyvernisi-poy-chreiazomaste/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:01:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ο Τάκης Παππάς αναλύει «την κυβέρνηση που χρειαζόμαστε», υποστηρίζοντας ότι το παλιό σχήμα Δεξιά-Αριστερά —με το ΠΑΣΟΚ του '80 ως πρότυπο ιδεολογικής συνοχής— δεν ισχύει πια.",
+            "en": "Takis Pappas analyzes 'the government we need,' arguing the old Right-Left schema—with 1980s PASOK as a model of ideological coherence—no longer holds."
+          },
+          "tags": {
+            "el": [
+              "πολιτική",
+              "ιδεολογία",
+              "διακυβέρνηση"
+            ],
+            "en": [
+              "politics",
+              "ideology",
+              "governance"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e1fe54fc2ed1",
+          "title": "Το τίμημα της δημοτικότητας",
+          "url": "https://www.kathimerini.gr/opinion/564311290/to-timima-tis-dimotikotitas/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:08:00+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Ο Άρης Αλεξανδρής αναλύει «το τίμημα της δημοτικότητας», με αφορμή τη φθορά της Μαρίας Καρυστιανού και τις αποχωρήσεις στελεχών από το κόμμα «Ελπίδα για τη Δημοκρατία».",
+            "en": "Aris Alexandris analyzes 'the price of popularity,' prompted by the erosion of Maria Karystianou's appeal and departures from the 'Hope for Democracy' party."
+          },
+          "tags": {
+            "el": [
+              "δημοτικότητα",
+              "Καρυστιανού",
+              "πολιτική"
+            ],
+            "en": [
+              "popularity",
+              "Karystianou",
+              "politics"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "id": "178d2432d8cc",
+          "title": "Ενα δώρο στον Μελ Μπρουκς για τα 100ά γενέθλιά του",
+          "url": "https://www.kathimerini.gr/culture/cinema/564313378/ena-doro-ston-mel-mproyks-gia-ta-100a-genethlia-toy/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T08:52:31+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Με αφορμή τα 100ά γενέθλια του Μελ Μπρουκς, το American Film Institute αναθεώρησε συμβολικά τη λίστα των 100 καλύτερων κωμωδιών, ανεβάζοντας το «Blazing Saddles» (1974) στην πρώτη θέση. Έρχεται και σίκουελ του «Spaceballs».",
+            "en": "Marking Mel Brooks's 100th birthday, the American Film Institute symbolically revised its 100 greatest comedies list, moving 'Blazing Saddles' (1974) to first place. A 'Spaceballs' sequel is also coming."
+          },
+          "tags": {
+            "el": [
+              "Μελ Μπρουκς",
+              "κινηματογράφος",
+              "κωμωδία"
+            ],
+            "en": [
+              "Mel Brooks",
+              "cinema",
+              "comedy"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "38f786ea7845",
+          "title": "Θροΐσματα της νύχτας και αυλαία",
+          "url": "https://www.kathimerini.gr/culture/564309976/thro-smata-tis-nychtas-kai-aylaia/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T21:20:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Το Φεστιβάλ Επιδαύρου προσφέρει φέτος «θεατρικό after» με δύο παραστάσεις που ξεκινούν τα μεσάνυχτα: «Άλκηστις-Τοπίο μετά την Υπόσχεση» του Δ. Καμαρωτού και «Oedipus Steps» του Ζ. Σέγκλια, σε διάλογο με τον αρχαιολογικό χώρο.",
+            "en": "The Epidaurus Festival offers a 'theatrical after' this year with two midnight performances: Dimitris Kamarotos's 'Alkestis' and Zisis Seglias's 'Oedipus Steps,' in dialogue with the ancient site."
+          },
+          "tags": {
+            "el": [
+              "Επίδαυρος",
+              "θέατρο",
+              "φεστιβάλ"
+            ],
+            "en": [
+              "Epidaurus",
+              "theater",
+              "festival"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "0d8cb8f70ecb",
+          "title": "Πλατεία Συντάγματος και πέριξ: Η κουλτούρα του καφέ στην Αθήνα",
+          "url": "https://www.kathimerini.gr/culture/564310000/plateia-syntagmatos-kai-perix-i-koyltoyra-toy-kafe-stin-athina/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T21:30:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Νίκος Βατόπουλος αναπολεί την κουλτούρα του καφέ γύρω από την πλατεία Συντάγματος, με αφετηρία το θρυλικό «Μπραζίλιαν» στη Στοά Καλλιγά και την Αθήνα του 1960 που αναδυόταν μοντέρνα και αισιόδοξη.",
+            "en": "Nikos Vatopoulos reminisces about the coffee culture around Syntagma Square, starting from the legendary 'Brazilian' café in Stoa Kalliga and the optimistic, modernizing Athens of the 1960s."
+          },
+          "tags": {
+            "el": [
+              "Αθήνα",
+              "καφέ",
+              "ιστορία"
+            ],
+            "en": [
+              "Athens",
+              "coffee",
+              "history"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "f13200c79489",
+          "title": "Τι γίνεται όταν φεύγουν οι χορηγοί;",
+          "url": "https://www.kathimerini.gr/culture/564310051/ti-ginetai-otan-feygoyn-oi-chorigoi/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T21:40:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Σάκης Ιωαννίδης γράφει για το Διεθνές Φεστιβάλ Ντοκιμαντέρ Beyond Borders στο Καστελλόριζο και το ερώτημα της βιωσιμότητας των πολιτιστικών θεσμών όταν αποσύρονται οι χορηγοί.",
+            "en": "Sakis Ioannidis writes on the Beyond Borders International Documentary Festival in Kastellorizo and the question of cultural institutions' viability when sponsors withdraw."
+          },
+          "tags": {
+            "el": [
+              "φεστιβάλ",
+              "ντοκιμαντέρ",
+              "χορηγοί"
+            ],
+            "en": [
+              "festival",
+              "documentary",
+              "sponsors"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "4383d1350dcd",
+          "title": "Tim & Jeff Buckley: Ο πατέρας έφυγε στα 28 και ο γιος στα 30",
+          "url": "https://www.kathimerini.gr/culture/564309136/tim-amp-jeff-buckley-o-pateras-efyge-sta-28-kai-o-gios-sta-30/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T08:00:00+00:00",
+          "importance": 46,
+          "summary": {
+            "el": "Με αφορμή την επέτειο θανάτου του Τιμ Μπάκλεϊ, αφιέρωμα στον πατέρα και τον γιο, Tim και Jeff Buckley — δύο προικισμένους μουσικούς που, παρά τον σύντομο βίο τους, διατηρούν βαθιά και άσβεστη επιδραστικότητα.",
+            "en": "Marking the anniversary of Tim Buckley's death, a tribute to father and son, Tim and Jeff Buckley—two gifted musicians whose deep influence endures despite their short lives."
+          },
+          "tags": {
+            "el": [
+              "μουσική",
+              "Buckley",
+              "αφιέρωμα"
+            ],
+            "en": [
+              "music",
+              "Buckley",
+              "tribute"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "7b97c500ef09",
+          "title": "Αλλάζει πίστα η αμυντική βιομηχανία",
+          "url": "https://www.kathimerini.gr/economy/564311626/allazei-pista-i-amyntiki-viomichania/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T10:05:01+00:00",
+          "category": "economy",
+          "importance": 75,
+          "summary": {
+            "el": "Η ελληνική αμυντική βιομηχανία μετασχηματίζεται, με νέο οικοσύστημα κρατικών φορέων, ομίλων και startups. Το σχέδιο ReArm Europe (έως 800 δισ.) και η δέσμευση για 25% εγχώρια συμμετοχή ανοίγουν έργα ~750 εκατ. ευρώ.",
+            "en": "Greece's defense industry is transforming, with a new ecosystem of state bodies, large groups and startups. The ReArm Europe plan (up to €800bn) and a 25% domestic-participation pledge open projects worth ~€750m."
+          },
+          "tags": {
+            "el": [
+              "αμυντική βιομηχανία",
+              "ReArm Europe",
+              "startups"
+            ],
+            "en": [
+              "defense industry",
+              "ReArm Europe",
+              "startups"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "053b91563827",
+          "title": "Αμυνα από την «κουζίνα» έως τους ουρανούς",
+          "url": "https://www.kathimerini.gr/opinion/564311287/amyna-apo-tin-koyzina-eos-toys-oyranoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-28T20:02:00+00:00",
+          "category": "opinion",
+          "importance": 72,
+          "summary": {
+            "el": "Άρθρο του Νίκου Κωνσταντάρα για το πώς τα φθηνά drones άλλαξαν τη φύση του πολέμου και της άμυνας, με αφορμή τη χλεύη του επικεφαλής της Rheinmetall προς τους Ουκρανούς αυτοσχεδιαστές.",
+            "en": "Nikos Konstantaras on how cheap drones have changed the nature of war and defense, prompted by the Rheinmetall chief's mockery of Ukrainian improvisers."
+          },
+          "tags": {
+            "el": [
+              "drones",
+              "άμυνα",
+              "πόλεμος"
+            ],
+            "en": [
+              "drones",
+              "defense",
+              "war"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "c00e574d3090",
+          "title": "Μπορεί η Ευρώπη να αμυνθεί ενάντια στην απειλή των drones;",
+          "url": "https://www.kathimerini.gr/visual/video/564309754/mporei-i-eyropi-na-amynthei-enantia-stin-apeili-ton-drones/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T11:30:00+03:00",
+          "category": "world",
+          "importance": 64,
+          "summary": {
+            "el": "Ανάλυση: μπορεί η Ευρώπη να αμυνθεί απέναντι στην απειλή των drones; Αυξανόμενες παραβιάσεις του εναέριου χώρου (που έριξαν ακόμη και κυβέρνηση στη Λετονία) ωθούν την Ε.Ε. σε ενιαίο σύστημα προστασίας έως το 2027.",
+            "en": "Analysis: can Europe defend against the drone threat? Rising airspace violations (which even toppled Latvia's government) push the EU toward a unified counter-drone system by 2027."
+          },
+          "tags": {
+            "el": [
+              "drones",
+              "Ευρώπη",
+              "άμυνα"
+            ],
+            "en": [
+              "drones",
+              "Europe",
+              "defense"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "3b4ae40a04b4",
+          "title": "NASA: Αγώνας για να μην πέσει στη Γη διαστημικό τηλεσκόπιο",
+          "url": "https://www.kathimerini.gr/world/564313645/nasa-agonas-gia-na-min-pesei-sti-gi-diastimiko-tileskopio/",
+          "source": "Kathimerini",
+          "published": "2026-06-29T12:04:02+00:00",
+          "category": "world",
+          "importance": 56,
+          "summary": {
+            "el": "Η NASA επιχειρεί τολμηρή διάσωση 30 εκατ. δολαρίων του γηρασμένου τηλεσκοπίου Swift, αναθέτοντας στην εταιρεία Katalyst την ώθησή του σε υψηλότερη τροχιά για να μην πέσει στη Γη.",
+            "en": "NASA is attempting a $30m rescue of the aging Swift telescope, tasking startup Katalyst with boosting it to a higher orbit to prevent it from falling to Earth."
+          },
+          "tags": {
+            "el": [
+              "NASA",
+              "τηλεσκόπιο",
+              "διάστημα"
+            ],
+            "en": [
+              "NASA",
+              "telescope",
+              "space"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 65
+  }
+}

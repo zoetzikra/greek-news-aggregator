@@ -1,0 +1,626 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:12:43.150090+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 73 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επικαιρότητα της 4ης Ιουλίου 2026 κυριαρχείται από την αποκάλυψη της υβριδικής επίθεσης κατά του Θάνου Ντόκου: Ρώσοι φαρσέρ, χρησιμοποιώντας deepfake βίντεο και φωνή του Ουκρανού αξιωματούχου Ρουστέμ Ουμέροφ, εξαπάτησαν τον Σύμβουλο Εθνικής Ασφαλείας, με την κυβέρνηση να διαβεβαιώνει ότι δεν διέρρευσαν απόρρητες πληροφορίες και την αντιπολίτευση να ζητά την απομάκρυνσή του. Το περιστατικό αναδεικνύει την έκθεση της χώρας σε επιχειρήσεις παραπληροφόρησης με τεχνητή νοημοσύνη και οδηγεί σε αναθεώρηση των πρωτοκόλλων ασφαλείας.\n\nΒαριά σκιά ρίχνει και η συνέχεια της εμπρηστικής επίθεσης στη Θεσσαλονίκη που κόστισε τη ζωή στη Βάγια Νέστορα, μητέρα στελέχους της Ν.Δ. Μαρτυρίες ενοίκων περιγράφουν το κλιμακοστάσιο που «έγινε καμινάδα», ενώ αστυνομικά στοιχεία δείχνουν μία δικογραφία κάθε πέντε ημέρες για επιθέσεις με εμπρηστικό ή εξτρεμιστικό κίνητρο στην Αττική. Η αρθρογραφία της ημέρας εστιάζει στην κοινωνική ανοχή απέναντι στην πολιτική βία και στη σιωπή που τη συνοδεύει.\n\nΣτο διεθνές πεδίο, το Ιράν αποχαιρετά τον Αλί Χαμενεΐ με λαϊκό προσκύνημα εκατομμυρίων και παρουσία αξιωματούχων από Ρωσία και Κίνα, ενώ αποκαλύψεις για ισραηλινό σχέδιο δολοφονίας Ιρανών διαπραγματευτών οξύνουν το κλίμα. Η Ρωσία ανακοινώνει την κατάληψη της Κοστιαντινίφκα στο Ντονμπάς, και η επικείμενη σύνοδος του ΝΑΤΟ στην Άγκυρα — με τον Τραμπ να «ξεκλειδώνει» κινητήρες F110 για το τουρκικό KAAN — δημιουργεί δύσκολο περιβάλλον για την ελληνική διπλωματία.\n\nΣτην οικονομία, ο Γιάννης Στουρνάρας διαφωνεί με τα «γεράκια» της ΕΚΤ ζητώντας παύση των αυξήσεων επιτοκίων, μελέτη της ΕΤΕ αναδεικνύει τους έμμεσους φόρους ως «ατμομηχανή» των υπερπλεονασμάτων, ενώ η ΑΑΔΕ ενεργοποιεί διασταυρώσεις με στοιχεία από 93 χώρες. Η χώρα διεκδικεί ευρωπαϊκό στρατηγικό χαρακτηρισμό για πέντε έργα κρίσιμων πρώτων υλών, την ώρα που οι επιστήμονες προειδοποιούν ότι η Ελλάδα βρίσκεται σε ζώνη υψηλής επικινδυνότητας για ακραίες θερμοκρασίες.",
+    "en": "The news of July 4, 2026 is dominated by the revelation of a hybrid attack against Thanos Dokos: Russian pranksters, using a deepfake video and voice of Ukrainian official Rustem Umerov, deceived Greece's National Security Advisor. The government insists no classified information leaked, while the opposition demands his removal. The incident exposes the country's vulnerability to AI-driven disinformation operations and is prompting a revision of security protocols.\n\nThe aftermath of the Thessaloniki arson attack that killed Vagia Nestora, mother of an ND official, casts a heavy shadow. Residents describe a stairwell that 'became a chimney,' while police data show one case file every five days for arson or extremist attacks in Attica. The day's opinion pages focus on social tolerance of political violence and the silence surrounding it.\n\nInternationally, Iran bids farewell to Ali Khamenei with a public mourning of millions attended by officials from Russia and China, while revelations of an Israeli plan to assassinate Iranian negotiators sharpen tensions. Russia announces the capture of Kostiantynivka in Donbas, and the upcoming NATO summit in Ankara — with Trump releasing F110 engines for Turkey's KAAN fighter — creates a difficult environment for Greek diplomacy.\n\nIn the economy, Yannis Stournaras breaks with ECB hawks in calling for a pause in rate hikes, an NBG study highlights indirect taxes as the 'locomotive' of Greece's fiscal over-performance, and the tax authority activates cross-checks with data from 93 countries. Greece is bidding for EU strategic status for five critical raw materials projects, while scientists warn the country sits in a high-risk zone for extreme heat."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Υβριδική επίθεση deepfake κατά του Θάνου Ντόκου",
+        "en": "Deepfake hybrid attack on Thanos Dokos"
+      },
+      "description": {
+        "el": "Ρώσοι φαρσέρ εξαπάτησαν τον Σύμβουλο Εθνικής Ασφαλείας με deepfake του Ρουστέμ Ουμέροφ· η κυβέρνηση διαβεβαιώνει ότι δεν διέρρευσαν απόρρητα, η αντιπολίτευση ζητά την απομάκρυνσή του και τα πρωτόκολλα ασφαλείας αναθεωρούνται.",
+        "en": "Russian pranksters duped the National Security Advisor with a deepfake of Rustem Umerov; the government says no secrets leaked, the opposition demands his removal, and security protocols are being revised."
+      },
+      "related_items": [
+        "6f9a81e7f0c1",
+        "77fa75273415",
+        "e6922a9020f1"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Πολιτική βία μετά την επίθεση στη Θεσσαλονίκη",
+        "en": "Political violence after the Thessaloniki attack"
+      },
+      "description": {
+        "el": "Μαρτυρίες για τον θανατηφόρο εμπρησμό που στοίχισε τη ζωή στη Βάγια Νέστορα, στοιχεία για μία δικογραφία κάθε πέντε ημέρες στην Αττική και αρθρογραφία για την κοινωνική ανοχή στην πολιτική βία.",
+        "en": "Testimony from the fatal arson that killed Vagia Nestora, data showing one case file every five days in Attica, and opinion pieces on social tolerance of political violence."
+      },
+      "related_items": [
+        "2c34910a7bc2",
+        "4acb9d04e4fa",
+        "4991d460e81d",
+        "eec3df478dc1",
+        "b8e6e68aa2c4"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Το Ιράν μετά τον Χαμενεΐ",
+        "en": "Iran after Khamenei"
+      },
+      "description": {
+        "el": "Λαϊκό προσκύνημα εκατομμυρίων στη σορό του Αλί Χαμενεΐ με παρουσία Ρωσίας και Κίνας, ενώ αποκαλύπτεται ισραηλινό σχέδιο δολοφονίας Ιρανών διαπραγματευτών.",
+        "en": "Millions mourn Ali Khamenei with Russia and China in attendance, as revelations emerge of an Israeli plan to assassinate Iranian negotiators."
+      },
+      "related_items": [
+        "ec35a85618c6",
+        "7a1801fa2a42",
+        "326101edafd6"
+      ],
+      "importance": 84
+    },
+    {
+      "name": {
+        "el": "Σύνοδος ΝΑΤΟ στην Άγκυρα και ελληνοτουρκικά",
+        "en": "NATO summit in Ankara and Greek-Turkish relations"
+      },
+      "description": {
+        "el": "Ο Τραμπ «ξεκλειδώνει» κινητήρες F110 για το τουρκικό KAAN ενόψει της συνόδου του ΝΑΤΟ στην Άγκυρα, με πρώην πρέσβεις να προειδοποιούν για δύσκολο περιβάλλον για την Αθήνα και ερωτήματα προς την Κάλας για το casus belli.",
+        "en": "Trump releases F110 engines for Turkey's KAAN ahead of the NATO summit in Ankara, with former ambassadors warning of a difficult environment for Athens and ND MEPs questioning Kallas over the casus belli."
+      },
+      "related_items": [
+        "3b7eba0ada67",
+        "856034f68086",
+        "d22527af94c4",
+        "ded0f13b1a96"
+      ],
+      "importance": 80
+    }
+  ],
+  "article_count": 73,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "6f9a81e7f0c1",
+          "title": "Υβριδική επίθεση με στόχο τον Θάνο Ντόκο",
+          "url": "https://www.kathimerini.gr/politics/564324457/yvridiki-epithesi-me-stocho-ton-thano-ntoko/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T10:15:42+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Ο γ.γ. Εθνικής Ασφαλείας Θάνος Ντόκος έπεσε θύμα υβριδικής επίθεσης, συνομιλώντας σε τηλεδιάσκεψη με deepfake πρόσωπο του Ουκρανού ομολόγου του, προϊόν προηγμένης τεχνητής νοημοσύνης που κατασκεύασαν δύο Ρώσοι φαρσέρ. Στη συζήτηση θίχτηκε το περιστατικό με το ουκρανικό ναυτικό drone στη Λευκάδα, όμως η κυβέρνηση διαβεβαιώνει ότι δεν διέρρευσαν απόρρητες πληροφορίες και καλύπτει πλήρως τον κ. Ντόκο.",
+            "en": "National Security Secretary-General Thanos Dokos fell victim to a hybrid operation, holding a video call with an AI deepfake of his Ukrainian counterpart created by two Russian pranksters. The conversation touched on the Ukrainian naval drone incident off Lefkada, but the government insists no classified information leaked and fully backs Dokos, while the episode highlights the risks AI poses to state officials."
+          }
+        },
+        {
+          "id": "3b7eba0ada67",
+          "title": "Με «μικρό δώρο» πηγαίνει ο Τραμπ στην Αγκυρα",
+          "url": "https://www.kathimerini.gr/politics/564322225/me-mikro-doro-pigainei-o-tramp-stin-agkyra/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T19:35:14+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ αναμένεται να μεταβεί στη σύνοδο του ΝΑΤΟ στην Άγκυρα με «δώρο» την αποδέσμευση 80 κινητήρων F110-129E της General Electric για το τουρκικό μαχητικό ΚΑΑΝ. Η κίνηση δίνει «φιλί ζωής» στην τουρκική αεροπορία, που θέλει να κλείσει την τεχνολογική ψαλίδα με Ελλάδα και Ισραήλ, χωρίς όμως να ικανοποιεί το αίτημα επιστροφής στα F-35, λόγω CAATSA, αντιδράσεων στο Ρεπουμπλικανικό κόμμα και πιέσεων του ελληνικού και ισραηλινού λόμπι.",
+            "en": "Donald Trump is expected to arrive at the NATO summit in Ankara bearing a 'gift': the release of 80 GE F110-129E engines for Turkey's KAAN fighter programme. The move is a lifeline for the Turkish air force, which seeks to close the technology gap with Greece and Israel, but falls short of Erdogan's key demand to rejoin the F-35 programme due to CAATSA, Republican objections and Greek and Israeli lobby pressure."
+          }
+        },
+        {
+          "id": "77fa75273415",
+          "title": "Ντόκος: «Νόμιζα ότι μιλούσα με τον Ουμέροφ. Τον έβλεπα, όπως βλέπω εσάς»",
+          "url": "https://www.kathimerini.gr/politics/564324286/ntokos-nomiza-oti-miloysa-me-ton-oymerof-ton-evlepa-opos-vlepo-esas/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:04:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο Θάνος Ντόκος περιγράφει στον ΣΚΑΪ πώς εξαπατήθηκε από deepfake του Ουκρανού ομολόγου του: «Τον έβλεπα, όπως βλέπω εσάς». Υποψιάστηκε την απάτη από την επιμονή του συνομιλητή σε περίεργες θέσεις για πιθανή επανάληψη περιστατικού με drone, ενημέρωσε αμέσως την ΕΥΠ και τον πρωθυπουργό, ενώ ήδη αναθεωρούνται τα πρωτόκολλα ασφαλείας απέναντι σε τέτοιες απειλές τεχνητής νοημοσύνης.",
+            "en": "Thanos Dokos told SKAI how he was deceived by a deepfake of his Ukrainian counterpart: 'I could see him, just as I see you.' He grew suspicious when the interlocutor kept pressing odd positions about repeating a drone incident, immediately alerted the EYP intelligence service and the prime minister, and security protocols are already being revised to counter such AI-driven threats."
+          }
+        },
+        {
+          "id": "1192488e17a0",
+          "title": "Η αντιπολίτευση «ζυγίζει» τον χρόνο μέχρι τις εκλογές",
+          "url": "https://www.kathimerini.gr/politics/parties/564322237/i-antipoliteysi-zygizei-ton-chrono-mechri-tis-ekloges/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T19:51:31+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Τα κόμματα της αντιπολίτευσης «ζυγίζουν» τον χρόνο των εκλογών: το ΠΑΣΟΚ θεωρεί πρόσκαιρο τον «θόρυβο» Τσίπρα και δεν θα έλεγε όχι στην εξάντληση της τετραετίας, ενώ η ΕΛ.Α.Σ. διχάζεται μεταξύ γρήγορης καθιέρωσης ως αξιωματική αντιπολίτευση και χρόνου για μείωση της ψαλίδας από τη Ν.Δ. Η Καρυστιανού ευνοείται από γρήγορες κάλπες, Βελόπουλος και Κωνσταντοπούλου ζητούν χρόνο, ενώ ο ΣΥΡΙΖΑ φυλλορροεί.",
+            "en": "Opposition parties are weighing the timing of the next election: PASOK sees the Tsipras surge as temporary and would not mind a full four-year term, while Tsipras's ELAS is split between quickly cementing second place and waiting to close the gap with New Democracy. Karystianou would benefit from early polls, Velopoulos and Konstantopoulou need time to regroup, and SYRIZA is haemorrhaging MPs and cadres."
+          }
+        },
+        {
+          "id": "7c17b79877b0",
+          "title": "Κομισιόν: Νέα γενιά ευρωπαϊκών αμυντικών έργων – Η Ελλάδα στα 4 από τα 5 προγράμματα",
+          "url": "https://www.kathimerini.gr/politics/amyna/564324040/komision-nea-genia-eyropaikon-amyntikon-ergon-i-ellada-sta-4-apo-ta-5-programmata/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T17:57:19+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Η Κομισιόν πρότεινε τα πρώτα πέντε Ευρωπαϊκά Αμυντικά Έργα Κοινού Ενδιαφέροντος (EDPCIs), με επενδύσεις που εκτιμάται ότι θα ξεπεράσουν τα 180 δισ. ευρώ, στο πλαίσιο του προγράμματος EDIP. Η Ελλάδα συμμετέχει σε τέσσερα από τα πέντε έργα, από τις ευρύτερες συμμετοχές στην Ε.Ε., με ήδη δεσμευμένα 325 εκατ. ευρώ για την εκκίνησή τους.",
+            "en": "The European Commission proposed the first five European Defence Projects of Common Interest (EDPCIs), with investments expected to exceed 180 billion euros under the EDIP programme, creating long-term industrial partnerships to jointly develop military capabilities. Greece participates in four of the five projects — among the broadest involvement in the EU — with 325 million euros already committed for their launch."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "cbeffa249c67",
+          "title": "Διαφωνίες Στουρνάρα με «γεράκια» της ΕΚΤ για τις αυξήσεις επιτοκίων",
+          "url": "https://www.kathimerini.gr/economy/564322729/diafonies-stoyrnara-me-gerakia-tis-ekt-gia-tis-ayxiseis-epitokion/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T22:07:06+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Στο ετήσιο φόρουμ της ΕΚΤ στη Σίντρα αναδείχθηκαν διαφωνίες για το αν χρειάζεται νέα αύξηση επιτοκίων, μετά την ομόφωνη αύξηση λόγω του πολέμου στο Ιράν. Ο Γιάννης Στουρνάρας τάσσεται υπέρ της διατήρησης των επιτοκίων στα σημερινά επίπεδα, καθώς ο πληθωρισμός της Ευρωζώνης υποχώρησε στο 2,8% τον Ιούνιο. Τα «γεράκια», όπως ο Φίλιπ Λέιν, προειδοποιούν για πληθωριστικές πιέσεις από μισθούς και τρόφιμα, με τις αγορές να μην αναμένουν κίνηση τον Ιούλιο.",
+            "en": "At the ECB's annual forum in Sintra, policymakers split over whether further rate hikes are needed after the unanimous increase triggered by the Iran war. Bank of Greece governor Yannis Stournaras argues rates should stay at current levels as eurozone inflation eased to 2.8% in June. Hawks like chief economist Philip Lane warn of second-round wage and food price pressures, while markets expect no move in July."
+          }
+        },
+        {
+          "id": "edeb13449bf4",
+          "title": "Εμμεσοι φόροι, η «ατμομηχανή» των υπερπλεονασμάτων",
+          "url": "https://www.kathimerini.gr/economy/local/564322618/emmesoi-foroi-i-atmomichani-ton-yperpleonasmaton/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:44:05+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Μελέτη της Εθνικής Τράπεζας αποδίδει έως τα δύο τρίτα της υπεραπόδοσης των πρωτογενών πλεονασμάτων 2022-2025 στα φορολογικά έσοδα, που αυξήθηκαν κατά 22 δισ. ευρώ και έφτασαν στο ρεκόρ του 28,4% του ΑΕΠ. Οι έμμεσοι φόροι, με τον ΦΠΑ στο ιστορικό υψηλό του 9,5% του ΑΕΠ έναντι 7,2% στην Ε.Ε., αποτελούν την «ατμομηχανή», λόγω κατανάλωσης, τουρισμού και βελτιωμένης συμμόρφωσης. Η ΕΤΕ προβλέπει πλεόνασμα 4% φέτος, πάνω από τους κυβερνητικούς στόχους.",
+            "en": "A National Bank of Greece study attributes up to two-thirds of the 2022-2025 primary surplus overperformance to tax revenues, which rose by 22 billion euros to a record 28.4% of GDP. Indirect taxes are the engine, with VAT hitting a historic high of 9.5% of GDP versus 7.2% in the EU, driven by consumption, tourism and better compliance. NBG forecasts a 4% surplus this year, above government targets."
+          }
+        },
+        {
+          "id": "5419c66f83a6",
+          "title": "H υποχώρηση τιμών ενέργειας βελτίωσε το οικονομικό κλίμα",
+          "url": "https://www.kathimerini.gr/economy/564322642/h-ypochorisi-timon-energeias-veltiose-to-oikonomiko-klima/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T22:24:27+00:00",
+          "importance": 80,
+          "summary": {
+            "el": "Ο δείκτης οικονομικού κλίματος του ΙΟΒΕ βελτιώθηκε τον Ιούνιο στις 108,3 μονάδες από 107,7, χάρη στην αποκλιμάκωση των τιμών ενέργειας και στην ενίσχυση των προσδοκιών σε λιανεμπόριο και υπηρεσίες. Οι Έλληνες καταναλωτές παραμένουν ωστόσο οι πιο απαισιόδοξοι στην Ε.Ε. (-52,8 μονάδες), με σημαντική υποχώρηση της πρόθεσης για μείζονες αγορές. Αβεβαιότητα προκαλούν η εύθραυστη εκεχειρία στη Μέση Ανατολή και η προεκλογική περίοδος.",
+            "en": "IOBE's economic sentiment index edged up to 108.3 points in June from 107.7, helped by falling energy prices and stronger expectations in retail and services. Greek consumers nevertheless remain the most pessimistic in the EU at -52.8 points, with intentions for major purchases dropping sharply. The fragile Middle East ceasefire and the upcoming election period cloud the outlook."
+          }
+        },
+        {
+          "id": "4648acc287ae",
+          "title": "Ασφάλιση κοινόχρηστων χώρων πολυκατοικιών έναντι καταστροφών",
+          "url": "https://www.kathimerini.gr/economy/local/564324829/asfalisi-koinochriston-choron-polykatoikion-enanti-katastrofon/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T10:43:13+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Το υπουργείο Δικαιοσύνης εξετάζει την υποχρεωτική ασφάλιση των κοινόχρηστων χώρων πολυκατοικιών έναντι πυρκαγιάς, σεισμού, πλημμύρας και ενδεχομένως καθίζησης, μετά την κατάρρευση πολυκατοικίας στα Πετράλωνα. Η ρύθμιση εντάσσεται στον υπό διαμόρφωση Κώδικα Ιδιοκτησίας, που θα αντικαταστήσει τον νόμο του 1929 και αναμένεται έως το φθινόπωρο. Προβλέπεται επίσης μείωση των απαιτούμενων πλειοψηφιών στο 51% για αποφάσεις όπως ενεργειακές αναβαθμίσεις και ταχύτερη επίλυση διαφορών συνιδιοκτητών.",
+            "en": "The Justice Ministry is considering mandatory insurance of apartment buildings' common areas against fire, earthquake, flood and possibly subsidence, following the building collapse in Petralona. The measure is part of a new Property Code replacing the 1929 law, expected by autumn. The code would also cut required co-owner majorities to 51% for decisions such as energy upgrades and speed up dispute resolution."
+          }
+        },
+        {
+          "id": "9c24ad933206",
+          "title": "Στο τραπέζι πέντε νέα έργα στις κρίσιμες πρώτες ύλες",
+          "url": "https://www.kathimerini.gr/economy/business/564322666/sto-trapezi-pente-nea-erga-stis-krisimes-protes-yles/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T22:00:26+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Η Ελλάδα διεκδικεί την ένταξη πέντε νέων έργων στον κατάλογο στρατηγικών έργων της Ε.Ε. για τις κρίσιμες πρώτες ύλες, μετά την επένδυση γαλλίου της Metlen στη Βοιωτία. Ξεχωρίζουν οι Σκουριές της Eldorado Gold στη Χαλκιδική (χαλκός-χρυσός, επένδυση άνω των 2 δισ. δολ.), το Sapes στη Θράκη, το κοίτασμα γερμανίου στους Μολάους και δύο έργα ανακύκλωσης της ElvalHalcor. Η κοινωνική αποδοχή αναδεικνύεται ως ο βασικός ανασταλτικός παράγοντας.",
+            "en": "Greece is seeking EU strategic-project status for five new critical raw materials projects, following Metlen's gallium investment in Viotia. Highlights include Eldorado Gold's Skouries copper-gold project in Halkidiki (over $2 billion), the Sapes project in Thrace, the Molaoi germanium deposit in Laconia, and two ElvalHalcor recycling projects. Local community acceptance emerges as the main obstacle."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "2c34910a7bc2",
+          "title": "«Το κλιμακοστάσιο έγινε καμινάδα» – Η συγκλονιστική μαρτυρία ενοίκου της πολυκατοικίας στη Θεσσαλονίκη",
+          "url": "https://www.kathimerini.gr/society/564326095/to-klimakostasio-egine-kaminada-i-sygklonistiki-martyria-enoikoy-tis-polykatoikias-sti-thessaloniki/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T09:28:28+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ένοικος της πολυκατοικίας στη Θεσσαλονίκη όπου σημειώθηκε η εμπρηστική επίθεση που στοίχισε τη ζωή στη Βάγια Νέστορα, μητέρα της πολιτεύτριας της ΝΔ Αφροδίτης Νέστορα, περιγράφει στην ΕΡΤ τις δραματικές στιγμές των εκρήξεων. Το κλιμακοστάσιο μετατράπηκε σε «καμινάδα» γεμάτη καπνό, ενώ η Αφροδίτη Νέστορα βρήκε καταφύγιο ημιλιπόθυμη στο διαμέρισμά του μέχρι να την παραλάβουν οι διασώστες. Οι ένοικοι δηλώνουν ότι δεν είχαν αντιληφθεί ποτέ απειλές στη γειτονιά και περιμένουν τον εντοπισμό των δραστών.",
+            "en": "A resident of the Thessaloniki apartment building hit by the arson attack that killed Vagia Nestora, mother of New Democracy politician Afroditi Nestora, describes to ERT the dramatic moments after the explosions. The stairwell turned into a smoke-filled 'chimney', while Afroditi Nestora, semi-conscious with burns, found refuge in his apartment until rescuers arrived. Residents say they had never noticed any threats in the neighborhood and await the identification of the perpetrators."
+          }
+        },
+        {
+          "id": "4acb9d04e4fa",
+          "title": "Μία δικογραφία κάθε πέντε μέρες για επιθέσεις",
+          "url": "https://www.kathimerini.gr/society/564324454/mia-dikografia-kathe-pente-meres-gia-epitheseis/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T07:13:50+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Στοιχεία της ΓΑΔΑ δείχνουν ότι σχηματίζεται μία δικογραφία περίπου κάθε πέντε ημέρες για καταδρομικές και εμπρηστικές επιθέσεις στην Αττική, κυρίως από ομάδες του αναρχικού–αντιεξουσιαστικού χώρου: 78 δικογραφίες το 2024, 72 το 2025 και 41 από την αρχή του 2026. Από το 2024 έχουν συλληφθεί 150 άτομα, ωστόσο οι περισσότερες υποθέσεις δεν έχουν φτάσει στα δικαστήρια. Χθες αναρτήθηκε στο Indymedia ανάληψη ευθύνης για την επίθεση κατά αστυνομικών της ομάδας ΔΡΑΣΗ στα Εξάρχεια.",
+            "en": "Police data show that a case file is opened roughly every five days for hit-and-run and arson attacks in Attica, mostly by anarchist–anti-authority groups: 78 case files in 2024, 72 in 2025 and 41 so far in 2026. Some 150 people have been arrested since 2024, yet most cases have not reached the courts. A claim of responsibility for the attack on DRASI police officers in Exarchia was posted on Indymedia yesterday."
+          }
+        },
+        {
+          "id": "67965c50bfce",
+          "title": "«Σε περιοχή υψηλής επικινδυνότητας η Ελλάδα για ακραίες θερμοκρασίες»",
+          "url": "https://www.kathimerini.gr/society/564326272/se-periochi-ypsilis-epikindynotitas-i-ellada-gia-akraies-thermokrasies/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T12:58:54+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο καθηγητής Φυσικής του Πανεπιστημίου Πατρών Αθανάσιος Αργυρίου προειδοποιεί ότι η Ελλάδα, ως χώρα της ανατολικής Μεσογείου, βρίσκεται σε περιοχή υψηλής επικινδυνότητας για ακραία υψηλές θερμοκρασίες, με πιο ευάλωτες τη Θεσσαλία, τη Μακεδονία, τη Θράκη, την Αττική και τα μεγάλα αστικά κέντρα. Εξηγεί ότι οι πρόσφατοι καύσωνες στην Ευρώπη οφείλονται σε «θερμικούς θόλους» σε συνδυασμό με το ανθρωπογενώς θερμότερο κλίμα, καθώς η Ευρώπη θερμαίνεται δύο φορές ταχύτερα από τον παγκόσμιο μέσο όρο. Ζητά έγκαιρη πρόγνωση, ενημέρωση του πληθυσμού και ορθό πολεοδομικό σχεδιασμό.",
+            "en": "University of Patras physics professor Athanasios Argyriou warns that Greece, in the eastern Mediterranean, lies in a high-risk zone for extreme temperatures, with Thessaly, Macedonia, Thrace, Attica and the large cities most vulnerable. He explains that recent European heatwaves stem from persistent 'heat domes' combined with a human-driven warmer climate, as Europe is warming twice as fast as the global average. He calls for timely forecasting, public information and better urban planning."
+          }
+        },
+        {
+          "id": "a77f4d6c1283",
+          "title": "Κ. Συνολάκης: «Τα ακραία φαινόμενα θα εμφανίζονται συχνότερα και με μεγαλύτερη ένταση»",
+          "url": "https://www.kathimerini.gr/society/564326236/k-synolakis-ta-akraia-fainomena-tha-emfanizontai-sychnotera-kai-me-megalyteri-entasi/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T12:16:40+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Ο καθηγητής Φυσικών Καταστροφών Κώστας Συνολάκης δηλώνει ότι υπάρχει σχεδόν παγκόσμια επιστημονική συμφωνία πως τα ακραία κύματα καύσωνα συνδέονται με την κλιματική αλλαγή και ότι φαινόμενα όπως το «Omega Block» θα εμφανίζονται συχνότερα, εντονότερα και με μεγαλύτερη διάρκεια. Ασκεί κριτική στη σύγχρονη ελληνική δόμηση με «γυαλί και μάρμαρο» που εγκατέλειψε την παραδοσιακή μεσογειακή αρχιτεκτονική. Με αφορμή την κατάρρευση κτιρίου στα Πετράλωνα, ζητά κρατικά κίνητρα για στατική και αντισεισμική αναβάθμιση των παλαιών κτιρίων.",
+            "en": "Natural disasters professor Costas Synolakis says there is near-universal scientific agreement that extreme heatwaves are linked to climate change, and that phenomena like the 'Omega Block' will appear more often, more intensely and for longer. He criticizes modern Greek construction of 'glass and marble' that abandoned traditional Mediterranean architecture. Citing the building collapse in Petralona, he calls for state incentives for structural and seismic upgrades of old buildings."
+          }
+        },
+        {
+          "id": "c2f1a31b771c",
+          "title": "Ραφήνα: Τα συνεχόμενα δρομολόγια, οι πεπερασμένες υποδομές και η επέκταση",
+          "url": "https://www.kathimerini.gr/society/564324472/rafina-ta-synechomena-dromologia-oi-peperasmenes-ypodomes-kai-i-epektasi/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T10:19:46+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Το λιμάνι της Ραφήνας, ο δεύτερος μεγαλύτερος ναυτιλιακός κόμβος της Αττικής, βρίσκεται σε κρίση: 11 πλοία χρησιμοποιούν υποδομές με μόλις πέντε θέσεις πρόσδεσης, εξυπηρετώντας περίπου δύο εκατομμύρια επιβάτες ετησίως, με έως οκτώ ταυτόχρονους απόπλους τις πρωινές ώρες αιχμής. Η χθεσινή 24ωρη απεργία των ναυτεργατών, παρά τη δικαστική απόφαση που την έκρινε παράνομη, ανέδειξε τις καταγγελίες για επικίνδυνο συνωστισμό και εντατικοποίηση της εργασίας. Το στρατηγικό σχέδιο επέκτασης του λιμανιού παραμένει στα χαρτιά λόγω αντιδράσεων της τοπικής κοινωνίας για κυκλοφοριακούς και περιβαλλοντικούς λόγους.",
+            "en": "The port of Rafina, Attica's second-largest maritime hub, is in crisis: 11 ships use infrastructure with only five berths, serving about two million passengers a year, with up to eight simultaneous departures at morning peak. Yesterday's 24-hour seafarers' strike, held despite a court ruling declaring it illegal, highlighted complaints about dangerous congestion and work intensification. A strategic expansion plan remains on paper due to local opposition over traffic and environmental concerns."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "b9f369b9ad45",
+          "title": "Ουκρανία: Η Ρωσία λέει ότι κατέλαβε την πόλη Κοστιαντινίφκα",
+          "url": "https://www.kathimerini.gr/world/564325030/oykrania-i-rosia-leei-oti-katelave-tin-poli-kostiantinifka/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T23:28:13+00:00",
+          "importance": 92,
+          "summary": {
+            "el": "Η Ρωσία ανακοίνωσε ότι κατέλαβε πλήρως την οχυρωμένη πόλη Κοστιαντινίφκα στο ανατολικό Ντονμπάς, θέση-κλειδί στον δρόμο προς το Κραματόρσκ και το Σλοβιάνσκ. Ο Πούτιν ευχαρίστησε τον στρατό, ενώ ρωσικός βομβαρδισμός στο Σούμι σκότωσε τουλάχιστον τρεις.",
+            "en": "Russia says it fully captured the fortified Ukrainian city of Kostiantynivka in Donbas, a key gateway to Kramatorsk and Sloviansk, while a strike on Sumi killed at least three."
+          }
+        },
+        {
+          "id": "ec35a85618c6",
+          "title": "Ιράν: Σε λαϊκό προσκύνημα η σορός του Αλί Χαμενεΐ – Χιλιάδες πιστοί έχουν συρρεύσει στο τέμενος",
+          "url": "https://www.kathimerini.gr/world/564325999/iran-se-laiko-proskynima-i-soros-toy-ali-chamene-chiliades-pistoi-echoyn-syrreysei-sto-temenos/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T07:50:19+00:00",
+          "importance": 90,
+          "summary": {
+            "el": "Ξεκίνησε στην Τεχεράνη το λαϊκό προσκύνημα της σορού του ανώτατου ηγέτη Αλί Χαμενεΐ, που σκοτώθηκε σε αμερικανοϊσραηλινό πλήγμα στις 28 Φεβρουαρίου. Οι αρχές αναμένουν 15-20 εκατ. συμμετέχοντες σε εξαήμερες τελετές που θα κορυφωθούν με την ταφή στη Μασχάντ στις 9 Ιουλίου.",
+            "en": "Iran began a public viewing of slain supreme leader Ali Khamenei's body in Tehran, with authorities expecting 15-20 million mourners over six days of ceremonies culminating in burial on July 9."
+          }
+        },
+        {
+          "id": "7a1801fa2a42",
+          "title": "Τεχεράνη: Ρωσία και Κίνα έδωσαν το «παρών» στην κηδεία του Χαμενεΐ",
+          "url": "https://www.kathimerini.gr/world/564324904/techerani-rosia-kai-kina-edosan-to-paron-stin-kideia-toy-chamene/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T22:38:29+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Αξιωματούχοι από δεκάδες χώρες, μεταξύ των οποίων Ρωσία και Κίνα, βρέθηκαν στην Τεχεράνη για την έναρξη της κηδείας του Αλί Χαμενεΐ. Το Ιράν προειδοποίησε ΗΠΑ και Ισραήλ να μην επιτεθούν κατά τη διάρκεια των τελετών.",
+            "en": "Officials from dozens of countries including Russia and China attended the start of Khamenei's funeral in Tehran, as Iran warned the US and Israel against any attack during the ceremonies."
+          }
+        },
+        {
+          "id": "326101edafd6",
+          "title": "Ιράν: Σχέδιο δολοφονίας διαπραγματευτών",
+          "url": "https://www.kathimerini.gr/world/564324562/iran-schedio-dolofonias-diapragmateyton/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T10:35:58+00:00",
+          "importance": 85,
+          "summary": {
+            "el": "Αμερικανοί αξιωματούχοι πίστευαν ότι το Ισραήλ σχεδίαζε να δολοφονήσει τους κορυφαίους Ιρανούς διαπραγματευτές Αραγκτσί και Καλιμπάφ την άνοιξη, ενώ η Ουάσιγκτον διαπραγματευόταν με την Τεχεράνη. Οι ΗΠΑ ειδοποίησαν το Ιράν και το αεροπλάνο του Καλιμπάφ έκανε αναγκαστική προσγείωση.",
+            "en": "US officials believed Israel planned to assassinate Iran's top negotiators Araghchi and Qalibaf during spring talks; Washington tipped off Iran, forcing Qalibaf's plane into an emergency landing."
+          }
+        },
+        {
+          "id": "107e15242cb8",
+          "title": "Ο Τραμπ εκθειάζει την Αμερική και προειδοποιεί κατά της «κομμουνιστικής απειλής»",
+          "url": "https://www.kathimerini.gr/world/564326176/o-tramp-ektheiazei-tin-ameriki-kai-proeidopoiei-kata-tis-kommoynistikis-apeilis/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T11:03:38+00:00",
+          "importance": 82,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ, σε πατριωτική ομιλία από το όρος Ράσμορ, εξήρε την Αμερική και προειδοποίησε κατά μιας «κομμουνιστικής απειλής» των προοδευτικών Δημοκρατικών, συνδέοντάς την με τους μετανάστες. Η δημοτικότητά του πλησιάζει ιστορικά χαμηλά ενόψει των ενδιάμεσων εκλογών.",
+            "en": "In a Mount Rushmore speech, Trump praised America and warned of a 'communist threat' from progressive Democrats, tying it to immigration, as his approval nears record lows ahead of the midterms."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 10,
+      "top_items": [
+        {
+          "id": "4991d460e81d",
+          "title": "Υποκρισία και καταδίκη",
+          "url": "https://www.kathimerini.gr/opinion/564322357/ypokrisia-kai-katadiki/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:12:00+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Ο Πάσχος Μανδραβέλης υποστηρίζει ότι δεν υπάρχει λόγος ανησυχίας για αναβίωση της τρομοκρατίας, καθώς η ελληνική κοινωνία ωρίμασε και όλα τα κόμματα καταδίκασαν ομόθυμα και χωρίς αστερίσκους τη δολοφονία της Βάγιας Νέστορα στη Θεσσαλονίκη. Επικρίνει όμως την αποστροφή του πρωθυπουργού περί «υποκριτικών λόγων καταδίκης», ρωτώντας ποια δήλωση ήταν υποκριτική και τι παραπάνω θα μπορούσαν να κάνουν οι αρχηγοί.",
+            "en": "Paschos Mandravelis argues there is no real risk of a terrorism revival: Greek society has matured, and all parties unanimously condemned the killing of Vagia Nestora in the Thessaloniki arson attack without the old caveats. He criticizes the prime minister's remark about 'hypocritical words of condemnation', asking which statement was hypocritical and what more party leaders could possibly do."
+          }
+        },
+        {
+          "id": "eec3df478dc1",
+          "title": "Οι «παραστρατημένοι» σύντροφοι δολοφονούν",
+          "url": "https://www.kathimerini.gr/opinion/564322378/oi-parastratimenoi-syntrofoi-dolofonoyn/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:06:00+00:00",
+          "importance": 76,
+          "summary": {
+            "el": "Ο Σάκης Μουμτζής υποστηρίζει ότι η πολιτική βία στην Ελλάδα απολαμβάνει σημαντική κοινωνική ανοχή, με τα δύο άκρα να διαθέτουν περίγυρο που δικαιολογεί τις έκνομες πράξεις τους ως «παραστρατημένα παιδιά». Υπενθυμίζει ότι η Ελλάδα είναι η μόνη πληγείσα χώρα όπου δεν έγινε ποτέ μαζική συγκέντρωση κατά της τρομοκρατίας και βλέπει στην επίθεση της Θεσσαλονίκης στόχευση κοινωνικοποίησης του φόβου.",
+            "en": "Sakis Moumtzis argues that political violence in Greece enjoys substantial social tolerance, with both extremes surrounded by circles that excuse their crimes as those of 'wayward children'. He notes Greece is the only terrorism-hit country never to hold a mass rally against terrorists, and reads the Thessaloniki attack as an attempt to socialize fear, targeting mid-level party cadres to signal that everyone is a target."
+          }
+        },
+        {
+          "id": "b8e6e68aa2c4",
+          "title": "Ποιος θα σπάσει τη σιωπή;",
+          "url": "https://www.kathimerini.gr/opinion/564322564/poios-tha-spasei-ti-siopi/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:04:00+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Ο Σάκης Ιωαννίδης συνδέει την «αντισιωνιστική περιπολία» του Ρουβίκωνα στη Θεσσαλονίκη με τις μεθόδους της Χρυσής Αυγής και το βαρύ αντισημιτικό παρελθόν της πόλης, και την εντάσσει στο ίδιο κύμα τυφλής βίας με τη φονική επίθεση με γκαζάκια σε στελέχη της Ν.Δ. Καταγγέλλει τη σιωπή της πόλης απέναντι στη βία κάθε προσήμου, θυμίζοντας ότι ο μόνος που όρθωσε ανάστημα, ο Γιάννης Μπουτάρης, το πλήρωσε ακριβά.",
+            "en": "Sakis Ioannidis links Rouvikonas' 'anti-Zionist patrol' in Thessaloniki to Golden Dawn's methods and the city's dark antisemitic past, placing it in the same wave of blind violence as the deadly arson attack on New Democracy officials' homes. He denounces the city's silence toward violence of either far-right or far-left stripe, recalling that Yiannis Boutaris, the one man who stood up, paid dearly for it."
+          }
+        },
+        {
+          "id": "cbe81b11b677",
+          "title": "ΗΠΑ σε στιγμή γιορτής, στιγμή κρίσεως",
+          "url": "https://www.kathimerini.gr/opinion/564322132/ipa-se-stigmi-giortis-stigmi-kriseos/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:11:00+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Ο Νίκος Κωνσταντάρας γράφει ότι οι ΗΠΑ γιορτάζουν τα 250 χρόνια από την ίδρυσή τους έχοντας εκλέξει έναν πρόεδρο που υπονομεύει συστηματικά τις αξίες που η χώρα εκπροσωπούσε, με το Κογκρέσο και το Ανώτατο Δικαστήριο να τον μετατρέπουν σε ανεξέλεγκτο ηγεμόνα. Η επέτειος γίνεται έτσι στιγμή κρίσεως: οι πολίτες καλούνται να αποφασίσουν αν θα δεχθούν την οπισθοδρόμηση ή θα αντισταθούν όπως οι ιδρυτές του 1776.",
+            "en": "Nikos Konstandaras writes that the United States marks its 250th anniversary having elected a president who systematically undermines the values the country stood for, while Congress and the Supreme Court help turn him into an unaccountable monarch. The anniversary thus becomes a moment of judgment: citizens must decide whether to accept the backsliding or resist as the founders did in 1776."
+          }
+        },
+        {
+          "id": "ded0f13b1a96",
+          "title": "Γιατί ο Ερντογάν έγινε…«Τούρκος» με τον Ράμα",
+          "url": "https://www.kathimerini.gr/opinion/564322396/giati-o-erntogan-egine-toyrkos-me-ton-rama/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:03:00+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Ο Σταύρος Τζίμας εξηγεί γιατί ο Ερντογάν έχει δυσαρεστηθεί με τον Εντι Ράμα: από την εξαγγελία κράτους των Μπεκτασί έως την επίσκεψη του Αλβανού πρωθυπουργού στην Κνεσέτ και τη στρατιωτική συμφωνία με τον Νετανιάχου. Πίσω από την ένταση βρίσκεται ο φόβος της Αγκυρας για ισραηλινή «περικύκλωση» και για απώλεια της Αλβανίας, του τουρκικού προγεφυρώματος στην Αδριατική, προς το «στρατόπεδο» Ελλάδας – Κύπρου – Ισραήλ.",
+            "en": "Stavros Tzimas explains why Erdogan has soured on Edi Rama: from the announced Bektashi state to the Albanian premier's Knesset address and military deal with Netanyahu. Behind the tension lies Ankara's fear of Israeli 'encirclement' and of losing Albania, its Adriatic bridgehead, to the Greece-Cyprus-Israel camp it deems a threat to Turkish interests."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "3e4bb756a277",
+          "title": "Γουίλεμ Νταφόε στην «Κ»: Οταν η δίψα για εξουσία προκαλεί χάος",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564322441/goyilem-ntafoe-stin-k-otan-i-dipsa-gia-exoysia-prokalei-chaos/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:14:31+00:00",
+          "importance": 88,
+          "summary": {
+            "el": "Ο Γουίλεμ Νταφόε μιλά στην «Καθημερινή» για την ταινία «Το πάρτι γενεθλίων» του Μιγκέλ Ανχελ Χιμένεθ, βασισμένη στο μυθιστόρημα του Πάνου Καρνέζη με έμπνευση από τον Ωνάση, όπου υποδύεται τον μεγιστάνα Μάρκο Τιμολέοντα. Αναλύει πώς η δίψα για πλούτο και εξουσία καταστρέφει τις αυθεντικές ανθρώπινες σχέσεις και προκαλεί χάος, με αναφορές στη σημερινή διαπλοκή πολιτικής και κεφαλαίου. Εκφράζει επίσης επιφυλάξεις για την τεχνητή νοημοσύνη, που κατά τον ίδιο «απομυζά» το μυστήριο και τη βιωμένη εμπειρία της ζωής.",
+            "en": "Willem Dafoe speaks to Kathimerini about 'The Birthday Party' by Miguel Angel Jimenez, based on Panos Karnezis's novel inspired by Aristotle Onassis, in which he plays Greek tycoon Marcos Timoleon. He reflects on how the thirst for wealth and power destroys authentic human relationships and causes chaos, drawing parallels with today's entanglement of politics and capital. He also voices reservations about artificial intelligence, which he says drains life of mystery and lived experience."
+          }
+        },
+        {
+          "id": "8d022274694b",
+          "title": "Φεστιβάλ Ανδρου: Ιστορία, αρχαίο δράμα και κλασική μουσική",
+          "url": "https://www.kathimerini.gr/culture/564322423/festival-androy-istoria-archaio-drama-kai-klasiki-moysiki/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:02:12+00:00",
+          "importance": 78,
+          "summary": {
+            "el": "Το 12ο Φεστιβάλ Άνδρου (25 Ιουλίου – 24 Αυγούστου) ανοίγει με τις «Ευτυχισμένες μέρες» του Μπέκετ σε σκηνοθεσία Δημήτρη Τάρλοου, με αφετηρία το βαλιτσάκι-κειμήλιο της Χριστίνας Τσίγκου με τη μετάφρασή της και σημειώσεις που πιθανόν ανήκουν στον Μπέκετ. Το πρόγραμμα περιλαμβάνει το ντοκιμαντέρ «Η Άνδρος του Λευτέρη Βογιατζή», συναυλία κλασικής μουσικής με τις «Τέσσερις Εποχές» του Βιβάλντι, την «Ειρήνη» του Αριστοφάνη και τη «Μήδεια». Για πρώτη φορά αξιοποιείται και το προαύλιο του βυζαντινού ναού Ταξιάρχη Μεσαριάς.",
+            "en": "The 12th Andros Festival (July 25 – August 24) opens with Beckett's 'Happy Days' directed by Dimitris Tarlow, inspired by a suitcase left behind by actress Christina Tsingou containing her translation and notes possibly belonging to Beckett himself. The program includes the documentary 'The Andros of Lefteris Vogiatzis', a classical concert featuring Vivaldi's Four Seasons, Aristophanes' 'Peace' and 'Medea'. The courtyard of the Byzantine church of Taxiarchis Mesaria is used as a venue for the first time."
+          }
+        },
+        {
+          "id": "5f3332bdee81",
+          "title": "Χορεύοντας ασταμάτητα στο μεγάλο τέκνο πάρτι του Moby στην Αθήνα",
+          "url": "https://www.kathimerini.gr/culture/music/564322438/choreyontas-astamatita-sto-megalo-tekno-parti-toy-moby-stin-athina/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T23:07:20+00:00",
+          "importance": 75,
+          "summary": {
+            "el": "Ο Moby επέστρεψε στην Ελλάδα μετά από 15 χρόνια και παρέσυρε πάνω από 20.000 θεατές σε ένα ξέφρενο τέκνο πάρτι στην πλατεία Νερού, στο πλαίσιο του Release Athens, με τους Garbage και τη Σίρλεϊ Μάνσον να ανοίγουν δυναμικά τη βραδιά. Ακούστηκαν μεγάλες επιτυχίες από τα άλμπουμ «Play» και «18», ενώ ο καλλιτέχνης αναφέρθηκε επικριτικά στον Ντόναλντ Τραμπ και προέβαλε μήνυμα της Τζέιν Γκούνταλ για τα δικαιώματα των ζώων.",
+            "en": "Moby returned to Greece after 15 years and swept over 20,000 fans into a frenetic techno party at Plateia Nerou for Release Athens, with Garbage and Shirley Manson delivering a strong opening set. He played major hits from 'Play' and '18', criticized Donald Trump from the stage, and screened a Jane Goodall message advocating for animal rights."
+          }
+        },
+        {
+          "id": "78a17ffa5342",
+          "title": "Δέκα κεριά έσβησε φέτος η διαΝΕΟσις, υπηρετώντας το σήμερα και το αύριο της χώρας",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564322189/deka-keria-esvise-fetos-i-dianeosis-ypiretontas-to-simera-kai-to-ayrio-tis-choras/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T19:15:47+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Η διαΝΕΟσις γιόρτασε τα δέκατα γενέθλιά της, με τον ιδρυτή Δημήτρη Δασκαλόπουλο να υπενθυμίζει ότι ο οργανισμός ιδρύθηκε μέσα στην κρίση ως ανεξάρτητος, αξιόπιστος θεσμός με «ελληνική ψυχή, ευρωπαϊκό μυαλό και παγκόσμιο βλέμμα». Στην εκδήλωση μίλησαν μεταξύ άλλων ο υπουργός Οικονομικών Κυριάκος Πιερρακάκης, πρώην διευθυντής ερευνών του φορέα, και στελέχη του οργανισμού, εξαίροντας τη συμβολή του στην τεκμηριωμένη δημόσια συζήτηση με έρευνες για την οικονομία, την παιδεία, την υγεία και το δημογραφικό.",
+            "en": "Think tank diaNEOsis celebrated its tenth anniversary, with founder Dimitris Daskalopoulos recalling that it was created during the crisis as an independent, credible institution with 'a Greek soul, a European mind and a global outlook'. Speakers included Finance Minister Kyriakos Pierrakakis, a former research director of the organization, who praised its contribution to evidence-based public debate through research on the economy, education, health and demographics."
+          }
+        },
+        {
+          "id": "c04742babb89",
+          "title": "Η Νέα Υόρκη ζει στον γαμήλιο ρυθμό της Τέιλορ Σουίφτ",
+          "url": "https://www.kathimerini.gr/culture/564322417/i-nea-yorki-zeiston-gamilio-rythmotis-teilor-soyift/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T19:05:07+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η Νέα Υόρκη ζει στον πυρετό του γάμου της Τέιλορ Σουίφτ με τον Τράβις Κέλσι στο Madison Square Garden, με Εθνοφρουρά, πάνω από χίλιους αστυνομικούς και κλειστούς δρόμους γύρω από το στάδιο, την ώρα που η χώρα γιορτάζει τα 250 χρόνια από την Ανεξαρτησία. Ο αρθρογράφος σχολιάζει ειρωνικά τον συμβολισμό ενός γάμου χιλίων καλεσμένων σε αρένα 22.000 θέσεων και τις φωνές που βλέπουν τη Νέα Υόρκη να γίνεται «παιδική χαρά των υπερπλουσίων» εν μέσω στεγαστικής κρίσης.",
+            "en": "New York is gripped by the wedding of Taylor Swift and Travis Kelce at Madison Square Garden, with National Guard deployments, over a thousand police officers and street closures around the arena, just as the US marks 250 years of independence. The columnist wryly notes the symbolism of a thousand-guest wedding in a 22,000-seat arena and critics who see New York becoming a 'playground of the ultra-rich' amid a housing crisis."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "6f9a81e7f0c1",
+          "title": "Υβριδική επίθεση με στόχο τον Θάνο Ντόκο",
+          "url": "https://www.kathimerini.gr/politics/564324457/yvridiki-epithesi-me-stocho-ton-thano-ntoko/",
+          "source": "Kathimerini",
+          "published": "2026-07-04T10:15:42+00:00",
+          "category": "politics",
+          "importance": 88,
+          "summary": {
+            "el": "Ο γ.γ. Εθνικής Ασφαλείας Θάνος Ντόκος έπεσε θύμα υβριδικής επίθεσης, συνομιλώντας σε τηλεδιάσκεψη με deepfake πρόσωπο του Ουκρανού ομολόγου του, προϊόν προηγμένης τεχνητής νοημοσύνης που κατασκεύασαν δύο Ρώσοι φαρσέρ. Στη συζήτηση θίχτηκε το περιστατικό με το ουκρανικό ναυτικό drone στη Λευκάδα, όμως η κυβέρνηση διαβεβαιώνει ότι δεν διέρρευσαν απόρρητες πληροφορίες και καλύπτει πλήρως τον κ. Ντόκο.",
+            "en": "National Security Secretary-General Thanos Dokos fell victim to a hybrid operation, holding a video call with an AI deepfake of his Ukrainian counterpart created by two Russian pranksters. The conversation touched on the Ukrainian naval drone incident off Lefkada, but the government insists no classified information leaked and fully backs Dokos, while the episode highlights the risks AI poses to state officials."
+          },
+          "tags": {
+            "el": [
+              "Θάνος Ντόκος",
+              "υβριδική επίθεση",
+              "deepfake",
+              "τεχνητή νοημοσύνη",
+              "εθνική ασφάλεια"
+            ],
+            "en": [
+              "Thanos Dokos",
+              "hybrid attack",
+              "deepfake",
+              "artificial intelligence",
+              "national security"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3e4bb756a277",
+          "title": "Γουίλεμ Νταφόε στην «Κ»: Οταν η δίψα για εξουσία προκαλεί χάος",
+          "url": "https://www.kathimerini.gr/opinion/interviews/564322441/goyilem-ntafoe-stin-k-otan-i-dipsa-gia-exoysia-prokalei-chaos/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:14:31+00:00",
+          "category": "culture",
+          "importance": 88,
+          "summary": {
+            "el": "Ο Γουίλεμ Νταφόε μιλά στην «Καθημερινή» για την ταινία «Το πάρτι γενεθλίων» του Μιγκέλ Ανχελ Χιμένεθ, βασισμένη στο μυθιστόρημα του Πάνου Καρνέζη με έμπνευση από τον Ωνάση, όπου υποδύεται τον μεγιστάνα Μάρκο Τιμολέοντα. Αναλύει πώς η δίψα για πλούτο και εξουσία καταστρέφει τις αυθεντικές ανθρώπινες σχέσεις και προκαλεί χάος, με αναφορές στη σημερινή διαπλοκή πολιτικής και κεφαλαίου. Εκφράζει επίσης επιφυλάξεις για την τεχνητή νοημοσύνη, που κατά τον ίδιο «απομυζά» το μυστήριο και τη βιωμένη εμπειρία της ζωής.",
+            "en": "Willem Dafoe speaks to Kathimerini about 'The Birthday Party' by Miguel Angel Jimenez, based on Panos Karnezis's novel inspired by Aristotle Onassis, in which he plays Greek tycoon Marcos Timoleon. He reflects on how the thirst for wealth and power destroys authentic human relationships and causes chaos, drawing parallels with today's entanglement of politics and capital. He also voices reservations about artificial intelligence, which he says drains life of mystery and lived experience."
+          },
+          "tags": {
+            "el": [
+              "Γουίλεμ Νταφόε",
+              "κινηματογράφος",
+              "συνέντευξη",
+              "Πάνος Καρνέζης",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "Willem Dafoe",
+              "cinema",
+              "interview",
+              "Panos Karnezis",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "2c59e0826b75",
+          "title": "Ευάλωτες φαντάζουν οι ευρωπαϊκές χώρες έναντι των drones",
+          "url": "https://www.kathimerini.gr/world/564322297/eyalotes-fantazoyn-oi-eyropaikes-chores-enanti-ton-drones/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T20:34:06+00:00",
+          "category": "world",
+          "importance": 80,
+          "summary": {
+            "el": "Ευάλωτες φαντάζουν οι ευρωπαϊκές χώρες απέναντι σε ύποπτες πτήσεις drones, με 144 περιστατικά σε 12 χώρες από τον Αύγουστο 2024. Έκθεση του IISS αποδίδει τη συντονισμένη εκστρατεία στη Ρωσία, ενώ η ΕΕ σχεδιάζει «τείχος κατά των drones» χωρίς ακόμη πολιτική στήριξη.",
+            "en": "Europe looks vulnerable to suspected drone incursions, with 144 incidents across 12 countries since August 2024; an IISS report blames a coordinated Russian campaign as the EU plans an unfunded 'drone wall'."
+          },
+          "tags": {
+            "el": [
+              "drones",
+              "Ευρώπη",
+              "ΝΑΤΟ",
+              "Ρωσία",
+              "άμυνα"
+            ],
+            "en": [
+              "drones",
+              "Europe",
+              "NATO",
+              "Russia",
+              "defence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "77fa75273415",
+          "title": "Ντόκος: «Νόμιζα ότι μιλούσα με τον Ουμέροφ. Τον έβλεπα, όπως βλέπω εσάς»",
+          "url": "https://www.kathimerini.gr/politics/564324286/ntokos-nomiza-oti-miloysa-me-ton-oymerof-ton-evlepa-opos-vlepo-esas/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:04:00+00:00",
+          "category": "politics",
+          "importance": 78,
+          "summary": {
+            "el": "Ο Θάνος Ντόκος περιγράφει στον ΣΚΑΪ πώς εξαπατήθηκε από deepfake του Ουκρανού ομολόγου του: «Τον έβλεπα, όπως βλέπω εσάς». Υποψιάστηκε την απάτη από την επιμονή του συνομιλητή σε περίεργες θέσεις για πιθανή επανάληψη περιστατικού με drone, ενημέρωσε αμέσως την ΕΥΠ και τον πρωθυπουργό, ενώ ήδη αναθεωρούνται τα πρωτόκολλα ασφαλείας απέναντι σε τέτοιες απειλές τεχνητής νοημοσύνης.",
+            "en": "Thanos Dokos told SKAI how he was deceived by a deepfake of his Ukrainian counterpart: 'I could see him, just as I see you.' He grew suspicious when the interlocutor kept pressing odd positions about repeating a drone incident, immediately alerted the EYP intelligence service and the prime minister, and security protocols are already being revised to counter such AI-driven threats."
+          },
+          "tags": {
+            "el": [
+              "Θάνος Ντόκος",
+              "deepfake",
+              "Ρώσοι φαρσέρ",
+              "κυβερνοασφάλεια",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "Thanos Dokos",
+              "deepfake",
+              "Russian pranksters",
+              "cybersecurity",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e4ca5491e7e6",
+          "title": "Στοιχεία από 93 χώρες για Ελληνες φορολογουμένους",
+          "url": "https://www.kathimerini.gr/economy/local/564322615/stoicheia-apo-93-chores-gia-ellines-forologoymenoys/",
+          "source": "Kathimerini",
+          "published": "2026-07-03T21:36:54+00:00",
+          "category": "economy",
+          "importance": 74,
+          "summary": {
+            "el": "Η ΑΑΔΕ ενεργοποιεί εντός του μήνα νέο κύκλο διασταυρώσεων με στοιχεία από 93 χώρες για καταθέσεις, μερίσματα, συντάξεις, ψηφιακές πληρωμές και κρυπτονομίσματα Ελλήνων φορολογουμένων. Έως τις 31 Ιουλίου θα ελεγχθεί το 10% των στοιχείων για τόκους καταθέσεων του 2020 που παραγράφεται φέτος, και έως τις 31 Οκτωβρίου το 50% των πληροφοριών για το 2021. Θα γίνουν και δειγματοληπτικοί έλεγχοι σε όσους δεν δηλώνουν εισοδήματα εξωτερικού, με πρόστιμα όπου προκύψουν αδήλωτα ποσά.",
+            "en": "Greece's tax authority AADE is launching a new round of cross-checks this month using data from 93 countries on deposits, dividends, pensions, digital payments and crypto holdings of Greek taxpayers. By July 31 it must audit 10% of 2020 foreign-interest data before the statute of limitations expires, and 50% of 2021 data by October 31. Sample checks will also target those declaring no foreign income, with fines for undeclared amounts."
+          },
+          "tags": {
+            "el": [
+              "ΑΑΔΕ",
+              "φοροδιαφυγή",
+              "καταθέσεις εξωτερικού",
+              "διασταυρώσεις",
+              "φορολογία"
+            ],
+            "en": [
+              "AADE",
+              "tax evasion",
+              "foreign deposits",
+              "data cross-checks",
+              "taxation"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

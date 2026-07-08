@@ -1,0 +1,616 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T11:42:01.830323+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 81 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχείται από την προεκλογική προετοιμασία των κομμάτων: τόσο η Νέα Δημοκρατία όσο και το ΠΑΣΟΚ τρέχουν να κλείσουν τα ψηφοδέλτιά τους ως τις αρχές Ιουλίου, καθώς θεωρούν ανοιχτό το ενδεχόμενο πρόωρων εκλογών το φθινόπωρο. Ο Κυριάκος Μητσοτάκης έδωσε προεκλογικό τόνο από τη Βούλα, ενώ η αναδιάταξη της κεντροαριστεράς συνεχίζεται με τις αλλαγές στον ΣΥΡΙΖΑ και τις αποχωρήσεις στελεχών προς το νέο κόμμα ΕΛΑΣ του Αλέξη Τσίπρα.\n\nΣτο μέτωπο των εξωτερικών σχέσεων, οι ελληνοτουρκικές εντάσεις παραμένουν στο προσκήνιο: νέες παραβιάσεις από οπλισμένα τουρκικά F-16 στο Αιγαίο, η αντίδραση της Άγκυρας στη συνεργασία Ελλάδας-Ισραήλ-Κύπρου-Γαλλίας, αλλά και η εντολή Ερντογάν για εύρεση φόρμουλας στο ζήτημα της Χάλκης. Διεθνώς, η ενδιάμεση συμφωνία ΗΠΑ-Ιράν και η Σύνοδος της G7 με επίκεντρο τον Τραμπ και την Ουκρανία απασχολούν τόσο τη διεθνή ειδησεογραφία όσο και την αρθρογραφία.\n\nΣτην οικονομία, δεσπόζει το ζήτημα της στέγασης και της προστασίας της πρώτης κατοικίας μέσω του Φορέα Επαναμίσθωσης Ακινήτων, μαζί με νέες ρυθμίσεις για το ακατάσχετο, τις συντάξεις του Δημοσίου και την αισιόδοξη πρόβλεψη της Scope για ραγδαία αποκλιμάκωση του ελληνικού χρέους έως το 2031. Η ακρίβεια αποκτά κεντρικό ρόλο, με την παρουσίαση της νέας πλατφόρμας σύγκρισης τιμών «Posokanei».\n\nΣτην κοινωνία και τον πολιτισμό, ξεχωρίζουν οι αστυνομικές επιχειρήσεις κατά εγκληματικών οργανώσεων, η πρόοδος της δίκης για τα Τέμπη, η δέσμευση της Amazon για την ελληνική αλφάβητο σε Kindle και Alexa, και πλήθος πολιτιστικών ειδήσεων από τον κινηματογράφο και τη λογοτεχνία.",
+    "en": "The day's news is dominated by the parties' pre-election preparations: both New Democracy and PASOK are rushing to finalize their candidate lists by early July, viewing early autumn elections as an open possibility. Kyriakos Mitsotakis struck a campaign tone in Voula, while the realignment of the center-left continues with personnel changes in SYRIZA and defections toward Alexis Tsipras's new ELAS party.\n\nOn the foreign-relations front, Greek-Turkish tensions remain prominent: new violations by armed Turkish F-16s over the Aegean, Ankara's reaction to the Greece-Israel-Cyprus-France cooperation, and Erdogan's order to find a formula on the Halki seminary issue. Internationally, the interim US-Iran agreement and the G7 summit -centered on Trump and Ukraine- preoccupy both the world news and the commentary pages.\n\nIn the economy, the housing question and protection of primary residences via the property re-leasing entity stand out, alongside new measures on seizure exemptions, civil-service pensions, and Scope's upbeat forecast of a rapid decline in Greek debt by 2031. Cost of living takes center stage with the launch of the new 'Posokanei' price-comparison platform.\n\nIn society and culture, the highlights include police operations against criminal organizations, progress in the Tempi disaster trial, Amazon's pledge to support the Greek alphabet on Kindle and Alexa, and a wealth of cultural news from film and literature."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Προεκλογικός πυρετός & ψηφοδέλτια",
+        "en": "Pre-election fever & candidate lists"
+      },
+      "description": {
+        "el": "ΝΔ και ΠΑΣΟΚ κλείνουν ψηφοδέλτια εν όψει πιθανών πρόωρων εκλογών, με τον Μητσοτάκη σε προεκλογικό τόνο και την αναδιάταξη της κεντροαριστεράς μέσω ΕΛΑΣ-ΣΥΡΙΖΑ.",
+        "en": "ND and PASOK are finalizing candidate lists ahead of possible early elections, with Mitsotakis in campaign mode and the center-left realigning via ELAS and SYRIZA."
+      },
+      "related_items": [
+        "fb231e7deaf8",
+        "0e7bcfe6eb61",
+        "da385f96d6a8",
+        "6c1081e0a536",
+        "e6845cfe5b83",
+        "61d410bffe2c"
+      ],
+      "importance": 75
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά & Ανατολική Μεσόγειος",
+        "en": "Greek-Turkish relations & Eastern Med"
+      },
+      "description": {
+        "el": "Νέες παραβιάσεις τουρκικών F-16 στο Αιγαίο, η αντίδραση της Άγκυρας στον άξονα Ελλάδας-Ισραήλ-Κύπρου-Γαλλίας και η εντολή Ερντογάν για τη Χάλκη.",
+        "en": "New Turkish F-16 violations over the Aegean, Ankara's reaction to the Greece-Israel-Cyprus-France axis, and Erdogan's order on the Halki seminary."
+      },
+      "related_items": [
+        "08c7e98086cf",
+        "0524f8595349",
+        "51ca5f33a5fc",
+        "8462195fb220"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Συμφωνία ΗΠΑ-Ιράν & G7",
+        "en": "US-Iran deal & G7"
+      },
+      "description": {
+        "el": "Η ενδιάμεση συμφωνία ΗΠΑ-Ιράν, οι απειλές Τραμπ για επιστροφή στις βόμβες και η Σύνοδος της G7 με ενιαία στάση υπέρ της Ουκρανίας.",
+        "en": "The interim US-Iran deal, Trump's threats to return to bombing, and the G7 summit's unified stance backing Ukraine."
+      },
+      "related_items": [
+        "8e7872d4ce26",
+        "b8fdc4627d03",
+        "bd7f2d2813ec",
+        "85342c7de9f2",
+        "100fd693e098"
+      ],
+      "importance": 73
+    },
+    {
+      "name": {
+        "el": "Στέγαση, χρέος & ακρίβεια",
+        "en": "Housing, debt & cost of living"
+      },
+      "description": {
+        "el": "Προστασία πρώτης κατοικίας μέσω Φορέα Επαναμίσθωσης, αύξηση ακατάσχετου, αποκλιμάκωση χρέους κατά Scope και νέα πλατφόρμα τιμών Posokanei.",
+        "en": "Primary-residence protection via the re-leasing entity, higher seizure exemptions, Scope's debt-reduction forecast, and the new Posokanei price platform."
+      },
+      "related_items": [
+        "c16ee4209627",
+        "a0fd43bc800a",
+        "f4e6bab03d94",
+        "0715a49e6a21",
+        "eb9a6f1f3298"
+      ],
+      "importance": 68
+    }
+  ],
+  "article_count": 81,
+  "categories": {
+    "politics": {
+      "item_count": 13,
+      "top_items": [
+        {
+          "id": "0524f8595349",
+          "title": "Τα μηνύματα Φιντάν και οι «υπεργολάβοι του σιωνισμού»",
+          "url": "https://www.kathimerini.gr/politics/foreign-policy/564282415/ta-minymata-fintan-kai-oi-ypergolavoi-toy-sionismoy/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T21:56:26+00:00",
+          "importance": 70,
+          "summary": {
+            "el": "Η Τουρκία ερμηνεύει ως «απειλητικά βήματα» την εμβάθυνση της συνεργασίας Ισραήλ-Ελλάδας-Κύπρου-Γαλλίας στην Ανατολική Μεσόγειο και θέτει το θέμα στην κορυφή της ατζέντας της. Ο Ερντογάν προειδοποίησε για πιθανή «σκληρή απάντηση» αν κριθεί ότι απειλούνται τα συμφέροντά της.",
+            "en": "Turkey interprets the deepening Israel-Greece-Cyprus-France cooperation in the Eastern Mediterranean as 'threatening steps' and has put the issue at the top of its agenda. Erdogan warned of a possible 'harsh response' if it judges its interests to be threatened."
+          }
+        },
+        {
+          "id": "fb231e7deaf8",
+          "title": "Ν.Δ. – Ψηφοδέλτια: Η Πειραιώς ανατρέπει τις ισορροπίες στο Επικρατείας",
+          "url": "https://www.kathimerini.gr/politics/parties/564288901/n-d-psifodeltia-i-peiraios-anatrepei-tis-isorropies-sto-epikrateias/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T11:50:07+00:00",
+          "importance": 68,
+          "summary": {
+            "el": "Η Ν.Δ. ολοκληρώνει την κατάρτιση των ψηφοδελτίων στις μεγάλες περιφέρειες ενόψει πιθανών πρόωρων εκλογών το φθινόπωρο, παρά τη δεδηλωμένη πρόθεση Μητσοτάκη για το 2027. Ανακοινώθηκαν υποψηφιότητες όπως της Αλεξάνδρας Σδούκου στην Α΄ Αθηνών και του Δημήτρη Παπαστεργίου στα Τρίκαλα.",
+            "en": "New Democracy is finalizing its candidate lists in the large electoral districts ahead of possible early autumn elections, despite Mitsotakis's stated preference for 2027. Announced candidacies include Alexandra Sdoukou in Athens A and Dimitris Papastergiou in Trikala."
+          }
+        },
+        {
+          "id": "51ca5f33a5fc",
+          "title": "Εύρεση φόρμουλας για τη Χάλκη ζήτησε ο Ερντογάν",
+          "url": "https://www.kathimerini.gr/politics/564288862/eyresi-formoylas-gia-ti-chalki-zitise-o-erntogan/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T07:21:00+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ο Τούρκος πρόεδρος Ερντογάν φέρεται να έδωσε εντολή για την εύρεση φόρμουλας επαναλειτουργίας της Θεολογικής Σχολής της Χάλκης, στη συνάντησή του με τον Οικουμενικό Πατριάρχη Βαρθολομαίο. Η συνάντηση έγινε τρεις εβδομάδες πριν τη σύνοδο του ΝΑΤΟ και την άφιξη Τραμπ στην Άγκυρα.",
+            "en": "Turkish President Erdogan reportedly ordered the search for a formula to reopen the Halki theological school during his meeting with Ecumenical Patriarch Bartholomew. The meeting came three weeks before the NATO summit and Trump's arrival in Ankara."
+          }
+        },
+        {
+          "id": "08c7e98086cf",
+          "title": "Νέες παραβιάσεις στο Αιγαίο από οπλισμένα τουρκικά F-16",
+          "url": "https://www.kathimerini.gr/politics/amyna/564288430/nees-paraviaseis-sto-aigaio-apo-oplismena-toyrkika-f-16/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T19:27:23+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Νέες παραβιάσεις του ελληνικού εναέριου χώρου στο Αιγαίο καταγράφηκαν από οπλισμένα τουρκικά F-16 σε σχηματισμό, με έξι παραβιάσεις και τέσσερις παραβάσεις του FIR Αθηνών. Το τελευταίο διάστημα έχουν πυκνώσει οι τουρκικές πτήσεις.",
+            "en": "New violations of Greek airspace over the Aegean were recorded by armed Turkish F-16s in formation, with six violations and four FIR Athens infringements. Turkish overflights have intensified recently."
+          }
+        },
+        {
+          "id": "8462195fb220",
+          "title": "Μήνυμα Γεραπετρίτη σε Αλβανία: Η Ελλάδα κρατά το «κλειδί» της ευρωπαϊκής ένταξης",
+          "url": "https://www.kathimerini.gr/politics/564289957/minyma-gerapetriti-se-alvania-i-ellada-krata-to-kleidi-tis-eyropaikis-entaxis/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T11:24:11+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Ο υπουργός Εξωτερικών Γιώργος Γεραπετρίτης προειδοποίησε από τη Βουλή ότι η ευρωπαϊκή πορεία της Αλβανίας προϋποθέτει τον σεβασμό των περιουσιακών δικαιωμάτων της ελληνικής μειονότητας. Η Αθήνα παρακολουθεί στενά τις εξελίξεις μετά τα επεισόδια για την επένδυση Κούσνερ στην αλβανική ακτογραμμή.",
+            "en": "Foreign Minister Gerapetritis warned in Parliament that Albania's EU path requires respect for the property rights of the Greek minority. Athens is closely monitoring developments after unrest over the Kushner investment on the Albanian coast."
+          }
+        }
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "f4e6bab03d94",
+          "title": "Ραγδαία αποκλιμάκωση του ελληνικού χρέους έως το 2031",
+          "url": "https://www.kathimerini.gr/visual/infographics/564289249/ragdaia-apoklimakosi-toy-ellinikoy-chreoys-eos-to-2031/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T11:35:00+03:00",
+          "importance": 72,
+          "summary": {
+            "el": "Σύμφωνα με τον οίκο Scope Ratings, η Ελλάδα θα παραμείνει πρωταθλήτρια στη μείωση χρέους στην Ευρωζώνη, με τον δείκτη να πέφτει έως το 2031 χαμηλότερα από Ιταλία, Γαλλία και Βέλγιο. Το ελληνικό χρέος θα κινείται κοντά στον μέσο όρο της Ευρωζώνης.",
+            "en": "According to Scope Ratings, Greece will remain the eurozone champion in debt reduction, with its ratio falling below Italy, France and Belgium by 2031. Greek debt will move close to the eurozone average."
+          }
+        },
+        {
+          "id": "ddb3f405c019",
+          "title": "Πώς μπορεί να αντιδράσει η Ε.Ε. στο δεύτερο κινεζικό σοκ",
+          "url": "https://www.kathimerini.gr/economy/564289387/pos-mporei-na-antidrasei-i-e-e-sto-deytero-kineziko-sok/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T11:14:00+00:00",
+          "importance": 63,
+          "summary": {
+            "el": "Οι Ευρωπαίοι ηγέτες συναντώνται για να διαμορφώσουν απάντηση στο φόβο ενός δεύτερου «κινεζικού σοκ», καθώς το εμπορικό πλεόνασμα της Κίνας έφτασε το 1,2 τρισ. δολάρια. Το διμερές έλλειμμα Ε.Ε.-Κίνας έχει διπλασιαστεί, αλλά τα μέλη του Συμβουλίου παραμένουν διχασμένα.",
+            "en": "EU leaders are meeting to craft a response to fears of a second 'China shock,' as China's trade surplus reached $1.2 trillion. The EU-China bilateral deficit has doubled, but Council members remain divided."
+          }
+        },
+        {
+          "id": "c16ee4209627",
+          "title": "Δύο λύσεις για την προστασία της α΄ κατοικίας",
+          "url": "https://www.kathimerini.gr/economy/local/564289255/dyo-lyseis-gia-tin-prostasia-tis-a-katoikias/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T08:23:00+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Η κυβέρνηση προωθεί δύο λύσεις για την προστασία της πρώτης κατοικίας: ένταξη στον εξωδικαστικό μηχανισμό ή στον νέο Φορέα Απόκτησης και Επαναμίσθωσης Ακινήτων. Ο φορέας, με προσωρινό ανάδοχο τη Christofferson Robb, θα αγοράζει σπίτια ευάλωτων δανειοληπτών αφήνοντάς τους ως ενοικιαστές.",
+            "en": "The government is advancing two options to protect primary residences: the out-of-court mechanism or the new property acquisition and re-leasing entity. The entity, with Christofferson Robb as provisional contractor, will buy vulnerable borrowers' homes and keep them as tenants."
+          }
+        },
+        {
+          "id": "c9097c7c73d7",
+          "title": "Αυξήσεις και αναδρομικά σε συνταξιούχους του Δημοσίου",
+          "url": "https://www.kathimerini.gr/economy/syntaxeis/564289270/ayxiseis-kai-anadromika-se-syntaxioychoys-toy-dimosioy/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T09:17:00+00:00",
+          "importance": 61,
+          "summary": {
+            "el": "Νομοσχέδιο του υπουργείου Οικονομικών προβλέπει αυξήσεις και αναδρομικά σε χιλιάδες συνταξιούχους του Δημοσίου που είχαν εξαιρεθεί από τον νόμο Κατρούγκαλου. Στόχος οι παροχές να φτάνουν στο 80% των αποδοχών των εν ενεργεία υπαλλήλων.",
+            "en": "A finance ministry bill provides increases and back payments to thousands of civil-service pensioners who had been excluded from the Katrougalos law. The aim is for benefits to reach 80% of active employees' earnings."
+          }
+        },
+        {
+          "id": "0e51cd6392c2",
+          "title": "Αγώνας δρόμου στην Ευρώπη για ανεξάρτητο σύστημα πληρωμών",
+          "url": "https://www.kathimerini.gr/economy/international/564289393/agonas-dromoy-stin-eyropi-gia-anexartito-systima-pliromon/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T10:42:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Επιταχύνονται οι προσπάθειες της Ευρώπης για ανεξάρτητο σύστημα πληρωμών και απεξάρτηση από τα αμερικανικά δίκτυα Visa και Mastercard. Αφορμή η περίπτωση Γάλλου δικαστή του ΔΠΔ που αποκλείστηκε από χρηματοοικονομικές υπηρεσίες λόγω αμερικανικών κυρώσεων.",
+            "en": "Europe is accelerating efforts toward an independent payments system and reduced dependence on the US networks Visa and Mastercard. The trigger was an ICC judge cut off from financial services due to US sanctions."
+          }
+        }
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "61b0b03593e9",
+          "title": "Δίκη για Τέμπη: «Οχι» της εισαγγελέως σε δύο νέα αιτήματα",
+          "url": "https://www.kathimerini.gr/society/564290332/diki-gia-tempi-ochi-tis-eisaggeleos-se-dyo-nea-aitimata/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:40:44+00:00",
+          "importance": 64,
+          "summary": {
+            "el": "Στη δίκη για το δυστύχημα των Τεμπών, η εισαγγελέας πρότεινε την απόρριψη δύο αιτημάτων των συνηγόρων υποστήριξης της κατηγορίας, για αυτοπρόσωπη εμφάνιση των κατηγορουμένων και τηλεοπτική μετάδοση. Έκρινε ότι η απαγόρευση μετάδοσης είναι σύμφωνη με το Σύνταγμα.",
+            "en": "In the Tempi disaster trial, the prosecutor proposed rejecting two requests by the victims' lawyers, for the defendants' in-person appearance and for TV broadcasting. She ruled the broadcast ban is consistent with the Constitution."
+          }
+        },
+        {
+          "id": "468496869ef3",
+          "title": "Ανανέωση θητείας Ευρωπαίων εισαγγελέων: Προσφυγή Κοβέσι στον Αρειο Πάγο με φόντο το Ευρωπαϊκό Δικαστήριο",
+          "url": "https://www.kathimerini.gr/society/564290356/ananeosi-thiteias-eyropaion-eisaggeleon-prosfygi-kovesi-ston-areio-pago-me-fonto-to-eyropaiko-dikastirio/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:41:56+00:00",
+          "importance": 58,
+          "summary": {
+            "el": "Η Ευρωπαϊκή Εισαγγελία προσέφυγε στον Άρειο Πάγο κατά της διετούς -αντί πενταετούς- ανανέωσης της θητείας των Ελλήνων Ευρωπαίων εισαγγελέων. Νομικοί κύκλοι εκτιμούν ότι τελευταίος σταθμός της διαμάχης θα είναι το Ευρωπαϊκό Δικαστήριο.",
+            "en": "The European Public Prosecutor's Office appealed to the Supreme Court against the two-year -rather than five-year- renewal of Greek European prosecutors' terms. Legal circles expect the dispute's final stop to be the European Court."
+          }
+        },
+        {
+          "id": "eb9a6f1f3298",
+          "title": "«Posokanei»: Τι φέρνει η νέα εφαρμογή για τους καταναλωτές – Πώς γίνεται η σύγκριση τιμών",
+          "url": "https://www.kathimerini.gr/society/564290302/posokanei-ti-fernei-i-nea-efarmogi-gia-toys-katanalotes-pos-ginetai-i-sygkrisi-timon/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:19:02+00:00",
+          "importance": 57,
+          "summary": {
+            "el": "Παρουσιάστηκε η νέα πλατφόρμα σύγκρισης τιμών «Posokanei», μετεξέλιξη του e-katanalotis, καθώς η ακρίβεια αποκτά κεντρικό ρόλο στην πολιτική ατζέντα εν όψει εκλογών. Ο πρωθυπουργός ζητεί εβδομαδιαία αναφορά για αδικαιολόγητες διαφορές τιμών με άλλες χώρες.",
+            "en": "The new price-comparison platform 'Posokanei,' an evolution of e-katanalotis, was presented as cost of living takes a central role in the pre-election agenda. The PM has asked for weekly reports on unjustified price gaps with other countries."
+          }
+        },
+        {
+          "id": "3d8e223a5ded",
+          "title": "Κων. Δασκαλάκης: Επόμενη μεγάλη πρόκληση η μετάβαση σε μια νέα γενιά «έξυπνων» δημόσιων υπηρεσιών",
+          "url": "https://www.kathimerini.gr/society/564290398/kon-daskalakis-epomeni-megali-proklisi-i-metavasi-se-mia-nea-genia-exypnon-dimosion-ypiresion/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T14:05:52+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Ο καθηγητής του MIT Κωνσταντίνος Δασκαλάκης τόνισε ότι η Ελλάδα πρέπει να περάσει από την ψηφιοποίηση στην εποχή της τεχνητής νοημοσύνης, επενδύοντας στην έρευνα και σε «έξυπνες» δημόσιες υπηρεσίες. Μίλησε σε εκδήλωση του Ελληνογερμανικού Επιμελητηρίου.",
+            "en": "MIT professor Constantinos Daskalakis stressed that Greece must move from digitization to the age of artificial intelligence by investing in research and 'smart' public services. He spoke at an event of the Greek-German Chamber."
+          }
+        },
+        {
+          "id": "330320b79094",
+          "title": "Η Ελλάδα στη δεύτερη θέση με τα πιο καθαρά νερά στην Ε.Ε.",
+          "url": "https://www.kathimerini.gr/society/564288850/i-ellada-sti-deyteri-thesi-me-ta-pio-kathara-nera-stin-e-e/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T11:52:17+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Σύμφωνα με τον Ευρωπαϊκό Οργανισμό Περιβάλλοντος, η Ελλάδα κατέχει τη δεύτερη θέση στην Ε.Ε. με τα πιο καθαρά νερά, μετά την Κύπρο που έχει 100% άριστα ύδατα. Στον αντίποδα, η Αλβανία είναι τελευταία με μόλις 16,8%, λόγω κακής διαχείρισης αστικών λυμάτων.",
+            "en": "According to the European Environment Agency, Greece ranks second in the EU for cleanest waters, behind Cyprus with 100% excellent-quality waters. By contrast, Albania ranks last at just 16.8%, due to poor urban wastewater management."
+          }
+        }
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "8e7872d4ce26",
+          "title": "Τραμπ: «Αν δεν μου αρέσει η τελική συμφωνία με το Ιράν θα ξαναρίξω βόμβες»",
+          "url": "https://www.kathimerini.gr/world/564290422/tramp-an-den-moy-aresei-i-symfonia-me-to-iran-tha-xanarixo-vomves/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T14:06:56+00:00",
+          "importance": 74,
+          "summary": {
+            "el": "Ο Ντόναλντ Τραμπ δήλωσε από τη Σύνοδο της G7 ότι το μνημόνιο με το Ιράν δεν είναι τελικό και απείλησε να «ξαναρίξει βόμβες» αν δεν του αρέσει η τελική συμφωνία. Διευκρίνισε ότι το μνημόνιο δεν περιλαμβάνει άμεση άρση των αμερικανικών κυρώσεων.",
+            "en": "Donald Trump said at the G7 summit that the memorandum with Iran is not final and threatened to 'drop bombs again' if he dislikes the final deal. He clarified that the memo does not include immediate lifting of US sanctions."
+          }
+        },
+        {
+          "id": "b8fdc4627d03",
+          "title": "G7: «Εγώ είμαι το αφεντικό», δήλωσε ο Τραμπ ενώπιον συμμάχων",
+          "url": "https://www.kathimerini.gr/world/564290371/g7-ego-eimai-to-afentiko-dilose-o-tramp-enopion-symmachon/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:50:28+00:00",
+          "importance": 72,
+          "summary": {
+            "el": "Στη Σύνοδο της G7 στο Εβιάν, ο Τραμπ δήλωσε χιουμοριστικά «εγώ είμαι το αφεντικό» ενώπιον των συμμάχων, καθώς οι δυτικές χώρες υιοθέτησαν ενιαία στάση υπέρ της Ουκρανίας. Η κοινή ανακοίνωση αναγνωρίζει τη βελτιωμένη στρατιωτική θέση του Κιέβου.",
+            "en": "At the G7 summit in Evian, Trump quipped 'I am the boss' before allies, as Western nations adopted a unified stance backing Ukraine. The joint statement recognizes Kyiv's improved military position."
+          }
+        },
+        {
+          "id": "bd7f2d2813ec",
+          "title": "Ισραήλ: Οργή ψηφοφόρων κατά Νετανιάχου μετά τη συμφωνία ΗΠΑ–Ιράν",
+          "url": "https://www.kathimerini.gr/world/564290323/israil-orgi-psifoforon-kata-netaniachoy-meta-ti-symfonia-ipa-iran/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:27:28+00:00",
+          "importance": 66,
+          "summary": {
+            "el": "Ο Μπενιαμίν Νετανιάχου εισέρχεται σε μία από τις δυσκολότερες προεκλογικές περιόδους του, καθώς η ενδιάμεση συμφωνία ΗΠΑ-Ιράν δημιουργεί εμπόδια στην παραμονή του στην εξουσία. Ο Τραμπ τερμάτισε τις συγκρούσεις πριν επιτευχθούν οι ισραηλινοί στρατηγικοί στόχοι.",
+            "en": "Benjamin Netanyahu is entering one of the hardest campaign periods of his career, as the interim US-Iran deal complicates his bid to stay in power. Trump ended the conflicts before Israel's strategic goals were achieved."
+          }
+        },
+        {
+          "id": "100fd693e098",
+          "title": "Ρούτε: Αμετακίνητη η δέσμευση των ΗΠΑ στο ΝΑΤΟ",
+          "url": "https://www.kathimerini.gr/world/564290308/royte-ametakiniti-i-desmeysi-ton-ipa-sto-nato/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:26:13+00:00",
+          "importance": 65,
+          "summary": {
+            "el": "Ο γενικός γραμματέας του ΝΑΤΟ Μαρκ Ρούτε διαβεβαίωσε ότι οι ΗΠΑ παραμένουν πλήρως προσηλωμένες στη Συμμαχία και στο Άρθρο 5, παρά την προσαρμογή των αμερικανικών συνεισφορών. Τόνισε ότι η αμερικανική πυρηνική αποτροπή παραμένει «σταθερή και κρίσιμη».",
+            "en": "NATO Secretary-General Mark Rutte assured that the US remains fully committed to the Alliance and Article 5, despite adjusting its contributions. He stressed that the US nuclear deterrent remains 'firm and critical.'"
+          }
+        },
+        {
+          "id": "8c1234ba988a",
+          "title": "Τζεφ Μπέζος: Η τεχνητή νοημοσύνη θα αυξήσει τη ζήτηση για εργαζομένους",
+          "url": "https://www.kathimerini.gr/world/564290263/tzef-mpezos-i-techniti-noimosyni-tha-ayxisei-ti-zitisi-gia-ergazomenoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:06:04+00:00",
+          "importance": 62,
+          "summary": {
+            "el": "Ο Τζεφ Μπέζος εκτίμησε στο συνέδριο VivaTech ότι η τεχνητή νοημοσύνη θα αυξήσει τη ζήτηση για εργαζομένους αντί να τους αντικαταστήσει μαζικά. Παρουσίασε το νέο του εγχείρημα AI, την Prometheus, για επιτάχυνση της φυσικής παραγωγής.",
+            "en": "At the VivaTech conference, Jeff Bezos estimated that AI will boost demand for workers rather than massively replace them. He unveiled his new AI venture, Prometheus, aimed at accelerating physical manufacturing."
+          }
+        }
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        {
+          "id": "85342c7de9f2",
+          "title": "Κρίσιμα ερωτήματα της συμφωνίας",
+          "url": "https://www.kathimerini.gr/opinion/564286678/krisima-erotimata-tis-symfonias/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:02:00+00:00",
+          "importance": 60,
+          "summary": {
+            "el": "Ο Βασίλης Κωστούλας θέτει κρίσιμα ερωτήματα γύρω από τη συμφωνία ΗΠΑ-Ιράν: τερματισμός πολέμου ή παράταση εκεχειρίας, και τι απέγινε ο πυρηνικός στόχος της επιχείρησης. Το πυρηνικό ζήτημα παραπέμπεται σε νέο γύρο διαπραγμάτευσης τους επόμενους δύο μήνες.",
+            "en": "Vasilis Kostoulas raises key questions about the US-Iran deal: end of war or extended truce, and what became of the operation's nuclear objective. The nuclear issue is deferred to a new round of negotiations over the next two months."
+          }
+        },
+        {
+          "id": "0f2abc7a717c",
+          "title": "Η αποτυχία των ΕΛΤΑ",
+          "url": "https://www.kathimerini.gr/opinion/564286438/i-apotychia-ton-elta/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:14:00+00:00",
+          "importance": 54,
+          "summary": {
+            "el": "Κύριο άρθρο σχολιάζει την αποτυχία των ΕΛΤΑ, που ούτε εξυγιάνθηκαν ώστε να λειτουργούν ανταγωνιστικά ούτε διατηρήθηκαν ως επιδοτούμενο δίκτυο. Ο οργανισμός συρρικνώνεται και χάνει χρήματα χωρίς ξεκάθαρη στρατηγική.",
+            "en": "An editorial comments on the failure of the Greek Post (ELTA), which was neither restructured to operate competitively nor preserved as a subsidized network. The organization is shrinking and losing money without a clear strategy."
+          }
+        },
+        {
+          "id": "b1293fd0d57f",
+          "title": "Ενα μέλλον δυσδιάκριτο",
+          "url": "https://www.kathimerini.gr/opinion/564286672/ena-mellon-dysdiakrito/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:03:00+00:00",
+          "importance": 53,
+          "summary": {
+            "el": "Ο Βασίλης Νέδος αναλύει το «δυσδιάκριτο» πολιτικό μέλλον ενόψει εκλογών, με το εκλογικό σώμα διασπασμένο και τη Ν.Δ. να επωφελείται από την απουσία ισχυρού αντιπάλου. Επισημαίνει ότι η ίδια η Ν.Δ. πάσχει από έλλειψη διακριτής πρότασης για το μέλλον.",
+            "en": "Vasilis Nedos analyzes the 'blurry' political future ahead of elections, with a fragmented electorate and ND benefiting from the absence of a strong rival. He notes ND itself suffers from a lack of a distinct vision for the future."
+          }
+        },
+        {
+          "id": "ae1178a29f62",
+          "title": "Υπάρχουν εργαλεία κατά της διαφθοράς",
+          "url": "https://www.kathimerini.gr/opinion/564286675/yparchoyn-ergaleia-kata-tis-diafthoras/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:06:00+00:00",
+          "importance": 52,
+          "summary": {
+            "el": "Ο Νίκος Κωνσταντάρας σημειώνει ότι, εν όψει εκλογών, τα κόμματα συναγωνίζονται σε παροχές ενώ η κυβέρνηση αντιμετωπίζει σκάνδαλα στελεχών της. Υποστηρίζει ότι υπάρχουν εργαλεία κατά της διαφθοράς αλλά λείπει η πολιτική βούληση να αξιοποιηθούν.",
+            "en": "Nikos Konstandaras notes that, ahead of elections, parties compete in handouts while the government faces scandals involving its officials. He argues anti-corruption tools exist but the political will to use them is lacking."
+          }
+        },
+        {
+          "id": "cace0dfc66e6",
+          "title": "Αλέξης Τσίπρας: Αντιγραφές",
+          "url": "https://www.kathimerini.gr/opinion/564286834/alexis-tsipras-antigrafes/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:12:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Μιχάλης Τσιντσίνης σχολιάζει τον ανταγωνισμό ΠΑΣΟΚ και Τσίπρα στο πεδίο των «προγραμματικών» προτάσεων -δωρεάν μετακινήσεις, κοινωνική κατοικία, μείωση χρόνου εργασίας- που μοιάζουν αντιγραμμένες. Διερωτάται ποιος αντιγράφει ποιον στη μάχη για τη δεύτερη θέση.",
+            "en": "Michalis Tsintsinis comments on the rivalry between PASOK and Tsipras over 'programmatic' proposals -free transport, social housing, shorter work hours- that appear copied. He asks who is copying whom in the battle for second place."
+          }
+        }
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        {
+          "id": "735f642d515c",
+          "title": "H ελληνική αλφάβητος «έρχεται» στις πλατφόρμες Kindle και Alexa",
+          "url": "https://www.kathimerini.gr/culture/564289078/h-elliniki-alfavitos-erchetai-stis-platformes-kindle-kai-alexa/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T12:38:00+00:00",
+          "importance": 56,
+          "summary": {
+            "el": "Η Amazon διαβεβαίωσε τον πρωθυπουργό ότι η ελληνική αλφάβητος θα είναι διαθέσιμη στις πλατφόρμες Kindle και Alexa, αντικατοπτρίζοντας τη φυσική χρήση της γλώσσας. Το θέμα προέκυψε μετά από επιστολή εκατοντάδων πανεπιστημιακών και η συνάντηση συνδέθηκε με την επένδυση της AWS στην Αθήνα.",
+            "en": "Amazon assured the PM that the Greek alphabet will be available on the Kindle and Alexa platforms, reflecting natural language use. The issue arose after a letter from hundreds of academics, and the meeting was tied to AWS's investment in Athens."
+          }
+        },
+        {
+          "id": "907c5a0669a9",
+          "title": "Οι Δελφοί, σύγχρονος ομφαλός του κόσμου χάρις στο Ευρωπαϊκό Πολιτιστικό Κέντρο",
+          "url": "https://www.kathimerini.gr/culture/athinaika-plus/564288835/oi-delfoi-sygchronos-omfalos-toy-kosmoy-charis-sto-eyropaiko-politistiko-kentro/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T12:55:00+00:00",
+          "importance": 50,
+          "summary": {
+            "el": "Το Ευρωπαϊκό Πολιτιστικό Κέντρο Δελφών επιχειρεί να επαναπροσδιορίσει τον ρόλο των Δελφών ως σύγχρονου «ομφαλού του κόσμου» και τόπου συνάντησης ιδεών. Σε εποχή κρίσης, η πολιτιστική διπλωματία αποκτά νέα αξία μέσα από νέες πρωτοβουλίες.",
+            "en": "The European Cultural Center of Delphi seeks to redefine Delphi's role as a modern 'navel of the world' and a meeting place of ideas. In an era of crisis, cultural diplomacy gains new value through fresh initiatives."
+          }
+        },
+        {
+          "id": "fc13d1f1ca8b",
+          "title": "Η επιστροφή του Μπομπ Οντενκερκ στον ρόλο του Σολ Γκούντμαν",
+          "url": "https://www.kathimerini.gr/culture/tv/564290215/i-epistrofi-toy-mpomp-ontenkerk-ston-rolo-toy-sol-gkoyntman/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T12:55:06+00:00",
+          "importance": 44,
+          "summary": {
+            "el": "Ο Μπομπ Οντενκερκ επέστρεψε στον εμβληματικό ρόλο του Σολ Γκούντμαν από τις σειρές «Breaking Bad» και «Better Call Saul» μέσα από ένα μυστηριώδες σύντομο βίντεο. Ο χαρακτήρας εμφανίζεται σε βίντεο διάρκειας 44 δευτερολέπτων.",
+            "en": "Bob Odenkirk returned to his iconic role as Saul Goodman from 'Breaking Bad' and 'Better Call Saul' through a mysterious short video. The character appears in a 44-second clip."
+          }
+        },
+        {
+          "id": "8167aa255448",
+          "title": "Ο Στίβεν Φράι πρόεδρος της Anglo-Hellenic League",
+          "url": "https://www.kathimerini.gr/culture/564289066/o-stiven-frai-proedros-tis-anglo-hellenic-league/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T08:15:00+00:00",
+          "importance": 42,
+          "summary": {
+            "el": "Ο διεθνούς φήμης σερ Στίβεν Φράι ανέλαβε πρόεδρος της Anglo-Hellenic League, της ένωσης που επί έναν αιώνα προωθεί την ελληνοβρετανική κατανόηση. Γνωστός φιλέλληνας και υποστηρικτής της επανένωσης των Γλυπτών του Παρθενώνα, διαδέχεται τον πρίγκιπα Μάικλ του Κεντ.",
+            "en": "Internationally renowned Sir Stephen Fry has become president of the Anglo-Hellenic League, which has promoted Greek-British understanding for a century. A known philhellene and supporter of reuniting the Parthenon Marbles, he succeeds Prince Michael of Kent."
+          }
+        },
+        {
+          "id": "ce6857a3da71",
+          "title": "Ανδρες σε απόγνωση",
+          "url": "https://www.kathimerini.gr/culture/564281515/andres-se-apognosi/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T23:41:04+00:00",
+          "importance": 41,
+          "summary": {
+            "el": "Ο Δημήτρης Ρηγόπουλος εξετάζει τρεις τηλεοπτικές σειρές που χαρτογραφούν τις «ωδίνες» μιας ολοένα πιο ρευστής ανδρικής ταυτότητας. Ξεχωρίζει μια νορβηγική μίνι σειρά για έναν μεσοαστό που μεταμορφώνεται σε τοξικό διαδικτυακό τρολ.",
+            "en": "Dimitris Rigopoulos examines three TV series that map the 'pangs' of an increasingly fluid male identity. He highlights a Norwegian mini-series about a middle-class man who morphs into a toxic internet troll."
+          }
+        }
+      ]
+    },
+    "ai": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "8c1234ba988a",
+          "title": "Τζεφ Μπέζος: Η τεχνητή νοημοσύνη θα αυξήσει τη ζήτηση για εργαζομένους",
+          "url": "https://www.kathimerini.gr/world/564290263/tzef-mpezos-i-techniti-noimosyni-tha-ayxisei-ti-zitisi-gia-ergazomenoys/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T13:06:04+00:00",
+          "category": "world",
+          "importance": 62,
+          "summary": {
+            "el": "Ο Τζεφ Μπέζος εκτίμησε στο συνέδριο VivaTech ότι η τεχνητή νοημοσύνη θα αυξήσει τη ζήτηση για εργαζομένους αντί να τους αντικαταστήσει μαζικά. Παρουσίασε το νέο του εγχείρημα AI, την Prometheus, για επιτάχυνση της φυσικής παραγωγής.",
+            "en": "At the VivaTech conference, Jeff Bezos estimated that AI will boost demand for workers rather than massively replace them. He unveiled his new AI venture, Prometheus, aimed at accelerating physical manufacturing."
+          },
+          "tags": {
+            "el": [
+              "Μπέζος",
+              "τεχνητή νοημοσύνη",
+              "VivaTech",
+              "εργασία"
+            ],
+            "en": [
+              "Bezos",
+              "artificial intelligence",
+              "VivaTech",
+              "jobs"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "2468e57124ef",
+          "title": "Λίβανος: Αναφορές για τραυματίες από επιθέσεις με drones",
+          "url": "https://www.kathimerini.gr/world/564290077/livanos-anafores-gia-traymaties-apo-epitheseis-me-drones/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T12:16:43+00:00",
+          "category": "world",
+          "importance": 58,
+          "summary": {
+            "el": "Λιβανέζικα μέσα ανέφεραν αρκετούς τραυματισμούς από τρεις επιθέσεις με drones σε πόλεις του νότιου Λιβάνου. Ο ισραηλινός στρατός δεν είχε προχωρήσει σε επίσημο σχόλιο.",
+            "en": "Lebanese media reported several injuries from three drone strikes in towns in southern Lebanon. The Israeli military had made no official comment."
+          },
+          "tags": {
+            "el": [
+              "Λίβανος",
+              "drones",
+              "επιθέσεις"
+            ],
+            "en": [
+              "Lebanon",
+              "drones",
+              "strikes"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "3d8e223a5ded",
+          "title": "Κων. Δασκαλάκης: Επόμενη μεγάλη πρόκληση η μετάβαση σε μια νέα γενιά «έξυπνων» δημόσιων υπηρεσιών",
+          "url": "https://www.kathimerini.gr/society/564290398/kon-daskalakis-epomeni-megali-proklisi-i-metavasi-se-mia-nea-genia-exypnon-dimosion-ypiresion/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T14:05:52+00:00",
+          "category": "society",
+          "importance": 56,
+          "summary": {
+            "el": "Ο καθηγητής του MIT Κωνσταντίνος Δασκαλάκης τόνισε ότι η Ελλάδα πρέπει να περάσει από την ψηφιοποίηση στην εποχή της τεχνητής νοημοσύνης, επενδύοντας στην έρευνα και σε «έξυπνες» δημόσιες υπηρεσίες. Μίλησε σε εκδήλωση του Ελληνογερμανικού Επιμελητηρίου.",
+            "en": "MIT professor Constantinos Daskalakis stressed that Greece must move from digitization to the age of artificial intelligence by investing in research and 'smart' public services. He spoke at an event of the Greek-German Chamber."
+          },
+          "tags": {
+            "el": [
+              "Δασκαλάκης",
+              "τεχνητή νοημοσύνη",
+              "δημόσιες υπηρεσίες"
+            ],
+            "en": [
+              "Daskalakis",
+              "artificial intelligence",
+              "public services"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "008db38bacfd",
+          "title": "Εντός και Εκτός: Η περιστρεφόμενη πόρτα της Κουμουνδούρου",
+          "url": "https://www.kathimerini.gr/politics/564288868/entos-kai-ektos-i-peristrefomeni-porta-tis-koymoyndoyroy/",
+          "source": "Kathimerini",
+          "published": "2026-06-17T07:47:23+00:00",
+          "category": "politics",
+          "importance": 55,
+          "summary": {
+            "el": "Στην πρώτη συνεδρίαση της Επιτροπής Αναθεώρησης του Συντάγματος διαπιστώθηκε αδυναμία συμφωνίας για τα άρθρα περί ατομικών δικαιωμάτων, τεχνητής νοημοσύνης και ενημέρωσης. Η Ν.Δ. επιμένει στη συνταγματική προστασία από την κακή χρήση της ΤΝ, ενώ το ΠΑΣΟΚ ζητεί αναφορά στις γυναικοκτονίες.",
+            "en": "The first session of the Constitutional Revision Committee revealed disagreement over articles on individual rights, artificial intelligence and information. ND insists on constitutional protection from misuse of AI, while PASOK seeks a reference to femicides."
+          },
+          "tags": {
+            "el": [
+              "Σύνταγμα",
+              "αναθεώρηση",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "Constitution",
+              "revision",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "b1293fd0d57f",
+          "title": "Ενα μέλλον δυσδιάκριτο",
+          "url": "https://www.kathimerini.gr/opinion/564286672/ena-mellon-dysdiakrito/",
+          "source": "Kathimerini",
+          "published": "2026-06-16T20:03:00+00:00",
+          "category": "opinion",
+          "importance": 53,
+          "summary": {
+            "el": "Ο Βασίλης Νέδος αναλύει το «δυσδιάκριτο» πολιτικό μέλλον ενόψει εκλογών, με το εκλογικό σώμα διασπασμένο και τη Ν.Δ. να επωφελείται από την απουσία ισχυρού αντιπάλου. Επισημαίνει ότι η ίδια η Ν.Δ. πάσχει από έλλειψη διακριτής πρότασης για το μέλλον.",
+            "en": "Vasilis Nedos analyzes the 'blurry' political future ahead of elections, with a fragmented electorate and ND benefiting from the absence of a strong rival. He notes ND itself suffers from a lack of a distinct vision for the future."
+          },
+          "tags": {
+            "el": [
+              "εκλογές",
+              "Νέα Δημοκρατία",
+              "ανάλυση"
+            ],
+            "en": [
+              "elections",
+              "New Democracy",
+              "analysis"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "total": 81
+  }
+}
