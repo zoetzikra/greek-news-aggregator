@@ -1,210 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Top Stories</title>
-  <subtitle>Top stories scraped from kathimerini.gr</subtitle>
-  <link href="https://github.com/zoetzikra/greek-news-aggregator" rel="alternate"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>urn:greek-news-aggregator:2026-07-09</id>
-  <updated>2026-07-09T11:15:25.432290+00:00</updated>
-  <author><name>Greek News Aggregator</name></author>
+  <title>Greek News Digest — Kathimerini</title>
+  <subtitle>Daily curated top stories from kathimerini.gr</subtitle>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <id>urn:greek-news-aggregator:feed</id>
+  <updated>2026-07-10T11:19:41.876309+00:00</updated>
   <entry>
-    <title>Το Ιράν κηδεύει σήμερα τον Αλί Χαμενεΐ – Εως και 15 εκατ. άνθρωποι στην ταφή</title>
-    <link href="https://www.kathimerini.gr/world/564333889/to-iran-kideyei-simera-ton-agiatolach-chamene-eos-kai-15-ekat-anthropoi-stin-tafi/"/>
-    <id>urn:greek-news-aggregator:732f40d1fa0f</id>
-    <updated>2026-07-09T12:53:55+00:00</updated>
-    <published>2026-07-09T12:53:55+00:00</published>
-    <author><name>Newsroom</name></author>
+    <title>Hurriyet: Η Τουρκία πούλησε τους πυραύλους S-400 για να παραλάβει τα F-35</title>
+    <link href="https://www.kathimerini.gr/world/564335977/hurriyet-i-toyrkia-poylise-toys-pyrayloys-s-400-gia-na-paralavei-ta-f-35/"/>
+    <id>urn:kathimerini:64e43ac48f7f</id>
+    <updated>2026-07-10T10:26:05+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
     <category term="world"/>
-    <summary type="text">Iran is burying former supreme leader Ali Khamenei, killed on February 28 in a bombing on the first day of the US-Israel war on Iran, with up to 15 million people expected at his burial in Mashhad. The funeral takes place amid renewed escalation: the US struck Iran again overnight over control of the Strait of Hormuz, while Tehran retaliated with strikes on facilities in Kuwait, Qatar and Bahrain. / Το Ιράν κηδεύει τον πρώην ανώτατο ηγέτη Αλί Χαμενεΐ, που σκοτώθηκε στις 28 Φεβρουαρίου σε βομβαρδισμό την πρώτη ημέρα του πολέμου ΗΠΑ–Ισραήλ, με έως και 15 εκατομμύρια ανθρώπους να αναμένονται στην ταφή του στη Μασχάντ. Η κηδεία τελείται εν μέσω αναζωπύρωσης των εντάσεων: οι ΗΠΑ έπληξαν εκ νέου το Ιράν για τον έλεγχο του Στενού του Ορμούζ, ενώ η Τεχεράνη απάντησε με πλήγματα σε εγκαταστάσεις σε Κουβέιτ, Κατάρ και Μπαχρέιν.</summary>
+    <summary xml:lang="el">Η Τουρκία προχώρησε στην πώληση των S-400 —σε Κατάρ ή ΗΑΕ— ανοίγοντας τον δρόμο για την παραλαβή των έξι F-35 που είχε πληρώσει το 2018, σύμφωνα με τη Hurriyet. Η Μόσχα δεν αντιτάχθηκε κατ&#x27; αρχήν στη μεταβίβαση, που απαιτεί την έγκρισή της ως «τελικού χρήστη».</summary>
+    <content type="text" xml:lang="en">Turkey has moved to sell its S-400s — to Qatar or the UAE — clearing the way to receive the six F-35s it paid for in 2018, according to Hurriyet. Moscow has not objected in principle to the transfer, which requires its end-user approval.</content>
   </entry>
   <entry>
-    <title>Διπλό μήνυμα για το casus belli και τα F-35</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564332938/diplo-minyma-gia-to-casus-belli-kai-ta-f-35/"/>
-    <id>urn:greek-news-aggregator:6b5b303f7781</id>
-    <updated>2026-07-09T06:46:00+00:00</updated>
-    <published>2026-07-09T06:46:00+00:00</published>
+    <title>Μήνυμα της Αθήνας προς τις ΗΠΑ για τα F-35</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564335131/minyma-tis-athinas-pros-tis-ipa-gia-ta-f-35/"/>
+    <id>urn:kathimerini:27258434781f</id>
+    <updated>2026-07-10T12:24:58+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Kyriakos Mitsotakis sent a double message from the NATO summit in Ankara, calling Turkey's casus belli a 'historical misspelling' that must be left behind, in the wake of Trump–Erdogan statements on the F-35. He noted legal obstacles remain to selling the jets to Turkey and that the sensitivities of all NATO members must be taken into account. / Ο Κυριάκος Μητσοτάκης έστειλε διπλό μήνυμα από τη σύνοδο του ΝΑΤΟ στην Αγκυρα, θέτοντας το ζήτημα του casus belli ως «ιστορική ανορθογραφία» που πρέπει να αφεθεί πίσω, στον απόηχο των δηλώσεων Τραμπ–Ερντογάν για τα F-35. Σημείωσε ότι υπάρχουν νομικά εμπόδια για την πώληση των μαχητικών στην Τουρκία και ότι οι ευαισθησίες όλων των μελών του ΝΑΤΟ πρέπει να λαμβάνονται υπόψη.</summary>
+    <summary xml:lang="el">Η Αθήνα μεταφέρει στην Ουάσιγκτον τις ανησυχίες της για το ενδεχόμενο επιστροφής της Τουρκίας στο πρόγραμμα των F-35, μετά τις συζητήσεις Τραμπ–Ερντογάν. Διπλωματικές πηγές χαρακτηρίζουν «αυτονόητη» τη δέσμευση ότι όπλα που πωλούνται σε σύμμαχο δεν χρησιμοποιούνται εναντίον άλλου, ενώ προϋπόθεση παραμένει η απομάκρυνση των S-400 από τουρκικό έδαφος.</summary>
+    <content type="text" xml:lang="en">Athens is conveying its concerns to Washington over Turkey&#x27;s possible return to the F-35 program following the Trump–Erdogan talks. Diplomatic sources call it &#x27;self-evident&#x27; that weapons sold to one ally cannot be used against another, while removal of the S-400s from Turkish soil remains a precondition.</content>
   </entry>
   <entry>
-    <title>Πρόσκληση από Ερντογάν για παζάρια στο Αιγαίο</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564332950/prosklisi-apo-erntogan-gia-pazaria-sto-aigaio/"/>
-    <id>urn:greek-news-aggregator:e20183327b36</id>
-    <updated>2026-07-09T06:39:00+00:00</updated>
-    <published>2026-07-09T06:39:00+00:00</published>
+    <title>Βρετανία: Ο Αντι Μπέρναμ αναμένεται να είναι ο επόμενος πρωθυπουργός της χώρας</title>
+    <link href="https://www.kathimerini.gr/world/564336199/vretania-o-anti-mpernam-anamenetai-na-einai-o-epomenos-prothypoyrgos-tis-choras/"/>
+    <id>urn:kathimerini:4b766b03059b</id>
+    <updated>2026-07-10T12:18:25+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Άντι Μπέρναμ εξασφάλισε τη στήριξη 322 από τους 403 βουλευτές των Εργατικών —περίπου 80%— και αναμένεται να είναι ο επόμενος πρωθυπουργός της Βρετανίας. Η πρωτοφανής στήριξη καθιστά σχεδόν αδύνατη την εμφάνιση ισχυρού αντιπάλου και σηματοδοτεί γρήγορη, ενωτική μετάβαση.</summary>
+    <content type="text" xml:lang="en">Andy Burnham has secured the backing of 322 of Labour&#x27;s 403 MPs — roughly 80% — and is expected to become Britain&#x27;s next prime minister. The unprecedented support makes a serious rival candidacy nearly impossible and signals a swift, unifying transition.</content>
+  </entry>
+  <entry>
+    <title>Την πώληση των S-400 εξετάζει η Aγκυρα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564335128/tin-polisi-ton-s-400-exetazei-i-agkyra/"/>
+    <id>urn:kathimerini:082524d0d1c5</id>
+    <updated>2026-07-10T09:17:02+00:00</updated>
     <author><name>Μανώλης Κωστίδης</name></author>
     <category term="politics"/>
-    <summary type="text">Recep Tayyip Erdogan opened the door to dialogue on the Aegean after the NATO summit in Ankara, proposing talks first between foreign ministers and then at leader level. He sought to downplay the casus belli, saying it should not preoccupy the two peoples and that issues should be resolved at the negotiating table. / Ο Ρετζέπ Ταγίπ Ερντογάν άνοιξε την πόρτα διαλόγου για το Αιγαίο μετά τη σύνοδο του ΝΑΤΟ στην Αγκυρα, προτείνοντας συνεργασία αρχικά σε επίπεδο υπουργών Εξωτερικών και εν συνεχεία των ηγετών. Επιχείρησε να υποβαθμίσει το casus belli, λέγοντας ότι δεν πρέπει να απασχολεί τους δύο λαούς και ότι τα ζητήματα πρέπει να επιλυθούν στο τραπέζι των διαπραγματεύσεων.</summary>
+    <summary xml:lang="el">ΗΠΑ και Τουρκία καταλήγουν σε οδικό χάρτη για την παραχώρηση των F-35 στην Άγκυρα, με προϋπόθεση να μην διαθέτει πλέον τα ρωσικά S-400. Μετά την επίσκεψη Τραμπ εξετάζεται η πώλησή τους σε χώρα του Κόλπου, φόρμουλα που απαιτεί την έγκριση της Μόσχας βάσει της συμφωνίας «τελικού χρήστη».</summary>
+    <content type="text" xml:lang="en">The US and Turkey are converging on a roadmap for delivering F-35s to Ankara, conditional on Turkey no longer possessing the Russian S-400 systems. After Trump&#x27;s visit, selling them to a Gulf state is under consideration — a formula requiring Moscow&#x27;s approval under the end-user agreement.</content>
   </entry>
   <entry>
-    <title>«Ισορροπίες» με την Ουάσιγκτον αναζητεί η Αθήνα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564332932/isorropies-me-tin-oyasigkton-anazitei-i-athina/"/>
-    <id>urn:greek-news-aggregator:3eb66142b257</id>
-    <updated>2026-07-09T12:11:17+00:00</updated>
-    <published>2026-07-09T12:11:17+00:00</published>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary type="text">Athens is seeking a balance with Washington after the Trump–Erdogan pleasantries and the prospect of F-35 sales to Turkey, with a government source saying 'we won't wear a MAGA cap.' Added pressure comes from US–Israel tensions, with Netanyahu publicly denouncing the potential sale and backing Greek positions on Cyprus and the casus belli. / Η Αθήνα αναζητεί ισορροπίες με την Ουάσιγκτον μετά τις φιλοφρονήσεις Τραμπ–Ερντογάν και την προοπτική πώλησης F-35 στην Τουρκία, με κυβερνητική πηγή να δηλώνει ότι «δεν θα φορέσουμε καπελάκι MAGA». Πρόσθετη πίεση προκαλεί η ένταση ΗΠΑ–Ισραήλ, με τον Νετανιάχου να καταγγέλλει δημόσια την πιθανή πώληση και να στηρίζει ελληνικές θέσεις για Κύπρο και casus belli.</summary>
-  </entry>
-  <entry>
-    <title>Αγκυρα προς Αθήνα: Δεν αποτελούμε απειλή για κανέναν που δεν αποτελεί απειλή για εμάς</title>
-    <link href="https://www.kathimerini.gr/world/564334030/agkyra-pros-athina-den-apoteloyme-apeili-gia-kanenan-poy-den-apotelei-apeili-gia-emas/"/>
-    <id>urn:greek-news-aggregator:ab7f1977b746</id>
-    <updated>2026-07-09T13:47:30+00:00</updated>
-    <published>2026-07-09T13:47:30+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Turkey's Defense Ministry responded to Kyriakos Mitsotakis' remarks on the casus belli made at the NATO summit in Ankara, stating that 'Turkey poses no threat to anyone who does not pose a threat to us.' Ankara stressed its support for regional peace and stability and urged the avoidance of rhetoric that could escalate tensions in bilateral relations. / Το τουρκικό υπουργείο Άμυνας απάντησε στις δηλώσεις του Κυριάκου Μητσοτάκη από τη Σύνοδο Κορυφής της Άγκυρας για το casus belli, διαμηνύοντας ότι «η Τουρκία δεν αποτελεί απειλή για κανέναν που δεν αποτελεί απειλή για εμάς». Η Άγκυρα τόνισε ότι στηρίζει την ειρήνη και τη σταθερότητα στην περιοχή και κάλεσε σε αποφυγή ρητορικής που θα μπορούσε να κλιμακώσει τις εντάσεις στις διμερείς σχέσεις.</summary>
-  </entry>
-  <entry>
-    <title>Δένδιας: Η Ελλάδα δεν θα χαρεί αν πάρει F-35 η Τουρκία – Nα αναρωτηθούν οι ΗΠΑ αν είναι προς το συμφέρον τους</title>
-    <link href="https://www.kathimerini.gr/politics/564333784/dendias-i-ellada-den-tha-charei-an-parei-f-35-i-toyrkia-na-anarotithoyn-oi-ipa-an-einai-pros-to-symferon-toys/"/>
-    <id>urn:greek-news-aggregator:19ed9bc1b60d</id>
-    <updated>2026-07-09T11:29:51+00:00</updated>
-    <published>2026-07-09T11:29:51+00:00</published>
+    <title>Σύγκρουση Μητσοτάκη – Ανδρουλάκη για την ακρίβεια: Μείωση σε βενζίνη και ντίζελ προανήγγειλε ο πρωθυπουργός</title>
+    <link href="https://www.kathimerini.gr/politics/564335905/voyli-sygkroysi-mitsotaki-androylaki-gia-tin-akriveia/"/>
+    <id>urn:kathimerini:250bf7be282d</id>
+    <updated>2026-07-10T10:41:38+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary type="text">Defense Minister Nikos Dendias told the Economist conference that Greece will not be happy if Turkey obtains F-35s or next-generation fighter engines. He posed a question to Washington: whether selling a weapons program without guarantees it won't be used against another NATO member truly serves US interests. / Ο υπουργός Άμυνας Νίκος Δένδιας δήλωσε στο συνέδριο του Economist ότι η Ελλάδα δεν θα χαρεί αν η Τουρκία αποκτήσει F-35 ή κινητήρες για μαχητικά νέας γενιάς. Έθεσε ερώτημα προς την Ουάσιγκτον αν η πώληση εξοπλιστικού προγράμματος χωρίς εγγυήσεις μη χρήσης κατά συμμάχου είναι πράγματι προς το συμφέρον των ΗΠΑ.</summary>
+    <summary xml:lang="el">Σε σύγκρουση κορυφής για την ακρίβεια εξελίχθηκε η επίκαιρη ερώτηση Ανδρουλάκη στη Βουλή, με τον πρωθυπουργό να προαναγγέλλει μείωση 10 λεπτών στη βενζίνη και 5 λεπτών στο ντίζελ σε συνεννόηση με τα διυλιστήρια. Ο πρόεδρος του ΠΑΣΟΚ χαρακτήρισε την επταετία «Ακρίβεια παντού», κάνοντας λόγο για σιωπηλό φόρο στο εισόδημα των πολιτών.</summary>
+    <content type="text" xml:lang="en">A parliamentary question by Androulakis on the cost of living turned into a leaders&#x27; clash, with the PM announcing a 10-cent cut in petrol and 5-cent cut in diesel prices in agreement with refineries. The PASOK leader branded the government&#x27;s seven years &#x27;expensiveness everywhere&#x27;, calling inflation a silent tax on incomes.</content>
   </entry>
   <entry>
-    <title>«Copernicus»: Ο Ιούνιος ήταν ο θερμότερος στα χρονικά στη Δυτική Ευρώπη</title>
-    <link href="https://www.kathimerini.gr/world/564333556/copernicus-o-ioynios-itan-o-thermoteros-sta-chronika-sti-dytiki-eyropi/"/>
-    <id>urn:greek-news-aggregator:aa700be59d0b</id>
-    <updated>2026-07-09T07:49:16+00:00</updated>
-    <published>2026-07-09T07:49:16+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">June 2026 was the hottest ever recorded in Western Europe and the second hottest globally, according to the EU's Copernicus climate observatory, with the average temperature reaching 20.74°C — 3 degrees above the 1991-2020 norm. Scientists warn that Europe is warming much faster than the global average and that heatwaves will become more frequent, more intense and longer-lasting. / Ο Ιούνιος του 2026 ήταν ο θερμότερος που έχει καταγραφεί ποτέ στη Δυτική Ευρώπη και ο δεύτερος θερμότερος παγκοσμίως, σύμφωνα με το ευρωπαϊκό παρατηρητήριο κλίματος Copernicus, με τη μέση θερμοκρασία στους 20,74°C — 3 βαθμούς πάνω από τα φυσιολογικά επίπεδα της περιόδου 1991-2020. Οι επιστήμονες προειδοποιούν ότι η Ευρώπη θερμαίνεται πολύ ταχύτερα από τον παγκόσμιο μέσο όρο και ότι τα κύματα καύσωνα θα γίνονται συχνότερα, εντονότερα και μεγαλύτερης διάρκειας.</summary>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης: Μόνη διαφορά μεταξύ Ελλάδος και Τουρκίας η οριοθέτηση των θαλάσσιων ζωνών</title>
-    <link href="https://www.kathimerini.gr/politics/564332746/mitsotakis-moni-diafora-metaxy-ellados-kai-toyrkias-i-oriothetisi-ton-thalassion-zonon/"/>
-    <id>urn:greek-news-aggregator:9be8ae611cc0</id>
-    <updated>2026-07-08T21:05:43+00:00</updated>
-    <published>2026-07-08T21:05:43+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">In an interview with Turkish network A Haber, Kyriakos Mitsotakis stressed that the only Greek-Turkish difference is the delimitation of maritime zones, which must be resolved under international law. He expressed his intention to continue the positive momentum with Erdogan, noting progress on migration and cross-border trade. / Σε συνέντευξη στο τουρκικό δίκτυο A Haber, ο Κυριάκος Μητσοτάκης υπογράμμισε ότι η μοναδική διαφορά Ελλάδας–Τουρκίας είναι η οριοθέτηση των θαλάσσιων ζωνών, η οποία πρέπει να επιλυθεί βάσει του διεθνούς δικαίου. Εξέφρασε την πρόθεση να συνεχιστεί η θετική δυναμική με τον Ερντογάν, σημειώνοντας πρόοδο στο μεταναστευτικό και το διασυνοριακό εμπόριο.</summary>
-  </entry>
-  <entry>
-    <title>Από τις 31 Αυγούστου η μείωση τιμών σε βασικά προϊόντα – Σε ποιες κατηγορίες θα ισχύει</title>
-    <link href="https://www.kathimerini.gr/economy/local/564334042/apo-tis-31-aygoystoy-i-meiosi-timon-se-vasika-proionta-se-poies-katigories-tha-ischyei/"/>
-    <id>urn:greek-news-aggregator:61d55a797306</id>
-    <updated>2026-07-09T13:49:39+00:00</updated>
-    <published>2026-07-09T13:49:39+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">From August 31 and for the following two to four months, prices on basic goods — including food, personal hygiene products, cleaning supplies and school items — will be cut by at least 5%. The decision was reached at a meeting between Development Minister Takis Theodorikakos and representatives of industry, suppliers and supermarkets. Company participation is voluntary, with oversight by the independent consumer protection authority. / Από τις 31 Αυγούστου και για δύο έως τέσσερις μήνες θα ισχύσουν μειώσεις τιμών τουλάχιστον 5% σε βασικά προϊόντα, όπως τρόφιμα, είδη προσωπικής υγιεινής, καθαριστικά και σχολικά είδη. Η απόφαση ελήφθη σε σύσκεψη του υπουργού Ανάπτυξης Τάκη Θεοδωρικάκου με εκπροσώπους της βιομηχανίας, των προμηθευτών και των σούπερ μάρκετ. Η συμμετοχή των εταιρειών είναι εθελοντική, με εποπτεία από την Ανεξάρτητη Αρχή Προστασίας του Καταναλωτή.</summary>
-  </entry>
-  <entry>
-    <title>Κοζάνη: Κηδεύεται η Βάγια Νέστορα</title>
-    <link href="https://www.kathimerini.gr/society/564333703/kozani-kideyetai-simera-i-vagia-nestora-parontes-o-prothypoyrgos-kai-o-archigos-tis-axiomatikis-antipoliteysis/"/>
-    <id>urn:greek-news-aggregator:2c1a4d918ef7</id>
-    <updated>2026-07-09T10:15:13+00:00</updated>
-    <published>2026-07-09T10:15:13+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">The funeral of Vagia Nestora, who died following an arson attack on her home, was held at the Metropolitan Church of Agios Nikolaos in Kozani. Prime Minister Kyriakos Mitsotakis and PASOK leader Nikos Androulakis attended, with Androulakis calling for zero tolerance of violence and terrorism and demanding the swift arrest of the perpetrators. Her daughter, New Democracy politician Afroditi Nestora, who was seriously injured in the attack, arrived by ambulance after discharging herself from hospital to attend. / Στον Μητροπολιτικό Ναό του Αγίου Νικολάου Κοζάνης τελέστηκε η εξόδιος ακολουθία της Βάγιας Νέστορα, η οποία έχασε τη ζωή της μετά από εμπρηστική επίθεση στο σπίτι της. Παρόντες ήταν ο πρωθυπουργός Κυριάκος Μητσοτάκης και ο πρόεδρος του ΠΑΣΟΚ Νίκος Ανδρουλάκης, ο οποίος μίλησε για «μηδενική ανοχή στη βία και την τρομοκρατία». Η κόρη της, πολιτεύτρια της ΝΔ Αφροδίτη Νέστορα, που τραυματίστηκε σοβαρά στην επίθεση, έφτασε στην τελετή με ασθενοφόρο έχοντας λάβει εξιτήριο με δική της ευθύνη.</summary>
-  </entry>
-  <entry>
-    <title>Μερτς: Aνακοίνωσε την αγορά πυραύλων Tomahawk από τις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564333934/merts-anakoinose-tin-agora-pyraylon-tomahawk-apo-tis-ipa/"/>
-    <id>urn:greek-news-aggregator:7596d5de34db</id>
-    <updated>2026-07-09T12:57:38+00:00</updated>
-    <published>2026-07-09T12:57:38+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Chancellor Friedrich Merz announced in the Bundestag that Germany will purchase US Tomahawk missiles after the Trump administration abandoned Biden's pledge to deploy the systems in Germany for free. Merz said the purchase closes 'an important strategic gap' in the country's defense, while affirming that Germany will keep working on developing European weapons systems. / Ο καγκελάριος Φρίντριχ Μερτς ανακοίνωσε από τη Bundestag ότι η Γερμανία θα αγοράσει αμερικανικούς πυραύλους Tomahawk, μετά την υπαναχώρηση των ΗΠΑ επί Τραμπ από την υπόσχεση Μπάιντεν για δωρεάν εγκατάσταση των συστημάτων. Ο Μερτς δήλωσε ότι έτσι κλείνει «ένα σημαντικό στρατηγικό κενό» στην άμυνα της χώρας, διαβεβαιώνοντας παράλληλα ότι η Γερμανία συνεχίζει να εργάζεται για την ανάπτυξη ευρωπαϊκών οπλικών συστημάτων.</summary>
-  </entry>
-  <entry>
-    <title>Πέθανε η Μπόνι Τάιλερ σε ηλικία 75 ετών</title>
-    <link href="https://www.kathimerini.gr/culture/564333847/pethane-i-mponi-tailer-se-ilikia-75-eton/"/>
-    <id>urn:greek-news-aggregator:d22a5a72fa6b</id>
-    <updated>2026-07-09T12:24:03+00:00</updated>
-    <published>2026-07-09T12:24:03+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="culture"/>
-    <summary type="text">Legendary singer Bonnie Tyler has died at 75 in a Portuguese hospital, where she had been in intensive care since emergency intestinal surgery in May. She dominated the 1980s with hits like "Total Eclipse of the Heart" and "Holding Out for a Hero". Born Gaynor Hopkins in Wales, she always described herself as a working-class girl who never stopped working. / Η θρυλική τραγουδίστρια Μπόνι Τάιλερ πέθανε σε ηλικία 75 ετών σε νοσοκομείο της Πορτογαλίας, όπου νοσηλευόταν μετά από επείγουσα επέμβαση στο έντερο τον Μάιο. Μεσουράνησε τη δεκαετία του 1980 με επιτυχίες όπως το «Total Eclipse of the Heart» και το «Holding Out for a Hero». Γεννημένη ως Γκέινορ Χόπκινς στην Ουαλία, αυτοπροσδιοριζόταν πάντα ως «κορίτσι της εργατικής τάξης» που δεν σταμάτησε ποτέ να δουλεύει.</summary>
-  </entry>
-  <entry>
-    <title>Κατερίνα Νοτοπούλου: Παραδίδει την έδρα στον ΣΥΡΙΖΑ, στηρίζει Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/564332758/katerina-notopoyloy-paradidei-tin-edra-ston-syriza-stirizei-tsipra/"/>
-    <id>urn:greek-news-aggregator:4ada9ea07437</id>
-    <updated>2026-07-08T21:39:36+00:00</updated>
-    <published>2026-07-08T21:39:36+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Katerina Notopoulou resigned from SYRIZA and gave up her Thessaloniki parliamentary seat, saying her continued membership no longer served her political convictions. She accused the party of lacking self-criticism and prolonged introversion, while backing Alexis Tsipras's new initiative as a possible way out for the progressive space. / Η Κατερίνα Νοτοπούλου παραιτήθηκε από μέλος του ΣΥΡΙΖΑ και από βουλεύτρια Α΄ Θεσσαλονίκης, δηλώνοντας ότι η παραμονή της δεν υπηρετεί πλέον τις πολιτικές της πεποιθήσεις. Κατηγόρησε το κόμμα για έλλειψη αυτοκριτικής και παρατεταμένη εσωστρέφεια, ενώ εξέφρασε στήριξη στην πρωτοβουλία Τσίπρα ως πιθανή διέξοδο για τον προοδευτικό χώρο.</summary>
-  </entry>
-  <entry>
-    <title>Ασπρόπυργος: Από βυτίο με προπάνιο η μεγάλη έκρηξη – Πώς ξεκίνησε η φωτιά</title>
-    <link href="https://www.kathimerini.gr/society/564333976/aspropyrgos-apo-vytio-me-propanio-i-megali-ekrixi-pos-xekinise-i-fotia/"/>
-    <id>urn:greek-news-aggregator:e31cdeca2091</id>
-    <updated>2026-07-09T13:20:29+00:00</updated>
-    <published>2026-07-09T13:20:29+00:00</published>
+    <title>Δύο συλλήψεις για τον εμπρησμό στη Marfin το 2010</title>
+    <link href="https://www.kathimerini.gr/society/564336175/dyo-syllipseis-gia-ton-empismo-sti-marfin-to-2010/"/>
+    <id>urn:kathimerini:35e865970daa</id>
+    <updated>2026-07-10T12:05:10+00:00</updated>
     <author><name>Γιάννης Σουλιώτης</name></author>
     <category term="society"/>
-    <summary type="text">The major fire at a business in Aspropyrgos is believed to have started from sparks during welding work at a repair shop, seriously injuring two Romanian workers who are now intubated. A second large explosion followed, likely from a tanker containing propane residue that was at the shop for suspension repairs. Three people in total are intubated, and authorities are collecting CCTV footage from neighboring businesses to clarify the causes. / Η μεγάλη φωτιά σε επιχείρηση στον Ασπρόπυργο εκτιμάται ότι ξεκίνησε από σπινθήρες κατά τη διάρκεια εργασιών ηλεκτροσυγκόλλησης σε χώρο συνεργείου, με δύο εργάτες από τη Ρουμανία να τραυματίζονται σοβαρά και να διασωληνώνονται. Ακολούθησε δεύτερη μεγάλη έκρηξη, πιθανόν από βυτίο με υπολείμματα προπανίου που βρισκόταν στο συνεργείο για επισκευή. Συνολικά τρεις άνθρωποι είναι διασωληνωμένοι, ενώ οι Αρχές συλλέγουν οπτικό υλικό από κάμερες για να αποσαφηνιστούν τα αίτια.</summary>
+    <summary xml:lang="el">Το «ελληνικό FBI» προχώρησε σε δύο συλλήψεις για τον εμπρησμό της Marfin τον Μάιο του 2010, που στοίχισε τη ζωή σε τρεις εργαζομένους. Ένταλμα εκδόθηκε και για μια γυναίκα που έχει μετακομίσει στη Βρετανία, μετά από νέα έρευνα με αντιπαραβολή φωτογραφιών από παλιές δικογραφίες.</summary>
+    <content type="text" xml:lang="en">Greece&#x27;s &#x27;FBI&#x27; made two arrests over the May 2010 Marfin bank arson that killed three employees. A warrant was also issued for a woman now living in Britain, after a fresh probe cross-referencing photos from old case files.</content>
   </entry>
   <entry>
-    <title>Η Μαρίν Λεπέν εμφανίζεται να κερδίζει στις προεδρικές εκλογές του 2027, σύμφωνα με δύο δημοσκοπήσεις</title>
-    <link href="https://www.kathimerini.gr/world/564334012/i-marin-lepen-emfanizetai-na-kerdizei-stis-proedrikes-ekloges-toy-2027-symfona-me-dyo-dimoskopiseis/"/>
-    <id>urn:greek-news-aggregator:a6b1a2f21876</id>
-    <updated>2026-07-09T13:33:27+00:00</updated>
-    <published>2026-07-09T13:33:27+00:00</published>
+    <title>Προειδοποίηση Ισραήλ: Το Ιράν επιδιώκει να σκοτώσει τον Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564335830/proeidopoiisi-israil-to-iran-epidiokei-na-skotosei-ton-tramp/"/>
+    <id>urn:kathimerini:3b128624d2f2</id>
+    <updated>2026-07-10T08:56:57+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Two polls (Ifop and Toluna Harris Interactive) show Marine Le Pen leading the first round of France's April 2027 presidential election with 36% and winning the runoff. The surveys were conducted after the far-right leader announced her candidacy despite her appeals-court conviction for misappropriating EU funds, with none of her rivals polling above 19%. / Δύο δημοσκοπήσεις (Ifop και Toluna Harris Interactive) δείχνουν τη Μαρίν Λεπέν να προηγείται στον πρώτο γύρο των γαλλικών προεδρικών εκλογών του Απριλίου 2027 με 36% και να εκλέγεται στον δεύτερο γύρο. Οι μετρήσεις έγιναν αφότου η ηγέτιδα της ακροδεξιάς ανακοίνωσε την υποψηφιότητά της, παρά την καταδίκη της σε δεύτερο βαθμό για υπεξαίρεση ευρωπαϊκών κονδυλίων, ενώ κανένας αντίπαλός της δεν ξεπερνά το 19%.</summary>
+    <summary xml:lang="el">Το Ισραήλ διαβίβασε στην Ουάσιγκτον πληροφορίες ότι το Ιράν ετοιμάζει νέο σχέδιο δολοφονίας του Τραμπ, σύμφωνα με WSJ και CNN. Ο Λευκός Οίκος δεν διέψευσε, ενώ η διαρροή έρχεται σε στιγμή κλονισμένων σχέσεων Τραμπ–Νετανιάχου.</summary>
+    <content type="text" xml:lang="en">Israel passed intelligence to Washington that Iran is preparing a new plot to assassinate Trump, per the WSJ and CNN. The White House did not deny it, and the leak comes amid strained Trump–Netanyahu relations.</content>
   </entry>
   <entry>
-    <title>Μακρόν στη Συρία: Προσπάθειες για διατήρηση διαύλων επικοινωνίας</title>
-    <link href="https://www.kathimerini.gr/world/564333037/makron-sti-syria-prospatheies-gia-diatirisi-diaylon-epikoinonias/"/>
-    <id>urn:greek-news-aggregator:7ba6edf401dc</id>
-    <updated>2026-07-09T08:08:00+00:00</updated>
-    <published>2026-07-09T08:08:00+00:00</published>
+    <title>Κυρ. Μητσοτάκης: Οταν υπάρχουν ζητήματα με την Τουρκία, τα συζητάμε – Εχω κουραστεί να το λέω, εκλογές το 2027</title>
+    <link href="https://www.kathimerini.gr/politics/564334930/kyr-mitsotakis-otan-yparchoyn-zitimata-me-tin-toyrkia-ta-syzitame-echo-koyrastei-na-to-leo-ekloges-to-2027/"/>
+    <id>urn:kathimerini:2bf444407b1e</id>
+    <updated>2026-07-09T22:27:05+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Στη συζήτηση με τη Ρομπέρτα Μέτσολα στο συνέδριο του Economist, ο Κυριάκος Μητσοτάκης ξεκαθάρισε ότι οι εκλογές θα γίνουν το 2027 — «έχω κουραστεί να το λέω». Έκανε απολογισμό της συνόδου του ΝΑΤΟ, σημειώνοντας ότι η Ελλάδα πέτυχε ήδη τον στόχο αμυντικών δαπανών του 2035, και επέκρινε τη «στενόμυαλη» κάλυψη των διεθνών θεμάτων από μερίδα ΜΜΕ.</summary>
+    <content type="text" xml:lang="en">In conversation with Roberta Metsola at the Economist conference, Kyriakos Mitsotakis insisted elections will be held in 2027 — &#x27;I&#x27;m tired of repeating it&#x27;. He reviewed the NATO summit, noting Greece has already hit the 2035 defense-spending target, and criticized &#x27;narrow-minded&#x27; media coverage of international affairs.</content>
+  </entry>
+  <entry>
+    <title>Ενας στους δύο Ελληνες δεν μπορεί να αντεπεξέλθει σε έκτακτα έξοδα</title>
+    <link href="https://www.kathimerini.gr/economy/local/564335512/enas-stoys-dyo-ellines-den-mporei-na-antepexelthei-se-ektakta-exoda/"/>
+    <id>urn:kathimerini:d3291d564bfc</id>
+    <updated>2026-07-10T09:08:00+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Το 50,5% των Ελλήνων δεν μπορούσε να ανταποκριθεί σε απροσδόκητα έξοδα το 2025 — το υψηλότερο ποσοστό στην Ε.Ε. και σημαντικά αυξημένο από το 43,9% του 2024, σύμφωνα με τη Eurostat. Το 27,5% του πληθυσμού διατρέχει κίνδυνο φτώχειας ή κοινωνικού αποκλεισμού, δεύτερο υψηλότερο μετά τη Βουλγαρία.</summary>
+    <content type="text" xml:lang="en">Some 50.5% of Greeks could not cover unexpected expenses in 2025 — the highest rate in the EU, sharply up from 43.9% in 2024, per Eurostat. 27.5% of the population faces poverty or social-exclusion risk, second only to Bulgaria.</content>
+  </entry>
+  <entry>
+    <title>Ιράν: Τριβές μεταξύ μετριοπαθών και σκληροπυρηνικών</title>
+    <link href="https://www.kathimerini.gr/world/564335230/iran-trives-metaxy-metriopathon-kai-skliropyrinikon/"/>
+    <id>urn:kathimerini:ba77255e3e1a</id>
+    <updated>2026-07-10T12:10:00+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Emmanuel Macron, the first Western leader to visit Syria since the fall of the Assad regime in December 2024, completed a two-day official visit to Damascus that was overshadowed by a twin bombing near his hotel. Paris seeks to preserve its long-standing diplomatic influence in Syria, while Donald Trump also met with Ahmed al-Sharaa on the sidelines of the NATO summit in Ankara. / Ο Εμανουέλ Μακρόν, ο πρώτος δυτικός ηγέτης που επισκέπτεται τη Συρία μετά την πτώση του καθεστώτος Άσαντ τον Δεκέμβριο του 2024, ολοκλήρωσε διήμερη επίσημη επίσκεψη στη Δαμασκό, την οποία σκίασε διπλή βομβιστική επίθεση κοντά στο ξενοδοχείο του. Το Παρίσι επιδιώκει να διατηρήσει τη μακρόχρονη διπλωματική του επιρροή στη Συρία, ενώ και ο Ντόναλντ Τραμπ συναντήθηκε με τον Αχμέντ αλ Σάρα στο περιθώριο της Συνόδου του ΝΑΤΟ στην Άγκυρα.</summary>
+    <summary xml:lang="el">Οι νέες αμερικανικές επιθέσεις και η αμφισβήτηση της εκεχειρίας από τον Τραμπ βαθαίνουν τις τριβές στην ιρανική ηγεσία, μεταξύ των μετριοπαθών του προέδρου Πεζεσκιάν και των σκληροπυρηνικών. Η ένταση φάνηκε στις τελετές ταφής του Αλί Χαμενεΐ, ενώ οπαδοί της σκληρής γραμμής επιχείρησαν να επιτεθούν στον Πεζεσκιάν.</summary>
+    <content type="text" xml:lang="en">Fresh US strikes and Trump&#x27;s questioning of the ceasefire are deepening rifts in Iran&#x27;s leadership between President Pezeshkian&#x27;s moderates and the hardliners. Tensions surfaced during Ali Khamenei&#x27;s burial rites, with hardline crowds attempting to assault Pezeshkian.</content>
   </entry>
   <entry>
-    <title>Ο μάγος με τα δώρα</title>
-    <link href="https://www.kathimerini.gr/opinion/564331105/o-magos-me-ta-dora/"/>
-    <id>urn:greek-news-aggregator:273e46274d69</id>
-    <updated>2026-07-08T20:07:00+00:00</updated>
-    <published>2026-07-08T20:07:00+00:00</published>
-    <author><name>Κωστής Φαφούτης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Kostis Fafoutis analyzes Trump's 'gifts' to Erdogan during his Ankara visit: pledges on F-35 and F-16 jets, lifting CAATSA sanctions, and engines for Turkey's fifth-generation fighter. The most tangible gift, he argues, is Trump's clear green light for Turkey to become a leading power within the emerging 'new NATO', at a summit that will shape the international security architecture upended by Trump's second term — with obvious stakes for Greece. / Ο Κωστής Φαφούτης αναλύει τα «δώρα» του Τραμπ στον Ερντογάν κατά την επίσκεψή του στην Άγκυρα: υποσχέσεις για F-35 και F-16, άρση των κυρώσεων CAATSA και κινητήρες για το τουρκικό μαχητικό 5ης γενιάς. Το πιο απτό δώρο, γράφει, είναι το πράσινο φως ώστε η Τουρκία να αναδειχθεί ηγέτιδα δύναμη στο υπό διαμόρφωση νέο ΝΑΤΟ, σε μια σύνοδο που θα καθορίσει τη νέα αρχιτεκτονική ασφαλείας μετά τις ανατροπές της δεύτερης θητείας Τραμπ.</summary>
+    <title>ΣΥΡΙΖΑ: Το παρασκήνιο της αιφνιδιαστικής παραίτησης Φάμελλου</title>
+    <link href="https://www.kathimerini.gr/politics/564335155/syriza-aifnidiastiki-paraitisi-toy-sokrati-famelloy/"/>
+    <id>urn:kathimerini:3d3eaaa8a7c3</id>
+    <updated>2026-07-10T06:38:00+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η αιφνιδιαστική παραίτηση Φάμελλου από την προεδρία του ΣΥΡΙΖΑ ήρθε λίγες ώρες πριν από τη συνεδρίαση της Κεντρικής Επιτροπής, με αιχμές κατά του Τσίπρα για άρνηση συνεργασίας. Ο τέως πρόεδρος δηλώνει ότι δεν παραιτείται από τη Βουλή ούτε από το κόμμα, ενώ δεχόταν ασφυκτική πίεση από την εσωκομματική αντιπολίτευση και τον Πολάκη.</summary>
+    <content type="text" xml:lang="en">Famellos&#x27;s surprise resignation as SYRIZA leader came hours before the Central Committee meeting, with barbs at Tsipras for refusing cooperation. The former leader says he is not quitting parliament or the party, having faced suffocating pressure from the internal opposition and Polakis.</content>
   </entry>
   <entry>
-    <title>«Καμπανάκι» για διεύρυνση ελλειμμάτων στην Ευρώπη από τη Morgan Stanley</title>
-    <link href="https://www.kathimerini.gr/economy/564333373/kampanaki-gia-dieyrynsi-elleimmaton-stin-eyropi-apo-ti-morgan-stanley/"/>
-    <id>urn:greek-news-aggregator:98fbde9e05a1</id>
-    <updated>2026-07-09T10:23:00+00:00</updated>
-    <published>2026-07-09T10:23:00+00:00</published>
+    <title>Κίνδυνος χρόνιας πετρελαϊκής αστάθειας στον Κόλπο</title>
+    <link href="https://www.kathimerini.gr/economy/564335647/kindynos-chronias-petrelaikis-astatheias-ston-kolpo/"/>
+    <id>urn:kathimerini:b5b6f0c18ff8</id>
+    <updated>2026-07-10T12:45:00+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Morgan Stanley warns that population aging, defense spending and interest costs will widen deficits in most eurozone countries by at least three percentage points of GDP by 2040 — for Greece the added burden is estimated at 3.4 points. For highly indebted countries, the bank stresses that growth-enhancing measures are more effective at reducing debt ratios than austerity-driven primary surpluses. / Η Morgan Stanley προειδοποιεί ότι η γήρανση των πληθυσμών, οι αμυντικές δαπάνες και το επιτοκιακό κόστος θα διευρύνουν τα ελλείμματα των περισσότερων χωρών της Ευρωζώνης κατά τουλάχιστον τρεις ποσοστιαίες μονάδες του ΑΕΠ έως το 2040 — για την Ελλάδα η επιβάρυνση εκτιμάται στις 3,4 μονάδες. Για τις υπερχρεωμένες χώρες, ο οίκος τονίζει ότι τα μέτρα ενίσχυσης της ανάπτυξης είναι πιο αποτελεσματικά για τη μείωση του χρέους από τη λιτότητα και τα υψηλά πρωτογενή πλεονάσματα.</summary>
+    <summary xml:lang="el">Η πιθανή κατάρρευση των συνομιλιών ΗΠΑ–Ιράν και το «σταμάτα-ξεκίνα» στα Στενά του Ορμούζ απειλούν με χρόνια πετρελαϊκή αστάθεια τον Κόλπο. Το αργό ανέβηκε 6% σχεδόν στα 80 δολάρια, καθώς το Ιράν χρησιμοποιεί τη ναυσιπλοΐα ως μοχλό αποτροπής νέων επιθέσεων.</summary>
+    <content type="text" xml:lang="en">The potential collapse of US–Iran talks and stop-start tanker traffic through the Strait of Hormuz threaten the Gulf with chronic oil instability. Crude jumped 6% to nearly $80 a barrel as Iran leverages shipping as a deterrent against further strikes.</content>
   </entry>
   <entry>
-    <title>Γιγαντιαία επιχείρηση της Interpol για απάτες σε 97 χώρες – Πάνω από 5.800 συλλήψεις</title>
-    <link href="https://www.kathimerini.gr/world/564333670/peripoy-5-800-syllipseis-kai-kataschesi-300-ekat-dolarion-se-pagkosmia-epicheirisi-tis-interpol/"/>
-    <id>urn:greek-news-aggregator:e6698cd08166</id>
-    <updated>2026-07-09T09:42:48+00:00</updated>
-    <published>2026-07-09T09:42:48+00:00</published>
+    <title>Marfin: Το ανώνυμο email που έβαλε ξανά στο «μικροσκόπιο» του ελληνικού FBI την υπόθεση</title>
+    <link href="https://www.kathimerini.gr/society/564336376/marfin-to-anonymo-email-poy-evale-xana-sto-mikroskopio-toy-ellinikoy-fbi-tin-ypothesi/"/>
+    <id>urn:kathimerini:ab93abae5b7d</id>
+    <updated>2026-07-10T14:00:29+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Ανώνυμο email με ονόματα φερόμενων δραστών της φονικής επίθεσης στη Marfin έβαλε ξανά την υπόθεση στο «μικροσκόπιο» του ελληνικού FBI. Η αντιπαραβολή με άσχετη δικογραφία έδειξε κοινά χαρακτηριστικά με τους δράστες του εμπρησμού του 2010.</summary>
+    <content type="text" xml:lang="en">An anonymous email naming alleged perpetrators of the deadly Marfin bank attack put the case back under the Greek FBI&#x27;s microscope. Cross-checking with an unrelated case file revealed matching characteristics with the 2010 arsonists.</content>
+  </entry>
+  <entry>
+    <title>Δημοσκοπική άνοδος για Ν.Δ. και ΕΛΑΣ, στάσιμο το ΠΑΣΟΚ</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564335140/dimoskopiki-anodos-gia-n-d-kai-elas-stasimo-to-pasok/"/>
+    <id>urn:kathimerini:2ea5938daf32</id>
+    <updated>2026-07-10T06:36:00+03:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Νέα δημοσκόπηση της Pulse για τον ΣΚΑΪ δίνει στη Ν.Δ. 26% (+0,5) και στην ΕΛΑΣ του Τσίπρα 15% (+1,5), με το ΠΑΣΟΚ στάσιμο στο 10%. Ο Μητσοτάκης προηγείται στην καταλληλότητα πρωθυπουργού με 30% έναντι 17% του Τσίπρα, ενώ το 46% προτιμά εκλογές μέσα στο 2026.</summary>
+    <content type="text" xml:lang="en">A new Pulse poll for SKAI puts New Democracy at 26% (+0.5) and Tsipras&#x27;s ELAS at 15% (+1.5), with PASOK stagnant at 10%. Mitsotakis leads on preferred PM with 30% versus Tsipras&#x27;s 17%, while 46% want elections held within 2026.</content>
+  </entry>
+  <entry>
+    <title>Κυβέρνηση: Το πακέτο της ΔΕΘ και η κάλπη</title>
+    <link href="https://www.kathimerini.gr/politics/government/564335161/kyvernisi-to-paketo-tis-deth-kai-i-kalpi/"/>
+    <id>urn:kathimerini:c92abf6f1c1a</id>
+    <updated>2026-07-10T07:49:47+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Το πακέτο παροχών που θα ανακοινώσει ο πρωθυπουργός στη ΔΕΘ θα υπερβαίνει το 1,8 δισ. ευρώ, με κλιμακωτή εφαρμογή έως τον Φεβρουάριο. Ο σχεδιασμός «φωτογραφίζει» εκλογές την άνοιξη του 2027, αν και το σενάριο πρόωρης κάλπης το φθινόπωρο παραμένει ανοιχτό εφόσον η Ν.Δ. ξεπεράσει το 28%.</summary>
+    <content type="text" xml:lang="en">The benefits package the PM will unveil at the Thessaloniki Fair will exceed €1.8 billion, phased in through February. The design points to spring 2027 elections, though an early autumn ballot remains possible if New Democracy polls above 28%.</content>
+  </entry>
+  <entry>
+    <title>«Τώρα ο ΣΥΡΙΖΑ θα γίνει ζούγκλα»</title>
+    <link href="https://www.kathimerini.gr/politics/564336337/tora-o-syriza-tha-ginei-zoygkla/"/>
+    <id>urn:kathimerini:3420ee8e8fb2</id>
+    <updated>2026-07-10T13:43:33+00:00</updated>
+    <author><name>Βασιλική Σιούτη</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Σωκράτης Φάμελλος παραιτήθηκε αιφνιδιαστικά από την προεδρία του ΣΥΡΙΖΑ, την ώρα που το κόμμα αδειάζει προς την ΕΛΑΣ του Αλέξη Τσίπρα. Η τριάδα Πολάκη, Δούρου και Παππά μένει να παλέψει για την επιβίωση του κόμματος και το 3%, με στελέχη να προβλέπουν ότι «τώρα ο ΣΥΡΙΖΑ θα γίνει ζούγκλα».</summary>
+    <content type="text" xml:lang="en">Socratis Famellos abruptly resigned as SYRIZA leader as the party empties toward Alexis Tsipras&#x27;s new ELAS party. The hardline trio of Polakis, Dourou and Pappas will stay to fight for the party&#x27;s survival and the 3% threshold, with insiders predicting SYRIZA &#x27;will now become a jungle&#x27;.</content>
+  </entry>
+  <entry>
+    <title>Αργος: Προθεσμία για τους δύο αστυνομικούς – Πυροβόλησαν 16 φορές</title>
+    <link href="https://www.kathimerini.gr/society/564336244/argos-prothesmia-gia-toys-dyo-astynomikoys-pyrovolisan-16-fores/"/>
+    <id>urn:kathimerini:70eef6a0fc81</id>
+    <updated>2026-07-10T12:39:54+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Οι δύο αστυνομικοί που πυροβόλησαν 20χρονο στο Άργος έλαβαν προθεσμία να απολογηθούν το Σάββατο, ενώ βρέθηκαν τρεις ακόμη κάλυκες — συνολικά 16 πυροβολισμοί. Διώκονται για απόπειρα ανθρωποκτονίας με ενδεχόμενο δόλο, με τον τραυματία σε ιδιαίτερα κρίσιμη κατάσταση στο ΚΑΤ.</summary>
+    <content type="text" xml:lang="en">The two police officers who shot a 20-year-old in Argos were given until Saturday to testify, as three more shell casings were found — 16 shots in total. They face attempted-homicide charges with possible intent, while the victim remains in critical condition.</content>
+  </entry>
+  <entry>
+    <title>Ανάπτυξη, δάνεια και προμήθειες στηρίζουν τις προοπτικές των ελληνικών τραπεζών</title>
+    <link href="https://www.kathimerini.gr/economy/business/564335551/anaptyxi-daneia-kai-promitheies-stirizoyn-tis-prooptikes-ton-ellinikon-trapezon/"/>
+    <id>urn:kathimerini:6b3a43731202</id>
+    <updated>2026-07-10T10:39:27+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Fitch στηρίζει τις θετικές προοπτικές των ελληνικών τραπεζών σε ανθεκτική ανάπτυξη, ισχυρή πιστωτική επέκταση και έσοδα από προμήθειες, προβλέποντας αύξηση χορηγήσεων κοντά στο 10% το 2026-2027. Προκλήσεις παραμένουν η εξυπηρέτηση υποχρεώσεων από νοικοκυριά με χαμηλά εισοδήματα.</summary>
+    <content type="text" xml:lang="en">Fitch grounds Greek banks&#x27; positive outlook in resilient growth, strong credit expansion and fee-generating businesses, projecting loan growth near 10% in 2026-2027. Household debt-servicing capacity amid low incomes remains a key challenge.</content>
+  </entry>
+  <entry>
+    <title>Μοτζτάμπα Χαμενεΐ: Η ηχηρή, αλλά «υπολογισμένη» απουσία του από την ιστορική κηδεία του πατέρα του</title>
+    <link href="https://www.kathimerini.gr/world/564335809/motztampa-chamene-i-ichiri-alla-ypologismeni-apoysia-toy-apo-tin-istoriki-kideia-toy-patera-toy/"/>
+    <id>urn:kathimerini:dbb3865a62c5</id>
+    <updated>2026-07-10T09:23:58+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Interpol announced the arrest of 5,811 people and the seizure of 293 million dollars in the global operation 'First Light 2026' against social-engineering fraud, involving police forces from 97 countries. The scams included business email compromise, sextortion, online romance and investment fraud, with 142,000 victims identified worldwide. / Η Interpol ανακοίνωσε τη σύλληψη 5.811 ατόμων και την κατάσχεση 293 εκατ. δολαρίων στο πλαίσιο της παγκόσμιας επιχείρησης «First Light 2026» κατά απατών ψυχολογικής χειραγώγησης, με συμμετοχή αστυνομιών από 97 χώρες. Οι απάτες περιλάμβαναν υπεξαίρεση επαγγελματικών e-mails, sextortion, συναισθηματικές και επενδυτικές απάτες μέσω Ίντερνετ, με 142.000 ταυτοποιημένα θύματα παγκοσμίως.</summary>
+    <summary xml:lang="el">Η απουσία του Μοτζτάμπα Χαμενεΐ από την ιστορική κηδεία του πατέρα του τροφοδοτεί σενάρια για την τύχη του νέου ανώτατου ηγέτη του Ιράν. Βίντεο και φήμες για μεταμφιεσμένες εμφανίσεις δείχνουν το μυστήριο που περιβάλλει τη διαδοχή.</summary>
+    <content type="text" xml:lang="en">Mojtaba Khamenei&#x27;s absence from his father&#x27;s historic funeral fuels speculation about Iran&#x27;s new supreme leader. Viral videos and rumors of disguised appearances underscore the mystery surrounding the succession.</content>
   </entry>
   <entry>
-    <title>Γιάκοβ Αμιντρόρ στην «Κ»: «Δεν υπάρχουν στοιχεία για τουρκική εμπλοκή»</title>
-    <link href="https://www.kathimerini.gr/politics/564332974/giakov-amintror-stin-k-den-yparchoyn-stoicheia-gia-toyrkiki-emploki/"/>
-    <id>urn:greek-news-aggregator:d3e4157f396f</id>
-    <updated>2026-07-09T11:19:16+00:00</updated>
-    <published>2026-07-09T11:19:16+00:00</published>
-    <author><name>Αθανάσιος Κατσικίδης</name></author>
+    <title>F-16: Η εμπειρία έσωσε τον πιλότο</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564335158/f-16-i-empeiria-esose-ton-piloto/"/>
+    <id>urn:kathimerini:d9a71284f79f</id>
+    <updated>2026-07-10T06:40:00+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Former Israeli national security adviser Yaakov Amidror tells Kathimerini there is no evidence of Turkish involvement in the war against Israel, commenting on Trump's statements from Ankara. He was cautiously reassuring about a potential F-35 sale to Turkey, noting the process would require Israel–US consultations and won't happen overnight. / Ο πρώην σύμβουλος εθνικής ασφαλείας του Ισραήλ Γιάκοβ Αμιντρόρ δηλώνει στην «Κ» ότι δεν υπάρχουν στοιχεία τουρκικής εμπλοκής στον πόλεμο κατά του Ισραήλ, σχολιάζοντας τις δηλώσεις Τραμπ από την Αγκυρα. Εμφανίστηκε συγκρατημένα καθησυχαστικός για την πιθανή πώληση F-35 στην Τουρκία, σημειώνοντας ότι η διαδικασία θα απαιτήσει συνεννοήσεις Ισραήλ–ΗΠΑ και δεν θα συμβεί άμεσα.</summary>
+    <summary xml:lang="el">Πεπειραμένος αντισμήναρχος προσγείωσε με ασφάλεια F-16 Viper με την άτρακτο στη Ζάκυνθο, όταν το σύστημα προσγείωσης δεν λειτουργούσε. Ο χειριστής άδειασε πρώτα τις δεξαμενές καυσίμων για να αποφύγει ανάφλεξη, ενώ ο υπουργός Άμυνας Νίκος Δένδιας θα τον συναντήσει για να του αποδώσει τα εύσημα.</summary>
+    <content type="text" xml:lang="en">An experienced squadron leader safely belly-landed an F-16 Viper at Zakynthos after its landing gear failed. The pilot first circled to empty the fuel tanks to avoid ignition; Defense Minister Nikos Dendias will meet him to commend the feat.</content>
   </entry>
 </feed>
