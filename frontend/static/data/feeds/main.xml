@@ -1,209 +1,209 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Greek News Digest — Kathimerini</title>
-  <subtitle>Daily curated top stories from kathimerini.gr</subtitle>
+  <subtitle>Daily curated digest of kathimerini.gr</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
   <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
-  <id>urn:greek-news-aggregator:main</id>
-  <updated>2026-07-14T11:18:26.221255+00:00</updated>
+  <id>urn:greek-news-aggregator:feed</id>
+  <updated>2026-07-15T11:17:33Z</updated>
   <entry>
-    <title>ΗΠΑ – Ιράν: Αναζωπυρώνεται ο πόλεμος για τον έλεγχο του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564343168/ipa-iran-anazopyronetai-o-polemos-gia-ton-elegcho-toy-ormoyz/"/>
-    <id>urn:kathimerini:a21e109e9e3f</id>
-    <updated>2026-07-14T13:44:11+00:00</updated>
+    <title>Μητσοτάκης από βόρεια Εύβοια: «Εκλογές την άνοιξη του 2027 – Αγώνας για τρίτη αυτοδυναμία της Ν.Δ.»</title>
+    <link href="https://www.kathimerini.gr/politics/564345325/mitsotakis-apo-voreia-eyvoia-ekloges-tin-anoixi-toy-2027-agonas-gia-triti-aytodynamia-tis-n-d/"/>
+    <id>urn:kathimerini:861c8e63dfd0</id>
+    <updated>2026-07-15T11:28:38+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Από τη Βόρεια Εύβοια ο Κυριάκος Μητσοτάκης προανήγγειλε εκλογές την άνοιξη του 2027, καλώντας τους πολίτες «στις επάλξεις» για τρίτη αυτοδυναμία της ΝΔ. Επισκεπτόμενος το Κέντρο Υγείας Ιστιαίας υποσχέθηκε ότι στο τέλος της τετραετίας θα παραδώσει «το καλύτερο ΕΣΥ που είχε η χώρα».</summary>
+    <content type="text" xml:lang="en">From Northern Evia, PM Mitsotakis signaled elections for spring 2027, calling supporters &#x27;to the ramparts&#x27; for a third ND absolute majority. Visiting the Istiaia Health Center, he promised to deliver &#x27;the best national health system the country has ever had&#x27; by the end of the term.</content>
+  </entry>
+  <entry>
+    <title>ΣΥΡΙΖΑ: Νέο κύμα παραιτήσεων και ανεξαρτητοποιήσεων</title>
+    <link href="https://www.kathimerini.gr/politics/564345385/syriza-neo-kyma-paraitiseon-kai-anexartitopoiiseon/"/>
+    <id>urn:kathimerini:1169c10a822a</id>
+    <updated>2026-07-15T12:15:49+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Νέο κύμα αποχωρήσεων πλήττει τον ΣΥΡΙΖΑ: οι βουλευτές Μεϊκόπουλος, Μαμουλάκης και Κοντοτόλη ανακοίνωσαν την ανεξαρτητοποίησή τους, ενώ παραιτήθηκαν ο αναπληρωτής εκπρόσωπος Τύπου Φοίβος Τσικλιάς και ο διευθυντής της Κ.Ο. Γιώργος Μπάκης. Για τον νέο επικεφαλής υπολογίζεται να ψηφίσουν πλέον μόλις 8-10 βουλευτές.</summary>
+    <content type="text" xml:lang="en">A new wave of departures hits SYRIZA: MPs Meikopoulos, Mamoulakis and Kontotoli announced their independence, while deputy spokesman Foivos Tsiklias and parliamentary group director Giorgos Bakis resigned. Only 8-10 MPs are now expected to vote for the new party leader.</content>
+  </entry>
+  <entry>
+    <title>Η στρατηγική των ΗΠΑ στο Ιράν και γιατί «ο πόλεμος δεν θα τελειώσει σύντομα»</title>
+    <link href="https://www.kathimerini.gr/world/564345355/i-stratigiki-ton-ipa-sto-iran-kai-giati-o-polemos-den-tha-teleiosei-syntoma/"/>
+    <id>urn:kathimerini:fbaca376a94a</id>
+    <updated>2026-07-15T13:49:00+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Το Ιράν εκτόξευσε βαλλιστικούς πυραύλους κατά αμερικανικής βάσης στην Ιορδανία, ενώ οι ΗΠΑ πραγματοποιούσαν επί πέντε ώρες πλήγματα σε ιρανικούς στόχους για τρίτη συνεχόμενη νύχτα. Ο Τραμπ επανέφερε τον ναυτικό αποκλεισμό και πρότεινε τέλος διέλευσης 20%, ενώ οι τιμές πετρελαίου εκτινάχθηκαν σε υψηλό τεσσάρων εβδομάδων.</summary>
-    <content type="text" xml:lang="en">Iran fired ballistic missiles at a US air base in Jordan while the US struck Iranian targets for five hours in a third consecutive night of attacks. Trump reinstated the naval blockade and proposed a 20% transit fee, sending oil prices to a four-week high.</content>
+    <summary xml:lang="el">Αναλυτές στο Politico εκτιμούν ότι ο πόλεμος ΗΠΑ-Ιράν δεν θα τελειώσει σύντομα: οι μεσολαβήσεις Αράβων και Πακιστανών δεν αποδίδουν, δεν υπάρχει εμπιστοσύνη μεταξύ των δύο πλευρών και «ο Λευκός Οίκος δεν είναι βέβαιος πού οδηγείται η κατάσταση». Οι εχθροπραξίες εκτείνονται από τον αμερικανικό ναυτικό αποκλεισμό έως τις επιθέσεις της Τεχεράνης.</summary>
+    <content type="text" xml:lang="en">Analysts cited by Politico expect the US-Iran war to drag on: Arab and Pakistani mediation has failed, there is no trust between the sides, and &#x27;the White House isn&#x27;t sure where this is heading&#x27;. Hostilities range from the US naval blockade to Tehran&#x27;s multiple attacks.</content>
   </entry>
   <entry>
-    <title>Υψηλός ο κίνδυνος για τα πλοία στα Στενά του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564342292/ypsilos-o-kindynos-gia-ta-ploia-sta-stena-toy-ormoyz/"/>
-    <id>urn:kathimerini:cbb72aa71c1a</id>
-    <updated>2026-07-14T10:58:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Μόλις 22 πλοία διέσχισαν τα Στενά του Ορμούζ την Πέμπτη, από 130 ημερησίως προπολεμικά, καθώς οι νέες εχθροπραξίες ΗΠΑ-Ιράν αναζωπυρώνουν τον κίνδυνο. Ο Έλληνας εφοπλιστής Χάρης Βαφειάς (StealthGas) δηλώνει ότι «τα πράγματα γίνονται όλο και πιο άσχημα κάθε λεπτό» και αποσύρει πλοία από την περιοχή.</summary>
-    <content type="text" xml:lang="en">Only 22 ships transited the Strait of Hormuz on Thursday, down from 130 daily before the war, as renewed US-Iran hostilities revive risk. Greek shipowner Harry Vafias (StealthGas) says "things are getting worse by the minute" and is pulling vessels from the area.</content>
-  </entry>
-  <entry>
-    <title>Ιράν: Με αμερικανικές απειλές τα Στενά δεν ανοίγουν – Τρεις νεκροί από τις επιθέσεις των ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564342814/iran-me-amerikanikes-apeiles-ta-stena-den-anoigoyn-treis-nekroi-apo-tis-epitheseis-ton-ipa/"/>
-    <id>urn:kathimerini:b278e087cb8d</id>
-    <updated>2026-07-14T11:39:05+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Τα Στενά του Ορμούζ δεν θα ανοίξουν όσο οι ΗΠΑ «εξακοντίζουν απειλές και διεξάγουν πόλεμο», προειδοποίησε εκπρόσωπος του ιρανικού στρατού. Τρεις νεκροί αναφέρονται στην επαρχία Ορμοζγκάν από την τρίτη νύχτα αμερικανικών πληγμάτων.</summary>
-    <content type="text" xml:lang="en">The Strait of Hormuz will not reopen while the US "hurls threats and wages war," an Iranian military spokesman warned. Three deaths were reported in Hormozgan province from the third night of American strikes.</content>
-  </entry>
-  <entry>
-    <title>Οι αιτίες της νέας ενεργειακής ακρίβειας</title>
-    <link href="https://www.kathimerini.gr/economy/international/564342142/oi-aities-tis-neas-energeiakis-akriveias/"/>
-    <id>urn:kathimerini:ca887507dade</id>
-    <updated>2026-07-14T13:40:00+00:00</updated>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Νέες πληθωριστικές πιέσεις από τα πολεμικά ασφάλιστρα στα Στενά του Ορμούζ, το αμερικανικό τέλος διέλευσης 20% και τα ουκρανικά πλήγματα σε ρωσικά διυλιστήρια που έθεσαν εκτός λειτουργίας το 10% της παγκόσμιας δυναμικότητας διύλισης. Το παράδοξο: οι τιμές Brent συγκρατούνται, αλλά βενζίνη και ντίζελ εκτοξεύονται.</summary>
-    <content type="text" xml:lang="en">Fresh inflationary pressure from war insurance premiums at Hormuz, the 20% US transit fee, and Ukrainian strikes on Russian refineries that knocked out 10% of global refining capacity. The paradox: Brent prices hold steady while gasoline and diesel prices soar.</content>
-  </entry>
-  <entry>
-    <title>Σε υψηλό μηνός πλέον οι διεθνείς τιμές του πετρελαίου</title>
-    <link href="https://www.kathimerini.gr/economy/international/564342583/se-ypsilo-minos-pleon-oi-diethneis-times-toy-petrelaioy/"/>
-    <id>urn:kathimerini:3f1055ca2e41</id>
-    <updated>2026-07-14T09:13:32+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Σε υψηλό τεσσάρων εβδομάδων οι διεθνείς τιμές πετρελαίου, με το Brent στα 84,80 δολάρια (+1,8%) και το WTI στα 79,84, εν μέσω κλιμάκωσης στα Στενά του Ορμούζ και επανάληψης του αμερικανικού ναυτικού αποκλεισμού του Ιράν. Η διέλευση δεξαμενόπλοιων μειώθηκε στο χαμηλότερο επίπεδο δύο μηνών.</summary>
-    <content type="text" xml:lang="en">Global oil prices hit a four-week high, with Brent at $84.80 (+1.8%) and WTI at $79.84, amid escalation at the Strait of Hormuz and the renewed US naval blockade of Iran. Tanker transits fell to a two-month low.</content>
-  </entry>
-  <entry>
-    <title>Κυπριακό: Κινητικότητα και σενάρια για σχέδιο λύσης στο προσκήνιο</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564341758/kypriako-kinitikotita-kai-senaria-gia-schedio-lysis-sto-proskinio/"/>
-    <id>urn:kathimerini:48e0a8d63107</id>
-    <updated>2026-07-14T07:09:12+00:00</updated>
+    <title>Πιο κοντά στην άμυνα Τουρκία και Αίγυπτος</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564344365/pio-konta-stin-amyna-toyrkia-kai-aigyptos/"/>
+    <id>urn:kathimerini:ca878e648a63</id>
+    <updated>2026-07-15T07:12:33+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Σημάδια κινητικότητας στο Κυπριακό με την ανάληψη καθηκόντων ειδικού απεσταλμένου της ΕΕ από τον Ραφαέλε Φίτο και δημοσίευμα του Independent για σχέδιο λύσης με δύο κοινοβούλια, μικρό ενιαίο υπουργικό συμβούλιο, επιστροφή των Βαρωσίων και εγγυήσεις μέσω ΝΑΤΟ. Η πρόταση παραμένει σε άτυπο επίπεδο.</summary>
-    <content type="text" xml:lang="en">Signs of movement on the Cyprus issue as Raffaele Fitto becomes EU special envoy and an Independent report outlines a solution framework with two parliaments, a small joint cabinet, return of Varosha and NATO-based guarantees. The proposal remains informal.</content>
+    <summary xml:lang="el">Η Τουρκία και η Αίγυπτος εμβαθύνουν τη στρατιωτική τους συνεργασία, με υπογραφή μνημονίου κατανόησης κατά την πρώτη μετά από 13 χρόνια επίσκεψη του Αιγύπτιου υπουργού Άμυνας στην Άγκυρα. Η Αθήνα παρακολουθεί με ανησυχία τη δυναμική της τουρκοαιγυπτιακής προσέγγισης, αν και δεν θεωρείται ακόμη ευθέως απειλητική για τα ελληνικά συμφέροντα.</summary>
+    <content type="text" xml:lang="en">Turkey and Egypt are deepening military cooperation, signing a memorandum of understanding during the Egyptian defense minister&#x27;s first visit to Ankara in 13 years. Athens watches the Turkish-Egyptian rapprochement with concern, though it is not yet seen as directly threatening Greek interests.</content>
   </entry>
   <entry>
-    <title>Η Ελλάδα φορολογεί την εργασία περισσότερο από όλα τα κράτη στην Ε.Ε.</title>
-    <link href="https://www.kathimerini.gr/economy/local/564342181/i-ellada-forologei-tin-ergasia-perissotero-apo-ola-ta-krati-stin-e-e/"/>
-    <id>urn:kathimerini:077c2b4d7ebc</id>
-    <updated>2026-07-14T10:28:00+00:00</updated>
-    <author><name>Προκόπης Χατζηνικολάου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η Ελλάδα φορολογεί την εργασία περισσότερο από κάθε άλλο κράτος της ΕΕ, με τον έμμεσο φορολογικό συντελεστή εργασίας στο 44,8% το 2024 έναντι 37,1% του ευρωπαϊκού μέσου όρου, σύμφωνα με την ετήσια έκθεση φορολογίας της Κομισιόν. Σχεδόν τα μισά χρήματα που δαπανά μια επιχείρηση για έναν εργαζόμενο καταλήγουν στο Δημόσιο.</summary>
-    <content type="text" xml:lang="en">Greece taxes labor more than any other EU state, with the implicit tax rate on labor at 44.8% in 2024 versus the EU average of 37.1%, per the Commission's annual taxation report. Nearly half of what a business spends on an employee goes to the state.</content>
-  </entry>
-  <entry>
-    <title>Marfin: Στην ανακρίτρια οι δύο συλληφθέντες</title>
-    <link href="https://www.kathimerini.gr/society/564342820/marfin-stin-anakritria-oi-dyo-syllifthentes/"/>
-    <id>urn:kathimerini:afd559caf56f</id>
-    <updated>2026-07-14T11:26:35+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Στην 3η τακτική ανακρίτρια απολογούνται οι δύο 42χρονοι κατηγορούμενοι για τον φονικό εμπρησμό της Marfin το 2010, αντιμέτωποι με κατηγορία ανθρωποκτονίας από κοινού κατά συρροή. Η υπεράσπιση αμφισβητεί την ταυτοποίηση των προσώπων και ζητά έρευνα για τον αποστολέα του ανώνυμου e-mail της δικογραφίας.</summary>
-    <content type="text" xml:lang="en">The two 42-year-old defendants in the deadly 2010 Marfin arson are testifying before the investigating magistrate, facing joint serial homicide charges. The defense disputes the identification evidence and demands an inquiry into the sender of the anonymous email in the case file.</content>
-  </entry>
-  <entry>
-    <title>Ανεβάζει στροφές εν μέσω θέρους ο Αλέξης Τσίπρας</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564341782/anevazei-strofes-en-meso-theroys-o-alexis-tsipras/"/>
-    <id>urn:kathimerini:b60af4916f62</id>
-    <updated>2026-07-14T08:19:00+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ο Αλέξης Τσίπρας ανακοίνωσε τα 400 μέλη του Εθνικού Συμβουλίου της ΕΛΑΣ και περιόδευσε στη Μυτιλήνη, εντείνοντας τη δραστηριότητά του εν μέσω θέρους. Το νέο όργανο περιλαμβάνει λίγα μετριοπαθή στελέχη του ΣΥΡΙΖΑ και πολλούς εκπροσώπους της κοινωνίας, ενώ στον ΣΥΡΙΖΑ ενισχύονται οι διαλυτικές τάσεις.</summary>
-    <content type="text" xml:lang="en">Alexis Tsipras announced the 400 members of ELAS's National Council and toured Mytilene, intensifying his mid-summer activity. The new body includes few moderate SYRIZA veterans and many civil society figures, while disintegration trends strengthen within SYRIZA.</content>
-  </entry>
-  <entry>
-    <title>Γιατί οι τιμές στην αντλία μόνο ανεβαίνουν</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564341746/giati-oi-times-stin-antlia-mono-anevainoyn/"/>
-    <id>urn:kathimerini:31818fa35f67</id>
-    <updated>2026-07-14T09:34:08+03:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Μεταξύ ανάκαμψης διεθνών τιμών πετρελαίου και ρωσικής απαγόρευσης εξαγωγών ντίζελ έως 31 Ιουλίου, οι τιμές στην αντλία μόνο ανεβαίνουν. Μερική ανακούφιση από τη μείωση 10 λεπτών στη βενζίνη και 5 στο ντίζελ που χρηματοδοτούν τα διυλιστήρια έως 31 Αυγούστου.</summary>
-    <content type="text" xml:lang="en">Between recovering global oil prices and Russia's diesel export ban until July 31, pump prices keep climbing. Partial relief comes from refinery-funded cuts of 10 cents on gasoline and 5 on diesel until August 31.</content>
-  </entry>
-  <entry>
-    <title>Υποκλοπές: Νέο αίτημα για ανάσυρση της δικογραφίας – Στο «μικροσκόπιο» δικαστικό έγγραφο από το Ισραήλ</title>
-    <link href="https://www.kathimerini.gr/society/564343129/ypoklopes-neo-aitima-gia-anasyrsi-tis-dikografias-sto-mikroskopio-dikastiko-eggrafo-apo-to-israil/"/>
-    <id>urn:kathimerini:98b9ac350e22</id>
-    <updated>2026-07-14T13:34:32+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Νέο αίτημα στην Εισαγγελία του Αρείου Πάγου για ανάσυρση της δικογραφίας των υποκλοπών κατέθεσε ο δικηγόρος Ζαχαρίας Κεσσές, επικαλούμενος δικαστικό έγγραφο από το Ισραήλ στο οποίο ο ιδρυτής της Intellexa Ταλ Ντίλιαν φέρεται να θεωρεί δεδομένη την πώληση του Predator σε ελληνικές κρατικές αρχές, διαχωρίζοντάς την από τη χρήση του.</summary>
-    <content type="text" xml:lang="en">Lawyer Zacharias Kesses filed a new request with the Supreme Court Prosecutor to reopen the wiretapping case file, citing an Israeli court document in which Intellexa founder Tal Dilian reportedly treats the sale of Predator to Greek state authorities as a given, while distinguishing it from its use.</content>
-  </entry>
-  <entry>
-    <title>Ιράν: Πέντε εκρήξεις δυτικά της Μπαντάρ Αμπάς</title>
-    <link href="https://www.kathimerini.gr/world/564343042/iran-pente-ekrixeis-dytika-tis-mpantar-ampas/"/>
-    <id>urn:kathimerini:8cc1f6ca4cba</id>
-    <updated>2026-07-14T12:36:38+00:00</updated>
+    <title>Η Ρωσία επιτίθεται στην Οδησσό ενώ η Φον ντερ Λάιεν φτάνει στο Κίεβο</title>
+    <link href="https://www.kathimerini.gr/world/564345403/i-rosia-epitithetai-stin-odisso-eno-i-fon-nter-laien-ftanei-sto-kievo/"/>
+    <id>urn:kathimerini:abe11e6341c5</id>
+    <updated>2026-07-15T12:12:44+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Πέντε εκρήξεις ακούστηκαν δυτικά της Μπαντάρ Αμπάς στο νότιο Ιράν, σύμφωνα με τα κρατικά ΜΜΕ. Παράλληλα, η Τεχεράνη καταδίκασε ως «ανεύθυνη» την απόφαση της Βρετανίας να χαρακτηρίσει τους Φρουρούς της Επανάστασης οργάνωση-απειλή για την εθνική ασφάλεια.</summary>
-    <content type="text" xml:lang="en">Five explosions were heard west of Bandar Abbas in southern Iran, state media reported. Tehran also condemned as "irresponsible" Britain's decision to designate the Revolutionary Guards a national security threat.</content>
+    <summary xml:lang="el">Τρεις άνθρωποι σκοτώθηκαν από ρωσικό πύραυλο που έπληξε πολυκατοικία στην Οδησσό, την πέμπτη συνεχόμενη ημέρα «μαζικής συνδυασμένης επίθεσης» με πυραύλους και drones, την ώρα που η Ούρσουλα φον ντερ Λάιεν έφτανε στο Κίεβο για συνομιλίες αμυντικής συνεργασίας. Ο κυβερνήτης της Οδησσού κατηγορεί τη Μόσχα για σκόπιμη στοχοποίηση αμάχων.</summary>
+    <content type="text" xml:lang="en">Three people were killed when a Russian missile struck an apartment block in Odesa, the fifth straight day of &#x27;massive combined&#x27; missile and drone attacks, as Ursula von der Leyen arrived in Kyiv for defense cooperation talks. Odesa&#x27;s governor accuses Moscow of deliberately targeting civilians.</content>
   </entry>
   <entry>
-    <title>H N.Δ. επενδύει στην ασφάλεια</title>
-    <link href="https://www.kathimerini.gr/politics/564341764/h-n-d-ependyei-stin-asfaleia/"/>
-    <id>urn:kathimerini:5ae941af8968</id>
-    <updated>2026-07-14T09:16:00+00:00</updated>
+    <title>Η «ψύχραιμη» αντίδραση της αγοράς πετρελαίου</title>
+    <link href="https://www.kathimerini.gr/economy/international/564344845/i-psychraimi-antidrasi-tis-agoras-petrelaioy/"/>
+    <id>urn:kathimerini:936793d8e1fd</id>
+    <updated>2026-07-15T09:46:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Ιράν και ΗΠΑ ανακοίνωσαν εκατέρωθεν αποκλεισμούς στα Στενά του Ορμούζ, κλονίζοντας την εύθραυστη κατάπαυση του πυρός, ενώ οι Χούθι απείλησαν την Ερυθρά Θάλασσα. Η αγορά πετρελαίου παραμένει «ψύχραιμη» χάρη στα αποθέματα που υπήρχαν πριν από τον πόλεμο του Φεβρουαρίου, αλλά η αισιοδοξία αυτή μπορεί να αποδειχθεί λανθασμένη.</summary>
+    <content type="text" xml:lang="en">Iran and the US announced tit-for-tat blockades in the Strait of Hormuz, straining the fragile ceasefire, while the Houthis threatened Red Sea shipping. The oil market remains calm thanks to stockpiles built before the February war, but that optimism may prove misplaced.</content>
+  </entry>
+  <entry>
+    <title>Βουλή: Τέταρτη κοινοβουλευτική δύναμη ο ΣΥΡΙΖΑ – Ανακοινώθηκαν οι ανεξαρτητοποιήσεις Μεϊκόπουλου, Μαμουλάκη, Κοντοτόλη</title>
+    <link href="https://www.kathimerini.gr/politics/564345592/voyli-tetarti-koinovoyleytiki-dynami-o-syriza-anakoinothikan-oi-anexartitopoiiseis-meikopoyloy-mamoylaki-kontotoli/"/>
+    <id>urn:kathimerini:90f285b2440d</id>
+    <updated>2026-07-15T13:01:48+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Μετά τις ανεξαρτητοποιήσεις Μεϊκόπουλου, Μαμουλάκη και Κοντοτόλη, η κοινοβουλευτική δύναμη του ΣΥΡΙΖΑ πέφτει στους 17 βουλευτές, κάτω από το ΚΚΕ (21), καθιστώντας τον τέταρτη κοινοβουλευτική δύναμη. Οι ανεξάρτητοι βουλευτές φτάνουν πλέον τους 47 — όσους είχε εκλέξει ο ΣΥΡΙΖΑ το 2023.</summary>
+    <content type="text" xml:lang="en">After the latest defections, SYRIZA&#x27;s parliamentary strength falls to 17 MPs, below KKE&#x27;s 21, making it the fourth parliamentary force. Independent MPs now number 47 — as many as SYRIZA elected in June 2023 when it was the second-largest party.</content>
+  </entry>
+  <entry>
+    <title>Στενά του Ορμούζ: Το 24ωρο που άλλαξε τη γνώμη του Τραμπ για τα διόδια</title>
+    <link href="https://www.kathimerini.gr/world/564345151/stena-toy-ormoyz-to-24oro-poy-allaxe-ti-gnomi-toy-tramp-gia-ta-diodia/"/>
+    <id>urn:kathimerini:7bf4c9866fbc</id>
+    <updated>2026-07-15T09:40:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το CNN περιγράφει τον 24ωρο διπλωματικό πυρετό μετά την αιφνιδιαστική ανακοίνωση Τραμπ για διόδια 20% στα Στενά του Ορμούζ, μέχρι την απόσυρσή της. Οι σύμβουλοί του τον προειδοποιούσαν επί μήνες ότι το μέτρο θα υπονόμευε τους στρατηγικούς στόχους των ΗΠΑ και θα νομιμοποιούσε τις ιρανικές θέσεις περί τελών διέλευσης.</summary>
+    <content type="text" xml:lang="en">CNN details the 24-hour diplomatic frenzy after Trump&#x27;s surprise announcement of 20% transit tolls in the Strait of Hormuz, until he backed down. Advisers had warned him for months the measure would undermine US strategic goals and legitimize Iranian claims about transit fees.</content>
+  </entry>
+  <entry>
+    <title>ΣΥΡΙΖΑ: Τσουνάμι αποχωρήσεων από την κοινοβουλευτική ομάδα</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564344344/syriza-tsoynami-apochoriseon-apo-tin-koinovoyleytiki-omada/"/>
+    <id>urn:kathimerini:b0c6b8ce4a68</id>
+    <updated>2026-07-15T06:43:00+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">«Τσουνάμι» αποχωρήσεων στον ΣΥΡΙΖΑ, με τους Παναγιωτόπουλο, Γαβρήλο και Ψυχογιό να ανεξαρτητοποιούνται σε ένδειξη διαφωνίας με τη γραμμή αντιπαραθετικού ψηφοδελτίου απέναντι στην ΕΛΑΣ του Τσίπρα. Τη Δευτέρα συναντήθηκαν βουλευτές που διαφωνούν με τη νέα κατεύθυνση, προμηνύοντας περαιτέρω διάσπαση.</summary>
+    <content type="text" xml:lang="en">A &#x27;tsunami&#x27; of departures hits SYRIZA, with MPs Panagiotopoulos, Gavrilos and Psychogios going independent in protest at the party line of fielding a confrontational ticket against Tsipras&#x27;s ELAS. Dissenting MPs met Monday evening, foreshadowing further fragmentation.</content>
+  </entry>
+  <entry>
+    <title>Η «μεγάλη εικόνα» 8 δημοσκοπήσεων</title>
+    <link href="https://www.kathimerini.gr/politics/564344212/i-megali-eikona-ton-8-dimoskopiseon/"/>
+    <id>urn:kathimerini:c4af7a9af3ed</id>
+    <updated>2026-07-14T23:20:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Συγκριτική ανάλυση 8 δημοσκοπήσεων (23/6-9/7) δείχνει τη ΝΔ πρώτη με 29,6%, την ΕΛΑΣ του Αλέξη Τσίπρα δεύτερη με 17,3% και το ΠΑΣΟΚ τρίτο με 11,1%. Ακολουθούν Ελπίδα για τη Δημοκρατία 8,4%, Ελληνική Λύση 8%, ΚΚΕ 6,9%, ενώ ο ΣΥΡΙΖΑ συγκεντρώνει μόλις 1,5%.</summary>
+    <content type="text" xml:lang="en">A comparative analysis of 8 polls (June 23-July 9) shows ND leading with 29.6%, Alexis Tsipras&#x27;s ELAS second at 17.3%, and PASOK third at 11.1%. Elpida for Democracy follows at 8.4%, Greek Solution 8%, KKE 6.9%, while SYRIZA collects just 1.5%.</content>
+  </entry>
+  <entry>
+    <title>Στο Κίεβο η πρόεδρος της Κομισιόν με νέο «πακέτο» στρατιωτικής στήριξης</title>
+    <link href="https://www.kathimerini.gr/world/564345163/sto-kievo-i-proedros-tis-komision-me-neo-paketo-stratiotikis-stirixis/"/>
+    <id>urn:kathimerini:649fca137d32</id>
+    <updated>2026-07-15T10:02:29+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Στην 11η της επίσκεψη στο Κίεβο εν καιρώ πολέμου, η Ούρσουλα φον ντερ Λάιεν αναμένεται να ανακοινώσει νέα μέτρα χρηματοδότησης της στρατιωτικής βοήθειας μέσω του δανείου των 90 δισ. ευρώ και πρωτοβουλίες ενοποίησης των αμυντικών βιομηχανιών. «Η Ουκρανία έχει αποκτήσει ισχυρή στρατιωτική δυναμική — η πορεία αλλάζει», δήλωσε.</summary>
+    <content type="text" xml:lang="en">On her 11th wartime visit to Kyiv, Ursula von der Leyen is expected to announce new military aid financing via the €90bn loan and initiatives to integrate defense industries. &#x27;Ukraine has built strong military momentum — the tide is turning,&#x27; she said.</content>
+  </entry>
+  <entry>
+    <title>Τα κενά ασφαλείας στον Ασπρόπυργο: Στη Μαύρη Ωρα χωρίς κανόνες</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564344392/ta-kena-asfaleias-ston-aspropyrgo-sti-mayri-ora-choris-kanones/"/>
+    <id>urn:kathimerini:7875b03acd87</id>
+    <updated>2026-07-15T13:07:53+00:00</updated>
+    <author><name>Γιάννης Παπαδόπουλος</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Ο 59χρονος Ντιμίτρου Νίκου, βαριά εγκαυματίας από τη φωτιά σε συνεργείο στον Ασπρόπυργο, υπέκυψε στα τραύματά του με εγκαύματα στο 90% του σώματος. Το ρεπορτάζ αναδεικνύει τα κενά ασφαλείας στην άτυπη βιομηχανική ζώνη της «Μαύρης Ώρας», όπου ο εργαζόμενος φέρεται να διέμενε μέσα στο συνεργείο εκτελώντας και χρέη φύλακα.</summary>
+    <content type="text" xml:lang="en">Dimitru Nicu, 59, who suffered burns over 90% of his body in a truck repair shop fire in Aspropyrgos, has died of his injuries. The report exposes safety gaps in the informal &#x27;Mavri Ora&#x27; industrial zone, where the worker reportedly lived inside the workshop, also serving as its guard.</content>
+  </entry>
+  <entry>
+    <title>Η Ελλάδα γερνάει και ερημώνει</title>
+    <link href="https://www.kathimerini.gr/economy/local/564344785/i-ellada-gernaei-kai-erimonei/"/>
+    <id>urn:kathimerini:aa103657ab91</id>
+    <updated>2026-07-15T11:43:09+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Έκθεση του JRC της Κομισιόν δείχνει ότι ο πληθυσμός της Ε.Ε. θα κορυφωθεί το 2029 στα 453,3 εκατ. και μετά θα φθίνει σταθερά, στα 398,8 εκατ. έως το τέλος του αιώνα. Η Ελλάδα έχει την τέταρτη υψηλότερη διάμεση ηλικία στην Ε.Ε. και συγκαταλέγεται στις κοινωνίες με τις εντονότερες δημογραφικές πιέσεις.</summary>
+    <content type="text" xml:lang="en">A European Commission JRC report shows the EU population will peak in 2029 at 453.3m before steadily declining to 398.8m by century&#x27;s end. Greece has the fourth-highest median age in the EU and faces some of the bloc&#x27;s most acute demographic pressures.</content>
+  </entry>
+  <entry>
+    <title>Τι απαντά η Λευκωσία για το νέο «σχέδιο επίλυσης» του Κυπριακού από τον ΟΗΕ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564343999/ti-apanta-i-leykosia-gia-to-neo-schedio-epilysis-toy-kypriakoy-apo-ton-oie/"/>
+    <id>urn:kathimerini:a4c86bf20ea0</id>
+    <updated>2026-07-14T20:53:34+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Κύπριος κυβερνητικός εκπρόσωπος Κωνσταντίνος Λετυμπιώτης σχολίασε δημοσίευμα της Independent περί νέου «σχεδίου επίλυσης» του Κυπριακού που φέρεται να επεξεργάζεται η απεσταλμένη του γ.γ. του ΟΗΕ Μαρία Άνχελα Ολγκίν. Διευκρίνισε ότι δεν πρόκειται για επίσημη πρόταση του ΟΗΕ και τόνισε ότι καμία λύση εκτός Διζωνικής Δικοινοτικής Ομοσπονδίας με πολιτική ισότητα δεν πρόκειται να συζητηθεί.</summary>
+    <content type="text" xml:lang="en">Cypriot government spokesman Konstantinos Letymbiotis responded to an Independent report about a new Cyprus &#x27;settlement plan&#x27; allegedly being drafted by UN envoy María Ángela Holguín. He clarified it is not an official UN proposal and stressed that no solution outside a bizonal, bicommunal federation with political equality will be discussed.</content>
+  </entry>
+  <entry>
+    <title>Απάτη «carousel»: Στο μικροσκόπιο δύο επιχειρηματίες και δύο λογιστές – Η μεγαλύτερη δέσμευση crypto στην Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/society/564345694/apati-carousel-sto-mikroskopio-dyo-epicheirimaties-kai-dyo-logistes-i-megalyteri-desmeysi-crypto-stin-ellada/"/>
+    <id>urn:kathimerini:0f817a30dd88</id>
+    <updated>2026-07-15T13:37:31+00:00</updated>
+    <author><name>Ελένη Καρανικόλα - Κοντορούση</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Η μεγαλύτερη δέσμευση κρυπτονομισμάτων στην Ελλάδα αποκάλυψε δίκτυο απάτης «carousel» με τον ΦΠΑ σε ενδοκοινοτικές συναλλαγές ηλεκτρονικών, με ζημιά άνω των 71 εκατ. ευρώ σε ελληνικά και ευρωπαϊκά ταμεία. Στο επίκεντρο δύο επιχειρηματίες και δύο λογιστές, με την έρευνα υπό την εποπτεία των Ευρωπαίων Εντεταλμένων Εισαγγελέων.</summary>
+    <content type="text" xml:lang="en">Greece&#x27;s largest-ever crypto asset seizure exposed a &#x27;carousel&#x27; VAT fraud network in intra-EU electronics trading, causing over €71m in losses to Greek and European coffers. Two businessmen and two accountants are at the center of the probe, supervised by European Delegated Prosecutors.</content>
+  </entry>
+  <entry>
+    <title>Με ΑΙ και chatbot το πρόσφατο deal εξαγοράς της Skroutz</title>
+    <link href="https://www.kathimerini.gr/economy/business/564344851/me-ai-kai-chatbot-to-prosfato-deal-exagoras-tis-skroutz/"/>
+    <id>urn:kathimerini:cb454e58b02b</id>
+    <updated>2026-07-15T08:52:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η πώληση του πλειοψηφικού πακέτου της Skroutz από τη CVC στην Blackstone, με αποτίμηση 635 εκατ. ευρώ, έγινε για πρώτη φορά παγκοσμίως χωρίς επενδυτικές τράπεζες — μόνο με πύλη δεδομένων AI και chatbot για τη διαχείριση της διαδικασίας. Το deal θεωρείται σημείο αναφοράς για το μέλλον των συγχωνεύσεων και εξαγορών.</summary>
+    <content type="text" xml:lang="en">The sale of Skroutz&#x27;s majority stake from CVC to Blackstone, at a €635m valuation, was completed for the first time globally without investment bankers — using only an AI data portal and a chatbot to manage the process. The deal is seen as a benchmark for the future of M&amp;A.</content>
+  </entry>
+  <entry>
+    <title>«Κλειδί» της κάλπης η οικονομία</title>
+    <link href="https://www.kathimerini.gr/politics/government/564344350/kleidi-tis-kalpis-i-oikonomia/"/>
+    <id>urn:kathimerini:4f1767b46f82</id>
+    <updated>2026-07-15T09:35:00+00:00</updated>
     <author><name>Δώρα Αντωνίου</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Με την ατζέντα της ασφάλειας σε πρώτο πλάνο σκοπεύει να κινηθεί η κυβέρνηση, αξιοποιώντας τις συλλήψεις για τις υποθέσεις Marfin και Νέστορα. Το Μαξίμου επιδιώκει να υψώσει αναχώματα στη διαρροή ψηφοφόρων προς μικρότερα δεξιά κόμματα, περιλαμβανομένου του υπό ίδρυση σχηματισμού Σαμαρά, προβάλλοντας το δόγμα «νόμος και τάξη».</summary>
-    <content type="text" xml:lang="en">The government plans to foreground its security agenda, capitalizing on arrests in the Marfin and Nestora cases. Maximos Mansion seeks to stem voter leakage toward smaller right-wing parties, including Samaras's forthcoming formation, projecting a "law and order" doctrine.</content>
+    <summary xml:lang="el">Το Μαξίμου διαβάζει τον τελευταίο κύκλο δημοσκοπήσεων με την ακρίβεια να παγιώνεται ως κορυφαίο πρόβλημα: στην GPO το 68,5% δηλώνει ότι οικονομία-ακρίβεια θα κρίνουν την ψήφο του, με τη διαφθορά στο 49,9%. Η νέα ανάφλεξη στο Ιράν περιορίζει τα περιθώρια αισιοδοξίας για αποκλιμάκωση των τιμών.</summary>
+    <content type="text" xml:lang="en">Maximos Mansion studies the latest poll cycle with cost of living entrenched as the top issue: in the GPO poll, 68.5% say the economy and prices will determine their vote, with corruption at 49.9%. The new flare-up in Iran leaves little room for optimism on price de-escalation.</content>
   </entry>
   <entry>
-    <title>Στα έξι F-35 εστιάζει η Τουρκία</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564341761/sta-exi-f-35-estiazei-i-toyrkia/"/>
-    <id>urn:kathimerini:47a092e3cf7e</id>
-    <updated>2026-07-14T06:58:30+00:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Στα έξι F-35 που έχει ήδη πληρώσει επικεντρώνεται η Άγκυρα, με τον Χακάν Φιντάν να δηλώνει ότι «σύντομα θα καταλήξουμε σε λύση» και να παραδέχεται ότι απαιτείται συνεννόηση με τη Ρωσία για την τύχη των S-400. Τούρκοι αναλυτές κάνουν λόγο για «στρατηγικό λάθος» που κόστισε 15-30 δισ. δολάρια στην τουρκική οικονομία.</summary>
-    <content type="text" xml:lang="en">Ankara now focuses on the six F-35s it has already paid for, with Hakan Fidan saying "a solution is near" and conceding Russia must be consulted on the S-400s' fate. Turkish analysts call the S-400 purchase a "strategic mistake" costing the economy $15-30 billion.</content>
+    <title>Η πραγματική αντιπολίτευση</title>
+    <link href="https://www.kathimerini.gr/economy/international/564344707/i-pragmatiki-antipoliteysi/"/>
+    <id>urn:kathimerini:f57c18bca1e7</id>
+    <updated>2026-07-15T13:40:00+00:00</updated>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Ο Νίκος Φιλιππίδης σχολιάζει την απόσυρση εντός 24ώρου των σχεδίων Τραμπ για τέλη 20% στα Στενά του Ορμούζ και τις πρώτες δηλώσεις του νέου προέδρου της Fed Κέβιν Γουόρς περί καταπολέμησης του πληθωρισμού. Στην Ελλάδα, σημειώνει, κάθε σημαντική οικονομική απόφαση περνά από το φίλτρο της ακρίβειας — της «πραγματικής αντιπολίτευσης».</summary>
+    <content type="text" xml:lang="en">Nikos Filippidis comments on Trump&#x27;s within-24-hours retreat from 20% transit fees in the Strait of Hormuz and new Fed chair Kevin Warsh&#x27;s first remarks on fighting inflation. In Greece, he notes, every major economic decision passes through the filter of the cost of living — the &#x27;real opposition&#x27;.</content>
   </entry>
   <entry>
-    <title>Αλιβέρι Ευβοίας: Mεγάλη φωτιά κοντά σε σπίτια – Εναέρια μέσα και 112 για εκκένωση οικισμού</title>
-    <link href="https://www.kathimerini.gr/society/564342967/aliveri-eyvoias-megali-fotia-konta-se-spitia-kai-enaeria-mesa-sti-machi/"/>
-    <id>urn:kathimerini:3137312bd346</id>
-    <updated>2026-07-14T12:28:47+00:00</updated>
+    <title>Λιθουανία: Οι Ρώσοι ετοιμάζουν επιθέσεις κατά υποδομών</title>
+    <link href="https://www.kathimerini.gr/world/564345271/lithoyania-oi-rosoi-etoimazoyn-epitheseis-kata-ypodomon/"/>
+    <id>urn:kathimerini:9dbab5f89a5e</id>
+    <updated>2026-07-15T11:15:11+00:00</updated>
     <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο πρόεδρος της Λιθουανίας Γκιτάνας Ναουσέντα δήλωσε ότι υπάρχουν πληροφορίες των μυστικών υπηρεσιών πως η Ρωσία σχεδιάζει επιθέσεις κατά κρίσιμων υποδομών, χωρίς σαφή τόπο ή χρόνο. Η ασφάλεια γύρω από ενεργειακούς και μεταφορικούς σταθμούς θα ενισχυθεί προληπτικά.</summary>
+    <content type="text" xml:lang="en">Lithuanian President Gitanas Nauseda said intelligence indicates Russia is planning attacks on critical infrastructure, without clear time or location. Security around energy and transport facilities will be preemptively reinforced.</content>
+  </entry>
+  <entry>
+    <title>Κυψέλη: Εισαγγελική έρευνα για τις ρωγμές σε κτίρια λόγω των εργασιών του Μετρό</title>
+    <link href="https://www.kathimerini.gr/society/564345568/kypseli-eisaggeliki-ereyna-gia-tis-rogmes-se-ktiria-logo-ton-ergasion-toy-metro/"/>
+    <id>urn:kathimerini:526461a250bb</id>
+    <updated>2026-07-15T13:02:13+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Μεγάλη πυρκαγιά στην περιοχή Λάτα στο Αλιβέρι Ευβοίας απειλεί σπίτια, με 112 για εκκένωση του Προφήτη Ηλία. Επιχειρούν 68 πυροσβέστες, 20 οχήματα, έξι αεροσκάφη και τρία ελικόπτερα, ενώ τη φωτιά εντόπισε drone επιτήρησης του Πυροσβεστικού Σώματος.</summary>
-    <content type="text" xml:lang="en">A major wildfire near Lata in Aliveri, Evia threatens homes, with a 112 evacuation order for Profitis Ilias. Sixty-eight firefighters, 20 vehicles, six aircraft and three helicopters are deployed; a Fire Service surveillance drone first detected the blaze.</content>
-  </entry>
-  <entry>
-    <title>Η Ρωσία εξετάζει «εναλλακτικές διαδρομές» μετά τα ουκρανικά πλήγματα στην Αζοφική Θάλασσα</title>
-    <link href="https://www.kathimerini.gr/world/564343219/i-rosia-exetazei-enallaktikes-diadromes-meta-ta-oykranika-pligmata-stin-azofiki-thalassa/"/>
-    <id>urn:kathimerini:dea5dc4885b4</id>
-    <updated>2026-07-14T13:58:30+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Η Ρωσία εξετάζει «εναλλακτικές διαδρομές» και ενδεχόμενο περιορισμό της ναυσιπλοΐας στην Αζοφική Θάλασσα, μετά τα ουκρανικά πλήγματα σε περισσότερα από 116 πλοία μέσα σε εννέα ημέρες. Το Κίεβο στοχοθετεί υποδομές υδρογονανθράκων για να πλήξει τη χρηματοδότηση του πολέμου.</summary>
-    <content type="text" xml:lang="en">Russia is considering "alternative routes" and possible shipping restrictions in the Sea of Azov after Ukrainian strikes hit more than 116 vessels in nine days. Kyiv is targeting hydrocarbon infrastructure to undercut Moscow's war financing.</content>
-  </entry>
-  <entry>
-    <title>Αλλαγή φρουράς στον ΣΥΡΙΖΑ</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564341788/allagi-froyras-ston-syriza/"/>
-    <id>urn:kathimerini:6e71455ec5cd</id>
-    <updated>2026-07-14T07:14:35+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Τα «κλειδιά» της Κουμουνδούρου περνούν στους Δούρου, Παππά και Πολάκη, καθώς στελέχη της παλαιάς πλειοψηφίας αποχωρούν από την Πολιτική Γραμματεία του ΣΥΡΙΖΑ. Ο Συμεών Κεδίκογλου έγινε ο τρίτος βουλευτής που αποχωρεί από την Κ.Ο. με κατεύθυνση την ΕΛΑΣ, ενώ αναμένονται και άλλες αποχωρήσεις.</summary>
-    <content type="text" xml:lang="en">Control of SYRIZA passes to Dourou, Pappas and Polakis as old-majority cadres exit the Political Secretariat. Symeon Kedikoglou became the third MP to leave the parliamentary group heading toward ELAS, with more departures expected.</content>
-  </entry>
-  <entry>
-    <title>Κρίσιμες συναντήσεις των ΗΠΑ με Ιράκ, Ιορδανία, Λίβανο και Ισραήλ</title>
-    <link href="https://www.kathimerini.gr/world/564342964/krisimes-synantiseis-ton-ipa-me-irak-iordania-livano-kai-israil/"/>
-    <id>urn:kathimerini:8308f72c8a4d</id>
-    <updated>2026-07-14T12:17:42+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Εν μέσω ανταλλαγών πυρών με το Ιράν, οι ΗΠΑ εντείνουν τη διπλωματία: ο Τραμπ υποδέχεται τον νέο Ιρακινό πρωθυπουργό Αλί αλ Ζαΐντι, στη Ρώμη ξεκινούν συνομιλίες Ισραήλ-Λιβάνου και ο Ρούμπιο συναντά τον Ιορδανό ΥΠΕΞ, καθώς η Ιορδανία δέχεται ιρανικές πυραυλικές επιθέσεις.</summary>
-    <content type="text" xml:lang="en">Amid exchanges of fire with Iran, the US intensifies diplomacy: Trump hosts new Iraqi PM Ali al-Zaidi, Israel-Lebanon talks begin in Rome, and Rubio meets Jordan's FM as Jordan endures Iranian missile attacks.</content>
-  </entry>
-  <entry>
-    <title>Τουρισμός: Ρεκόρ αφίξεων, αλλά μείωση στα έσοδα προβλέπει η Moody’s</title>
-    <link href="https://www.kathimerini.gr/economy/local/564342205/toyrismos-rekor-afixeon-alla-meiosi-sta-esoda-provlepei-i-moody-s/"/>
-    <id>urn:kathimerini:579d31da1e90</id>
-    <updated>2026-07-14T11:19:00+00:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η Moody's Analytics προβλέπει ρεκόρ τουριστικών αφίξεων στην Ελλάδα φέτος, αλλά μείωση εσόδων λόγω αλλαγής προφίλ ταξιδιών: συντομότερα, πιο κοντινά, με μετατόπιση ζήτησης προς Σεπτέμβριο-Οκτώβριο εξαιτίας καυσώνων και γεωπολιτικής έντασης.</summary>
-    <content type="text" xml:lang="en">Moody's Analytics forecasts record tourist arrivals in Greece this year but lower revenues as travel patterns shift: shorter, closer trips with demand spreading to September-October due to heatwaves and geopolitical tension.</content>
-  </entry>
-  <entry>
-    <title>Ουραγός στην ποιότητα ζωής η Αθήνα μεταξύ 50 σημαντικών πόλεων</title>
-    <link href="https://www.kathimerini.gr/economy/local/564342166/oyragos-stin-poiotita-zois-i-athina-metaxy-50-simantikon-poleon/"/>
-    <id>urn:kathimerini:127b3a4674ae</id>
-    <updated>2026-07-14T09:24:00+00:00</updated>
-    <author><name>Κορίνα Σαμάρκου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Τελευταία σε ποιότητα ζωής η Αθήνα μεταξύ 50 σημαντικών πόλεων, σύμφωνα με την έκθεση Mapping the World's Prices της Deutsche Bank. Τα ενοίκια αυξήθηκαν 144% από το 2016 —όσο πουθενά αλλού— ενώ ο μέσος καθαρός μισθός των 1.321 δολαρίων αντιστοιχεί μόλις στο 24% του νεοϋορκέζικου.</summary>
-    <content type="text" xml:lang="en">Athens ranks last in quality of life among 50 major cities in Deutsche Bank's Mapping the World's Prices report. Rents rose 144% since 2016 — more than anywhere else — while the average net salary of $1,321 is just 24% of New York's.</content>
+    <summary xml:lang="el">Κατεπείγουσα προκαταρκτική εξέταση παρήγγειλε ο προϊστάμενος της Εισαγγελίας Πρωτοδικών Αθηνών για τις ρωγμές σε κτίρια της Κυψέλης που συνδέονται με τις εργασίες του μετροπόντικα της γραμμής 4. Θα διερευνηθεί αν οι εργασίες δημιουργούν συνθήκες επικινδυνότητας για κτίρια και πολίτες, ενώ ειδικοί από το εξωτερικό εξετάζουν ήδη το πρόβλημα.</summary>
+    <content type="text" xml:lang="en">The head of the Athens Prosecutor&#x27;s Office ordered an urgent preliminary inquiry into cracks in Kypseli buildings linked to Metro Line 4 tunneling. The probe will examine whether the works endanger buildings and residents, while foreign experts are already investigating.</content>
   </entry>
 </feed>
