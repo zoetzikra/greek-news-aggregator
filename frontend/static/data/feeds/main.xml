@@ -1,208 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Greek News Digest — Kathimerini</title>
-  <subtitle>Top 20 stories of 2026-07-16 by importance</subtitle>
+  <subtitle>Top 20 stories of 2026-07-17 by importance</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
   <id>urn:greek-news-aggregator:feed:main</id>
-  <updated>2026-07-16T11:19:00.192284+00:00</updated>
+  <updated>2026-07-17T11:15:57.709194+00:00</updated>
   <entry>
-    <title>ΟΠΕΚΕΠΕ: Κατά Σκρέκα, Μπουκώρου, Σενετάκη και Παπακώστα οι διώξεις της Ευρωπαϊκής Εισαγγελίας</title>
-    <link href="https://www.kathimerini.gr/politics/564347737/opekepe-kata-skreka-mpoykoroy-senetaki-kai-papakosta-oi-dioxeis-tis-eyropaikis-eisaggelias/"/>
-    <id>urn:kathimerini:ef033862d728</id>
-    <updated>2026-07-16T10:52:22+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
+    <title>Πυραύλους για Patriot ζητάει η Ουκρανία από την Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564349111/pyrayloys-gia-patriot-zitaei-i-oykrania-apo-tin-ellada/"/>
+    <id>urn:kathimerini:768a5bd65c61</id>
+    <updated>2026-07-17T12:05:41+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Η Ευρωπαϊκή Εισαγγελία άσκησε διώξεις κατά των βουλευτών Κώστα Σκρέκα, Χρήστου Μπουκώρου, Μάξιμου Σενετάκη και Κατερίνας Παπακώστα για τις παράνομες επιδοτήσεις του ΟΠΕΚΕΠΕ, με κατηγορίες όπως ηθική αυτουργία σε απιστία και παράνομη διαχείριση ευρωπαϊκών κονδυλίων. Η δικογραφία για επτά άλλους βουλευτές, μεταξύ των οποίων οι Κεφαλογιάννης, Τσιάρας και Μηταράκης, τέθηκε στο αρχείο. Συνολικά διώκονται 22 πρόσωπα, με την EPPO να κάνει λόγο για επαναλαμβανόμενες πρακτικές διαφθοράς στη διαχείριση των ενισχύσεων της ΚΑΠ.</summary>
-    <content type="text" xml:lang="en">The European Public Prosecutor's Office pressed charges against MPs Kostas Skrekas, Christos Boukoros, Maximos Senetakis and Katerina Papakosta over illegal OPEKEPE subsidies, including incitement to breach of trust and mismanagement of EU funds. Case files for seven other MPs, including Kefalogiannis, Tsiaras and Mitarakis, were shelved. In total 22 individuals face prosecution, with the EPPO citing repeated corrupt practices in managing CAP aid.</content>
+    <summary xml:lang="el">Η Αθήνα δέχεται ασφυκτικές πιέσεις από εταίρους σε ΝΑΤΟ και Ε.Ε. να παραχωρήσει στην Ουκρανία συστοιχίες Patriot ή έως και 200 πυραύλους PAC-2 από τα αποθέματα της Πολεμικής Αεροπορίας. Η Ελλάδα δεν έχει δώσει θετικό σήμα, επικαλούμενη τις ανάγκες του ΝΑΤΟ που ήδη καλύπτουν οι συστοιχίες της.</summary>
+    <content type="text" xml:lang="en">Athens faces intense pressure from NATO and EU partners to transfer Patriot batteries or up to 200 PAC-2 missiles from Air Force stocks to Ukraine. Greece has given no positive signal, citing NATO commitments already covered by its batteries.</content>
   </entry>
   <entry>
-    <title>ΟΠΕΚΕΠΕ: Διώξεις της Ευρωπαϊκής Εισαγγελίας σε 4 από τους 11 εν ενεργεία βουλευτές</title>
-    <link href="https://www.kathimerini.gr/politics/564347629/opekepe-dioxeis-tis-eyropaikis-eisaggelias-se-4-apo-toys-11-en-energeia-voyleytes/"/>
-    <id>urn:kathimerini:5dfffb045da1</id>
-    <updated>2026-07-16T10:09:05+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <title>Αρχειοθετήσεις και διώξεις για τον ΟΠΕΚΕΠΕ</title>
+    <link href="https://www.kathimerini.gr/politics/government/564349096/archeiothetiseis-kai-dioxeis-gia-ton-opekepe/"/>
+    <id>urn:kathimerini:d1e893d9d26e</id>
+    <updated>2026-07-17T06:41:00+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Η Ευρωπαϊκή Εισαγγελία στην Αθήνα άσκησε ποινική δίωξη κατά 22 κατηγορουμένων, μεταξύ των οποίων τέσσερις εν ενεργεία βουλευτές, για οργανωμένο κύκλωμα απάτης στη διαχείριση αγροτικών κονδυλίων μέσω του ΟΠΕΚΕΠΕ. Οι κατηγορίες κατά των υπόλοιπων επτά βουλευτών αποσύρθηκαν λόγω έλλειψης επαρκών αποδεικτικών στοιχείων. Η έρευνα αποκάλυψε παράνομες παρεμβάσεις σε ελεγκτικές διαδικασίες και αναδρομικές μεταβολές στοιχείων στις ενισχύσεις της ΚΑΠ.</summary>
-    <content type="text" xml:lang="en">The European Public Prosecutor's Office in Athens indicted 22 defendants, including four sitting MPs, over an organized fraud ring in the management of agricultural funds through OPEKEPE. Charges against the other seven MPs were withdrawn for lack of sufficient evidence. The investigation revealed illegal interference in audit procedures and retroactive alteration of data in CAP subsidies.</content>
+    <summary xml:lang="el">Η Ευρωπαϊκή Εισαγγελία άσκησε δίωξη σε τέσσερις εν ενεργεία βουλευτές της Ν.Δ. (Σκρέκα, Μπουκώρο, Σενετάκη, Παπακώστα) για την υπόθεση ΟΠΕΚΕΠΕ, ενώ αρχειοθέτησε την υπόθεση για επτά άλλους. Η ανακοίνωση πυροδότησε σφοδρή σύγκρουση κυβέρνησης–αντιπολίτευσης, με τον Μητσοτάκη να αφήνει αιχμές για «κυβέρνηση υποδίκων».</summary>
+    <content type="text" xml:lang="en">The European Public Prosecutor indicted four sitting New Democracy MPs (Skrekas, Boukoros, Senetakis, Papakosta) over the OPEKEPE affair, while closing the case for seven others. The announcement ignited fierce government-opposition conflict, with Mitsotakis alluding to past 'government of defendants' jibes.</content>
   </entry>
   <entry>
-    <title>Μητσοτάκης για ΟΠΕΚΕΠΕ: Εντιμοι πολιτικοί διασύρθηκαν – Αιχμές κατά της Ευρωπαϊκής Εισαγγελίας</title>
-    <link href="https://www.kathimerini.gr/politics/564348049/mitsotakis-gia-opekepe-entimoi-politikoi-diasyrthikan-aichmes-kata-tis-eyropaikis-eisaggelias/"/>
-    <id>urn:kathimerini:9040b5369355</id>
-    <updated>2026-07-16T13:23:50+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ο Κυριάκος Μητσοτάκης σχολίασε τις εξελίξεις στον ΟΠΕΚΕΠΕ με αιχμές κατά της Ευρωπαϊκής Εισαγγελίας, λέγοντας ότι «φάνηκε να εμπλέκεται στον εσωτερικό κομματικό ανταγωνισμό», και σφοδρά πυρά κατά της αντιπολίτευσης. Τόνισε ότι «έντιμοι πολιτικοί διασύρθηκαν» και ρώτησε ποιος θα ζητήσει συγγνώμη, υπενθυμίζοντας ότι είχε ζητήσει παραιτήσεις υπουργών για λόγους πολιτικής ευθιξίας.</summary>
-    <content type="text" xml:lang="en">Kyriakos Mitsotakis commented on the OPEKEPE developments with barbs at the European Public Prosecutor, saying it 'appeared to get involved in internal party competition,' and fierce criticism of the opposition. He said 'honest politicians were vilified' and asked who would apologize, recalling that he had requested ministers' resignations as a matter of political propriety.</content>
-  </entry>
-  <entry>
-    <title>Μιανμάρ: Φόβοι για πάνω από 500 πρόσφυγες νεκρούς σε διπλό ναυάγιο</title>
-    <link href="https://www.kathimerini.gr/world/564347620/mianmar-fovoi-gia-pano-apo-500-prosfyges-nekroys-se-diplo-nayagio/"/>
-    <id>urn:kathimerini:3f2d5f4422a5</id>
-    <updated>2026-07-16T10:04:46+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Πάνω από 500 πρόσφυγες, κυρίως Ροχίνγκια, φοβούνται ο ΔΟΜ και η Υπατη Αρμοστεία του ΟΗΕ ότι έχασαν τη ζωή τους σε διπλό ναυάγιο στα ανοικτά της Μιανμάρ. Τα δύο σκάφη είχαν αναχωρήσει από την πολιτεία Ραχίν στα τέλη Ιουνίου, με επιβάτες και από τους καταυλισμούς του Κοξ Μπαζάρ στο Μπαγκλαντές.</summary>
-    <content type="text" xml:lang="en">The IOM and UNHCR fear more than 500 refugees, mostly Rohingya, died in a double shipwreck off Myanmar's coast. The two boats departed Rakhine state in late June, carrying passengers including some from the Cox's Bazar camps in Bangladesh.</content>
-  </entry>
-  <entry>
-    <title>ΑΑΔΕ: Αμεση αποδέσμευση τραπεζικών λογαριασμών — Δεύτερη ευκαιρία για χιλιάδες οφειλέτες</title>
-    <link href="https://www.kathimerini.gr/society/564347938/aade-amesi-apodesmeysi-trapezikon-logariasmon-deyteri-eykairia-gia-chiliades-ofeiletes/"/>
-    <id>urn:kathimerini:102b8d03bb62</id>
-    <updated>2026-07-16T12:30:03+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η ΑΑΔΕ ενεργοποιεί τη δυνατότητα άμεσης άρσης κατασχέσεων τραπεζικών λογαριασμών για οφειλέτες που έχουν εξοφλήσει το 25% της οφειλής τους. Με απόφαση του διοικητή Γιώργου Πιτσιλή εξειδικεύεται το νέο πλαίσιο του ν. 5313/2026, ενώ οι αιτήσεις υποβάλλονται ψηφιακά μέσω της πλατφόρμας myAADE.</summary>
-    <content type="text" xml:lang="en">Greece's tax authority AADE is enabling immediate lifting of bank account seizures for debtors who have paid off 25% of the debt behind the freeze. A decision by Governor Giorgos Pitsilis implements the new framework of Law 5313/2026, with applications filed digitally via the myAADE platform.</content>
-  </entry>
-  <entry>
-    <title>Ουκρανία: Κύμα διαδηλώσεων κατά της αποπομπής του υπουργού Αμυνας</title>
-    <link href="https://www.kathimerini.gr/world/564347983/oykrania-kyma-diadiloseon-kata-tis-apopompis-toy-ypoyrgoy-amynas/"/>
-    <id>urn:kathimerini:5fd1bfc4fe77</id>
-    <updated>2026-07-16T12:42:20+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Κύμα διαδηλώσεων ξέσπασε στην Ουκρανία κατά της απομάκρυνσης του μεταρρυθμιστή υπουργού Αμυνας Μιχαΐλο Φεντόροφ από το νέο κυβερνητικό σχήμα. Οι υποστηρικτές του τονίζουν ότι οι προσπάθειές του να εξυγιάνει τις αμυντικές προμήθειες προκάλεσαν αντιδράσεις στον κρατικό μηχανισμό, ενώ η Βουλή ετοιμάζεται για ψήφο εμπιστοσύνης σε κρίσιμη φάση του πολέμου.</summary>
-    <content type="text" xml:lang="en">A wave of protests erupted in Ukraine against the removal of reformist Defense Minister Mykhailo Fedorov from the new cabinet. His supporters say his efforts to clean up defense procurement provoked resistance within the state apparatus, as parliament prepares a confidence vote at a critical phase of the war.</content>
-  </entry>
-  <entry>
-    <title>Μαρινάκης για ΟΠΕΚΕΠΕ: Να ζητήσουν συγγνώμη όσοι μίλησαν για «κυβέρνηση υποδίκων»</title>
-    <link href="https://www.kathimerini.gr/politics/564347788/marinakis-gia-opekepe-na-zitisoyn-syggnomi-osoi-milisan-gia-kyvernisi-ypodikon/"/>
-    <id>urn:kathimerini:b7406dd72780</id>
-    <updated>2026-07-16T11:23:56+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης ζήτησε συγγνώμη από όσους μίλησαν για «κυβέρνηση υποδίκων», μετά την αρχειοθέτηση από την Ευρωπαϊκή Εισαγγελία των υποθέσεων επτά από τους έντεκα βουλευτές της Ν.Δ. για τον ΟΠΕΚΕΠΕ. Για τους τέσσερις βουλευτές που διώκονται, υπογράμμισε ότι ισχύει απολύτως το τεκμήριο της αθωότητας και ότι μόνη αρμόδια να αποφασίσει είναι η Δικαιοσύνη.</summary>
-    <content type="text" xml:lang="en">Government spokesman Pavlos Marinakis demanded an apology from those who spoke of a 'government of defendants' after the European Public Prosecutor's Office shelved the OPEKEPE cases against seven of eleven New Democracy MPs. For the four MPs now facing charges, he stressed that the presumption of innocence fully applies and that only the courts are competent to decide.</content>
-  </entry>
-  <entry>
-    <title>Αυξήθηκε κατά 4,7% ο πραγματικός μέσος μισθός την τελευταία πενταετία</title>
-    <link href="https://www.kathimerini.gr/economy/local/564347170/ayxithike-kata-4-7-o-pragmatikos-mesos-misthos-tin-teleytaia-pentaetia/"/>
-    <id>urn:kathimerini:c15c2f1fc49e</id>
-    <updated>2026-07-16T11:04:36+00:00</updated>
-    <author><name>Ρούλα Σαλούρου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Σύμφωνα με το Employment Outlook 2026 του ΟΟΣΑ, ο πραγματικός μέσος μισθός στην Ελλάδα αυξήθηκε σωρευτικά κατά 4,7% από το α΄ τρίμηνο του 2021 έως το α΄ τρίμηνο του 2026, επίδοση πολύ πάνω από τον μέσο όρο του οργανισμού (0-1%). Ωστόσο, η χώρα είχε καταγράψει απώλεια πραγματικών μισθών 21% την περίοδο 2010-2024, την οποία η πρόσφατη άνοδος μόνο εν μέρει αναπληρώνει.</summary>
-    <content type="text" xml:lang="en">According to the OECD's Employment Outlook 2026, Greece's real average wage rose a cumulative 4.7% from Q1 2021 to Q1 2026, well above the OECD average of 0-1%. However, the country had suffered a 21% real wage loss over 2010-2024, which the recent gains only partially recover.</content>
-  </entry>
-  <entry>
-    <title>Κατς προς Χέγκσεθ: Το Ισραήλ δεν θα αποχωρήσει από Λίβανο, Συρία και Γάζα</title>
-    <link href="https://www.kathimerini.gr/world/564347716/kats-pros-chegkseth-to-israil-den-tha-apochorisei-apo-livano-syria-kai-gaza/"/>
-    <id>urn:kathimerini:f318fbc0ed29</id>
-    <updated>2026-07-16T10:39:52+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ο Ισραηλινός υπουργός Αμυνας Ισραέλ Κατς δήλωσε στον Αμερικανό ομόλογό του Πιτ Χέγκσεθ ότι το Ισραήλ είναι αποφασισμένο να διατηρήσει τις δυνάμεις του στις «ζώνες ασφαλείας» σε Λίβανο, Συρία και Γάζα, για την προστασία των συνόρων και των παραμεθόριων κοινοτήτων από «τζιχαντιστικές απειλές».</summary>
-    <content type="text" xml:lang="en">Israeli Defense Minister Israel Katz told his US counterpart Pete Hegseth that Israel is determined to keep its forces in 'security zones' in Lebanon, Syria and Gaza to protect its borders and frontier communities from 'jihadist threats.'</content>
-  </entry>
-  <entry>
-    <title>Μεγάλη νίκη για Σάντσεθ και Πουτζδεμόν στο Δικαστήριο της Ε.Ε.</title>
-    <link href="https://www.kathimerini.gr/world/564347836/megali-niki-gia-santseth-kai-poytzdemon-sto-anotato-dikastirio-tis-e-e/"/>
-    <id>urn:kathimerini:e7710e406b74</id>
-    <updated>2026-07-16T11:37:56+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Το Δικαστήριο της Ε.Ε. αποφάνθηκε ότι η ισπανική αμνηστία προς τους Καταλανούς αυτονομιστές δεν παραβιάζει το ευρωπαϊκό δίκαιο, φέρνοντας τον Κάρλες Πουτζδεμόν πιο κοντά στην επιστροφή από την αυτοεξορία. Η απόφαση αποτελεί σημαντική νομική και πολιτική νίκη για τον Πέδρο Σάντσεθ, που είχε συμφωνήσει την αμνηστία με αντάλλαγμα κοινοβουλευτική στήριξη.</summary>
-    <content type="text" xml:lang="en">The EU Court of Justice ruled that Spain's amnesty for Catalan separatists does not violate EU law, bringing Carles Puigdemont closer to returning from self-exile. The ruling is a major legal and political victory for Pedro Sánchez, who agreed to the amnesty in exchange for parliamentary support.</content>
-  </entry>
-  <entry>
-    <title>Ουκρανία: Αντιδράσεις για την απομάκρυνση του ιδιαίτερα δημοφιλούς υπουργού Αμυνας</title>
-    <link href="https://www.kathimerini.gr/world/564347659/oykrania-antidraseis-gia-tin-apomakrynsi-toy-idiaitera-dimofiloys-ypoyrgoy-amynas/"/>
-    <id>urn:kathimerini:98a167243831</id>
-    <updated>2026-07-16T10:19:05+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ο Βολοντίμιρ Ζελένσκι αιφνιδίασε το πολιτικό σύστημα της Ουκρανίας οδηγώντας σε παραίτηση την πρωθυπουργό Γιούλια Σβιριντένκο και προχωρώντας σε δεύτερο ανασχηματισμό μέσα σε έναν χρόνο, εν μέσω της επιχείρησης στην Κριμαία. Η απομάκρυνση του δημοφιλούς υπουργού Αμυνας απειλεί να προκαλέσει νέο κύμα διαμαρτυριών, όπως το 2025 με τη νομοθεσία κατά της διαφθοράς.</summary>
-    <content type="text" xml:lang="en">Volodymyr Zelensky stunned Ukraine's political establishment by forcing Prime Minister Yulia Svyrydenko's resignation in his second cabinet overhaul within a year, amid the ongoing Crimea operation. The removal of the popular defense minister risks triggering a new protest wave, as in 2025 over anti-corruption legislation.</content>
-  </entry>
-  <entry>
-    <title>Σε θέση μάχης στον ΣΥΡΙΖΑ Δούρου – Πολάκης</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564346780/se-thesi-machis-ston-syriza-doyroy-polakis/"/>
-    <id>urn:kathimerini:1c65a6c6a28c</id>
-    <updated>2026-07-16T07:06:47+00:00</updated>
+    <title>ΣΥΡΙΖΑ: «Πόλεμος» εντός και εκτός</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564349126/syriza-polemos-entos-kai-ektos/"/>
+    <id>urn:kathimerini:394a4f99423f</id>
+    <updated>2026-07-17T07:01:00+00:00</updated>
     <author><name>Αντώνης Αντζολέτος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Εν μέσω διαρκούς περιδίνησης, ο ΣΥΡΙΖΑ εκλέγει το Σάββατο νέο πρόεδρο της κοινοβουλευτικής ομάδας, με τη Ρένα Δούρου να φέρεται να κερδίζει έδαφος στη διαδοχή του Σωκράτη Φάμελλου. Το περιβάλλον του Παύλου Πολάκη ζητά την ομόφωνη ανάδειξή του και την απόσυρση της υποψηφιότητας Δούρου, ενώ ο Νίκος Παππάς πρότεινε λύση συλλογικής ηγεσίας. Χθες ανεξαρτητοποιήθηκαν άλλοι τρεις βουλευτές.</summary>
-    <content type="text" xml:lang="en">Amid continuing turmoil, SYRIZA elects a new parliamentary group leader on Saturday, with Rena Dourou reportedly gaining ground to succeed Socrates Famellos. Pavlos Polakis's camp is demanding his unanimous appointment and Dourou's withdrawal, while Nikos Pappas proposed a collective leadership. Three more MPs went independent yesterday.</content>
+    <summary xml:lang="el">Η Πολιτική Γραμματεία του ΣΥΡΙΖΑ κατηγορεί ανοιχτά την ΕΛΑΣ του Αλέξη Τσίπρα ότι οι αλλεπάλληλες ανεξαρτητοποιήσεις βουλευτών αποτελούν «προμελετημένο σχέδιο αποσταθεροποίησης και διάλυσης» του κόμματος. Ο Τσίπρας απάντησε ότι η ΕΛΑΣ «δεν κάνει παζάρια» και δεν επιδιώκει κοινοβουλευτική εκπροσώπηση από βουλευτές άλλων κομμάτων, ενώ Πολάκης και Δούρου συγκρούονται εσωτερικά για τη γραμμή του κόμματος.</summary>
+    <content type="text" xml:lang="en">SYRIZA's Political Secretariat openly accuses Alexis Tsipras's new ELAS party of orchestrating a 'premeditated plan to destabilize and dissolve' the party through successive MP defections. Tsipras replied that ELAS 'does not bargain' and seeks no parliamentary representation via MPs elected with other parties, while Polakis and Dourou clash internally over the party line.</content>
   </entry>
   <entry>
-    <title>Μεγάλο ενδιαφέρον για την CrediaBank από διεθνείς επενδυτές</title>
-    <link href="https://www.kathimerini.gr/economy/business/564347200/megalo-endiaferon-gia-tin-crediabank-apo-diethneis-ependytes/"/>
-    <id>urn:kathimerini:84dac67b7f1b</id>
-    <updated>2026-07-16T10:05:00+00:00</updated>
+    <title>Η Uber εξαγοράζει την Delivery Hero με ντιλ 14,8 δισ. δολ.</title>
+    <link href="https://www.kathimerini.gr/economy/international/564349561/i-uber-exagorazei-tin-delivery-hero-me-ntil-14-8-dis-dol/"/>
+    <id>urn:kathimerini:53c866ff4887</id>
+    <updated>2026-07-17T08:46:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Uber εξαγοράζει την Delivery Hero έναντι 14,8 δισ. δολαρίων, προσφέροντας 41,50 ευρώ ανά μετοχή και αποκτώντας δραστηριότητες σε 50 αγορές. Η συμφωνία αναμένεται να εξεταστεί από τις αντιμονοπωλιακές αρχές λόγω επικαλυπτόμενων ευρωπαϊκών δραστηριοτήτων.</summary>
+    <content type="text" xml:lang="en">Uber is acquiring Delivery Hero in a $14.8bn deal at €41.50 per share, taking over operations in 50 markets. Antitrust authorities are expected to scrutinize the deal given overlapping European businesses.</content>
+  </entry>
+  <entry>
+    <title>Βρετανία: Ο Αντι Μπέρναμ αναλαμβάνει την ηγεσία των Εργατικών – Ενα βήμα από την πρωθυπουργία</title>
+    <link href="https://www.kathimerini.gr/world/564350161/vretania-o-anti-mpernam-analamvanei-tin-igesia-ton-ergatikon-ena-vima-apo-tin-prothypoyrgia/"/>
+    <id>urn:kathimerini:cd544619bde4</id>
+    <updated>2026-07-17T12:25:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Αντι Μπέρναμ αναλαμβάνει επίσημα την ηγεσία των Εργατικών ως μοναδικός υποψήφιος και αναμένεται να γίνει πρωθυπουργός της Βρετανίας τη Δευτέρα, όταν ο Κιρ Στάρμερ υποβάλει την παραίτησή του στον βασιλιά Κάρολο. Στην πρώτη του ομιλία θα δώσει έμφαση σε ανάπτυξη, αποκέντρωση και κοινωνική στέγαση.</summary>
+    <content type="text" xml:lang="en">Andy Burnham formally takes over Labour's leadership as sole candidate and is expected to become UK Prime Minister on Monday, when Keir Starmer submits his resignation to King Charles. His first speech will stress growth, devolution and social housing.</content>
+  </entry>
+  <entry>
+    <title>Μεγαλύτερος κίνδυνος το ενδεχόμενο πολιτικής αστάθειας</title>
+    <link href="https://www.kathimerini.gr/economy/local/564349513/megalyteros-kindynos-to-endechomeno-politikis-astatheias/"/>
+    <id>urn:kathimerini:cd82c60b00c7</id>
+    <updated>2026-07-17T10:08:00+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Το ΙΟΒΕ προειδοποιεί ότι το ενδεχόμενο αδυναμίας σχηματισμού αυτοδύναμης κυβέρνησης είναι «ο μεγαλύτερος κίνδυνος» για την ελληνική οικονομία, καθώς αυξάνει την πιθανότητα επιβράδυνσης των μεταρρυθμίσεων. Το τεταμένο γεωπολιτικό τοπίο προσθέτει ρίσκα, αν και το πλήγμα ως τώρα είναι περιορισμένο.</summary>
+    <content type="text" xml:lang="en">IOBE warns that failure to form a majority government is 'the greatest risk' facing the Greek economy, raising the chance of reform slowdown. The tense geopolitical backdrop adds risks, though damage so far is limited.</content>
+  </entry>
+  <entry>
+    <title>ΣΥΡΙΖΑ: Η Ολγα Γεροβασίλη ανακοίνωσε την ανεξαρτητοποίησή της</title>
+    <link href="https://www.kathimerini.gr/politics/564349771/syriza-i-olga-gerovasili-anakoinose-tin-anexartitopoiisi-tis/"/>
+    <id>urn:kathimerini:91028aa9e8f8</id>
+    <updated>2026-07-17T09:34:21+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η Ολγα Γεροβασίλη ανακοίνωσε την ανεξαρτητοποίησή της από την Κ.Ο. του ΣΥΡΙΖΑ, δηλώνοντας ότι «ο στόχος και οι αρχές που υπηρέτησα δεν εκφράζονται από το εναπομείναν σχήμα». Προηγήθηκαν την ίδια μέρα Ραγκούσης και Ζαμπάρας, σε ένα κύμα που αποδεκατίζει την κοινοβουλευτική ομάδα.</summary>
+    <content type="text" xml:lang="en">Olga Gerovasili announced her departure from SYRIZA's parliamentary group, saying 'the goals and principles I served are not expressed by what remains'. Ragousis and Zabaras left earlier the same day, in a wave decimating the parliamentary group.</content>
+  </entry>
+  <entry>
+    <title>Μείωση τιμών έως 20% σε βασικά είδη για 4 μήνες</title>
+    <link href="https://www.kathimerini.gr/economy/local/564349489/meiosi-timon-eos-20-se-vasika-eidi-gia-4-mines/"/>
+    <id>urn:kathimerini:309b6b398409</id>
+    <updated>2026-07-17T10:02:22+00:00</updated>
+    <author><name>Δήμητρα Μανιφάβα</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η «συμφωνία κυρίων» κυβέρνησης, βιομηχανίας και σούπερ μάρκετ προβλέπει μειώσεις τιμών έως 20% σε βασικά είδη έως το τέλος του 2026, με κάθε κωδικό να διατίθεται μειωμένος για τουλάχιστον δύο μήνες. Η Αρχή Ελέγχου της Αγοράς καθορίζει τους όρους συμμετοχής και αποκλείει κωδικούς χαμηλής ζήτησης.</summary>
+    <content type="text" xml:lang="en">The 'gentlemen's agreement' between government, industry and supermarkets provides price cuts of up to 20% on basic goods until end-2026, with each product discounted for at least two months. The market watchdog sets participation terms, excluding low-demand items.</content>
+  </entry>
+  <entry>
+    <title>Ρούμπιο για τη δολοφονία της Βάγιας Νέστορα: «Εκτελέστηκε γιατί η κόρη της τόλμησε να θέσει υποψηφιότητα για δημόσιο αξίωμα»</title>
+    <link href="https://www.kathimerini.gr/world/564349678/roympio-gia-ti-dolofonia-tis-vagias-nestora-ektelestike-giati-i-kori-tis-tolmise-na-thesei-ypopsifiotita-gia-dimosio-axioma/"/>
+    <id>urn:kathimerini:f662dd1210a3</id>
+    <updated>2026-07-17T07:35:58+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Μάρκο Ρούμπιο αναφέρθηκε στη δολοφονία της Βάγιας Νέστορα στη Θεσσαλονίκη σε διάσκεψη του Στέιτ Ντιπάρτμεντ για την «πολιτική τρομοκρατία», λέγοντας ότι «εκτελέστηκε επειδή η κόρη της τόλμησε να θέσει υποψηφιότητα για δημόσιο αξίωμα». Παρουσίασε και άλλα περιστατικά, όπως το μεγάλο μπλακ άουτ του Βερολίνου.</summary>
+    <content type="text" xml:lang="en">Marco Rubio cited the murder of Vagia Nestora in Thessaloniki at a State Department conference on 'political terrorism', saying she was 'executed because her daughter dared to run for public office'. He listed other incidents including Berlin's record blackout.</content>
+  </entry>
+  <entry>
+    <title>ΣΥΡΙΖΑ: Συνεχίζεται το κύμα ανεξαρτητοποιήσεων – Αποχωρεί από την Κ.Ο. και ο Διονύσης Καλαματιανός</title>
+    <link href="https://www.kathimerini.gr/politics/564349891/syriza-synechizetai-to-kyma-anexartitopoiiseon-apochorei-apo-tin-k-o-kai-o-dionysis-kalamatianos/"/>
+    <id>urn:kathimerini:c387e092d384</id>
+    <updated>2026-07-17T10:25:16+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο βουλευτής Ηλείας Διονύσης Καλαματιανός ανεξαρτητοποιήθηκε από την Κ.Ο. του ΣΥΡΙΖΑ, μετά τις αποχωρήσεις Γεροβασίλη και Ζαμπάρα την ίδια μέρα. Το κόμμα μένει με 12 βουλευτές, ενώ αναμένονται εξελίξεις για Κεδίκογλου, Κόκκαλη και Φάμελλο μετά την Κεντρική Επιτροπή του Σαββάτου.</summary>
+    <content type="text" xml:lang="en">Ileia MP Dionysis Kalamatianos left SYRIZA's parliamentary group, following Gerovasili and Zabaras the same day. The party is down to 12 MPs, with further departures expected around Saturday's Central Committee meeting.</content>
+  </entry>
+  <entry>
+    <title>Κρίση διαρκείας στη Μ. Ανατολή «βλέπει» η Oxford Economics</title>
+    <link href="https://www.kathimerini.gr/economy/international/564349564/krisi-diarkeias-sti-m-anatoli-vlepei-i-oxford-economics/"/>
+    <id>urn:kathimerini:6f7776b95396</id>
+    <updated>2026-07-17T08:51:00+00:00</updated>
     <author><name>Ελευθερία Κούρταλη</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Η ιδιωτική τοποθέτηση της CrediaBank, μέσω της οποίας η Thrivest Holding διέθεσε το 16,7% της τράπεζας, καλύφθηκε σε μόλις 20 λεπτά με υπερκάλυψη σχεδόν τριπλάσια. Η ισχυρή διεθνής ζήτηση, με συμμετοχή και της BlackRock, επέτρεψε την αύξηση της συναλλαγής από 250 σε 300 εκατ. ευρώ, στέλνοντας μήνυμα εμπιστοσύνης για τον ελληνικό τραπεζικό κλάδο.</summary>
-    <content type="text" xml:lang="en">CrediaBank's private placement, through which Thrivest Holding sold 16.7% of the bank, was covered in just 20 minutes with nearly threefold oversubscription. Strong international demand, including from BlackRock, allowed the deal to grow from €250 million to €300 million, signaling confidence in the Greek banking sector.</content>
+    <summary xml:lang="el">Η Oxford Economics προβλέπει μακρά περίοδο αστάθειας στη Μέση Ανατολή με περιορισμένη κυκλοφορία στα Στενά του Ορμούζ, εκτιμώντας ότι η επιστροφή στην κανονικότητα μπορεί να απαιτήσει αλλαγή ηγεσίας σε Ιράν ή/και ΗΠΑ. Οι ναυτιλιακές θα περιορίσουν τα ταξίδια και τα κράτη του Κόλπου θα διαφοροποιήσουν τις διαδρομές.</summary>
+    <content type="text" xml:lang="en">Oxford Economics forecasts prolonged Middle East instability with restricted Strait of Hormuz traffic, estimating normalization may require leadership change in Iran and/or the US. Shippers will curtail transits and Gulf states will diversify routes.</content>
   </entry>
   <entry>
-    <title>Τραγωδία στη Χαλκιδική: Διασωληνωμένη στη ΜΕΘ η 7χρονη που έχασε την οικογένειά της στο τροχαίο</title>
-    <link href="https://www.kathimerini.gr/society/564347833/tragodia-sti-chalkidiki-diasolinomeni-sti-meth-i-7chroni-poy-echase-tin-oikogeneia-tis-sto-trochaio/"/>
-    <id>urn:kathimerini:64fb0210d4ed</id>
-    <updated>2026-07-16T11:44:52+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Σε πολύ κρίσιμη κατάσταση νοσηλεύεται διασωληνωμένη στη ΜΕΘ Παίδων του «Ιπποκράτειου» η 7χρονη που έχασε τους γονείς και την 6 μηνών αδελφή της σε τροχαίο στη Χαλκιδική, όταν το αυτοκίνητο της οικογένειας συγκρούστηκε με βυτιοφόρο. Το παιδί, πολυτραυματίας με κατάγματα και τραύματα στον θώρακα, έχει υποβληθεί σε δύο χειρουργεία.</summary>
-    <content type="text" xml:lang="en">A 7-year-old girl who lost her parents and 6-month-old sister in a road crash in Halkidiki is in very critical condition, intubated in the pediatric ICU of Hippokrateio Hospital, after the family's car collided with a tanker truck. The child, a polytrauma patient with fractures and chest injuries, has undergone two surgeries.</content>
-  </entry>
-  <entry>
-    <title>Ιταλία: Η Βουλή ενέκρινε την αμφιλεγόμενη εκλογική μεταρρύθμιση της Μελόνι</title>
-    <link href="https://www.kathimerini.gr/world/564348034/italia-i-voyli-enekrine-tin-amfilegomeni-eklogiki-metarrythmisi-tis-meloni/"/>
-    <id>urn:kathimerini:d879144e99b1</id>
-    <updated>2026-07-16T13:13:54+00:00</updated>
+    <title>Ουκρανία: Πυραυλική επίθεση κατά της Οδησσού με τουλάχιστον δύο νεκρούς</title>
+    <link href="https://www.kathimerini.gr/world/564349657/oykrania-pyrayliki-epithesi-kata-tis-odissoy-me-toylachiston-dyo-nekroys/"/>
+    <id>urn:kathimerini:dd3932a4def5</id>
+    <updated>2026-07-17T07:24:07+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Η ιταλική Βουλή ενέκρινε την αμφιλεγόμενη εκλογική μεταρρύθμιση της κυβέρνησης Μελόνι, που προβλέπει πλήρως αναλογικό σύστημα με μπόνους 70 εδρών στον συνασπισμό που θα υπερβεί το 42%. Η αντιπολίτευση καταγγέλλει «σχέδιο» της πρωθυπουργού για να διατηρήσει την εξουσία μετά τις εκλογές του 2027.</summary>
-    <content type="text" xml:lang="en">Italy's parliament approved the Meloni government's controversial electoral reform, introducing a fully proportional system with a 70-seat bonus for a coalition exceeding 42% of the vote. The opposition denounces it as a 'scheme' by the prime minister to retain power after the 2027 elections.</content>
+    <summary xml:lang="el">Νέα ρωσικά πλήγματα στην Οδησσό σκότωσαν δύο ανθρώπους και τραυμάτισαν τουλάχιστον δέκα, με πύραυλο να πλήττει πολυκατοικία. Ζημιές σε σχολείο, χώρο λατρείας και υποδομές· η Μόσχα έκανε λόγο για επίθεση κατά λιμενικών υποδομών.</summary>
+    <content type="text" xml:lang="en">New Russian strikes on Odesa killed two people and wounded at least ten, with a missile hitting an apartment block. A school, place of worship and infrastructure were damaged; Moscow said it targeted port facilities.</content>
   </entry>
   <entry>
-    <title>HΠΑ: Νέοι δασμοί 25% κατά της Βραζιλίας – Λόγω «αθέμιτων» εμπορικών πρακτικών</title>
-    <link href="https://www.kathimerini.gr/world/564347557/oi-ipa-anakoinonoyn-neoys-dasmoys-25-kata-tis-vrazilias-logo-athemiton-emporikon-praktikon/"/>
-    <id>urn:kathimerini:faeddafe2af0</id>
-    <updated>2026-07-16T09:21:01+00:00</updated>
+    <title>Τι φέρνει στις Ενοπλες Δυνάμεις η προμήθεια αμερικανικών drone «καμικάζι»</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564350215/ti-fernei-stis-enoples-dynameis-i-promitheia-amerikanikon-drone-kamikazi/"/>
+    <id>urn:kathimerini:638ccff6c780</id>
+    <updated>2026-07-17T13:19:03+00:00</updated>
+    <author><name>Σταύρος Ιωαννίδης</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Το Στέιτ Ντιπάρτμεντ ενέκρινε την πώληση περιπλανώμενων πυρομαχικών Switchblade στην Ελλάδα, που θα εξοπλίσουν τις μονάδες ειδικών επιχειρήσεων των Ενόπλων Δυνάμεων. Η LOA αναρτήθηκε επίσημα στο πρόγραμμα FMS, με τις ΗΠΑ να τονίζουν την ενίσχυση της αποτρεπτικής ικανότητας και της διαλειτουργικότητας.</summary>
+    <content type="text" xml:lang="en">The US State Department approved the sale of Switchblade loitering munitions to Greece, to equip the armed forces' special operations units. The LOA was formally posted under the FMS program, with Washington stressing enhanced deterrence and interoperability.</content>
+  </entry>
+  <entry>
+    <title>ΣΥΡΙΖΑ: Παραιτείται ο Βασίλης Κόκκαλης – Παραδίδει την έδρα</title>
+    <link href="https://www.kathimerini.gr/politics/564350116/syriza-paraiteitai-kai-o-vasilis-kokkalis-paradidei-tin-edra/"/>
+    <id>urn:kathimerini:9d469fb33037</id>
+    <updated>2026-07-17T12:16:07+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Οι ΗΠΑ ανακοίνωσαν νέους δασμούς 25% σε βραζιλιάνικα προϊόντα, έπειτα από έρευνα του USTR για «αθέμιτες» εμπορικές πρακτικές, με ισχύ από τις 22 Ιουλίου. Η προεδρία της Βραζιλίας απέρριψε τους «παράνομους» δασμούς και προανήγγειλε μέτρα αμοιβαιότητας.</summary>
-    <content type="text" xml:lang="en">The US announced new 25% tariffs on Brazilian products following a USTR investigation into 'unfair' trade practices, effective July 22. Brazil's presidency rejected the 'illegal' tariffs and signaled reciprocal measures.</content>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο βουλευτής Λάρισας Βασίλης Κόκκαλης παραιτήθηκε από το βουλευτικό αξίωμα και παραδίδει την έδρα του, δηλώνοντας ότι οι πολιτικές συνθήκες δεν του επιτρέπουν να συνεχίσει «προσποιούμενος ότι τίποτε δεν έχει αλλάξει». Ο ΣΥΡΙΖΑ μένει με 12 βουλευτές και την έδρα αναλαμβάνει ο πρώτος επιλαχών.</summary>
+    <content type="text" xml:lang="en">Larissa MP Vasilis Kokkalis resigned his seat entirely, saying political conditions don't allow him to continue 'pretending nothing has changed'. SYRIZA is left with 12 MPs and the seat passes to the first runner-up.</content>
   </entry>
   <entry>
-    <title>Οδύσσεια: Ο Κρίστοφερ Νόλαν βρήκε την Ιθάκη του (★★★★½)</title>
-    <link href="https://www.kathimerini.gr/culture/cinema/564346456/odysseia-o-kristofer-nolan-vrike-tin-ithaki-toy/"/>
-    <id>urn:kathimerini:c710215c0855</id>
-    <updated>2026-07-15T20:26:53+00:00</updated>
-    <author><name>Αιμίλιος Χαρμπής</name></author>
-    <category term="culture"/>
-    <summary xml:lang="el">Η «Κ» είδε την «Οδύσσεια» του Κρίστοφερ Νόλαν (★★★★½, 180΄, με Ματ Ντέιμον, Αν Χάθαγουεϊ, Τομ Χόλαντ) και την τοποθετεί στην κορυφογραμμή της φιλμογραφίας του: με μπάτζετ 250 εκατ. δολαρίων, ο σκηνοθέτης του «Οπενχάιμερ» βρήκε την Ιθάκη του στο σινεμά των μεγάλων οραμάτων.</summary>
-    <content type="text" xml:lang="en">Kathimerini reviewed Christopher Nolan's 'Odyssey' (★★★★½, 180', with Matt Damon, Anne Hathaway, Tom Holland), placing it at the peak of his filmography: with a $250 million budget, the 'Oppenheimer' director found his Ithaca in grand-vision cinema.</content>
-  </entry>
-  <entry>
-    <title>Κομισιόν: «Πακέτο» ενίσχυσης 41 εκατ. ευρώ στους Ελληνες αγρότες λόγω του αυξημένου κόστους λιπασμάτων</title>
-    <link href="https://www.kathimerini.gr/society/564348031/komision-paketo-enischysis-41-ekat-eyro-stoys-ellines-agrotes-logo-toy-ayximenoy-kostoys-lipasmaton/"/>
-    <id>urn:kathimerini:14ba55b16e0f</id>
-    <updated>2026-07-16T13:17:56+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <title>Στα 10,6 δισ. ο πήχυς των δημοσίων επενδύσεων το 2027</title>
+    <link href="https://www.kathimerini.gr/economy/local/564349510/sta-10-6-dis-o-pichys-ton-dimosion-ependyseon-to-2027/"/>
+    <id>urn:kathimerini:e12f6c82de7d</id>
+    <updated>2026-07-17T09:23:00+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Η Κομισιόν ενέκρινε ελληνική κρατική ενίσχυση 41 εκατ. ευρώ προς τους αγρότες που επιβαρύνθηκαν από την αύξηση των τιμών των λιπασμάτων λόγω της κρίσης στη Μέση Ανατολή. Η επιδότηση καλύπτει το 15% της αξίας αγορών λιπασμάτων από 15 Μαρτίου έως 31 Αυγούστου 2026, με ανώτατο όριο τις 50.000 ευρώ ανά δικαιούχο.</summary>
-    <content type="text" xml:lang="en">The European Commission approved €41 million in Greek state aid for farmers hit by rising fertilizer prices linked to the Middle East crisis. The subsidy covers 15% of fertilizer purchases from March 15 to August 31, 2026, capped at €50,000 per beneficiary.</content>
+    <summary xml:lang="el">Στα 10,6 δισ. ευρώ περιορίζεται ο προϋπολογισμός δημοσίων επενδύσεων το 2027 από 16,7 δισ. φέτος, καθώς λήγει το Ταμείο Ανάκαμψης. Δύο νέα χρηματοδοτικά μέσα με ευρωπαϊκούς πόρους θα χρηματοδοτήσουν πράσινη μετάβαση, υποδομές και ψηφιακό μετασχηματισμό.</summary>
+    <content type="text" xml:lang="en">Greece's public investment budget shrinks to €10.6bn in 2027 from €16.7bn this year as the Recovery Fund expires. Two new EU-backed financing instruments will fund green transition, infrastructure and digital transformation.</content>
   </entry>
   <entry>
-    <title>Ξεπέρασε τα 12 δισ. ευρώ ο τζίρος των ξενοδοχείων το 2025</title>
-    <link href="https://www.kathimerini.gr/economy/business/564347185/xeperase-ta-12-dis-eyro-o-tziros-ton-xenodocheion-to-2025/"/>
-    <id>urn:kathimerini:cb7db0694807</id>
-    <updated>2026-07-16T08:37:00+00:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ο τζίρος των ελληνικών ξενοδοχείων έφτασε τα 12,5 δισ. ευρώ το 2025, αυξημένος κατά 8,7%, σύμφωνα με μελέτη του ΙΤΕΠ. Κεφάλαια 1,5 δισ. ευρώ — το 12% του τζίρου — επανεπενδύθηκαν σε ανακαινίσεις και αναβαθμίσεις, αντανακλώντας τη στροφή του κλάδου σε καταλύματα υψηλότερων κατηγοριών.</summary>
-    <content type="text" xml:lang="en">Greek hotel turnover reached €12.5 billion in 2025, up 8.7%, according to an ITEP study. Some €1.5 billion — 12% of turnover — was reinvested in renovations and upgrades, reflecting the sector's shift toward higher-category accommodation.</content>
-  </entry>
-  <entry>
-    <title>Η Βρετανία εθνικοποίησε τη χαλυβουργία British Steel</title>
-    <link href="https://www.kathimerini.gr/world/564347725/i-vretania-ethnikopoiise-ti-chalyvoyrgia-british-steel/"/>
-    <id>urn:kathimerini:8583a6ee0b96</id>
-    <updated>2026-07-16T10:47:13+00:00</updated>
+    <title>Ντόναλντ Τραμπ: Διάγγελμα – προειδοποίηση για τις ενδιάμεσες εκλογές του Νοεμβρίου</title>
+    <link href="https://www.kathimerini.gr/world/564349726/ntonalnt-tramp-diaggelma-proeidopoiisi-gia-tis-endiameses-ekloges-toy-noemvrioy/"/>
+    <id>urn:kathimerini:9390bd3d7b5a</id>
+    <updated>2026-07-17T09:51:03+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Το Ηνωμένο Βασίλειο ολοκλήρωσε την εθνικοποίηση της British Steel, που τελούσε υπό κινεζική ιδιοκτησία, επικαλούμενο την προστασία του εθνικού συμφέροντος και του μέλλοντος της παραγωγής χάλυβα. Ο απερχόμενος πρωθυπουργός Κιρ Στάρμερ δήλωσε ότι η απόφαση προστατεύει εξειδικευμένες θέσεις εργασίας και μια ζωτική εθνική ικανότητα.</summary>
-    <content type="text" xml:lang="en">The UK completed the nationalization of Chinese-owned British Steel, citing the protection of national interest and the future of steel production. Outgoing Prime Minister Keir Starmer said the decision safeguards skilled jobs and a vital national capability.</content>
+    <summary xml:lang="el">Σε διάγγελμα-προειδοποίηση ενόψει των ενδιάμεσων εκλογών του Νοεμβρίου, ο Ντόναλντ Τραμπ κατηγόρησε NBC, ABC και άλλα ΜΜΕ ως «μέρος συνωμοσίας» υπέρ της «ριζοσπαστικής Αριστεράς», υποστηρίζοντας ότι θα έπρεπε να τους ανακληθεί η άδεια.</summary>
+    <content type="text" xml:lang="en">In an address ahead of November's midterms, Donald Trump accused NBC, ABC and other media of being 'part of a conspiracy' protecting the 'radical Left', arguing their licenses should be revoked.</content>
+  </entry>
+  <entry>
+    <title>Οταν και οι μετανάστες φεύγουν</title>
+    <link href="https://www.kathimerini.gr/opinion/564348991/otan-kai-oi-metanastes-feygoyn/"/>
+    <id>urn:kathimerini:47ad5dd15758</id>
+    <updated>2026-07-17T12:58:00+00:00</updated>
+    <author><name>Νίκος Κωνσταντάρας</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Ο Νίκος Κωνσταντάρας σχολιάζει τα αμείλικτα δημογραφικά στοιχεία: 65.400 γεννήσεις έναντι 120.800 θανάτων το 2025, ενώ οι μετανάστες που ζουν στην Ελλάδα μειώθηκαν κατά 140.500 σε έναν χρόνο. Οταν και οι μετανάστες φεύγουν στις «καλές εποχές», κάτι βαθύτερο δεν πάει καλά στη χώρα.</summary>
+    <content type="text" xml:lang="en">Nikos Konstandaras examines stark demographics: 65,400 births versus 120,800 deaths in 2025, while the migrant population fell by 140,500 in a year. When even migrants leave in 'good times', something deeper is wrong with the country.</content>
+  </entry>
+  <entry>
+    <title>Στο μικροσκόπιο οι συμβάσεις για τη σίτιση των μεταναστών</title>
+    <link href="https://www.kathimerini.gr/politics/564349090/sto-mikroskopio-oi-symvaseis-gia-ti-sitisi-ton-metanaston/"/>
+    <id>urn:kathimerini:12480490db97</id>
+    <updated>2026-07-17T11:18:00+00:00</updated>
+    <author><name>Τάνια Γεωργιοπούλου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η Ευρωπαϊκή Εισαγγελία ερευνά τη διαχείριση ευρωπαϊκών κονδυλίων για τη σίτιση μεταναστών και την ανέγερση δομών φιλοξενίας, με πρόσφατη έφοδο στα γραφεία του υπουργείου Μετανάστευσης. Στο επίκεντρο οι συμβάσεις μετά το 2020 και η συμφωνία-πλαίσιο που υπογράφηκε επί υπουργίας Μηταράκη.</summary>
+    <content type="text" xml:lang="en">The European Public Prosecutor's Office is investigating EU funds for migrant catering and reception facilities, following a recent raid on the Migration Ministry. Post-2020 contracts and the framework agreement signed under Minister Mitarakis are under scrutiny.</content>
+  </entry>
+  <entry>
+    <title>Ο πόλεμος πυροδοτεί ανακατατάξεις στις αεροπορικές</title>
+    <link href="https://www.kathimerini.gr/economy/564349558/o-polemos-pyrodotei-anakatataxeis-stis-aeroporikes/"/>
+    <id>urn:kathimerini:4913a899d06a</id>
+    <updated>2026-07-17T09:32:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η άνοδος των τιμών πετρελαίου λόγω της αναζωπύρωσης στη Μέση Ανατολή αναδεικνύει τις διαρθρωτικές αδυναμίες ευρωπαϊκών αεροπορικών, με προβλέψεις για κύμα εξαγορών και πτωχεύσεων. Η easyJet φέρεται κοντά σε εξαγορά από αμερικανικό fund και η airBaltic αναζητά χρηματοδότηση για να αποφύγει χρεοκοπία.</summary>
+    <content type="text" xml:lang="en">Oil price rises from the renewed Middle East conflict expose European airlines' structural weaknesses, with predictions of a wave of takeovers and bankruptcies. easyJet is reportedly near acquisition by a US fund and airBaltic seeks funding to avoid insolvency.</content>
+  </entry>
+  <entry>
+    <title>Επιβεβαιώνονται οι κινήσεις για τους S-400 από την Αγκυρα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564349108/epivevaionontai-oi-kiniseis-gia-toys-s-400-apo-tin-agkyra/"/>
+    <id>urn:kathimerini:1583472d1b84</id>
+    <updated>2026-07-17T07:18:48+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Το τουρκικό υπουργείο Αμυνας απέρριψε με οξείς χαρακτηρισμούς ψήφισμα του Ευρωπαϊκού Κοινοβουλίου που ζητά απόδοση ευθυνών για σεξουαλική βία κατά την εισβολή του 1974 στην Κύπρο, κάνοντας λόγο για «αβάσιμους και αισχρούς ισχυρισμούς». Παράλληλα επιβεβαιώνονται κινήσεις της Αγκυρας σχετικά με τους S-400.</summary>
+    <content type="text" xml:lang="en">Turkey's Defense Ministry harshly rejected a European Parliament resolution seeking accountability for sexual violence during the 1974 invasion of Cyprus, calling the claims 'baseless and vile'. Ankara's moves regarding the S-400 systems are meanwhile confirmed.</content>
   </entry>
 </feed>
