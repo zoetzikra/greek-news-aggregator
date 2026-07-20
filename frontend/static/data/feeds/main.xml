@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini</title>
+  <title>Greek News Digest</title>
+  <subtitle>Daily digest of kathimerini.gr — top stories by importance</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <updated>2026-07-19T11:13:24.733091+00:00</updated>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
+  <updated>2026-07-20T11:26:38.521898+00:00</updated>
   <entry>
-    <title>Μέση Ανατολή: 8η μέρα πληγμάτων στο Ιράν – Αντίποινα για τον θάνατο Αμερικανών στρατιωτικών στην Ιορδανία</title>
-    <link href="https://www.kathimerini.gr/world/564353740/mesi-anatoli-8i-mera-pligmaton-sto-iran-antipoina-gia-ton-thanato-amerikanon-stratiotikon-stin-iordania/"/>
-    <id>urn:kathimerini:53d530b1cdc7</id>
-    <updated>2026-07-19T07:38:47+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Οι ΗΠΑ ανακοίνωσαν νέα σειρά βομβαρδισμών κατά του Ιράν — όγδοη ημέρα πληγμάτων — ως αντίποινα για τον θάνατο δύο Αμερικανών στρατιωτικών στην Ιορδανία. Σύμφωνα με τη CENTCOM, τα πλήγματα στοχεύουν να φθείρουν τη δυνατότητα του Ιράν να απειλεί τη ναυσιπλοΐα στο Ορμούζ και να «τιμωρήσουν» τους Φρουρούς της Επανάστασης.</summary>
-    <category term="world"/>
+    <title>Ξαφνική κινητικότητα στο Κυπριακό</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564352021/xafniki-kinitikotita-sto-kypriako/"/>
+    <id>urn:kathimerini:5b2c7780188e</id>
+    <updated>2026-07-19T12:25:19+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary>Η επίσκεψη του γ.γ. του ΟΗΕ Αντόνιο Γκουτέρες στην Κύπρο (27-29/7) αποτελεί ύστατη προσπάθεια αναβίωσης των συνομιλιών πριν από την αποχώρησή του. Σύμφωνα με πληροφορίες της «Κ», το σχέδιο της ειδικής απεσταλμένης Μαρίας Άνχελα Ολγκίν προβλέπει πολύ αδύναμο κεντρικό κράτος με ελάχιστες ομοσπονδιακές αρμοδιότητες, προσέγγιση που απέχει από το πλαίσιο της διζωνικής δικοινοτικής ομοσπονδίας, ενώ οι προσδοκίες για ουσιαστική πρόοδο παραμένουν χαμηλές.</summary>
   </entry>
   <entry>
-    <title>Ιορδανία: Δύο Αμερικανοί στρατιώτες σκοτώθηκαν από ιρανική επίθεση – Αγνοείται ακόμη ένας</title>
-    <link href="https://www.kathimerini.gr/world/564353662/iordania-dyo-amerikanoi-stratiotes-skotothikan-apo-iraniki-epithesi-agnoeitai-akomi-enas/"/>
-    <id>urn:kathimerini:9e7c2ef0f7d4</id>
-    <updated>2026-07-18T22:11:55+00:00</updated>
+    <title>Βρετανία: Αναλαμβάνει την πρωθυπουργία ο Μπέρναμ  – Τα 5 «αγκάθια»</title>
+    <link href="https://www.kathimerini.gr/world/564354700/vretania-analamvanei-tin-prothypoyrgia-o-mpernam-ta-5-agkathia/"/>
+    <id>urn:kathimerini:25bb0160f97d</id>
+    <updated>2026-07-20T11:29:15+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Δύο Αμερικανοί στρατιωτικοί σκοτώθηκαν στις 17 Ιουλίου στην Ιορδανία κατά τη διάρκεια ιρανικών επιθέσεων με βαλλιστικούς πυραύλους και drones, ανακοίνωσε η CENTCOM, ενώ ένας ακόμη αγνοείται. Τέσσερις στρατιώτες νοσηλεύτηκαν και έλαβαν εξιτήριο· οι αμερικανικές και συμμαχικές δυνάμεις απέκρουαν τις επιθέσεις.</summary>
     <category term="world"/>
+    <summary>Ο Άντι Μπέρναμ, ο «Βασιλιάς του Βορρά» και πρώην δήμαρχος του Μάντσεστερ, αναλαμβάνει καθήκοντα πρωθυπουργού της Βρετανίας — ο έβδομος σε μία δεκαετία. Υπόσχεται να «αναδιαμορφώσει» τη χώρα, αλλά αντιμετωπίζει πέντε μεγάλα «αγκάθια»: υποτονική ανάπτυξη, κόστος ζωής, δημόσιες υπηρεσίες, εσωκομματικές εντάσεις των Εργατικών και τη σχέση με τις ΗΠΑ.</summary>
   </entry>
   <entry>
-    <title>Μεγάλη φωτιά στη Σαλαμίνα – Kινητοποίηση της Πυροσβεστικής και 112</title>
-    <link href="https://www.kathimerini.gr/society/564353854/megali-fotia-salaminas-terastia-kinitopoiisi-tis-pyrosvestikis-kai-112/"/>
-    <id>urn:kathimerini:08f2998d6423</id>
-    <updated>2026-07-19T12:41:14+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Μεγάλη πυρκαγιά ξέσπασε το μεσημέρι της Κυριακής στα Σελίνια Σαλαμίνας, με το 112 να καλεί τους κατοίκους του Πανοράματος Σεληνίων να εκκενώσουν προς την παραλία και τη φωτιά να φθάνει μέσα σε σπίτια. Επιχειρούν 90 πυροσβέστες με 23 οχήματα, 3 ομάδες πεζοπόρων, 2 αεροσκάφη και 1 ελικόπτερο· το μεσημέρι η εικόνα εμφανιζόταν βελτιωμένη.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Μοτζταμπά Χαμενεΐ: Θα δώσουμε «αξέχαστα μαθήματα» στις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564353593/motztampa-chamene-tha-dosoyme-axechasta-mathimata-stis-ipa/"/>
-    <id>urn:kathimerini:252b6262a8a2</id>
-    <updated>2026-07-18T20:42:26+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Ο ανώτατος ηγέτης του Ιράν Μοτζταμπά Χαμενεΐ δήλωσε ότι η υπογραφή του Ντόναλντ Τραμπ είναι «εντελώς χωρίς αξία», μετά την κατάρρευση της συμφωνίας κατάπαυσης του πυρός και τις ανταλλαγές πληγμάτων ΗΠΑ-Ιράν. Προειδοποίησε ότι το ιρανικό έθνος και το «μέτωπο της αντίστασης» έχουν «αξέχαστα μαθήματα» να δώσουν στις ΗΠΑ.</summary>
-    <category term="world"/>
+    <title>Παζάρι για τις θαλάσσιες ζώνες</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564352030/pazari-gia-tis-thalassies-zones/"/>
+    <id>urn:kathimerini:1850f93cfd34</id>
+    <updated>2026-07-19T20:52:44+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
+    <category term="politics"/>
+    <summary>Η στρατιωτική συνεργασία Τουρκίας – Αιγύπτου και η προσέγγιση με τη Συρία τροφοδοτούν στην Άγκυρα προσδοκίες για συμφωνία οριοθέτησης θαλασσίων ζωνών στην Ανατολική Μεσόγειο, παρότι πηγές επισημαίνουν ότι η απόσταση από μια τέτοια συμφωνία παραμένει μεγάλη και ισχύει ήδη η ελληνοαιγυπτιακή οριοθέτηση. Το ρεπορτάζ καταγράφει επίσης την τουρκική ανάγνωση του «οδικού χάρτη» Γκουτέρες για το Κυπριακό.</summary>
   </entry>
   <entry>
     <title>Στα 2 δισ. η δέσμη μέτρων της ΔΕΘ</title>
@@ -46,142 +39,151 @@
     <id>urn:kathimerini:f732a9508574</id>
     <updated>2026-07-19T11:21:49+00:00</updated>
     <author><name>Θέλμα Χατζηαθανασίου</name></author>
-    <summary>Η κυβέρνηση προσέρχεται στη ΔΕΘ με «μαγιά» 1,2-1,3 δισ. ευρώ για νέα μέτρα, αλλά δύο υπό διαπραγμάτευση με την Κομισιόν πηγές — η ρήτρα διαφυγής για ενεργειακές δαπάνες (300-500 εκατ.) και το υπερπλεόνασμα — μπορούν να φέρουν το πακέτο κοντά στα 2 δισ. Οι εξαγγελίες θα διαμορφώσουν και το προεκλογικό τοπίο σε δύσκολο γεωπολιτικό σκηνικό.</summary>
     <category term="economy"/>
+    <summary>Με «μαγιά» 1,2-1,3 δισ. ευρώ για νέα μέτρα προσέρχεται η κυβέρνηση στη ΔΕΘ, αλλά δύο υπό διαπραγμάτευση με την Κομισιόν πηγές —η ρήτρα διαφυγής για ενεργειακές δαπάνες (300-500 εκατ.) και το υπερπλεόνασμα— μπορούν να φέρουν το πακέτο κοντά στα 2 δισ. ευρώ. Οι εξαγγελίες θα διαμορφώσουν και το προεκλογικό τοπίο.</summary>
   </entry>
   <entry>
-    <title>Ξαφνική κινητικότητα στο Κυπριακό</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564352021/xafniki-kinitikotita-sto-kypriako/"/>
-    <id>urn:kathimerini:5b2c7780188e</id>
-    <updated>2026-07-19T12:25:19+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <summary>Ο γ.γ. του ΟΗΕ Αντόνιο Γκουτέρες μεταβαίνει στην Κύπρο στις 27-29 Ιουλίου, σε μια ύστατη προσπάθεια αναθέρμανσης του Κυπριακού πριν από την αποχώρησή του. Σύμφωνα με πληροφορίες της «Κ», το σχέδιο της ειδικής απεσταλμένης Μαρίας Άνχελα Ολγκίν προβλέπει πολύ αδύναμο κεντρικό κράτος με ελάχιστες ομοσπονδιακές αρμοδιότητες, μακριά από το πλαίσιο της διζωνικής δικοινοτικής ομοσπονδίας, με χαμηλές προσδοκίες για ουσιαστική πρόοδο.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Τα καλοκαίρια τρομάζουν την Ευρώπη: Εξαντλημένη η Γαλλία, σε συναγερμό Ελλάδα, Ιταλία και Ισπανία</title>
-    <link href="https://www.kathimerini.gr/world/564353614/ta-kalokairia-tromazoyn-tin-eyropi-exantlimeni-i-gallia-se-synagermo-ellada-italia-kai-ispania/"/>
-    <id>urn:kathimerini:806ab7c6d8b3</id>
-    <updated>2026-07-18T22:41:17+00:00</updated>
+    <title>ΝΥΤ: Το Πεντάγωνο απέκρυψε τον τραυματισμό δεκάδων Αμερικανών στρατιωτών στο Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564354886/nyt-to-pentagono-apekrypse-ton-traymatismo-dekadon-amerikanon-stratioton-sto-iran/"/>
+    <id>urn:kathimerini:0ee2004db147</id>
+    <updated>2026-07-20T13:18:20+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Μετά από τρία διαδοχικά κύματα καύσωνα η Γαλλία εμφανίζεται εξαντλημένη, η Ισπανία ετοιμάζεται για θερμοκρασίες άνω των 40°C και Ιταλία-Μάλτα βρίσκονται στο υψηλότερο επίπεδο συναγερμού. Στην Ελλάδα ο υδράργυρος άγγιξε τους 40°C, με κορύφωση του καύσωνα την Τρίτη — και εδραιώνεται η αίσθηση ότι τα ακραία καλοκαίρια είναι η νέα κανονικότητα.</summary>
     <category term="world"/>
+    <summary>Σύμφωνα με τους New York Times, το Πεντάγωνο απέκρυψε ότι το Ιράν πραγματοποίησε τρεις ακόμη επιθέσεις κατά αμερικανικών δυνάμεων την εβδομάδα πριν από το χτύπημα στην Ιορδανία που σκότωσε δύο στρατιώτες, τραυματίζοντας δεκάδες στρατιωτικούς και προκαλώντας ζημιές σε ελικόπτερα. Η αποκάλυψη αναδεικνύει το χάσμα μεταξύ επιχειρησιακής ασφάλειας και αδιαφάνειας στην ενημέρωση για τον συνεχιζόμενο πόλεμο.</summary>
   </entry>
   <entry>
-    <title>Ελληνικοί μικροδορυφόροι από τα παιδιά του brain gain</title>
-    <link href="https://www.kathimerini.gr/society/564352168/ellinikoi-mikrodoryforoi-apo-ta-paidia-toy-brain-gain/"/>
-    <id>urn:kathimerini:dc004b09da2f</id>
-    <updated>2026-07-19T09:52:55+00:00</updated>
-    <author><name>Αλεξία Καλαϊτζή</name></author>
-    <summary>Η Ελλάδα αποκτά τους πρώτους επιχειρησιακούς δορυφόρους παρατήρησης Γης μέσω του Εθνικού Προγράμματος Μικροδορυφόρων: δεκατρία «μάτια», τα περισσότερα ήδη σε τροχιά, τροφοδοτούν υπηρεσίες με δεδομένα για περιβάλλον, πολιτική προστασία και άμυνα. Η «Κ» επισκέφθηκε τις τρεις εταιρείες κατασκευής, όπου οι μισοί περίπου επιστήμονες έχουν επιστρέψει από το εξωτερικό — παιδιά του brain gain.</summary>
+    <title>Ερχεται αύξηση στο επίδομα παιδιού</title>
+    <link href="https://www.kathimerini.gr/economy/564352369/erchetai-ayxisi-sto-epidoma-paidioy/"/>
+    <id>urn:kathimerini:6aa9f1e4a43b</id>
+    <updated>2026-07-20T10:41:44+00:00</updated>
+    <author><name>Ρούλα Σαλούρου</name></author>
+    <category term="economy"/>
+    <summary>Αύξηση του επιδόματος παιδιού εξετάζει η κυβέρνηση για το πακέτο της ΔΕΘ, με μελέτη του ΟΟΣΑ να το αναδεικνύει ως το αποτελεσματικότερο εργαλείο μείωσης της παιδικής φτώχειας και να προτείνει αύξηση 30%. Ο οργανισμός συγκρίνει δύο σενάρια ίδιου κόστους (περίπου 200 εκατ. ευρώ): αύξηση επιδόματος 30% έναντι ενίσχυσης της φορολογικής έκπτωσης για παιδιά κατά 76%.</summary>
+  </entry>
+  <entry>
+    <title>Φορολογικές ελαφρύνσεις σε επαγγελματίες</title>
+    <link href="https://www.kathimerini.gr/economy/564352381/forologikes-elafrynseis-se-epaggelmaties/"/>
+    <id>urn:kathimerini:4f983194cabc</id>
+    <updated>2026-07-20T07:53:40+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary>Το οικονομικό επιτελείο επεξεργάζεται στοχευμένες παρεμβάσεις στην τεκμαρτή φορολόγηση των περίπου 670.000 ελεύθερων επαγγελματιών ενόψει ΔΕΘ: πάγωμα ή και μείωση 10%-20% του ελάχιστου τεκμαρτού εισοδήματος για ορισμένες κατηγορίες, αλλαγές στις προσαυξήσεις και διεύρυνση εκπτώσεων. Οι αλλαγές θα ισχύσουν για το φορολογικό έτος 2026, με κόστος 100-150 εκατ. ευρώ.</summary>
+  </entry>
+  <entry>
+    <title>Κιρ Στάρμερ: «Φεύγω με χαμόγελο»</title>
+    <link href="https://www.kathimerini.gr/world/564355036/kir-starmer-feygo-me-chamogelo/"/>
+    <id>urn:kathimerini:e58f8b18b999</id>
+    <updated>2026-07-20T13:44:36+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Ο Κιρ Στάρμερ εκφώνησε την αποχαιρετιστήρια ομιλία του έξω από την Ντάουνινγκ Στριτ, δηλώνοντας «το έργο μου ολοκληρώθηκε» και ότι παραδίδει τη χώρα σε καλύτερη κατάσταση από όση την παρέλαβε. Ευχήθηκε «κάθε επιτυχία» στον διάδοχό του Άντι Μπέρναμ και αποχώρησε, όπως είπε, «με αξιοπρέπεια, καλή διάθεση και χαμόγελο».</summary>
+  </entry>
+  <entry>
+    <title>Πυρκαγιά στο Μάτι: Στην Εισαγγελία του Αρείου Πάγου προσφεύγει ο Σύλλογος Συγγενών Θανόντων και Εγκαυματιών</title>
+    <link href="https://www.kathimerini.gr/society/564355066/pyrkagia-sto-mati-stin-eisaggelia-toy-areioy-pagoy-prosfeygei-o-syllogos-syggenon-thanonton-kai-egkaymation/"/>
+    <id>urn:kathimerini:16c28a990e09</id>
+    <updated>2026-07-20T14:11:26+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="society"/>
+    <summary>Ο Σύλλογος Συγγενών Θανόντων και Εγκαυματιών της πυρκαγιάς στο Μάτι προσέφυγε στην Εισαγγελία του Αρείου Πάγου ζητώντας πλήρη διερεύνηση ανοιχτών ζητημάτων: χώρο ομαδικής ταφής αταυτοποίητων υπολειμμάτων στη Νέα Μάκρη, τη διαχείριση σορού που εντοπίστηκε στη θάλασσα και περιστατικά λανθασμένης παράδοσης ανθρώπινων υπολειμμάτων.</summary>
   </entry>
   <entry>
-    <title>Φορολογικό μπόνους για αποταμίευση</title>
-    <link href="https://www.kathimerini.gr/economy/564352354/forologiko-mponoys-gia-apotamieysi/"/>
-    <id>urn:kathimerini:dcfcc762d7ad</id>
-    <updated>2026-07-19T08:08:29+00:00</updated>
-    <author><name>Θάνος Τσίρος</name></author>
-    <summary>Το νομοσχέδιο για την επαγγελματική ασφάλιση ενσωματώνει ισχυρά φορολογικά κίνητρα αποταμίευσης: έως και 35% του μεικτού μισθού θα εκπίπτει από το φορολογητέο εισόδημα για συστηματική επένδυση, με χαμηλούς συντελεστές 2,5%-10% κατά την εκταμίευση, έναντι 20%-39% στις συντάξεις σήμερα. Στόχος είναι η οικοδόμηση συμπληρωματικού κεφαλαίου σύνταξης και η ώθηση των συλλογικών διαπραγματεύσεων.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Σεισμοί στη Βενεζουέλα: Στους 5.119 οι νεκροί – Αγνωστος ο αριθμός των αγνοουμένων</title>
-    <link href="https://www.kathimerini.gr/world/564353755/seismoi-sti-venezoyela-stoys-5-119-oi-nekroi-agnostos-o-arithmos-ton-agnooymenon/"/>
-    <id>urn:kathimerini:271053493680</id>
-    <updated>2026-07-19T08:17:47+00:00</updated>
+    <title>Καύσωνας: Σε ετοιμότητα ο κρατικός μηχανισμός – Οι συστάσεις του Ιατρικού Συλλόγου Αθηνών</title>
+    <link href="https://www.kathimerini.gr/society/564354667/kaysonas-se-etoimotita-o-kratikos-michanismos-oi-systaseis-toy-iatrikoy-syllogoy-athinon/"/>
+    <id>urn:kathimerini:2b59b22569e4</id>
+    <updated>2026-07-20T11:53:58+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο απολογισμός του διπλού σεισμού της 24ης Ιουνίου στη Βενεζουέλα ανήλθε στους 5.119 νεκρούς, με 50 επιπλέον θανάτους το τελευταίο 24ωρο και 16.740 τραυματίες. Οι αρχές δεν ανακοινώνουν αριθμό αγνοουμένων· ο ΟΗΕ είχε αρχικά εκτιμήσει έως και 50.000.</summary>
-    <category term="world"/>
+    <category term="society"/>
+    <summary>Σε πλήρη ετοιμότητα ο κρατικός μηχανισμός ενόψει της κορύφωσης του καύσωνα, με προβλέψεις για 39-41 βαθμούς στα ηπειρωτικά έως την Τετάρτη. Ο Δήμος Αθηναίων ανοίγει επτά κλιματιζόμενες Λέσχες Φιλίας (9 π.μ. – 9 μ.μ.), ενώ ο Ιατρικός Σύλλογος Αθηνών εξέδωσε συστάσεις προστασίας για τις ευπαθείς ομάδες.</summary>
   </entry>
   <entry>
-    <title>Είναι φούσκα ή δεν είναι;</title>
-    <link href="https://www.kathimerini.gr/economy/564351592/einai-foyska-i-den-einai/"/>
-    <id>urn:kathimerini:7393b9903761</id>
-    <updated>2026-07-18T12:47:36+00:00</updated>
+    <title>Χριστοδουλίδης: «Χρέος μας ο τερματισμός της κατοχής – Στόχος η διευρυμένη διάσκεψη για το Κυπριακό»</title>
+    <link href="https://www.kathimerini.gr/world/564354928/christodoylidis-chreos-mas-o-termatismos-tis-katochis-stochos-i-dieyrymeni-diaskepsi-gia-to-kypriako/"/>
+    <id>urn:kathimerini:4cadf3564ddf</id>
+    <updated>2026-07-20T13:13:26+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Στην 52η επέτειο της τουρκικής εισβολής, ο πρόεδρος της Κύπρου Νίκος Χριστοδουλίδης δεσμεύτηκε για τερματισμό της κατοχής και επανένωση, θέτοντας ως στόχο τη σύγκληση διευρυμένης διάσκεψης κατά την επίσκεψη Γκουτέρες που θα σηματοδοτήσει την επανέναρξη των συνομιλιών. «Όλα εξαρτώνται από την αντίδραση της Τουρκίας», τόνισε, συνδέοντας τις ευρωτουρκικές σχέσεις με πρόοδο στο Κυπριακό.</summary>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης για τα 52 χρόνια από την τουρκική εισβολή στην Κύπρο: «Δεν ξεχνούμε, επαγρυπνούμε»</title>
+    <link href="https://www.kathimerini.gr/politics/564354682/mitsotakis-gia-ta-52-chronia-apo-tin-toyrkiki-eisvoli-stin-kypro-den-xechnoyme-epagrypnoyme/"/>
+    <id>urn:kathimerini:2bd28b5986ff</id>
+    <updated>2026-07-20T10:46:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary>Με ανάρτησή του για τα 52 χρόνια από την τουρκική εισβολή στην Κύπρο, ο Κυριάκος Μητσοτάκης δήλωσε «δεν ξεχνούμε, επαγρυπνούμε», θέτοντας ως στόχο μια Κύπρο επανενωμένη, χωρίς κατοχικό στρατό και ξεπερασμένα συστήματα εγγυήσεων. Χαρακτήρισε την πρωτοβουλία του γ.γ. του ΟΗΕ ευκαιρία επίλυσης στη βάση του πλαισίου των Ηνωμένων Εθνών.</summary>
+  </entry>
+  <entry>
+    <title>Ξένες επενδύσεις 12,4 δισ. στα ακίνητα σε μία επταετία</title>
+    <link href="https://www.kathimerini.gr/economy/564352444/xenes-ependyseis-12-4-dis-sta-akinita-se-mia-eptaetia/"/>
+    <id>urn:kathimerini:cd6fad9744f6</id>
+    <updated>2026-07-19T21:57:04+00:00</updated>
+    <author><name>Νίκος Ρουσάνογλου</name></author>
+    <category term="economy"/>
+    <summary>Ξένα κεφάλαια 12,4 δισ. ευρώ εισέρρευσαν στην ελληνική αγορά ακινήτων την περίοδο 2019-2025, έναντι μόλις 3,38 δισ. σε όλη την περίοδο 2002-2018, σύμφωνα με την ΤτΕ. Το 2023-2024 ένα στα δύο ευρώ ξένων επενδύσεων κατευθυνόταν στο real estate, ενώ το 2025 οι ξένες αγορές ακινήτων (2,05 δισ.) αντιστοιχούσαν στο 8,7% των συνολικών αγοραπωλησιών.</summary>
+  </entry>
+  <entry>
+    <title>Την απόρριψη των αιτημάτων για αναβολή της δίκης πρότεινε η εισαγγελέας: «Καμία εξάρτηση μεταξύ των δύο δικογραφιών»</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564354907/tin-aporripsi-ton-aitimaton-gia-anavoli-tis-dikis-proteine-i-eisaggeleas-kamia-exartisi-metaxy-ton-dyo-dikografion/"/>
+    <id>urn:kathimerini:ca0e38376e3e</id>
+    <updated>2026-07-20T12:56:06+00:00</updated>
+    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <category term="society"/>
+    <summary>Στη δίκη για το δυστύχημα των Τεμπών, η εισαγγελέας του Τριμελούς Εφετείου Κακουργημάτων Λάρισας πρότεινε την απόρριψη των αιτημάτων αναβολής που υπέβαλαν συνήγοροι στελεχών της ΕΡΓΟΣΕ, κρίνοντας ότι δεν υπάρχει «καμία εξάρτηση» με τη δικογραφία της Ευρωπαϊκής Εισαγγελίας. Κοινό σημείο των δύο υποθέσεων είναι η σύμβαση 717 για τη σηματοδότηση.</summary>
+  </entry>
+  <entry>
+    <title>«Οδύσσεια»: Σάρωσε το παγκόσμιο box office – Πάνω από 264 εκατ. δολάρια τα έσοδα</title>
+    <link href="https://www.kathimerini.gr/culture/cinema/564354277/odysseia-sarose-ta-pagkosmia-box-office-pano-apo-264-ekat-dolaria-ta-esoda/"/>
+    <id>urn:kathimerini:6e3eed572ea0</id>
+    <updated>2026-07-20T07:50:08+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="culture"/>
+    <summary>Η «Οδύσσεια» του Κρίστοφερ Νόλαν σάρωσε το παγκόσμιο box office με έσοδα 264 εκατ. δολαρίων το πρώτο Σαββατοκύριακο — καλύτερη πρεμιέρα και από το «Oppenheimer». Στη Βόρεια Αμερική απέφερε 124,5 εκατ., τρίτη καλύτερη πρεμιέρα της χρονιάς παρά τη σήμανση R, με πρωταγωνιστές τους Ματ Ντέιμον, Τομ Χόλαντ, Αν Χάθαγουεϊ και Ζεντάγια.</summary>
+  </entry>
+  <entry>
+    <title>Η ανάπτυξη αλλάζει χαρακτήρα</title>
+    <link href="https://www.kathimerini.gr/economy/564352501/i-anaptyxi-allazei-charaktira/"/>
+    <id>urn:kathimerini:95a0bc28d02e</id>
+    <updated>2026-07-19T22:41:38+00:00</updated>
     <author><name>Νίκος Φιλιππίδης</name></author>
-    <summary>Οι μετοχές εταιρειών κατασκευής τσιπ βυθίζονται, με τον δείκτη Philadelphia Semiconductor να χάνει 8,5% σε μία εβδομάδα και 19% από το ρεκόρ του Ιουνίου, καθώς οι επενδυτές αναρωτιούνται αν οι αποτιμήσεις της τεχνητής νοημοσύνης συνιστούν φούσκα. Η σύγκριση με τα dot-com του 2000 είναι πιθανότατα λαθεμένη: σήμερα η αγορά καθοδηγείται από κερδοφόρες επιχειρήσεις, αλλά το ερώτημα των αποτιμήσεων παραμένει.</summary>
     <category term="economy"/>
+    <summary>Σύμφωνα με την Τράπεζα της Ελλάδος, στο α΄ τρίμηνο του 2026 οι επενδύσεις πρόσθεσαν 2 ποσοστιαίες μονάδες στο ΑΕΠ και οι καθαρές εξαγωγές 0,5, έναντι μόλις 0,6 της ιδιωτικής κατανάλωσης. Η ελληνική οικονομία μετατοπίζεται σταδιακά από καταναλωτικό σε πιο επενδυτικό και εξαγωγικό μοντέλο ανάπτυξης.</summary>
   </entry>
   <entry>
-    <title>Το χρονικό της εξιχνίασης 16 χρόνια μετά</title>
-    <link href="https://www.kathimerini.gr/society/564351934/to-chroniko-tis-exichniasis-16-chronia-meta/"/>
-    <id>urn:kathimerini:9725f4e6c026</id>
-    <updated>2026-07-19T12:26:01+00:00</updated>
-    <author><name>Γιάννης Σουλιώτης</name></author>
-    <summary>Δεκαέξι χρόνια μετά τον εμπρησμό της Marfin με τους τρεις νεκρούς, η «Κ» ανασυνθέτει το χρονικό της εξιχνίασης: πώς η αναψηλάφηση — με αφετηρία ανώνυμο e-mail — οδήγησε σε νέα ευρήματα από τα εγκληματολογικά εργαστήρια και στην ταυτοποίηση τριών κατηγορουμένων. Παραμένουν ερωτήματα για τη μεθοδολογία της έρευνας και τη θέση της υπεράσπισης.</summary>
+    <title>Μεσσηνία: Οι καταθέσεις και οι διάλογοι που «καίνε» τους τρεις φερόμενους εμπρηστές</title>
+    <link href="https://www.kathimerini.gr/society/564354937/messinia-oi-katatheseis-kai-oi-dialogoi-poy-kaine-toys-treis-feromenoys-empristes/"/>
+    <id>urn:kathimerini:b6dbfb197345</id>
+    <updated>2026-07-20T13:22:31+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
     <category term="society"/>
+    <summary>Πρόεδρος χωριού, ο αδελφός του και πυροσβέστης πενταετούς υποχρέωσης κατηγορούνται για τουλάχιστον επτά εμπρησμούς το 2024-2025 στη Μεσσηνία, με στόχο αντίποινα και εκβιασμούς. Η πολύμηνη έρευνα της ΔΑΕΕ αποκάλυψε καταστροφές ελαιόδεντρων, κλοπές και φερόμενο εκβιασμό αγροτών ακόμη και μέσω της διαχείρισης του αρδευτικού νερού.</summary>
   </entry>
   <entry>
-    <title>Επίθεση Πολάκη κατά Φάμελλου και Τσίπρα: Αντιμετωπίζουμε σχέδιο διάλυσης του ΣΥΡΙΖΑ</title>
-    <link href="https://www.kathimerini.gr/politics/564353227/epithesi-polaki-kata-famelloy-kai-tsipra-antimetopizoyme-schedio-dialysis-toy-syriza/"/>
-    <id>urn:kathimerini:1f62c2bbd141</id>
-    <updated>2026-07-18T14:25:19+00:00</updated>
+    <title>Κομισιόν: «Καμπάνα» 550 εκατ. ευρώ στο AliExpress – Γιατί τιμωρήθηκε η κινεζική πλατφόρμα</title>
+    <link href="https://www.kathimerini.gr/world/564354910/komision-kampana-550-ekat-eyro-sto-aliexpress-giati-timorithike-i-kineziki-platforma/"/>
+    <id>urn:kathimerini:5b1c9309c433</id>
+    <updated>2026-07-20T13:00:26+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο Παύλος Πολάκης, από το βήμα της Κεντρικής Επιτροπής του ΣΥΡΙΖΑ, κατηγόρησε τον Σωκράτη Φάμελλο και τον Αλέξη Τσίπρα για «σχέδιο διάλυσης» του κόμματος, υποστηρίζοντας ότι το νέο εγχείρημα Τσίπρα προϋποθέτει τη διάλυση του ΣΥΡΙΖΑ. Συνεχάρη τη Ρένα Δούρου για την εκλογή της στην προεδρία της Κ.Ο., σημειώνοντας ότι αποσύρθηκε χάριν ενότητας.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Ιορδανία: Εκκενώθηκαν αεροδρόμιο και λιμάνι λόγω «αξιόπιστης απειλής» – Διαψεύδει το Αμμάν</title>
-    <link href="https://www.kathimerini.gr/world/564353899/iordania-ekkenothikan-aerodromio-kai-limani-logo-axiopistis-apeilis/"/>
-    <id>urn:kathimerini:872bf98ef60b</id>
-    <updated>2026-07-19T13:39:24+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Η πρεσβεία των ΗΠΑ ανακοίνωσε ότι το αεροδρόμιο και το λιμάνι της Άκαμπα στην Ιορδανία εκκενώθηκαν λόγω «συγκεκριμένης και αξιόπιστης απειλής», συνιστώντας στους Αμερικανούς να αποφύγουν την περιοχή. Το Αμμάν διαψεύδει ότι εξέδωσε εντολή εκκένωσης ή ότι εντόπισε κίνδυνο.</summary>
     <category term="world"/>
+    <summary>Πρόστιμο 550 εκατ. ευρώ επέβαλε η Κομισιόν στην AliExpress για παραβίαση του κανονισμού ψηφιακών υπηρεσιών (DSA): η πλατφόρμα δεν αξιολόγησε ούτε περιόρισε επαρκώς τους κινδύνους από τη διακίνηση απομιμήσεων, επικίνδυνων καλλυντικών και μη ασφαλών παιχνιδιών την περίοδο 2023-2024, με ανεπαρκές προσωπικό ελέγχου και υπερεκτιμημένα συστήματα εντοπισμού.</summary>
   </entry>
   <entry>
-    <title>Αϊχάν Κιοσέ στην «Κ»: Κίνδυνος για μια χαμένη δεκαετία ανάπτυξης</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564351661/aichan-kiose-stin-k-kindynos-gia-mia-chameni-dekaetia-anaptyxis/"/>
-    <id>urn:kathimerini:523c4c64d050</id>
-    <updated>2026-07-18T11:47:00+00:00</updated>
-    <author><name>Αθανάσιος Κατσικίδης</name></author>
-    <summary>Ο Αϊχάν Κιοσέ, αναπληρωτής επικεφαλής οικονομολόγος της Παγκόσμιας Τράπεζας, προειδοποιεί στην «Κ» ότι η παγκόσμια ανάπτυξη θα επιβραδυνθεί από 2,9% το 2025 σε 2,5% το 2026 — τον χαμηλότερο ρυθμό από την πανδημία — λόγω του πολέμου στον Κόλπο. Οι αναδυόμενες οικονομίες κινδυνεύουν με «χαμένη δεκαετία» ανάπτυξης αν δεν αποκλιμακωθούν οι γεωπολιτικές εντάσεις.</summary>
-    <category term="economy"/>
+    <title>Η Κύπρος και η εξίσωση της ασφάλειας στην Ανατολική Μεσόγειο</title>
+    <link href="https://www.kathimerini.gr/opinion/564352027/i-kypros-kai-i-exisosi-tis-asfaleias-stin-anatoliki-mesogeio/"/>
+    <id>urn:kathimerini:81d36818b738</id>
+    <updated>2026-07-20T12:20:00+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <category term="opinion"/>
+    <summary>Ο Κωνσταντίνος Φίλης αναλύει τη θέση της Κύπρου στην εξίσωση ασφάλειας της Ανατολικής Μεσογείου, με τον αμερικανικό παράγοντα άλλοτε σε ρόλο οδηγού και άλλοτε ακολουθώντας τους εταίρους του. Ορισμένοι κύκλοι συνδέουν το Κυπριακό με την ευρωπαϊκή άμυνα και το ΝΑΤΟ, υποστηρίζοντας ότι όσο μένει άλυτο υπονομεύει αμερικανικά και ευρωπαϊκά συμφέροντα.</summary>
   </entry>
   <entry>
-    <title>«Είναι εγκληματίας πολέμου»: Ο Μαμντάνι εξετάζει την πιθανότητα σύλληψης του Νετανιάχου</title>
-    <link href="https://www.kathimerini.gr/world/564353671/einai-egklimatias-polemoy-o-mamntani-exetazei-tin-pithanotita-syllipsis-toy-netaniachoy/"/>
-    <id>urn:kathimerini:d83c865e302f</id>
-    <updated>2026-07-18T22:56:09+00:00</updated>
+    <title>Μίνι καύσωνας: Συνεδριάζει η Επιτροπή Εκτίμησης Κινδύνου</title>
+    <link href="https://www.kathimerini.gr/politics/564353980/mini-kaysonas-synedriazei-i-epitropi-ektimisis-kindyno-gia-ton-eperchomeno-mini-kyma-kaysona/"/>
+    <id>urn:kathimerini:f23baec6f910</id>
+    <updated>2026-07-19T16:14:20+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο δήμαρχος της Νέας Υόρκης Ζοχράν Μαμντάνι δήλωσε στους NYT ότι εξετάζει σε νομικό επίπεδο τη δυνατότητα σύλληψης του Μπενιαμίν Νετανιάχου στη Γενική Συνέλευση του ΟΗΕ τον Σεπτέμβριο, χαρακτηρίζοντάς τον «εγκληματία πολέμου» που διώκεται από το ΔΠΔ. Η τοποθέτηση προκάλεσε έντονη αντίδραση του Ισραηλινού πρέσβη στον ΟΗΕ.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Χωρίς delivery ο τελικός του Μουντιάλ: Στάση εργασίας των διανομέων με αφορμή τον θάνατο συναδέλφου τους</title>
-    <link href="https://www.kathimerini.gr/society/564353866/stasi-ergasias-ton-ergazomenon-dianomeon-simera-to-apogeyma/"/>
-    <id>urn:kathimerini:f585d9ca8283</id>
-    <updated>2026-07-19T12:49:34+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Τα σωματεία διανομέων e-food και Wolt στην Αττική πραγματοποιούν στάση εργασίας από τις 19:00 έως τα μεσάνυχτα, την ώρα του τελικού του Μουντιάλ, με αφορμή τον θάνατο 20χρονου διανομέα σε τροχαίο στη Μεσογείων. Διεκδικούν σταθερή εργασία, επαρκή εισοδήματα και μέτρα ασφάλειας, καταγγέλλοντας εξαντλητικά ωράρια και πληρωμή με το κομμάτι.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Συνάντηση του Αρχιεπισκόπου Συμεών με τον Μπούλος – Μήνυμα στήριξης για τη διατήρηση του status quo</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564353611/moni-sina-synantisi-toy-archiepiskopoy-symeon-me-ton-masant-mpoylos-gia-ti-diatirisi-toy-status-quo/"/>
-    <id>urn:kathimerini:b57df6af82d3</id>
-    <updated>2026-07-18T20:50:37+00:00</updated>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <summary>Ο Αρχιεπίσκοπος Σινά Συμεών συναντήθηκε στο Κάιρο με τον Μασάντ Μπούλος, ανώτερο σύμβουλο του Ντόναλντ Τραμπ για τη Μέση Ανατολή, ο οποίος μετέφερε το προσωπικό ενδιαφέρον του Αμερικανού προέδρου για τη διατήρηση του ιστορικού status quo της Μονής Σινά. Η συνάντηση εντάσσεται στην κινητικότητα για την επίλυση των εκκρεμών ιδιοκτησιακών ζητημάτων της Μονής.</summary>
     <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Νίκος Παππάς στην Κεντρική Επιτροπή: «Ο ΣΥΡΙΖΑ είναι εδώ, όρθιος»</title>
-    <link href="https://www.kathimerini.gr/politics/564353101/nikos-pappas-stin-kentriki-epitropi-o-syriza-einai-edo-orthios/"/>
-    <id>urn:kathimerini:9a1eaf7abdfd</id>
-    <updated>2026-07-18T12:36:49+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Ο Νίκος Παππάς, εισηγούμενος στην Κεντρική Επιτροπή του ΣΥΡΙΖΑ, έστειλε μήνυμα ανασυγκρότησης: «Ο ΣΥΡΙΖΑ είναι εδώ και είναι όρθιος», παρά τις «μεθοδεύσεις» για να κλείσει ο κύκλος του κόμματος. Δεσμεύτηκε ότι το κόμμα θα συμμετάσχει στις επόμενες εκλογές, θα μπει στη Βουλή και θα πρωταγωνιστήσει στις διεργασίες της Αριστεράς.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Κατεβάζει ταχύτητα η «πράσινη μετάβαση» στην Ευρώπη</title>
-    <link href="https://www.kathimerini.gr/economy/international/564351616/katevazei-tachytita-i-prasini-metavasi-stin-eyropi/"/>
-    <id>urn:kathimerini:87a60df3030e</id>
-    <updated>2026-07-18T12:10:45+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <summary>Η Κομισιόν, αναθεωρώντας το σύστημα εμπορίας ρύπων (ETS), δίνει περισσότερο χρόνο και οικονομικά κίνητρα στις ευρωπαϊκές βιομηχανίες για τη μείωση εκπομπών, χωρίς να αλλάζει τους στόχους για μείωση 90% έως το 2040 και κλιματική ουδετερότητα έως το 2050. Η κύρια αλλαγή είναι η επιβράδυνση του ρυθμού μείωσης των διαθέσιμων δικαιωμάτων μετά το 2030.</summary>
-    <category term="economy"/>
+    <summary>Η Επιτροπή Εκτίμησης Κινδύνου συνεδρίασε ενόψει του μίνι καύσωνα που θα διαρκέσει έως την Τετάρτη, με τον υδράργυρο να αγγίζει ή να ξεπερνά τοπικά τους 40 βαθμούς Δευτέρα και Τρίτη. Ο κρατικός μηχανισμός τίθεται σε αυξημένη ετοιμότητα για τον κίνδυνο πυρκαγιών και τις επιπτώσεις στην υγεία.</summary>
   </entry>
 </feed>
