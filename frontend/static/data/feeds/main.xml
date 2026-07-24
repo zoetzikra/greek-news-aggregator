@@ -1,189 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>Greek News Aggregator — Kathimerini Daily Digest</title>
- <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
- <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
- <id>https://zoetzikra.github.io/greek-news-aggregator/</id>
- <updated>2026-07-23T11:16:19Z</updated>
- <subtitle>Top 20 stories of 2026-07-23 by importance</subtitle>
-<entry>
-  <title>ΝΥΤ: Το Ιράν μπορεί ακόμη να κάνει ζημιά σε αμερικανικούς στόχους – Τι δείχνουν δορυφορικές εικόνες</title>
-  <link href="https://www.kathimerini.gr/world/564361327/nyt-to-iran-mporei-akomi-na-kanei-zimia-se-amerikanikoys-stochoys-ti-deichnoyn-doryforikes-eikones/"/>
-  <id>https://www.kathimerini.gr/world/564361327/nyt-to-iran-mporei-akomi-na-kanei-zimia-se-amerikanikoys-stochoys-ti-deichnoyn-doryforikes-eikones/</id>
-  <updated>2026-07-23T12:22:40+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="world"/>
-  <summary>Οι Φρουροί της Επανάστασης ισχυρίζονται ότι κατέστρεψαν αμερικανικό ραντάρ THAAD στην Ιορδανία και σύστημα Patriot, σε αντίποινα για τους βομβαρδισμούς 12ης συνεχόμενης νύχτας. Δορυφορικές εικόνες που επικαλούνται οι NYT δείχνουν ότι το Ιράν διατηρεί ικανότητα πληγμάτων κατά αμερικανικών στόχων, παρά τους ισχυρισμούς Τραμπ.</summary>
-</entry>
-<entry>
-  <title>Ε.Ε.: Πρόστιμο – μαμούθ 890 εκατ. ευρώ στην Google</title>
-  <link href="https://www.kathimerini.gr/world/564361594/e-e-prostimo-mamoyth-890-ekat-eyro-stin-google/"/>
-  <id>https://www.kathimerini.gr/world/564361594/e-e-prostimo-mamoyth-890-ekat-eyro-stin-google/</id>
-  <updated>2026-07-23T13:02:48+00:00</updated>
-  <author><name>Αλεξάνδρα Βουδούρη</name></author>
-  <category term="world"/>
-  <summary>Η Κομισιόν επέβαλε στην Google πρόστιμο-ρεκόρ 890 εκατ. ευρώ, το μεγαλύτερο βάσει του Κανονισμού Ψηφιακών Αγορών: 460 εκατ. για προνομιακή μεταχείριση υπηρεσιών της στο Google Search και 430 εκατ. για περιορισμούς σε δημιουργούς εφαρμογών μέσω του Google Play.</summary>
-</entry>
-<entry>
-  <title>Αλμα στις αποδόσεις ομολόγων της Ευρωζώνης λόγω πετρελαίου</title>
-  <link href="https://www.kathimerini.gr/visual/infographics/564360853/alma-stis-apodoseis-omologon-tis-eyrozonis-logo-petrelaioy/"/>
-  <id>https://www.kathimerini.gr/visual/infographics/564360853/alma-stis-apodoseis-omologon-tis-eyrozonis-logo-petrelaioy/</id>
-  <updated>2026-07-23T08:48:10+03:00</updated>
-  <author><name>Ελευθερία Κούρταλη</name></author>
-  <category term="economy"/>
-  <summary>Οι αποδόσεις των ομολόγων της Ευρωζώνης εκτοξεύθηκαν σε επίπεδα κρίσης χρέους λόγω της ανόδου πετρελαίου και φυσικού αερίου που τροφοδοτεί προσδοκίες πληθωρισμού και αυξήσεων επιτοκίων από την ΕΚΤ. Το 10ετές γερμανικό έφτασε το 3,19% (υψηλό από το 2011), το γαλλικό άγγιξε το 4% και το ιταλικό ξεπέρασε το 4%.</summary>
-</entry>
-<entry>
-  <title>Ρούμπιο: Το Ιράν αθετεί συνεχώς συμφωνίες – Τώρα «πληρώνει το τίμημα»</title>
-  <link href="https://www.kathimerini.gr/world/564361354/roympio-to-iran-athetei-synechos-symfonies-tora-plironei-to-timima/"/>
-  <id>https://www.kathimerini.gr/world/564361354/roympio-to-iran-athetei-synechos-symfonies-tora-plironei-to-timima/</id>
-  <updated>2026-07-23T11:46:19+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="world"/>
-  <summary>Ο Μάρκο Ρούμπιο δήλωσε ότι το Ιράν «αθετεί συνεχώς συμφωνίες» και τώρα «πληρώνει το τίμημα», καθώς υφίσταται «τεράστιες απώλειες» από τους αμερικανικούς βομβαρδισμούς. Άφησε ανοιχτό το ενδεχόμενο η Τεχεράνη «να αλλάξει γνώμη τις επόμενες ημέρες».</summary>
-</entry>
-<entry>
-  <title>Ν. Δένδιας: Το ΚΥΣΕΑ ενέκρινε την «Ασπίδα του Αχιλλέα» και δέκα ακόμη εξοπλιστικά προγράμματα</title>
-  <link href="https://www.kathimerini.gr/politics/amyna/564361666/n-dendias-to-kysea-enekrine-tin-aspida-toy-achillea-kai-deka-akomi-exoplistika-programmata/"/>
-  <id>https://www.kathimerini.gr/politics/amyna/564361666/n-dendias-to-kysea-enekrine-tin-aspida-toy-achillea-kai-deka-akomi-exoplistika-programmata/</id>
-  <updated>2026-07-23T13:36:11+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="politics"/>
-  <summary>Ο Νίκος Δένδιας ανακοίνωσε ότι το ΚΥΣΕΑ ενέκρινε την «Ασπίδα του Αχιλλέα» — αντιαεροπορικό, αντιβαλλιστικό και antidrone θόλο — και δέκα ακόμη εξοπλιστικά προγράμματα, μεταξύ των οποίων συστήματα HERON 1, μικρούς δορυφόρους SAR υπό εθνικό έλεγχο και επιπλέον UAV τύπου V-BAT.</summary>
-</entry>
-<entry>
-  <title>Η κλιμάκωση του πολέμου ΗΠΑ – Ιράν απειλεί την παγκόσμια ανάπτυξη</title>
-  <link href="https://www.kathimerini.gr/economy/international/564360784/i-klimakosi-toy-polemoy-ipa-iran-apeilei-tin-pagkosmia-anaptyxi/"/>
-  <id>https://www.kathimerini.gr/economy/international/564360784/i-klimakosi-toy-polemoy-ipa-iran-apeilei-tin-pagkosmia-anaptyxi/</id>
-  <updated>2026-07-23T10:37:00+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="economy"/>
-  <summary>Η κλιμάκωση του πολέμου ΗΠΑ–Ιράν απειλεί να ρίξει την παγκόσμια ανάπτυξη έως και στο 1,3% από 2,9% το 2025, προειδοποιεί ο επικεφαλής οικονομολόγος της Παγκόσμιας Τράπεζας Ιντερμίτ Γκιλ, με κίνδυνο αναζωπύρωσης πληθωρισμού, αυξήσεων επιτοκίων και επιδείνωσης του χρέους των αναπτυσσόμενων οικονομιών.</summary>
-</entry>
-<entry>
-  <title>Βουλή: Στην Ολομέλεια η αναθεώρηση του Συντάγματος</title>
-  <link href="https://www.kathimerini.gr/politics/parliament/564360889/voyli-stin-olomeleia-i-anatheorisi-toy-syntagmatos/"/>
-  <id>https://www.kathimerini.gr/politics/parliament/564360889/voyli-stin-olomeleia-i-anatheorisi-toy-syntagmatos/</id>
-  <updated>2026-07-23T07:25:21+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="politics"/>
-  <summary>Στην Ολομέλεια της Βουλής εισέρχεται η τελική φάση της συζήτησης για την αναθεώρηση του Συντάγματος που πρότεινε η Ν.Δ., με 30 και πλέον διατάξεις υπό εξέταση. Η αντιπολίτευση δεν θα δώσει θετική ψήφο σε αυτή τη φάση, κρατώντας το διαπραγματευτικό πλεονέκτημα για την επόμενη, Αναθεωρητική Βουλή.</summary>
-</entry>
-<entry>
-  <title>Οι ΗΠΑ εξετάζουν ρωσική εμπλοκή σε ιρανικές επιθέσεις</title>
-  <link href="https://www.kathimerini.gr/world/564361615/oi-ipa-exetazoyn-rosiki-emploki-se-iranikes-epitheseis/"/>
-  <id>https://www.kathimerini.gr/world/564361615/oi-ipa-exetazoyn-rosiki-emploki-se-iranikes-epitheseis/</id>
-  <updated>2026-07-23T13:11:59+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="world"/>
-  <summary>Αμερικανοί αναλυτές διερευνούν πιθανή ρωσική βοήθεια στο Ιράν για επιθέσεις drones κατά εγκαταστάσεων της CIA στον Κόλπο, σύμφωνα με το Reuters. Το Κρεμλίνο αρνήθηκε να σχολιάσει· οριστικά συμπεράσματα δεν έχουν εξαχθεί.</summary>
-</entry>
-<entry>
-  <title>Κύπρος: Η Τουρκία χτίζει ενεργειακή «γέφυρα» προς τα Κατεχόμενα</title>
-  <link href="https://www.kathimerini.gr/politics/564360352/kypros-i-toyrkia-chtizei-energeiaki-gefyra-pros-ta-katechomena/"/>
-  <id>https://www.kathimerini.gr/politics/564360352/kypros-i-toyrkia-chtizei-energeiaki-gefyra-pros-ta-katechomena/</id>
-  <updated>2026-07-23T11:25:00+00:00</updated>
-  <author><name>Χρύσα Λιάγγου</name></author>
-  <category term="politics"/>
-  <summary>Η Άγκυρα προωθεί υποθαλάσσιο αγωγό φυσικού αερίου προς τα Κατεχόμενα, επιχειρώντας νέα τετελεσμένα στην Αν. Μεσόγειο, ενώ έχει εκδώσει NAVTEX για σεισμικές έρευνες του Oruc Reis έως τις 30 Αυγούστου. Αθήνα και Λευκωσία εκτιμούν ότι το έργο εντάσσεται σε ευρύτερο γεωπολιτικό σχεδιασμό της Τουρκίας.</summary>
-</entry>
-<entry>
-  <title>Σύγκρουση ΣΥΡΙΖΑ με Φάμελλο, ρήξη με Προεδρικό</title>
-  <link href="https://www.kathimerini.gr/politics/parties/564360334/sygkroysi-syriza-me-famello-rixi-me-proedriko/"/>
-  <id>https://www.kathimerini.gr/politics/parties/564360334/sygkroysi-syriza-me-famello-rixi-me-proedriko/</id>
-  <updated>2026-07-23T07:10:13+00:00</updated>
-  <author><name>Αντώνης Αντζολέτος</name></author>
-  <category term="politics"/>
-  <summary>Ο ΣΥΡΙΖΑ στρέφεται κατά των 13 ανεξαρτητοποιημένων βουλευτών του, με πρώτο τον Σωκράτη Φάμελλο, ο οποίος δήλωσε ότι «όσα συμβαίνουν δεν αντιστοιχούν στις αξίες της Αριστεράς». Η Κοινοβουλευτική Ομάδα υπό τη νέα ηγεσία Δούρου–Παππά–Πολάκη δεν θα συμμετάσχει στη δεξίωση του Προεδρικού Μεγάρου για την αποκατάσταση της Δημοκρατίας, βαθαίνοντας τη ρήξη με το Προεδρικό.</summary>
-</entry>
-<entry>
-  <title>Αντιδράσεις στο Ισραήλ για την πυρηνική συμφωνία ΗΠΑ – Σ. Αραβίας: «Ξεκινά κούρσα εξοπλισμών»</title>
-  <link href="https://www.kathimerini.gr/world/564361414/antidraseis-sto-israil-gia-tin-pyriniki-symfonia-ipa-s-aravias-xekina-koyrsa-exoplismon/"/>
-  <id>https://www.kathimerini.gr/world/564361414/antidraseis-sto-israil-gia-tin-pyriniki-symfonia-ipa-s-aravias-xekina-koyrsa-exoplismon/</id>
-  <updated>2026-07-23T11:30:08+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="world"/>
-  <summary>Η πυρηνική συμφωνία ΗΠΑ–Σαουδικής Αραβίας, που επιτρέπει στο Ριάντ αντιδραστήρες με αμερικανική τεχνολογία και εμπλουτισμό ουρανίου, προκαλεί ανησυχία στο Ισραήλ για κούρσα πυρηνικών εξοπλισμών. «Σοβαρή στρατηγική αποτυχία» τη χαρακτήρισε ο Ναφτάλι Μπένετ· εκκρεμεί η έγκριση του Κογκρέσου.</summary>
-</entry>
-<entry>
-  <title>Εντός και Εκτός: Συναγερμός στην Ερυθρά Θάλασσα</title>
-  <link href="https://www.kathimerini.gr/politics/564360355/entos-kai-ektos-synagermos-stin-erythra-thalassa/"/>
-  <id>https://www.kathimerini.gr/politics/564360355/entos-kai-ektos-synagermos-stin-erythra-thalassa/</id>
-  <updated>2026-07-23T07:47:00+00:00</updated>
-  <author><name>Βασίλης Νέδος</name></author>
-  <category term="politics"/>
-  <summary>Η ευρωπαϊκή αποστολή «Ασπίδες» ανέβασε την εκτίμηση απειλής στην Ερυθρά Θάλασσα από χαμηλή σε μεσαία, συμβουλεύοντας πλοία με ισραηλινά, αμερικανικά ή σαουδαραβικά συμφέροντα να αποφύγουν την περιοχή. Πιθανές επιθέσεις περιλαμβάνουν αντιπλοϊκούς πυραύλους και μη επανδρωμένες πλατφόρμες, εν μέσω κλιμάκωσης στον Περσικό Κόλπο.</summary>
-</entry>
-<entry>
-  <title>ΚΥΣΕΑ: Εγκρίθηκαν εξοπλιστικά προγράμματα των Ενόπλων Δυνάμεων</title>
-  <link href="https://www.kathimerini.gr/politics/amyna/564361351/kysea-egkrithikan-exoplistika-programmata-ton-enoplon-dynameon/"/>
-  <id>https://www.kathimerini.gr/politics/amyna/564361351/kysea-egkrithikan-exoplistika-programmata-ton-enoplon-dynameon/</id>
-  <updated>2026-07-23T12:37:02+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="politics"/>
-  <summary>Το ΚΥΣΕΑ υπό τον πρωθυπουργό ενέκρινε εξοπλιστικά προγράμματα των Ενόπλων Δυνάμεων και την Εθνική Στρατηγική για την Ανθεκτικότητα των Κρίσιμων Οντοτήτων 2026-2030. Ο Γεραπετρίτης ενημέρωσε για τις εξελίξεις σε Ιράν και Μέση Ανατολή, ενώ ο Πλεύρης ανέφερε σημαντική μείωση των μεταναστευτικών ροών με αύξηση των επιστροφών.</summary>
-</entry>
-<entry>
-  <title>Βουλή: Η κυβέρνηση αποσύρει την πρόταση για ασυμβίβαστο υπουργού – βουλευτή</title>
-  <link href="https://www.kathimerini.gr/politics/564361477/voyli-i-kyvernisi-aposyrei-tin-protasi-gia-asymvivasto-ypoyrgoy-voyleyti/"/>
-  <id>https://www.kathimerini.gr/politics/564361477/voyli-i-kyvernisi-aposyrei-tin-protasi-gia-asymvivasto-ypoyrgoy-voyleyti/</id>
-  <updated>2026-07-23T12:00:19+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="politics"/>
-  <summary>Η κυβέρνηση απέσυρε την πρόταση αναθεώρησης του άρθρου 81 για το ασυμβίβαστο βουλευτή–υπουργού, όπως ανακοίνωσε ο εισηγητής της Ν.Δ. Ευριπίδης Στυλιανίδης στην έναρξη της τριήμερης συζήτησης στην Ολομέλεια. Η απόσυρση παρουσιάστηκε ως ένδειξη «πολιτικής ανωτερότητας» και σεβασμού στη διαδικασία.</summary>
-</entry>
-<entry>
-  <title>Προσήχθησαν οι ιατροδικαστές Χανίων και Ηρακλείου – Κατηγορούνται ότι αλλοίωναν εξετάσεις</title>
-  <link href="https://www.kathimerini.gr/society/564361657/prosichthi-o-iatrodikastis-chanion-kai-alloi-4-katigoroyntai-oti-alloionan-exetaseis/"/>
-  <id>https://www.kathimerini.gr/society/564361657/prosichthi-o-iatrodikastis-chanion-kai-alloi-4-katigoroyntai-oti-alloionan-exetaseis/</id>
-  <updated>2026-07-23T13:25:56+00:00</updated>
-  <author><name>Αλκης Παππάς</name></author>
-  <category term="society"/>
-  <summary>Οι ιατροδικαστές Χανίων και Ηρακλείου προσήχθησαν μαζί με τοξικολόγο και δικηγόρο σε επιχείρηση της ΕΛ.ΑΣ. στην Κρήτη, κατηγορούμενοι ότι αλλοίωναν εξετάσεις προς όφελος κατηγορουμένων για ευνοϊκότερη ποινική μεταχείριση. Αντιμετωπίζουν κακουργηματικές κατηγορίες.</summary>
-</entry>
-<entry>
-  <title>Πόσο κρίσιμη είναι η μάχη του Κέντρου;</title>
-  <link href="https://www.kathimerini.gr/politics/564352003/poso-krisimi-einai-i-machi-toy-kentroy/"/>
-  <id>https://www.kathimerini.gr/politics/564352003/poso-krisimi-einai-i-machi-toy-kentroy/</id>
-  <updated>2026-07-22T20:10:52+00:00</updated>
-  <author><name>Αγγελική Σπανού</name></author>
-  <category term="politics"/>
-  <summary>Η μάχη για τον χώρο του Κέντρου αναδεικνύεται σε κεντρικό εκλογικό διακύβευμα για Ν.Δ., ΠΑΣΟΚ και ΕΛΑΣ, καθώς εκεί βρίσκονται οι περισσότεροι μετακινούμενοι ψηφοφόροι. Ο Γιώργος Αράπογλου της Pulse σημειώνει ότι το παραδοσιακό Κέντρο αποδυναμώνεται όσο εντείνεται η πόλωση και ενισχύονται λαϊκισμός και αντισυστημισμός.</summary>
-</entry>
-<entry>
-  <title>Τέσσερις παρεμβάσεις για την αντιμετώπιση του στεγαστικού προβλήματος</title>
-  <link href="https://www.kathimerini.gr/economy/local/564360736/tesseris-paremvaseis-gia-tin-antimetopisi-toy-stegastikoy-provlimatos/"/>
-  <id>https://www.kathimerini.gr/economy/local/564360736/tesseris-paremvaseis-gia-tin-antimetopisi-toy-stegastikoy-provlimatos/</id>
-  <updated>2026-07-23T10:58:00+00:00</updated>
-  <author><name>Ρούλα Σαλούρου</name></author>
-  <category term="economy"/>
-  <summary>Ο νέος νόμος του υπουργείου Κοινωνικής Συνοχής φέρνει τέσσερις στεγαστικές παρεμβάσεις: πλήρη φοροαπαλλαγή μισθωμάτων για κοινωνική κατοικία, δημιουργία 2.000 κατοικιών σε ανενεργά στρατόπεδα, επιτάχυνση αλλαγών χρήσης γης και αναμόρφωση του Προγράμματος Δημογραφικής Ανάπτυξης.</summary>
-</entry>
-<entry>
-  <title>Καιρός – Εκτακτο δελτίο ΕΜΥ: Πού αναμένονται καταιγίδες την Παρασκευή και το Σάββατο</title>
-  <link href="https://www.kathimerini.gr/society/564361423/kairos-ektakto-deltio-emy-poy-erchontai-kataigides-tin-paraskeyi-kai-to-savvato/"/>
-  <id>https://www.kathimerini.gr/society/564361423/kairos-ektakto-deltio-emy-poy-erchontai-kataigides-tin-paraskeyi-kai-to-savvato/</id>
-  <updated>2026-07-23T11:40:08+00:00</updated>
-  <author><name>Newsroom</name></author>
-  <category term="society"/>
-  <summary>Έκτακτο δελτίο επιδείνωσης εξέδωσε η ΕΜΥ: ισχυρές βροχές και καταιγίδες από την Παρασκευή έως το Σάββατο σε μεγάλο μέρος της χώρας, με μπουρίνια, κεραυνούς και χαλάζι. «Κόκκινη» προειδοποίηση για ορισμένες περιοχές μετά τον καύσωνα.</summary>
-</entry>
-<entry>
-  <title>Νέα δεδομένα για τα Γλυπτά του Παρθενώνα;</title>
-  <link href="https://www.kathimerini.gr/culture/museums/564358300/nea-dedomena-gia-ta-glypta-toy-parthenona/"/>
-  <id>https://www.kathimerini.gr/culture/museums/564358300/nea-dedomena-gia-ta-glypta-toy-parthenona/</id>
-  <updated>2026-07-22T21:00:48+00:00</updated>
-  <author><name>Ελένη Σαμπάνη</name></author>
-  <category term="culture"/>
-  <summary>Οι παλαιότερες τοποθετήσεις του νέου Βρετανού πρωθυπουργού Άντι Μπέρναμ υπέρ της επιστροφής των Γλυπτών του Παρθενώνα «χωρίς όρους» αναζωπυρώνουν τις ελληνικές προσδοκίες. Ο Μητσοτάκης δήλωσε ότι σκοπεύει να του θέσει το ζήτημα αμέσως.</summary>
-</entry>
-<entry>
-  <title>Προσφορές 2,23 δισ. στην αύξηση κεφαλαίου του ομίλου Aktor</title>
-  <link href="https://www.kathimerini.gr/economy/business/564360766/prosfores-2-23-dis-stin-ayxisi-kefalaioy-toy-omiloy-aktor/"/>
-  <id>https://www.kathimerini.gr/economy/business/564360766/prosfores-2-23-dis-stin-ayxisi-kefalaioy-toy-omiloy-aktor/</id>
-  <updated>2026-07-23T09:18:44+00:00</updated>
-  <author><name>Νίκος Ρουσάνογλου</name></author>
-  <category term="economy"/>
-  <summary>Υπερκαλύφθηκε 3,6 φορές η αύξηση κεφαλαίου του ομίλου Aktor με προσφορές 2,23 δισ. ευρώ έναντι ζητούμενων 650 εκατ. Συμμετείχαν κορυφαία διεθνή funds όπως BlackRock, Blackstone, Norges και Omers, καθώς και Έλληνες επιχειρηματίες.</summary>
-</entry>
+  <title>Greek News Digest — Kathimerini</title>
+  <subtitle>Daily digest of top Greek news, 2026-07-24</subtitle>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <id>urn:greek-news-aggregator:feed</id>
+  <updated>2026-07-24T11:16:20Z</updated>
+  <entry>
+    <title>Το μεγάλο deal των εξοπλισμών</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564362764/to-megalo-deal-ton-exoplismon/"/>
+    <id>urn:kathimerini:5f2f25b456ff</id>
+    <updated>2026-07-24T08:12:57+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Το ΚΥΣΕΑ ενέκρινε έντεκα εξοπλιστικά προγράμματα ύψους 4,2 δισ. ευρώ, με κορυφαίο τον ισραηλινής τεχνολογίας αντιαεροπορικό θόλο «Ασπίδα του Αχιλλέα» κόστους 3,1 δισ. Δώδεκα ελληνικές εταιρείες συμμετέχουν με έργο άνω των 700 εκατ., καλύπτοντας τον όρο του 25% εγχώριας συμμετοχής.</summary>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης: «Οι εκλογές δεν θα γίνουν το φθινόπωρο» – Τι είπε για ΟΠΕΚΕΠΕ, Σαμαρά και συνεργασίες</title>
+    <link href="https://www.kathimerini.gr/politics/564363484/mitsotakis-oi-ekloges-den-tha-ginoyn-to-fthinoporo/"/>
+    <id>urn:kathimerini:dd3ae7ff75a8</id>
+    <updated>2026-07-24T09:05:28+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Κυριάκος Μητσοτάκης ξεκαθάρισε σε συνέντευξή του στο OPEN ότι οι εκλογές θα γίνουν το 2027 και όχι το φθινόπωρο. Απέκλεισε συνεννόηση με τον Αντώνη Σαμαρά λόγω της αμφισβήτησης της εξωτερικής πολιτικής και σχολίασε την υπόθεση ΟΠΕΚΕΠΕ, λέγοντας ότι δεν μπορεί να καταγγείλει σκοπιμότητα στην Ευρωπαϊκή Εισαγγελία.</summary>
+  </entry>
+  <entry>
+    <title>Μάχη με τις φλόγες σε Ισπανία και Γαλλία: Εκκενώνονται περιοχές – Η Ελλάδα στέλνει Canadair</title>
+    <link href="https://www.kathimerini.gr/world/564363823/machi-me-tis-floges-se-ispania-kai-gallia-ekkenonontai-perioches-i-ellada-stelnei-canadair/"/>
+    <id>urn:kathimerini:fd1e3ea432f0</id>
+    <updated>2026-07-24T12:57:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ισπανία και Γαλλία δίνουν μάχη με ταυτόχρονες πυρκαγιές εν μέσω καύσωνα: η Ισπανία κήρυξε για πρώτη φορά κατάσταση εθνικής έκτακτης ανάγκης και η Γαλλία εκκενώνει το Καπ Φερέ, με 40.000 ανθρώπους να απομακρύνονται. Η Ελλάδα στέλνει Canadair μέσω του ευρωπαϊκού μηχανισμού πολιτικής προστασίας.</summary>
+  </entry>
+  <entry>
+    <title>Αντιαεροπορικός θόλος, drones, δορυφόροι και C-390: Τα δέκα νέα εξοπλιστικά προγράμματα</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564362032/antiaeroporikos-tholos-drones-doryforoi-kai-c-390-ta-deka-nea-exoplistika-programmata/"/>
+    <id>urn:kathimerini:e0285070a7e7</id>
+    <updated>2026-07-23T17:53:56+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Νίκος Δένδιας παρουσίασε τα νέα εξοπλιστικά προγράμματα που ενέκρινε το ΚΥΣΕΑ: αντιαεροπορικό-αντιβαλλιστικό θόλο, συστήματα αντιμετώπισης drones, HERON 1, μικροδορυφόρους και μεταγωγικά C-390. Σε όλα προβλέπεται ελάχιστη ελληνική βιομηχανική συμμετοχή 25%.</summary>
+  </entry>
+  <entry>
+    <title>Στενά του Ορμούζ: Διέλευση μόλις ενός τάνκερ σε 24 ώρες</title>
+    <link href="https://www.kathimerini.gr/world/564363430/stena-toy-ormoyz-dieleysi-molis-enos-tanker-se-24-ores/"/>
+    <id>urn:kathimerini:29776ddd2e6d</id>
+    <updated>2026-07-24T08:59:51+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Μόλις ένα τάνκερ διέσχισε τα Στενά του Ορμούζ την Πέμπτη — το χαμηλότερο επίπεδο από τις 7 Μαΐου — καθώς οι τιμές του πετρελαίου εκτοξεύτηκαν ξανά στα 100 δολάρια το βαρέλι. Ο αμερικανικός στρατός ολοκλήρωσε 13η συνεχόμενη νύχτα επιθέσεων στο Ιράν, εντείνοντας τους κινδύνους για τη ναυτιλία.</summary>
+  </entry>
+  <entry>
+    <title>Κακοκαιρία: Μπαράζ μηνυμάτων του 112 – Το έκτακτο δελτίο της ΕΜΥ</title>
+    <link href="https://www.kathimerini.gr/society/564364006/kairos-proeidopoiitika-minymata-toy-112-se-pente-perifereies-gia-ischyres-vroches-kataigides-kai-keraynoys/"/>
+    <id>urn:kathimerini:52a1a6790ee7</id>
+    <updated>2026-07-24T13:42:20+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Μπαράζ προειδοποιητικών μηνυμάτων του 112 εστάλη σε Λάρισα, Φθιώτιδα, Μαγνησία, Σποράδες, βόρεια Εύβοια και Σκύρο ενόψει ισχυρών βροχών, καταιγίδων και κεραυνών για τις επόμενες 12 ώρες. Η Πολιτική Προστασία καλεί τους πολίτες να αποφεύγουν χειμάρρους και πλημμυρισμένους δρόμους.</summary>
+  </entry>
+  <entry>
+    <title>Κομισιόν: Χαμηλοί τόνοι για τους νέους δασμούς Τραμπ – «Εντός του ορίου που είχε συμφωνηθεί»</title>
+    <link href="https://www.kathimerini.gr/world/564363499/komision-chamiloi-tonoi-gia-toys-neoys-dasmoys-tramp-entos-toy-orioy-poy-eiche-symfonithei/"/>
+    <id>urn:kathimerini:ce029e6c205a</id>
+    <updated>2026-07-24T09:10:31+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Κομισιόν υποδέχθηκε με χαμηλούς τόνους τους νέους δασμούς Τραμπ, εκτιμώντας ότι παραμένουν εντός του ορίου 15% της συμφωνίας του Turnberry παρά τη διαφορετική νομική βάση. Οι διαπραγματεύσεις για πρόσθετες εξαιρέσεις συνεχίζονται.</summary>
+  </entry>
+  <entry>
+    <title>Επικαιροποιήθηκε το Εκτακτο Δελτίο Επικίνδυνων Καιρικών Φαινομένων της ΕΜΥ</title>
+    <link href="https://www.kathimerini.gr/society/564363694/epikairopoiithike-to-ektakto-deltio-epikindynon-kairikon-fainomenon-tis-emy/"/>
+    <id>urn:kathimerini:a128fb99b5e6</id>
+    <updated>2026-07-24T11:29:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Σε ισχύ το επικαιροποιημένο Εκτακτο Δελτίο της ΕΜΥ: ισχυρές βροχές, καταιγίδες, μπουρίνια και χαλαζοπτώσεις έως το πρωί του Σαββάτου, με κόκκινη προειδοποίηση για Σποράδες, Εύβοια και ανατολική Θεσσαλία. Πορτοκαλί προειδοποίηση ισχύει για κεντρική Μακεδονία.</summary>
+  </entry>
+  <entry>
+    <title>Ουκρανία: Επίσκεψη Ζελένσκι στον Τραμπ την επόμενη εβδομάδα – Ποιο το σημείο καμπής στη σχέση τους</title>
+    <link href="https://www.kathimerini.gr/world/564363583/oykrania-episkepsi-zelenski-ston-tramp-tin-epomeni-evdomada-poio-to-simeio-kampis-sti-schesi-toys/"/>
+    <id>urn:kathimerini:302a8a2c88e6</id>
+    <updated>2026-07-24T10:26:54+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Βολοντίμιρ Ζελένσκι θα μεταβεί την επόμενη εβδομάδα στην Ουάσιγκτον για την κηδεία του γερουσιαστή Λίντσεϊ Γκράχαμ και θα συναντηθεί με τον Ντόναλντ Τραμπ, ενώ στο Κογκρέσο προωθείται νέο πακέτο δευτερογενών κυρώσεων κατά της Ρωσίας. Σημείο καμπής στη σχέση τους χαρακτήρισε τη συνάντηση στο Βατικανό.</summary>
+  </entry>
+  <entry>
+    <title>Πώς ο Τραμπ ανέτρεψε την πυρηνική συμφωνία με τη Σαουδική Αραβία μέσα σε 24 ώρες</title>
+    <link href="https://www.kathimerini.gr/world/564363385/pos-o-tramp-anetrepse-tin-pyriniki-symfonia-me-ti-saoydiki-aravia-mesa-se-24-ores/"/>
+    <id>urn:kathimerini:6728160691e9</id>
+    <updated>2026-07-24T10:00:12+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Λιγότερο από 24 ώρες μετά την υπογραφή της πυρηνικής συμφωνίας ΗΠΑ–Σαουδικής Αραβίας, ο Τραμπ ανέτρεψε τους όρους της απαιτώντας προσχώρηση του Ριάντ στις Συμφωνίες του Αβραάμ. Η κίνηση ανέδειξε εσωτερικές τριβές στην αμερικανική κυβέρνηση και προκάλεσε αμηχανία στους διαπραγματευτές.</summary>
+  </entry>
+  <entry>
+    <title>Μαρία Καρυστιανού: «Αστεία τα περί ρωσικής επιρροής, δεν έχουμε χορηγούς»</title>
+    <link href="https://www.kathimerini.gr/politics/564363622/maria-karystianoy-asteia-ta-peri-rosikis-epirrois-den-echoyme-chorigoys/"/>
+    <id>urn:kathimerini:3154e9150f3d</id>
+    <updated>2026-07-24T10:42:20+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η Μαρία Καρυστιανού χαρακτήρισε «αστεία» τα σενάρια περί ρωσικής επιρροής στο κίνημα «Ελπίδα για τη Δημοκρατία», τονίζοντας ότι δεν υπάρχουν χορηγοί ή επιχειρηματίες-χρηματοδότες. Οπως είπε στον ΣΚΑΪ, το κίνημα στηρίζεται σε συνεισφορές πολιτών και στην εθελοντική εργασία των στελεχών του.</summary>
+  </entry>
+  <entry>
+    <title>Βεβαίωση από τον κρατικό «Τειρεσία» σε ένα 24ωρο</title>
+    <link href="https://www.kathimerini.gr/economy/local/564363160/vevaiosi-apo-ton-kratiko-teiresia-se-ena-24oro/"/>
+    <id>urn:kathimerini:84ef76c76599</id>
+    <updated>2026-07-24T12:02:05+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Τίθεται σε πλήρη λειτουργία ο κρατικός «Τειρεσίας»: το Δημόσιο θα υπολογίζει την πιστοληπτική ικανότητα πολιτών και επιχειρήσεων από φορολογικά, ασφαλιστικά και περιουσιακά δεδομένα. Η βεβαίωση θα εκδίδεται μέσω gov.gr εντός 24 ωρών με τρίμηνη ισχύ και θα αξιοποιείται και από τράπεζες με συναίνεση του πολίτη.</summary>
+  </entry>
+  <entry>
+    <title>ΕΕ: Το TikTok παραβίασε τους ψηφιακούς κανόνες, δεν προστάτευσε την ιδιωτικότητα των ανηλίκων</title>
+    <link href="https://www.kathimerini.gr/world/564363991/ee-to-tiktok-paraviase-toys-psifiakoys-kanones-den-prostateyse-tin-idiotikotita-ton-anilikon/"/>
+    <id>urn:kathimerini:8f1576259f47</id>
+    <updated>2026-07-24T13:28:33+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Η Κομισιόν έκρινε ότι το TikTok παραβίασε τους ευρωπαϊκούς ψηφιακούς κανόνες επιτρέποντας σε ενήλικες να βλέπουν λογαριασμούς ανηλίκων, εκθέτοντάς τους σε εκφοβισμό και κακόβουλες προσεγγίσεις. Αν η απάντηση της εταιρείας δεν κριθεί ικανοποιητική, απειλείται πρόστιμο έως 6% του παγκόσμιου τζίρου της.</summary>
+  </entry>
+  <entry>
+    <title>Πυρκαγιές στην Ευρώπη: Εκκένωση του γαλλικού θερέτρου Καπ Φερέ στον Ατλαντικό</title>
+    <link href="https://www.kathimerini.gr/world/564363535/pyrkagies-stin-eyropi-ekkenosi-toy-gallikoy-theretroy-kap-fere-ston-atlantiko/"/>
+    <id>urn:kathimerini:88b94325a7de</id>
+    <updated>2026-07-24T10:06:53+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Οι γαλλικές αρχές διέταξαν την πλήρη εκκένωση της χερσονήσου Καπ Φερέ λόγω μεγάλης πυρκαγιάς, απομακρύνοντας κόσμο ακόμη και διά θαλάσσης. Ο Μακρόν ενεργοποίησε τον ευρωπαϊκό μηχανισμό πολιτικής προστασίας, με ενισχύσεις από Κροατία, Πορτογαλία, Τσεχία και Σλοβακία.</summary>
+  </entry>
+  <entry>
+    <title>Αποσύρθηκε το ασυμβίβαστο βουλευτή – υπουργού</title>
+    <link href="https://www.kathimerini.gr/politics/parliament/564362758/aposyrthike-to-asymvivasto-voyleyti-ypoyrgoy/"/>
+    <id>urn:kathimerini:9b54201c5385</id>
+    <updated>2026-07-24T06:38:00+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η Ν.Δ. απέσυρε την πρόταση για ασυμβίβαστο βουλευτή–υπουργού στο άνοιγμα της τριήμερης συζήτησης για τη συνταγματική αναθεώρηση, μπροστά στον κίνδυνο καταψήφισης από βουλευτές της πλειοψηφίας. Η συζήτηση εξελίσσεται σε υψηλούς τόνους, χωρίς προοπτική αυξημένης πλειοψηφίας 180 ψήφων για κανένα άρθρο.</summary>
+  </entry>
+  <entry>
+    <title>Δεν επεκτείνει την αύξηση μετοχικού κεφαλαίου ο Aktor</title>
+    <link href="https://www.kathimerini.gr/economy/business/564363184/den-epekteinei-tin-ayxisi-metochikoy-kefalaioy-o-aktor/"/>
+    <id>urn:kathimerini:fc9d5f1ae55d</id>
+    <updated>2026-07-24T12:08:35+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Aktor διατήρησε την αύξηση μετοχικού κεφαλαίου στα 650 εκατ. ευρώ παρά προσφορές 2,23 δισ. και υπερκάλυψη 3,6 φορές. Ο CEO Αλ. Εξάρχου εξήγησε ότι η απόφαση προστατεύει τους υφιστάμενους μετόχους, με στόχο την προσέλκυση διεθνών μακροπρόθεσμων επενδυτών.</summary>
+  </entry>
+  <entry>
+    <title>Ρουμανία: Καταρρίφθηκε drone που παραβίασε τον εναέριο χώρο</title>
+    <link href="https://www.kathimerini.gr/world/564363928/roymania-katarrifthike-drone-poy-paraviase-ton-enaerio-choro/"/>
+    <id>urn:kathimerini:fec9c1b55500</id>
+    <updated>2026-07-24T13:12:20+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ρουμανικό F-16 κατέρριψε drone που παραβίασε τον εναέριο χώρο της χώρας κοντά στην Παντίνα, ανακοίνωσε ο πρόεδρος Νικουσόρ Νταν, χωρίς να διευκρινίσει την προέλευσή του. Η Ρουμανία, με σύνορα 650 χλμ. με την Ουκρανία, έχει αναφέρει πολλαπλές παραβιάσεις από ρωσικά drones.</summary>
+  </entry>
+  <entry>
+    <title>Τέσσερις Παλαιστίνιοι και ένας Ισραηλινός σκοτώθηκαν από πυρά στη Δυτική Οχθη</title>
+    <link href="https://www.kathimerini.gr/world/564363718/tesseris-palaistinioi-kai-enas-israilinos-skotothikan-apo-pyra-sti-dytiki-ochthi/"/>
+    <id>urn:kathimerini:2da942e3b18d</id>
+    <updated>2026-07-24T11:45:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Τέσσερις Παλαιστίνιοι και ένας Ισραηλινός σκοτώθηκαν από πυρά στη Δυτική Οχθη, με αντικρουόμενες εκδοχές για τα γεγονότα κοντά στη Ναμπλούς. Ο ισραηλινός στρατός επέβαλε προσωρινό αποκλεισμό σε Ναμπλούς και Ταλ και έστησε οδοφράγματα.</summary>
+  </entry>
+  <entry>
+    <title>ΠΑΣΟΚ – ΕΛΑΣ: Σε θέσεις «μάχης» με το βλέμμα στις μετρήσεις</title>
+    <link href="https://www.kathimerini.gr/politics/564362743/pasok-elas-se-theseis-machis-me-to-vlemma-stis-metriseis/"/>
+    <id>urn:kathimerini:717fcfbeaefe</id>
+    <updated>2026-07-24T09:47:00+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">ΠΑΣΟΚ και Ελληνική Αριστερή Συμπαράταξη δίνουν μάχη για τη δεύτερη θέση ενόψει εκλογών, με εντελώς διαφορετικές αναγνώσεις των δημοσκοπήσεων. Οι μετρήσεις ευνοούν τον Αλέξη Τσίπρα με «μαξιλάρι» άνω των πέντε μονάδων, ενώ το μεγάλο ξεκαθάρισμα αναμένεται στη ΔΕΘ.</summary>
+  </entry>
+  <entry>
+    <title>Η UniCredit θέλει πλήρη έλεγχο της Commerzbank το δ΄ τρίμηνο</title>
+    <link href="https://www.kathimerini.gr/economy/international/564363226/i-unicredit-thelei-pliri-elegcho-tis-commerzbank-to-d-trimino/"/>
+    <id>urn:kathimerini:66224bb4582e</id>
+    <updated>2026-07-24T08:48:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η UniCredit σχεδιάζει να αποκτήσει τον έλεγχο της Commerzbank το δ&#x27; τρίμηνο, σε ένα από τα μεγαλύτερα τραπεζικά deals στην Ευρώπη, με αποτίμηση 43,6 δισ. ευρώ. Το μερίδιό της θα πλησιάσει το 50% μόλις δοθούν οι εποπτικές εγκρίσεις, δίνοντας στον Αντρέα Ορσέλ τον έλεγχο των γενικών συνελεύσεων.</summary>
+  </entry>
 </feed>
