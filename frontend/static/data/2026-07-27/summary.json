@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:17:19.398489+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 64 articles over 24h.",
+  "executive_summary": {
+    "el": "Η πολιτική επικαιρότητα της Δευτέρας κυριαρχείται από τη διαμόρφωση του νέου κόμματος του Αλέξη Τσίπρα, της ΕΛ.Α.Σ.: ο πρώην πρωθυπουργός παρουσιάζει την πρόταση του κόμματος για την αυτοδιοίκηση στο Σεράφειο, ο Γιώργος Καραμέρος ανακοίνωσε την ένταξή του, ενώ τρεις εισηγήσεις για την τύχη των βουλευτών που παραιτήθηκαν από τον ΣΥΡΙΖΑ βρίσκονται στο τραπέζι. Παράλληλα, ο Κυριάκος Μητσοτάκης συναντήθηκε στο Σάλτσμπουργκ με τον Αυστριακό καγκελάριο με ατζέντα την ενέργεια και τα καύσιμα, ενώ στην Αθήνα διεξάγεται τρίτος γύρος συνομιλιών Ελλάδας–Λιβύης για τις θαλάσσιες ζώνες.\n\nΣτην οικονομία, το επιτελείο προετοιμάζει τετραετές, εμπροσθοβαρές πακέτο μέτρων στήριξης άνω των 6 δισ. ευρώ για τη ΔΕΘ, αξιοποιώντας κάθε πηγή δημοσιονομικού χώρου εντός του Συμφώνου Σταθερότητας. Η εμπορική σχέση Ε.Ε.–ΗΠΑ δοκιμάζεται έναν χρόνο μετά τη συμφωνία του Turnberry, με νέους δασμούς Τραμπ και πρόστιμο 890 εκατ. ευρώ της Κομισιόν στην Google, ενώ στο Ελληνικό οι εργασίες απορρύπανσης αποκάλυψαν βόμβες του Β΄ Παγκοσμίου Πολέμου και κηροζίνη στο υπέδαφος.\n\nΣτο μέτωπο της κοινωνίας, η δίκη για τα Τέμπη συνεχίζεται με τους συνηγόρους της ΕΡΓΟΣΕ να επιμένουν σε αναβολή, ενώ πυρκαγιές απασχόλησαν την Πυροσβεστική σε Ηράκλειο, Κοζάνη, Τρίκαλα και Ανω Λιόσια. Διεθνώς, οι μεγάλες πυρκαγιές στη νότια Ευρώπη φτάνουν στις πύλες του Μπορντό, πέντε άνθρωποι σκοτώθηκαν από ουκρανική επίθεση με drones στο Ροστόφ, τρεις νεκροί καταγράφηκαν σε επίθεση σε φεστιβάλ του Σιάτλ, και ο Ζελένσκι συναντά τον νέο Βρετανό πρωθυπουργό Αντι Μπέρναμ πριν από τη συνάντησή του με τον Τραμπ.\n\nΣτον πολιτισμό, η «Οδύσσεια» του Νόλαν συνεχίζει να τροφοδοτεί τον δημόσιο διάλογο —από τις στήλες γνώμης μέχρι το viral αρχαιότερο χειρόγραφο του έπους— ενώ οι παραλίες της Νορμανδίας εντάχθηκαν στα Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO και η Ελλάδα αποχαιρετά τη Μαίρη Λίντα.",
+    "en": "Monday's political news is dominated by the shaping of Alexis Tsipras's new party, ELAS: the former PM presents its local-government proposal at the Serafeio, Giorgos Karameros announced he is joining, and three recommendations on the fate of SYRIZA defectors sit on Tsipras's desk. Meanwhile, Kyriakos Mitsotakis met the Austrian chancellor in Salzburg with energy and fuel prices on the agenda, and Athens hosts a third round of Greece–Libya maritime zone talks.\n\nIn the economy, the government is preparing a front-loaded, four-year support package worth over 6 billion euros for the Thessaloniki Fair, tapping every source of fiscal space within Stability Pact rules. The EU–US trade relationship faces its first real test a year after the Turnberry deal, with new Trump tariffs and an 890-million-euro Commission fine on Google, while decontamination works at Elliniko uncovered WWII bombs and leaked kerosene in the subsoil.\n\nOn the social front, the Tempi trial continues with ERGOSE defense lawyers pressing for postponement, while fires kept crews busy in Heraklion, Kozani, Trikala and Ano Liosia. Internationally, southern Europe's wildfires have reached the gates of Bordeaux, five people were killed in a Ukrainian drone attack on Rostov, three died in a shooting at a Seattle festival, and Zelensky meets new British PM Andy Burnham ahead of his meeting with Trump.\n\nIn culture, Nolan's 'Odyssey' keeps feeding public debate — from opinion columns to the viral oldest manuscript of the epic — while the Normandy D-Day beaches joined UNESCO's World Heritage List and Greece bids farewell to singer Mary Linda."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Η ΕΛ.Α.Σ. του Τσίπρα αναδιατάσσει το πολιτικό σκηνικό",
+        "en": "Tsipras's ELAS reshapes the political landscape"
+      },
+      "description": {
+        "el": "Το νέο κόμμα του Αλέξη Τσίπρα παρουσιάζει πρόταση για την αυτοδιοίκηση, προσελκύει στελέχη από τον καταρρέοντα ΣΥΡΙΖΑ και κυριαρχεί στην αρθρογραφία, με τη Ν.Δ. να αναζητά στάση απέναντί του ενόψει εκλογών.",
+        "en": "Alexis Tsipras's new party unveils a local-government proposal, draws figures from a collapsing SYRIZA and dominates opinion pages, as New Democracy calibrates its stance ahead of elections."
+      },
+      "related_items": [
+        "f2b82f78b631",
+        "58d2cde6b501",
+        "af0011d19c7c",
+        "1307a48f9467",
+        "de653194a76c",
+        "ac8c6ae4cb09"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Προεκλογική οικονομία: πακέτο ΔΕΘ έως 6 δισ.",
+        "en": "Pre-election economy: a 6-billion-euro Thessaloniki Fair package"
+      },
+      "description": {
+        "el": "Το οικονομικό επιτελείο ετοιμάζει τετραετές πακέτο στήριξης άνω των 6 δισ. ευρώ για τη ΔΕΘ, ενώ αρθρογράφοι προειδοποιούν ότι η οικονομία μπαίνει σε ολισθηρό έδαφος και η ακρίβεια παραμένει το κεντρικό διακύβευμα.",
+        "en": "The economic team readies a four-year support package of over 6 billion euros for the Thessaloniki Fair, while columnists warn the economy is entering slippery ground and the cost of living remains the central stake."
+      },
+      "related_items": [
+        "d28dad3ed87b",
+        "a2f360548230",
+        "05f00a523ab6",
+        "b09bc842ae19",
+        "4c4c26007fb9"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Πυρκαγιές σε Ελλάδα και νότια Ευρώπη",
+        "en": "Wildfires in Greece and southern Europe"
+      },
+      "description": {
+        "el": "Η μεγάλη πυρκαγιά της Ζιρόντ φτάνει στις πύλες του Μπορντό και δημιουργεί πρωτόγνωρα «σύννεφα φωτιάς», με μέτωπα και σε Ισπανία και Ιταλία, ενώ στην Ελλάδα η Πυροσβεστική επιχείρησε σε Ηράκλειο, Κοζάνη, Τρίκαλα και Ανω Λιόσια.",
+        "en": "The huge Gironde fire reaches the gates of Bordeaux, spawning unprecedented 'fire clouds,' with fronts also in Spain and Italy, while in Greece crews battled blazes in Heraklion, Kozani, Trikala and Ano Liosia."
+      },
+      "related_items": [
+        "c0557fc48186",
+        "65fb0489d792",
+        "e4f20bf09b0d",
+        "8717684b0f9c",
+        "90aa1ac0375e",
+        "f6c0b04a2c3d",
+        "98ced1122db8"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Εμπορική δοκιμασία Ε.Ε.–ΗΠΑ",
+        "en": "EU–US trade relations under strain"
+      },
+      "description": {
+        "el": "Ενα χρόνο μετά τη συμφωνία του Turnberry, οι νέοι δασμοί Τραμπ και το πρόστιμο της Κομισιόν στην Google δοκιμάζουν την εμπορική εκεχειρία, με την Ιταλία να λαμβάνει μέτρα για τα καύσιμα εν μέσω της ενεργειακής αναταραχής από τη Μέση Ανατολή.",
+        "en": "A year after the Turnberry deal, new Trump tariffs and the Commission's Google fine test the trade truce, as Italy adopts fuel-price measures amid Middle East-driven energy turmoil."
+      },
+      "related_items": [
+        "5029c71f3434",
+        "ddb577f23716",
+        "b09bc842ae19"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Η «Οδύσσεια» του Νόλαν και το ομηρικό hype",
+        "en": "Nolan's 'Odyssey' and the Homeric hype"
+      },
+      "description": {
+        "el": "Η ταινία του Κρίστοφερ Νόλαν πυροδοτεί παγκόσμιο ενδιαφέρον για τον Ομηρο — από viral χειρόγραφα και ανασκαφές μέχρι τέσσερις στήλες γνώμης της «Κ» για τις διασκευές, τον Κουροσάβα και τη Νέκυια.",
+        "en": "Christopher Nolan's film ignites global interest in Homer — from viral manuscripts and excavations to four Kathimerini opinion columns on adaptation, Kurosawa and the Nekyia."
+      },
+      "related_items": [
+        "8ad5c1a4db0d",
+        "f5f53ffb0a9f",
+        "b7f6539641ff",
+        "75a517628a42",
+        "99136dfb1d83"
+      ],
+      "importance": 65
+    }
+  ],
+  "article_count": 64,
+  "categories": {
+    "politics": {
+      "item_count": 6,
+      "top_items": [
+        "b09bc842ae19",
+        "09c48cfef28b",
+        "0fab8d6293ba"
+      ]
+    },
+    "economy": {
+      "item_count": 6,
+      "top_items": [
+        "d28dad3ed87b",
+        "5029c71f3434",
+        "b7fd526e8559"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "4c938668bd6d",
+        "0ce78ce6294c",
+        "a25cf80a5b31"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "c0557fc48186",
+        "0d84edebe0a3",
+        "c8c058547e96"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "1307a48f9467",
+        "a2f360548230",
+        "87fcea3de2be"
+      ]
+    },
+    "culture": {
+      "item_count": 10,
+      "top_items": [
+        "f9b8118ecb83",
+        "08f3567fa309",
+        "8ad5c1a4db0d"
+      ]
+    },
+    "ai": {
+      "item_count": 2,
+      "top_items": [
+        {
+          "id": "0d84edebe0a3",
+          "title": "Πέντε νεκροί από ουκρανική επίθεση με drone στο Ροστόφ",
+          "url": "https://www.kathimerini.gr/world/564368917/pente-nekroi-apo-oykraniki-epithesi-me-drone-sto-rostof/",
+          "source": "Kathimerini",
+          "published": "2026-07-27T13:41:29+00:00",
+          "category": "world",
+          "importance": 78,
+          "summary": {
+            "el": "Πέντε άνθρωποι, ανάμεσά τους ένα παιδί, σκοτώθηκαν από νυχτερινή ουκρανική επίθεση με drones στο Ροστόφ επί του Ντον, με ζημιές σε πολυκατοικίες και ξενώνα αστέγων. Οι ρωσικές αρχές ανέφεραν κατάρριψη περίπου 50 drones και οκτώ τραυματίες, έναν σε κρίσιμη κατάσταση.",
+            "en": "Five people, including a child, were killed in an overnight Ukrainian drone attack on Rostov-on-Don, with damage to apartment blocks and a homeless shelter. Russian authorities reported downing some 50 drones, with eight injured, one critically."
+          },
+          "tags": {
+            "el": [
+              "Ουκρανία",
+              "Ρωσία",
+              "drones",
+              "πόλεμος"
+            ],
+            "en": [
+              "Ukraine",
+              "Russia",
+              "drones",
+              "war"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "93588b7fc929",
+          "title": "«Φάγαμε πολλές πόρτες μέχρι να βρούμε επενδυτές»",
+          "url": "https://www.kathimerini.gr/economy/564366877/fagame-polles-portes-mechri-na-vroyme-ependytes/",
+          "source": "Kathimerini",
+          "published": "2026-07-26T23:01:24+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Τρεις Ελληνες ιδρυτές startups περιγράφουν στην «Κ» το δύσκολο ταξίδι αναζήτησης χρηματοδότησης, με δεκάδες απορρίψεις από επενδυτές. Οπως σημειώνουν, μόνο ένα μικρό μονοψήφιο ποσοστό νεοφυών επιχειρήσεων εξασφαλίζει κεφάλαια κάθε χρόνο παγκοσμίως.",
+            "en": "Three Greek startup founders describe to Kathimerini the hard road of seeking funding, with dozens of near-identical rejections from investors. Globally, only a small single-digit percentage of startups manage to secure capital each year."
+          },
+          "tags": {
+            "el": [
+              "startups",
+              "επενδύσεις",
+              "χρηματοδότηση",
+              "επιχειρηματικότητα"
+            ],
+            "en": [
+              "startups",
+              "investment",
+              "funding",
+              "entrepreneurship"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
