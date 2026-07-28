@@ -3,207 +3,207 @@
   <title>Greek News Digest — Kathimerini</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
   <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
-  <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-07-27T11:17:40Z</updated>
-  <subtitle>Daily top 20 articles by importance, 2026-07-27</subtitle>
+  <id>urn:greek-news-aggregator:main</id>
+  <updated>2026-07-28T11:36:04.901165+00:00</updated>
+  <subtitle>Top stories of 2026-07-28 by importance</subtitle>
   <entry>
-    <title>Στις «πύλες» του Μπορντό η φωτιά στη Γαλλία – Πυρκαγιές και σε Ισπανία και Ιταλία</title>
-    <link href="https://www.kathimerini.gr/world/564368836/stis-pyles-toy-mpornto-i-fotia-sti-gallia-pyrkagies-kai-se-ispania-kai-italia/"/>
-    <id>urn:kathimerini:c0557fc48186</id>
-    <updated>2026-07-27T12:47:07+00:00</updated>
+    <title>Ιαπωνία: Εκρηξη σε εμπορικό κέντρο μετά τον σεισμό 7,1 Ρίχτερ – Αναφορές για «αρκετούς νεκρούς»</title>
+    <link href="https://www.kathimerini.gr/world/564370696/iaponia-egklovismenoi-se-emporiko-kentro-meta-ton-seismo-7-1-richter-toylachiston-50-traymaties/"/>
+    <id>urn:kathimerini:18eaf0f3d1b1</id>
+    <updated>2026-07-28T13:54:10+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Η πυρκαγιά που έχει κάψει 420.000 στρέμματα στη Ζιρόντ φτάνει στις «πύλες» του Μπορντό· οι γαλλικές αρχές παραδέχονται ότι δεν την ελέγχουν ακόμη, παρότι οι ενεργές εστίες μειώθηκαν. Πυρκαγιές μαίνονται επίσης στην περιφέρεια της Μαδρίτης και στην Ιταλία.</summary>
-    <content type="text" xml:lang="en">The fire that has burned 42,000 hectares in Gironde is at the gates of Bordeaux; French authorities admit it is still not under control despite fewer active fronts. Major fires are also burning in the Madrid region and Italy.</content>
+    <summary xml:lang="el">Ισχυρός σεισμός 7,1 Ρίχτερ έπληξε την επαρχία Κουμαμότο στη νότια Ιαπωνία, προκαλώντας καταρρεύσεις κτιρίων, πυρκαγιές και έκρηξη σε εμπορικό κέντρο όπου εγκλωβίστηκαν άνθρωποι — η αστυνομία κάνει λόγο για «αρκετούς νεκρούς». Τουλάχιστον 50 τραυματίες, ενώ πάνω από 150.000 κάτοικοι κλήθηκαν να εκκενώσουν.</summary>
+    <content type="text" xml:lang="en">A powerful 7.1-magnitude earthquake struck Kumamoto prefecture in southern Japan, causing building collapses, fires and an explosion at a shopping mall where people remain trapped — police say &#x27;several people are believed dead&#x27;. At least 50 are injured and more than 150,000 residents were told to evacuate.</content>
   </entry>
   <entry>
-    <title>Τετραετές πακέτο με μέτρα στήριξης έως 6 δισ. στη ΔΕΘ</title>
-    <link href="https://www.kathimerini.gr/economy/564366784/tetraetes-paketo-me-metra-stirixis-eos-6-dis-sti-deth/"/>
-    <id>urn:kathimerini:d28dad3ed87b</id>
-    <updated>2026-07-26T21:36:12+00:00</updated>
-    <author><name>Θάνος Τσίρος</name></author>
+    <title>Ο Τραμπ επιμένει για τα F-35</title>
+    <link href="https://www.kathimerini.gr/politics/564369598/o-tramp-epimenei-gia-ta-f-35/"/>
+    <id>urn:kathimerini:a66391fcf14b</id>
+    <updated>2026-07-28T07:00:26+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Ντόναλντ Τραμπ εμφανίστηκε αποφασισμένος να προχωρήσει στην πώληση F-35 στην Τουρκία, αγνοώντας τις ενστάσεις του Μπέντζαμιν Νετανιάχου λίγο πριν τον υποδεχθεί στον Λευκό Οίκο. «Κανείς δεν θα μου πει τι να πουλήσω» δήλωσε, πλέκοντας το εγκώμιο του Ερντογάν τον οποίο αποκάλεσε «φίλο».</summary>
+    <content type="text" xml:lang="en">Donald Trump appeared determined to proceed with selling F-35 fighter jets to Turkey, pointedly ignoring objections from Benjamin Netanyahu hours before hosting him at the White House. &#x27;Nobody will tell me what to sell,&#x27; he said, praising Erdogan as a &#x27;friend&#x27; — a development with direct implications for the regional balance of power.</content>
+  </entry>
+  <entry>
+    <title>Συνταγματική αναθεώρηση: Χωρίς συναίνεση η πρώτη πράξη</title>
+    <link href="https://www.kathimerini.gr/politics/564369595/syntagmatiki-anatheorisi-choris-synainesi-i-proti-praxi/"/>
+    <id>urn:kathimerini:4885473d32dd</id>
+    <updated>2026-07-28T07:23:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Χωρίς συναίνεση ολοκληρώθηκε η πρώτη ψηφοφορία για τη συνταγματική αναθεώρηση: οι προτάσεις της Ν.Δ. έλαβαν 158-161 ψήφους, μακριά από τους 180 που θα επέτρεπαν αναθεώρηση με 151 ψήφους στην επόμενη Βουλή. Ξεχώρισε το «παρούσα» της Ντόρας Μπακογιάννη στο άρθρο 30 για την εξαετή θητεία του Προέδρου της Δημοκρατίας.</summary>
+    <content type="text" xml:lang="en">The first vote on constitutional revision concluded without cross-party consensus: New Democracy&#x27;s proposals gathered 158-161 votes, well short of the 180 needed to allow revision by simple majority in the next Parliament. Dora Bakoyannis notably voted &#x27;present&#x27; on Article 30 establishing a single six-year presidential term.</content>
+  </entry>
+  <entry>
+    <title>(Επι)στροφή στη διπλωματική οδό – Πού οφείλεται η αλλαγή στάσης του Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564369682/epi-strofi-sti-diplomatiki-odo-poy-ofeiletai-i-allagi-stasis-toy-tramp/"/>
+    <id>urn:kathimerini:b54a1ac22aba</id>
+    <updated>2026-07-28T13:05:51+00:00</updated>
+    <author><name>Γιώργος Σκαφιδάς</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Πέντε μήνες μετά την έναρξη της σύγκρουσης με το Ιράν, ο Τραμπ ανέστειλε τα αμερικανικά πλήγματα χωρίς προηγούμενη ιρανική συνθηκολόγηση και χωρίς να ανοίξουν τα Στενά του Ορμούζ — και οι Φρουροί της Επανάστασης απάντησαν με δική τους αναστολή. Η ανάλυση εξετάζει αν πρόκειται για ομολογία αποτυχίας, αλλαγή στρατηγικής ή κίνηση καλής θέλησης προς διπλωματική έξοδο.</summary>
+    <content type="text" xml:lang="en">Five months into the conflict with Iran, Trump suspended US strikes without Iranian capitulation and without the Strait of Hormuz reopening — and the Revolutionary Guards responded with their own pause. This analysis weighs whether the U-turn is an admission of failure, a strategy shift, or a goodwill move toward a diplomatic exit, ushering in a new phase of uncertainty.</content>
+  </entry>
+  <entry>
+    <title>Κυπριακό: Ανοίγει σήμερα τα χαρτιά του ο Γκουτέρες</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564369613/kypriako-anoigei-simera-ta-chartia-toy-o-gkoyteres/"/>
+    <id>urn:kathimerini:112b280731d9</id>
+    <updated>2026-07-28T07:26:09+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο γ.γ. του ΟΗΕ Αντόνιο Γκουτέρες βρίσκεται στη Λευκωσία με ιδέες για το «ξεπάγωμα» των διαπραγματεύσεων στο Κυπριακό, έπειτα από επαφές της απεσταλμένης του Μαρίας Ανχελα Ολγκίν σε Βρυξέλλες και Αγκυρα. Θα συναντηθεί ξεχωριστά με Χριστοδουλίδη και Ερχιουρμάν, μετά και τον συντονισμό Αθήνας–Λευκωσίας το Σάββατο.</summary>
+    <content type="text" xml:lang="en">UN Secretary-General António Guterres is in Nicosia carrying ideas to unfreeze Cyprus settlement talks, following contacts by his envoy María Ángela Holguín in Brussels and Ankara. He will meet separately with Christodoulides and Turkish Cypriot leader Erhürman, after Athens and Nicosia coordinated positions on Saturday.</content>
+  </entry>
+  <entry>
+    <title>Ψηλά στην ατζέντα η ενέργεια, κοινό μέτωπο με Βιέννη για μεταναστευτικό</title>
+    <link href="https://www.kathimerini.gr/politics/564369592/psila-stin-atzenta-i-energeia-koino-metopo-me-vienni-gia-metanasteytiko/"/>
+    <id>urn:kathimerini:6d2ab9aef6d2</id>
+    <updated>2026-07-28T06:40:57+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Οι νέες αυξήσεις στις τιμές ενέργειας λόγω της κρίσης στη Μέση Ανατολή προκαλούν συναγερμό στην κυβέρνηση, που ανακοίνωσε επιδότηση 10 λεπτών ανά λίτρο στο πετρέλαιο κίνησης για τον Αύγουστο. Από το Σάλτσμπουργκ, ο Μητσοτάκης εξέφρασε την ελπίδα η προσωρινή παύση εχθροπραξιών να επιτρέψει την επαναλειτουργία των Στενών του Ορμούζ, ενώ συμφωνήθηκε κοινό μέτωπο με τη Βιέννη για το μεταναστευτικό.</summary>
+    <content type="text" xml:lang="en">Rising energy prices driven by the Middle East crisis have alarmed the government, which announced a 10-cent-per-litre diesel subsidy for August to contain inflation pass-through. From Salzburg, Mitsotakis expressed hope the temporary pause in hostilities will restore shipping through the Strait of Hormuz, while Greece and Austria agreed on a common front on migration.</content>
+  </entry>
+  <entry>
+    <title>Τουλάχιστον μία ακόμη αύξηση επιτοκίων από ΕΚΤ λόγω πληθωρισμού</title>
+    <link href="https://www.kathimerini.gr/economy/564370042/toylachiston-mia-akomi-ayxisi-epitokion-apo-ekt-logo-plithorismoy/"/>
+    <id>urn:kathimerini:92cfe933d4b5</id>
+    <updated>2026-07-28T10:40:47+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Τετραετές πακέτο μέτρων στήριξης άνω των 6 δισ. ευρώ, εμπροσθοβαρές και εντός των κανόνων του Συμφώνου Σταθερότητας, προετοιμάζει το οικονομικό επιτελείο για τη ΔΕΘ. Θα αξιοποιηθεί κάθε πηγή δημοσιονομικού χώρου: 1,3 δισ. συμφωνημένα με την Κομισιόν για το 2027, 1,5 δισ. από την επέκταση της ρήτρας διαφυγής και τουλάχιστον 1 δισ. από τον κανόνα καθαρών δαπανών.</summary>
-    <content type="text" xml:lang="en">The government&#x27;s economic team is preparing a front-loaded four-year support package worth over 6 billion euros for the Thessaloniki International Fair, within Stability Pact rules. Every source of fiscal space will be tapped: 1.3 billion agreed with the Commission for 2027, 1.5 billion from extending the escape clause, and at least 1 billion from the net expenditure rule.</content>
+    <summary xml:lang="el">Τουλάχιστον μία ακόμη αύξηση επιτοκίων θα χρειαστεί η ΕΚΤ για να περιορίσει τους κινδύνους πληθωρισμού, δήλωσε ο Σλοβάκος κεντρικός τραπεζίτης Πέτερ Καζιμίρ, προειδοποιώντας ότι επιδείνωση των γεωπολιτικών συνθηκών θα επέβαλλε μεγαλύτερη σύσφιγξη. Η ΕΚΤ άφησε αμετάβλητα τα επιτόκια αλλά προδιέγραψε αύξηση τον Σεπτέμβριο, εν μέσω ράλι πετρελαίου και φυσικού αερίου.</summary>
+    <content type="text" xml:lang="en">The ECB will need at least one more rate hike to contain inflation risks, Slovak central banker Peter Kazimir said, warning that worsening geopolitical conditions could force even more tightening than markets price in. The ECB held rates last week but clearly signalled a September hike, amid surging oil and gas prices from the Middle East conflict.</content>
   </entry>
   <entry>
-    <title>Πέντε νεκροί από ουκρανική επίθεση με drone στο Ροστόφ</title>
-    <link href="https://www.kathimerini.gr/world/564368917/pente-nekroi-apo-oykraniki-epithesi-me-drone-sto-rostof/"/>
-    <id>urn:kathimerini:0d84edebe0a3</id>
-    <updated>2026-07-27T13:41:29+00:00</updated>
+    <title>«Δαβίδ εναντίον Γολιάθ»: Αγωνία για τα πύρινα μέτωπα σε Γαλλία και Ισπανία</title>
+    <link href="https://www.kathimerini.gr/world/564370585/david-enantion-goliath-agonia-gia-ta-pyrina-metopa-se-gallia-kai-ispania/"/>
+    <id>urn:kathimerini:38bf53b65f9c</id>
+    <updated>2026-07-28T13:00:39+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Πέντε άνθρωποι, ανάμεσά τους ένα παιδί, σκοτώθηκαν από νυχτερινή ουκρανική επίθεση με drones στο Ροστόφ επί του Ντον, με ζημιές σε πολυκατοικίες και ξενώνα αστέγων. Οι ρωσικές αρχές ανέφεραν κατάρριψη περίπου 50 drones και οκτώ τραυματίες, έναν σε κρίσιμη κατάσταση.</summary>
-    <content type="text" xml:lang="en">Five people, including a child, were killed in an overnight Ukrainian drone attack on Rostov-on-Don, with damage to apartment blocks and a homeless shelter. Russian authorities reported downing some 50 drones, with eight injured, one critically.</content>
+    <summary xml:lang="el">Μάχη «Δαβίδ εναντίον Γολιάθ» δίνουν οι πυροσβέστες σε Γαλλία και Ισπανία: η πυρκαγιά κοντά στο Μπορντό έχει κάψει 420.000 στρέμματα από τις 22 Ιουλίου, ενώ η Meteo-France προβλέπει νέο κύμα ζέστης έως 40 βαθμούς. «Οι επόμενες εβδομάδες θα είναι δύσκολες», προειδοποίησε ο Μακρόν.</summary>
+    <content type="text" xml:lang="en">Firefighters in France and Spain are waging a &#x27;David versus Goliath&#x27; battle: the blaze near Bordeaux has burned 42,000 hectares since July 22, and Meteo-France forecasts a new heatwave up to 40°C with dry winds. &#x27;The coming weeks will be difficult and we must hold on,&#x27; President Macron warned.</content>
   </entry>
   <entry>
-    <title>Το νέο μπρα ντε φερ Ε.Ε. και ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/economy/564366883/to-neo-mpra-nte-fer-e-e-kai-ipa/"/>
-    <id>urn:kathimerini:5029c71f3434</id>
-    <updated>2026-07-26T17:55:39+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <title>Οι απαλλαγές και η Λερναία Υδρα του ΟΠΕΚΕΠΕ</title>
+    <link href="https://www.kathimerini.gr/politics/564366418/oi-apallages-kai-i-lernaia-ydra-toy-opekepe/"/>
+    <id>urn:kathimerini:21d4848b32f4</id>
+    <updated>2026-07-27T20:24:09+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Προσδιορίστηκαν οι πρώτες δίκες βουλευτών για την υπόθεση ΟΠΕΚΕΠΕ, ενώ η Ευρωπαϊκή Εισαγγελία ανοίγει νέα μέτωπα για τις παράνομες αγροτικές επιδοτήσεις. Η αρχική δικογραφία αφορούσε τουλάχιστον 50 πρόσωπα, με 11 «γαλάζιους» βουλευτές, και στοιχεία για παράνομες παρεμβάσεις σε ελέγχους και αλλοιώσεις δεδομένων.</summary>
+    <content type="text" xml:lang="en">The first trials of MPs in the OPEKEPE farm-subsidy scandal have been scheduled, while the European Public Prosecutor&#x27;s Office opens new fronts on illegal agricultural subsidies. The original case file implicated at least 50 people, including 11 ruling-party MPs, with evidence of unlawful interference in audits and retroactive data tampering.</content>
+  </entry>
+  <entry>
+    <title>Κρεμλίνο: Η ουκρανική επίθεση σε ιρανικό πλοίο ισοδυναμεί με επίθεση κατά του Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564370618/kremlino-i-oykraniki-epithesi-se-iraniko-ploio-isodynamei-me-epithesi-kata-toy-iran/"/>
+    <id>urn:kathimerini:67421b8501f9</id>
+    <updated>2026-07-28T13:08:05+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το Κρεμλίνο χαρακτήρισε την ουκρανική επίθεση σε ιρανικό πλοίο στην Κασπία «επίθεση κατά του ίδιου του Ιράν», επικαλούμενο την ανάγκη «εξάλειψης της απειλής» από το Κίεβο. Ο Ζελένσκι δήλωσε ότι επλήγησαν πλοία που μετέφεραν στρατιωτικό φορτίο με ιρανική εμπλοκή· ένας ναυτικός σκοτώθηκε.</summary>
+    <content type="text" xml:lang="en">The Kremlin called Ukraine&#x27;s strike on an Iranian ship in the Caspian Sea &#x27;an attack on Iran itself&#x27;, arguing it shows the need to &#x27;eliminate the threat&#x27; from Kyiv. Zelensky said the targeted vessels carried military cargo with Iranian involvement; Tehran says one sailor was killed. The incident widens the war&#x27;s geography.</content>
+  </entry>
+  <entry>
+    <title>Αρθρο του Νίκου Αλιβιζάτου στην «Κ»: Αναθεώρηση, μια επιπόλαιη καινοτομία</title>
+    <link href="https://www.kathimerini.gr/politics/564366394/arthro-toy-nikoy-alivizatoy-stin-k-anatheorisi-mia-epipolaii-kainotomia/"/>
+    <id>urn:kathimerini:e2152a860ee0</id>
+    <updated>2026-07-28T09:54:04+00:00</updated>
+    <author><name>Νίκος Αλιβιζάτος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο συνταγματολόγος Νίκος Αλιβιζάτος επικρίνει ως «επιπόλαιη και επικίνδυνη» την πρόταση της Ν.Δ. για προληπτικό έλεγχο συνταγματικότητας των νόμων από το Ανώτατο Ειδικό Δικαστήριο. Υποστηρίζει ότι η δυνατότητα προσφυγής μόνο από την πλειοψηφία, τον πρωθυπουργό και τον ΠτΔ, με δεσμευτικές αποφάσεις για όλα τα δικαστήρια, πλήττει ευθέως το κράτος δικαίου.</summary>
+    <content type="text" xml:lang="en">Constitutional scholar Nikos Alivizatos criticizes as &#x27;frivolous and dangerous&#x27; New Democracy&#x27;s proposal for preventive constitutionality review of laws by the Supreme Special Court. He argues that allowing only the parliamentary majority, PM and President to petition it, with rulings binding on all courts, directly undermines the rule of law.</content>
+  </entry>
+  <entry>
+    <title>Γιατί δεν ήρθε η ύφεση που περίμεναν οι περισσότεροι</title>
+    <link href="https://www.kathimerini.gr/economy/564366886/giati-den-irthe-i-yfesi-poy-perimenan-oi-perissoteroi/"/>
+    <id>urn:kathimerini:ba127121b69f</id>
+    <updated>2026-07-27T15:08:09+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Ενα χρόνο μετά τη συμφωνία του Turnberry, η εμπορική σχέση Ε.Ε.-ΗΠΑ δοκιμάζεται: ο Τραμπ ανακοίνωσε νέους δασμούς σε άνω των 60 εταίρων, μεταξύ των οποίων η Ε.Ε., ενώ η Κομισιόν επέβαλε πρόστιμο 890 εκατ. ευρώ στην Google για παραβίαση του DMA. Οι Βρυξέλλες επιμένουν ότι το πλαίσιο της συμφωνίας παραμένει σε ισχύ.</summary>
-    <content type="text" xml:lang="en">A year after the Turnberry deal, the EU-US trade relationship faces its first real test: Trump announced new tariffs on more than 60 partners including the EU, while the Commission fined Google 890 million euros for DMA violations, drawing angry reactions in Washington. Brussels insists the framework of the agreement still stands.</content>
+    <summary xml:lang="el">Παρά πολέμους, δασμούς, το κλείσιμο των Στενών του Ορμούζ και το άλμα στις τιμές πετρελαίου, η ύφεση που περίμεναν οι περισσότεροι δεν ήρθε: η παγκόσμια ανάπτυξη αναμένεται και φέτος γύρω στο 3%. Η «ανθεκτικότητα» είναι η λέξη που κυριαρχεί σε εκθέσεις ΔΝΤ, Παγκόσμιας Τράπεζας και ΟΟΣΑ.</summary>
+    <content type="text" xml:lang="en">Despite wars, tariffs, the closure of the Strait of Hormuz and an oil price spike, the widely expected recession never arrived: global growth is again projected around 3% this year. &#x27;Resilience&#x27; has become the defining word in IMF, World Bank and OECD reports and in Christine Lagarde&#x27;s recent speeches.</content>
   </entry>
   <entry>
-    <title>Δίκη για τα Τέμπη: Επιμένουν στο αίτημα για αναβολή οι συνήγοροι υπεράσπισης κατηγορουμένων της ΕΡΓΟΣΕ</title>
-    <link href="https://www.kathimerini.gr/society/564368881/diki-gia-ta-tempi-epimenoyn-sto-aitima-gia-anavoli-oi-synigoroi-yperaspisis-katigoroymenon-tis-ergose/"/>
-    <id>urn:kathimerini:4c938668bd6d</id>
-    <updated>2026-07-27T13:26:56+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <title>Τα μηνύματα Χριστοδουλίδη – Γκουτέρες για το Κυπριακό</title>
+    <link href="https://www.kathimerini.gr/world/564370474/ta-minymata-christodoylidi-gkoyteres-gia-to-kypriako/"/>
+    <id>urn:kathimerini:918d51b07da6</id>
+    <updated>2026-07-28T11:52:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">«Χρειαζόμαστε καλά νέα στην Κύπρο και στην περιοχή» είπε ο Νίκος Χριστοδουλίδης υποδεχόμενος τον Αντόνιο Γκουτέρες στο Προεδρικό Μέγαρο της Λευκωσίας. Ο γ.γ. του ΟΗΕ απάντησε ότι «αν υπάρχει μια στιγμή που η επίλυση του Κυπριακού είναι σημαντική, αυτή είναι τώρα, σε μια περίοδο χάους στην περιοχή».</summary>
+    <content type="text" xml:lang="en">&#x27;We need good news in Cyprus and in the region,&#x27; President Christodoulides said welcoming António Guterres to the Presidential Palace in Nicosia. The UN chief replied that &#x27;if there is a moment when solving the Cyprus problem matters, it is now, in a period of chaos in the region&#x27; — raising expectations for a restart of talks.</content>
+  </entry>
+  <entry>
+    <title>Τι (δεν) κατάφερε ο Νόλαν στην «Οδύσσεια»</title>
+    <link href="https://www.kathimerini.gr/culture/564362146/ti-den-katafere-o-nolan-stin-odysseia/"/>
+    <id>urn:kathimerini:03b709fbfaa7</id>
+    <updated>2026-07-28T12:16:41+00:00</updated>
+    <author><name>Αριστείδης Χατζής</name></author>
+    <category term="culture"/>
+    <summary xml:lang="el">Η Εμιλι Γουίλσον, μεταφράστρια της «Οδύσσειας», απαντά στην «Κ» σε έξι ερωτήματα για την ταινία του Νόλαν: τι σημαίνουν οι παραλείψεις, γιατί λείπουν οι θεοί, ποιοι είναι οι ηθελημένοι αναχρονισμοί και τι επιζεί από την ποιητική μαγεία του πρωτοτύπου — χαιρετίζοντας πάντως την επαφή νέων κοινών με το αρχαίο ποίημα.</summary>
+    <content type="text" xml:lang="en">Emily Wilson, translator of the Odyssey, answers six questions for Kathimerini about Nolan&#x27;s film: what the omissions mean, why the gods are absent, which anachronisms are deliberate, and what survives of the poem&#x27;s magic — while welcoming the vast new audiences discovering the ancient epic.</content>
+  </entry>
+  <entry>
+    <title>Ιπτάμενα τάνκερ πρώτη φορά στην Πολεμική Αεροπορία – Πώς αλλάζει ο επιχειρησιακός σχεδιασμός</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564369304/iptamena-tanker-gia-proti-fora-stin-polemiki-aeroporia-pos-allazei-o-epicheirisiakos-schediasmos/"/>
+    <id>urn:kathimerini:71f37634bca5</id>
+    <updated>2026-07-27T20:01:32+00:00</updated>
+    <author><name>Σταύρος Ιωαννίδης</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ελλάδα και Πορτογαλία ετοιμάζονται να υπογράψουν διακρατική συμφωνία για τρία Embraer C-390 Millennium, τα πρώτα ιπτάμενα τάνκερ της Πολεμικής Αεροπορίας, με το πρώτο να αναμένεται το 2027. Ο εναέριος ανεφοδιασμός θα αυξήσει δραστικά την εμβέλεια των Rafale και Mirage 2000-5, αλλάζοντας τον επιχειρησιακό σχεδιασμό.</summary>
+    <content type="text" xml:lang="en">Greece and Portugal are set to sign an intergovernmental agreement for three Embraer C-390 Millennium aircraft, the Hellenic Air Force&#x27;s first aerial refueling tankers, with the first expected in 2027. In-flight refueling of Rafale and Mirage 2000-5 jets will dramatically extend their operational range, reshaping air force planning.</content>
+  </entry>
+  <entry>
+    <title>Ανακύκλωση: Τα πολυκέντρα των 66 εκατ.</title>
+    <link href="https://www.kathimerini.gr/society/564369628/anakyklosi-ta-polykentra-ton-66-ekat/"/>
+    <id>urn:kathimerini:63b455202c7c</id>
+    <updated>2026-07-28T11:38:49+00:00</updated>
+    <author><name>Γιώργος Λιάλιος</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Οι συνήγοροι υπεράσπισης κατηγορουμένων στελεχών της ΕΡΓΟΣΕ επιμένουν στο αίτημα αναβολής ή αναστολής της δίκης για την τραγωδία των Τεμπών, επικαλούμενοι τη δικογραφία της Ευρωπαϊκής Εισαγγελίας για τη Σύμβαση 717. Η εισαγγελέας έχει προτείνει την απόρριψη του αιτήματος, τονίζοντας ότι δεν υφίσταται εξάρτηση μεταξύ των δύο δικογραφιών.</summary>
-    <content type="text" xml:lang="en">Defense lawyers for ERGOSE officials on trial over the Tempi rail tragedy are pressing their request to postpone or suspend proceedings, citing the European Public Prosecutor&#x27;s parallel case on Contract 717. The prosecutor has recommended rejecting the request, saying the two case files are not interdependent.</content>
+    <summary xml:lang="el">Μετά τις περιφέρειες, η Ευρωπαϊκή Εισαγγελία στρέφεται και στις απευθείας προμήθειες πολυκέντρων ανακύκλωσης από οκτώ δήμους το 2022, έργο 66 εκατ. ευρώ του προγράμματος «Αντώνης Τρίτσης» με εμπλοκή της Ευρωπαϊκής Τράπεζας Επενδύσεων. Προ ημερών καταργήθηκε η ρύθμιση που επέτρεπε την τοποθέτησή τους οπουδήποτε χωρίς οικοδομική άδεια.</summary>
+    <content type="text" xml:lang="en">After probing regional tenders, the European Public Prosecutor is now investigating eight municipalities&#x27; 2022 direct procurements of recycling &#x27;polycentres&#x27; — a €66m project under the Antonis Tritsis program financed via the European Investment Bank. A provision allowing their placement anywhere without building permits was recently repealed.</content>
   </entry>
   <entry>
-    <title>Με τον Βρετανό πρωθυπουργό Μπέρναμ θα συναντηθεί σήμερα ο Ζελένσκι</title>
-    <link href="https://www.kathimerini.gr/world/564368626/me-ton-vretano-prothypoyrgo-mpernam-tha-synantithei-simera-o-zelenski/"/>
-    <id>urn:kathimerini:c8c058547e96</id>
-    <updated>2026-07-27T10:57:04+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ο Βολοντίμιρ Ζελένσκι συναντάται με τον νέο Βρετανό πρωθυπουργό Αντι Μπέρναμ, τον πρώτο ξένο ηγέτη που υποδέχεται μετά τον διορισμό του, σε ναυτική βάση με αντικείμενο την εξουδετέρωση θαλάσσιων ναρκών στη Μαύρη Θάλασσα. Την Τρίτη ο Ουκρανός πρόεδρος θα δει τον Ντόναλντ Τραμπ στην Ουάσιγκτον, ζητώντας ενίσχυση της αντιαεροπορικής άμυνας και «ισχυρή συμφωνία για τα drones».</summary>
-    <content type="text" xml:lang="en">Volodymyr Zelensky meets new British PM Andy Burnham — his first foreign guest since taking office — at a naval base focused on Black Sea mine clearance. On Tuesday the Ukrainian president sees Donald Trump in Washington, seeking stronger air defenses and a &#x27;very strong drone agreement.&#x27;</content>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης: «Δεν υπάρχουν εύκολες και μαγικές λύσεις για τις τιμές στα καύσιμα»</title>
-    <link href="https://www.kathimerini.gr/politics/564368734/mitsotakis-den-yparchoyn-eykoles-kai-magikes-lyseis-gia-ta-kaysima/"/>
-    <id>urn:kathimerini:b09bc842ae19</id>
-    <updated>2026-07-27T12:30:32+00:00</updated>
+    <title>Ντόρα Μπακογιάννη: «Παρών» στην πρόταση για μία και εξαετή θητεία του ΠτΔ</title>
+    <link href="https://www.kathimerini.gr/politics/564369367/ntora-mpakogianni-paron-stin-protasi-gia-mia-kai-exaeti-thiteia-toy-ptd/"/>
+    <id>urn:kathimerini:c65585210787</id>
+    <updated>2026-07-27T20:46:07+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Ο Κυριάκος Μητσοτάκης συναντήθηκε στο Σάλτσμπουργκ με τον Αυστριακό καγκελάριο Κρίστιαν Στόκερ, τονίζοντας τις εξαιρετικές διμερείς σχέσεις και τη σημασία του τουρισμού. Για το ενεργειακό κόστος σημείωσε ότι είναι άδικο να επιβαρύνονται χώρες που έχουν επενδύσει στις ΑΠΕ, ενώ για τα καύσιμα δήλωσε ότι «δεν υπάρχουν εύκολες και μαγικές λύσεις».</summary>
-    <content type="text" xml:lang="en">Kyriakos Mitsotakis met Austrian Chancellor Christian Stocker in Salzburg, highlighting excellent bilateral relations and tourism ties. On energy costs he argued it is unfair that countries investing in renewables are burdened, while on fuel prices he said there are &#x27;no easy and magical solutions&#x27;.</content>
+    <summary xml:lang="el">Η Ντόρα Μπακογιάννη ψήφισε «παρών» στην πρόταση του κόμματός της για μία και εξαετή θητεία του Προέδρου της Δημοκρατίας, θέση που είχε διατυπώσει εξαρχής ως μέλος της επιτροπής Αναθεώρησης. Οι αναθεωρητέες διατάξεις συγκέντρωσαν 158-161 ψήφους, χωρίς την αυξημένη πλειοψηφία των 180.</summary>
+    <content type="text" xml:lang="en">Dora Bakoyannis voted &#x27;present&#x27; on her own party&#x27;s proposal for a single six-year presidential term, a position she had held from the start as a member of the constitutional revision committee. The proposed amendments gathered 158-161 votes, short of the 180-vote supermajority.</content>
   </entry>
   <entry>
-    <title>Επίθεση με τρεις νεκρούς σε φεστιβάλ γαστρονομίας στο Σιάτλ – Τι γνωρίζουμε</title>
-    <link href="https://www.kathimerini.gr/world/564368875/epithesi-me-treis-nekroys-se-festival-gastronomias-sto-siatl-ti-gnorizoyme/"/>
-    <id>urn:kathimerini:7265ffc27e33</id>
-    <updated>2026-07-27T13:14:32+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Τρεις νεκροί και τουλάχιστον τέσσερις τραυματίες, μεταξύ των οποίων δίχρονο παιδί, από πυροβολισμούς στο φεστιβάλ γαστρονομίας «Bite of Seattle» κοντά στο Space Needle. Ενας ύποπτος νεαρής ηλικίας συνελήφθη, ενώ αναζητείται τουλάχιστον ένας ακόμη δράστης.</summary>
-    <content type="text" xml:lang="en">Three people were killed and at least four wounded, including a two-year-old, in a shooting at the &#x27;Bite of Seattle&#x27; food festival near the Space Needle. One young suspect was arrested while authorities search for at least one more assailant.</content>
-  </entry>
-  <entry>
-    <title>Θεωρείο: Αλλαγή τόνου για τον ΟΠΕΚΕΠΕ</title>
-    <link href="https://www.kathimerini.gr/politics/564366457/theoreio-allagi-tonoy-gia-ton-opekepe/"/>
-    <id>urn:kathimerini:09c48cfef28b</id>
-    <updated>2026-07-27T07:20:20+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Η κυβέρνηση υπαναχωρεί από την αρχική επιθετική γραμμή για συγγνώμη από την αντιπολίτευση μετά την παραπομπή τεσσάρων βουλευτών της Ν.Δ. για τον ΟΠΕΚΕΠΕ. Συζητείται η ενδεχόμενη επιστροφή αθωωθέντων υπουργών, η οποία εξαρτάται από τον χρόνο των εκλογών — αδύνατη το φθινόπωρο, πιθανή σε ανασχηματισμό τον χειμώνα αν οι κάλπες πάνε άνοιξη.</summary>
-    <content type="text" xml:lang="en">The government has backed away from its initially aggressive demand that the opposition apologize after four ND MPs were referred over the OPEKEPE case. A possible return of acquitted ministers is being discussed, hinging on election timing — impossible if elections come in autumn, possible in a winter reshuffle if they slip to spring.</content>
-  </entry>
-  <entry>
-    <title>Κηροζίνη και 300 βόμβες στο υπέδαφος του Ελληνικού</title>
-    <link href="https://www.kathimerini.gr/economy/564366826/kirozini-kai-300-vomves-sto-ypedafos-toy-ellinikoy/"/>
-    <id>urn:kathimerini:b7fd526e8559</id>
-    <updated>2026-07-27T14:04:47+00:00</updated>
-    <author><name>Νίκος Ρουσάνογλου</name></author>
+    <title>Στο κινητό τα χρέη του καθενός προς όλο το Δημόσιο</title>
+    <link href="https://www.kathimerini.gr/economy/564366817/sto-kinito-ta-chrei-toy-kathenos-pros-olo-to-dimosio/"/>
+    <id>urn:kathimerini:eefc7d00620a</id>
+    <updated>2026-07-28T12:24:48+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Βόμβες του Β΄ Παγκοσμίου Πολέμου, κηροζίνη από διαρροές δεξαμενών και αμίαντος αποκαλύφθηκαν κατά τις εργασίες απορρύπανσης του υπεδάφους του πρώην αεροδρομίου του Ελληνικού. Το έργο εξυγίανσης, αξίας αρκετών εκατομμυρίων ευρώ, ολοκληρώνεται το προσεχές διάστημα ώστε να προχωρήσουν οι υποδομές της ανάπλασης.</summary>
-    <content type="text" xml:lang="en">World War II bombs, kerosene leaked from fuel tanks and asbestos have been uncovered during decontamination of the subsoil at the former Elliniko airport. The multi-million-euro remediation project is nearing completion so that infrastructure works for the redevelopment can proceed.</content>
+    <summary xml:lang="el">Σε λίγους μήνες το κινητό του πολίτη θα μετατραπεί σε ενιαίο ψηφιακό πίνακα ελέγχου όλων των οφειλών προς το Δημόσιο — από ΤΑΠ και δημοτικά τέλη έως κλήσεις ΚΟΚ — με ειδοποιήσεις και δυνατότητα εξόφλησης από ένα σημείο. Τέλος στο φαινόμενο πολίτες να μαθαίνουν οφειλές χρόνια μετά, επιβαρυμένες με προσαυξήσεις.</summary>
+    <content type="text" xml:lang="en">Within months, citizens&#x27; mobile phones will become a single digital dashboard for all debts to the Greek state — from property and municipal charges to traffic fines — with notifications and one-stop payment. It ends the phenomenon of citizens discovering obligations years later, inflated by surcharges and interest.</content>
   </entry>
   <entry>
-    <title>Νότια Κορέα: Ποινή 18 μηνών με αναστολή στον πρώην πρόεδρο Γιουν για ψευδείς δηλώσεις</title>
-    <link href="https://www.kathimerini.gr/world/564368899/notia-korea-poini-18-minon-me-anastoli-ston-proin-proedro-gioyn-gia-pseydeis-diloseis/"/>
-    <id>urn:kathimerini:a64954c775a2</id>
-    <updated>2026-07-27T13:43:25+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Σε φυλάκιση 18 μηνών με τριετή αναστολή καταδικάστηκε ο πρώην πρόεδρος της Νότιας Κορέας Γιουν Σουκ Γεόλ για ψευδείς δηλώσεις στην προεκλογική εκστρατεία του 2022. Η απόφαση μπορεί να υποχρεώσει το κόμμα του να επιστρέψει περίπου 27 εκατ. δολάρια στο κράτος, ενώ ο Γιουν, υπό κράτηση, αντιμετωπίζει συνολικά επτά ποινικές δίκες.</summary>
-    <content type="text" xml:lang="en">Former South Korean president Yoon Suk Yeol received an 18-month suspended sentence for false statements during his 2022 campaign. The ruling could force his party to return some $27 million to the state; Yoon, in custody, faces seven criminal trials in total.</content>
+    <title>Η παράλογη ευρωπαϊκή αντιμετώπιση της κρίσης</title>
+    <link href="https://www.kathimerini.gr/economy/564366928/i-paralogi-eyropaiki-antimetopisi-tis-krisis/"/>
+    <id>urn:kathimerini:7c10c6e962c9</id>
+    <updated>2026-07-27T17:27:18+00:00</updated>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Από την έναρξη της σύγκρουσης στη Μέση Ανατολή η Ε.Ε. έχει πληρώσει περίπου 53 δισ. ευρώ επιπλέον για εισαγωγές ορυκτών καυσίμων — κόστος που βαρύνει τον καταναλωτή — ενώ τα εθνικά μέτρα ελάφρυνσης των 14,5 δισ. χρηματοδοτούνται από τους εθνικούς προϋπολογισμούς χωρίς κοινοτική στήριξη. Ο αρθρογράφος καταγγέλλει την απουσία της Ε.Ε. από όλα τα μέτωπα της ενεργειακής κρίσης.</summary>
+    <content type="text" xml:lang="en">Since the Middle East conflict began, the EU has paid roughly €53bn extra for fossil fuel imports — costs borne by consumers — while national relief measures worth €14.5bn are funded entirely by member state budgets with no EU contribution. The columnist denounces Brussels&#x27; absence from every front of the energy crisis.</content>
   </entry>
   <entry>
-    <title>ΥΠΕΞ: Νέος γύρος συνομιλιών για τις θαλάσσιες ζώνες μεταξύ Ελλάδας – Λιβύης</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564368320/ypex-neos-gyros-synomilion-gia-tis-thalassies-zones-metaxy-elladas-livyis/"/>
-    <id>urn:kathimerini:0fab8d6293ba</id>
-    <updated>2026-07-26T22:32:56+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Τρίτος γύρος τεχνικών συνομιλιών για την οριοθέτηση θαλασσίων ζωνών μεταξύ Ελλάδας και Λιβύης πραγματοποιείται στην Αθήνα τη Δευτέρα 27 Ιουλίου, σύμφωνα με ανακοίνωση του υπουργείου Εξωτερικών.</summary>
-    <content type="text" xml:lang="en">A third round of technical talks on the delimitation of maritime zones between Greece and Libya takes place in Athens on Monday, July 27, according to the Greek Foreign Ministry.</content>
-  </entry>
-  <entry>
-    <title>Ιταλία: Νέα μέτρα για τη συγκράτηση των τιμών των καυσίμων</title>
-    <link href="https://www.kathimerini.gr/world/564368713/italia-nea-metra-gia-ti-sygkratisi-ton-timon-ton-kaysimon/"/>
-    <id>urn:kathimerini:ddb577f23716</id>
-    <updated>2026-07-27T12:15:15+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Η ιταλική κυβέρνηση εγκρίνει νέα μέτρα για τη συγκράτηση των τιμών των καυσίμων, με επίκεντρο το πετρέλαιο κίνησης, εν μέσω της ενεργειακής αναταραχής από τον πόλεμο στη Μέση Ανατολή. Η Ρώμη ισορροπεί μεταξύ προστασίας της αγοραστικής δύναμης και της δημοσιονομικής πειθαρχίας που έχει συμφωνήσει με την Ε.Ε.</summary>
-    <content type="text" xml:lang="en">Italy&#x27;s government is set to approve new measures to contain fuel prices, focused on diesel, amid energy turmoil from the Middle East war. Rome is balancing protection of household purchasing power against the fiscal discipline agreed with the EU.</content>
-  </entry>
-  <entry>
-    <title>ΕΛ.Α.Σ.: Ο Αλέξης Τσίπρας παρουσιάζει την πρόταση του κόμματος για την αυτοδιοίκηση</title>
-    <link href="https://www.kathimerini.gr/politics/564368500/el-a-s-o-alexis-tsipras-paroysiazei-tin-protasi-toy-kommatos-gia-tin-aytodioikisi/"/>
-    <id>urn:kathimerini:f2b82f78b631</id>
-    <updated>2026-07-27T09:25:27+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ο Αλέξης Τσίπρας παρουσιάζει την πρόταση της ΕΛ.Α.Σ. για την Τοπική Αυτοδιοίκηση σε εκδήλωση στο Σεράφειο, με σχέδιο αποκέντρωσης εξουσιών και πόρων. Αναμένεται η παρουσία των Χάρη Δούκα, Νίκου Χαρδαλιά και άλλων αυτοδιοικητικών, σε μια από σειρά θεματικών εκδηλώσεων του νέου κόμματος.</summary>
-    <content type="text" xml:lang="en">Alexis Tsipras will present ELAS&#x27;s proposal for local government at an event at the Serafeio, outlining a plan to decentralize powers and resources. Athens Mayor Haris Doukas, Attica Governor Nikos Hardalias and other local officials are expected, in one of a series of thematic events by the new party.</content>
-  </entry>
-  <entry>
-    <title>Χανιά: Απολογούνται ο ιατροδικαστής και ο τοξικολόγος για την αλλοίωση εκθέσεων</title>
-    <link href="https://www.kathimerini.gr/society/564368686/chania-apologoyntai-o-iatrodikastis-kai-o-toxikologos-gia-tin-alloiosi-ektheseon/"/>
-    <id>urn:kathimerini:0ce78ce6294c</id>
-    <updated>2026-07-27T11:40:48+00:00</updated>
+    <title>Δύο επείγουσες εισαγγελικές έρευνες για την ποιότητα του πόσιμου νερού σε Βόλβη και Σιθωνία</title>
+    <link href="https://www.kathimerini.gr/society/564370693/dyo-epeigoyses-eisaggelikes-ereynes-gia-tin-poiotita-toy-posimoy-neroy-se-volvi-kai-sithonia/"/>
+    <id>urn:kathimerini:4f72ddfb91b7</id>
+    <updated>2026-07-28T13:55:07+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Ο ιατροδικαστής Χανίων και τοξικολόγος απολογούνται για παθητική δωροδοκία κατ&#x27; εξακολούθηση σε τουλάχιστον οκτώ περιπτώσεις, καθώς φέρονται να εξέδιδαν ψευδείς γνωματεύσεις έναντι χρημάτων, συνδράμοντας εγκληματική οργάνωση που είχε εξαρθρωθεί πέρυσι. Ταυτοποιήθηκαν ακόμη 20 εμπλεκόμενοι.</summary>
-    <content type="text" xml:lang="en">The Chania coroner and a toxicologist are testifying over repeated passive bribery in at least eight cases, allegedly issuing false forensic reports for money in support of a criminal organization dismantled last year. Twenty more people have been identified as implicated.</content>
-  </entry>
-  <entry>
-    <title>Επίθεση στο Pride του Βερολίνου – Ελεύθερος αφέθηκε ο δεύτερος ύποπτος</title>
-    <link href="https://www.kathimerini.gr/world/564368755/epithesi-sto-pride-toy-verolinoy-eleytheros-afethike-o-deyteros-ypoptos/"/>
-    <id>urn:kathimerini:0bff37cf17c2</id>
-    <updated>2026-07-27T12:19:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Η γερμανική εισαγγελία άφησε ελεύθερο τον δεύτερο ύποπτο για τη φονική επίθεση με αυτοκίνητο στις εκδηλώσεις του Pride στο Βερολίνο, καθώς δεν επιβεβαιώθηκε ότι επέβαινε στο όχημα. Ο φερόμενος οδηγός, 21χρονος με ιστορικό ισλαμιστικού εξτρεμισμού, σκοτώθηκε από αστυνομικά πυρά την Κυριακή.</summary>
-    <content type="text" xml:lang="en">German prosecutors released the second suspect held over the deadly car attack at Berlin Pride events, as suspicions he was in the vehicle were not confirmed. The alleged driver, a 21-year-old with a history of Islamist extremism, was shot dead by police on Sunday.</content>
-  </entry>
-  <entry>
-    <title>ΗΠΑ: Εντείνεται ο «πόλεμος» στο Δημοκρατικό Κόμμα για τις προκριματικές εκλογές</title>
-    <link href="https://www.kathimerini.gr/world/564368563/ipa-enteinetai-o-polemos-sto-dimokratiko-komma-gia-tis-prokrimatikes-ekloges/"/>
-    <id>urn:kathimerini:cff8655f5340</id>
-    <updated>2026-07-27T10:22:58+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Εντείνεται η εσωκομματική σύγκρουση στο Δημοκρατικό Κόμμα των ΗΠΑ για τον σχεδιασμό των προκριματικών εκλογών ενόψει του 2028, με την προοδευτική πτέρυγα να καταγγέλλει ότι η έναρξη από τη Νότια Καρολίνα ευνοεί τους μετριοπαθείς και ανακόπτει τη δυναμική της αριστεράς.</summary>
-    <content type="text" xml:lang="en">Infighting is intensifying in the US Democratic Party over the 2028 primary calendar, with the progressive wing charging that starting in South Carolina favors moderates and blunts the left&#x27;s momentum.</content>
-  </entry>
-  <entry>
-    <title>Συνωστισμός και αναβρασμός στον προθάλαμο της ΕΛΑΣ</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564366388/synostismos-kai-anavrasmos-ston-prothalamo-tis-elas/"/>
-    <id>urn:kathimerini:af0011d19c7c</id>
-    <updated>2026-07-26T20:46:46+00:00</updated>
-    <author><name>Βασιλική Σιούτη</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Τρεις διαφορετικές εισηγήσεις εξετάζει ο Αλέξης Τσίπρας για την τύχη των βουλευτών που παραιτήθηκαν από τον ΣΥΡΙΖΑ και προσβλέπουν σε ένταξη στην ΕΛΑΣ. Στελέχη εκτιμούν ότι βουλευτές της περιφέρειας με προσωπική εκλογική βάση έχουν περισσότερες πιθανότητες να γίνουν δεκτοί, ενώ οι περισσότεροι δεν έχουν καμία διαβεβαίωση.</summary>
-    <content type="text" xml:lang="en">Alexis Tsipras is weighing three different recommendations on the fate of MPs who resigned from SYRIZA hoping to join ELAS. Party figures believe regional MPs with a personal electoral base stand better chances, while most defectors have no assurance of acceptance.</content>
-  </entry>
-  <entry>
-    <title>Δολοφονία Σταύρου Γεωργίου: Ενώπιον της ανακρίτριας ο 28χρονος Αιγύπτιος κατηγορούμενος</title>
-    <link href="https://www.kathimerini.gr/society/564368851/dolofonia-stayroy-georgioy-enopion-tis-anakritrias-o-28chronos-aigyptios-katigoroymenos/"/>
-    <id>urn:kathimerini:a25cf80a5b31</id>
-    <updated>2026-07-27T13:03:40+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Ενώπιον της ανακρίτριας απολογείται ο 28χρονος Αιγύπτιος που κατηγορείται για τη δολοφονία του ποινικολόγου Σταύρου Γεωργίου, ο οποίος ξυλοκοπήθηκε θανάσιμα στο γραφείο του στις 20 Ιουλίου. Διώκεται για ανθρωποκτονία από πρόθεση, κλοπή και παράνομη διαμονή, ενώ σε βάρος του εκκρεμούσε ένταλμα και για άλλη υπόθεση.</summary>
-    <content type="text" xml:lang="en">The 28-year-old Egyptian man accused of murdering criminal lawyer Stavros Georgiou, fatally beaten in his office on July 20, is testifying before the investigating magistrate. He faces charges of intentional homicide, theft and illegal residence, with a separate arrest warrant also pending against him.</content>
-  </entry>
-  <entry>
-    <title>Ισπανία: Δεκάδες χιλιάδες διαδηλωτές κατά του μαζικού τουρισμού στη Μαγιόρκα</title>
-    <link href="https://www.kathimerini.gr/world/564368620/ispania-dekades-chiliades-diadilotes-kata-toy-mazikoy-toyrismoy-sti-magiorka/"/>
-    <id>urn:kathimerini:00fbd7e9a273</id>
-    <updated>2026-07-27T11:08:46+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Περίπου 25.000 διαδηλωτές βγήκαν στους δρόμους της Πάλμα της Μαγιόρκα κατά του μαζικού τουρισμού, με επεισόδια μεταξύ διαδηλωτών και αστυνομίας. Η πρωτοβουλία «Λιγότερος Τουρισμός, Περισσότερη Ζωή» διαδηλώνει για τρίτη συνεχόμενη χρονιά, έναν χρόνο πριν από τις περιφερειακές εκλογές στις Βαλεαρίδες.</summary>
-    <content type="text" xml:lang="en">Some 25,000 protesters took to the streets of Palma de Mallorca against mass tourism, with clashes between demonstrators and police. The &#x27;Less Tourism, More Life&#x27; initiative is protesting for a third straight year, one year before regional elections in the Balearics.</content>
+    <summary xml:lang="el">Δύο επείγουσες προκαταρκτικές έρευνες για την ποιότητα του πόσιμου νερού σε Σιθωνία και Βόλβη παρήγγειλε ο προϊστάμενος της Εισαγγελίας Εφετών Θεσσαλονίκης, μετά από ευρήματα εντερόκοκκων και κολοβακτηριδίων εκτός ορίων στη Χαλκιδική και αυξημένων συγκεντρώσεων ουρανίου και φθορίου στη Νυμφόπετρα. Διερευνάται το αδίκημα της παράλειψης μέτρων πρόληψης ασθενειών.</summary>
+    <content type="text" xml:lang="en">The head of the Thessaloniki appeals prosecution ordered two urgent preliminary investigations into drinking water quality in Sithonia and Volvi, after tests found enterococci and coliforms above limits in Halkidiki and elevated uranium and fluoride concentrations in Nymfopetra. Prosecutors are examining possible failure to take disease-prevention measures.</content>
   </entry>
 </feed>
