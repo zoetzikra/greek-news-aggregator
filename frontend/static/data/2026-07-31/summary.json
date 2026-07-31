@@ -1,0 +1,334 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T11:16:41.692693+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 84 articles over 24h.",
+  "executive_summary": {
+    "el": "Για τρίτη συνεχόμενη ημέρα η χώρα δίνει μάχη με τις πυρκαγιές, με το μέτωπο του Ρεθύμνου να παραμένει ενεργό και νέες εστίες σε Βοιωτία, Αργολίδα, Βόρεια Εύβοια, Πάρο, Ανδρο και Κάλυμνο. Οι θυελλώδεις άνεμοι έως 9 μποφόρ δυσχεραίνουν τα εναέρια μέσα και επιβάλλουν απαγορευτικό απόπλου, ενώ η χώρα θρηνεί τρεις πυροσβέστες. Η ΔΑΕΕ συνέλαβε τον υπεύθυνο λειτουργίας δικτύου ΔΕΔΔΗΕ Ρεθύμνου, καθώς η φωτιά φέρεται να ξεκίνησε από αγωγούς μέσης τάσης, ενώ ο ΧΥΤΑ της Πάρου αναδεικνύεται σε σύμβολο των ελλείψεων υποδομών στα τουριστικά νησιά.\n\nΣτη Μέση Ανατολή η κατάσταση κλιμακώνεται επικίνδυνα: το Ιράν έπληξε αμερικανικές εγκαταστάσεις σε Κουβέιτ και Ιορδανία και δεξαμενόπλοια στα Στενά του Ορμούζ, ενώ επίθεση drone στη Νταμιέτα της Αιγύπτου — με ζημιές και σε ελληνόκτητο πλοίο — επεκτείνει γεωγραφικά τον πόλεμο. Παράλληλα, η μαζική είσοδος χιλιάδων μεταναστών από το Μαρόκο στη Θέουτα, με τουλάχιστον 18 νεκρούς, προκαλεί ευρωπαϊκή κρίση, με την Ιταλία να προτείνει αναστολή της Ισπανίας από τη Σένγκεν και τη Γαλλία να ενισχύει τα σύνορά της. Πιο ελπιδοφόρα νότα, η αποδοχή από τη Χαμάς του πλαισίου αφοπλισμού της στη Γάζα.\n\nΣτο εσωτερικό, ο πόλεμος ΠΑΣΟΚ – ΕΛΑΣ κλιμακώνεται με αφορμή τα κομματικά οικονομικά και τη χρηματοδότηση της καμπάνιας Τσίπρα, ενώ τουρκικό UAV πραγματοποίησε την πρώτη υπερπτήση ελληνικού εδάφους μετά από 3,5 χρόνια, πάνω από το Αγαθονήσι. Ο πρωθυπουργός παρουσίασε στο υπουργικό συμβούλιο τον οδικό χάρτη έως τη ΔΕΘ, ανακοινώνοντας αύξηση του αφορολογήτου στα φιλοδωρήματα, και επέμεινε ότι οι εκλογές θα γίνουν την άνοιξη του 2027.\n\nΣτην οικονομία, η ανεργία υποχώρησε στο 8% τον Ιούνιο — χαμηλό 14ετίας — και ο τουρισμός κινείται ανοδικά, όμως οι διεθνείς αγορές ανησυχούν: οι αποδόσεις των αμερικανικών 30ετών ομολόγων άγγιξαν υψηλά 19 ετών. Στον πολιτισμό, ξεχωρίζει ο εντοπισμός αρχαίου ναυαγίου με 600-650 αμφορείς κλασικών χρόνων στην Ανδρο.",
+    "en": "For a third consecutive day Greece is battling wildfires, with the Rethymno front still active and new outbreaks in Boeotia, Argolis, northern Evia, Paros, Andros and Kalymnos. Gale-force winds up to 9 Beaufort are hampering aerial firefighting and forcing sailing bans, while the country mourns three firefighters. Arson investigators arrested the Rethymno network manager of grid operator DEDDIE, as the fire reportedly started from medium-voltage power lines, and the Paros landfill has become a symbol of infrastructure deficits on tourist islands.\n\nIn the Middle East the situation is escalating dangerously: Iran struck American installations in Kuwait and Jordan and tankers in the Strait of Hormuz, while a drone attack at Egypt's Damietta port — also damaging a Greek-owned vessel — geographically expands the war. Meanwhile, the mass crossing of thousands of migrants from Morocco into Ceuta, with at least 18 dead, is triggering a European crisis, with Italy proposing Spain's suspension from Schengen and France reinforcing its borders. On a more hopeful note, Hamas appears to accept the framework for its disarmament in Gaza.\n\nDomestically, the PASOK-ELAS war is escalating over party finances and the funding of Tsipras's campaign, while a Turkish UAV carried out the first overflight of Greek territory in 3.5 years, above Agathonisi. The prime minister presented his cabinet with the roadmap to the Thessaloniki Fair, announcing a higher tax-free threshold for tips, and insisted elections will be held in spring 2027.\n\nIn the economy, unemployment fell to 8% in June — a 14-year low — and tourism is growing, but international markets are jittery: US 30-year bond yields hit 19-year highs. In culture, the discovery of an ancient shipwreck with 600-650 classical-era amphorae off Andros stands out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πυρκαγιές σε όλη τη χώρα",
+        "en": "Wildfires across Greece"
+      },
+      "description": {
+        "el": "Τρίτη ημέρα πύρινων μετώπων σε Κρήτη, Πάρο, Ανδρο, Κάλυμνο, Βοιωτία και Αργολίδα, με τρεις νεκρούς πυροσβέστες, σύλληψη στελέχους του ΔΕΔΔΗΕ για την εστία του Ρεθύμνου και αιχμές για τον ΧΥΤΑ Πάρου.",
+        "en": "Third day of fire fronts on Crete, Paros, Andros, Kalymnos, Boeotia and Argolis, with three firefighters dead, a DEDDIE manager arrested over the Rethymno origin, and scrutiny of the Paros landfill."
+      },
+      "related_items": [
+        "135dd6787201",
+        "7bdffc78df02",
+        "5daab28b7581",
+        "9afff323856b",
+        "9f61fb89f38b",
+        "e52fd7d31c3e",
+        "598b8f3d7ea7",
+        "f394e1dc75fc",
+        "87f36397c7c5",
+        "85861f28b4f4"
+      ],
+      "importance": 95
+    },
+    {
+      "name": {
+        "el": "Κλιμάκωση στη Μέση Ανατολή",
+        "en": "Middle East escalation"
+      },
+      "description": {
+        "el": "Εκατέρωθεν πλήγματα ΗΠΑ – Ιράν: επιθέσεις σε βάσεις σε Κουβέιτ και Ιορδανία, χτυπήματα σε τάνκερ στο Ορμούζ και επίθεση drone στη Νταμιέτα της Αιγύπτου.",
+        "en": "US-Iran exchanges: strikes on bases in Kuwait and Jordan, tanker attacks in Hormuz, and a drone strike at Egypt's Damietta port."
+      },
+      "related_items": [
+        "c45005497bef",
+        "0cf9758df085",
+        "881fb4928113",
+        "ddfd436da686",
+        "18ab464b48a2",
+        "b252581161a6"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Μεταναστευτική κρίση στη Θέουτα",
+        "en": "Ceuta migration crisis"
+      },
+      "description": {
+        "el": "Χιλιάδες μετανάστες πέρασαν από το Μαρόκο στον ισπανικό θύλακα με τουλάχιστον 18 νεκρούς· η Ισπανία αναπτύσσει στρατό, η Ιταλία προτείνει αναστολή της από τη Σένγκεν και η Γαλλία ενισχύει τα σύνορα.",
+        "en": "Thousands of migrants crossed from Morocco into the Spanish enclave with at least 18 dead; Spain deploys the army, Italy proposes suspending it from Schengen, France reinforces its borders."
+      },
+      "related_items": [
+        "b29085a50452",
+        "0e49dbc640f6",
+        "12d00b7bebe5",
+        "f4b7a2a61fa7",
+        "a4e2fa08d12b"
+      ],
+      "importance": 84
+    },
+    {
+      "name": {
+        "el": "Πόλεμος ΠΑΣΟΚ – ΕΛΑΣ",
+        "en": "PASOK-ELAS political war"
+      },
+      "description": {
+        "el": "Η αντιπαράθεση για τα κομματικά χρέη και τη χρηματοδότηση της καμπάνιας Τσίπρα κλιμακώνεται σε ανοιχτή σύγκρουση στον χώρο της αντιπολίτευσης, ενόψει εκλογών την άνοιξη του 2027.",
+        "en": "The dispute over party debts and the funding of Tsipras's campaign escalates into open conflict within the opposition, ahead of spring 2027 elections."
+      },
+      "related_items": [
+        "01af66846fb9",
+        "564e37e59ef0",
+        "2eab4cec9693",
+        "f2a7403c57f2",
+        "4df4810530c4"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά και Κυπριακό",
+        "en": "Greek-Turkish relations and Cyprus"
+      },
+      "description": {
+        "el": "Πρώτη τουρκική υπερπτήση μετά από 3,5 χρόνια πάνω από το Αγαθονήσι, ενώ στη Λευκωσία ο απεσταλμένος της Ε.Ε. Φίτο επιχειρεί να στηρίξει την προσπάθεια Γκουτέρες παρά την τουρκική αδιαλλαξία.",
+        "en": "First Turkish overflight in 3.5 years above Agathonisi, while in Nicosia EU envoy Fitto backs the Guterres effort despite Turkish intransigence."
+      },
+      "related_items": [
+        "e412d64cd747",
+        "d6ecd6a21e59",
+        "a9c04bae261b",
+        "d899f111cbd8"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Οικονομία: ανεργία και αγορές",
+        "en": "Economy: jobs and markets"
+      },
+      "description": {
+        "el": "Η ανεργία υποχώρησε στο 8%, χαμηλό 14ετίας, και ο τουρισμός ενισχύεται, αλλά τα αμερικανικά 30ετή ομόλογα άγγιξαν υψηλά 19 ετών, τροφοδοτώντας φόβους νέας κρίσης.",
+        "en": "Unemployment fell to 8%, a 14-year low, and tourism is growing, but US 30-year bonds hit 19-year highs, stoking fears of a new crisis."
+      },
+      "related_items": [
+        "5a2af1946132",
+        "fd980cd589c4",
+        "400864ceedd2",
+        "c092e0b4d992",
+        "f099180dcd8d"
+      ],
+      "importance": 68
+    }
+  ],
+  "article_count": 84,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "e412d64cd747",
+        "01af66846fb9",
+        "598b8f3d7ea7",
+        "d6ecd6a21e59",
+        "c092e0b4d992"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "ddfd436da686",
+        "fd980cd589c4",
+        "5a2af1946132",
+        "6ccfb85199e9",
+        "1960411ba854"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "135dd6787201",
+        "7bdffc78df02",
+        "5daab28b7581",
+        "9afff323856b",
+        "e52fd7d31c3e"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "c45005497bef",
+        "b29085a50452",
+        "0cf9758df085",
+        "881fb4928113",
+        "b252581161a6"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "87f36397c7c5",
+        "f394e1dc75fc",
+        "d899f111cbd8",
+        "d884d939790d",
+        "9d176a0cbbe6"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "51838a4f35b6",
+        "865f79bd42ea",
+        "b3f75ffad9d4",
+        "6c01b76c5da2",
+        "3a64ae3974a5"
+      ]
+    },
+    "ai": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "0cf9758df085",
+          "title": "Ιρανική επίθεση κατά βάσης στο Κουβέιτ",
+          "url": "https://www.kathimerini.gr/world/564376882/iraniki-epithesi-kata-vasis-sto-koyveit/",
+          "source": "Kathimerini",
+          "published": "2026-07-31T07:47:36+00:00",
+          "category": "world",
+          "importance": 82,
+          "summary": {
+            "el": "Ο ιρανικός στρατός ανακοίνωσε πλήγματα με drones αυτοκτονίας στην αεροπορική βάση Αχμεντ αλ Τζαμπέρ στο Κουβέιτ, σε αντίποινα για τα αμερικανικά χτυπήματα στη νήσο Κεσμ. Την προηγουμένη οι Φρουροί είχαν εκτοξεύσει βαλλιστικούς πυραύλους κατά της βάσης Αλ Αζράκ στην Ιορδανία, καταστρέφοντας τρία F-35 σύμφωνα με την Τεχεράνη.",
+            "en": "Iran's army announced suicide-drone strikes on Kuwait's Ahmad al-Jaber air base in retaliation for US strikes on Qeshm island. A day earlier, the Guards fired ballistic missiles at Jordan's Al-Azraq base, destroying three F-35s according to Tehran."
+          },
+          "tags": {
+            "el": [
+              "Ιράν",
+              "Κουβέιτ",
+              "drones",
+              "αντίποινα"
+            ],
+            "en": [
+              "Iran",
+              "Kuwait",
+              "drones",
+              "retaliation"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6ccfb85199e9",
+          "title": "ChatGPT και Roblox μπαίνουν υπό στενή παρακολούθηση της Ε.Ε.",
+          "url": "https://www.kathimerini.gr/economy/international/564376966/chatgpt-kai-roblox-mpainoyn-ypo-steni-parakoloythisi-tis-e-e/",
+          "source": "Kathimerini",
+          "published": "2026-07-31T09:11:05+00:00",
+          "category": "economy",
+          "importance": 70,
+          "summary": {
+            "el": "Η Κομισιόν ετοιμάζεται να χαρακτηρίσει το ChatGPT και το Roblox «πολύ μεγάλες διαδικτυακές πλατφόρμες» (VLOP) βάσει του DSA, καθώς ξεπέρασαν τα 45 εκατ. μηνιαίους χρήστες στην Ε.Ε., σύμφωνα με το Bloomberg. Η ένταξη συνεπάγεται αυστηρότερους ελέγχους, εκθέσεις διαφάνειας και πρόστιμα έως 6% του παγκόσμιου τζίρου σε περίπτωση παράβασης.",
+            "en": "The European Commission is set to designate ChatGPT and Roblox as Very Large Online Platforms under the DSA after they exceeded 45 million monthly EU users, Bloomberg reports. The designation brings stricter oversight, transparency reports and fines of up to 6% of global turnover for violations."
+          },
+          "tags": {
+            "el": [
+              "ChatGPT",
+              "Roblox",
+              "DSA",
+              "Ε.Ε.",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "ChatGPT",
+              "Roblox",
+              "DSA",
+              "EU",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1960411ba854",
+          "title": "Το κρυφό κόστος της δωρεάν AI από την Κίνα",
+          "url": "https://www.kathimerini.gr/economy/international/564374290/to-kryfo-kostos-tis-dorean-ai-apo-tin-kina/",
+          "source": "Kathimerini",
+          "published": "2026-07-30T23:53:01+00:00",
+          "category": "economy",
+          "importance": 68,
+          "summary": {
+            "el": "Οι λήψεις κινεζικών ανοιχτών μοντέλων ΑΙ ξεπέρασαν πέρυσι για πρώτη φορά τις αμερικανικές, με ραγδαία υιοθέτηση σε Αφρική, Λατινική Αμερική και Ευρώπη. Το άρθρο προειδοποιεί ότι τα μοντέλα αυτά κατασκευάζονται «για την Κίνα»: η κινεζική νομοθεσία ενσωματώνει λογοκρισία και προπαγάνδα και υποχρεώνει τους δημιουργούς να συνδράμουν τις μυστικές υπηρεσίες.",
+            "en": "Downloads of Chinese open AI models surpassed American ones for the first time last year, with rapid adoption across Africa, Latin America and Europe. The article warns these models are built 'for China': Chinese law embeds censorship and propaganda and obliges their creators to assist intelligence services."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Κίνα",
+              "ανοιχτά μοντέλα",
+              "προπαγάνδα"
+            ],
+            "en": [
+              "artificial intelligence",
+              "China",
+              "open models",
+              "propaganda"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "cdd8364b567c",
+          "title": "Αλλάζει η παγκόσμια αγορά ειδών πολυτελείας",
+          "url": "https://www.kathimerini.gr/economy/international/564374248/allazei-i-pagkosmia-agora-eidon-polyteleias/",
+          "source": "Kathimerini",
+          "published": "2026-07-30T21:14:51+00:00",
+          "category": "economy",
+          "importance": 50,
+          "summary": {
+            "el": "Τα αποτελέσματα των μεγάλων ομίλων πολυτελείας δείχνουν αγορά δύο ταχυτήτων: η Κίνα δεν ανακάμπτει, οι εύποροι Αμερικανοί στηρίζουν τη ζήτηση, ενώ τεχνολογία και κοσμήματα ξεπερνούν την παραδοσιακή μόδα. Η Gucci δείχνει σημάδια σταθεροποίησης με πτώση μόλις 2%, ενώ η EssilorLuxottica ποντάρει στα γυαλιά τεχνητής νοημοσύνης.",
+            "en": "Results from the big luxury groups show a two-speed market: China is not recovering, wealthy Americans prop up demand, and technology and jewelry outpace traditional fashion. Gucci shows signs of stabilizing with sales down just 2%, while EssilorLuxottica bets on AI glasses."
+          },
+          "tags": {
+            "el": [
+              "πολυτέλεια",
+              "Gucci",
+              "Kering",
+              "Hermès"
+            ],
+            "en": [
+              "luxury",
+              "Gucci",
+              "Kering",
+              "Hermès"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "02486d31e306",
+          "title": "Πορτογαλία: «Χάος» στις σχολικές εξετάσεις – Εντονες αντιδράσεις μαθητών και εκπαιδευτικών",
+          "url": "https://www.kathimerini.gr/world/564377047/portogalia-chaos-stis-scholikes-exetaseis-entones-antidraseis-mathiton-kai-ekpaideytikon/",
+          "source": "Kathimerini",
+          "published": "2026-07-31T10:06:43+00:00",
+          "category": "world",
+          "importance": 48,
+          "summary": {
+            "el": "Χάος στις εθνικές σχολικές εξετάσεις της Πορτογαλίας μετά την προβληματική ψηφιοποίηση των βαθμολογήσεων: γραπτά διανεμήθηκαν σε συνταξιούχους και ακόμη και σε έναν αποθανόντα καθηγητή. Περίπου 19.000 υπογραφές ζητούν ακύρωση των αποτελεσμάτων, ενώ εξετάζεται νομική προσφυγή.",
+            "en": "Chaos in Portugal's national school exams after a botched digitization of grading: papers were assigned to retired and even one deceased teacher. Around 19,000 signatures demand the annulment of results, and legal action is being considered."
+          },
+          "tags": {
+            "el": [
+              "Πορτογαλία",
+              "εξετάσεις",
+              "εκπαίδευση",
+              "ψηφιοποίηση"
+            ],
+            "en": [
+              "Portugal",
+              "exams",
+              "education",
+              "digitization"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  }
+}
