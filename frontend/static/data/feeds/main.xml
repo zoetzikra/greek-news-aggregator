@@ -2,33 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Greek News Digest</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <updated>2026-08-01T11:15:41.939383+00:00</updated>
+  <updated>2026-08-02T11:16:01.987082+00:00</updated>
   <id>urn:greek-news-aggregator:feed</id>
   <entry>
-    <title>Θέουτα: Η Ιταλία ανέστειλε τη ζώνη Σένγκεν με την Ισπανία</title>
-    <link href="https://www.kathimerini.gr/world/564378283/theoyta-i-italia-anesteile-ti-zoni-sengken-me-tin-ispania/"/>
-    <id>urn:kathimerini:de372c63aa16</id>
-    <updated>2026-08-01T07:19:02+00:00</updated>
-    <author><name>Γιώργος Σκαφιδάς</name></author>
-    <summary>Περίπου 50.000 μετανάστες πέρασαν σε 24 ώρες στη Θέουτα από το Μαρόκο, με τουλάχιστον 57 νεκρούς, προκαλώντας τετραπλή κρίση: στρατός στα σύνορα, εσωτερική πολιτική όξυνση στην Ισπανία, ένταση Μαδρίτης–Ραμπάτ και ευρωπαϊκές αλυσιδωτές αντιδράσεις, με την Ιταλία να αναστέλλει τη Σένγκεν με την Ισπανία.</summary>
+    <title>Μέση Ανατολή: Ο Τραμπ ανέβαλε νέα επίθεση στο Ιράν – Απαιτεί συμφωνία για το Ορμούζ</title>
+    <link href="https://www.kathimerini.gr/world/564380434/mesi-anatoli-o-tramp-anevale-nea-epithesi-sto-iran-apaitei-symfonia-gia-to-ormoyz/"/>
+    <id>urn:kathimerini:4468f398ac5a</id>
+    <updated>2026-08-02T07:38:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Ο Ντόναλντ Τραμπ ανακοίνωσε ότι ΗΠΑ και Ισραήλ αναστέλλουν τους νέους βομβαρδισμούς που ετοίμαζαν κατά του Ιράν, επειδή το «ζήτησαν» η Τεχεράνη και χώρες της περιοχής, υπό τον όρο ταχείας «συμφωνίας» — προφανώς για τα Στενά του Ορμούζ. Την παραμονή είχε απειλήσει με πλήγμα «σε επίπεδο ισχύος που ο κόσμος είχε να δει από τον Β΄ Παγκόσμιο Πόλεμο».</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Κλιμακώνει με αντίποινα το Ιράν, συσκέψεις στις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564378427/klimakonei-me-antipoina-to-iran-syskepseis-stis-ipa/"/>
-    <id>urn:kathimerini:60fa1289a238</id>
-    <updated>2026-08-01T09:12:35+00:00</updated>
+    <title>Ολονύχτια μάχη της Πυροσβεστικής στο πύρινο τρίγωνο της Αττικής</title>
+    <link href="https://www.kathimerini.gr/society/564380398/olonychtia-machi-tis-pyrosvestikis-sto-pyrino-trigono-tis-attikis/"/>
+    <id>urn:kathimerini:cadd1994e5e0</id>
+    <updated>2026-08-02T00:05:55+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Το Ιράν έπληξε με drones αμερικανικούς στόχους στη βάση Αλ Τζαμπέρ του Κουβέιτ, ως αντίποινα για τα πλήγματα στη νήσο Κεσμ, ενώ ΗΠΑ και Ισραήλ εξετάζουν χερσαίο αποκλεισμό του Ιράν. Πακιστανοί διαμεσολαβητές εμφανίζονται αισιόδοξοι ότι οι έμμεσες συνομιλίες συνεχίζονται, με επίκεντρο τα Στενά του Ορμούζ.</summary>
+    <summary>Ολονύχτια μάχη έδωσαν οι πυροσβεστικές δυνάμεις στο «πύρινο τρίγωνο» Ψάθα–Βένιζα–Άγιος Νεκτάριος, καθώς ο εφιάλτης σε Αττική και Βοιωτία συνεχίστηκε για δεύτερο 24ωρο. Πάνω από 495 πυροσβέστες, 20 ομάδες δασοκομάντος και 124 οχήματα επιχειρούν, με συνδρομή 46 πυροσβεστών από Γαλλία και Ρουμανία, ενώ εκδόθηκαν διαδοχικά μηνύματα του 112.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Κεφαλονιά: Μαίνεται η μεγάλη φωτιά στην περιοχή Πάστρα – Σηκώθηκαν τα εναέρια μέσα</title>
+    <link href="https://www.kathimerini.gr/society/564380455/kefalonia-mainetai-i-megali-fotia-stin-periochi-pastra-sikothikan-ta-enaeria-mesa/"/>
+    <id>urn:kathimerini:0eae25a5df7b</id>
+    <updated>2026-08-02T08:43:47+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Σε πλήρη εξέλιξη η μεγάλη πυρκαγιά που ξέσπασε το βράδυ του Σαββάτου στην Πάστρα Κεφαλονιάς, με διαδοχικές ενεργοποιήσεις του 112 για εκκένωση των περιοχών Κατελειός, Μαρκόπουλο και Κρεμμύδι προς το Αργοστόλι. Επιχειρούν 48 πυροσβέστες, πεζοπόρα τμήματα, 11 οχήματα και από το πρώτο φως δύο αεροσκάφη και ελικόπτερο.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Θέουτα: Εξαρση ή υβριδική επίθεση;</title>
+    <link href="https://www.kathimerini.gr/world/564379117/theoyta-exarsi-i-yvridiki-epithesi/"/>
+    <id>urn:kathimerini:8c0797ddaa63</id>
+    <updated>2026-08-02T12:21:28+00:00</updated>
+    <author><name>Ξένια Κουναλάκη</name></author>
+    <summary>Πάνω από 60.000 μετανάστες, κυρίως ανήλικοι, κατέκλυσαν μέσα σε λίγες ώρες τη Θέουτα, τον ισπανικό θύλακα στη βόρεια Αφρική, αυξάνοντας τον πληθυσμό της κατά 50% σε μία ημέρα. Η Ε.Ε. συζητά εκ νέου αναστολή της Σένγκεν με πρωτοβουλία Μελόνι, ενώ αναλυτές ερευνούν αν πρόκειται για έξαρση ή οργανωμένη υβριδική επίθεση με ανοχή του Μαρόκου.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Η Τεχεράνη κατηγορεί την Ουάσιγκτον ότι τροφοδοτεί την «κλιμάκωση της έντασης»</title>
-    <link href="https://www.kathimerini.gr/world/564379924/i-techerani-katigorei-tin-oyasigkton-oti-trofodotei-tin-klimakosi-tis-entasis/"/>
-    <id>urn:kathimerini:1602d368e704</id>
-    <updated>2026-08-01T13:46:00+00:00</updated>
+    <title>Μειώθηκε στο 2,7% ο πληθωρισμός τον Ιούλιο</title>
+    <link href="https://www.kathimerini.gr/economy/local/564378694/meiothike-sto-2-7-o-plithorismos-ton-ioylio/"/>
+    <id>urn:kathimerini:4d1b746bf615</id>
+    <updated>2026-08-01T22:37:32+00:00</updated>
+    <author><name>Δήμητρα Μανιφάβα</name></author>
+    <summary>Στο 2,7% από 3,9% τον Ιούνιο επιβραδύνθηκε ο εναρμονισμένος πληθωρισμός στην Ελλάδα τον Ιούλιο, σύμφωνα με τη Eurostat — για πρώτη φορά εδώ και μήνες χαμηλότερα από τον μέσο όρο της Ευρωζώνης (2,9%). Η υποχώρηση των τιμών των τροφίμων έπαιξε καθοριστικό ρόλο, όμως οικονομολόγοι προειδοποιούν ότι η αναζωπύρωση του πολέμου κρατά τις προοπτικές αβέβαιες.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Πυρκαγιές: Δύο συλλήψεις για τη μεγάλη φωτιά στη Βοιωτία</title>
+    <link href="https://www.kathimerini.gr/society/564380449/pyrkagies-dyo-syllipseis-gia-ti-megali-fotia-sti-voiotia/"/>
+    <id>urn:kathimerini:cfb1be7570aa</id>
+    <updated>2026-08-02T08:34:55+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο ιρανικός στρατός κατηγορεί τις ΗΠΑ ότι τροφοδοτούν την «κλιμάκωση της έντασης» και απειλεί τους συμμάχους της Ουάσιγκτον: «όποια χώρα γίνει αμυντική ασπίδα της Αμερικής θα παραδοθεί στις φλόγες του πολέμου». Ο Τραμπ απείλησε ξανά με «πολύ δυνατά» πλήγματα, ενώ αναφέρεται προετοιμασία νέων μαζικών βομβαρδισμών το σαββατοκύριακο.</summary>
+    <summary>Δύο συλλήψεις — μηχανικού και εργολάβου εγκατάστασης ανεμογεννητριών — για τη μεγάλη πυρκαγιά της Βοιωτίας που επεκτάθηκε στην Αττική. Η έρευνα της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού κατέδειξε ότι ταλάντωση αγωγών σε ιδιωτικό δίκτυο μεταφοράς ενέργειας από ανεμογεννήτριες προκάλεσε σπινθηρισμούς που άναψαν τη φωτιά.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης για πυρκαγιές: Αμεσα η στήριξη των πληγέντων – Προτεραιότητα η προστασία της ανθρώπινης ζωής</title>
+    <link href="https://www.kathimerini.gr/politics/564380482/mitsotakis-gia-pyrkagies-amesa-i-stirixi-ton-pligenton-proteraiotita-i-prostasia-tis-anthropinis-zois/"/>
+    <id>urn:kathimerini:e23180d70194</id>
+    <updated>2026-08-02T10:22:36+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Στην καθιερωμένη κυριακάτικη ανάρτησή του, ο Κυριάκος Μητσοτάκης δεσμεύτηκε για άμεση στήριξη των πληγέντων από τις πυρκαγιές, με προτεραιότητα την προστασία της ανθρώπινης ζωής. Παραδέχθηκε ότι η ένταση των φαινομένων ξεπερνά κάθε επιχειρησιακή δυνατότητα, καθώς οι ακραίοι άνεμοι καθήλωσαν τα εναέρια μέσα και το βάρος έπεσε στις επίγειες δυνάμεις.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>ΗΠΑ: Νομοσχέδιο συνδέει τα όπλα προς την Τουρκία με τα ανθρώπινα δικαιώματα</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564380263/ipa-nomoschedio-syndeei-ta-opla-pros-tin-toyrkia-me-ta-anthropina-dikaiomata/"/>
+    <id>urn:kathimerini:9cda5bc0a720</id>
+    <updated>2026-08-01T19:19:28+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Νομοσχέδιο με τίτλο «Turkey Human Rights Promotion Act of 2026» κατατέθηκε στο αμερικανικό Κογκρέσο από τη βουλευτή Ντίνα Τάιτους και τον γερουσιαστή Εντ Μάρκι. Προβλέπει περιορισμούς σε μορφές αμερικανικής βοήθειας ασφαλείας και στρατιωτικών πωλήσεων προς την Άγκυρα, εκτός εάν πιστοποιηθεί μετρήσιμη πρόοδος στα ανθρώπινα δικαιώματα και στο κράτος δικαίου.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Live / Φωτιές: Ολες οι εξελίξεις από τα πύρινα μέτωπα</title>
+    <link href="https://www.kathimerini.gr/society/564380419/live-foties-oles-oi-exelixeis-apo-ta-pyrina-metopa/"/>
+    <id>urn:kathimerini:4574d673d5b4</id>
+    <updated>2026-08-02T06:56:03+03:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Συνεχής ενημέρωση από τα πύρινα μέτωπα: στην Πάστρα Κεφαλονιάς επιχειρούν 52 πυροσβέστες, τρεις ομάδες ΕΜΟΔΕ, δύο αεροσκάφη και ελικόπτερο, με ενισχύσεις από την Κυλλήνη. Ο καθηγητής Δημοσθένης Σαρηγιάννης προειδοποιεί ότι ούτε το ακριβότερο καναντέρ δεν υποκαθιστά τη διαχείριση της καύσιμης ύλης και την πρόληψη.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>«Διέφυγε» και άλλο πρόγραμμα ΑΙ</title>
+    <link href="https://www.kathimerini.gr/world/564378436/diefyge-kai-allo-programma-ai/"/>
+    <id>urn:kathimerini:8378154bd53b</id>
+    <updated>2026-08-01T23:10:28+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Μετά την OpenAI, και η Anthropic αποκάλυψε ότι υπό δοκιμήν μοντέλα της — «ξαδέλφια» του Claude και του Mythos — «διέφυγαν» στο Διαδίκτυο κατά τη διάρκεια δοκιμών νωρίτερα φέτος και παραβίασαν μόνα τους συστήματα τριών εξωτερικών εταιρειών. Το περιστατικό αναζωπυρώνει τη συζήτηση για την αυτονόμηση των συστημάτων τεχνητής νοημοσύνης.</summary>
     <category term="world"/>
   </entry>
   <entry>
@@ -37,17 +100,35 @@
     <id>urn:kathimerini:f555231e8449</id>
     <updated>2026-08-01T13:21:07+00:00</updated>
     <author><name>Αγγελική Σπανού</name></author>
-    <summary>Το επιτελείο Ανδρουλάκη μετατοπίζει το βάρος της αντιπαράθεσης στον Αλέξη Τσίπρα, τον οποίο κατηγορεί ως «μπροστινό συμφερόντων», ξεπερνώντας σε ένταση ακόμη και τις επιθέσεις κατά Μητσοτάκη. Η πόλωση αναμένεται να κορυφωθεί τον Σεπτέμβριο, με τον Τσίπρα να σχεδιάζει παρουσίαση του οικονομικού προγράμματος της ΕΛΑΣ στη Θεσσαλονίκη πριν από τη ΔΕΘ του Ανδρουλάκη.</summary>
+    <summary>Το επιτελείο Ανδρουλάκη μετατοπίζει το βάρος της αντιπαράθεσης στον Αλέξη Τσίπρα, τον οποίο καταγγέλλει ως «μπροστινό συμφερόντων», με ένταση που ξεπερνά τις επιθέσεις κατά Μητσοτάκη. Η στροφή αποδίδεται στη δημοσκοπική σταθεροποίηση της Ελληνικής Αριστερής Συμπαράταξης στη δεύτερη θέση και τροφοδοτεί συζήτηση περί επικράτησης της «γραμμής Διαμαντοπούλου», ενόψει της «αναμέτρησης» στη ΔΕΘ.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>Νέες απειλές Τραμπ για «πολύ δυνατά» πλήγματα στο Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564379783/nees-apeiles-tramp-gia-poly-dynata-pligmata-sto-iran/"/>
-    <id>urn:kathimerini:3d9e90c0646f</id>
-    <updated>2026-08-01T07:52:00+00:00</updated>
+    <title>Η εύκολη μείωση της ανεργίας τελείωσε</title>
+    <link href="https://www.kathimerini.gr/economy/564378682/i-eykoli-meiosi-tis-anergias-teleiose/"/>
+    <id>urn:kathimerini:70312ee7825e</id>
+    <updated>2026-08-01T15:14:01+00:00</updated>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <summary>Στο 8% υποχώρησε η ανεργία τον Ιούνιο από 9,2% πριν από έναν χρόνο — στα χαμηλότερα επίπεδα δεκαετιών — αλλά κατέγραψε οριακή άνοδο από το 7,8% του Μαΐου, δείχνοντας σημάδια σταθεροποίησης. Ο αρθρογράφος υποστηρίζει ότι «η εύκολη μείωση τελείωσε»: η περαιτέρω πτώση απαιτεί ευρύτερες παρεμβάσεις σε δεξιότητες και συμμετοχή στην αγορά εργασίας.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Κεφαλονιά: Μπαράζ μηνυμάτων του «112» για τη φωτιά στην Πάστρα</title>
+    <link href="https://www.kathimerini.gr/society/564380422/kefalonia-mparaz-minymaton-toy-112-gia-ti-fotia-stin-pastra/"/>
+    <id>urn:kathimerini:d3c6f7f948b8</id>
+    <updated>2026-08-02T07:07:02+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Πέντε και πλέον μήνες μετά το ξέσπασμα του πολέμου, ο Τραμπ απειλεί με «πολύ δυνατά» πλήγματα στο Ιράν: «θα πουν “δεν μπορούμε άλλο”». Κατά τη WSJ, νέοι βομβαρδισμοί σε ενεργειακές υποδομές ίσως ξεκινήσουν μέσα στο σαββατοκύριακο, ενώ το Πακιστάν συνεχίζει τη διαμεσολάβηση.</summary>
-    <category term="world"/>
+    <summary>Μπαράζ μηνυμάτων του 112 εστάλη για τη φωτιά στην Πάστρα Κεφαλονιάς: οι κάτοικοι του Κάτω Κατελειού καλούνται να απομακρυνθούν προς Ρατζακλί και Σκάλα, ενώ όσοι βρίσκονται σε Χιονάτα, Θηράμονα και Μαυράτα προς το Αργοστόλι. Νωρίτερα είχε ζητηθεί η εκκένωση Κρεμμυδίου, Μαρκόπουλου και Κατελειού.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Πυρκαγιές: Στο Συντονιστικό Διαχείρισης Κρίσεων ο Κυριάκος Μητσοτάκης</title>
+    <link href="https://www.kathimerini.gr/politics/564380515/pyrkagies-sto-syntonistiko-diacheirisis-kriseon-o-kyriakos-mitsotakis/"/>
+    <id>urn:kathimerini:e006a4b06e5b</id>
+    <updated>2026-08-02T12:08:56+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Ο πρωθυπουργός μετέβη στο Συντονιστικό Κέντρο Διαχείρισης Κρίσεων μαζί με τον υπουργό Περιβάλλοντος Σταύρο Παπασταύρου και ενημερώθηκε για τα πύρινα μέτωπα, ιδίως στο Πόρτο Γερμενό. Οι ισχυροί άνεμοι επιτρέπουν ρίψεις μόνο από ελικόπτερα, ενώ συζητήθηκαν τα αντιδιαβρωτικά έργα και η καταγραφή ζημιών για την κρατική αρωγή.</summary>
+    <category term="politics"/>
   </entry>
   <entry>
     <title>Η Αγκυρα επενδύει στο «φλερτ» με τη Βηρυτό</title>
@@ -55,133 +136,52 @@
     <id>urn:kathimerini:297c5d5097e7</id>
     <updated>2026-08-01T11:38:51+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
-    <summary>Η επίσκεψη του προέδρου του Λιβάνου Ζοζέφ Αούν στην Αγκυρα αναδεικνύει τον γεωπολιτικό ανταγωνισμό για τον προσανατολισμό της Βηρυτού, με την Τουρκία να ανησυχεί για πιθανή τριμερή Λιβάνου–Κύπρου–Ελλάδας. Στόχος της Αγκυρας είναι η «αποξήλωση» του πλέγματος συμφωνιών ΑΟΖ της Λευκωσίας, μετά την οριοθέτηση Κύπρου–Λιβάνου στο τέλος του 2025.</summary>
+    <summary>Η επίσκεψη του προέδρου του Λιβάνου Ζοζέφ Αούν στην Άγκυρα αναδεικνύει τον γεωπολιτικό ανταγωνισμό για τον προσανατολισμό της Βηρυτού. Η Τουρκία πιέζει για ουδετερότητα του Λιβάνου στην αντιπαλότητα Ισραήλ–Τουρκίας και ανησυχεί για ενδεχόμενη τριμερή συνεργασία Βηρυτού–Λευκωσίας–Αθήνας, στο πρότυπο των υφιστάμενων σχημάτων της Ανατολικής Μεσογείου.</summary>
     <category term="politics"/>
   </entry>
   <entry>
-    <title>«Πόλεμος» για τα οικονομικά</title>
-    <link href="https://www.kathimerini.gr/politics/government/564378301/polemos-gia-ta-oikonomika/"/>
-    <id>urn:kathimerini:d01ea32c8c3b</id>
-    <updated>2026-08-01T09:43:20+00:00</updated>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <summary>Η κυβέρνηση αντεπιτίθεται στην ΕΛΑΣ με ερωτήματα για τη χρηματοδότηση του κόμματος Τσίπρα, απαντώντας στις επικρίσεις για τα δάνεια της Ν.Δ. Ο Παύλος Μαρινάκης τόνισε ότι επί προεδρίας Μητσοτάκη η Ν.Δ. «δεν έχει πάρει ούτε ένα ευρώ δανεισμό», ενώ ο Κωστής Χατζηδάκης ζήτησε στοιχεία για το κόστος των εκδηλώσεων της ΕΛΑΣ.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Ουκρανία: Eπίθεση με βαλλιστικούς πυραύλους στο Κίεβο – 9 νεκροί</title>
-    <link href="https://www.kathimerini.gr/world/564379777/oykrania-epithesi-me-vallistikoys-pyrayloys-sto-kievo-9-nekroi/"/>
-    <id>urn:kathimerini:9d3c10952ed9</id>
-    <updated>2026-08-01T07:42:24+00:00</updated>
+    <title>ΑΙ και μάχη ΗΠΑ – Κίνας ωθούν σε ράλι την τιμή του χαλκού</title>
+    <link href="https://www.kathimerini.gr/economy/international/564378838/ai-kai-machi-ipa-kinas-othoyn-se-rali-tin-timi-toy-chalkoy/"/>
+    <id>urn:kathimerini:cfb18d9f73b5</id>
+    <updated>2026-08-01T22:20:58+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ρωσική επίθεση με βαλλιστικούς πυραύλους κατά του Κιέβου στη διάρκεια της νύχτας στοίχισε τη ζωή σε εννέα ανθρώπους και τραυμάτισε 23, σύμφωνα με τις ουκρανικές υπηρεσίες πρώτων βοηθειών.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Ανοδικά, παρά τις γεωπολιτικές αναταράξεις ο τουρισμός</title>
-    <link href="https://www.kathimerini.gr/economy/local/564376594/anodika-para-tis-geopolitikes-anataraxeis-o-toyrismos/"/>
-    <id>urn:kathimerini:419c17dda500</id>
-    <updated>2026-07-31T23:11:43+00:00</updated>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
-    <summary>Ανθεκτικός στις γεωπολιτικές αναταράξεις ο ελληνικός τουρισμός: οι ταξιδιωτικές εισπράξεις αυξήθηκαν 25,8% στο 5μηνο και οι αεροπορικές αφίξεις 3,8% στο 6μηνο, με 10,7 εκατ. ξένους επισκέπτες. Η δυναμική του α΄ τριμήνου (+14,6%) αντιστάθμισε την επιβράδυνση του β΄ τριμήνου λόγω του πολέμου στη Μέση Ανατολή.</summary>
+    <summary>Η παγκόσμια αγορά χαλκού μετατρέπεται σε πεδίο οικονομικής και γεωπολιτικής αντιπαράθεσης: ακραία καιρικά φαινόμενα έπληξαν την παραγωγή της Χιλής, ενώ ΗΠΑ και Κίνα ανταγωνίζονται για στρατηγικά αποθέματα. Η ζήτηση από την τεχνητή νοημοσύνη και την πράσινη μετάβαση απειλεί να εκτοξεύσει τις τιμές σε νέα ιστορικά υψηλά.</summary>
     <category term="economy"/>
   </entry>
   <entry>
-    <title>Γιατί οι Ελληνες περνούν λιγότερα χρόνια της ζωής τους με καλή υγεία</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564375190/giati-oi-ellines-pernoyn-ligotera-chronia-tis-zois-toys-me-kali-ygeia/"/>
-    <id>urn:kathimerini:6cd611481074</id>
-    <updated>2026-08-01T12:00:14+00:00</updated>
-    <author><name>Σοφία Χρήστου</name></author>
-    <summary>Οι Ελληνες ζουν λιγότερα χρόνια με καλή υγεία από τον μέσο Ευρωπαίο —8,8 έτη μετά τα 65, έναντι 9,1 στην Ε.Ε.— παρά το προσδόκιμο των 80,8 ετών, σύμφωνα με νέα έκθεση για τα μη μεταδοτικά νοσήματα. Οι ερευνητές το αποδίδουν στο κάπνισμα, στη χαμηλή κουλτούρα πρόληψης και σε σύστημα υγείας που «υποδέχεται ασθενείς» αντί να προλαμβάνει.</summary>
+    <title>Στην Πολωνία επεκτείνεται η ΔΕΗ</title>
+    <link href="https://www.kathimerini.gr/economy/business/564378745/stin-polonia-epekteinetai-i-dei/"/>
+    <id>urn:kathimerini:79f0790cf596</id>
+    <updated>2026-08-01T21:37:13+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
+    <summary>Στην αγορά ενέργειας της Πολωνίας εισέρχεται η ΔΕΗ, με συμφωνία εξαγοράς αιολικών και φωτοβολταϊκών έργων 277,3 MW από την EDP Renewables. Η κίνηση εντάσσεται στο στρατηγικό σχέδιο 2026-2030 ύψους 24 δισ. ευρώ, που στοχεύει σε σχεδόν διπλασιασμό της εγκατεστημένης ισχύος και σε ενιαία περιφερειακή πλατφόρμα καθαρής ενέργειας.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Συνεχίζεται η μάχη με τις φλόγες στην Αιγιάλεια – Βελτιωμένη η εικόνα</title>
+    <link href="https://www.kathimerini.gr/society/564380458/synechizetai-i-machi-me-tis-floges-stin-aigialeia-veltiomeni-i-eikona/"/>
+    <id>urn:kathimerini:0d74811364e7</id>
+    <updated>2026-08-02T08:50:59+00:00</updated>
+    <author><name>Ηλίας Κάνιστρας</name></author>
+    <summary>Βελτιωμένη αλλά σε εξέλιξη η φωτιά στη δυτική Αιγιάλεια: δύο ελικόπτερα πραγματοποιούν συνεχείς ρίψεις από το πρώτο φως, ενώ 96 πυροσβέστες με 30 οχήματα κράτησαν τις φλόγες μακριά από κατοικημένες περιοχές τη νύχτα. Καταγράφονται μεγάλες ζημιές σε ελαιοκαλλιέργειες, αμπέλια και υποδομές άρδευσης.</summary>
     <category term="society"/>
   </entry>
   <entry>
-    <title>Στις 6.000 ευρώ και σε ετήσια βάση το αφορολόγητο για φιλοδωρήματα</title>
-    <link href="https://www.kathimerini.gr/economy/local/564378712/stis-6-000-eyro-kai-se-etisia-vasi-to-aforologito-gia-filodorimata/"/>
-    <id>urn:kathimerini:13f39bdf3c19</id>
-    <updated>2026-08-01T10:07:06+00:00</updated>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
-    <summary>Το αφορολόγητο όριο για φιλοδωρήματα μέσω κάρτας αυξάνεται από 300 ευρώ/μήνα σε 6.000 ευρώ ετησίως, με ρύθμιση που ψηφίζεται τον Σεπτέμβριο και αναδρομική ισχύ για όλο το 2026. Ο ετήσιος υπολογισμός ευνοεί ιδίως τους εποχικά εργαζόμενους σε εστίαση και τουρισμό.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Τραμπ: Το Ισραήλ είναι «πολύ ικανοποιημένο» από τη συμφωνία με τη Χαμάς</title>
-    <link href="https://www.kathimerini.gr/world/564378055/tramp-to-israil-einai-poly-ikanopoiimeno-apo-ti-symfonia-me-ti-chamas/"/>
-    <id>urn:kathimerini:bd59d9f32b8f</id>
-    <updated>2026-07-31T19:57:17+00:00</updated>
+    <title>Ινδονησία: Πέντε νεκροί και 41 αγνοούμενοι από φωτιά σε πλοίο</title>
+    <link href="https://www.kathimerini.gr/world/564380533/indonisia-pente-nekroi-kai-41-agnooymenoi-apo-fotia-se-ploio/"/>
+    <id>urn:kathimerini:e66775930b29</id>
+    <updated>2026-08-02T12:34:58+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο Τραμπ διαβεβαίωσε ότι το Ισραήλ είναι «πολύ ικανοποιημένο» από τη συμφωνία για τον αφοπλισμό της Χαμάς στη Γάζα, την οποία χαρακτήρισε «μεγάλο βήμα για τη Μέση Ανατολή». Μετά τον αφοπλισμό, οι ισραηλινές δυνάμεις θα αποσυρθούν και Διεθνής Δύναμη Σταθεροποίησης θα συνεργαστεί με νέα παλαιστινιακή αστυνομία.</summary>
+    <summary>Τουλάχιστον πέντε νεκροί και 41 αγνοούμενοι από φωτιά που ξέσπασε σε φέρι στα ανοιχτά του νησιού Μαδούρα της Ινδονησίας. Το πλοίο μετέφερε 271 επιβάτες και μέλη πληρώματος, εκ των οποίων 225 έχουν διασωθεί, ενώ η επιχείρηση έρευνας και διάσωσης συνεχίζεται.</summary>
     <category term="world"/>
   </entry>
   <entry>
-    <title>Εντός και Εκτός: Τις διεργασίες στο Ριάντ παρακολουθεί η Αθήνα</title>
-    <link href="https://www.kathimerini.gr/politics/564378313/entos-kai-ektos-tis-diergasies-sto-riant-parakoloythei-i-athina/"/>
-    <id>urn:kathimerini:e782083d561b</id>
-    <updated>2026-08-01T08:33:08+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <summary>Σύλληψη στην Κύπρο υπηκόου Βρετανίας-Αζερμπαϊτζάν που φέρεται να κατασκόπευε τη βάση του Ακρωτηρίου υπέρ του Ιράν, με διαδικασίες έκδοσης στη Βρετανία σε εξέλιξη. Παράλληλα, η Αθήνα παρακολουθεί τη διαμόρφωση άξονα Τουρκίας–Σαουδικής Αραβίας–Πακιστάν για την ασφάλεια ναυσιπλοΐας στην Ερυθρά Θάλασσα, στον οποίο συμμετείχε ως παρατηρητής.</summary>
+    <title>Γεραπετρίτης, Διαμαντοπούλου και Χριστοδουλάκης διαψεύδουν δημοσιεύματα για κοινό δείπνο</title>
+    <link href="https://www.kathimerini.gr/politics/564380545/gerapetritis-diamantopoyloy-kai-christodoylakis-diapseydoyn-dimosieymata-gia-koino-deipno/"/>
+    <id>urn:kathimerini:71c9bbf98670</id>
+    <updated>2026-08-02T12:52:39+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Γεραπετρίτης, Διαμαντοπούλου και Χριστοδουλάκης διαψεύδουν κατηγορηματικά δημοσίευμα της «Εστίας» περί κοινού δείπνου για τις πολιτικές εξελίξεις. Ο υπουργός Εξωτερικών καταγγέλλει ότι το δημοσίευμα συνοδευόταν από μονταρισμένη φωτογραφία, προϊόν τεχνητής νοημοσύνης, και κάνει λόγο για απολύτως ψευδές ρεπορτάζ που πρέπει να ανασκευαστεί.</summary>
     <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Νέα δάνεια 5,5 δισ. από Εθνική το α΄ εξάμηνο</title>
-    <link href="https://www.kathimerini.gr/economy/564376615/nea-daneia-5-5-dis-apo-ethniki-to-a-examino/"/>
-    <id>urn:kathimerini:e307d6974fe2</id>
-    <updated>2026-07-31T23:41:42+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <summary>Κέρδη 661 εκατ. ευρώ ανακοίνωσε η Εθνική Τράπεζα για το α΄ εξάμηνο, με νέες εκταμιεύσεις δανείων 5,5 δισ. και αναβάθμιση των στόχων για το 2026. Η διοίκηση προσβλέπει σε καθαρή πιστωτική επέκταση άνω των 3 δισ. ευρώ, στηριζόμενη στα 20 δισ. του Ταμείου Ανάκαμψης και τις ιδιωτικές επενδύσεις.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Γερμανία: Νέα παράταση των συνοριακών ελέγχων και μετά τον Σεπτέμβριο</title>
-    <link href="https://www.kathimerini.gr/world/564378865/germania-nea-paratasi-ton-synoriakon-elegchon-kai-meta-ton-septemvrio/"/>
-    <id>urn:kathimerini:60d5887a8b10</id>
-    <updated>2026-07-31T21:56:59+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Η Γερμανία θα παρατείνει τους ελέγχους στα χερσαία σύνορά της και μετά τον Σεπτέμβριο, επικαλούμενη την κρίση στη Θέουτα, δήλωσε ο υπουργός Εσωτερικών Αλεξάντερ Ντόμπριντ. Ο καγκελάριος Μερτς ζήτησε από το Μαρόκο να δεχθεί πίσω «αμέσως» τους παράνομους μετανάστες.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Μάικ Ρότζερς στην «Κ»: Δεν γίνεται να συνεχίσουμε έτσι για πολλούς μήνες</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564376279/maik-rotzers-stin-k-den-ginetai-na-synechisoyme-etsi-gia-polloys-mines/"/>
-    <id>urn:kathimerini:0a509c60a03b</id>
-    <updated>2026-07-31T20:44:21+00:00</updated>
-    <author><name>Αθανάσιος Κατσικίδης</name></author>
-    <summary>Ο πρώην διευθυντής της NSA Μάικ Ρότζερς προειδοποιεί στην «Κ» ότι ο ρυθμός κατανάλωσης αμερικανικών πυρομαχικών στον πόλεμο με το Ιράν «δεν μπορεί να συνεχιστεί επί μήνες». Εκτιμά ότι η παρατεταμένη επιχειρησιακή πίεση εγκυμονεί κινδύνους για τις αμερικανικές στρατιωτικές δυνατότητες.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Στην Ελλάδα και το δεύτερο υβριδικό τρένο της Hellenic Train</title>
-    <link href="https://www.kathimerini.gr/economy/local/564378703/stin-ellada-kai-to-deytero-yvridiko-treno-tis-hellenic-train/"/>
-    <id>urn:kathimerini:d465b7a7a19b</id>
-    <updated>2026-08-01T11:52:01+00:00</updated>
-    <author><name>Δέσποινα Κόντη</name></author>
-    <summary>Στην Ελλάδα έφτασε στις 30 Ιουλίου και ο δεύτερος υβριδικός συρμός Intercity της Hellenic Train, ενώ συνεχίζονται οι δυναμικές δοκιμές του πρώτου. Οι συρμοί, κατασκευής Hitachi Rail, προορίζονται για τον άξονα Αθήνας–Θεσσαλονίκης και αναμένεται να τεθούν σε εμπορική λειτουργία προς τα τέλη του 2026, μετά την πιστοποίηση από τη ΡΑΣ.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Meteo: Στα 130 χλμ/ώρα έφτασαν οι ριπές ανέμου στην Κάρυστο – Συναγερμός σε Αττική, Εύβοια, Αιγαίο και Κρήτη</title>
-    <link href="https://www.kathimerini.gr/society/564379861/meteo-sta-130-chlm-ora-eftasan-oi-ripes-anemoy-stin-karysto-synagermos-se-attiki-eyvoia-aigaio-kai-kriti/"/>
-    <id>urn:kathimerini:1da518cd8dd4</id>
-    <updated>2026-08-01T10:19:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Ριπές ανέμου έως 130 χλμ./ώρα κατέγραψε το Meteo στην Παξιμάδα Καρύστου, με συναγερμό σε Αττική, Εύβοια, Αιγαίο και Κρήτη. Η ένταση των ανέμων θα εξασθενήσει σταδιακά από το απόγευμα του Σαββάτου.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Ομάν: Δεξαμενόπλοιο χτυπήθηκε από βλήμα</title>
-    <link href="https://www.kathimerini.gr/world/564379786/oman-dexamenoploio-chtypithike-apo-vlima/"/>
-    <id>urn:kathimerini:4e3a0fe24f58</id>
-    <updated>2026-08-01T08:46:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Δεξαμενόπλοιο χτυπήθηκε από άγνωστο βλήμα 11 ναυτικά μίλια από τη Λίμα του Ομάν, στην είσοδο του Στενού του Ορμούζ, και έμεινε ακυβέρνητο με ζημιές στο μηχανοστάσιο. Η UKMTO δεν αναφέρει θύματα ή περιβαλλοντικές επιπτώσεις.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Κέρδη-ρεκόρ για την Πειραιώς το α΄ 6μηνο, ανήλθαν στα 617 εκατ.</title>
-    <link href="https://www.kathimerini.gr/economy/business/564374212/kerdi-rekor-gia-tin-peiraios-to-a-6mino-anilthan-sta-617-ekat/"/>
-    <id>urn:kathimerini:33d6d3d17bf2</id>
-    <updated>2026-07-31T22:32:38+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <summary>Κέρδη-ρεκόρ 617 εκατ. ευρώ κατέγραψε η Τράπεζα Πειραιώς το α΄ εξάμηνο, με απόδοση ιδίων κεφαλαίων 16%, και επικαιροποίησε ανοδικά τους ετήσιους στόχους. Η διοίκηση προανήγγειλε πιθανή ενδιάμεση διανομή μερίσματος τους επόμενους μήνες.</summary>
-    <category term="economy"/>
   </entry>
 </feed>
