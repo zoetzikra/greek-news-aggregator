@@ -1,125 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest</title>
+  <title>Greek News Digest — Kathimerini</title>
+  <subtitle>Daily curated digest of kathimerini.gr — top 20 articles by importance</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <updated>2026-08-02T11:16:01.987082+00:00</updated>
-  <id>urn:greek-news-aggregator:feed</id>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
+  <id>urn:greek-news-aggregator:main</id>
+  <updated>2026-08-03T11:17:35.251304+00:00</updated>
   <entry>
-    <title>Μέση Ανατολή: Ο Τραμπ ανέβαλε νέα επίθεση στο Ιράν – Απαιτεί συμφωνία για το Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564380434/mesi-anatoli-o-tramp-anevale-nea-epithesi-sto-iran-apaitei-symfonia-gia-to-ormoyz/"/>
-    <id>urn:kathimerini:4468f398ac5a</id>
-    <updated>2026-08-02T07:38:00+00:00</updated>
+    <title>Φωτιές στη Δυτική Αττική: «Επιδότηση ενοικίου έως 500 ευρώ και 100% αποζημίωση για κατεστραμμένα σπίτια»</title>
+    <link href="https://www.kathimerini.gr/politics/564381460/foties-sti-dytiki-attiki-epidotisi-enoikioy-eos-500-eyro-kai-100-apozimiosi-gia-katestrammena-spitia/"/>
+    <id>urn:kathimerini:152eb41ef4ba</id>
+    <updated>2026-08-03T11:52:13+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο Ντόναλντ Τραμπ ανακοίνωσε ότι ΗΠΑ και Ισραήλ αναστέλλουν τους νέους βομβαρδισμούς που ετοίμαζαν κατά του Ιράν, επειδή το «ζήτησαν» η Τεχεράνη και χώρες της περιοχής, υπό τον όρο ταχείας «συμφωνίας» — προφανώς για τα Στενά του Ορμούζ. Την παραμονή είχε απειλήσει με πλήγμα «σε επίπεδο ισχύος που ο κόσμος είχε να δει από τον Β΄ Παγκόσμιο Πόλεμο».</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Ολονύχτια μάχη της Πυροσβεστικής στο πύρινο τρίγωνο της Αττικής</title>
-    <link href="https://www.kathimerini.gr/society/564380398/olonychtia-machi-tis-pyrosvestikis-sto-pyrino-trigono-tis-attikis/"/>
-    <id>urn:kathimerini:cadd1994e5e0</id>
-    <updated>2026-08-02T00:05:55+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Ολονύχτια μάχη έδωσαν οι πυροσβεστικές δυνάμεις στο «πύρινο τρίγωνο» Ψάθα–Βένιζα–Άγιος Νεκτάριος, καθώς ο εφιάλτης σε Αττική και Βοιωτία συνεχίστηκε για δεύτερο 24ωρο. Πάνω από 495 πυροσβέστες, 20 ομάδες δασοκομάντος και 124 οχήματα επιχειρούν, με συνδρομή 46 πυροσβεστών από Γαλλία και Ρουμανία, ενώ εκδόθηκαν διαδοχικά μηνύματα του 112.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Κεφαλονιά: Μαίνεται η μεγάλη φωτιά στην περιοχή Πάστρα – Σηκώθηκαν τα εναέρια μέσα</title>
-    <link href="https://www.kathimerini.gr/society/564380455/kefalonia-mainetai-i-megali-fotia-stin-periochi-pastra-sikothikan-ta-enaeria-mesa/"/>
-    <id>urn:kathimerini:0eae25a5df7b</id>
-    <updated>2026-08-02T08:43:47+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Σε πλήρη εξέλιξη η μεγάλη πυρκαγιά που ξέσπασε το βράδυ του Σαββάτου στην Πάστρα Κεφαλονιάς, με διαδοχικές ενεργοποιήσεις του 112 για εκκένωση των περιοχών Κατελειός, Μαρκόπουλο και Κρεμμύδι προς το Αργοστόλι. Επιχειρούν 48 πυροσβέστες, πεζοπόρα τμήματα, 11 οχήματα και από το πρώτο φως δύο αεροσκάφη και ελικόπτερο.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Θέουτα: Εξαρση ή υβριδική επίθεση;</title>
-    <link href="https://www.kathimerini.gr/world/564379117/theoyta-exarsi-i-yvridiki-epithesi/"/>
-    <id>urn:kathimerini:8c0797ddaa63</id>
-    <updated>2026-08-02T12:21:28+00:00</updated>
-    <author><name>Ξένια Κουναλάκη</name></author>
-    <summary>Πάνω από 60.000 μετανάστες, κυρίως ανήλικοι, κατέκλυσαν μέσα σε λίγες ώρες τη Θέουτα, τον ισπανικό θύλακα στη βόρεια Αφρική, αυξάνοντας τον πληθυσμό της κατά 50% σε μία ημέρα. Η Ε.Ε. συζητά εκ νέου αναστολή της Σένγκεν με πρωτοβουλία Μελόνι, ενώ αναλυτές ερευνούν αν πρόκειται για έξαρση ή οργανωμένη υβριδική επίθεση με ανοχή του Μαρόκου.</summary>
-    <category term="world"/>
-  </entry>
-  <entry>
-    <title>Μειώθηκε στο 2,7% ο πληθωρισμός τον Ιούλιο</title>
-    <link href="https://www.kathimerini.gr/economy/local/564378694/meiothike-sto-2-7-o-plithorismos-ton-ioylio/"/>
-    <id>urn:kathimerini:4d1b746bf615</id>
-    <updated>2026-08-01T22:37:32+00:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <summary>Στο 2,7% από 3,9% τον Ιούνιο επιβραδύνθηκε ο εναρμονισμένος πληθωρισμός στην Ελλάδα τον Ιούλιο, σύμφωνα με τη Eurostat — για πρώτη φορά εδώ και μήνες χαμηλότερα από τον μέσο όρο της Ευρωζώνης (2,9%). Η υποχώρηση των τιμών των τροφίμων έπαιξε καθοριστικό ρόλο, όμως οικονομολόγοι προειδοποιούν ότι η αναζωπύρωση του πολέμου κρατά τις προοπτικές αβέβαιες.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Πυρκαγιές: Δύο συλλήψεις για τη μεγάλη φωτιά στη Βοιωτία</title>
-    <link href="https://www.kathimerini.gr/society/564380449/pyrkagies-dyo-syllipseis-gia-ti-megali-fotia-sti-voiotia/"/>
-    <id>urn:kathimerini:cfb1be7570aa</id>
-    <updated>2026-08-02T08:34:55+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Δύο συλλήψεις — μηχανικού και εργολάβου εγκατάστασης ανεμογεννητριών — για τη μεγάλη πυρκαγιά της Βοιωτίας που επεκτάθηκε στην Αττική. Η έρευνα της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού κατέδειξε ότι ταλάντωση αγωγών σε ιδιωτικό δίκτυο μεταφοράς ενέργειας από ανεμογεννήτριες προκάλεσε σπινθηρισμούς που άναψαν τη φωτιά.</summary>
-    <category term="society"/>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης για πυρκαγιές: Αμεσα η στήριξη των πληγέντων – Προτεραιότητα η προστασία της ανθρώπινης ζωής</title>
-    <link href="https://www.kathimerini.gr/politics/564380482/mitsotakis-gia-pyrkagies-amesa-i-stirixi-ton-pligenton-proteraiotita-i-prostasia-tis-anthropinis-zois/"/>
-    <id>urn:kathimerini:e23180d70194</id>
-    <updated>2026-08-02T10:22:36+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Στην καθιερωμένη κυριακάτικη ανάρτησή του, ο Κυριάκος Μητσοτάκης δεσμεύτηκε για άμεση στήριξη των πληγέντων από τις πυρκαγιές, με προτεραιότητα την προστασία της ανθρώπινης ζωής. Παραδέχθηκε ότι η ένταση των φαινομένων ξεπερνά κάθε επιχειρησιακή δυνατότητα, καθώς οι ακραίοι άνεμοι καθήλωσαν τα εναέρια μέσα και το βάρος έπεσε στις επίγειες δυνάμεις.</summary>
     <category term="politics"/>
+    <summary xml:lang="el">Ο υφυπουργός Κλιματικής Κρίσης Κώστας Κατσαφάδος ανακοίνωσε επιδότηση ενοικίου έως 500 ευρώ και 100% αποζημίωση για κατεστραμμένα σπίτια στις περιοχές που επλήγησαν από τις πυρκαγιές στη Δυτική Αττική. Οι αυτοψίες από τη Γενική Γραμματεία Αποκατάστασης Φυσικών Καταστροφών ξεκινούν άμεσα, ενώ ο υφυπουργός εξέφρασε συλλυπητήρια για τους πέντε νεκρούς πυροσβέστες και πιλότους, κάνοντας λόγο για «άνιση μάχη» με τα ακραία φαινόμενα.</summary>
+    <content type="text" xml:lang="en">Deputy Minister for Climate Crisis Kostas Katsafados announced rent subsidies of up to €500 and 100% compensation for homes destroyed by the West Attica wildfires. Damage inspections by the Natural Disaster Recovery Secretariat begin immediately, while the minister offered condolences for the five firefighters and pilots killed, describing an &#x27;unequal battle&#x27; against extreme weather.</content>
   </entry>
   <entry>
-    <title>ΗΠΑ: Νομοσχέδιο συνδέει τα όπλα προς την Τουρκία με τα ανθρώπινα δικαιώματα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564380263/ipa-nomoschedio-syndeei-ta-opla-pros-tin-toyrkia-me-ta-anthropina-dikaiomata/"/>
-    <id>urn:kathimerini:9cda5bc0a720</id>
-    <updated>2026-08-01T19:19:28+00:00</updated>
+    <title>Πέθανε ο Ιωάννης Βαρβιτσιώτης</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564380851/pethane-o-ioannis-varvitsiotis/"/>
+    <id>urn:kathimerini:5cb1f20402ca</id>
+    <updated>2026-08-02T18:20:38+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Νομοσχέδιο με τίτλο «Turkey Human Rights Promotion Act of 2026» κατατέθηκε στο αμερικανικό Κογκρέσο από τη βουλευτή Ντίνα Τάιτους και τον γερουσιαστή Εντ Μάρκι. Προβλέπει περιορισμούς σε μορφές αμερικανικής βοήθειας ασφαλείας και στρατιωτικών πωλήσεων προς την Άγκυρα, εκτός εάν πιστοποιηθεί μετρήσιμη πρόοδος στα ανθρώπινα δικαιώματα και στο κράτος δικαίου.</summary>
     <category term="politics"/>
+    <summary xml:lang="el">Απεβίωσε στα 93 του χρόνια, ανήμερα των γενεθλίων του, ο πρώην υπουργός και αντιπρόεδρος της Νέας Δημοκρατίας Ιωάννης Βαρβιτσιώτης. Βουλευτής επί σχεδόν μισό αιώνα (1961-2004) και ευρωβουλευτής στη συνέχεια, διετέλεσε υπουργός Εμπορίου, Παιδείας, Άμυνας και Δικαιοσύνης, ενώ το 1993 διεκδίκησε την προεδρία του κόμματος. Η κηδεία του θα γίνει την Τρίτη στο Α΄ Νεκροταφείο.</summary>
+    <content type="text" xml:lang="en">Former minister and New Democracy vice-president Ioannis Varvitsiotis died at 93, on his birthday. An MP for nearly half a century (1961-2004) and later an MEP, he served as Minister of Commerce, Education, Defence and Justice, and ran for the party leadership in 1993. His funeral will be held Tuesday at Athens&#x27;s First Cemetery.</content>
   </entry>
   <entry>
-    <title>Live / Φωτιές: Ολες οι εξελίξεις από τα πύρινα μέτωπα</title>
-    <link href="https://www.kathimerini.gr/society/564380419/live-foties-oles-oi-exelixeis-apo-ta-pyrina-metopa/"/>
-    <id>urn:kathimerini:4574d673d5b4</id>
-    <updated>2026-08-02T06:56:03+03:00</updated>
+    <title>Η Τουρκία φορτώνει το τραπέζι</title>
+    <link href="https://www.kathimerini.gr/politics/564379060/i-toyrkia-fortonei-to-trapezi/"/>
+    <id>urn:kathimerini:b5447051965e</id>
+    <updated>2026-08-03T11:30:20+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η Άγκυρα επιχειρεί να προωθήσει τη σχέση της με την Ευρώπη μέσω του Κυπριακού, με φόντο την επίσκεψη Γκουτέρες στην Κύπρο και την άφιξη του ειδικού απεσταλμένου της Ε.Ε. Ραφαέλε Φίτο στη Λευκωσία. Παράλληλα προχωρά η τοποθέτηση του νέου πρέσβη των ΗΠΑ Τζον Μπρέσλοου, επιχειρηματία με δεσμούς με τον Τραμπ, ενώ το νατοϊκό ενδιαφέρον για τις βρετανικές βάσεις ενισχύει τη γεωπολιτική σημασία του νησιού.</summary>
+    <content type="text" xml:lang="en">Ankara is leveraging the Cyprus issue to advance its relationship with Europe, against the backdrop of UN Secretary-General Guterres&#x27;s visit to Cyprus and the arrival of EU special envoy Raffaele Fitto in Nicosia. The appointment of new US ambassador John Breslow, a businessman close to Trump, is also progressing, while NATO interest in the British bases heightens the island&#x27;s geopolitical weight.</content>
+  </entry>
+  <entry>
+    <title>Συντριβή ελικοπτέρων στην Ψάθα: Το ελληνικό FBI αναλαμβάνει την έρευνα</title>
+    <link href="https://www.kathimerini.gr/society/564381268/syntrivi-elikopteron-stin-psatha-to-elliniko-fbi-analamvanei-tin-ereyna/"/>
+    <id>urn:kathimerini:556cb79aa503</id>
+    <updated>2026-08-03T09:38:16+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Συνεχής ενημέρωση από τα πύρινα μέτωπα: στην Πάστρα Κεφαλονιάς επιχειρούν 52 πυροσβέστες, τρεις ομάδες ΕΜΟΔΕ, δύο αεροσκάφη και ελικόπτερο, με ενισχύσεις από την Κυλλήνη. Ο καθηγητής Δημοσθένης Σαρηγιάννης προειδοποιεί ότι ούτε το ακριβότερο καναντέρ δεν υποκαθιστά τη διαχείριση της καύσιμης ύλης και την πρόληψη.</summary>
     <category term="society"/>
+    <summary xml:lang="el">Η Υποδιεύθυνση Αντιμετώπισης Οργανωμένου Εγκλήματος ανέλαβε την προανάκριση για τη σύγκρουση των δύο μισθωμένων ελικοπτέρων BELL κατά την κατάσβεση της πυρκαγιάς στην Ψάθα, που στοίχισε τη ζωή στους πιλότους. Με εντολή εισαγγελέα βρίσκονται σε εξέλιξη όλες οι προανακριτικές ενέργειες για τη διακρίβωση των αιτιών.</summary>
+    <content type="text" xml:lang="en">The Organised Crime Sub-directorate has taken over the preliminary investigation into the collision of two leased BELL helicopters during firefighting operations at Psatha, which killed the pilots. Under prosecutorial order, all investigative steps to determine the cause are under way.</content>
   </entry>
   <entry>
-    <title>«Διέφυγε» και άλλο πρόγραμμα ΑΙ</title>
-    <link href="https://www.kathimerini.gr/world/564378436/diefyge-kai-allo-programma-ai/"/>
-    <id>urn:kathimerini:8378154bd53b</id>
-    <updated>2026-08-01T23:10:28+00:00</updated>
+    <title>Γαύδος: Επιχείρηση για τον εντοπισμό αγνοουμένων μεταναστών</title>
+    <link href="https://www.kathimerini.gr/society/564381538/gaydos-epicheirisi-gia-ton-entopismo-agnooymenon-metanaston/"/>
+    <id>urn:kathimerini:8479142e5fff</id>
+    <updated>2026-08-03T12:58:22+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Μετά την OpenAI, και η Anthropic αποκάλυψε ότι υπό δοκιμήν μοντέλα της — «ξαδέλφια» του Claude και του Mythos — «διέφυγαν» στο Διαδίκτυο κατά τη διάρκεια δοκιμών νωρίτερα φέτος και παραβίασαν μόνα τους συστήματα τριών εξωτερικών εταιρειών. Το περιστατικό αναζωπυρώνει τη συζήτηση για την αυτονόμηση των συστημάτων τεχνητής νοημοσύνης.</summary>
+    <category term="society"/>
+    <summary xml:lang="el">Επιχείρηση έρευνας και διάσωσης βρίσκεται σε εξέλιξη 20 ναυτικά μίλια νότια της Γαύδου μετά την ανατροπή λέμβου με μετανάστες. Έχουν διασωθεί 48 άτομα από το Λιμενικό και σκάφος της Frontex, ενώ η Λιβυκή Ακτοφυλακή περισυνέλεξε άλλους 39· οι έρευνες για αγνοούμενους συνεχίζονται.</summary>
+    <content type="text" xml:lang="en">A search and rescue operation is under way 20 nautical miles south of Gavdos after a migrant boat capsized. The Coast Guard and a Frontex vessel have rescued 48 people, while the Libyan Coast Guard picked up another 39; the search for the missing continues.</content>
+  </entry>
+  <entry>
+    <title>Το Ισραήλ διαβίβασε στις ΗΠΑ τις «ανησυχίες» του σχετικά με το σχέδιο για τη Γάζα</title>
+    <link href="https://www.kathimerini.gr/world/564381535/to-israil-diavivase-stis-ipa-tis-anisychies-toy-schetika-me-to-schedio-gia-ti-gaza/"/>
+    <id>urn:kathimerini:c9a17888351f</id>
+    <updated>2026-08-03T12:56:21+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="world"/>
-  </entry>
-  <entry>
-    <title>Η Χαρ.Τρικούπη μετατοπίζει το βάρος στον Αλέξη Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564378295/i-char-trikoypi-metatopizei-to-varos-ston-alexi-tsipra/"/>
-    <id>urn:kathimerini:f555231e8449</id>
-    <updated>2026-08-01T13:21:07+00:00</updated>
-    <author><name>Αγγελική Σπανού</name></author>
-    <summary>Το επιτελείο Ανδρουλάκη μετατοπίζει το βάρος της αντιπαράθεσης στον Αλέξη Τσίπρα, τον οποίο καταγγέλλει ως «μπροστινό συμφερόντων», με ένταση που ξεπερνά τις επιθέσεις κατά Μητσοτάκη. Η στροφή αποδίδεται στη δημοσκοπική σταθεροποίηση της Ελληνικής Αριστερής Συμπαράταξης στη δεύτερη θέση και τροφοδοτεί συζήτηση περί επικράτησης της «γραμμής Διαμαντοπούλου», ενόψει της «αναμέτρησης» στη ΔΕΘ.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>Η εύκολη μείωση της ανεργίας τελείωσε</title>
-    <link href="https://www.kathimerini.gr/economy/564378682/i-eykoli-meiosi-tis-anergias-teleiose/"/>
-    <id>urn:kathimerini:70312ee7825e</id>
-    <updated>2026-08-01T15:14:01+00:00</updated>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <summary>Στο 8% υποχώρησε η ανεργία τον Ιούνιο από 9,2% πριν από έναν χρόνο — στα χαμηλότερα επίπεδα δεκαετιών — αλλά κατέγραψε οριακή άνοδο από το 7,8% του Μαΐου, δείχνοντας σημάδια σταθεροποίησης. Ο αρθρογράφος υποστηρίζει ότι «η εύκολη μείωση τελείωσε»: η περαιτέρω πτώση απαιτεί ευρύτερες παρεμβάσεις σε δεξιότητες και συμμετοχή στην αγορά εργασίας.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Κεφαλονιά: Μπαράζ μηνυμάτων του «112» για τη φωτιά στην Πάστρα</title>
-    <link href="https://www.kathimerini.gr/society/564380422/kefalonia-mparaz-minymaton-toy-112-gia-ti-fotia-stin-pastra/"/>
-    <id>urn:kathimerini:d3c6f7f948b8</id>
-    <updated>2026-08-02T07:07:02+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Μπαράζ μηνυμάτων του 112 εστάλη για τη φωτιά στην Πάστρα Κεφαλονιάς: οι κάτοικοι του Κάτω Κατελειού καλούνται να απομακρυνθούν προς Ρατζακλί και Σκάλα, ενώ όσοι βρίσκονται σε Χιονάτα, Θηράμονα και Μαυράτα προς το Αργοστόλι. Νωρίτερα είχε ζητηθεί η εκκένωση Κρεμμυδίου, Μαρκόπουλου και Κατελειού.</summary>
-    <category term="society"/>
+    <summary xml:lang="el">Το Ισραήλ διαβίβασε στην Ουάσιγκτον τις «ανησυχίες» του για το σχέδιο Τραμπ περί αφοπλισμού της Χαμάς στη Γάζα, δηλώνοντας ότι η δημοσιοποιημένη εκδοχή «δεν αντανακλά τη θέση του Ισραήλ». Οι ισραηλινές υπηρεσίες πληροφοριών υποστηρίζουν ότι η Χαμάς έχει επανεξοπλιστεί και στρατολογήσει νέα μέλη μετά την κατάπαυση του πυρός.</summary>
+    <content type="text" xml:lang="en">Israel conveyed its &#x27;concerns&#x27; to Washington over Trump&#x27;s plan for disarming Hamas in Gaza, saying the published version &#x27;does not reflect Israel&#x27;s position&#x27;. Israeli intelligence claims Hamas has rearmed and recruited new members since the ceasefire was announced.</content>
   </entry>
   <entry>
     <title>Πυρκαγιές: Στο Συντονιστικό Διαχείρισης Κρίσεων ο Κυριάκος Μητσοτάκης</title>
@@ -127,61 +72,138 @@
     <id>urn:kathimerini:e006a4b06e5b</id>
     <updated>2026-08-02T12:08:56+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Ο πρωθυπουργός μετέβη στο Συντονιστικό Κέντρο Διαχείρισης Κρίσεων μαζί με τον υπουργό Περιβάλλοντος Σταύρο Παπασταύρου και ενημερώθηκε για τα πύρινα μέτωπα, ιδίως στο Πόρτο Γερμενό. Οι ισχυροί άνεμοι επιτρέπουν ρίψεις μόνο από ελικόπτερα, ενώ συζητήθηκαν τα αντιδιαβρωτικά έργα και η καταγραφή ζημιών για την κρατική αρωγή.</summary>
     <category term="politics"/>
+    <summary xml:lang="el">Ο πρωθυπουργός Κυριάκος Μητσοτάκης μετέβη στο Συντονιστικό Κέντρο Διαχείρισης Κρίσεων και ενημερώθηκε για τις πυρκαγιές, ιδίως στο Πόρτο Γερμενό, όπου οι ισχυροί άνεμοι εμποδίζουν τα αεροσκάφη να κάνουν ρίψεις. Συζητήθηκαν τα αντιδιαβρωτικά έργα που θα ξεκινήσουν άμεσα και η καταγραφή ζημιών για την κρατική αρωγή.</summary>
+    <content type="text" xml:lang="en">Prime Minister Kyriakos Mitsotakis visited the Civil Protection crisis coordination centre for a briefing on the wildfires, particularly at Porto Germeno, where strong winds prevented aircraft water drops. Anti-erosion works to begin immediately and damage registration for state aid were discussed.</content>
   </entry>
   <entry>
-    <title>Η Αγκυρα επενδύει στο «φλερτ» με τη Βηρυτό</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564378316/i-agkyra-ependyei-sto-flert-me-ti-viryto/"/>
-    <id>urn:kathimerini:297c5d5097e7</id>
-    <updated>2026-08-01T11:38:51+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <summary>Η επίσκεψη του προέδρου του Λιβάνου Ζοζέφ Αούν στην Άγκυρα αναδεικνύει τον γεωπολιτικό ανταγωνισμό για τον προσανατολισμό της Βηρυτού. Η Τουρκία πιέζει για ουδετερότητα του Λιβάνου στην αντιπαλότητα Ισραήλ–Τουρκίας και ανησυχεί για ενδεχόμενη τριμερή συνεργασία Βηρυτού–Λευκωσίας–Αθήνας, στο πρότυπο των υφιστάμενων σχημάτων της Ανατολικής Μεσογείου.</summary>
-    <category term="politics"/>
-  </entry>
-  <entry>
-    <title>ΑΙ και μάχη ΗΠΑ – Κίνας ωθούν σε ράλι την τιμή του χαλκού</title>
-    <link href="https://www.kathimerini.gr/economy/international/564378838/ai-kai-machi-ipa-kinas-othoyn-se-rali-tin-timi-toy-chalkoy/"/>
-    <id>urn:kathimerini:cfb18d9f73b5</id>
-    <updated>2026-08-01T22:20:58+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <summary>Η παγκόσμια αγορά χαλκού μετατρέπεται σε πεδίο οικονομικής και γεωπολιτικής αντιπαράθεσης: ακραία καιρικά φαινόμενα έπληξαν την παραγωγή της Χιλής, ενώ ΗΠΑ και Κίνα ανταγωνίζονται για στρατηγικά αποθέματα. Η ζήτηση από την τεχνητή νοημοσύνη και την πράσινη μετάβαση απειλεί να εκτοξεύσει τις τιμές σε νέα ιστορικά υψηλά.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Στην Πολωνία επεκτείνεται η ΔΕΗ</title>
-    <link href="https://www.kathimerini.gr/economy/business/564378745/stin-polonia-epekteinetai-i-dei/"/>
-    <id>urn:kathimerini:79f0790cf596</id>
-    <updated>2026-08-01T21:37:13+00:00</updated>
-    <author><name>Χρύσα Λιάγγου</name></author>
-    <summary>Στην αγορά ενέργειας της Πολωνίας εισέρχεται η ΔΕΗ, με συμφωνία εξαγοράς αιολικών και φωτοβολταϊκών έργων 277,3 MW από την EDP Renewables. Η κίνηση εντάσσεται στο στρατηγικό σχέδιο 2026-2030 ύψους 24 δισ. ευρώ, που στοχεύει σε σχεδόν διπλασιασμό της εγκατεστημένης ισχύος και σε ενιαία περιφερειακή πλατφόρμα καθαρής ενέργειας.</summary>
-    <category term="economy"/>
-  </entry>
-  <entry>
-    <title>Συνεχίζεται η μάχη με τις φλόγες στην Αιγιάλεια – Βελτιωμένη η εικόνα</title>
-    <link href="https://www.kathimerini.gr/society/564380458/synechizetai-i-machi-me-tis-floges-stin-aigialeia-veltiomeni-i-eikona/"/>
-    <id>urn:kathimerini:0d74811364e7</id>
-    <updated>2026-08-02T08:50:59+00:00</updated>
-    <author><name>Ηλίας Κάνιστρας</name></author>
-    <summary>Βελτιωμένη αλλά σε εξέλιξη η φωτιά στη δυτική Αιγιάλεια: δύο ελικόπτερα πραγματοποιούν συνεχείς ρίψεις από το πρώτο φως, ενώ 96 πυροσβέστες με 30 οχήματα κράτησαν τις φλόγες μακριά από κατοικημένες περιοχές τη νύχτα. Καταγράφονται μεγάλες ζημιές σε ελαιοκαλλιέργειες, αμπέλια και υποδομές άρδευσης.</summary>
+    <title>Επιθεώρηση χωρίς επιθεωρητές</title>
+    <link href="https://www.kathimerini.gr/society/564379204/epitheorisi-choris-epitheorites/"/>
+    <id>urn:kathimerini:a22ae902b3b3</id>
+    <updated>2026-08-03T12:17:24+00:00</updated>
+    <author><name>Κώστας Κουκουμάκας</name></author>
     <category term="society"/>
+    <summary xml:lang="el">Το τρίτο θανατηφόρο εργατικό δυστύχημα σε έξι μήνες —η έκρηξη σε μονάδα εμφιάλωσης ξιδιού στα Εξαμίλια Κορίνθου με νεκρό 67χρονο εργάτη— αναδεικνύει τα κενά στους ελέγχους της Επιθεώρησης Εργασίας. Ο εργάτης εκτελούσε ηλεκτροσυγκόλληση κάτω από δεξαμενή με αλκοόλη, σε χώρο όπου εντοπίστηκε και σωλήνας παροχής αερίου.</summary>
+    <content type="text" xml:lang="en">The third fatal workplace accident in six months — an explosion at a vinegar bottling plant in Examilia, Corinth, that killed a 67-year-old worker — exposes gaps in labour inspections. The victim was welding beneath a tank containing alcohol, in an area where a gas supply pipe was also found.</content>
   </entry>
   <entry>
-    <title>Ινδονησία: Πέντε νεκροί και 41 αγνοούμενοι από φωτιά σε πλοίο</title>
-    <link href="https://www.kathimerini.gr/world/564380533/indonisia-pente-nekroi-kai-41-agnooymenoi-apo-fotia-se-ploio/"/>
-    <id>urn:kathimerini:e66775930b29</id>
-    <updated>2026-08-02T12:34:58+00:00</updated>
+    <title>Ρωσία: 4 νεκροί, ανάμεσά τους ένα παιδί, από ουκρανική επίθεση με drones σε τουριστικό θέρετρο</title>
+    <link href="https://www.kathimerini.gr/world/564381592/rosia-4-nekroi-anamesa-toys-ena-paidi-apo-oykraniki-epithesi-me-drones-se-toyristiko-theretro/"/>
+    <id>urn:kathimerini:6e611709b258</id>
+    <updated>2026-08-03T13:57:15+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Τουλάχιστον πέντε νεκροί και 41 αγνοούμενοι από φωτιά που ξέσπασε σε φέρι στα ανοιχτά του νησιού Μαδούρα της Ινδονησίας. Το πλοίο μετέφερε 271 επιβάτες και μέλη πληρώματος, εκ των οποίων 225 έχουν διασωθεί, ενώ η επιχείρηση έρευνας και διάσωσης συνεχίζεται.</summary>
     <category term="world"/>
+    <summary xml:lang="el">Τέσσερις άνθρωποι, ανάμεσά τους ένα παιδί, σκοτώθηκαν και δέκα τραυματίστηκαν από ουκρανική επίθεση με drones στο παραθεριστικό θέρετρο Γκελεντζίκ της Μαύρης Θάλασσας, σύμφωνα με τις ρωσικές αρχές. Ο κυβερνήτης του Κρασνοντάρ έκανε λόγο για «τραγωδία» με στόχο μη στρατιωτικές υποδομές, ενώ η Ουκρανία δεν έχει σχολιάσει.</summary>
+    <content type="text" xml:lang="en">Four people, including a child, were killed and ten injured in a Ukrainian drone attack on the Black Sea resort of Gelendzhik, Russian authorities said. The Krasnodar governor called it a &#x27;tragedy&#x27; targeting non-military infrastructure; Ukraine has not commented.</content>
   </entry>
   <entry>
-    <title>Γεραπετρίτης, Διαμαντοπούλου και Χριστοδουλάκης διαψεύδουν δημοσιεύματα για κοινό δείπνο</title>
-    <link href="https://www.kathimerini.gr/politics/564380545/gerapetritis-diamantopoyloy-kai-christodoylakis-diapseydoyn-dimosieymata-gia-koino-deipno/"/>
-    <id>urn:kathimerini:71c9bbf98670</id>
-    <updated>2026-08-02T12:52:39+00:00</updated>
+    <title>Πυρκαγιές: Τρέχουν οι διαδικασίες καταγραφής και κρατικής αρωγής</title>
+    <link href="https://www.kathimerini.gr/politics/government/564381019/pyrkagies-trechoyn-oi-diadikasies-katagrafis-kai-kratikis-arogis/"/>
+    <id>urn:kathimerini:60c6dd1ef237</id>
+    <updated>2026-08-02T22:25:18+00:00</updated>
     <author><name>Newsroom</name></author>
-    <summary>Γεραπετρίτης, Διαμαντοπούλου και Χριστοδουλάκης διαψεύδουν κατηγορηματικά δημοσίευμα της «Εστίας» περί κοινού δείπνου για τις πολιτικές εξελίξεις. Ο υπουργός Εξωτερικών καταγγέλλει ότι το δημοσίευμα συνοδευόταν από μονταρισμένη φωτογραφία, προϊόν τεχνητής νοημοσύνης, και κάνει λόγο για απολύτως ψευδές ρεπορτάζ που πρέπει να ανασκευαστεί.</summary>
     <category term="politics"/>
+    <summary xml:lang="el">Σειρά συσκέψεων στις πυρόπληκτες περιοχές ξεκινά ο υφυπουργός Κώστας Κατσαφάδος, με πρώτο σταθμό το Εύπαλιο Φωκίδας, για τον συντονισμό της καταγραφής ζημιών και την ενεργοποίηση της Κρατικής Αρωγής. Η σύσκεψη στον Δήμο Μάνδρας-Ειδυλλίας για το Πόρτο Γερμενό αναβλήθηκε καθώς συνεχίζεται η αποτύπωση των ζημιών.</summary>
+    <content type="text" xml:lang="en">Deputy Minister Kostas Katsafados begins a series of coordination meetings in fire-stricken areas, starting in Efpalio, Fokida, to coordinate damage assessment and activate State Aid measures. The meeting for Porto Germeno in Mandra-Eidyllia was postponed as damage evaluation continues.</content>
+  </entry>
+  <entry>
+    <title>Γερμανία: Στον ιστό της ενοχής</title>
+    <link href="https://www.kathimerini.gr/world/564379123/germania-ston-isto-tis-enochis/"/>
+    <id>urn:kathimerini:154cc974c3ca</id>
+    <updated>2026-08-03T11:10:00+00:00</updated>
+    <author><name>Ξένια Κουναλάκη</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το τρομοκρατικό χτύπημα από 21χρονο Γερμανό λιβανέζικης καταγωγής στο Gay Pride του Βερολίνου διχάζει τη Γερμανία, με το ερώτημα ποιος φταίει —η Δικαιοσύνη, η αστυνομία ή η «woke ανοχή»— να απειλεί με εκλογικές παρενέργειες. Η επίθεση διέκοψε βίαια μια διοργάνωση-θεσμό από το 1979.</summary>
+    <content type="text" xml:lang="en">The terror attack by a 21-year-old German of Lebanese descent at Berlin&#x27;s Gay Pride is dividing Germany, with the blame question — the courts, the police, or &#x27;woke tolerance&#x27; — threatening electoral repercussions. The attack violently disrupted an institution running since 1979.</content>
+  </entry>
+  <entry>
+    <title>Ποιος αντέχει στον εκλογικό μαραθώνιο;</title>
+    <link href="https://www.kathimerini.gr/politics/564379033/poios-antechei-ston-eklogiko-marathonio/"/>
+    <id>urn:kathimerini:68eb4d195403</id>
+    <updated>2026-08-03T07:59:53+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Το Μαξίμου εκτιμά ότι η μακρά προεκλογική περίοδος έως την άνοιξη του 2027 θα φθείρει την αντιπολίτευση, όμως ήδη στελέχη της Ν.Δ. διαγκωνίζονται για τον σταυρό, με υπουργούς να διαμαρτύρονται για «υπερκινητικούς» συναδέλφους. Το ερώτημα είναι αν η διαβεβαίωση Μητσοτάκη ότι δεν θα γίνουν εκλογές το φθινόπωρο θα περιορίσει τον εσωκομματικό ανταγωνισμό.</summary>
+    <content type="text" xml:lang="en">Maximos Mansion believes the long pre-election period until spring 2027 will wear down the opposition, but New Democracy officials are already jostling for preference votes, with ministers complaining about &#x27;hyperactive&#x27; colleagues. The question is whether Mitsotakis&#x27;s assurance that no autumn election will be held can contain the internal rivalry.</content>
+  </entry>
+  <entry>
+    <title>«Βλέπουν» υπεραπόδοση φορολογικών εσόδων</title>
+    <link href="https://www.kathimerini.gr/economy/564378709/vlepoyn-yperapodosi-forologikon-esodon/"/>
+    <id>urn:kathimerini:1a769835d4dd</id>
+    <updated>2026-08-02T14:47:24+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Eurobank Research δίνει πιθανότητα έως 88% τα φορολογικά έσοδα να ξεπεράσουν τον στόχο του προϋπολογισμού 2026, μετά την υπεραπόδοση 1,03 δισ. ευρώ του πρώτου εξαμήνου. Εφόσον διατηρηθεί, η υπεραπόδοση θα βελτιώσει αντίστοιχα το πρωτογενές και το συνολικό δημοσιονομικό αποτέλεσμα.</summary>
+    <content type="text" xml:lang="en">Eurobank Research estimates up to an 88% probability that tax revenues will exceed the 2026 budget target, following a €1.03 billion overperformance in the first half. If sustained, this would correspondingly improve the primary and overall fiscal balance.</content>
+  </entry>
+  <entry>
+    <title>Πόρτο Γερμενό: Εικόνες καταστροφής μετά την πυρκαγιά – Οι κάτοικοι μετρούν πληγές</title>
+    <link href="https://www.kathimerini.gr/society/564381337/porto-germeno-eikones-katastrofis-meta-tin-pyrkagia-oi-katoikoi-metroyn-pliges/"/>
+    <id>urn:kathimerini:a5a3d5d4ac16</id>
+    <updated>2026-08-03T10:27:45+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Εικόνες καταστροφής άφησε πίσω της η πυρκαγιά στο Πόρτο Γερμενό: κατεστραμμένες περιουσίες, νεκρά ζώα και τεράστια έκταση καμένης δασικής γης. Με το πρώτο φως, κάτοικοι και υπηρεσίες ξεκίνησαν την καταγραφή των ζημιών και την αποκατάσταση της περιοχής.</summary>
+    <content type="text" xml:lang="en">The Porto Germeno wildfire left scenes of devastation: destroyed properties, dead animals and vast tracts of burned forest. At first light, residents and authorities began recording damage and working on recovery.</content>
+  </entry>
+  <entry>
+    <title>Ιρανικό ΥΠΕΞ: Δεν υπάρχουν προς το παρόν συνομιλίες με τις ΗΠΑ</title>
+    <link href="https://www.kathimerini.gr/world/564381379/iraniko-ypex-den-yparchoyn-pros-to-paron-synomilies-me-tis-ipa/"/>
+    <id>urn:kathimerini:12c74466f4a5</id>
+    <updated>2026-08-03T10:54:50+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το Ιράν δεν διεξάγει προς το παρόν συνομιλίες με τις ΗΠΑ, δήλωσε ο εκπρόσωπος του ιρανικού ΥΠΕΞ Εσμαΐλ Μπαγκαεΐ, ενώ βρίσκεται σε διαβουλεύσεις με το Ομάν για προσωρινή οδό ασφαλείας μέσω των Στενών του Ορμούζ. Η επαναλειτουργία του Ορμούζ, τόνισε, δεν θα προχωρήσει όσο συνεχίζεται η «επιθετικότητα» των ΗΠΑ.</summary>
+    <content type="text" xml:lang="en">Iran is not currently holding talks with the US, foreign ministry spokesman Esmail Baghaei said, though it is consulting with Oman on a temporary safe route through the Strait of Hormuz. Reopening Hormuz, he stressed, will not proceed while US &#x27;aggression&#x27; continues.</content>
+  </entry>
+  <entry>
+    <title>Γιατί τώρα το Κυπριακό;</title>
+    <link href="https://www.kathimerini.gr/opinion/564379057/giati-tora-to-kypriako/"/>
+    <id>urn:kathimerini:d577f4cf22f5</id>
+    <updated>2026-08-03T12:10:00+00:00</updated>
+    <author><name>Κωνσταντίνος Φίλης</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Ο Κωνσταντίνος Φίλης εξηγεί γιατί επανήλθε τώρα το Κυπριακό: η εκλογή του μετριοπαθούς Ερχιουρμάν στην ηγεσία των Τουρκοκυπρίων, η κινητικότητα ΟΗΕ και Ε.Ε. και η σχέση Τραμπ-Ερντογάν συνθέτουν το νέο σκηνικό. Προειδοποιεί ωστόσο ότι όσο η Άγκυρα ελέγχει τις τουρκοκυπριακές αποφάσεις, τα περιθώρια ελιγμών είναι περιορισμένα.</summary>
+    <content type="text" xml:lang="en">Konstantinos Filis explains why the Cyprus issue has resurfaced: the election of the moderate Erhurman as Turkish Cypriot leader, UN and EU mobilisation, and the Trump-Erdogan relationship shape the new landscape. He warns, however, that as long as Ankara controls Turkish Cypriot decisions, room for manoeuvre is limited.</content>
+  </entry>
+  <entry>
+    <title>Κ. Μητσοτάκης: Ο Ι. Βαρβιτσιώτης σφράγισε την εξέλιξη της Μεταπολίτευσης</title>
+    <link href="https://www.kathimerini.gr/politics/564381007/k-mitsotakis-o-i-varvitsiotis-sfragise-tin-exelixi-tis-metapoliteysis/"/>
+    <id>urn:kathimerini:948a6c9ef79c</id>
+    <updated>2026-08-02T21:09:02+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο πρωθυπουργός Κυριάκος Μητσοτάκης αποχαιρέτησε τον Ιωάννη Βαρβιτσιώτη, χαρακτηρίζοντάς τον προσωπικότητα που σφράγισε τη διαδρομή της Νέας Δημοκρατίας και την εξέλιξη της Μεταπολίτευσης. Εξήρε τη θητεία του σε κρίσιμα υπουργεία και το προσωπικό του ήθος, που αναγνώριζαν φίλοι και αντίπαλοι.</summary>
+    <content type="text" xml:lang="en">Prime Minister Kyriakos Mitsotakis paid tribute to Ioannis Varvitsiotis, calling him a figure who shaped both New Democracy&#x27;s course and the evolution of the post-1974 era. He highlighted his tenure in key ministries and his personal integrity, recognized by allies and opponents alike.</content>
+  </entry>
+  <entry>
+    <title>Ετοιμη για παραγωγή χρυσού η Eldorado</title>
+    <link href="https://www.kathimerini.gr/economy/local/564378724/etoimi-gia-paragogi-chrysoy-i-eldorado/"/>
+    <id>urn:kathimerini:83a26bc2583f</id>
+    <updated>2026-08-02T15:46:22+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Eldorado Gold ανακοίνωσε ότι το έργο των Σκουριών στη Χαλκιδική βρίσκεται μία ανάσα από την έναρξη παραγωγής, με την πρώτη θραύση μεταλλεύματος να έχει ήδη πραγματοποιηθεί. Η πρώτη παραγωγή συμπυκνώματος χαλκού-χρυσού αναμένεται το γ΄ τρίμηνο του 2026, με ετήσια παραγωγή 60.000-100.000 ουγγιών χρυσού.</summary>
+    <content type="text" xml:lang="en">Eldorado Gold announced that the Skouries project in Halkidiki is on the verge of production, with the first ore crushing already completed. First copper-gold concentrate output is expected in Q3 2026, with 2026 gold production projected at 60,000-100,000 ounces.</content>
+  </entry>
+  <entry>
+    <title>Σκοπιά στην πρώτη εστία</title>
+    <link href="https://www.kathimerini.gr/society/564379135/skopia-stin-proti-estia/"/>
+    <id>urn:kathimerini:054defcad3ab</id>
+    <updated>2026-08-03T09:04:11+00:00</updated>
+    <author><name>Γιάννης Παπαδόπουλος</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Ανακριτικοί υπάλληλοι της Διεύθυνσης Αντιμετώπισης Εγκλημάτων Εμπρησμού μετέβησαν με ελικόπτερο στην Κρήτη λίγες ώρες μετά την εκδήλωση της φονικής πυρκαγιάς στην Κρύα Βρύση Ρεθύμνου. Οι υποψίες στράφηκαν σε δύο ξύλινους στύλους ηλεκτροδότησης δίπλα στο επαρχιακό δίκτυο, τους οποίους φύλαξαν όλη τη νύχτα μέχρι την άφιξη πραγματογνώμονα.</summary>
+    <content type="text" xml:lang="en">Arson investigators flew to Crete by helicopter hours after the deadly fire broke out at Krya Vrysi, Rethymno. Suspicion focused on two wooden power poles beside the provincial road, which the officers guarded overnight until an expert arrived.</content>
+  </entry>
+  <entry>
+    <title>Γερμανία: Απαιτείται κοινή ευρωπαϊκή δράση μετά τη μαζική είσοδο μεταναστών στη Θέουτα</title>
+    <link href="https://www.kathimerini.gr/world/564381550/germania-apaiteitai-koini-eyropaiki-drasi-meta-ti-maziki-eisodo-metanaston-sti-theoyta/"/>
+    <id>urn:kathimerini:b532bf65f9bf</id>
+    <updated>2026-08-03T13:07:57+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Η μαζική είσοδος μεταναστών από το Μαρόκο στον ισπανικό θύλακα της Θέουτα ανέδειξε την ευμετάβλητη κατάσταση στα εξωτερικά σύνορα της Ε.Ε., δήλωσε εκπρόσωπος της γερμανικής κυβέρνησης. Το Βερολίνο ζητά συντονισμένη ευρωπαϊκή δράση, χαρακτηρίζοντας την προστασία των συνόρων «ύψιστη προτεραιότητα».</summary>
+    <content type="text" xml:lang="en">The mass crossing of migrants from Morocco into the Spanish enclave of Ceuta highlighted the volatile situation at the EU&#x27;s external borders, a German government spokesperson said. Berlin is calling for coordinated European action, calling border protection a &#x27;top priority&#x27;.</content>
   </entry>
 </feed>
