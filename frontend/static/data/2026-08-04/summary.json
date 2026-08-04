@@ -1,0 +1,281 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:15:17.729438+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επόμενη ημέρα των καταστροφικών πυρκαγιών κυριαρχεί στην ειδησεογραφία της Τρίτης. Με το 43-45% των δασών της Αττικής να εκτιμάται καμένο μέσα σε μία εννεαετία και τη Δυτική Αττική «στο χείλος της οικολογικής κατάρρευσης», η κυβέρνηση εξαγγέλλει άμεσες αυτοψίες, επιδότηση ενοικίου έως 500 ευρώ και 100% αποζημιώσεις, ενώ για την Τετάρτη κηρύχθηκε Red Code σε περιοχές πολύ υψηλού κινδύνου. Η θανατηφόρα σύγκρουση των δύο ελικοπτέρων στην Ψάθα τροφοδοτεί μαρτυρίες χειριστών για «Βαβέλ στον αέρα», την ώρα που η αρθρογραφία ζητά έμφαση στην πρόληψη και όχι μοιρολατρική ενοχοποίηση του κλίματος.\n\nΣτο διεθνές πεδίο, ο πόλεμος ΗΠΑ – Ιράν δείχνει μακριά από το τέλος του: φορτηγό πλοίο ελληνικών συμφερόντων επλήγη από άγνωστο βλήμα κοντά στα Στενά του Ορμούζ, το πετρέλαιο ενισχύθηκε 3% και η Τεχεράνη διαψεύδει τον Τραμπ περί συνομιλιών, ενώ διεκδικεί έλεγχο της ναυσιπλοΐας στα Στενά στις διαπραγματεύσεις με το Ομάν. Οι επιπτώσεις είναι ορατές και στην οικονομία, από τα ιστορικά περιθώρια διύλισης έως τον επίμονο τουρκικό πληθωρισμό.\n\nΗ ενεργειακή κρίση στη ΝΑ Ευρώπη οξύνεται: η πτώση της στάθμης του Δούναβη κρατά εκτός λειτουργίας το 40% της πυρηνικής δυναμικότητας της περιοχής, η ελληνική χονδρεμπορική τιμή εκτινάχθηκε στα 166 ευρώ/MWh και στη Ρουμανία Ford και Dacia ανέστειλαν την παραγωγή. Παράλληλα, ο Ιούλιος 2026 ήταν ο θερμότερος μήνας που έχει καταγραφεί ποτέ στη Γαλλία. Στο μεταναστευτικό, μετά την κρίση της Θέουτας, ο Κυριάκος Μητσοτάκης ζητά με άρθρο του στο Politico νέο ευρωπαϊκό μηχανισμό έκτακτης ανάγκης για την εργαλειοποίηση των ροών, ενώ οι υπουργοί Εσωτερικών της Ε.Ε. συνεδριάζουν εκτάκτως.\n\nΗ ημέρα σφραγίζεται και από δύο απώλειες: το τελευταίο αντίο στον Ιωάννη Βαρβιτσιώτη, παρουσία σύσσωμης της πολιτικής ηγεσίας, και ο αποχαιρετισμός στον Λάκη Χαλκιά, τη «δωρική φωνή» του δημοτικού τραγουδιού, καθώς και στον συλλέκτη της Κάλλας Δημήτρη Πυρομάλλη.",
+    "en": "The aftermath of the devastating wildfires dominates Tuesday's news. With an estimated 43-45% of Attica's forests burned within nine years and Western Attica 'on the brink of ecological collapse', the government is announcing immediate damage inspections, rent subsidies of up to €500 and 100% compensation, while Red Code mobilisation was declared for Wednesday in very-high-risk areas. The fatal collision of two helicopters at Psatha has prompted pilots' accounts of a 'Babel in the air', as commentators call for prevention rather than fatalistic blaming of the climate.\n\nInternationally, the US-Iran war looks far from over: a Greek-interest cargo ship was struck by an unknown projectile near the Strait of Hormuz, oil rose 3%, and Tehran denies Trump's claim of ongoing talks while demanding control of shipping through the Strait in its negotiations with Oman. The fallout is visible across the economy, from record refining margins to Turkey's stubborn inflation.\n\nSoutheast Europe's energy crisis is deepening: the Danube's falling water level has idled 40% of the region's nuclear capacity, Greek wholesale power prices spiked to €166/MWh, and Ford and Dacia halted production in Romania. Meanwhile, July 2026 was the hottest month ever recorded in France. On migration, after the Ceuta crisis, Kyriakos Mitsotakis calls in Politico for a new European emergency mechanism against the instrumentalisation of flows, as EU interior ministers hold an emergency meeting.\n\nThe day is also marked by farewells: the funeral of Ioannis Varvitsiotis, attended by the entire political leadership, and tributes to Lakis Chalkias, the 'Doric voice' of Greek folk song, and to Callas collector Dimitris Pyromallis."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πυρκαγιές: απολογισμός και επόμενη ημέρα",
+        "en": "Wildfires: the toll and the day after"
+      },
+      "description": {
+        "el": "Αποζημιώσεις και αυτοψίες στη Δυτική Αττική, Red Code για την Τετάρτη, το 43-45% των δασών της Αττικής καμένο σε μία εννεαετία και τα ερωτήματα για τη σύγκρουση των ελικοπτέρων στην Ψάθα.",
+        "en": "Compensation and inspections in Western Attica, Red Code for Wednesday, 43-45% of Attica's forests burned in nine years, and questions over the Psatha helicopter collision."
+      },
+      "related_items": [
+        "56dd3c267876",
+        "a7c08d708b27",
+        "2ee38bb8a597",
+        "152eb41ef4ba",
+        "3219b3b0e2f4",
+        "19bd886f4f69",
+        "106e40cc12a2",
+        "9d84fb86fac4",
+        "1771b9e48d09"
+      ],
+      "importance": 92
+    },
+    {
+      "name": {
+        "el": "Πόλεμος ΗΠΑ – Ιράν και Στενά του Ορμούζ",
+        "en": "US-Iran war and the Strait of Hormuz"
+      },
+      "description": {
+        "el": "Πλήγμα σε πλοίο ελληνικών συμφερόντων κοντά στο Ορμούζ, άνοδος του πετρελαίου, ιρανικές αξιώσεις ελέγχου της ναυσιπλοΐας και οικονομικές επιπτώσεις από τη διύλιση έως τον τουρκικό πληθωρισμό.",
+        "en": "A Greek-interest ship struck near Hormuz, rising oil prices, Iranian demands to control shipping, and economic fallout from refining margins to Turkish inflation."
+      },
+      "related_items": [
+        "630b3d83cf20",
+        "e80cbfe93bad",
+        "f6804b9c2c5b",
+        "27b72f95c1ca",
+        "13199e197e1e"
+      ],
+      "importance": 84
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση στη ΝΑ Ευρώπη",
+        "en": "Energy crisis in Southeast Europe"
+      },
+      "description": {
+        "el": "Η ξηρασία και η πτώση του Δούναβη βγάζουν εκτός το 40% της πυρηνικής παραγωγής της περιοχής: ρεύμα στα 166 ευρώ/MWh στην Ελλάδα, στάση παραγωγής για Ford και Dacia στη Ρουμανία, ρεκόρ ζέστης στη Γαλλία.",
+        "en": "Drought and the Danube's falling level idle 40% of the region's nuclear output: Greek power at €166/MWh, Ford and Dacia production halts in Romania, record heat in France."
+      },
+      "related_items": [
+        "159be5d9de98",
+        "aa6483655a93",
+        "21de5f23fa4b"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Μεταναστευτικό μετά τη Θέουτα",
+        "en": "Migration after Ceuta"
+      },
+      "description": {
+        "el": "Εκτακτη σύνοδος υπουργών Εσωτερικών της Ε.Ε., άρθρο Μητσοτάκη στο Politico για την εργαλειοποίηση των ροών, το «προειδοποιήσαμε» του Μαρόκου και μειωμένες ροές προς την Ελλάδα.",
+        "en": "An emergency EU interior ministers' meeting, Mitsotakis's Politico op-ed on instrumentalised flows, Morocco's 'we warned you', and reduced flows towards Greece."
+      },
+      "related_items": [
+        "114182c5dba5",
+        "54a1b6f02124",
+        "3d6c36878460",
+        "b912770ce8f6",
+        "770034f23a90",
+        "d4483f55cee6"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Δύο αποχαιρετισμοί: Βαρβιτσιώτης και Χαλκιάς",
+        "en": "Two farewells: Varvitsiotis and Chalkias"
+      },
+      "description": {
+        "el": "Η κηδεία του Ιωάννη Βαρβιτσιώτη με σύσσωμη την πολιτική ηγεσία και το αντίο στον Λάκη Χαλκιά, τη «δωρική φωνή» της μουσικής παράδοσης.",
+        "en": "The funeral of Ioannis Varvitsiotis attended by the political leadership, and the farewell to Lakis Chalkias, the 'Doric voice' of Greek musical tradition."
+      },
+      "related_items": [
+        "7eb15164b200",
+        "05eafd1ca3be",
+        "4d254d1656e9",
+        "0511e0c6e620",
+        "d993a7b736cd",
+        "5cbaac12d587"
+      ],
+      "importance": 62
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 11,
+      "top_items": [
+        "2ee38bb8a597",
+        "114182c5dba5",
+        "152eb41ef4ba",
+        "b5447051965e",
+        "4905fa761676"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "159be5d9de98",
+        "293d1bb5c915",
+        "3875fdcbedb0",
+        "f6804b9c2c5b",
+        "a3fe5c999273"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "56dd3c267876",
+        "a7c08d708b27",
+        "3219b3b0e2f4",
+        "0416f266c169",
+        "3d6c36878460"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "630b3d83cf20",
+        "e80cbfe93bad",
+        "54a1b6f02124",
+        "21de5f23fa4b",
+        "aa6483655a93"
+      ]
+    },
+    "opinion": {
+      "item_count": 13,
+      "top_items": [
+        "19bd886f4f69",
+        "b912770ce8f6",
+        "d577f4cf22f5",
+        "9d84fb86fac4",
+        "1771b9e48d09"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "0511e0c6e620",
+        "be53b404c53f",
+        "b2f8de41ccf0",
+        "5cbaac12d587",
+        "8f11b62b5d92"
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "293d1bb5c915",
+          "title": "Ληξιπρόθεσμες οφειλές 51,78 δισ. στο νέο σύστημα του ΕΦΚΑ",
+          "url": "https://www.kathimerini.gr/economy/local/564382750/lixiprothesmes-ofeiles-51-78-dis-sto-neo-systima-toy-efka/",
+          "source": "Kathimerini",
+          "published": "2026-08-04T07:42:00+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Ληξιπρόθεσμες ασφαλιστικές οφειλές άνω των 51,78 δισ. ευρώ μεταφέρονται στις 10 Αυγούστου στο νέο Ολοκληρωμένο Πληροφοριακό Σύστημα του e-ΕΦΚΑ. Η μετάπτωση συνεπάγεται προσωρινή διακοπή των ηλεκτρονικών υπηρεσιών του ΚΕΑΟ και αναστολή πληρωμών μέσω IRIS.",
+            "en": "Overdue social security debts exceeding €51.78bn move on August 10 to e-EFKA's new integrated IT system. The migration entails a temporary shutdown of KEAO's online services and suspension of IRIS payments."
+          },
+          "tags": {
+            "el": [
+              "ΕΦΚΑ",
+              "οφειλές",
+              "ψηφιοποίηση",
+              "ΚΕΑΟ"
+            ],
+            "en": [
+              "EFKA",
+              "debts",
+              "digitisation",
+              "KEAO"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "16d50c7fff2c",
+          "title": "Πολυτιμότερες οι δεξιότητες ΑΙ από ένα MBA για τις επιχειρήσεις",
+          "url": "https://www.kathimerini.gr/economy/international/564382789/polytimoteres-oi-dexiotites-ai-apo-ena-mba-gia-tis-epicheiriseis/",
+          "source": "Kathimerini",
+          "published": "2026-08-04T10:19:00+00:00",
+          "category": "economy",
+          "importance": 57,
+          "summary": {
+            "el": "Το 86% των στελεχών του αμερικανικού χρηματοοικονομικού τομέα θεωρεί τις δεξιότητες τεχνητής νοημοσύνης πολυτιμότερες από ένα MBA για τους νεοπροσλαμβανόμενους, σύμφωνα με έρευνα της PwC. Το 91% δηλώνει ότι αυξάνει τις αποδοχές όσων διαθέτουν τέτοιες δεξιότητες.",
+            "en": "Some 86% of US financial-sector executives consider AI skills more valuable than an MBA for new hires, according to a PwC survey. 91% say they are raising pay for employees with such skills."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "δεξιότητες",
+              "αγορά εργασίας",
+              "PwC"
+            ],
+            "en": [
+              "artificial intelligence",
+              "skills",
+              "labour market",
+              "PwC"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "65e0b499e445",
+          "title": "Αρθρο του Νίκου Μηλαπίδη στην «Κ»: Προσλήψεις με ένα κλικ. ‘Οταν το σωστό γίνεται και εύκολο",
+          "url": "https://www.kathimerini.gr/economy/564379417/arthro-toy-nikoy-milapidi-stin-k-proslipseis-me-ena-klik-otan-to-sosto-ginetai-kai-eykolo/",
+          "source": "Kathimerini",
+          "published": "2026-08-03T23:21:15+00:00",
+          "category": "economy",
+          "importance": 46,
+          "summary": {
+            "el": "Αρθρο του Νίκου Μηλαπίδη για τη δυνατότητα ολοκλήρωσης μιας πρόσληψης εξ ολοκλήρου μέσω εφαρμογής, ως παράδειγμα ουσιαστικής μεταρρύθμισης που αφαιρεί γραφειοκρατικά βήματα. Η αλλαγή διευκολύνει ιδίως μικρές επιχειρήσεις με άμεσες ανάγκες προσωπικού.",
+            "en": "Op-ed by Nikos Milapidis on completing a hire entirely through a mobile app, as an example of substantive reform that removes bureaucratic steps. The change particularly helps small businesses with urgent staffing needs."
+          },
+          "tags": {
+            "el": [
+              "ψηφιακό κράτος",
+              "προσλήψεις",
+              "γραφειοκρατία"
+            ],
+            "en": [
+              "digital state",
+              "hiring",
+              "bureaucracy"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ec78ab7bd11d",
+          "title": "«Ξεραΐλα» κατά ριπάς",
+          "url": "https://www.kathimerini.gr/opinion/564382534/xera-la-kata-ripas/",
+          "source": "Kathimerini",
+          "published": "2026-08-04T12:56:00+00:00",
+          "category": "opinion",
+          "importance": 45,
+          "summary": {
+            "el": "Η Μάρω Βασιλειάδου διαπιστώνει «ξηρασία» καλοσύνης και ενσυναίσθησης στην καθημερινότητα της πόλης — από το απότιστο αλσάκι της Εθνικής Βιβλιοθήκης μέχρι τις ασκεπείς στάσεις λεωφορείων και τα ταξί που δεν σταματούν.",
+            "en": "Maro Vasileiadou sees a 'drought' of kindness and empathy in daily city life — from the unwatered grove by the National Library to shadeless bus stops and taxis that never stop."
+          },
+          "tags": {
+            "el": [
+              "καθημερινότητα",
+              "Αθήνα",
+              "ενσυναίσθηση"
+            ],
+            "en": [
+              "daily life",
+              "Athens",
+              "empathy"
+            ]
+          },
+          "sentiment": "negative"
+        }
+      ]
+    }
+  }
+}
