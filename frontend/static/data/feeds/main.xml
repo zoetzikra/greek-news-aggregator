@@ -1,208 +1,209 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini</title>
-  <subtitle>Daily top stories aggregated from kathimerini.gr</subtitle>
+  <title>Greek News Aggregator — Daily Top Stories</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-08-04T11:15:37.633108+00:00</updated>
+  <updated>2026-08-05T11:18:06.373392+00:00</updated>
+  <subtitle>Top 20 stories of 2026-08-05 from kathimerini.gr</subtitle>
   <entry>
-    <title>Live / Φωτιές: Ολες οι εξελίξεις από τα πύρινα μέτωπα</title>
-    <link href="https://www.kathimerini.gr/society/564383047/live-foties-oles-oi-exelixeis-apo-ta-pyrina-metopa-2/"/>
-    <id>urn:kathimerini:56dd3c267876</id>
-    <updated>2026-08-04T09:22:18+03:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Συνεχείς εξελίξεις στα πύρινα μέτωπα: για την Τετάρτη κηρύχθηκε κατάσταση Red Code σε περιοχές με πολύ υψηλό κίνδυνο πυρκαγιάς (κατηγορία 4). Η φωτιά στον Αγιο Λαυρέντιο Μαγνησίας οριοθετήθηκε, ενώ νέο μέτωπο ξέσπασε στην Κοτύλη Κιλκίς με 40 πυροσβέστες να επιχειρούν.</summary>
-    <content type="text" xml:lang="en">Rolling updates from the fire fronts: Red Code mobilisation was declared for Wednesday in areas facing very high fire risk (category 4). The fire at Agios Lavrentios in Magnesia was contained, while a new front broke out at Kotyli, Kilkis, with 40 firefighters deployed.</content>
-  </entry>
-  <entry>
-    <title>Πυρκαγιές: Στο χείλος της οικολογικής κατάρρευσης</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564382351/pyrkagies-sto-cheilos-tis-oikologikis-katarreysis/"/>
-    <id>urn:kathimerini:a7c08d708b27</id>
-    <updated>2026-08-04T13:05:27+03:00</updated>
-    <author><name>Ηλιάνα Μάγρα</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Μετά τις τελευταίες πυρκαγιές, το ποσοστό καμένης γης στα δάση της Αττικής την τελευταία εννεαετία εκτιμάται σε 43-45%, με τη Δυτική Αττική σε δραματική κατάσταση: από το 2018 έχουν καεί πάνω από 480.000 στρέμματα. Οι επιστήμονες χαρακτηρίζουν Πάρνηθα και Καπανδρίτι «τελευταίο πνεύμονα» της Αττικής.</summary>
-    <content type="text" xml:lang="en">After the latest wildfires, an estimated 43-45% of Attica&#x27;s forests have burned over the past nine years, with Western Attica in dramatic condition: more than 480,000 stremmata have burned since 2018. Scientists call Parnitha and Kapandriti Attica&#x27;s &#x27;last lung&#x27;.</content>
-  </entry>
-  <entry>
-    <title>Αβέβαιο το μέλλον των συνομιλιών ΗΠΑ – Ιράν μετά το πλήγμα σε πλοίο κοντά στο Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/world/564383572/avevaio-to-mellon-ton-synomilion-ipa-iran-meta-to-pligma-se-ploio-konta-sto-ormoyz/"/>
-    <id>urn:kathimerini:630b3d83cf20</id>
-    <updated>2026-08-04T13:57:30+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Επίθεση σε εμπορικό πλοίο κοντά στα Στενά του Ορμούζ —φορτηγό ελληνικών συμφερόντων που επλήγη από άγνωστο βλήμα— και άνοδος του πετρελαίου κατά 3% ενισχύουν τις αμφιβολίες ότι ο πόλεμος ΗΠΑ – Ιράν πλησιάζει στο τέλος του. Η Τεχεράνη διαψεύδει τον Τραμπ ότι βρίσκονται σε εξέλιξη συνομιλίες.</summary>
-    <content type="text" xml:lang="en">An attack on a merchant vessel near the Strait of Hormuz — a Greek-interest cargo ship struck by an unknown projectile — and a 3% jump in oil prices are deepening doubts that the US-Iran war is nearing its end. Tehran denies Trump&#x27;s claim that talks are underway.</content>
-  </entry>
-  <entry>
-    <title>Κυβέρνηση: Εμφαση και στην επόμενη ημέρα</title>
-    <link href="https://www.kathimerini.gr/politics/government/564382381/kyvernisi-emfasi-kai-stin-epomeni-imera/"/>
-    <id>urn:kathimerini:2ee38bb8a597</id>
-    <updated>2026-08-04T07:05:00+00:00</updated>
-    <author><name>Δώρα Αντωνίου</name></author>
+    <title>Καχυποψία για ΗΠΑ, συμπάθεια για τη Ρωσία</title>
+    <link href="https://www.kathimerini.gr/politics/564379072/kachypopsia-gia-ipa-sympatheia-gia-ti-rosia/"/>
+    <id>urn:kathimerini:d9f120c0f830</id>
+    <updated>2026-08-04T19:35:37+00:00</updated>
+    <author><name>Νεκταρία Σταμούλη</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Το Μέγαρο Μαξίμου στρέφει την προσοχή στην επόμενη ημέρα των καταστροφικών πυρκαγιών, με προτεραιότητα τη γρήγορη καταγραφή ζημιών και την άμεση καταβολή αποζημιώσεων. Παράλληλα αξιολογούνται τα δεδομένα από τις ακραίες καιρικές συνθήκες που αδρανοποίησαν μεγάλο μέρος του μηχανισμού δασοπυρόσβεσης, ιδίως τα εναέρια μέσα.</summary>
-    <content type="text" xml:lang="en">The Greek government is turning to the aftermath of the devastating wildfires, prioritising rapid damage assessment and swift compensation for those affected. It is also reviewing how extreme weather effectively grounded much of the firefighting apparatus, especially aerial assets.</content>
+    <summary xml:lang="el">Πανευρωπαϊκή έρευνα της Polling Europe, που δημοσιεύει κατ&#x27; αποκλειστικότητα η «Κ», δείχνει ότι οι Έλληνες αποκλίνουν από τον ευρωπαϊκό μέσο όρο: 31% θεωρούν τις ΗΠΑ τη μεγαλύτερη απειλή για την Ευρώπη έναντι 29% για τη Ρωσία, ενώ στο σύνολο της Ε.Ε. το 45% δείχνει τη Ρωσία. Οι Έλληνες καταγράφουν και το υψηλότερο ποσοστό εμπιστοσύνης στη Ρωσία ως αξιόπιστο σύμμαχο, τάση που εμφανίζεται και στον ευρωπαϊκό Νότο.</summary>
+    <content type="text" xml:lang="en">A pan-European Polling Europe survey published exclusively by Kathimerini shows Greeks diverging sharply from the EU average: 31% see the US as Europe&#x27;s biggest threat versus 29% for Russia, while EU-wide 45% name Russia. Greeks also record the highest share among Europeans viewing Russia as a reliable ally, a tendency echoed across Europe&#x27;s south.</content>
   </entry>
   <entry>
-    <title>Νέα εστία ανησυχίας για την αγορά ηλεκτρικής ενέργειας</title>
-    <link href="https://www.kathimerini.gr/economy/local/564382756/nea-estia-anisychias-gia-tin-agora-ilektrikis-energeias/"/>
-    <id>urn:kathimerini:159be5d9de98</id>
-    <updated>2026-08-04T10:50:00+00:00</updated>
-    <author><name>Χρύσα Λιάγγου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η πτώση της στάθμης του Δούναβη έχει θέσει εκτός λειτουργίας σχεδόν το 40% της πυρηνικής δυναμικότητας της ΝΑ Ευρώπης, εκτοξεύοντας τις τιμές ρεύματος. Στην Ελλάδα η μέση τιμή της μεγαβατώρας έφθασε τα 166 ευρώ, με ημερήσια άνοδο έως 57%, αν και παραμένει χαμηλότερη από την Ανατολική Ευρώπη.</summary>
-    <content type="text" xml:lang="en">The falling level of the Danube has knocked out nearly 40% of SE Europe&#x27;s nuclear capacity, sending electricity prices soaring. In Greece the average price per MWh hit €166 after daily jumps of up to 57%, though it remains below Eastern European levels.</content>
+    <title>Πυρκαγιές: Διυπουργική υπό τον Μητσοτάκη για τις αποζημιώσεις των πυρόπληκτων</title>
+    <link href="https://www.kathimerini.gr/politics/564385093/pyrkagies-diypoyrgiki-ypo-ton-mitsotaki-gia-tis-apozimioseis-ton-pyroplikton/"/>
+    <id>urn:kathimerini:5baf070acff2</id>
+    <updated>2026-08-05T07:35:42+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Κυριάκος Μητσοτάκης συγκαλεί σήμερα στο Μαξίμου διυπουργική σύσκεψη για τις αποζημιώσεις πυρόπληκτων πολιτών, αγροτών και επιχειρήσεων. Στο επίκεντρο η πορεία καταγραφής ζημιών, οι διαδικασίες κρατικής αρωγής και ο συντονισμός των υπουργείων, ενώ συνεχίζονται οι αυτοψίες στις πληγείσες περιοχές.</summary>
+    <content type="text" xml:lang="en">PM Mitsotakis convenes an inter-ministerial meeting at Maximos Mansion on compensation for fire-stricken citizens, farmers and businesses. The focus is damage assessment progress, state-aid procedures and ministry coordination so payments reach beneficiaries quickly, as inspections continue in affected areas.</content>
   </entry>
   <entry>
-    <title>Σύγκρουση ελικοπτέρων: Τα κρίσιμα δευτερόλεπτα στον αέρα</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564382366/sygkroysi-elikopteron-ta-krisima-deyterolepta-ston-aera/"/>
-    <id>urn:kathimerini:3219b3b0e2f4</id>
-    <updated>2026-08-04T09:54:49+00:00</updated>
+    <title>Σύγκρουση ελικοπτέρων: Το «νεκρό σημείο» και ο συντονισμός</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564384559/sygkroysi-elikopteron-to-nekro-simeio-kai-o-syntonismos/"/>
+    <id>urn:kathimerini:87c8424cdc1f</id>
+    <updated>2026-08-05T11:30:00+00:00</updated>
     <author><name>Γιάννης Παπαδόπουλος</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Εμπειροι χειριστές περιγράφουν «Βαβέλ στον αέρα» με επτά αεροσκάφη και ισάριθμα ελικόπτερα στην ίδια συχνότητα, με αφορμή τη θανατηφόρα σύγκρουση των δύο Bell στην Ψάθα όπου σκοτώθηκαν ο Δανός χειριστής και ο Ελληνας σύνδεσμος. Η χρήση διερμηνέα εν ώρα επιχείρησης κοστίζει πολύτιμα δευτερόλεπτα.</summary>
-    <content type="text" xml:lang="en">Veteran pilots describe a &#x27;Babel in the air&#x27;, with seven aircraft and as many helicopters on the same frequency, in the wake of the fatal collision of two Bell helicopters at Psatha that killed a Danish pilot and his Greek liaison. Operating through an interpreter costs precious seconds.</content>
+    <summary xml:lang="el">Χειριστής εναέριου μέσου με γνώση της επιχείρησης στην Ψάθα εκτιμά στην «Κ» ότι τα δύο μισθωμένα Bell δεν λειτούργησαν ως ζεύγος και ο ένας βρέθηκε στο «νεκρό σημείο» του άλλου. Στη σύγκρουση της 2ας Αυγούστου σκοτώθηκαν ο Δανός χειριστής Ρούνε Κίνταλ και ο Έλληνας σύνδεσμος, ενώ διερευνάται ο εναέριος συντονισμός της κατάσβεσης.</summary>
+    <content type="text" xml:lang="en">A pilot familiar with the Psatha firefighting operation tells Kathimerini the two leased Bell helicopters did not operate as a pair, with one ending up in the other&#x27;s blind spot. The August 2 collision killed Danish pilot Rune Kindal and a Greek liaison officer; investigators are examining the aerial coordination of the operation.</content>
   </entry>
   <entry>
-    <title>Στενά του Ορμούζ: Ποιες οι αξιώσεις του Ιράν στις διαπραγματεύσεις με το Ομάν</title>
-    <link href="https://www.kathimerini.gr/world/564383509/stena-toy-ormoyz-poies-oi-axioseis-toy-iran-stis-diapragmateyseis-me-to-oman/"/>
-    <id>urn:kathimerini:e80cbfe93bad</id>
-    <updated>2026-08-04T13:12:34+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Το Ιράν επιδιώκει να ελέγχει την εισερχόμενη ναυσιπλοΐα στα Στενά του Ορμούζ και να εποπτεύει την εξερχόμενη, στο πλαίσιο σχεδίου που συζητείται με το Ομάν για την επαναλειτουργία της στρατηγικής οδού. Η Τεχεράνη απέρριψε πρόταση για ισότιμη κατανομή των θαλάσσιων διαδρόμων.</summary>
-    <content type="text" xml:lang="en">Iran is seeking control over inbound shipping through the Strait of Hormuz and oversight of outbound traffic, under a plan being discussed with Oman to reopen the strategic waterway. Tehran has rejected a proposal for equal division of the sea lanes.</content>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης στο Politico: Η Ε.Ε. χρειάζεται νέα μέτρα για να αντιμετωπίσει την εργαλειοποίηση της μετανάστευσης</title>
-    <link href="https://www.kathimerini.gr/politics/564382957/mitsotakis-sto-politico-i-ee-chreiazetai-nea-metra-gia-na-antimetopisei-tin-ergaleiopoiisi-tis-metanasteysis/"/>
-    <id>urn:kathimerini:114182c5dba5</id>
-    <updated>2026-08-04T07:48:51+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Ιχνη υβριδικού πολέμου στις πύλες της Ευρώπης</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564384577/ichni-yvridikoy-polemoy-stis-pyles-tis-eyropis/"/>
+    <id>urn:kathimerini:24648301c6f1</id>
+    <updated>2026-08-05T07:25:13+00:00</updated>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Με άρθρο του στο Politico, ο Κυριάκος Μητσοτάκης ζητά νέο ευρωπαϊκό μηχανισμό έκτακτης ανάγκης για την εργαλειοποίηση των μεταναστευτικών ροών, χαρακτηρίζοντάς την υβριδική απειλή. Υποστηρίζει ότι το ισχύον Σύμφωνο για τη Μετανάστευση σχεδιάστηκε για διαχειρίσιμες πιέσεις, όχι για κρίσεις.</summary>
-    <content type="text" xml:lang="en">In a Politico op-ed, Kyriakos Mitsotakis calls for a new European emergency mechanism against the instrumentalisation of migration flows, describing it as a hybrid threat. He argues the current Migration and Asylum Pact was designed for manageable pressures, not crises.</content>
+    <summary xml:lang="el">Η Ε.Ε. αποδίδει τη μαζική είσοδο 70.000 μεταναστών στη Θέουτα σε «υβριδική επίθεση» με οργανωμένη παραπληροφόρηση σε Instagram, TikTok και Facebook, με τη συνδρομή δικτύων διακινητών. Η έκτακτη τηλεδιάσκεψη των υπουργών Εσωτερικών εξέπεμψε αλληλεγγύη προς την Ισπανία, ενώ Europol και ΕΥΕΔ διερευνούν πιθανή ξένη παρέμβαση.</summary>
+    <content type="text" xml:lang="en">The EU attributes the mass entry of 70,000 migrants into Ceuta to a &#x27;hybrid attack&#x27; driven by organised disinformation on Instagram, TikTok and Facebook aided by smuggling networks. An emergency videoconference of interior ministers signalled solidarity with Spain, while Europol and the EEAS investigate possible foreign interference.</content>
   </entry>
   <entry>
-    <title>Φωτιές στη Δυτική Αττική: «Επιδότηση ενοικίου έως 500 ευρώ και 100% αποζημίωση για κατεστραμμένα σπίτια»</title>
-    <link href="https://www.kathimerini.gr/politics/564381460/foties-sti-dytiki-attiki-epidotisi-enoikioy-eos-500-eyro-kai-100-apozimiosi-gia-katestrammena-spitia/"/>
-    <id>urn:kathimerini:152eb41ef4ba</id>
-    <updated>2026-08-03T11:52:13+00:00</updated>
+    <title>«Το καλοκαίρι που διέλυσε την Ευρώπη»</title>
+    <link href="https://www.kathimerini.gr/society/564384607/kaysones-to-kalokairi-poy-dielyse-tin-eyropi/"/>
+    <id>urn:kathimerini:a60742a0ed41</id>
+    <updated>2026-08-05T12:44:00+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ξεκινούν άμεσα οι αυτοψίες στις πυρόπληκτες περιοχές της Δυτικής Αττικής, με τον υφυπουργό Κώστα Κατσαφάδο να εξαγγέλλει επιδότηση ενοικίου έως 500 ευρώ και 100% αποζημίωση για κατεστραμμένα σπίτια. Ο υφυπουργός εξέφρασε συλλυπητήρια για τους πέντε νεκρούς της μάχης με τις φλόγες, ανάμεσά τους δύο πιλότους και τρεις πυροσβέστες.</summary>
-    <content type="text" xml:lang="en">Damage inspections are starting immediately in fire-stricken Western Attica, with deputy minister Kostas Katsafados announcing rent subsidies of up to €500 and 100% compensation for destroyed homes. He offered condolences for the five people killed battling the fires, including two pilots and three firefighters.</content>
-  </entry>
-  <entry>
-    <title>Η Τουρκία φορτώνει το τραπέζι</title>
-    <link href="https://www.kathimerini.gr/politics/564379060/i-toyrkia-fortonei-to-trapezi/"/>
-    <id>urn:kathimerini:b5447051965e</id>
-    <updated>2026-08-03T11:30:20+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Η Αγκυρα επιχειρεί να αξιοποιήσει το Κυπριακό ως μοχλό για τη σχέση της με την Ευρώπη, εν μέσω επίσκεψης Γκουτέρες στην Κύπρο και ενεργοποίησης της Ε.Ε. με τον απεσταλμένο Ραφαέλε Φίτο. Η προοπτική εμπλοκής του Λευκού Οίκου, με τον νέο πρέσβη Τζον Μπρέσλοου, προκαλεί επιφυλάξεις και στις δύο πλευρές του νησιού.</summary>
-    <content type="text" xml:lang="en">Ankara is seeking to leverage the Cyprus issue to advance its relationship with Europe, amid UN chief Guterres&#x27;s visit to Cyprus and EU engagement through envoy Raffaele Fitto. The prospect of White House involvement, via new ambassador John Breslow, is causing unease on both sides of the island.</content>
-  </entry>
-  <entry>
-    <title>Κρίση στη Θέουτα: Το Μαρόκο λέει ότι είχε προειδοποιήσει την Ισπανία</title>
-    <link href="https://www.kathimerini.gr/world/564383527/krisi-sti-theoyta-to-maroko-leei-oti-eiche-proeidopoiisei-tin-ispania/"/>
-    <id>urn:kathimerini:54a1b6f02124</id>
-    <updated>2026-08-04T13:23:25+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Το Μαρόκο υποστηρίζει ότι είχε προειδοποιήσει την Ισπανία για τον μεταναστευτικό κίνδυνο από απόφαση ισπανικού δικαστηρίου, πριν σχεδόν 60.000 άνθρωποι φτάσουν ή επιχειρήσουν να φτάσουν στη Θέουτα. Το Ραμπάτ αρνείται οποιαδήποτε χαλάρωση των συνοριακών ελέγχων.</summary>
-    <content type="text" xml:lang="en">Morocco says it had warned Spain about the migration risk created by a Spanish court ruling before nearly 60,000 people reached or tried to reach Ceuta. Rabat denies any relaxation of border controls.</content>
-  </entry>
-  <entry>
-    <title>Ιούλιος 2026: Ο πιο ζεστός μήνας που έχει ποτέ καταγραφεί στη Γαλλία</title>
-    <link href="https://www.kathimerini.gr/world/564383431/ioylios-2026-o-pio-zestos-minas-poy-echei-pote-katagrafei-sti-gallia/"/>
-    <id>urn:kathimerini:21de5f23fa4b</id>
-    <updated>2026-08-04T12:40:26+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ο Ιούλιος 2026 ήταν ο θερμότερος μήνας που έχει καταγραφεί ποτέ στη Γαλλία από το 1900, ξεπερνώντας τα ρεκόρ του 2003 και του 2006, σύμφωνα με τη Météo-France. Με έλλειμμα βροχοπτώσεων σχεδόν 70%, η ξηρότητα των εδαφών βρίσκεται σε επίπεδα ρεκόρ.</summary>
-    <content type="text" xml:lang="en">July 2026 was the hottest month ever recorded in France since 1900, surpassing the 2003 and 2006 records, according to Météo-France. With a rainfall deficit of nearly 70%, soil dryness is at record levels.</content>
-  </entry>
-  <entry>
-    <title>Αποδυναμώνεται αλλά έχει αντοχές το κόμμα Καρυστιανού</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564382378/apodynamonetai-alla-echei-antoches-to-komma-karystianoy/"/>
-    <id>urn:kathimerini:4905fa761676</id>
-    <updated>2026-08-04T09:09:00+00:00</updated>
-    <author><name>Αγγελική Σπανού</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Το κόμμα της Μαρίας Καρυστιανού καταγράφει σημαντική δημοσκοπική κάμψη, με την εκλογική του επιρροή στο 8% περίπου και απώλεια σχεδόν 50% της δύναμής του από τα τέλη Μαΐου. Παρά τις θορυβώδεις αποχωρήσεις στελεχών και την απουσία καταστατικού και ηγετικής ομάδας, οι αναλυτές μιλούν για συρρίκνωση αλλά όχι διάλυση.</summary>
-    <content type="text" xml:lang="en">Maria Karystianou&#x27;s party is seeing a marked decline in the polls, with support at around 8% and a loss of nearly half its strength since late May. Despite noisy departures of officials and the absence of a charter or leadership team, analysts describe contraction rather than collapse.</content>
-  </entry>
-  <entry>
-    <title>Ford και Dacia σταματούν την παραγωγή στη Ρουμανία λόγω της ενεργειακής κρίσης</title>
-    <link href="https://www.kathimerini.gr/world/564383332/ford-kai-dacia-stamatoyn-tin-paragogi-sti-roymania-logo-tis-energeiakis-krisis/"/>
-    <id>urn:kathimerini:aa6483655a93</id>
-    <updated>2026-08-04T11:46:23+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ford και Dacia ανέστειλαν την παραγωγή στα εργοστάσιά τους στη Ρουμανία έως τις 19 Αυγούστου λόγω σοβαρών ελλείψεων ηλεκτρικής ενέργειας, μειώνοντας την κατανάλωση κατά 200 MW. Οι επιπτώσεις εκτείνονται σε προμηθευτές, logistics και εργαζομένους.</summary>
-    <content type="text" xml:lang="en">Ford and Dacia have suspended production at their Romanian plants until August 19 due to severe electricity shortages, cutting consumption by 200 MW. The effects ripple out to suppliers, logistics firms and workers.</content>
-  </entry>
-  <entry>
-    <title>Ληξιπρόθεσμες οφειλές 51,78 δισ. στο νέο σύστημα του ΕΦΚΑ</title>
-    <link href="https://www.kathimerini.gr/economy/local/564382750/lixiprothesmes-ofeiles-51-78-dis-sto-neo-systima-toy-efka/"/>
-    <id>urn:kathimerini:293d1bb5c915</id>
-    <updated>2026-08-04T07:42:00+00:00</updated>
-    <author><name>Ρούλα Σαλούρου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ληξιπρόθεσμες ασφαλιστικές οφειλές άνω των 51,78 δισ. ευρώ μεταφέρονται στις 10 Αυγούστου στο νέο Ολοκληρωμένο Πληροφοριακό Σύστημα του e-ΕΦΚΑ. Η μετάπτωση συνεπάγεται προσωρινή διακοπή των ηλεκτρονικών υπηρεσιών του ΚΕΑΟ και αναστολή πληρωμών μέσω IRIS.</summary>
-    <content type="text" xml:lang="en">Overdue social security debts exceeding €51.78bn move on August 10 to e-EFKA&#x27;s new integrated IT system. The migration entails a temporary shutdown of KEAO&#x27;s online services and suspension of IRIS payments.</content>
-  </entry>
-  <entry>
-    <title>Τουρισμός: Οι τιμές οδηγούν την ανάπτυξη των ελληνικών ξενοδοχείων</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564382771/toyrismos-oi-times-odigoyn-tin-anaptyxi-ton-ellinikon-xenodocheion/"/>
-    <id>urn:kathimerini:3875fdcbedb0</id>
-    <updated>2026-08-04T09:34:00+03:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η ανάπτυξη των ελληνικών ξενοδοχείων το πρώτο εξάμηνο του 2026 στηρίζεται σχεδόν αποκλειστικά στις αυξήσεις τιμών: οι διανυκτερεύσεις αυξήθηκαν μόλις 0,6% ενώ τα έσοδα σημείωσαν σημαντική άνοδο, σύμφωνα με την GBR Consulting. Καταγράφεται απόκλιση μεταξύ συνολικών ταξιδιωτικών ροών και πραγματικής ξενοδοχειακής ζήτησης.</summary>
-    <content type="text" xml:lang="en">Greek hotel growth in the first half of 2026 rests almost entirely on price increases: room nights rose just 0.6% while revenues climbed sharply, according to GBR Consulting. A gap is emerging between overall travel flows and actual hotel demand.</content>
-  </entry>
-  <entry>
-    <title>Xρυσή εποχή για τη διύλιση πετρελαίου λόγω του πολέμου</title>
-    <link href="https://www.kathimerini.gr/economy/international/564382825/xrysi-epochi-gia-ti-diylisi-petrelaioy-logo-toy-polemoy/"/>
-    <id>urn:kathimerini:f6804b9c2c5b</id>
-    <updated>2026-08-04T11:40:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ο πόλεμος στο Ιράν και το κλείσιμο των Στενών του Ορμούζ έχουν εκτοξεύσει τα περιθώρια διύλισης σε ιστορικά υψηλά, αναζωογονώντας έναν κλάδο που οι επενδυτές είχαν ξεγράψει. Οι διαταραχές αφαίρεσαν περίπου 5 εκατ. βαρέλια ημερησίως από την αγορά προϊόντων.</summary>
-    <content type="text" xml:lang="en">The Iran war and the closure of the Strait of Hormuz have driven refining margins to record highs, reviving a business investors had largely written off. The disruptions removed roughly 5 million barrels a day from product markets.</content>
-  </entry>
-  <entry>
-    <title>Στοχευμένοι ψεκασμοί για τον ιό του Δυτικού Νείλου</title>
-    <link href="https://www.kathimerini.gr/society/564382405/stocheymenoi-psekasmoi-gia-ton-io-toy-dytikoy-neiloy/"/>
-    <id>urn:kathimerini:0416f266c169</id>
-    <updated>2026-08-04T09:20:00+00:00</updated>
-    <author><name>Τάνια Γεωργιοπούλου</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Σε στοχευμένους ψεκασμούς κατά των κουνουπιών προχωρά η Περιφέρεια Αττικής μετά την έγκριση εντομοκτόνου ULV από τον ΕΟΔΥ, καθώς τα κρούσματα του ιού του Δυτικού Νείλου έφτασαν τα 35. Οι παρεμβάσεις ξεκινούν από την Ανατολική Αττική, όπου καταγράφονται 25 κρούσματα.</summary>
-    <content type="text" xml:lang="en">The Attica Region is proceeding with targeted mosquito spraying after EODY approved a ULV insecticide, as West Nile virus cases reached 35. Interventions begin in Eastern Attica, which accounts for 25 cases.</content>
+    <summary xml:lang="el">Ο φετινός Ιούλιος ήταν ο θερμότερος στη Γαλλία από το 1900 και ο τρίτος πιο άνυδρος, μετά τον πιο ζεστό Ιούνιο που έχει καταγραφεί στη Δυτική Ευρώπη, με ρεκόρ σε πάνω από 250 μετεωρολογικούς σταθμούς. Διεθνή ΜΜΕ μιλούν για «το καλοκαίρι που διέλυσε την Ευρώπη», με μελέτες να δείχνουν ότι η κλιματική κρίση καθιστά τη Νότια Ευρώπη ολοένα πιο «εύφλεκτη».</summary>
+    <content type="text" xml:lang="en">This July was France&#x27;s hottest since records began in 1900 and its third driest, following the warmest June ever recorded in Western Europe, with records broken at over 250 weather stations. International media speak of &#x27;the summer that shattered Europe&#x27;, as studies show the climate crisis is making Southern Europe increasingly flammable.</content>
   </entry>
   <entry>
-    <title>Λίβανος: Οι άμεσες διαπραγματεύσεις με το Ισραήλ θα φέρουν «ντροπή και ταπείνωση», λέει η Χεζμπολάχ</title>
-    <link href="https://www.kathimerini.gr/world/564383272/livanos-oi-ameses-diapragmateyseis-me-to-israil-tha-feroyn-ntropi-kai-tapeinosi-leei-i-chezmpolach/"/>
-    <id>urn:kathimerini:111adb3c101e</id>
-    <updated>2026-08-04T11:21:11+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ο επικεφαλής της Χεζμπολάχ Ναΐμ Κάσεμ δήλωσε ότι οι άμεσες διαπραγματεύσεις Λιβάνου – Ισραήλ που ανοίγουν στη Ρώμη θα φέρουν «ντροπή και ταπείνωση», κατηγορώντας τον πρόεδρο Αούν για μεροληψία. Εμφανίστηκε ωστόσο ανοικτός σε συνάντηση με το νέο συριακό καθεστώς.</summary>
-    <content type="text" xml:lang="en">Hezbollah chief Naim Qassem said the direct Lebanon-Israel negotiations opening in Rome will bring &#x27;shame and humiliation&#x27;, accusing President Aoun of partiality. He nevertheless signalled openness to meeting Syria&#x27;s new leadership.</content>
-  </entry>
-  <entry>
-    <title>Ενισχύθηκε τον Ιούλιο η δραστηριότητα στη μεταποίηση</title>
-    <link href="https://www.kathimerini.gr/economy/564382735/enischythike-ton-ioylio-i-drastiriotita-sti-metapoiisi/"/>
-    <id>urn:kathimerini:a3fe5c999273</id>
-    <updated>2026-08-04T07:34:23+00:00</updated>
+    <title>Πυρκαγιές: Ξεκίνησε η καταγραφή των ζημιών</title>
+    <link href="https://www.kathimerini.gr/economy/local/564384958/pyrkagies-xekinise-i-katagrafi-ton-zimion/"/>
+    <id>urn:kathimerini:eeacd7c6ab87</id>
+    <updated>2026-08-05T06:56:00+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Στις 54,3 μονάδες ενισχύθηκε τον Ιούλιο ο PMI της ελληνικής μεταποίησης από 53,8 τον Ιούνιο, με τις νέες παραγγελίες εξαγωγών να αυξάνονται για πρώτη φορά σε έξι μήνες. Η απασχόληση αυξήθηκε με τον ισχυρότερο ρυθμό από τον Νοέμβριο του 2025.</summary>
-    <content type="text" xml:lang="en">Greece&#x27;s manufacturing PMI rose to 54.3 in July from 53.8 in June, with new export orders growing for the first time in six months. Employment rose at the fastest pace since November 2025.</content>
+    <summary xml:lang="el">Ξεκίνησε η καταγραφή ζημιών στις πυρόπληκτες περιοχές από τη Γενική Γραμματεία Αποκατάστασης Φυσικών Καταστροφών, με προτεραιότητα τα επιδόματα πρώτων βιοτικών αναγκών έως 600 ευρώ και οικοσκευής έως 6.000 ευρώ. Για σπίτια που κριθούν «κίτρινα» ή «κόκκινα» προβλέπεται επιδότηση ενοικίου 300-500 ευρώ μηνιαίως.</summary>
+    <content type="text" xml:lang="en">Damage assessment has begun in fire-stricken areas, with priority on paying first-needs allowances of up to €600 and household-equipment grants of up to €6,000. Homes deemed temporarily unfit (&#x27;yellow&#x27; or &#x27;red&#x27;) will qualify for rent subsidies of €300-500 per month depending on household size.</content>
+  </entry>
+  <entry>
+    <title>Νετανιάχου: Το Ισραήλ δεν έχει δεχθεί το σχέδιο Τραμπ για τη Γάζα</title>
+    <link href="https://www.kathimerini.gr/world/564385333/netaniachoy-to-israil-den-echei-dechthei-to-schedio-tramp-gia-ti-gaza/"/>
+    <id>urn:kathimerini:c4306167b719</id>
+    <updated>2026-08-05T10:51:54+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Μπέντζαμιν Νετανιάχου δήλωσε ότι το Ισραήλ δεν έχει αποδεχθεί το υποστηριζόμενο από τις ΗΠΑ σχέδιο για τη Γάζα: «Δεν είναι το δικό μας σχέδιο· τους διαβιβάσαμε τα σχόλιά μας». Συναντήθηκε με το «Συμβούλιο Ειρήνης» του Τραμπ και έλαβε εγγυήσεις ότι ο ισραηλινός στρατός δεν θα αποχωρήσει πριν από τον πλήρη αφοπλισμό της Χαμάς.</summary>
+    <content type="text" xml:lang="en">Benjamin Netanyahu said Israel has not accepted the US-backed Gaza plan: &#x27;It is not our plan; we sent them our comments.&#x27; He met Trump&#x27;s &#x27;Peace Council&#x27;, which is implementing the plan&#x27;s second phase, and received guarantees that Israeli forces need not withdraw before Hamas is fully disarmed.</content>
+  </entry>
+  <entry>
+    <title>Κοντά σε συμφωνία Ιράν και Ομάν για το Ορμούζ</title>
+    <link href="https://www.kathimerini.gr/economy/international/564385030/konta-se-symfonia-iran-kai-oman-gia-to-ormoyz/"/>
+    <id>urn:kathimerini:40ef12f41cdb</id>
+    <updated>2026-08-05T09:27:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Ιράν και Ομάν πλησιάζουν σε συμφωνία επανέναρξης της ναυσιπλοΐας στα Στενά του Ορμούζ, με τα εισερχόμενα πλοία να διέρχονται από ιρανικά ελεγχόμενο κανάλι και τα αναχωρούντα από κανάλι κοντά στο Ομάν, έναντι «τέλους εξυπηρέτησης». Η συμφωνία θα ανακούφιζε τον πρόεδρο Τραμπ, αλλά κινδυνεύει να επικυρώσει μόνιμο ιρανικό έλεγχο σε μια διεθνή πλωτή οδό.</summary>
+    <content type="text" xml:lang="en">Iran and Oman are nearing a deal to reopen the Strait of Hormuz, with inbound ships using an Iranian-controlled channel and outbound traffic passing near Oman, subject to a &#x27;service fee&#x27; split between the two countries. The deal would ease President Trump&#x27;s most pressing problem but risks entrenching Tehran&#x27;s control over a formerly open international waterway.</content>
+  </entry>
+  <entry>
+    <title>Ερευνα μετά τον εντοπισμό drone στο αεροδρόμιο της Λειψίας – Επηρεάστηκαν οι δραστηριότητες της DHL</title>
+    <link href="https://www.kathimerini.gr/world/564385372/mystirio-symvan-sti-leipsia-aeroskafos-tis-dhl-sygkroystike-me-agnosto-antikeimeno/"/>
+    <id>urn:kathimerini:cca0b1d3edf5</id>
+    <updated>2026-08-05T11:28:55+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Φορτηγό αεροσκάφος της DHL προσέκρουσε σε άγνωστο αντικείμενο απογειωμένο από τη Λειψία και προσγειώθηκε εκτάκτως στο Ανόβερο, ενώ το ΝΑΤΟ επιβεβαίωσε τον εντοπισμό drone κοντά σε ουκρανικό αεροσκάφος στο αεροδρόμιο. Κατά τη Bild, το drone έφερε εκρηκτικό μηχανισμό· ο νότιος διάδρομος έκλεισε προσωρινά και πτήσεις εκτράπηκαν.</summary>
+    <content type="text" xml:lang="en">A DHL cargo plane struck an unknown object taking off from Leipzig and made an emergency landing in Hanover, while NATO confirmed a drone was detected near a Ukrainian aircraft at the airport. Per Bild, the drone carried an explosive device; the southern runway closed temporarily and flights were diverted.</content>
+  </entry>
+  <entry>
+    <title>Πώς τελειώνεις έναν πόλεμο;</title>
+    <link href="https://www.kathimerini.gr/opinion/564384733/pos-teleioneis-enan-polemo/"/>
+    <id>urn:kathimerini:edade0d0ad19</id>
+    <updated>2026-08-05T08:28:00+00:00</updated>
+    <author><name>Κατερίνα Σώκου</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Η Κατερίνα Σώκου αναλύει το δίλημμα του Τραμπ επτά μήνες μετά την έναρξη του πολέμου με το Ιράν: κάθε σενάριο νίκης ρισκάρει κλιμάκωση, ενώ η συνέχιση ρισκάρει στρατηγική ήττα. Η ακύρωση νέας επίθεσης ερμηνεύεται ως ελιγμός προς συμφωνία, όμως το Ιράν ελέγχει πλέον τη ναυσιπλοΐα στην περιοχή και η νέα πραγματικότητα έχει παγιωθεί.</summary>
+    <content type="text" xml:lang="en">Katerina Sokou analyses Trump&#x27;s dilemma seven months into the war with Iran: every path to victory risks dangerous escalation, while staying the course risks strategic defeat. His cancellation of another strike is read as manoeuvring toward a deal, but Iran now controls regional shipping lanes and a new reality has set in.</content>
+  </entry>
+  <entry>
+    <title>Ελ Νίνιο: Το φαινόμενο μπορεί να οδηγήσει 49 εκατομμύρια ανθρώπους σε οξεία πείνα</title>
+    <link href="https://www.kathimerini.gr/world/564385438/el-ninio-to-fainomeno-mporei-na-odigisei-49-ekatommyria-anthropoys-se-oxeia-peina/"/>
+    <id>urn:kathimerini:64f1054fa348</id>
+    <updated>2026-08-05T12:07:08+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το Παγκόσμιο Επισιτιστικό Πρόγραμμα προειδοποιεί ότι ένα εξαιρετικά ισχυρό Ελ Νίνιο —με πιθανότητα 81% και θερμοκρασίες επιφάνειας θάλασσας στα υψηλότερα επίπεδα από το 1982— μπορεί να οδηγήσει σχεδόν 49 εκατ. επιπλέον ανθρώπους σε οξεία επισιτιστική ανασφάλεια έως το τέλος του 2027, με ξηρασίες στη νότια Αφρική και καθυστερημένους μουσώνες στην Ασία.</summary>
+    <content type="text" xml:lang="en">The World Food Programme warns that an exceptionally strong El Niño — an 81% probability, with sea-surface temperatures at their highest since at least 1982 — could push nearly 49 million more people into acute food insecurity by the end of next year, via droughts in southern Africa and delayed monsoons in Asia.</content>
+  </entry>
+  <entry>
+    <title>Κόμμα Καρυστιανού: Αποχώρησαν Μουτσάτσου, Ιωαννίδου και Κοτσόργιος</title>
+    <link href="https://www.kathimerini.gr/politics/564384166/komma-karystianoy-apochorisan-moytsatsoy-ioannidoy-kai-kotsorgios/"/>
+    <id>urn:kathimerini:58b4b62f7d86</id>
+    <updated>2026-08-04T20:01:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Μπαράζ αποχωρήσεων στο κόμμα της Μαρίας Καρυστιανού «Ελπίδα για τη Δημοκρατία»: αποχώρησαν η ηθοποιός Κατερίνα Μουτσάτσου, το μέλος του Πολιτικού Συμβουλίου Μαρία Ιωαννίδου και ο συνδικαλιστής παράκτιων αλιέων Τάκης Κοτσόργιος. Οι αποχωρούντες κάνουν λόγο για συνέχιση του αγώνα εκτός κόμματος, επιβεβαιώνοντας τη σοβούσα εσωτερική κρίση.</summary>
+    <content type="text" xml:lang="en">A wave of resignations hits Maria Karystianou&#x27;s party &#x27;Hope for Democracy&#x27;: actress Katerina Moutsatsou, Political Council member Maria Ioannidou and coastal fishermen&#x27;s unionist Takis Kotsorgios all announced their departure. The exits confirm a deepening internal crisis in the young party.</content>
+  </entry>
+  <entry>
+    <title>Καύσωνες, φωτιές απειλούν την παραγωγή ελαιολάδου</title>
+    <link href="https://www.kathimerini.gr/economy/international/564384991/kaysones-foties-apeiloyn-tin-paragogi-elaioladoy/"/>
+    <id>urn:kathimerini:5d155459c204</id>
+    <updated>2026-08-05T08:47:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Καύσωνες, ξηρασία και πυρκαγιές απειλούν τις ευρωπαϊκές καλλιέργειες και τροφοδοτούν φόβους για νέο κύκλο ανατιμήσεων στα τρόφιμα, με το ελαιόλαδο ξανά στο επίκεντρο. Η ισπανική παραγωγή έκλεισε 9% χαμηλότερα και οι τιμές παραγωγού ανεβαίνουν ήδη — στη Χαέν το έξτρα παρθένο +7,5% σε ετήσια βάση.</summary>
+    <content type="text" xml:lang="en">Heatwaves, drought and wildfires are battering European crops and stoking fears of a new round of food price increases, with olive oil again in focus. Spain&#x27;s production closed 9% lower and producer prices are already rising — extra virgin in Jaén is up 7.5% year-on-year.</content>
+  </entry>
+  <entry>
+    <title>Πεζεσκιάν: Το Ιράν θα στηρίξει όποια απόφαση λάβει η παλαιστινιακή ηγεσία για τη Γάζα</title>
+    <link href="https://www.kathimerini.gr/world/564385564/pezeskian-to-iran-tha-stirixei-opoia-apofasi-lavei-i-palaistiniaki-igesia-gia-ti-gaza/"/>
+    <id>urn:kathimerini:47dfdc0ea08b</id>
+    <updated>2026-08-05T13:23:57+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Ιρανός πρόεδρος Μασούντ Πεζεσκιάν δήλωσε ότι η Τεχεράνη θα στηρίξει όποια απόφαση λάβει η παλαιστινιακή ηγεσία στις έμμεσες διαπραγματεύσεις Χαμάς – Ισραήλ. Παράλληλα, ο Νετανιάχου επιμένει ότι το Ισραήλ δεν έχει αποδεχθεί το αμερικανικό σχέδιο για τη Γάζα, παρά τις εγγυήσεις ότι δεν θα αποχωρήσει πριν από τον πλήρη αφοπλισμό της Χαμάς.</summary>
+    <content type="text" xml:lang="en">Iranian President Masoud Pezeshkian said Tehran will back whatever decision the Palestinian leadership takes in indirect Hamas–Israel negotiations. Meanwhile Netanyahu insists Israel has not accepted the US-backed Gaza plan, despite assurances that withdrawal would come only after Hamas&#x27;s full disarmament.</content>
+  </entry>
+  <entry>
+    <title>Αναζωπυρώσεις απρονοησίας</title>
+    <link href="https://www.kathimerini.gr/opinion/564384736/anazopyroseisapronoisias/"/>
+    <id>urn:kathimerini:ac241a200aa4</id>
+    <updated>2026-08-05T12:56:00+00:00</updated>
+    <author><name>Τασούλα Καραϊσκάκη</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Η Τασούλα Καραϊσκάκη επισημαίνει ότι η Ελλάδα είναι καλή στην απόκριση αλλά όχι στην πρόληψη πυρκαγιών: κάθε χρόνο δεκάδες φωτιές ξεκινούν από υπερκορεσμένες χωματερές και εναέριους αγωγούς ρεύματος, αιτίες γνωστές και αντιμετωπίσιμες που όμως μένουν ανεπίλυτες λόγω αδράνειας, προχειρότητας και απουσίας σχεδίου.</summary>
+    <content type="text" xml:lang="en">Tasoula Karaiskaki argues Greece excels at fire response but fails at prevention: every year dozens of fires start in oversaturated landfills and along overhead power lines — known, fixable causes left unaddressed through inertia, sloppiness and the absence of a clear plan.</content>
+  </entry>
+  <entry>
+    <title>Σε δοκιμασία η δημοσιονομική πειθαρχία στην Ευρώπη το 2027</title>
+    <link href="https://www.kathimerini.gr/economy/international/564384994/se-dokimasia-i-dimosionomiki-peitharchia-stin-eyropi-to-2027/"/>
+    <id>urn:kathimerini:ba6b2569b470</id>
+    <updated>2026-08-05T11:12:00+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Η Goldman Sachs προειδοποιεί για δημοσιονομικό κίνδυνο στην Ευρωζώνη το 2027 λόγω πυκνού εκλογικού κύκλου: εννέα κράτη ψηφίζουν, με Γαλλία, Ιταλία, Ισπανία και Ελλάδα να προσέρχονται στις κάλπες έως τα τέλη Σεπτεμβρίου. Οι δυσκολίες σχηματισμού κυβέρνησης συνδέονται ιστορικά με λιγότερο συνετή δημοσιονομική στάση και επιβράδυνση της αποκλιμάκωσης του χρέους.</summary>
+    <content type="text" xml:lang="en">Goldman Sachs warns of eurozone fiscal risk in 2027 due to a packed electoral calendar: nine states vote, with France, Italy, Spain and Greece all going to the polls by late September. Difficult government formation is historically linked to political uncertainty, looser fiscal stances and slower debt reduction.</content>
+  </entry>
+  <entry>
+    <title>Ετος-ορόσημο το 2025 για δωρεές οργάνων στην Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/society/564384604/etos-orosimo-to-2025-gia-dorees-organon-stin-ellada/"/>
+    <id>urn:kathimerini:ffc542ab00d0</id>
+    <updated>2026-08-05T10:47:29+00:00</updated>
+    <author><name>Πέννυ Μπουλούτζα</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Έτος-ρεκόρ το 2025 για τις δωρεές οργάνων στην Ελλάδα, σύμφωνα με τον Εθνικό Οργανισμό Μεταμοσχεύσεων: 137 αποβιώσαντες δότες (+23%), ήτοι 13,1 ανά εκατομμύριο πληθυσμού, πέμπτη συνεχόμενη χρονιά αύξησης. Το ποσοστό άρνησης των συγγενών περιορίστηκε στο 30%, ενώ στο 31% των περιπτώσεων τη δωρεά πρότειναν οι ίδιες οι οικογένειες.</summary>
+    <content type="text" xml:lang="en">2025 was a record year for organ donation in Greece, per the National Transplant Organisation: 137 deceased donors (+23%), or 13.1 per million population, the fifth consecutive year of growth. Family refusal fell to 30%, and in 31% of cases the donors&#x27; own families initiated the donation discussion.</content>
+  </entry>
+  <entry>
+    <title>Τουρκία: Κατατίθεται στη Βουλή το νομοσχέδιο για τη διάλυση του ΡΚΚ</title>
+    <link href="https://www.kathimerini.gr/world/564385504/toyrkia-katatithetai-sti-voyli-to-nomoschedio-gia-ti-dialysi-toy-rkk/"/>
+    <id>urn:kathimerini:b75098dbc5ec</id>
+    <updated>2026-08-05T12:48:29+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Η κυβερνητική συμμαχία της Τουρκίας καταθέτει στη Βουλή νομοσχέδιο που διευκολύνει τη διάλυση του PKK, ρυθμίζοντας την επιστροφή χιλιάδων μαχητών από το βόρειο Ιράκ, την υπαγωγή τους στη δικαιοσύνη και την επανένταξή τους. Ορόσημο για τον τερματισμό σύγκρουσης που από το 1984 έχει κοστίσει πάνω από 40.000 ζωές.</summary>
+    <content type="text" xml:lang="en">Turkey&#x27;s governing alliance is submitting a bill to parliament facilitating the PKK&#x27;s dissolution, managing the return of thousands of fighters from northern Iraq, their processing through the justice system and reintegration. It marks a milestone toward ending a conflict that has claimed over 40,000 lives since 1984.</content>
+  </entry>
+  <entry>
+    <title>Λίνα Μενδώνη: Στόχος είναι πιο πολλά έσοδα για τον πολιτισμό</title>
+    <link href="https://www.kathimerini.gr/politics/564379081/lina-mendoni-stochos-einai-pio-polla-esoda-gia-ton-politismo/"/>
+    <id>urn:kathimerini:60af54218528</id>
+    <updated>2026-08-04T19:22:08+00:00</updated>
+    <author><name>Μάρω Βασιλειάδου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η υπουργός Πολιτισμού Λίνα Μενδώνη υπερασπίζεται στην «Κ» τον νέο Οργανισμό Ανάπτυξης και Διαχείρισης Ελληνικής Πολιτιστικής Κληρονομιάς Α.Ε., απαντώντας στην κριτική περί αλλαγής ιδιοκτησιακού καθεστώτος των μνημείων. Διαβεβαιώνει ότι κυριότητα και χρήση δεν μεταβάλλονται και ότι τα μνημεία παραμένουν στην αποκλειστική αρμοδιότητα του ΥΠΠΟ, με στόχο περισσότερα έσοδα για τον πολιτισμό.</summary>
+    <content type="text" xml:lang="en">Culture Minister Lina Mendoni defends the new Hellenic Heritage Organisation S.A. in an interview with Kathimerini, rebutting criticism that it opens the door to changes in monument ownership. She insists ownership and use remain untouched, with monuments staying under the Culture Ministry&#x27;s exclusive authority, and the goal being more revenue for culture.</content>
+  </entry>
+  <entry>
+    <title>Θωρακισμένες με ανθεκτικά κέρδη και αύξηση δανείων οι ελληνικές τράπεζες</title>
+    <link href="https://www.kathimerini.gr/economy/business/564384949/thorakismenes-me-anthektika-kerdi-kai-ayxisi-daneion-oi-ellinikes-trapezes/"/>
+    <id>urn:kathimerini:7c32ad796e78</id>
+    <updated>2026-08-05T07:36:14+00:00</updated>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Morningstar DBRS και Scope Ratings εκτιμούν ότι οι ελληνικές συστημικές τράπεζες οδεύουν προς άλλο ένα έτος αύξησης κερδοφορίας, θωρακισμένες με ανθεκτικά κέρδη, ισχυρή πιστωτική επέκταση και υγιή κεφαλαιακά «μαξιλάρια». Οι εξωτερικοί κίνδυνοι παραμένουν αυξημένοι, αλλά οι τράπεζες μπορούν να απορροφήσουν πιθανά σοκ.</summary>
+    <content type="text" xml:lang="en">Morningstar DBRS and Scope Ratings see Greek systemic banks heading for another year of rising profits, shielded by resilient earnings, strong loan growth and healthy capital buffers. External risks remain elevated, but the agencies judge the banks capable of absorbing potential shocks.</content>
   </entry>
 </feed>
