@@ -1,209 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Top Stories</title>
+  <title>Greek News Digest</title>
+  <subtitle>Daily digest of kathimerini.gr — top stories by importance</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-08-06T11:17:25.474607+00:00</updated>
-  <subtitle>Top 20 stories of 2026-08-06 from kathimerini.gr</subtitle>
+  <updated>2026-08-07T12:03:30.840384+00:00</updated>
   <entry>
-    <title>Φωτιές στη Δυτική Αττική: Τα μέτρα της κυβέρνησης για τη στήριξη των πληγέντων</title>
-    <link href="https://www.kathimerini.gr/politics/564385633/foties-sti-dytiki-attiki-ta-metra-tis-kyvernisis-gia-ti-stirixi-ton-pligenton/"/>
-    <id>urn:kathimerini:a64c7a22431f</id>
-    <updated>2026-08-05T14:28:32+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Σε διυπουργική σύσκεψη υπό τον Κυριάκο Μητσοτάκη εξαγγέλθηκαν μέτρα στήριξης των πυρόπληκτων της Αττικοβοιωτίας: επίσπευση αποζημιώσεων, αναστολή πλειστηριασμών και συμβάσεων εργασίας. Έγινε πρώτη αποτίμηση των αντιπυρικών έργων Antinero ύψους 20 εκατ. ευρώ, που λειτούργησαν αποτρεπτικά στην εξάπλωση της φωτιάς.</summary>
-    <content type="text" xml:lang="en">At an inter-ministerial meeting chaired by PM Kyriakos Mitsotakis, the government announced support measures for wildfire victims in Attica and Boeotia: faster compensation procedures, suspension of auctions and of employment contracts. A first assessment credited the €20m Antinero prevention works with slowing the fire&#x27;s spread.</content>
-  </entry>
-  <entry>
-    <title>Ιράν: Απειλεί με πλήγματα στις χώρες του Κόλπου εάν οι ΗΠΑ εξαπολύσουν νέες επιθέσεις</title>
-    <link href="https://www.kathimerini.gr/world/564387415/iran-apeilei-me-pligmata-stis-chores-toy-kolpoy-ean-oi-ipa-exapolysoyn-nees-epitheseis/"/>
-    <id>urn:kathimerini:e28468e23cac</id>
-    <updated>2026-08-06T10:54:33+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Το Ιράν προειδοποίησε τις χώρες του Κόλπου ότι νέα αμερικανική επίθεση στο έδαφός του θα προκαλέσει αντίποινα κατά ενεργειακών υποδομών σε όλη την περιοχή, σύμφωνα με το Reuters. Ο ΥΠΕΞ Αραγκτσί επικοινώνησε με Σαουδική Αραβία, Τουρκία, Κατάρ και Πακιστάν μετά την απειλή Τραμπ της 28ης Ιουλίου για πλήγματα στο ιρανικό ενεργειακό δίκτυο.</summary>
-    <content type="text" xml:lang="en">Iran warned Gulf states that any new US attack on its territory would trigger retaliation against energy infrastructure across the region, Reuters reports. FM Araghchi contacted Saudi Arabia, Turkey, Qatar and Pakistan&#x27;s army chief after Trump&#x27;s July 28 threat to strike Iran&#x27;s energy grid.</content>
-  </entry>
-  <entry>
-    <title>«Παράθυρο» για το καλώδιο με την Κύπρο</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564386677/parathyro-gia-to-kalodio-me-tin-kypro/"/>
-    <id>urn:kathimerini:5788b44c040b</id>
-    <updated>2026-08-06T07:32:22+00:00</updated>
+    <title>Τα τουρκικά μαχητικά επέστρεψαν στο Αιγαίο</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564388456/ta-toyrkika-machitika-epestrepsan-sto-aigaio/"/>
+    <id>urn:kathimerini:29d221d8a2ff</id>
+    <updated>2026-08-07T07:06:48+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
+    <summary>Μία ημέρα μετά τη συμφωνία εισόδου της Meridiam ως πλειοψηφικού μετόχου στον Great Sea Interconnector, καταγράφηκαν 17 παραβιάσεις από οπλισμένα τουρκικά F-16, αεροσκάφος ναυτικής συνεργασίας και UAV, καθώς και εικονική αερομαχία μεταξύ Λέσβου και Λήμνου. Από την αρχή της εβδομάδας οι παραβιάσεις φτάνουν τις 42, χωρίς πάντως επίσημη πολιτική αντίδραση της Αγκυρας για την ηλεκτρική διασύνδεση.</summary>
     <category term="politics"/>
-    <summary xml:lang="el">Η είσοδος του γαλλικού ομίλου Meridiam με 66% στο Great Sea Interconnector ανοίγει «παράθυρο» για την ηλεκτρική διασύνδεση Ελλάδας–Κύπρου, μεταθέτοντας το βάρος του ρίσκου στο Παρίσι. Βασικό εμπόδιο παραμένουν οι τουρκικές αντιδράσεις που έχουν «παγώσει» τις έρευνες νοτίως της Κάσου, με στόχο επανεκκίνηση τον Σεπτέμβριο.</summary>
-    <content type="text" xml:lang="en">French investment group Meridiam&#x27;s acquisition of 66% of the Great Sea Interconnector opens a window for the Greece–Cyprus electricity link, shifting the project&#x27;s risk to Paris. Turkish objections that froze seabed surveys south of Kasos remain the key obstacle, with surveys targeted to resume in September.</content>
   </entry>
   <entry>
-    <title>Κυρ. Μητσοτάκης: «Ψήφος εμπιστοσύνης» η είσοδος της Meridiam στο καλώδιο Ελλάδας – Κύπρου</title>
-    <link href="https://www.kathimerini.gr/politics/564386470/kyr-mitsotakis-psifos-empistosynis-i-eisodos-tis-meridiam-sto-kalodio-elladas-kyproy/"/>
-    <id>urn:kathimerini:62c5aeee9e2d</id>
-    <updated>2026-08-05T22:05:02+00:00</updated>
+    <title>Το σχέδιο του ΥΠΕΝ για τη Δυτική Αττική: Αντιδιαβρωτικά έργα, αναδασωτέα τα καμένα</title>
+    <link href="https://www.kathimerini.gr/politics/564387724/to-schedio-toy-ypen-gia-ti-dytiki-attiki-antidiavrotika-erga-anadasotea-ta-kamena/"/>
+    <id>urn:kathimerini:b71b99b307d8</id>
+    <updated>2026-08-06T15:06:16+00:00</updated>
     <author><name>Newsroom</name></author>
+    <summary>Ο υπουργός Περιβάλλοντος Σταύρος Παπασταύρου παρουσίασε το σχέδιο αποκατάστασης της Αττικοβοιωτίας μετά τη μεγάλη πυρκαγιά, με άξονες τα αντιδιαβρωτικά και αντιπλημμυρικά έργα, την κήρυξη των καμένων εκτάσεων ως αναδασωτέων και την ενίσχυση της πρόληψης μέσω του AntiNERO. Η περίμετρος της πληγείσας περιοχής φτάνει τα 113.000 στρέμματα, εκ των οποίων τα 95.000 εντός Αττικής.</summary>
     <category term="politics"/>
-    <summary xml:lang="el">Παρουσία Μητσοτάκη υπεγράφη στο Μαξίμου η είσοδος της Meridiam ως πλειοψηφικού μετόχου στην Great Sea Interconnector, καθώς και τριμερής συμφωνία ΑΔΜΗΕ–GSI–Nexans για τις θαλάσσιες έρευνες. Ο πρωθυπουργός έκανε λόγο για «ψήφο εμπιστοσύνης» στον ελληνικό ενεργειακό τομέα.</summary>
-    <content type="text" xml:lang="en">With PM Mitsotakis present, Meridiam signed on as majority shareholder of the Great Sea Interconnector at the Maximos Mansion, alongside a trilateral IPTO–GSI–Nexans agreement on seabed surveys. Mitsotakis called the deal &#x27;a vote of confidence&#x27; in Greece&#x27;s energy sector.</content>
   </entry>
   <entry>
-    <title>Τα πρώτα μέτρα για τους πυροπλήκτους</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564386659/ta-prota-metra-gia-toys-pyropliktoys/"/>
-    <id>urn:kathimerini:eabca1375545</id>
-    <updated>2026-08-06T06:44:00+03:00</updated>
+    <title>Ο Πούτιν ενδέχεται να δοκιμάσει το ΝΑΤΟ με περιορισμένη εισβολή</title>
+    <link href="https://www.kathimerini.gr/world/564389602/o-poytin-endechetai-na-dokimasei-to-nato-me-periorismeni-eisvoli/"/>
+    <id>urn:kathimerini:f7d1cd613f66</id>
+    <updated>2026-08-07T12:43:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Ο Πούτιν ενδέχεται να δοκιμάσει την αποφασιστικότητα του ΝΑΤΟ με περιορισμένη επίθεση κατά χώρας-μέλους τα επόμενα χρόνια, σύμφωνα με νέες εκτιμήσεις αμερικανικών υπηρεσιών που επικαλείται η Wall Street Journal, με σενάρια από κυβερνοεπίθεση έως μικρής κλίμακας χερσαία εισβολή. Παράλληλα, ο αμερικανικός στρατός αντιμετωπίζει ελλείψεις σε κρίσιμα πυρομαχικά.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Μπαράζ τουρκικών παραβιάσεων στο Αιγαίο και εμπλοκή με οπλισμένα F-16</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564388072/mparaz-toyrkikon-paraviaseon-sto-aigaio-kai-emploki-me-oplismena-f-16/"/>
+    <id>urn:kathimerini:0a1e71c80a91</id>
+    <updated>2026-08-06T19:22:23+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Οκτώ τουρκικά αεροσκάφη πραγματοποίησαν 17 παραβιάσεις του ελληνικού εναέριου χώρου στο Αιγαίο, με δύο εξ αυτών από οπλισμένα F-16 σε σχηματισμό. Μία παραβίαση εξελίχθηκε σε εικονική αερομαχία, ενώ καταγράφηκαν και 10 παραβάσεις του FIR Αθηνών· όλα τα αεροσκάφη αναχαιτίστηκαν.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Τουρκία, Σαουδική Αραβία και Πακιστάν υπέγραψαν αμυντική συμφωνία – Τι προβλέπει</title>
+    <link href="https://www.kathimerini.gr/world/564389797/toyrkia-saoydiki-aravia-kai-pakistan-ypegrapsan-amyntiki-symfonia-ti-provlepei/"/>
+    <id>urn:kathimerini:45a65c84eeef</id>
+    <updated>2026-08-07T13:45:32+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Κοινή αμυντική συμφωνία υπέγραψαν στη Μέκκα η Σαουδική Αραβία, το Πακιστάν και η Τουρκία, προβλέποντας ότι ένοπλη επίθεση εναντίον ενός εκ των τριών θα θεωρείται επίθεση και κατά των υπολοίπων. Η κίνηση έρχεται εν μέσω της περιφερειακής σύγκρουσης και επιθέσεων εναντίον κρατών του Κόλπου μετά τα πλήγματα ΗΠΑ – Ισραήλ στο Ιράν.</summary>
+    <category term="world"/>
+  </entry>
+  <entry>
+    <title>Ελληνικά Apache στο «κυνήγι» drones στα Αραβικά Εμιράτα</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564388441/ellinika-apache-sto-kynigi-drones-sta-aravika-emirata/"/>
+    <id>urn:kathimerini:0899ae5e1eb9</id>
+    <updated>2026-08-07T10:44:43+00:00</updated>
+    <author><name>Σταύρος Ιωαννίδης</name></author>
+    <summary>Η Αθήνα εξετάζει την αποστολή δύο επιθετικών ελικοπτέρων Apache AH-64D στα Ηνωμένα Αραβικά Εμιράτα για την ενίσχυση της αεράμυνας απέναντι σε επιθέσεις με drones. Η προετοιμασία ελικοπτέρων και πληρωμάτων έχει ξεκινήσει, με τα στελέχη της Αεροπορίας Στρατού να αποκομίζουν πολύτιμη επιχειρησιακή εμπειρία.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>ΟΟΣΑ: Στην Ελλάδα η μεγαλύτερη πτώση πραγματικού εισοδήματος των νοικοκυριών</title>
+    <link href="https://www.kathimerini.gr/economy/564388279/oosa-stin-ellada-i-megalyteri-ptosi-pragmatikoy-eisodimatos-ton-noikokyrion/"/>
+    <id>urn:kathimerini:759f6f4b65a9</id>
+    <updated>2026-08-06T22:05:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Τη μεγαλύτερη πτώση πραγματικού κατά κεφαλήν εισοδήματος νοικοκυριών μεταξύ 21 χωρών του ΟΟΣΑ κατέγραψε η Ελλάδα το α΄ τρίμηνο του 2026, με μείωση 3,6% σε τριμηνιαία βάση, την ώρα που στον Οργανισμό συνολικά το εισόδημα αυξήθηκε. Η επίδοση αποδίδεται κυρίως στη μείωση του καθαρού εισοδήματος από περιουσία και των κοινωνικών παροχών.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Φωτιά στην Αττικοβοιωτία: Εκλύθηκε ενέργεια ισοδύναμη με 6 ατομικές βόμβες</title>
+    <link href="https://www.kathimerini.gr/society/564389755/fotia-stin-attikovoiotia-eklythike-energeia-isodynami-me-6-atomikes-vomves/"/>
+    <id>urn:kathimerini:dee8e1bc7f54</id>
+    <updated>2026-08-07T13:47:54+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Ενέργεια περίπου 380 TJ, ισοδύναμη με έξι ατομικές βόμβες τύπου Χιροσίμα, εκλύθηκε από τη μεγα-πυρκαγιά της Αττικοβοιωτίας, σύμφωνα με την προκαταρκτική ανάλυση της ομάδας FLAME του Εθνικού Αστεροσκοπείου. Η φωτιά έκαψε 111.732 στρέμματα σε 91 ώρες, με το 55% της έκτασης να καίγεται τις νυχτερινές ώρες.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Διάλογοι στην «Κ»: Οι συνέπειες του πολέμου στη Μέση Ανατολή</title>
+    <link href="https://www.kathimerini.gr/world/564386662/dialogoi-stin-k-oi-synepeies-toy-polemoy-sti-mesi-anatoli/"/>
+    <id>urn:kathimerini:0ca8d727255c</id>
+    <updated>2026-08-06T17:36:16+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <summary>Μήνες μετά το ξέσπασμα του πολέμου ΗΠΑ – Ισραήλ εναντίον του Ιράν δεν διαφαίνεται προοπτική τερματισμού, εκτιμούν στους «Διαλόγους» της «Κ» ο καθηγητής Παναγιώτης Τσάκωνας και ο πρώην υφυπουργός Εξωτερικών Δημήτρης Κούρκουλας. Επισημαίνουν τη διάβρωση των κανόνων των διακρατικών σχέσεων, τον κίνδυνο κλιμάκωσης και τη σημασία των ενδιάμεσων εκλογών στις ΗΠΑ τον Νοέμβριο.</summary>
+    <category term="politics"/>
+  </entry>
+  <entry>
+    <title>Με διπλό «μήνυμα» στη ΔΕΘ</title>
+    <link href="https://www.kathimerini.gr/politics/government/564388444/me-diplo-minyma-sti-deth/"/>
+    <id>urn:kathimerini:ebb5c262521c</id>
+    <updated>2026-08-07T12:18:10+00:00</updated>
     <author><name>Δώρα Αντωνίου</name></author>
+    <summary>Προεκλογικά χαρακτηριστικά θα έχει η φετινή παρουσία Μητσοτάκη στη ΔΕΘ, όπου πέρα από τις οικονομικές εξαγγελίες θα παρουσιάσει την «Ατζέντα 2030», το πρόγραμμα με το οποίο η Ν.Δ. θα διεκδικήσει τρίτη τετραετία. Στον πυρήνα του αφηγήματος βρίσκεται η σταθερότητα απέναντι στο ρευστό γεωπολιτικό περιβάλλον και τις προκλήσεις της τεχνητής νοημοσύνης.</summary>
     <category term="politics"/>
-    <summary xml:lang="el">Αναλυτική παρουσίαση των πρώτων μέτρων για τους πυρόπληκτους Δυτικής Αττικής και Βοιωτίας: ενίσχυση 534 ευρώ/μήνα επί τρίμηνο για εργαζομένους με αναστολή, εξάμηνη αναστολή ασφαλιστικών και φορολογικών υποχρεώσεων, 12μηνη αναστολή πλειστηριασμών και νομοσχέδιο ψηφιοποίησης των διαδικασιών αποζημίωσης.</summary>
-    <content type="text" xml:lang="en">Detailed rundown of the first relief measures for fire-stricken Western Attica and Boeotia: €534/month for three months for workers on suspended contracts, six-month deferral of social security and tax obligations, a 12-month freeze on auctions, and a bill digitizing the compensation process.</content>
   </entry>
   <entry>
-    <title>Οι πόλεμοι κρατούν, τα οπλοστάσια στερεύουν</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564386644/oi-polemoi-kratoyn-ta-oplostasia-stereyoyn/"/>
-    <id>urn:kathimerini:e5c51ff8ce1d</id>
-    <updated>2026-08-06T10:13:24+03:00</updated>
-    <author><name>Γιώργος Σκαφιδάς</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ανάλυση: οι πόλεμοι σε Ουκρανία και Ιράν παραμένουν ανοιχτοί παρά τις υποσχέσεις Τραμπ, στραγγίζοντας τα δυτικά οπλοστάσια. Ο Ζελένσκι απευθύνει νέα έκκληση για συστήματα αεράμυνας, ενώ η ουκρανική επίθεση σε ιρανικό πλοίο στην Κασπία εγείρει φόβους «συνένωσης» των δύο μετώπων.</summary>
-    <content type="text" xml:lang="en">Analysis: the Ukraine and Iran wars grind on despite Trump&#x27;s promises, draining Western arsenals. Zelensky renews appeals for air-defence systems, while Ukraine&#x27;s strike on an Iranian ship in the Caspian raises fears the two fronts could merge.</content>
-  </entry>
-  <entry>
-    <title>Τι είναι το σπάνιο «πολωμένο μελτέμι» που συνέβαλε στην εξάπλωση των πυρκαγιών</title>
-    <link href="https://www.kathimerini.gr/society/564387319/ti-einai-to-spanio-polomeno-meltemi-poy-synevale-stin-exaplosi-ton-pyrkagion/"/>
-    <id>urn:kathimerini:0c646a4a5c3c</id>
-    <updated>2026-08-06T09:40:21+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Υποκλοπές: Στο αρχείο παραμένει η υπόθεση – «Οχι» από τον Αρειο Πάγο σε νέα έρευνα</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564389782/ypoklopes-sto-archeio-paramenei-i-ypothesi-ochi-apo-ton-areio-pago-se-nea-ereyna/"/>
+    <id>urn:kathimerini:1c804f525bd9</id>
+    <updated>2026-08-07T13:41:10+00:00</updated>
+    <author><name>Σοφία Σπίγγου</name></author>
+    <summary>Στο αρχείο παραμένει η δικογραφία των υποκλοπών, καθώς ο εισαγγελέας του Αρείου Πάγου Ευάγγελος Μπακέλας απέρριψε τα τέσσερα αιτήματα επανεκκίνησης της έρευνας — μεταξύ άλλων των Αντώνη Σαμαρά και Χρήστου Σπίρτζη — κρίνοντας ότι δεν προσκομίστηκαν νέα αποδεικτικά στοιχεία μετά την καταδίκη τεσσάρων ιδιωτών για το Predator.</summary>
     <category term="society"/>
-    <summary xml:lang="el">Ο μετεωρολόγος Θοδωρής Κολυδάς εξηγεί το σπάνιο «πολωμένο μελτέμι» που συνέβαλε στην εξάπλωση των πυρκαγιών σε Βοιωτία και Δυτική Αττική: δροσίζει την ανατολική Ελλάδα, αλλά η ένταση και η επιμονή του δημιουργούν ακραίες πυρομετεωρολογικές συνθήκες. Το επεισόδιο του Ιουλίου 2026 είναι από τα ισχυρότερα των τελευταίων πέντε δεκαετιών.</summary>
-    <content type="text" xml:lang="en">Meteorologist Thodoris Kolydas explains the rare &#x27;polarized meltemi&#x27; that fanned the Boeotia and Western Attica fires: it cools eastern Greece but its intensity and persistence create extreme fire-weather conditions. The late-July 2026 episode ranks among the strongest in nearly five decades.</content>
   </entry>
   <entry>
-    <title>Υποβλήθηκε το αίτημα για ενεργοποίηση της ρήτρας διαφυγής – Επενδύσεις άνω του 1 δισ. για την ενέργεια</title>
-    <link href="https://www.kathimerini.gr/economy/564387502/ypovlithike-to-aitima-gia-energopoiisi-tis-ritras-diafygis-ependyseis-ano-toy-1-dis-gia-tin-energeia/"/>
-    <id>urn:kathimerini:063d11331e1e</id>
-    <updated>2026-08-06T12:01:01+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ο Κυριάκος Πιερρακάκης υπέβαλε στην Κομισιόν αίτημα επέκτασης της εθνικής ρήτρας διαφυγής ώστε να καλύψει επενδύσεις ενεργειακής ανθεκτικότητας άνω του 1 δισ. ευρώ έως το 2028, εκτός του ορίου αύξησης δαπανών (έως 0,3% ΑΕΠ ετησίως). Η εξειδίκευση των επενδύσεων θα γίνει με τα συναρμόδια υπουργεία.</summary>
-    <content type="text" xml:lang="en">Finance Minister Kyriakos Pierrakakis formally asked the European Commission to extend Greece&#x27;s national escape clause to cover over €1bn in energy-resilience investments through 2028, exempt from EU spending-growth limits (up to 0.3% of GDP annually). Details will be specified with the relevant ministries.</content>
-  </entry>
-  <entry>
-    <title>«Δούρειος Ιππος» από τον Ερντογάν στα Βαλκάνια</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564384589/doyreios-ippos-apo-ton-erntogan-sta-valkania/"/>
-    <id>urn:kathimerini:0be084105cd7</id>
-    <updated>2026-08-05T15:18:49+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
+    <title>Αναθεώρηση του πλαισίου για τα ιδιωτικά δίκτυα ενέργειας</title>
+    <link href="https://www.kathimerini.gr/society/564388474/anatheorisi-toy-plaisioy-gia-ta-idiotika-diktya-energeias/"/>
+    <id>urn:kathimerini:311e71ddc140</id>
+    <updated>2026-08-07T06:48:00+00:00</updated>
+    <author><name>Τάνια Γεωργιοπούλου</name></author>
+    <summary>Την αναθεώρηση του «παρωχημένου» θεσμικού πλαισίου για τα ιδιωτικά δίκτυα μεταφοράς ενέργειας προανήγγειλε ο Σταύρος Παπασταύρου, μετά τις ενδείξεις ότι η φωτιά στην Αττικοβοιωτία ξεκίνησε από ανάφλεξη καλωδίων ιδιωτικού δικτύου. Η χαρτογράφηση των καμένων ολοκληρώνεται εντός της εβδομάδας και τα πρώτα αντιπλημμυρικά έργα θα ξεκινήσουν έως τις 15 Σεπτεμβρίου.</summary>
     <category term="politics"/>
-    <summary xml:lang="el">Ανάλυση για τη διείσδυση του Ερντογάν στα Βαλκάνια: μετά την παρέμβασή του για την «Τουρκική Μειονότητα Δυτικής Θράκης», το τουρκικό κόμμα TDP της Βόρειας Μακεδονίας εντάχθηκε στον κυβερνητικό συνασπισμό του Μίτσκοσκι. Η Αθήνα παρακολουθεί με ανησυχία τη χρήση μειονοτήτων ως μοχλού τουρκικής επιρροής.</summary>
-    <content type="text" xml:lang="en">Analysis of Erdogan&#x27;s inroads in the Balkans: after his intervention invoking a &#x27;Turkish Minority of Western Thrace&#x27;, North Macedonia&#x27;s ethnic-Turkish TDP party formally joined PM Mickoski&#x27;s governing coalition. Athens watches with concern as minorities become levers of Turkish influence in the region.</content>
   </entry>
   <entry>
-    <title>Κυψέλη: Δίωξη για ανθρωποκτονία από πρόθεση στον 26χρονο Αφγανό – Τι υποστήριξε στην απολογία του</title>
-    <link href="https://www.kathimerini.gr/society/564387583/kypseli-dioxi-gia-anthropoktonia-apo-prothesi-ston-26chrono-afgano-ti-ypostirixe-stin-apologia-toy/"/>
-    <id>urn:kathimerini:004b96dbaa4e</id>
-    <updated>2026-08-06T13:21:30+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Σε λειτουργία η νέα πλατφόρμα myAGRO για αγροτικές επιδοτήσεις</title>
+    <link href="https://www.kathimerini.gr/economy/local/564388810/se-leitoyrgia-i-nea-platforma-myagro-gia-agrotikes-epidotiseis/"/>
+    <id>urn:kathimerini:1987bbebf2c7</id>
+    <updated>2026-08-07T06:40:00+00:00</updated>
+    <author><name>Τάνια Γεωργιοπούλου</name></author>
+    <summary>Σε λειτουργία τέθηκε η νέα πλατφόρμα myAGRO για τη διαχείριση των αγροτικών επιδοτήσεων υπό την ΑΑΔΕ, μέσω της οποίας οι αγρότες θα υποβάλλουν την Ενιαία Αίτηση Ενίσχυσης. Στόχος, όπως ανακοίνωσε ο πρωθυπουργός, η καταβολή της προκαταβολής του 75% έως 31 Οκτωβρίου για αιτήσεις που θα υποβληθούν έως 15 Σεπτεμβρίου.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Αυτοψία της «Κ» στο Πόρτο Γερμενό μετά την καταστροφή – «Τίποτα δεν έμεινε όρθιο»</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564388432/aytopsia-tis-k-sto-porto-germeno-meta-tin-katastrofi-tipota-den-emeine-orthio/"/>
+    <id>urn:kathimerini:65e9e8669e04</id>
+    <updated>2026-08-07T10:31:12+00:00</updated>
+    <author><name>Κωνσταντίνος Μανωλόπουλος</name></author>
+    <summary>Αυτοψία της «Κ» στο Πόρτο Γερμενό αποτυπώνει το μέγεθος της καταστροφής μετά τη φωτιά: στάχτη παντού, καμένα δέντρα και λιωμένα αυτοκίνητα, απόλυτη ησυχία χωρίς πουλιά. Συνεργεία του ΔΕΔΔΗΕ αποκαθιστούν το δίκτυο και κλιμάκια της Πολιτικής Προστασίας καταγράφουν τις ζημιές.</summary>
     <category term="society"/>
-    <summary xml:lang="el">Δίωξη για ανθρωποκτονία από πρόθεση σε ήρεμη ψυχική κατάσταση, ληστεία και οπλοκατοχή ασκήθηκε στον 26χρονο Αφγανό για τη δολοφονία της Ελίζαμπεθ Τζέιν Ρος στην Κυψέλη. Στην απολογία του αρνήθηκε την ανθρωποκτονία, ισχυριζόμενος ότι βρήκε τη γυναίκα νεκρή και πανικόβλητος μετέφερε τη σορό με βαλίτσα.</summary>
-    <content type="text" xml:lang="en">The 26-year-old Afghan was charged with premeditated homicide, robbery and weapons offences over the murder of Elizabeth Jane Ross in Kypseli. In his deposition he denied the killing, claiming he found her dead and, panicking, moved the body in a suitcase to an abandoned building.</content>
   </entry>
   <entry>
-    <title>Τουρισμός και Ταμείο Ανάκαμψης στήριξαν την εταιρική κερδοφορία</title>
-    <link href="https://www.kathimerini.gr/economy/business/564387028/toyrismos-kai-tameio-anakampsis-stirixan-tin-etairiki-kerdoforia/"/>
-    <id>urn:kathimerini:cf089ed53953</id>
-    <updated>2026-08-06T10:11:00+00:00</updated>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ανάλυση της ICAP CRIF σε 36.248 ισολογισμούς δείχνει κέρδη προ φόρων 29,3 δισ. ευρώ το 2024 (+24,3%) και πωλήσεις 273,6 δισ. (+6,2%), με στήριγμα τον τουρισμό, το Ταμείο Ανάκαμψης και το βελτιωμένο επενδυτικό κλίμα. Το 81% της αύξησης κερδοφορίας προήλθε από μεταποίηση και χρηματοπιστωτικές υπηρεσίες.</summary>
-    <content type="text" xml:lang="en">An ICAP CRIF analysis of 36,248 balance sheets shows 2024 pre-tax corporate profits of €29.3bn (+24.3%) on sales of €273.6bn (+6.2%), underpinned by tourism, Recovery Fund resources and an improved investment climate. Manufacturing and financial services drove 81% of the profit surge.</content>
-  </entry>
-  <entry>
-    <title>«Δεν αποχωρήσαμε επειδή δεν αντέξαμε»: Αιχμές κατά της Καρυστιανού από τους «22»</title>
-    <link href="https://www.kathimerini.gr/politics/564385822/elpida-gia-ti-dimokratia-aichmes-kata-tis-karystianoy-apo-toys-22-apochorisantes/"/>
-    <id>urn:kathimerini:7765a3079506</id>
-    <updated>2026-08-05T16:27:34+00:00</updated>
+    <title>Η αγορά πετρελαίου βλέπει συμφωνία ΗΠΑ – Ιράν</title>
+    <link href="https://www.kathimerini.gr/economy/international/564388795/i-agora-petrelaioy-vlepei-symfonia-ipa-iran/"/>
+    <id>urn:kathimerini:0dc2a359ab7b</id>
+    <updated>2026-08-07T12:18:00+00:00</updated>
     <author><name>Newsroom</name></author>
+    <summary>Οι τιμές του Brent υποχώρησαν προς τα 80 δολ. το βαρέλι από το πρόσφατο υψηλό των 100, καθώς η αγορά προεξοφλεί συμφωνία ΗΠΑ – Ιράν που θα ανοίξει ξανά τα Στενά του Ορμούζ. Η αισιοδοξία όμως κρίνεται επισφαλής, καθώς το Ιράν έχει ενισχυθεί τους τελευταίους μήνες και η παγκόσμια αγορά ενέργειας παραμένει εύθραυστη.</summary>
+    <category term="economy"/>
+  </entry>
+  <entry>
+    <title>Υπόθεση Marfin: Την Τρίτη απολογείται η 46χρονη – Επιστρέφει στη ΓΑΔΑ</title>
+    <link href="https://www.kathimerini.gr/society/564389488/ypothesi-marfin-tin-triti-apologeitai-i-46chroni-epistrefei-sti-gada/"/>
+    <id>urn:kathimerini:64825fe9e0c9</id>
+    <updated>2026-08-07T12:03:18+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <summary>Προθεσμία για να απολογηθεί την Τρίτη 11 Αυγούστου έλαβε η 46χρονη κατηγορούμενη για υποστηρικτικό ρόλο στη θανατηφόρα εμπρηστική επίθεση στη Marfin το 2010, μετά τη μεταγωγή της από το Λονδίνο. Μέχρι τότε θα παραμείνει κρατούμενη στη ΓΑΔΑ.</summary>
+    <category term="society"/>
+  </entry>
+  <entry>
+    <title>Θερμός Σεπτέμβριος στη μάχη ΠΑΣΟΚ – ΕΛΑΣ για τη δεύτερη θέση</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564388438/thermos-septemvrios-sti-machi-pasok-elas-gia-ti-deyteri-thesi/"/>
+    <id>urn:kathimerini:b74f6b2311d1</id>
+    <updated>2026-08-07T10:09:00+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <summary>Ο Σεπτέμβριος θα κρίνει τον σκληρότερο γύρο της αναμέτρησης Ανδρουλάκη – Τσίπρα για την πρωτοκαθεδρία στον προοδευτικό χώρο, με τον πρόεδρο της ΕΛΑΣ να σχεδιάζει να παρουσιάσει το οικονομικό του πρόγραμμα πριν από τη ΔΕΘ. Ο Ανδρουλάκης απέρριψε εισηγήσεις να προλάβει τον αντίπαλό του, επιλέγοντας θεσμική παρουσίαση στη ΔΕΘ στις 12 Σεπτεμβρίου.</summary>
     <category term="politics"/>
-    <summary xml:lang="el">Τα 22 στελέχη που αποχώρησαν από την «Ελπίδα για τη Δημοκρατία» απαντούν με κοινή δήλωση στη Μαρία Καρυστιανού, απορρίπτοντας ότι έφυγαν από φιλοδοξία ή «έλλειψη αντοχής». Υποστηρίζουν ότι αρνήθηκαν να συμβιβαστούν με πρακτικές αντίθετες στις ιδρυτικές αρχές και θέτουν ερωτήματα για διαφάνεια και εσωτερική δημοκρατία.</summary>
-    <content type="text" xml:lang="en">The 22 members who quit the Hope for Democracy movement issued a joint statement pushing back at Maria Karystianou, rejecting claims they left out of ambition or weakness. They say they refused to accept practices at odds with the movement&#x27;s founding principles and raise questions about transparency and internal democracy.</content>
   </entry>
   <entry>
-    <title>Ρωσικό πλήγμα σε πλοίο στα ουκρανικά ύδατα της Μαύρης Θάλασσας – Ενας νεκρός</title>
-    <link href="https://www.kathimerini.gr/world/564387436/rosiko-pligma-se-ploio-sta-oykranika-ydata-tis-mayris-thalassas-enas-nekros/"/>
-    <id>urn:kathimerini:378d91b6384a</id>
-    <updated>2026-08-06T11:03:45+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ρωσικό πλήγμα σε φορτηγό πλοίο με σημαία Γουινέας-Μπισάου και φορτίο δημητριακών στα ουκρανικά ύδατα της Μαύρης Θάλασσας στοίχισε τη ζωή σε ένα μέλος του πληρώματος. Η Ρωσία εντείνει εδώ και μήνα τις σχεδόν καθημερινές επιθέσεις στα ουκρανικά λιμάνια για να στραγγαλίσει τις εξαγωγές του Κιέβου.</summary>
-    <content type="text" xml:lang="en">A Russian strike on the Guinea-Bissau-flagged grain ship &#x27;Mera Queen&#x27; in Ukrainian Black Sea waters killed one crew member and started a fire. For over a month Russia has intensified near-daily attacks on Ukraine&#x27;s ports to strangle its export trade.</content>
-  </entry>
-  <entry>
-    <title>Εξωδικαστικός μηχανισμός: Εσπασαν το φράγμα των 20 δισ. οι ρυθμίσεις</title>
-    <link href="https://www.kathimerini.gr/economy/local/564387031/exodikastikos-michanismos-espasan-to-fragma-ton-20-dis-oi-rythmiseis/"/>
-    <id>urn:kathimerini:c70a721435fc</id>
-    <updated>2026-08-06T08:45:00+00:00</updated>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <title>Σχέδιο επτά σημείων για στήριξη της ελληνικής βιομηχανίας</title>
+    <link href="https://www.kathimerini.gr/economy/local/564388831/schedio-epta-simeion-gia-stirixi-tis-ellinikis-viomichanias/"/>
+    <id>urn:kathimerini:8f1c756a2fc5</id>
+    <updated>2026-08-07T09:17:00+00:00</updated>
+    <author><name>Δήμητρα Μανιφάβα</name></author>
+    <summary>Σχέδιο επτά σημείων για τη στήριξη της βιομηχανίας συζήτησε η Κυβερνητική Επιτροπή Βιομηχανίας υπό τον πρωθυπουργό, με έμφαση στη μείωση του ενεργειακού κόστους, την ενίσχυση επενδύσεων και εξαγωγών, την απλούστευση της αδειοδότησης και εθνική στρατηγική για τους ημιαγωγούς. Οι αποφάσεις θα ενταχθούν στα εθνικά σχέδια δράσης των υπουργείων με συγκεκριμένα χρονοδιαγράμματα.</summary>
     <category term="economy"/>
-    <summary xml:lang="el">Ο εξωδικαστικός μηχανισμός ξεπέρασε τα 20 δισ. ευρώ σε ρυθμισμένες οφειλές (66.578 επιτυχείς ρυθμίσεις), με εγκρισιμότητα σταθερά στο 80% μετά την υποχρεωτική συμμετοχή πιστωτών. Τον Ιούλιο ρυθμίστηκαν 511 εκατ. ευρώ, ενώ εκκρεμούν αιτήματα για επιπλέον 19,4 δισ.</summary>
-    <content type="text" xml:lang="en">Greece&#x27;s out-of-court debt workout mechanism has surpassed €20bn in restructured debts (66,578 successful arrangements), with the approval rate steady at 80% since creditor participation became mandatory. July alone saw €511m settled, while requests covering another €19.4bn are pending.</content>
   </entry>
   <entry>
-    <title>ΔΕΗ: Διπλασιασμός καθαρών κερδών στα 400 εκατ. το α΄ εξάμηνο</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564387091/diplasiasmos-katharon-kerdon-sta-400-ekat-gia-dei-to-a-examino/"/>
-    <id>urn:kathimerini:828db0e4306e</id>
-    <updated>2026-08-06T09:18:00+03:00</updated>
+    <title>Metlen: Ρεκόρ κερδών και τζίρος 3,987 δισ. το πρώτο εξάμηνο</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564388861/rekor-kerdon-kai-tziros-3-987-dis-gia-ti-metlen-to-proto-examino/"/>
+    <id>urn:kathimerini:910fc8daf630</id>
+    <updated>2026-08-07T09:08:00+03:00</updated>
     <author><name>Χρύσα Λιάγγου</name></author>
+    <summary>Ιστορικά υψηλές επιδόσεις κατέγραψε η Metlen το α΄ εξάμηνο του 2026, με κύκλο εργασιών 3,987 δισ. ευρώ (+11%), EBITDA 550 εκατ. (+23%) και καθαρά κέρδη 313 εκατ. ευρώ. Βασικός μοχλός ανάπτυξης ήταν ο τομέας της ενέργειας και ιδίως η εμπορία φυσικού αερίου.</summary>
     <category term="economy"/>
-    <summary xml:lang="el">Η ΔΕΗ διπλασίασε τα προσαρμοσμένα καθαρά κέρδη στα 400 εκατ. ευρώ το α΄ εξάμηνο 2026, με EBITDA 1,2 δισ., επιβεβαιώνοντας τους ετήσιους στόχους (EBITDA 2,4 δισ., μέρισμα 0,80 ευρώ/μετοχή). Ο δείκτης χρέους παραμένει χαμηλά στο 1,2x παρά τις υψηλές επενδύσεις στη μετάβαση προς τις ΑΠΕ.</summary>
-    <content type="text" xml:lang="en">PPC doubled adjusted net profit to €400m in H1 2026 on EBITDA of €1.2bn, confirming full-year targets (€2.4bn EBITDA, €0.80 dividend per share). Net debt/EBITDA stays low at 1.2x despite heavy investment in its renewables-led transition.</content>
   </entry>
   <entry>
-    <title>Μαρία Καρυστιανού: Εφημερόπτερα</title>
-    <link href="https://www.kathimerini.gr/opinion/564384898/maria-karystianoy-efimeroptera/"/>
-    <id>urn:kathimerini:1fe51fd8821f</id>
-    <updated>2026-08-05T12:58:00+00:00</updated>
-    <author><name>Μιχάλης Τσιντσίνης</name></author>
-    <category term="opinion"/>
-    <summary xml:lang="el">Ο Μιχάλης Τσιντσίνης παρομοιάζει την «Ελπίδα» της Μαρίας Καρυστιανού με εφημερόπτερο: από δημοτικότητα 67% και δυνάμει πρώτο κόμμα, πέντε μήνες μετά αμφισβητείται αν θα φτάσει ως τις εκλογές. Το «σχήμα», γράφει, δεν είναι κόμμα — είναι το πρόσωπο ως οργανωτική αρχή, χωρίς όργανα και καταστατικό.</summary>
-    <content type="text" xml:lang="en">Michalis Tsintsinis likens Maria Karystianou&#x27;s Elpida to a mayfly: from 67% popularity and &#x27;potential first party&#x27; to doubts, five months later, that it will survive until elections. The &#x27;formation&#x27;, he writes, is not a party — it is a person as organizing principle, without institutions or statutes.</content>
-  </entry>
-  <entry>
-    <title>Το μεταναστευτικό, η Ε.Ε. και το εσωτερικό μέτωπο</title>
-    <link href="https://www.kathimerini.gr/opinion/564386815/to-metanasteytiko-i-e-e-kai-to-esoteriko-metopo/"/>
-    <id>urn:kathimerini:22cc5e0f8828</id>
-    <updated>2026-08-06T08:30:00+00:00</updated>
-    <author><name>Αθανάσιος Έλλις</name></author>
-    <category term="opinion"/>
-    <summary xml:lang="el">Ο Αθανάσιος Έλλις αναλύει τη στάση Μητσοτάκη στο μεταναστευτικό: συνυπογραφή επιστολής 22 ηγετών της Ε.Ε. για τη Θέουτα κατά του σχεδίου Σάντσεθ για νομιμοποιήσεις, και άρθρο στο Politico κατά της εργαλειοποίησης των ροών από κράτη, με φόντο την εμπειρία του Έβρου το 2020 και το εσωτερικό πολιτικό μέτωπο.</summary>
-    <content type="text" xml:lang="en">Athanasios Ellis analyzes Mitsotakis&#x27; migration posture: co-signing a letter by 22 EU leaders on Ceuta against Sánchez&#x27;s regularization plan, and a Politico op-ed against state instrumentalization of flows, against the backdrop of the 2020 Evros crisis and domestic political flanks.</content>
-  </entry>
-  <entry>
-    <title>Υπόθεση Marfin: Στην Ελλάδα εκδίδεται σήμερα η 46χρονη κατηγορουμένη</title>
-    <link href="https://www.kathimerini.gr/society/564387175/ypothesi-marfin-stin-ellada-ekdidetai-simera-i-46chroni-katigoroymeni/"/>
-    <id>urn:kathimerini:74c08cdad82f</id>
-    <updated>2026-08-06T07:32:34+00:00</updated>
+    <title>Βρετανία: Επεισόδια σε διαδήλωση κατά των μεταναστών – Πέντε συλλήψεις</title>
+    <link href="https://www.kathimerini.gr/world/564389770/vretania-epeisodia-se-diadilosi-kata-ton-metanaston-pente-syllipseis/"/>
+    <id>urn:kathimerini:ac5cee84d41c</id>
+    <updated>2026-08-07T13:39:40+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Εκδίδεται στην Ελλάδα από τη Βρετανία η 46χρονη που κατηγορείται για συμμετοχή στον εμπρησμό της Marfin τον Μάιο του 2010, όπου έχασαν τη ζωή τους τρεις εργαζόμενοι. Είχε συλληφθεί στο Gatwick τον Ιούλιο κατόπιν ερυθράς αγγελίας της Interpol και συναίνεσε στην έκδοσή της.</summary>
-    <content type="text" xml:lang="en">Britain is extraditing to Greece the 46-year-old woman accused of involvement in the May 2010 Marfin bank arson, in which three employees died. She was arrested at Gatwick in July on an Interpol red notice and consented to extradition.</content>
-  </entry>
-  <entry>
-    <title>Υπογραφές για τον εξοπλισμό στο Καστέλλι</title>
-    <link href="https://www.kathimerini.gr/economy/564387064/ypografes-gia-ton-exoplismo-sto-kastelli/"/>
-    <id>urn:kathimerini:3c5a4185fec5</id>
-    <updated>2026-08-06T09:23:00+00:00</updated>
-    <author><name>Ηλίας Μπέλλος</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Υπογράφεται η σύμβαση 112,4 εκατ. ευρώ (με ΦΠΑ) για τον εξοπλισμό αεροναυτιλίας στο νέο αεροδρόμιο Καστελλίου Κρήτης, μεταξύ ΔΑΗΚ και κοινοπραξίας Indra Sistemas–ΑΤΕΣΕ. Στόχος η έναρξη λειτουργίας της μεγαλύτερης αεροπορικής επένδυσης της χώρας το 2028, μετά από σειρά καθυστερήσεων.</summary>
-    <content type="text" xml:lang="en">A €112.4m (incl. VAT) contract for air-navigation equipment at Crete&#x27;s new Kastelli airport is being signed between concessionaire DAIK and the Indra Sistemas–ATESE consortium. The goal is to open Greece&#x27;s biggest aviation investment in 2028 after repeated delays.</content>
-  </entry>
-  <entry>
-    <title>Εκτόξευση καθαρών κερδών για τη HELLENiQ ENERGY</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564387073/ektoxeysi-katharon-kerdon-gia-ti-helleniq-energy/"/>
-    <id>urn:kathimerini:9ba76887db27</id>
-    <updated>2026-08-06T10:48:00+03:00</updated>
-    <author><name>Χρύσα Λιάγγου</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Η HELLENiQ ENERGY ανακοίνωσε συγκρίσιμα EBITDA 736 εκατ. ευρώ (+83%) και καθαρά κέρδη 393 εκατ. (+207%) στο α΄ εξάμηνο, χάρη σε υψηλά περιθώρια διύλισης και αυξημένες εξαγωγές ντίζελ και αεροπορικών καυσίμων προς ελλειμματικές ευρωπαϊκές αγορές, μετά την αναταραχή στο Ιράν.</summary>
-    <content type="text" xml:lang="en">HELLENiQ ENERGY posted comparable H1 EBITDA of €736m (+83%) and net profit of €393m (+207%), driven by strong refining margins and increased diesel and jet-fuel exports to supply-short European markets following the Iran turmoil.</content>
+    <summary>Τρίτη συνεχόμενη νύχτα επεισοδίων στο Θέτφορντ της ανατολικής Αγγλίας, όπου δεκάδες διαδηλωτές κατά των μεταναστών επιτέθηκαν στην αστυνομία και σε κατοικίες όπου πίστευαν ότι διέμεναν αιτούντες άσυλο. Πέντε συλλήψεις μετά τις συγκεντρώσεις που πυροδότησε σχέδιο στέγασης αιτούντων άσυλο σε πρώην βάση της RAF.</summary>
+    <category term="world"/>
   </entry>
 </feed>

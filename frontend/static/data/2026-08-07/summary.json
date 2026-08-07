@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T12:03:10.975017+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 79 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επόμενη μέρα της μεγα-πυρκαγιάς της Αττικοβοιωτίας κυριαρχεί στην ειδησεογραφία της ημέρας. Το υπουργείο Περιβάλλοντος παρουσίασε σχέδιο αποκατάστασης με αντιδιαβρωτικά και αντιπλημμυρικά έργα και προανήγγειλε αναθεώρηση του πλαισίου για τα ιδιωτικά δίκτυα ενέργειας, από τα οποία φέρεται να ξεκίνησε η φωτιά. Η ανάλυση του Εθνικού Αστεροσκοπείου κατέγραψε έκλυση ενέργειας 380 TJ — όσο έξι ατομικές βόμβες — σε 111.732 καμένα στρέμματα, ενώ οι αυτοψίες σε Πόρτο Γερμενό και Αιγόσθενα αποτυπώνουν το μέγεθος της καταστροφής σε οικισμούς και μνημεία.\n\nΣτο μέτωπο των ελληνοτουρκικών, τα τουρκικά μαχητικά επέστρεψαν στο Αιγαίο με 17 παραβιάσεις, οπλισμένα F-16 και εικονική αερομαχία, μία μόλις ημέρα μετά τη συμφωνία εισόδου της Meridiam στον Great Sea Interconnector. Η ευρύτερη περιοχή παραμένει ρευστή: Σαουδική Αραβία, Πακιστάν και Τουρκία υπέγραψαν κοινή αμυντική συμφωνία, η Αθήνα ετοιμάζει την αποστολή δύο Apache στα Εμιράτα για την αναχαίτιση drones, ενώ η αγορά πετρελαίου προεξοφλεί συμφωνία ΗΠΑ – Ιράν με το Brent προς τα 80 δολάρια.\n\nΣτο εσωτερικό πολιτικό σκηνικό, η κυβέρνηση προετοιμάζει προεκλογική ΔΕΘ με την «Ατζέντα 2030», ενώ ο Σεπτέμβριος θα φέρει τον σκληρότερο γύρο της μάχης Ανδρουλάκη – Τσίπρα για τη δεύτερη θέση. Στην οικονομία, ο ΟΟΣΑ κατέγραψε στην Ελλάδα τη μεγαλύτερη πτώση πραγματικού εισοδήματος νοικοκυριών μεταξύ 21 χωρών (-3,6%), την ώρα που ξεκίνησε η πλατφόρμα myAGRO για τις αγροτικές επιδοτήσεις και η Metlen ανακοίνωσε ιστορικά υψηλά κέρδη εξαμήνου.\n\nΔιεθνώς, νέες εκτιμήσεις των αμερικανικών υπηρεσιών που επικαλείται η WSJ θέλουν τον Πούτιν να εξετάζει «δοκιμή» του ΝΑΤΟ με περιορισμένη επίθεση, η Γερμανία συγκάλεσε το Συμβούλιο Ασφαλείας για το drone στη Λειψία και η Γαλλία προειδοποιεί κατά ξένης ανάμειξης στις προεδρικές εκλογές. Στον πολιτισμό, το Πανόραμα Ευρωπαϊκού Κινηματογράφου κινδυνεύει μετά την απώλεια της χρηματοδότησης ΕΣΠΑ.",
+    "en": "The aftermath of the Attica-Boeotia mega-fire dominates the day's news. The Environment Ministry presented a restoration plan built on anti-erosion and flood-protection works and announced a revision of the framework for private power networks, where the fire is believed to have started. The National Observatory's analysis measured 380 TJ of radiated energy — six Hiroshima bombs' worth — across 111,732 burnt stremmata, while on-site reports from Porto Germeno and Aigosthena capture the scale of destruction to communities and monuments.\n\nOn the Greek-Turkish front, Turkish fighters returned to the Aegean with 17 violations, armed F-16s and a mock dogfight, just one day after Meridiam signed on to the Great Sea Interconnector. The wider region remains volatile: Saudi Arabia, Pakistan and Turkey signed a mutual defense pact, Athens is preparing to send two Apache helicopters to the UAE for counter-drone duty, and oil markets are pricing in a US–Iran deal with Brent sliding toward $80.\n\nDomestically, the government is preparing a pre-election Thessaloniki Fair around its 'Agenda 2030,' while September will bring the toughest round of the Androulakis–Tsipras battle for second place. In the economy, the OECD recorded Greece's steepest drop in real household income among 21 countries (-3.6%), even as the myAGRO farm-subsidy platform launched and Metlen posted record half-year profits.\n\nInternationally, US intelligence assessments cited by the WSJ suggest Putin may test NATO with a limited attack, Germany convened its Security Council over the Leipzig airport drone, and France warned against foreign interference in its presidential election. In culture, the Panorama of European Cinema faces an existential threat after losing its ESPA funding."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Πυρκαγιά Αττικοβοιωτίας: απολογισμός και επόμενη μέρα",
+        "en": "Attica-Boeotia fire: the toll and the day after"
+      },
+      "description": {
+        "el": "Σχέδιο αποκατάστασης του ΥΠΕΝ, αναθεώρηση του πλαισίου για τα ιδιωτικά δίκτυα, ανάλυση του Αστεροσκοπείου για έκλυση ενέργειας 380 TJ και αυτοψίες σε Πόρτο Γερμενό και Αιγόσθενα.",
+        "en": "The ministry's restoration plan, a revised framework for private power networks, the Observatory's 380 TJ energy analysis, and on-site reports from Porto Germeno and Aigosthena."
+      },
+      "related_items": [
+        "b71b99b307d8",
+        "311e71ddc140",
+        "dee8e1bc7f54",
+        "65e9e8669e04",
+        "a62214c941cd"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Κλιμάκωση στο Αιγαίο",
+        "en": "Aegean escalation"
+      },
+      "description": {
+        "el": "17 παραβιάσεις με οπλισμένα F-16 και εικονική αερομαχία μία ημέρα μετά τη συμφωνία για τον Great Sea Interconnector· 42 παραβιάσεις από την αρχή της εβδομάδας.",
+        "en": "Seventeen violations with armed F-16s and a mock dogfight a day after the Great Sea Interconnector deal; 42 violations since the week began."
+      },
+      "related_items": [
+        "29d221d8a2ff",
+        "0a1e71c80a91",
+        "3d87d087d1a0",
+        "b653d5468ffc"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Μέση Ανατολή: πόλεμος και ανακατατάξεις",
+        "en": "Middle East war and realignments"
+      },
+      "description": {
+        "el": "Αμυντικό σύμφωνο Σαουδικής Αραβίας – Πακιστάν – Τουρκίας, ελληνικά Apache στα Εμιράτα, επιθέσεις Χούθι και προσδοκίες συμφωνίας ΗΠΑ – Ιράν στην αγορά πετρελαίου.",
+        "en": "A Saudi-Pakistan-Turkey defense pact, Greek Apaches to the UAE, Houthi attacks, and oil markets betting on a US–Iran deal."
+      },
+      "related_items": [
+        "45a65c84eeef",
+        "0899ae5e1eb9",
+        "0dc2a359ab7b",
+        "0ca8d727255c",
+        "055a31455419"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Προεκλογικός Σεπτέμβριος και ΔΕΘ",
+        "en": "Pre-election September and the Thessaloniki Fair"
+      },
+      "description": {
+        "el": "Η «Ατζέντα 2030» του Μητσοτάκη στη ΔΕΘ και η μάχη Ανδρουλάκη – Τσίπρα για την πρωτοκαθεδρία στην κεντροαριστερά.",
+        "en": "Mitsotakis' 'Agenda 2030' at the fair and the Androulakis–Tsipras battle for center-left primacy."
+      },
+      "related_items": [
+        "ebb5c262521c",
+        "b74f6b2311d1",
+        "19af64c2f2b3"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Πίεση στα εισοδήματα",
+        "en": "Household income squeeze"
+      },
+      "description": {
+        "el": "Ο ΟΟΣΑ καταγράφει τη μεγαλύτερη πτώση πραγματικού εισοδήματος νοικοκυριών στην Ελλάδα (-3,6%), ενώ τα στοιχεία του ΕΦΚΑ δείχνουν τους μισούς συνταξιούχους κάτω από τον μέσο όρο.",
+        "en": "The OECD records Greece's steepest real household income drop (-3.6%), while EFKA data show half of pensioners below the average pension."
+      },
+      "related_items": [
+        "759f6f4b65a9",
+        "aca8335004cf"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 79,
+  "categories": {
+    "politics": {
+      "item_count": 11,
+      "top_items": [
+        "29d221d8a2ff",
+        "b71b99b307d8",
+        "0a1e71c80a91"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "759f6f4b65a9",
+        "1987bbebf2c7",
+        "0dc2a359ab7b"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "dee8e1bc7f54",
+        "1c804f525bd9",
+        "65e9e8669e04"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "f7d1cd613f66",
+        "45a65c84eeef",
+        "ac5cee84d41c"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "53c0702b934e",
+        "b653d5468ffc",
+        "e1475585714f"
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        "a62214c941cd",
+        "b53709cf28b1",
+        "6fe38bb4398b"
+      ]
+    },
+    "ai": {
+      "item_count": 9,
+      "top_items": [
+        {
+          "id": "0a1e71c80a91",
+          "title": "Μπαράζ τουρκικών παραβιάσεων στο Αιγαίο και εμπλοκή με οπλισμένα F-16",
+          "url": "https://www.kathimerini.gr/politics/amyna/564388072/mparaz-toyrkikon-paraviaseon-sto-aigaio-kai-emploki-me-oplismena-f-16/",
+          "source": "Kathimerini",
+          "published": "2026-08-06T19:22:23+00:00",
+          "category": "politics",
+          "importance": 74,
+          "summary": {
+            "el": "Οκτώ τουρκικά αεροσκάφη πραγματοποίησαν 17 παραβιάσεις του ελληνικού εναέριου χώρου στο Αιγαίο, με δύο εξ αυτών από οπλισμένα F-16 σε σχηματισμό. Μία παραβίαση εξελίχθηκε σε εικονική αερομαχία, ενώ καταγράφηκαν και 10 παραβάσεις του FIR Αθηνών· όλα τα αεροσκάφη αναχαιτίστηκαν.",
+            "en": "Eight Turkish aircraft carried out 17 violations of Greek airspace over the Aegean, including two by armed F-16s in formation, one of which escalated into a mock dogfight. Ten infringements of the Athens FIR were also recorded; all aircraft were intercepted according to standing rules."
+          },
+          "tags": {
+            "el": [
+              "ελληνοτουρκικά",
+              "Αιγαίο",
+              "παραβιάσεις",
+              "F-16",
+              "drones"
+            ],
+            "en": [
+              "Greek-Turkish relations",
+              "Aegean",
+              "airspace violations",
+              "F-16",
+              "drones"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "0899ae5e1eb9",
+          "title": "Ελληνικά Apache στο «κυνήγι» drones στα Αραβικά Εμιράτα",
+          "url": "https://www.kathimerini.gr/politics/amyna/564388441/ellinika-apache-sto-kynigi-drones-sta-aravika-emirata/",
+          "source": "Kathimerini",
+          "published": "2026-08-07T10:44:43+00:00",
+          "category": "politics",
+          "importance": 72,
+          "summary": {
+            "el": "Η Αθήνα εξετάζει την αποστολή δύο επιθετικών ελικοπτέρων Apache AH-64D στα Ηνωμένα Αραβικά Εμιράτα για την ενίσχυση της αεράμυνας απέναντι σε επιθέσεις με drones. Η προετοιμασία ελικοπτέρων και πληρωμάτων έχει ξεκινήσει, με τα στελέχη της Αεροπορίας Στρατού να αποκομίζουν πολύτιμη επιχειρησιακή εμπειρία.",
+            "en": "Athens is preparing to deploy two Apache AH-64D attack helicopters to the United Arab Emirates to bolster defenses against drone attacks, at a base hosting mostly American forces. Preparations of aircraft and crews have begun, offering Army Aviation valuable operational counter-drone experience."
+          },
+          "tags": {
+            "el": [
+              "Apache",
+              "ΗΑΕ",
+              "άμυνα",
+              "drones",
+              "Αεροπορία Στρατού"
+            ],
+            "en": [
+              "Apache",
+              "UAE",
+              "defense",
+              "drones",
+              "Army Aviation"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "ebb5c262521c",
+          "title": "Με διπλό «μήνυμα» στη ΔΕΘ",
+          "url": "https://www.kathimerini.gr/politics/government/564388444/me-diplo-minyma-sti-deth/",
+          "source": "Kathimerini",
+          "published": "2026-08-07T12:18:10+00:00",
+          "category": "politics",
+          "importance": 70,
+          "summary": {
+            "el": "Προεκλογικά χαρακτηριστικά θα έχει η φετινή παρουσία Μητσοτάκη στη ΔΕΘ, όπου πέρα από τις οικονομικές εξαγγελίες θα παρουσιάσει την «Ατζέντα 2030», το πρόγραμμα με το οποίο η Ν.Δ. θα διεκδικήσει τρίτη τετραετία. Στον πυρήνα του αφηγήματος βρίσκεται η σταθερότητα απέναντι στο ρευστό γεωπολιτικό περιβάλλον και τις προκλήσεις της τεχνητής νοημοσύνης.",
+            "en": "Mitsotakis' appearance at this year's Thessaloniki International Fair takes on a pre-election character: beyond the usual economic announcements he will present 'Agenda 2030,' the platform on which New Democracy will seek a third term. The narrative centers on stability amid a volatile geopolitical environment and the challenges posed by artificial intelligence."
+          },
+          "tags": {
+            "el": [
+              "ΔΕΘ",
+              "Μητσοτάκης",
+              "Ατζέντα 2030",
+              "εκλογές",
+              "Ν.Δ."
+            ],
+            "en": [
+              "Thessaloniki Fair",
+              "Mitsotakis",
+              "Agenda 2030",
+              "elections",
+              "New Democracy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "1987bbebf2c7",
+          "title": "Σε λειτουργία η νέα πλατφόρμα myAGRO για αγροτικές επιδοτήσεις",
+          "url": "https://www.kathimerini.gr/economy/local/564388810/se-leitoyrgia-i-nea-platforma-myagro-gia-agrotikes-epidotiseis/",
+          "source": "Kathimerini",
+          "published": "2026-08-07T06:40:00+00:00",
+          "category": "economy",
+          "importance": 68,
+          "summary": {
+            "el": "Σε λειτουργία τέθηκε η νέα πλατφόρμα myAGRO για τη διαχείριση των αγροτικών επιδοτήσεων υπό την ΑΑΔΕ, μέσω της οποίας οι αγρότες θα υποβάλλουν την Ενιαία Αίτηση Ενίσχυσης. Στόχος, όπως ανακοίνωσε ο πρωθυπουργός, η καταβολή της προκαταβολής του 75% έως 31 Οκτωβρίου για αιτήσεις που θα υποβληθούν έως 15 Σεπτεμβρίου.",
+            "en": "The new myAGRO platform for managing farm subsidies, operated under tax authority AADE, went live, with farmers now filing their single aid application through it. The PM announced the goal of paying the 75% advance by October 31 for applications submitted by September 15, with remaining payments by end-November."
+          },
+          "tags": {
+            "el": [
+              "myAGRO",
+              "αγρότες",
+              "επιδοτήσεις",
+              "ΑΑΔΕ",
+              "ψηφιοποίηση"
+            ],
+            "en": [
+              "myAGRO",
+              "farmers",
+              "subsidies",
+              "AADE",
+              "digitization"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "8f1c756a2fc5",
+          "title": "Σχέδιο επτά σημείων για στήριξη της ελληνικής βιομηχανίας",
+          "url": "https://www.kathimerini.gr/economy/local/564388831/schedio-epta-simeion-gia-stirixi-tis-ellinikis-viomichanias/",
+          "source": "Kathimerini",
+          "published": "2026-08-07T09:17:00+00:00",
+          "category": "economy",
+          "importance": 63,
+          "summary": {
+            "el": "Σχέδιο επτά σημείων για τη στήριξη της βιομηχανίας συζήτησε η Κυβερνητική Επιτροπή Βιομηχανίας υπό τον πρωθυπουργό, με έμφαση στη μείωση του ενεργειακού κόστους, την ενίσχυση επενδύσεων και εξαγωγών, την απλούστευση της αδειοδότησης και εθνική στρατηγική για τους ημιαγωγούς. Οι αποφάσεις θα ενταχθούν στα εθνικά σχέδια δράσης των υπουργείων με συγκεκριμένα χρονοδιαγράμματα.",
+            "en": "The Government Industry Committee, chaired by the PM, discussed a seven-point plan to support manufacturing, focusing on cutting energy costs, boosting investment and exports, simplifying licensing, and a national semiconductor strategy. Decisions will be folded into ministries' national action plans with concrete timetables."
+          },
+          "tags": {
+            "el": [
+              "βιομηχανία",
+              "ενεργειακό κόστος",
+              "επενδύσεις",
+              "ημιαγωγοί"
+            ],
+            "en": [
+              "industry",
+              "energy costs",
+              "investment",
+              "semiconductors"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
