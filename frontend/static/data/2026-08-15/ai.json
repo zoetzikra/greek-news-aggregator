@@ -1,0 +1,49 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T11:20:43.831988+00:00",
+  "category": "ai",
+  "item_count": 1,
+  "themes": {
+    "el": [
+      "Ρομποτική & drones"
+    ],
+    "en": [
+      "Robotics & drones"
+    ]
+  },
+  "items": [
+    {
+      "id": "243909298154",
+      "title": "Χούθι: Επίθεση με drone στις εγκαταστάσεις της Aramco",
+      "url": "https://www.kathimerini.gr/world/564404026/choythi-epithesi-me-drone-stis-egkatastaseis-tis-aramco/",
+      "author": "Newsroom",
+      "published": "2026-08-14T21:45:00+00:00",
+      "source": "Kathimerini",
+      "source_type": "scrape",
+      "category": "world",
+      "importance": 65,
+      "content": "Μέχρι στιγμής δεν υπάρχει επιβεβαίωση για την επίθεση από τις σαουδαραβικές αρχές ή από την Aramco\n\nΟι αντάρτες Χούθι της Υεμένης ανέφεραν σήμερα ότι εξαπέλυσαν επίθεση με drone εναντίον εγκαταστάσεων του πετρελαϊκού κολοσσού Aramco στην πόλη Νατζράν, στο νοτιοδυτικό τμήμα της Σαουδικής Αραβίας.\n\nΗ επίθεση εξαπολύθηκε, σύμφωνα με τους Χούθι, σε αντίποινα για τις παραβιάσεις του εναέριου χώρου της Υεμένης από σαουδαραβικά μαχητικά αεροσκάφη.\n\nΜέχρι στιγμής δεν υπάρχει επιβεβαίωση για την επίθεση από τις σαουδαραβικές αρχές ή από την Aramco. Δεν έχει διευκρινιστεί επίσης εάν οι εγκαταστάσεις της Aramco στην Νατζράν υπέστησαν ζημιά.",
+      "summary": {
+        "el": "Οι αντάρτες Χούθι της Υεμένης ανακοίνωσαν ότι εξαπέλυσαν επίθεση με drone εναντίον εγκαταστάσεων του πετρελαϊκού κολοσσού Aramco στην πόλη Νατζράν, στο νοτιοδυτικό τμήμα της Σαουδικής Αραβίας. Σύμφωνα με τους ίδιους, η επίθεση ήταν αντίποινα για παραβιάσεις του εναέριου χώρου της Υεμένης από σαουδαραβικά μαχητικά. Δεν υπάρχει μέχρι στιγμής επιβεβαίωση από τις σαουδαραβικές αρχές ή την Aramco, ούτε έχει διευκρινιστεί αν προκλήθηκαν ζημιές.",
+        "en": "Yemen's Houthi rebels said they launched a drone attack on facilities of oil giant Aramco in the city of Najran, in southwestern Saudi Arabia. The Houthis described the strike as retaliation for violations of Yemeni airspace by Saudi fighter jets. There has been no confirmation from Saudi authorities or Aramco, and it remains unclear whether the Najran facilities sustained any damage."
+      },
+      "tags": {
+        "el": [
+          "Χούθι",
+          "Υεμένη",
+          "Σαουδική Αραβία",
+          "Aramco",
+          "Drone"
+        ],
+        "en": [
+          "Houthis",
+          "Yemen",
+          "Saudi Arabia",
+          "Aramco",
+          "Drone"
+        ]
+      },
+      "sentiment": "negative"
+    }
+  ]
+}
