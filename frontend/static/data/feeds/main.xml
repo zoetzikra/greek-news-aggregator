@@ -4,126 +4,186 @@
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
   <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-08-15T11:21:15.141086+00:00</updated>
+  <updated>2026-08-16T11:59:48.013587+00:00</updated>
   <entry>
-    <title>Κονγκό: Ενας νεκρός από Εμπολα κάθε 30 λεπτά</title>
-    <link href="https://www.kathimerini.gr/world/564404305/kongko-enas-nekros-apo-empola-kathe-30-lepta/"/>
-    <id>urn:kathimerini:d096f7500452</id>
-    <updated>2026-08-15T09:24:37+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Η επιδημία Έμπολα στη Λαϊκή Δημοκρατία του Κονγκό σκοτώνει έναν άνθρωπο κάθε 30 λεπτά, προειδοποίησε ο επικεφαλής ανθρωπιστικών υποθέσεων του ΟΗΕ Τομ Φλέτσερ, καλώντας τη διεθνή κοινότητα να «αφυπνιστεί». «Ο Έμπολα νικά στη ΛΔ Κονγκό», δήλωσε μετά από κατεπείγουσα συνεδρίαση με επικεφαλής υπηρεσιών του οργανισμού, σημειώνοντας ότι πάνω από 2.000 άνθρωποι είναι ήδη νεκροί. Πρόκειται για τη 17η επιδημία στην ιστορία της χώρας, που κηρύχθηκε στις 15 Μαΐου με εβδομάδες καθυστέρηση, και εξαπλώνεται «ταχύτερα από οποιαδήποτε άλλη καταγράφτηκε ποτέ».</summary>
-    <content xml:lang="en" type="text">The Ebola epidemic in the Democratic Republic of Congo is killing one person every 30 minutes, UN humanitarian chief Tom Fletcher warned, urging the international community to "wake up". "Ebola is winning in the DRC. We cannot allow the virus to outpace our response," he said after an emergency meeting of UN agency heads, noting more than 2,000 people have already died. It is the country's 17th outbreak, declared on 15 May after what experts consider weeks of delay, and is spreading "faster than any previously recorded".</content>
-  </entry>
-  <entry>
-    <title>Iνδονησία: Εικόνες πανικού και καταστροφής από τα 7, 7 Ρίχτερ</title>
-    <link href="https://www.kathimerini.gr/world/564404362/indonisia-eikones-panikoy-kai-katastrofis-apo-ta-7-7-richter/"/>
-    <id>urn:kathimerini:672508ee3097</id>
-    <updated>2026-08-15T12:31:40+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Στους 38 ανήλθε ο απολογισμός των νεκρών από τον σεισμό των 7,7 βαθμών στην Ινδονησία, με τις αρχές να προειδοποιούν για άγνωστο αριθμό αγνοουμένων στα συντρίμμια. Σύμφωνα με τον επικεφαλής της εθνικής υπηρεσίας διαχείρισης καταστροφών BNPB, δύο άνθρωποι τραυματίστηκαν σοβαρά, 11 ελαφρά και περίπου 2.000 εγκατέλειψαν τις εστίες τους. Η προειδοποίηση για τσουνάμι ήρθη σχεδόν μία ώρα μετά τον σεισμό, όμως δεκάδες μετασεισμοί έγιναν αισθητοί με ισχυρότερο τα 6,1 Ρίχτερ· στο λιμάνι του Maumere βίντεο δείχνουν εκτεταμένες καταρρεύσεις.</summary>
-    <content xml:lang="en" type="text">The death toll from Indonesia's magnitude 7.7 earthquake has risen to 38, with authorities warning of an unknown number of people missing under rubble. The head of the national disaster agency BNPB reported two people seriously injured, 11 with minor injuries and around 2,000 who left their homes on their own initiative. A tsunami warning was lifted roughly an hour after the quake, but dozens of aftershocks have been felt, the strongest at magnitude 6.1; video from the port of Maumere shows widespread collapses.</content>
-  </entry>
-  <entry>
-    <title>Πέθανε ο Στέφανος Μάνος</title>
-    <link href="https://www.kathimerini.gr/society/564404329/pethane-o-stefanos-manos/"/>
-    <id>urn:kathimerini:2fabaa9251d2</id>
-    <updated>2026-08-15T10:18:30+00:00</updated>
+    <title>Μάχη σε δύο μέτωπα δίνουν οι πυροσβέστες στη Σκύρο – Επιχειρούν επίγειες και εναέριες δυνάμεις</title>
+    <link href="https://www.kathimerini.gr/society/564404848/machi-se-dyo-metopa-dinoyn-oi-pyrosvestes-sti-skyro-epicheiroyn-epigeies-kai-enaeries-dynameis/"/>
+    <id>urn:kathimerini:3c07d64cb0c3</id>
+    <updated>2026-08-16T10:16:48+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Πέθανε σε ηλικία 86 ετών ο Στέφανος Μάνος, πρώην υπουργός Εθνικής Οικονομίας και Οικονομικών και υπουργός Περιβάλλοντος, ιδρυτής των Φιλελευθέρων και συνιδρυτής της Δράσης. Γεννημένος στην Αθήνα το 1939, συνδέθηκε με αποφάσεις-σταθμούς στις κυβερνήσεις Καραμανλή, Ράλλη και Κωνσταντίνου Μητσοτάκη, και παρότι διαγράφηκε από τη Ν.Δ. το 1998 παρέμεινε πρόσωπο-σύμβολο της Κεντροδεξιάς. Ο υπουργός Επικρατείας Άκης Σκέρτσος τον αποχαιρέτησε επικαλούμενος την «πολιτική παρακαταθήκη» του: να ασχολείσαι με την πολιτική «χωρίς να επιδιώκεις να είσαι αρεστός αλλά διαρκώς χρήσιμος».</summary>
-    <content xml:lang="en" type="text">Stefanos Manos, former minister of national economy and finance and minister of the environment, founder of the Liberals party and co-founder of Drasi, has died aged 86. Born in Athens in 1939, he was associated with landmark decisions under the Karamanlis, Rallis and Constantine Mitsotakis governments, and although expelled from New Democracy in 1998 he remained a symbolic figure of the Greek centre-right. State Minister Akis Skertsos paid tribute to his "political legacy": to engage in politics "not seeking to be liked, but to be constantly useful".</content>
+    <summary xml:lang="el">Η πυρκαγιά στην Ατσίτσα Σκύρου, που ξέσπασε το απόγευμα της Παρασκευής, διασπάστηκε σε δύο μέτωπα λόγω ανέμων που ξεπερνούν τα 7 μποφόρ: στο νότιο προς Άγιο Φωκά και στο ανατολικό προς Πεύκο, καίγοντας πυκνό πευκοδάσος. Επιχειρούν 89 πυροσβέστες με έξι ομάδες πεζοπόρων τμημάτων, εθελοντές και 21 οχήματα, ενώ έχουν διατεθεί επτά αεροσκάφη και πέντε ελικόπτερα. Η πυρκαγιά στην Άνδρο δεν έχει πλέον ενεργό μέτωπο.</summary>
+    <content xml:lang="en" type="text">The wildfire that broke out on Friday afternoon at Atsitsa on Skyros has split into two fronts under winds exceeding 7 Beaufort — south toward Agios Fokas and east toward Pefko — consuming dense pine forest. Eighty-nine firefighters with six specialist units, volunteers and 21 vehicles are deployed, supported by seven aircraft and five helicopters. The separate fire on Andros no longer has an active front.</content>
   </entry>
   <entry>
-    <title>Στενά του Ορμούζ: Σύντομα τμήμα των ΗΠΑ, λέει ο Τραμπ – «Θα παραμείνουν ιρανικά» διαμηνύει η Τεχεράνη</title>
-    <link href="https://www.kathimerini.gr/world/564404281/stena-toy-ormoyz-syntoma-tmima-ton-ipa-leei-o-tramp-tha-parameinoyn-iranika-diaminyei-i-techerani/"/>
-    <id>urn:kathimerini:dc7209b8ee4a</id>
-    <updated>2026-08-15T08:12:52+00:00</updated>
+    <title>Ερντογάν: Εχω λάβει υπόσχεση από τον Τραμπ για τα F-35 – «Ανοιχτό» να μπει η Αίγυπτος στη Συμφωνία της Μέκκας</title>
+    <link href="https://www.kathimerini.gr/world/564404719/erntogan-echo-lavei-yposchesi-apo-ton-tramp-gia-ta-f-35-anoichto-na-mpei-i-aigyptos-sti-symfonia-tis-mekkas/"/>
+    <id>urn:kathimerini:f4f8f1be37f5</id>
+    <updated>2026-08-15T20:32:45+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Ο Ντόναλντ Τραμπ δήλωσε, με ύφος που υποδήλωνε ότι αστειευόταν, ότι σύντομα θα ανακηρύξει τα Στενά του Ορμούζ τμήμα της επικράτειας των ΗΠΑ, τονίζοντας ότι οι αμερικανικές δυνάμεις ελέγχουν πλήρως τη στρατηγική θαλάσσια οδό: «Έχουμε τον αποκλεισμό. Κανένα πλοίο δεν περνά, παρά μόνο εάν το θελήσουμε». Η Τεχεράνη απάντησε άμεσα διά του υφυπουργού Εξωτερικών Καζέμ Γαριμπαμπαντί, ο οποίος υποστήριξε ότι τα στενά «ήταν, είναι και θα παραμείνουν ιρανικά», είναι «κλειστά» και θα ανοίξουν μόνο με διαταγή του Ιράν, καλώντας την Ουάσιγκτον να αποδεχθεί τις «στρατηγικές και βαριές ήττες» της.</summary>
-    <content xml:lang="en" type="text">Donald Trump said — apparently in jest — that he would soon declare the Strait of Hormuz part of US territory, insisting American forces have full control of the strategic waterway: "We have the blockade. No ship passes unless we want it to." Tehran responded through deputy foreign minister Kazem Gharibabadi, who wrote that the strait "was Iranian, is Iranian and will remain Iranian", that it is "closed" and will reopen only on Iran's orders, and that Washington must eventually "accept the reality" of its "strategic and heavy defeats".</content>
+    <summary xml:lang="el">Ο Ρετζέπ Ταγίπ Ερντογάν δήλωσε στο Al Jazeera ότι έχει λάβει υπόσχεση από τον Ντόναλντ Τραμπ για τα F-35 και άφησε ανοιχτό το ενδεχόμενο ένταξης της Αιγύπτου στην αμυντική «Συμφωνία της Μέκκας» μεταξύ Τουρκίας, Σαουδικής Αραβίας και Πακιστάν. Η συμφωνία προβλέπει ότι ένοπλη επίθεση εναντίον ενός εκ των τριών θεωρείται επίθεση εναντίον όλων. Ο Τούρκος πρόεδρος πρόσθεσε ότι η ευρωπαϊκή προοπτική δεν αποτελεί πλέον προτεραιότητα για την Άγκυρα, εκτιμώντας πως χαμένη θα βγει η Ευρώπη.</summary>
+    <content xml:lang="en" type="text">Erdogan told Al Jazeera he has a promise from Trump on F-35 jets and left open the possibility of Egypt joining the "Mecca Agreement", the mutual defence pact signed last Friday by Turkey, Saudi Arabia and Pakistan under which an armed attack on one is an attack on all. He also declared that EU accession is no longer a priority for Ankara, predicting Europe will be the loser from that shift — a double signal with direct bearing on Greek strategic calculations.</content>
   </entry>
   <entry>
-    <title>Πολύ υψηλός κίνδυνος πυρκαγιάς την Κυριακή – Red code σε τέσσερις περιφέρειες</title>
-    <link href="https://www.kathimerini.gr/society/564404410/poly-ypsilos-kindynos-pyrkagias-tin-kyriaki-red-code-se-tesseris-perifereies/"/>
-    <id>urn:kathimerini:651a6d3e895e</id>
-    <updated>2026-08-15T13:46:02+00:00</updated>
+    <title>Ακραία ζέστη στην Ευρώπη: 16.000 περισσότεροι θάνατοι σε μία εβδομάδα</title>
+    <link href="https://www.kathimerini.gr/world/564404548/akraia-zesti-stin-eyropi-16-000-perissoteroi-thanatoi-se-mia-evdomada/"/>
+    <id>urn:kathimerini:40b9fec3127d</id>
+    <updated>2026-08-15T21:50:43+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Πολύ υψηλός κίνδυνος πυρκαγιάς (κατηγορία 4) προβλέπεται για την Κυριακή 16 Αυγούστου, με κατάσταση κινητοποίησης Red Code σε Αττική, Βοιωτία, Εύβοια, Κυκλάδες και Κρήτη. Το Red Code προβλέπει πλήρη κινητοποίηση προσωπικού και μέσων, με δήμους και περιφέρειες να καλούνται να συγκαλέσουν άμεσα τα τοπικά και περιφερειακά συντονιστικά όργανα πολιτικής προστασίας. Ο καιρός προβλέπεται γενικά αίθριος, με ισχυρούς βόρειους ανέμους που ενισχύουν τον κίνδυνο εξάπλωσης.</summary>
-    <content xml:lang="en" type="text">A very high wildfire risk (category 4) is forecast for Sunday 16 August, with Red Code mobilisation declared for Attica, Boeotia, Evia, the Cyclades and Crete. Red Code status triggers full deployment of personnel and equipment, and municipalities and regions have been instructed to convene their local and regional civil protection coordination bodies immediately. Conditions are forecast to be generally clear with strong northerly winds that raise the risk of rapid fire spread.</content>
+    <category term="world"/>
+    <summary xml:lang="el">Περίπου 16.000 περισσότεροι άνθρωποι από τον αναμενόμενο μέσο όρο πέθαναν στην Ευρώπη κατά τη διάρκεια μιας εβδομάδας ασφυκτικού καύσωνα τον Ιούνιο, σύμφωνα με ανάλυση του Ευρωπαϊκού Δικτύου Παρακολούθησης της Θνησιμότητας. Οι περισσότεροι θάνατοι καταγράφηκαν σε Γαλλία, Βέλγιο και Γερμανία — χώρες ασυνήθιστες σε τέτοιες θερμοκρασίες και λιγότερο προετοιμασμένες. Ο υδράργυρος ξεπέρασε τους 38 βαθμούς στο μεγαλύτερο μέρος της ηπείρου.</summary>
+    <content xml:lang="en" type="text">Roughly 16,000 more people than expected died in Europe during a single week of suffocating June heat, according to the European mortality monitoring network. Most excess deaths were in France, Belgium and Germany — countries unused to such temperatures and less prepared for them — even though the mercury topped 38C across most of the continent including Italy and Spain. Limited air conditioning use in northwestern Europe is a key factor.</content>
   </entry>
   <entry>
-    <title>Ποιες συντάξεις χηρείας αυξάνονται κατά 470 ευρώ</title>
-    <link href="https://www.kathimerini.gr/economy/564401563/poies-syntaxeis-chireias-ayxanontai-kata-470-eyro/"/>
-    <id>urn:kathimerini:b6095dccd699</id>
-    <updated>2026-08-14T15:44:19+00:00</updated>
-    <author><name>Ρούλα Σαλούρου</name></author>
+    <title>Οι καύσωνες «καίνε» την οικονομία</title>
+    <link href="https://www.kathimerini.gr/economy/564402493/oi-kaysones-kaine-tin-oikonomia/"/>
+    <id>urn:kathimerini:fd8c285e1b8f</id>
+    <updated>2026-08-16T07:25:59+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Αυξημένες κατά περίπου 470 ευρώ μηνιαίως θα είναι οι συντάξεις χηρείας για 8.552 δικαιούχους του Δημοσίου, καθώς τίθεται σε εφαρμογή η νομοθετική παρέμβαση του υπουργείου Εργασίας που καταργεί την περικοπή μετά την πρώτη τριετία. Η ρύθμιση επαναφέρει τη σύνταξη λόγω θανάτου από το 35% στο 70% της σύνταξης του θανόντος, όταν ο δικαιούχος λαμβάνει παράλληλα δική του σύνταξη ή εισόδημα από εργασία. Η πρώτη εφαρμογή θα φανεί στις συντάξεις Σεπτεμβρίου, που πληρώνονται την Παρασκευή 28 Αυγούστου, με καθαρό δημοσιονομικό κόστος περίπου 4 εκατ. ευρώ τον μήνα.</summary>
-    <content xml:lang="en" type="text">Survivor's pensions will rise by roughly €470 a month on average for 8,552 public-sector beneficiaries as a recent Labour Ministry provision takes effect, scrapping the cut applied after the first three years. The measure restores the widow's/widower's pension from 35% back to 70% of the deceased's pension in cases where the beneficiary also draws their own pension or earns employment income. The change first appears in September pensions, paid on Friday 28 August, at a net fiscal cost of about €4m per month.</content>
+    <summary xml:lang="el">Οι παρατεταμένοι καύσωνες, η λειψυδρία και οι πυρκαγιές του φετινού καλοκαιριού προκαλούν οικονομικές ζημιές δισεκατομμυρίων στην Ευρώπη, που θερμαίνεται ταχύτερα από κάθε άλλη περιοχή του πλανήτη. Οι γεωργικές αποδόσεις μειώνονται 6%-7%, οι μεταφορές σε Ρήνο και Δούναβη δυσχεραίνονται και το περιφερειακό ΑΕΠ απειλείται με συρρίκνωση 0,3%. Οικονομολόγοι υπολογίζουν το πλήγμα σε εκατοντάδες δισ. ευρώ και προειδοποιούν ότι είναι μόνο η αρχή.</summary>
+    <content xml:lang="en" type="text">Prolonged heatwaves, drought and wildfires are inflicting billions of euros in damage on a continent warming faster than anywhere else on earth. Crop yields are down 6-7%, freight on the Rhine and Danube is disrupted, and regional GDP faces a 0.3% contraction. Economists put the total hit in the hundreds of billions and warn 2026 is unusually alarming because of the sheer number of extreme events — with costs set to rise in coming years.</content>
   </entry>
   <entry>
-    <title>Ινδονησία: Σεισμός 7,7 βαθμών – Τουλάχιστον 20 νεκροί</title>
-    <link href="https://www.kathimerini.gr/world/564404257/indonisia-seismos-7-7-vathmon-toylachiston-5-nekroi/"/>
-    <id>urn:kathimerini:6d5529b24b43</id>
-    <updated>2026-08-15T07:12:46+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Ισχυρός σεισμός 7,7 βαθμών της κλίμακας Ρίχτερ έπληξε τα ξημερώματα την Ινδονησία, στον θαλάσσιο χώρο βόρεια της νήσου Φλόρες, με πρώτο απολογισμό τουλάχιστον 20 νεκρούς σε τέσσερις πόλεις. Αξιωματούχος έρευνας και διάσωσης στην πόλη Μαουμέρε ανέφερε επίσης έξι τραυματίες και δύο ανθρώπους εγκλωβισμένους κάτω από ερείπια. Οι αρχές ήραν την προειδοποίηση για τσουνάμι, που είχε οδηγήσει σε σύσταση απομάκρυνσης των κατοίκων παραθαλάσσιων περιοχών.</summary>
-    <content xml:lang="en" type="text">A powerful magnitude 7.7 earthquake struck Indonesia before dawn, offshore north of Flores island, with an initial toll of at least 20 dead across four towns. A search-and-rescue official in Maumere also reported six injured and two people trapped under rubble. Authorities lifted the tsunami warning that had prompted urgent evacuation advisories for coastal residents; the provincial governor of East Nusa Tenggara had earlier said five people were killed when a building collapsed as they slept.</content>
-  </entry>
-  <entry>
-    <title>Φθινόπωρο εξελίξεων για τα εξοπλιστικά προγράμματα</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564401197/fthinoporo-exelixeon-gia-ta-exoplistika-programmata/"/>
-    <id>urn:kathimerini:0ed88167e0f9</id>
-    <updated>2026-08-14T13:59:46+00:00</updated>
-    <author><name>Σταύρος Ιωαννίδης</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Το φθινόπωρο φέρνει σειρά εξοπλιστικών προγραμμάτων σε φάση υλοποίησης για το υπουργείο Εθνικής Αμυνας. Προτεραιότητα η «Ασπίδα του Αχιλλέα», με διακρατική συμφωνία περίπου 3 δισ. ευρώ με το Ισραήλ που αναμένεται να υπογραφεί εντός εβδομάδων και περιλαμβάνει τα συστήματα Spider AIO, David's Sling και Barak MX, ραντάρ ELM2084 και κέντρο διοίκησης με συμμετοχή της εγχώριας βιομηχανίας. Εκκρεμεί η αμερικανική απάντηση για την αναβάθμιση 38 F-16 Block 50, ενώ κλείνουν συμβάσεις για τις φρεγάτες ΜΕΚΟ, τα V-BAT και τα υποβρύχια Victa.</summary>
-    <content xml:lang="en" type="text">Autumn brings a cluster of Greek defence procurement programmes into the implementation phase. The priority is the "Achilles Shield" air-defence umbrella, with an intergovernmental agreement with Israel worth roughly €3bn expected to be signed within weeks — covering Spider AIO, David's Sling and Barak MX systems, ELM2084 radars and a command-and-control centre built with domestic industry participation. Athens is also awaiting Washington's reply on upgrading 38 F-16 Block 50 jets, while contracts for MEKO frigate modernisation, V-BAT drones and Victa submarines are being finalised.</content>
-  </entry>
-  <entry>
-    <title>O διπλός πήχυς για τη Νέα Δημοκρατία</title>
-    <link href="https://www.kathimerini.gr/politics/government/564401152/o-diplos-pichys-gia-ti-nea-dimokratia/"/>
-    <id>urn:kathimerini:a71ecca82765</id>
-    <updated>2026-08-14T14:02:35+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Το Μέγαρο Μαξίμου έχει θέσει δύο «πήχεις» ενόψει των επόμενων εκλογών: ιδανικά ποσοστό άνω του 30% για τη Ν.Δ., που ακόμη κι αν δεν φέρνει αυτοδυναμία θα επιβεβαιώνει την κυριαρχία του Κυριάκου Μητσοτάκη και θα λειτουργεί ως βατήρας για δεύτερες εκλογές. Παράλληλα, τα μέτρα της ΔΕΘ είναι σχεδόν «κλειδωμένα» και η τακτική απέναντι σε ΕΛΑΣ και ΠΑΣΟΚ έχει αποκρυσταλλωθεί. Επισήμως η κυβέρνηση επιμένει ότι η αυτοδυναμία είναι μονόδρομος, ως εργαλείο μέγιστης συσπείρωσης της βάσης του 2023.</summary>
-    <content xml:lang="en" type="text">Maximos Mansion has set two internal benchmarks ahead of the next election: ideally a New Democracy score above 30%, which even without an outright majority would confirm Kyriakos Mitsotakis's dominance and serve as a springboard for a second round of voting. The Thessaloniki Fair (TIF) package is described as nearly locked, and the line against the Hellenic Left Coalition (ELAS) and PASOK has been settled. Publicly the government insists a single-party majority is the only option — a tactic aimed at maximum consolidation of its 2023 base.</content>
-  </entry>
-  <entry>
-    <title>Βρετανία: «Πυριτιδαποθήκη» η χώρα λόγω καύσωνα και ξηρασίας – Νέα μέτρα από τον Μπέρναμ</title>
-    <link href="https://www.kathimerini.gr/world/564404104/vretania-pyritidapothiki-i-chora-logo-kaysona-kai-xirasias-nea-metra-apo-ton-mpernam/"/>
-    <id>urn:kathimerini:65f8195ac362</id>
-    <updated>2026-08-14T22:44:59+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Με φόντο τη μεγάλη πυρκαγιά στο Στάουρμπριτζ κοντά στο Μπέρμιγχαμ και την ιστορική ξηρασία που πλήττει την Αγγλία, ο Βρετανός πρωθυπουργός Άντι Μπέρναμ δήλωσε ότι η χώρα πρέπει να αντιμετωπίσει την κλιματική αλλαγή και να στραφεί σε καθαρότερες μορφές ενέργειας. «Δεν είχα δει ποτέ κάτι τέτοιο στη Βρετανία», είπε μετά την επίσκεψή του στην περιοχή, όπου τραυματίστηκαν τρεις πυροσβέστες. Συνολικά 19 σπίτια καταστράφηκαν ολοσχερώς και 18 υπέστησαν ζημιές, ενώ 54 άνθρωποι έλαβαν πρώτες βοήθειες για εισπνοή καπνού· ανακοινώθηκε και η προμήθεια πυροσβεστικών αεροσκαφών Canadair.</summary>
-    <content xml:lang="en" type="text">With a major fire at Stourbridge near Birmingham and a historic drought gripping England as the backdrop, British Prime Minister Andy Burnham said the country must confront climate change and shift to cleaner energy. "I have never seen anything like this in Britain, where we see a destroyed house still smouldering," he said after visiting the area, where three firefighters were injured. Nineteen homes were completely destroyed and 18 damaged, and 54 people were treated for smoke inhalation; the government also announced the purchase of Canadair firefighting aircraft.</content>
-  </entry>
-  <entry>
-    <title>Παναγιά της Τήνου: Το μεγάλο προσκύνημα του Δεκαπενταύγουστου</title>
-    <link href="https://www.kathimerini.gr/society/564404296/panagia-tis-tinoy-to-megalo-proskynima-toy-dekapentaygoystoy/"/>
-    <id>urn:kathimerini:7c6c12616810</id>
-    <updated>2026-08-15T09:01:37+00:00</updated>
+    <title>Πυρκαγιά στη Σκύρο: Ενισχύσεις από Αττική, Εύβοια και Θεσσαλία – Μάχη με τις φλόγες στο μέτωπο προς το Πεύκο</title>
+    <link href="https://www.kathimerini.gr/society/564404776/pyrkagia-sti-skyro-enischyseis-apo-attiki-eyvoia-kai-thessalia-machi-me-tis-floges-sto-metopo-pros-to-peyko/"/>
+    <id>urn:kathimerini:28bc46b54a60</id>
+    <updated>2026-08-16T07:14:44+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Η Τήνος υποδέχθηκε χιλιάδες προσκυνητές για τον Δεκαπενταύγουστο, τη μεγαλύτερη μέρα του νησιού, που ο δήμαρχος Παναγιώτης Κροντηράς περιγράφει ως το «Πάσχα του καλοκαιριού». Ο πληθυσμός του νησιού τετραπλασιάζεται τις ημέρες γύρω από τη γιορτή της Μεγαλόχαρης και οι αντοχές των υποδομών δοκιμάζονται — «ήδη βρισκόμαστε στα όριά μας», σημειώνει. Το προσκύνημα ανάγεται στα χρόνια της Επανάστασης, όταν η μοναχή Πελαγία στο Κεχροβούνι είδε σε όραμα την Παναγία να υποδεικνύει το σημείο όπου βρισκόταν θαμμένη η εικόνα της, με τις ανασκαφές να ξεκινούν το 1822.</summary>
-    <content xml:lang="en" type="text">Tinos welcomed thousands of pilgrims for August 15, the island's biggest day, which Mayor Panagiotis Krontiras calls the "Easter of summer". The island's population quadruples around the feast of the Megalochari and its infrastructure is stretched — "we are already at our limits," he says. The pilgrimage dates to the Greek War of Independence, when the nun Pelagia at Kechrovouni monastery repeatedly saw the Virgin in a vision pointing to where her icon lay buried; excavations began in 1822.</content>
+    <summary xml:lang="el">Επίγειες δυνάμεις δίνουν μάχη με την πυρκαγιά στη Σκύρο, ενισχυμένες μετά τη 01.00 με πυροσβέστες και οχήματα από Αττική, Εύβοια και Θεσσαλία που έφτασαν ακτοπλοϊκώς από την Κύμη. Συνολικά επιχειρούν 89 πυροσβέστες με έξι ομάδες πεζοπόρων τμημάτων, εθελοντές και 21 οχήματα, με τη συνδρομή υδροφόρων και μηχανημάτων του δήμου.</summary>
+    <content xml:lang="en" type="text">Ground crews battled the wildfire on Skyros overnight, reinforced after 1am by firefighters and vehicles ferried in from Attica, Evia and Thessaly via Kymi. A total of 89 firefighters, six specialist forest units, volunteers and 21 vehicles are deployed, backed by water tankers and municipal machinery, with the fire pushing toward the Pefko front.</content>
   </entry>
   <entry>
-    <title>Δεκαπενταύγουστος: Σε ετοιμότητα και σήμερα για πυρκαγιές – Απαγορευτικό απόπλου από Ραφήνα και Λαύριο</title>
-    <link href="https://www.kathimerini.gr/society/564404275/dekapentaygoystos-se-etoimotita-kai-simera-gia-pyrkagies-apagoreytiko-apoploy-apo-rafina-kai-layrio/"/>
-    <id>urn:kathimerini:0a4bab7494f2</id>
-    <updated>2026-08-15T07:29:46+00:00</updated>
+    <title>Ινδονησία: Τουλάχιστον 47 νεκροί από τον σεισμό των 7,7 Ρίχτερ</title>
+    <link href="https://www.kathimerini.gr/world/564404671/indonisia-toylachiston-47-nekroi-apo-ton-seismo-ton-7-7-richter/"/>
+    <id>urn:kathimerini:46b8661b6b0b</id>
+    <updated>2026-08-15T19:27:41+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Τουλάχιστον 47 άνθρωποι σκοτώθηκαν στην ανατολική Ινδονησία από σεισμό 7,7 βαθμών βόρεια του νησιού Φλόρες, περίπου 1.600 χλμ. ανατολικά της Τζακάρτας. Πολλά κτίρια κατέρρευσαν και αρκετοί ακόμη τραυματίστηκαν. Σύμφωνα με αξιωματούχο της ινδονησιακής υπηρεσίας μετεωρολογίας και γεωφυσικής, ήταν από τους ισχυρότερους σεισμούς που έπληξαν την περιοχή τα τελευταία 30 και πλέον χρόνια.</summary>
+    <content xml:lang="en" type="text">At least 47 people were killed in eastern Indonesia by a magnitude 7.7 earthquake north of Flores island, some 1,600km east of Jakarta. Several buildings collapsed and many more were injured. An official at Indonesia's meteorology and geophysics agency said it was among the strongest quakes to strike the region in over 30 years, comparable to a 7.5 event in 1992 that caused massive destruction.</content>
+  </entry>
+  <entry>
+    <title>Αύξηση 40% στον μισθό των νέων σε μια 4ετία</title>
+    <link href="https://www.kathimerini.gr/economy/564402400/ayxisi-40-ston-mistho-ton-neon-se-mia-4etia/"/>
+    <id>urn:kathimerini:963a02e7f1f9</id>
+    <updated>2026-08-16T11:27:55+00:00</updated>
+    <author><name>Θάνος Τσίρος</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Ο πραγματικός μέσος μισθός των εργαζομένων κάτω των 30 αυξήθηκε πάνω από 40% την τελευταία τετραετία, περιορίζοντας το ηλικιακό μισθολογικό χάσμα — παραμένει όμως κάτω από 1.000 ευρώ μεικτά. Η σύγκλιση οφείλεται στις αυξήσεις του κατώτατου μισθού αλλά και στη στασιμότητα των αποδοχών για τους άνω των 40. Ο μέσος μισθός ανέβηκε από 971 σε 1.208 ευρώ μεικτά (2021-2025), με τους 40άρηδες και 50άρηδες να χάνουν πραγματικό εισόδημα λόγω πληθωρισμού.</summary>
+    <content xml:lang="en" type="text">Real average pay for under-30s rose more than 40% over four years, narrowing the age wage gap — though it remains below €1,000 gross (€828 net). The convergence stems both from minimum wage increases and from stagnant pay for over-40s, whose net earnings grew slower than inflation, meaning a real loss of disposable income. e-EFKA data show the overall average monthly wage climbing from €971 to €1,208 gross between December 2021 and December 2025, with employment up by 345,573 people.</content>
+  </entry>
+  <entry>
+    <title>ΕΟΔΥ για ιό Δυτικού Νείλου: Από τις πιο δύσκολες η φετινή περίοδος – Πότε αναμένεται κορύφωση της έξαρσης</title>
+    <link href="https://www.kathimerini.gr/society/564404827/eody-gia-io-dytikoy-neiloy-apo-tis-pio-dyskoles-i-fetini-periodos-pote-anamenetai-koryfosi-tis-exarsis/"/>
+    <id>urn:kathimerini:841dff282692</id>
+    <updated>2026-08-16T08:41:15+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary xml:lang="el">Ανήμερα του Δεκαπενταύγουστου η χώρα παρέμεινε σε κατάσταση κινητοποίησης για πολύ υψηλό κίνδυνο πυρκαγιάς (κατηγορία 4), σύμφωνα με τον ημερήσιο χάρτη πρόβλεψης της Γενικής Γραμματείας Πολιτικής Προστασίας. Παράλληλα ίσχυσε απαγορευτικό απόπλου έως τις 13:00 σε Ραφήνα και Λαύριο λόγω ισχυρών βόρειων ανέμων που τοπικά στο Αιγαίο έφταναν τα 9 μποφόρ, ενώ στον Πειραιά συνεχίζονταν ακυρώσεις και τροποποιήσεις. Απευθύνθηκε ισχυρή σύσταση αποφυγής κάθε υπαίθριας δραστηριότητας που μπορεί να προκαλέσει φωτιά από αμέλεια.</summary>
-    <content xml:lang="en" type="text">Greece remained on high alert on August 15 for a category 4 (very high) wildfire risk, according to the daily forecast map of the General Secretariat for Civil Protection. A sailing ban was in force until 1pm at Rafina and Lavrio due to strong northerly winds reaching 9 Beaufort locally in the Aegean, while cancellations and schedule changes continued at Piraeus. Authorities issued a strong advisory against any outdoor activity that could spark a fire through negligence — burning brush, spark-producing tools, outdoor grills or discarded cigarettes.</content>
+    <summary xml:lang="el">Ο ΕΟΔΥ εκτιμά ότι η φετινή περίοδος μετάδοσης του ιού του Δυτικού Νείλου ενδέχεται να εξελιχθεί σε μία από τις δυσκολότερες των τελευταίων ετών, με έντονη κυκλοφορία ιδίως στην Αττική και ταχεία αύξηση κρουσμάτων από τα πρώτα στάδια. Διευκρινίζει ότι δεν υπάρχουν επιστημονικές ενδείξεις μεταβολής της συμπεριφοράς ή της μεταδοτικότητας του ιού· η εικόνα αποδίδεται σε συνδυασμό παραγόντων, κυρίως στις αυξημένες θερμοκρασίες που ευνοούν τους πληθυσμούς κουνουπιών.</summary>
+    <content xml:lang="en" type="text">Greece's public health agency EODY warns this could be one of the toughest West Nile virus transmission seasons in years, with intense circulation in Attica and cases rising fast from the start of the period. It stresses there is no scientific evidence the virus has changed behaviour or become more transmissible, attributing the surge instead to a combination of factors — chiefly higher temperatures boosting mosquito populations.</content>
+  </entry>
+  <entry>
+    <title>Αφορολόγητα ενοίκια για 36 μήνες: «Κούρσα» 100 ημερών για τους ιδιοκτήτες</title>
+    <link href="https://www.kathimerini.gr/economy/local/564404818/aforologita-enoikia-gia-36-mines-koyrsa-100-imeron-gia-toys-idioktites/"/>
+    <id>urn:kathimerini:b3db2f7ac3ab</id>
+    <updated>2026-08-16T08:24:18+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Το φορολογικό «παράθυρο» για τριετή απαλλαγή από φόρο ενοικίων κλείνει στις 31 Δεκεμβρίου, αφήνοντας στους ιδιοκτήτες περίπου 100 ημέρες. Το κίνητρο αφορά κατοικίες που διατίθενται για πρώτη φορά μετά από χρόνια σε μακροχρόνια μίσθωση, με όφελος που φτάνει το 45%. Παραμένει ασαφές αν θα δοθεί παράταση μετά το 2026, με τις αποφάσεις να αναμένονται μαζί με τον Προϋπολογισμό του 2027.</summary>
+    <content xml:lang="en" type="text">Property owners have roughly 100 days left to lock in a three-year exemption from rental income tax, as the window closes on 31 December. The incentive covers homes let long-term for the first time in years — including former short-term Airbnb-style rentals — with benefits of up to 45%. Whether the scheme is extended beyond 2026 will likely be decided only with the 2027 budget, leaving owners in limbo.</content>
+  </entry>
+  <entry>
+    <title>Πλημμύρες στη Μάνη: «Πρωτόγνωρη κατάσταση για την περιοχή μας, ζημιές σε σπίτια και οδικό δίκτυο»</title>
+    <link href="https://www.kathimerini.gr/society/564404758/mani-protognori-katastasi-gia-tin-periochi-mas-zimies-se-spitia-kai-odiko-diktyo/"/>
+    <id>urn:kathimerini:78b76ea53601</id>
+    <updated>2026-08-15T22:46:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">«Πρωτόγνωρη» χαρακτηρίζουν οι τοπικές αρχές την κατάσταση στην ανατολική Μάνη μετά από καταρρακτώδη βροχή που προκάλεσε πλημμύρες. Επλήγησαν οι κοινότητες Νύμφη, Έξω Νύμφιο, Κοκάλα και Λάγια, με ζημιές σε σπίτια, στο οδόστρωμα και σε γέφυρες, ενώ αυτοκίνητα παρασύρθηκαν στη θάλασσα. Προβλήματα σημειώθηκαν επίσης σε Οίτυλο, Καραβοστάσι και Αλύπα· δεν κινδύνευσαν άνθρωποι.</summary>
+    <content xml:lang="en" type="text">Local officials called the flooding in eastern Mani unprecedented after torrential rain swept cars into the sea and damaged homes, road surfaces and bridges. The communities of Nymfi, Exo Nymfio, Kokala and Lagia were worst hit, with further problems in Oitylo, Karavostasi and Alypa. No lives were endangered, deputy mayor Giorgos Exarchakos said.</content>
+  </entry>
+  <entry>
+    <title>Ιαπωνία: Εννέα νεκροί από τις καταρρακτώδεις βροχές στο Τόκιο</title>
+    <link href="https://www.kathimerini.gr/world/564404839/iaponia-ennea-nekroi-apo-tis-katarraktodeis-vroches-sto-tokio/"/>
+    <id>urn:kathimerini:e8e94e1f112b</id>
+    <updated>2026-08-16T09:47:55+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Τουλάχιστον εννέα άνθρωποι έχασαν τη ζωή τους από καταρρακτώδεις βροχές κοντά στο Τόκιο, με πάνω από 1.000 κατοικίες να πλημμυρίζουν και τεράστια προβλήματα στις μεταφορές. Θύματα βρέθηκαν παγιδευμένα σε βυθισμένα αυτοκίνητα και πνιγμένα σε δρόμους του νομού Τσιμπά. Μετεωρολογικός σταθμός κατέγραψε πάνω από 30 εκατοστά βροχής σε 24 ώρες, με τον Αύγουστο να αναδεικνύεται ο πιο υγρός μήνας των τελευταίων 60 ετών στην περιοχή.</summary>
+    <content xml:lang="en" type="text">At least nine people died in torrential rain near Tokyo, with more than 1,000 homes flooded and severe transport disruption. Victims were found trapped in submerged cars and drowned in streets in neighbouring Chiba prefecture. One weather station recorded over 30cm of rain in 24 hours, making this August the wettest month there in 60 years; officials had warned of "unprecedented" rainfall levels.</content>
+  </entry>
+  <entry>
+    <title>Βέλγιο: Στάχτη 30.000 στρέμματα από μεγάλη δασική πυρκαγιά</title>
+    <link href="https://www.kathimerini.gr/world/564404956/velgio-stachti-30-000-stremmata-apo-megali-dasiki-pyrkagia/"/>
+    <id>urn:kathimerini:00661359f175</id>
+    <updated>2026-08-16T13:54:09+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Η μεγαλύτερη δασική πυρκαγιά στην ιστορία του Βελγίου έχει κάψει 30.000 στρέμματα στο ορεινό φυσικό πάρκο της Φαν από το μεσημέρι της Παρασκευής. Πυροσβεστικές δυνάμεις από όλο το Βέλγιο, τη Γερμανία και το Λουξεμβούργο, με τη συνδρομή στρατού και αγροτών, εστιάζουν στο μέτωπο που κινείται προς τη Γερμανία. Η ΕΕ ανέπτυξε τρία ελικόπτερα και δύο πυροσβεστικά αεροσκάφη από Τσεχία, Σουηδία και Ολλανδία.</summary>
+    <content xml:lang="en" type="text">Belgium's largest recorded forest fire has burned 3,000 hectares of the upland Fagnes nature park since Friday midday. Firefighters from across Belgium, Germany and Luxembourg, backed by the army and farmers, are concentrating on the front advancing toward Germany, hoping cooler temperatures and rising humidity will help. The EU has deployed three helicopters and two water-bombers from the Czech Republic, Sweden and the Netherlands.</content>
+  </entry>
+  <entry>
+    <title>Σεισμός στην Κολομβία: Η 32χρονη Ντανιέλα, που άντεξε 37 ώρες στα συντρίμμια, υπέκυψε τελικά στο νοσοκομείο</title>
+    <link href="https://www.kathimerini.gr/world/564404794/seismos-stin-kolomvia-i-32chroni-ntaniela-poy-antexe-37-ores-sta-syntrimmia-ypekypse-telika-sto-nosokomeio/"/>
+    <id>urn:kathimerini:3c48514d7844</id>
+    <updated>2026-08-16T08:03:46+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Η 32χρονη Ντανιέλα Λάργκο, που ανασύρθηκε ζωντανή μετά από σχεδόν 37 ώρες στα συντρίμμια στην Περέιρα και είχε γίνει σύμβολο ελπίδας, υπέκυψε τελικά στο νοσοκομείο. Ο σεισμός των 7,4 βαθμών στη δυτική Κολομβία — ο ισχυρότερος του αιώνα στη χώρα — στοίχισε τη ζωή σε τουλάχιστον 294 ανθρώπους και τραυμάτισε σχεδόν 4.000, ενώ αναζητούνται ακόμη τουλάχιστον 320 αγνοούμενοι.</summary>
+    <content xml:lang="en" type="text">Daniela Largo, 32, pulled alive from the rubble in Pereira after nearly 37 hours and hailed as a symbol of hope, has died in hospital, her family told AFP. The magnitude 7.4 quake in western Colombia — the country's strongest this century — has killed at least 294 people and injured almost 4,000, with at least 320 still missing. Pereira and Cali were hit hardest; she leaves a 12-year-old son.</content>
+  </entry>
+  <entry>
+    <title>Ιός του Δυτικού Νείλου: Τα ατομικά μέτρα προστασίας που συστήνει ο Ιατρικός Σύλλογος Αθηνών</title>
+    <link href="https://www.kathimerini.gr/society/564404896/ios-toy-dytikoy-neiloy-ta-atomika-metra-prostasias-poy-systinei-o-iatrikos-syllogos-athinon/"/>
+    <id>urn:kathimerini:bf7d9eca5a25</id>
+    <updated>2026-08-16T11:57:58+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Ο Ιατρικός Σύλλογος Αθηνών εκφράζει έντονη ανησυχία για την αυξημένη κυκλοφορία του ιού του Δυτικού Νείλου στην Αττική και ζητά άμεση ενίσχυση των μέτρων κουνουποκτονίας. Θέτει ερωτήματα για την επάρκεια και τον έγκαιρο σχεδιασμό των προγραμμάτων, τονίζοντας ότι οι ψεκασμοί πρέπει να ξεκινούν από τις αρχές του έτους με συστηματική προνυμφοκτονία και όχι αποσπασματικά μετά την εμφάνιση κρουσμάτων.</summary>
+    <content xml:lang="en" type="text">The Athens Medical Association voiced serious concern over heightened West Nile virus circulation in Attica and called for immediate strengthening of mosquito control. It questioned whether spraying programmes were adequate or timely, arguing that larvicide work must begin early in the year at breeding sites rather than in piecemeal fashion once human cases appear.</content>
+  </entry>
+  <entry>
+    <title>Ρουμανία: Καταρρίφθηκε drone που παραβίασε τον εναέριο χώρο</title>
+    <link href="https://www.kathimerini.gr/world/564404812/roymania-katarrifthike-drone-poy-paraviase-ton-enaerio-choro-2/"/>
+    <id>urn:kathimerini:eb2fb087b7be</id>
+    <updated>2026-08-16T08:27:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ισπανικό μαχητικό F-18 σε αποστολή αεροπορικής αστυνόμευσης του ΝΑΤΟ κατέρριψε drone που παραβίασε τον ρουμανικό εναέριο χώρο — το τέταρτο φέτος. Τα ραντάρ το εντόπισαν να εισέρχεται από τη Μολδαβία, περίπου 24 χλμ. βόρεια της Γαλάτσι. Η Ρουμανία, μέλος του ΝΑΤΟ με 614 χλμ. σύνορα με την Ουκρανία, έχει δει επανειλημμένα ρωσικά drones στον εναέριο χώρο της.</summary>
+    <content xml:lang="en" type="text">A Spanish F-18 on NATO air policing duty shot down a drone that violated Romanian airspace — the fourth downed over the country this year. Radar tracked it entering from neighbouring Moldova about 24km north of Galati. Romania, which shares a 614km border with Ukraine, has repeatedly seen Russian drones cross its airspace and mines drift into Black Sea trade and energy routes.</content>
+  </entry>
+  <entry>
+    <title>Η λαϊκιστική «αποτελεσματικότητα»</title>
+    <link href="https://www.kathimerini.gr/opinion/564402223/i-laikistiki-apotelesmatikotita/"/>
+    <id>urn:kathimerini:95fd2f4ec5e9</id>
+    <updated>2026-08-15T20:09:00+00:00</updated>
+    <author><name>Πάσχος Μανδραβέλης</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Ο Πάσχος Μανδραβέλης καταγγέλλει ότι η πιο απογοητευτική εικόνα των φετινών πυρκαγιών δεν είναι τα καμένα δάση αλλά τα μηχανήματα βαρέος έργου που μεταφέρονται για να ανοίξουν αντιπυρικές ζώνες μετά την πυρκαγιά. Διερωτάται γιατί το κράτος δεν τις άνοιξε εγκαίρως, ενώ οι πολίτες υποχρεώνονται να δηλώνουν στο akatharista.gov.gr, και πού βρίσκονται οι ζώνες που διαφημίζονται με χρήματα του Ταμείου Ανάκαμψης μέσω του προγράμματος AntiNero.</summary>
+    <content xml:lang="en" type="text">Paschos Mandravelis argues the most dispiriting image of this fire season is not the burnt forest but the heavy machinery arriving to cut firebreaks after the fire. He asks why the state failed to open them in time while citizens are legally required to clear their plots and declare it online, and where exactly the firebreaks funded by the Recovery Fund and advertised daily under the AntiNero programme actually are.</content>
+  </entry>
+  <entry>
+    <title>Η Ντόχα διαψεύδει ότι κρατά αιχμαλώτους τρεις Ιρανούς πιλότους</title>
+    <link href="https://www.kathimerini.gr/world/564404749/i-ntocha-diapseydei-oti-krata-aichmalotoys-treis-iranoys-pilotoys/"/>
+    <id>urn:kathimerini:a3e6a1e73f09</id>
+    <updated>2026-08-15T23:03:10+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Το Κατάρ διέψευσε κατηγορηματικά ότι κρατά αιχμαλώτους τρεις Ιρανούς πιλότους, λίγες ώρες μετά τη σχετική ανακοίνωση της Τεχεράνης. Ο εκπρόσωπος του ΥΠΕΞ Μαζέντ Αλ Ανσάρι χαρακτήρισε τις δηλώσεις «παραπλανητικές», σημειώνοντας ότι συνεχίζονται διπλωματικές προσπάθειες αποκλιμάκωσης. Ανέφερε ότι οι πιλότοι παραβίασαν τον εναέριο χώρο και ότι εντοπίστηκε αργότερα η σορός ενός εξ αυτών.</summary>
+    <content xml:lang="en" type="text">Qatar flatly denied holding three Iranian pilots captive, hours after Tehran claimed they were seized during a March attack on a US base on Qatari soil. Foreign ministry spokesman Majed Al Ansari called the claims misleading and said they came while de-escalation diplomacy continues, noting the pilots violated Qatari airspace, attempts to contact them failed, and search teams later recovered one pilot's body.</content>
+  </entry>
+  <entry>
+    <title>Πού πρέπει να μπει το φρένο</title>
+    <link href="https://www.kathimerini.gr/opinion/564402205/poy-prepei-na-mpei-to-freno/"/>
+    <id>urn:kathimerini:fa1e23da2089</id>
+    <updated>2026-08-15T20:03:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Άρθρο για την αντίδραση των τοπικών κοινωνιών στις Κυκλάδες απέναντι στην τουριστική υπερανάπτυξη. Η Κίνηση Πολιτών Πάρου, με ψήφισμα «Όχι άλλες κλίνες στην Πάρο» και τη στήριξη τεσσάρων τοπικών φορέων, υποστηρίζει ότι η περαιτέρω τουριστικοποίηση δεν έχει πια τίποτα θετικό να προσφέρει και απειλεί ακόμη και τις μικρομεσαίες επιχειρήσεις που ανθούν. Παρόμοια αιτήματα εκδηλώνονται σε πολλά νησιά: δεν ζητούν πλέον μόνο υποδομές, αλλά «πάγωμα» επενδύσεων.</summary>
+    <content xml:lang="en" type="text">A report on Cycladic communities pushing back against tourist overdevelopment. The Paros Citizens' Movement, backed by four local bodies, is circulating a petition titled "No more beds on Paros", arguing further touristification now threatens even the small and medium businesses currently thriving on the island. Similar demands are surfacing across the Cyclades — and they no longer ask merely for better water and waste infrastructure, but for investment to be frozen.</content>
   </entry>
   <entry>
     <title>Δένδιας: Αυταρχικές απόψεις προσπαθούν να αλλάξουν το κεκτημένο του Διεθνούς Δικαίου</title>
@@ -132,77 +192,17 @@
     <updated>2026-08-15T13:23:09+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Από την Παναγία Εκατονταπυλιανή της Πάρου, όπου παρέστη στο Πανηγυρικό Αρχιερατικό Συλλείτουργο για την Κοίμηση της Θεοτόκου, προστάτιδας των Ενόπλων Δυνάμεων, ο υπουργός Εθνικής Αμυνας Νίκος Δένδιας άφησε σαφείς αιχμές για την Τουρκία. Μίλησε για «δυστοπικούς καιρούς», στους οποίους «αυταρχικές απόψεις» επιχειρούν να ανατρέψουν το κεκτημένο του Διεθνούς Δικαίου και ειδικότερα του Δικαίου της Θάλασσας. Στις εορταστικές εκδηλώσεις συμμετείχε και η νέα φρεγάτα «Κίμων».</summary>
-    <content xml:lang="en" type="text">Speaking at the Panagia Ekatontapyliani church on Paros, where he attended the Dormition liturgy honouring the patron saint of the Greek armed forces, Defence Minister Nikos Dendias delivered a pointed message aimed at Turkey. He spoke of "dystopian times" in which "authoritarian views" are attempting to overturn the acquis of international law, and of the law of the sea in particular. The newly delivered frigate Kimon took part in the festivities.</content>
+    <summary xml:lang="el">Ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας, από την Παναγία Εκατονταπυλιανή της Πάρου, άφησε αιχμές για την Τουρκία, κάνοντας λόγο για «αυταρχικές απόψεις» που επιχειρούν να αλλάξουν το κεκτημένο του Διεθνούς Δικαίου. Τόνισε τον ρόλο των Ενόπλων Δυνάμεων στη διαφύλαξη κυριαρχίας και κυριαρχικών δικαιωμάτων. Στις εκδηλώσεις συμμετείχε και η φρεγάτα «Κίμων».</summary>
+    <content xml:lang="en" type="text">Defence Minister Nikos Dendias used the August 15 liturgy at Paros's Ekatontapyliani church to take aim at Turkey, warning that "authoritarian views" are trying to overturn the acquis of international law. He stressed the armed forces' role in guaranteeing independence and sovereign rights. The new frigate Kimon took part in the celebrations.</content>
   </entry>
   <entry>
-    <title>Οι αγρότες θερίζουν και το βράδυ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564399550/oi-agrotes-therizoyn-kai-to-vrady/"/>
-    <id>urn:kathimerini:a3379035b47b</id>
-    <updated>2026-08-14T11:15:14+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ο καύσωνας αλλάζει τον ρυθμό της ευρωπαϊκής γεωργίας: από το Μπέρκσαϊρ της Αγγλίας έως την Ισπανία, τη Γαλλία και την Ιταλία, οι αγρότες μεταφέρουν συγκομιδή, άρδευση και σίτιση ζώων στις νυχτερινές ή πολύ πρωινές ώρες, δουλεύοντας υπό προβολείς. Η 24χρονη Ελέανορ Γκίλμπερτ θερίζει ελαιοκράμβη στις δύο τα ξημερώματα για να αξιοποιήσει την υγρασία της δροσιάς και κοιμάται δύο-τρεις ώρες. Πέρα από το ωράριο, ανατρέπονται ημερολόγια σποράς και συγκομιδής και απαιτούνται επενδύσεις σε ψύξη, σκίαση και νερό — ενώ κατά FAO και WMO οι αγρότες διατρέχουν 35 φορές μεγαλύτερο κίνδυνο θανάτου από επαγγελματική έκθεση στη ζέστη.</summary>
-    <content xml:lang="en" type="text">Heatwaves are rewriting the working day of European farming: from Berkshire in England to Spain, France and Italy, growers are shifting harvesting, irrigation and animal feeding into the night or pre-dawn hours, working under floodlights. Eleanor Gilbert, 24, cuts oilseed rape at 2am to catch the dew's residual moisture and sleeps two or three hours. Beyond hours, decades-old sowing and harvest calendars are being upended, forcing investment in fans, misting systems, shade netting, water tanks and barn cooling — and, per the FAO and WMO, agricultural workers face a 35-times higher risk of death from occupational heat exposure.</content>
-  </entry>
-  <entry>
-    <title>Κολομβία: Μάχη με τον χρόνο για τον απεγκλωβισμό άνδρα στα ερείπια ξενοδοχείου</title>
-    <link href="https://www.kathimerini.gr/world/564404062/kolomvia-machi-me-ton-chrono-gia-ton-apegklovismo-epizonta-sta-ereipia-xenodocheioy/"/>
-    <id>urn:kathimerini:c29e87e68dd9</id>
-    <updated>2026-08-14T22:20:00+00:00</updated>
+    <title>Η Τεχεράνη κατηγορεί το Κατάρ ότι καθυστερεί την έρευνα για την τύχη Ιρανών πιλότων</title>
+    <link href="https://www.kathimerini.gr/world/564404935/i-techerani-katigorei-to-katar-oti-kathysterei-tin-ereyna-gia-tin-tychi-iranon-piloton/"/>
+    <id>urn:kathimerini:e1e64301fa97</id>
+    <updated>2026-08-16T13:37:47+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Σωστικά συνεργεία δίνουν μάχη με τον χρόνο για να απεγκλωβίσουν έναν άνδρα που εντοπίστηκε ζωντανός στα ερείπια ξενοδοχείου στην πόλη Περέιρα της Κολομβίας, τέσσερις ημέρες μετά τον ισχυρότερο σεισμό των τελευταίων ετών στη χώρα. «Πιστεύουμε ότι υπάρχουν ακόμη άνθρωποι ζωντανοί», δήλωσε διασώστης, αν και μετά τις 72 ώρες οι πιθανότητες μειώνονται δραματικά. Ο σεισμός των 7,4 βαθμών ισοπέδωσε δεκάδες κτίρια στο δυτικό τμήμα της χώρας, με τουλάχιστον 285 νεκρούς και σχεδόν 4.000 τραυματίες, ενώ ο πρόεδρος Αμπελάρδο ντε λα Εσπριέγια δέχεται επικρίσεις για την κρατική αντίδραση.</summary>
-    <content xml:lang="en" type="text">Rescue crews are racing against time to free a man found alive in the rubble of a collapsed hotel in Pereira, Colombia, four days after the country's strongest earthquake in years. "We believe there are still people alive," rescuer John Bedoya told Caracol television, though experts note survival odds fall sharply past 72 hours. The magnitude 7.4 quake flattened dozens of buildings in western Colombia, killing at least 285 people and injuring nearly 4,000. Amid criticism of the state response, President Abelardo de la Espriella has scheduled visits to affected cities including Pereira, Cali and Quibdó.</content>
-  </entry>
-  <entry>
-    <title>Φωτιά στη Σίβηρη: Στα 2.480 στρέμματα η καμένη έκταση</title>
-    <link href="https://www.kathimerini.gr/society/564404419/fotia-sti-siviri-sta-2-480-stremmata-i-kameni-ektasi/"/>
-    <id>urn:kathimerini:ab4b319e8f7a</id>
-    <updated>2026-08-15T13:34:27+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Στα 2.480 στρέμματα (248 εκτάρια) ανέρχεται η καμένη έκταση από την πυρκαγιά που ξέσπασε την Πέμπτη 13 Αυγούστου στη Σίβηρη Κασσάνδρας Χαλκιδικής, σύμφωνα με δορυφορική καταγραφή του ευρωπαϊκού συστήματος Copernicus. Η φωτιά είναι οριοθετημένη και χωρίς ενεργό μέτωπο από το μεσημέρι της Παρασκευής, ωστόσο παραμένουν στο σημείο 110 πυροσβέστες με 50 οχήματα. Το Copernicus ενεργοποιήθηκε από τη Γενική Γραμματεία Πολιτικής Προστασίας λίγες ώρες μετά την έναρξη της πυρκαγιάς για τη χαρτογράφηση των συνεπειών.</summary>
-    <content xml:lang="en" type="text">The wildfire that broke out on Thursday 13 August at Siviri in Kassandra, Halkidiki, burned 2,480 stremmata (248 hectares), according to satellite mapping from the EU's Copernicus service. The fire has been contained with no active front since Friday midday, but 110 firefighters and 50 vehicles remain deployed. Copernicus was activated by Greece's General Secretariat for Civil Protection within hours of the outbreak to produce damage-assessment mapping.</content>
-  </entry>
-  <entry>
-    <title>Χούθι: Επίθεση με drone στις εγκαταστάσεις της Aramco</title>
-    <link href="https://www.kathimerini.gr/world/564404026/choythi-epithesi-me-drone-stis-egkatastaseis-tis-aramco/"/>
-    <id>urn:kathimerini:243909298154</id>
-    <updated>2026-08-14T21:45:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Οι αντάρτες Χούθι της Υεμένης ανακοίνωσαν ότι εξαπέλυσαν επίθεση με drone εναντίον εγκαταστάσεων του πετρελαϊκού κολοσσού Aramco στην πόλη Νατζράν, στο νοτιοδυτικό τμήμα της Σαουδικής Αραβίας. Σύμφωνα με τους ίδιους, η επίθεση ήταν αντίποινα για παραβιάσεις του εναέριου χώρου της Υεμένης από σαουδαραβικά μαχητικά. Δεν υπάρχει μέχρι στιγμής επιβεβαίωση από τις σαουδαραβικές αρχές ή την Aramco, ούτε έχει διευκρινιστεί αν προκλήθηκαν ζημιές.</summary>
-    <content xml:lang="en" type="text">Yemen's Houthi rebels said they launched a drone attack on facilities of oil giant Aramco in the city of Najran, in southwestern Saudi Arabia. The Houthis described the strike as retaliation for violations of Yemeni airspace by Saudi fighter jets. There has been no confirmation from Saudi authorities or Aramco, and it remains unclear whether the Najran facilities sustained any damage.</content>
-  </entry>
-  <entry>
-    <title>Κλιματική κρίση και ενέργεια: Εκρηκτική άνοδος της Κίνας σε 20 χρόνια</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564401227/klimatiki-krisi-kai-energeia-ekriktiki-anodos-tis-kinas-se-20-chronia/"/>
-    <id>urn:kathimerini:18e1652b67e4</id>
-    <updated>2026-08-15T07:43:21+03:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Έρευνα-ανάλυση του καθ. Γιάννη Μανιάτη καταγράφει τη μετατόπιση της παγκόσμιας βιομηχανικής ισχύος προς την Ασία: το 2005 ΕΕ και ΗΠΑ κατείχαν αθροιστικά 46% της παγκόσμιας προστιθέμενης αξίας μεταποίησης και η Κίνα 9%· το 2025 η Κίνα έχει φτάσει το 27% έναντι 17% για καθεμία από ΗΠΑ και ΕΕ, με την Ιαπωνία να υποχωρεί από 13% σε 5%. Στην αυτοκινητοβιομηχανία, από τα 82,7 εκατ. οχήματα που παρήχθησαν το 2025 τα σχεδόν 22 εκατ. ήταν ηλεκτρικά, με το 75% αυτών να κατασκευάζεται στην Κίνα· η κινεζική παραγωγή έφτασε τα 16 εκατ. και ξεπέρασε την εγχώρια ζήτηση κατά 20%, διπλασιάζοντας τις εξαγωγές.</summary>
-    <content xml:lang="en" type="text">A research analysis by Prof. Yannis Maniatis charts the shift of global industrial power toward Asia: in 2005 the EU and US together held 46% of global manufacturing value added against China's 9%; by 2025 China has tripled its share to 27%, versus 17% each for the US and EU, with Japan falling from 13% to 5%. In autos, of 82.7 million vehicles produced in 2025 nearly 22 million were electric — up more than 25% on 2024 — with roughly 75% of the world's EVs built in China. Chinese EV output reached 16 million, exceeding domestic demand by 20% and doubling exports.</content>
-  </entry>
-  <entry>
-    <title>Οταν τουρίστες νοικιάζουν «μαύρα» σε τουρίστες</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564398488/otan-toyristes-noikiazoyn-mayra-se-toyristes/"/>
-    <id>urn:kathimerini:8d160262e215</id>
-    <updated>2026-08-15T08:00:07+00:00</updated>
-    <author><name>Νίνα Μαρία Πασχαλίδου</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Στα παράλια της Βόρειας Ελλάδας αναπτύσσεται ένα νέο μοντέλο «μαύρης» βραχυχρόνιας μίσθωσης: επισκέπτες από Βουλγαρία, Σερβία, Ρουμανία και Τουρκία που γνώρισαν την περιοχή ως τουρίστες επιστρέφουν ως αγοραστές ακινήτων και τα εκμεταλλεύονται εκτός φορολογικού ραντάρ. Οι κατοικίες ενοικιάζονται μέσω ιστοσελίδων ή προσωπικών δικτύων στις χώρες προέλευσης, με τους επισκέπτες να εμφανίζονται ως φίλοι ή συγγενείς των ιδιοκτητών. Παράγοντες του τουρισμού, όπως ο αντιδήμαρχος Τουρισμού Αλεξανδρούπολης Πέτρος Κυριακίδης, περιγράφουν στην «Κ» τη διάσταση του φαινομένου σε Πιερία, Καβάλα και Αλεξανδρούπολη.</summary>
-    <content xml:lang="en" type="text">A new form of undeclared short-term letting is spreading along northern Greece's coast: visitors from Bulgaria, Serbia, Romania and Turkey who first came as tourists are returning as property buyers and renting the homes out below the tax authorities' radar. The properties are advertised through websites or personal networks in the owners' home countries, with guests presented as friends or relatives. Tourism figures including Alexandroupoli deputy mayor for tourism Petros Kyriakidis describe to Kathimerini the scale of the phenomenon across Pieria, Kavala and Alexandroupoli.</content>
-  </entry>
-  <entry>
-    <title>Διάλογοι με την «Κ»: Το δίλημμα των επόμενων εκλογών</title>
-    <link href="https://www.kathimerini.gr/politics/564399121/dialogoi-me-tin-k-to-dilimma-ton-epomenon-eklogon/"/>
-    <id>urn:kathimerini:f4324eef488f</id>
-    <updated>2026-08-14T21:56:06+00:00</updated>
-    <author><name>Αγγελική Σπανού</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Στη στήλη «Διάλογοι με την Κ» τίθεται το ερώτημα πόσο προσωποκεντρικό θα είναι το δίλημμα των επόμενων εκλογών: σταθερότητα ή περιπέτεια κατά τη Ν.Δ., εντιμότητα ή διαφθορά κατά ΕΛΑΣ και ΠΑΣΟΚ, συνέχεια ή αλλαγή στην ουδέτερη εκδοχή. Ο σύμβουλος στρατηγικής Στέλιος Ζοντός εκτιμά ότι το δίλημμα θα είναι προσωποκεντρικό — «έτσι ψηφίζουν οι δημοκρατίες όταν κουραστούν» — επικαλούμενος τις πολωνικές εκλογές του 2023 και τη νίκη Τουσκ. Ο αναπληρωτής καθηγητής Μάνος Παπάζογλου αντιτείνει ότι θα μετρήσουν και τα προγράμματα, όχι μόνο οι ηγετικές προσωπικότητες.</summary>
-    <content xml:lang="en" type="text">Kathimerini's "Dialogues" column asks how personality-driven the next Greek election will be: stability versus adventure (New Democracy's framing), honesty versus corruption (that of ELAS and PASOK), or continuity versus change in its neutral form. Strategy consultant Stelios Zontos argues the dilemma will centre on leaders — "that is how democracies vote when they grow tired" — citing Poland's 2023 election and Donald Tusk's victory. Political scientist Manos Papazoglou counters that party programmes, not just leaders, will weigh on the result.</content>
+    <summary xml:lang="el">Το Ιράν κατηγόρησε το Κατάρ ότι καθυστερεί την πρόσβαση Ιρανών αξιωματούχων στο έδαφός του για να ερευνήσουν την τύχη πιλότων που, κατά την Τεχεράνη, αιχμαλωτίστηκαν στη διάρκεια του πολέμου στη Μέση Ανατολή. Η Ντόχα διαψεύδει. Η καταριανή αεροπορία είχε ανακοινώσει στις 2 Μαρτίου την κατάρριψη δύο Su-24 μετά από ιρανικά πυρά σε εγκαταστάσεις αερίου.</summary>
+    <content xml:lang="en" type="text">Iran accused Qatar of stalling access for Iranian officials investigating the fate of fighter pilots Tehran says were captured during the Middle East war — a claim Doha denies. Qatar's air force said on 2 March it downed two Su-24 bombers after Iranian strikes on its gas facilities; Iran recovered one pilot's body in late July and now wants the Red Cross to secure the release of three more.</content>
   </entry>
 </feed>
