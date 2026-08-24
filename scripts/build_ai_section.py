@@ -175,6 +175,12 @@ def matched_terms(item):
         m = pat.search(full)
         if m:
             hits.append(m.group(0).lower())
+    # WEAK terms alone no longer qualify an article for the AI section: broad
+    # words like "ψηφιακή"/"τεχνολογία" in a title pulled in non-tech stories
+    # (bank fee changes, digital-detox lifestyle pieces). Weak terms now only
+    # ENRICH an article that already has at least one strong signal.
+    if not hits:
+        return []
     for pat in WEAK:
         m = pat.search(headline)
         if m:

@@ -156,38 +156,8 @@
       ]
     },
     "ai": {
-      "item_count": 4,
+      "item_count": 2,
       "top_items": [
-        {
-          "id": "0f05aa3531c5",
-          "title": "Αλλάζουν οι χρεώσεις για καταθέτες",
-          "url": "https://www.kathimerini.gr/economy/564414958/allazoyn-oi-chreoseis-gia-katathetes/",
-          "source": "Kathimerini",
-          "published": "2026-08-24T07:33:38+00:00",
-          "category": "economy",
-          "importance": 76,
-          "summary": {
-            "el": "Οι ελληνικές τράπεζες αντικαθιστούν τις μεμονωμένες προμήθειες με συνδρομητικά πακέτα συναλλαγών κόστους 0,60-0,80 ευρώ τον μήνα – Λογαριασμός Προνομίων της Εθνικής, myAlpha Benefit Base της Alpha Bank και My Blue Advantage της Eurobank – με την Πειραιώς να μην έχει ακόμη προχωρήσει σε υποχρεωτική ένταξη πελατών. Αποφάσεις του Πολυμελούς Πρωτοδικείου Αθηνών για Εθνική και Alpha δεν απαγορεύουν τα πακέτα, αλλά επιβάλλουν αυστηρότερη ενημέρωση ώστε ο καταναλωτής να διακρίνει τι είναι ήδη δωρεάν βάσει νόμου, οδηγώντας ήδη τις δύο τράπεζες να αναθεωρήσουν την παρουσίασή τους. Με 31 εκατ. καταθέτες κατά το ΤΕΚΕ, οι χρεώσεις αντισταθμίζουν απώλειες προμηθειών που το υπουργείο υπολόγισε στα 150 εκατ. ευρώ – η Εθνική είδε πτώση 21% το 2025 και η Πειραιώς επίπτωση 50 εκατ. ευρώ.",
-            "en": "Greek banks are replacing per-transaction fees with monthly subscription bundles costing 0.60-0.80 euros – National Bank's Privileges Account, Alpha Bank's myAlpha Benefit Base and Eurobank's My Blue Advantage – while Piraeus has not yet made enrolment compulsory. Rulings by the Athens Multi-Member Court of First Instance against National and Alpha do not ban the products but impose stricter disclosure so customers can tell which services are already free by law, and both banks are already revising how they present them. With 31 million depositors according to the deposit guarantee fund TEKE, the charges offset commission losses the ministry estimated at 150 million euros – National reported a 21% drop in 2025 and Piraeus a 50 million euro hit."
-          },
-          "tags": {
-            "el": [
-              "τράπεζες",
-              "προμήθειες",
-              "καταθέτες",
-              "δικαστικές αποφάσεις",
-              "ψηφιακός μετασχηματισμός"
-            ],
-            "en": [
-              "banks",
-              "fees",
-              "depositors",
-              "court rulings",
-              "digital transformation"
-            ]
-          },
-          "sentiment": "neutral"
-        },
         {
           "id": "37eb6642c226",
           "title": "«Πού να σκοτώσετε τον Μπάρον»: Νέο απειλητικό βίντεο του Ιράν για τον υιό Τραμπ",
@@ -217,36 +187,6 @@
             ]
           },
           "sentiment": "negative"
-        },
-        {
-          "id": "47d50cf96a37",
-          "title": "Ωρα για ψηφιακή αποτοξίνωση",
-          "url": "https://www.kathimerini.gr/life/health/564414805/ora-gia-psifiaki-apotoxinosi/",
-          "source": "Kathimerini",
-          "published": "2026-08-24T13:42:53+00:00",
-          "category": "society",
-          "importance": 57,
-          "summary": {
-            "el": "Ρεπορτάζ για την ψηφιακή αποτοξίνωση με αφορμή τις καλοκαιρινές διακοπές, όπου η δημιουργός περιεχομένου Μαριλού Παντάκη (Madame Ginger) περιγράφει το σοκ όταν είδε ότι περνούσε σχεδόν 10 ώρες την ημέρα στις εφαρμογές. Ο ψυχίατρος Αχιλλέας Οικονόμου εξηγεί ότι οι ειδοποιήσεις ενεργοποιούν επανειλημμένα τα κυκλώματα ανταμοιβής της ντοπαμίνης, ενώ η αποσύνδεση επιτρέπει την ενεργοποίηση του Default Mode Network. Μελέτες αναφέρουν μείωση περίπου 15% στα συμπτώματα άγχους και έως 25% βελτίωση σε δείκτες κατάθλιψης, ενώ έρευνα του Πανεπιστημίου της Κοπεγχάγης με 9.524 ενήλικες συνέδεσε το ατελείωτο σκρολάρισμα με αυξανόμενη δυσαρέσκεια.",
-            "en": "A feature on digital detox framed around the summer holidays, in which content creator Marilou Pantaki (Madame Ginger) recalls her shock at discovering she spent nearly 10 hours a day in apps. Psychiatrist Achilleas Oikonomou explains that constant notifications repeatedly trigger dopamine reward circuits, while disconnecting lets the brain's Default Mode Network engage. Studies cited report roughly 15% reductions in anxiety symptoms and up to 25% improvement in depression indicators, and a University of Copenhagen study of 9,524 adults linked passive endless scrolling to growing dissatisfaction with digital life."
-          },
-          "tags": {
-            "el": [
-              "ψηφιακή αποτοξίνωση",
-              "τεχνοστρές",
-              "ψυχική υγεία",
-              "οθόνες",
-              "ντοπαμίνη"
-            ],
-            "en": [
-              "digital detox",
-              "technostress",
-              "mental health",
-              "screen time",
-              "dopamine"
-            ]
-          },
-          "sentiment": "neutral"
         },
         {
           "id": "5916bb83c093",

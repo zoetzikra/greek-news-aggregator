@@ -43,7 +43,29 @@
       // Load summary for the date
       const summaryRes = await fetch(`${base}/data/${currentDate}/summary.json`);
       if (!summaryRes.ok) throw new Error(`No data for ${currentDate}`);
-      summary = await summaryRes.json();
+      const s = await summaryRes.json();
+
+      // Some pipeline runs store top_items as id strings instead of embedded
+      // article objects. Resolve ids by fetching the per-category files.
+      const cats = Object.entries(s.categories || {});
+      const needsResolve = cats.filter(([, c]) =>
+        Array.isArray(c.top_items) && c.top_items.some((t) => typeof t === 'string'));
+      if (needsResolve.length > 0) {
+        await Promise.all(needsResolve.map(async ([cat, c]) => {
+          try {
+            const res = await fetch(`${base}/data/${currentDate}/${cat}.json`);
+            if (!res.ok) throw new Error();
+            const catData = await res.json();
+            const byId = Object.fromEntries((catData.items || []).map((it) => [it.id, it]));
+            c.top_items = c.top_items
+              .map((t) => (typeof t === 'string' ? byId[t] : t))
+              .filter(Boolean);
+          } catch {
+            c.top_items = c.top_items.filter((t) => typeof t !== 'string');
+          }
+        }));
+      }
+      summary = s;
     } catch (e) {
       error = e.message;
     } finally {
