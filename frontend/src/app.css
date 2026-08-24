@@ -3,21 +3,60 @@
 @tailwind utilities;
 
 :root {
-  --color-primary: #1d4ed8;
-  --color-primary-dark: #1e3a8a;
-  --color-bg: #ffffff;
-  --color-bg-secondary: #f8fafc;
-  --color-text: #1e293b;
-  --color-text-secondary: #64748b;
-  --color-border: #e2e8f0;
+  --color-primary: #8a2c2c;
+  --color-primary-dark: #6e2222;
+  --color-bg: #faf8f3;
+  --color-bg-secondary: #f3efe6;
+  --color-text: #1e1c18;
+  --color-text-secondary: #6b6355;
+  --color-border: #d8d2c4;
+  --color-rule: #b8b0a0;
+  --color-ink: #1a1a1a;
+  --color-accent: #8a2c2c;
+
+  /* Category accents (light) */
+  --cat-politics: #8a2c2c;
+  --cat-economy: #8a6d1f;
+  --cat-society: #1d6e56;
+  --cat-world: #185fa5;
+  --cat-opinion: #99354e;
+  --cat-culture: #6b4fa0;
+  --cat-ai: #534ab7;
+
+  /* Importance bands */
+  --imp-high: #a32d2d;
+  --imp-mid: #ba7517;
+  --imp-low: #888780;
+
+  /* Sentiment */
+  --sent-pos: #1d6e56;
+  --sent-neg: #a32d2d;
 }
 
 .dark {
-  --color-bg: #0f172a;
-  --color-bg-secondary: #1e293b;
-  --color-text: #f1f5f9;
-  --color-text-secondary: #94a3b8;
-  --color-border: #334155;
+  --color-bg: #171511;
+  --color-bg-secondary: #201d17;
+  --color-text: #ece7dc;
+  --color-text-secondary: #a39a88;
+  --color-border: #3a352b;
+  --color-rule: #55503f;
+  --color-ink: #f2ede2;
+  --color-accent: #d98f8f;
+
+  --cat-politics: #d98f8f;
+  --cat-economy: #d4b45e;
+  --cat-society: #5dcaa5;
+  --cat-world: #85b7eb;
+  --cat-opinion: #ed93b1;
+  --cat-culture: #afa9ec;
+  --cat-ai: #afa9ec;
+
+  --imp-high: #f09595;
+  --imp-mid: #fac775;
+  --imp-low: #888780;
+
+  --sent-pos: #5dcaa5;
+  --sent-neg: #f09595;
 }
 
 body {
@@ -26,7 +65,50 @@ body {
   font-family: 'Noto Sans', 'Inter', system-ui, sans-serif;
 }
 
+.font-serif-news {
+  font-family: 'Noto Serif', Georgia, 'Times New Roman', serif;
+}
+
+.kicker {
+  font-size: 0.6875rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
 .prose-greek {
   line-height: 1.75;
   letter-spacing: 0.01em;
+}
+
+.rule-double {
+  border-top: 2px solid var(--color-ink);
+}
+
+.rule-thin {
+  border-top: 1px solid var(--color-rule);
+}
+
+/* Motion */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-up {
+  animation: fadeUp 0.45s ease-out both;
+}
+
+.hover-lift {
+  transition: transform 0.18s ease, background-color 0.18s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-1px);
+  background-color: var(--color-bg-secondary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-up { animation: none; }
+  .hover-lift, .hover-lift:hover { transition: none; transform: none; }
 }

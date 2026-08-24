@@ -25,6 +25,7 @@
   onMount(async () => {
     const savedLang = localStorage?.getItem?.('lang');
     if (savedLang) lang = savedLang;
+    window.addEventListener('langchange', (e) => { lang = e.detail; });
 
     // Get date from URL or load latest
     const urlDate = $page.url.searchParams.get('date');
@@ -77,10 +78,37 @@
     return categoryLabels[cat]?.[lang] || cat;
   }
 
-  $effect(() => {
-    const savedLang = localStorage?.getItem?.('lang');
-    if (savedLang && savedLang !== lang) lang = savedLang;
+  function catColor(cat) {
+    return `var(--cat-${cat}, var(--color-accent))`;
+  }
+
+  function impColor(imp) {
+    return imp >= 80 ? 'var(--imp-high)' : imp >= 60 ? 'var(--imp-mid)' : 'var(--imp-low)';
+  }
+
+  // The single most important article of the day (front-page lead)
+  let hero = $derived.by(() => {
+    if (!summary) return null;
+    let best = null;
+    for (const [cat, c] of Object.entries(summary.categories || {})) {
+      if (cat === 'ai') continue; // ai items are cross-listed duplicates
+      for (const it of c.top_items || []) {
+        if (typeof it === 'object' && (!best || (it.importance || 0) > (best.importance || 0))) {
+          best = it;
+        }
+      }
+    }
+    return best;
   });
+
+  function sectionItems(cat, catData) {
+    const items = (catData.top_items || []).filter((t) => typeof t === 'object');
+    // On the "all" front page the hero already appears at the top
+    if (selectedCategory === 'all' && hero && cat === hero.category) {
+      return items.filter((it) => it.id !== hero.id);
+    }
+    return items;
+  }
 </script>
 
 <svelte:head>
@@ -89,11 +117,11 @@
 
 {#if loading}
   <div class="flex justify-center items-center py-20">
-    <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-primary-500"></div>
+    <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-[var(--color-accent)]"></div>
   </div>
 {:else if error}
   <div class="text-center py-20">
-    <h2 class="text-2xl font-bold mb-4">
+    <h2 class="font-serif-news text-2xl font-bold mb-4">
       {lang === 'el' ? 'Δεν υπάρχουν δεδομένα ακόμα' : 'No data available yet'}
     </h2>
     <p class="text-[var(--color-text-secondary)]">
@@ -103,108 +131,152 @@
     </p>
   </div>
 {:else if summary}
-  <!-- Date header -->
-  <div class="mb-8">
-    <h1 class="text-3xl font-bold">
-      {lang === 'el' ? 'Ημερήσια Ανασκόπηση' : 'Daily Digest'}
-    </h1>
-    <p class="text-[var(--color-text-secondary)] mt-1">
+  <!-- Dateline -->
+  <div class="fade-up text-center mb-6">
+    <p class="font-serif-news text-sm text-[var(--color-text-secondary)]">
       {new Date(currentDate + 'T00:00:00').toLocaleDateString(lang === 'el' ? 'el-GR' : 'en-US', {
         weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
       })}
+      &nbsp;&middot;&nbsp;
+      {summary.article_count || 0} {lang === 'el' ? 'άρθρα' : 'articles'}
     </p>
   </div>
 
-  <!-- Executive Summary -->
-  {#if summary.executive_summary}
-    <section class="mb-10 bg-[var(--color-bg-secondary)] rounded-xl p-6 border border-[var(--color-border)]">
-      <h2 class="text-xl font-semibold mb-4">
-        {lang === 'el' ? 'Σύνοψη' : 'Executive Summary'}
-      </h2>
-      <div class="prose-greek whitespace-pre-line leading-relaxed">
-        {summary.executive_summary[lang] || summary.executive_summary.el || summary.executive_summary.en || ''}
-      </div>
-    </section>
-  {/if}
+  <!-- Front page: hero + executive summary -->
+  <div class="fade-up rule-double pt-5 mb-10 grid gap-8 lg:grid-cols-[1.6fr_1fr]" style="animation-delay: 0.05s">
+    <div>
+      {#if hero && selectedCategory === 'all'}
+        <p class="kicker" style="color: {catColor(hero.category)}">
+          {lang === 'el' ? 'Κυριο θεμα' : 'Lead story'} &middot; {getCategoryLabel(hero.category)}
+        </p>
+        <a href={hero.url} target="_blank" rel="noopener noreferrer"
+           class="font-serif-news block text-3xl sm:text-4xl font-semibold leading-tight mt-2 hover:text-[var(--color-accent)] transition-colors">
+          {hero.title}
+        </a>
+        <p class="font-serif-news text-base leading-relaxed mt-3 text-[var(--color-text)]">
+          {hero.summary?.[lang] || hero.summary?.el || ''}
+        </p>
+        <p class="text-xs text-[var(--color-text-secondary)] mt-3">
+          {hero.author || hero.source}
+          &nbsp;&middot;&nbsp;
+          <span style="color: {impColor(hero.importance)}">{lang === 'el' ? 'Σημαντικότητα' : 'Importance'} {hero.importance}</span>
+        </p>
+      {/if}
 
-  <!-- Top Topics -->
-  {#if summary.top_topics?.length > 0}
-    <section class="mb-10">
-      <h2 class="text-xl font-semibold mb-4">
-        {lang === 'el' ? 'Κορυφαία Θέματα' : 'Top Topics'}
-      </h2>
-      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {#each summary.top_topics as topic}
-          <div class="p-4 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg-secondary)]">
-            <h3 class="font-semibold text-primary-600 dark:text-primary-400">
-              {topic.name?.[lang] || topic.name?.el || ''}
-            </h3>
-            <p class="text-sm mt-2 text-[var(--color-text-secondary)]">
-              {topic.description?.[lang] || topic.description?.el || ''}
-            </p>
-            <span class="inline-block mt-2 text-xs px-2 py-0.5 rounded-full bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300">
-              {lang === 'el' ? 'Σημαντικότητα' : 'Importance'}: {topic.importance}
-            </span>
+      <!-- Top topics under the hero -->
+      {#if summary.top_topics?.length > 0}
+        <div class="rule-thin mt-6 pt-4">
+          <p class="kicker text-[var(--color-text-secondary)] mb-3">
+            {lang === 'el' ? 'Κορυφαια θεματα' : 'Top topics'}
+          </p>
+          <div class="grid gap-x-6 gap-y-3 sm:grid-cols-2">
+            {#each summary.top_topics as topic, i}
+              <div class="flex gap-3">
+                <span class="font-serif-news text-2xl font-semibold leading-none"
+                      style="color: {impColor(topic.importance)}">{i + 1}</span>
+                <div>
+                  <p class="font-serif-news font-semibold text-sm leading-snug">
+                    {topic.name?.[lang] || topic.name?.el || ''}
+                  </p>
+                  <p class="text-xs text-[var(--color-text-secondary)] leading-relaxed mt-0.5">
+                    {topic.description?.[lang] || topic.description?.el || ''}
+                  </p>
+                </div>
+              </div>
+            {/each}
           </div>
-        {/each}
-      </div>
-    </section>
-  {/if}
+        </div>
+      {/if}
+    </div>
+
+    <!-- Executive summary sidebar -->
+    {#if summary.executive_summary}
+      <aside class="lg:border-l lg:border-[var(--color-rule)] lg:pl-8">
+        <p class="kicker text-[var(--color-text-secondary)]">
+          {lang === 'el' ? 'Η συνοψη της ημερας' : 'The day in brief'}
+        </p>
+        <div class="font-serif-news italic text-sm leading-relaxed whitespace-pre-line mt-2 text-[var(--color-text)]">
+          {summary.executive_summary[lang] || summary.executive_summary.el || summary.executive_summary.en || ''}
+        </div>
+      </aside>
+    {/if}
+  </div>
 
   <!-- Category Filter -->
-  <div class="flex flex-wrap gap-2 mb-6">
+  <div class="fade-up flex flex-wrap gap-x-5 gap-y-2 mb-8 rule-double pt-3" style="animation-delay: 0.1s">
     <button
-      class="px-3 py-1.5 rounded-full text-sm transition {selectedCategory === 'all' ? 'bg-primary-600 text-white' : 'bg-[var(--color-bg-secondary)] border border-[var(--color-border)] hover:border-primary-400'}"
+      class="kicker pb-1 border-b-2 transition-colors {selectedCategory === 'all' ? 'border-[var(--color-ink)] text-[var(--color-text)]' : 'border-transparent text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'}"
       onclick={() => selectedCategory = 'all'}>
       {lang === 'el' ? 'Όλα' : 'All'}
     </button>
     {#each Object.keys(summary.categories || {}) as cat}
       <button
-        class="px-3 py-1.5 rounded-full text-sm transition {selectedCategory === cat ? 'bg-primary-600 text-white' : 'bg-[var(--color-bg-secondary)] border border-[var(--color-border)] hover:border-primary-400'}"
+        class="kicker pb-1 border-b-2 transition-colors {selectedCategory === cat ? 'text-[var(--color-text)]' : 'border-transparent text-[var(--color-text-secondary)] hover:text-[var(--color-text)]'}"
+        style={selectedCategory === cat ? `border-color: ${catColor(cat)}` : ''}
         onclick={() => selectedCategory = cat}>
         {getCategoryLabel(cat)}
-        <span class="ml-1 opacity-60">({summary.categories[cat].item_count})</span>
+        <span class="opacity-60 normal-case tracking-normal">({summary.categories[cat].item_count})</span>
       </button>
     {/each}
   </div>
 
-  <!-- News Items -->
+  <!-- News sections -->
   <section>
-    {#each Object.entries(summary.categories || {}) as [cat, catData]}
+    {#each Object.entries(summary.categories || {}) as [cat, catData], ci}
       {#if selectedCategory === 'all' || selectedCategory === cat}
-        <div class="mb-8">
-          <h2 class="text-lg font-semibold mb-3 text-primary-700 dark:text-primary-400">
-            {getCategoryLabel(cat)}
-          </h2>
-          <div class="space-y-3">
-            {#each catData.top_items || [] as item}
-              <article class="p-4 rounded-lg border border-[var(--color-border)] hover:border-primary-400 transition bg-[var(--color-bg)]">
-                <div class="flex items-start justify-between gap-3">
-                  <div class="flex-1">
+        <div class="fade-up mb-10" style="animation-delay: {0.12 + ci * 0.04}s">
+          <div class="flex items-baseline gap-3 border-b-2 pb-1 mb-4" style="border-color: {catColor(cat)}">
+            <h2 class="kicker" style="color: {catColor(cat)}">
+              {getCategoryLabel(cat)}
+            </h2>
+            {#if catData.item_count > (catData.top_items?.length || 0)}
+              <span class="text-xs text-[var(--color-text-secondary)]">
+                {lang === 'el' ? `${catData.top_items?.length || 0} από ${catData.item_count}` : `${catData.top_items?.length || 0} of ${catData.item_count}`}
+              </span>
+            {/if}
+          </div>
+          <div>
+            {#each sectionItems(cat, catData) as item, ii}
+              <article class="hover-lift rounded-md px-3 py-3 -mx-3 {ii > 0 ? 'rule-thin' : ''}">
+                <div class="flex items-start justify-between gap-4">
+                  <div class="flex-1 min-w-0">
                     <a href={item.url} target="_blank" rel="noopener noreferrer"
-                       class="font-medium hover:text-primary-600 transition">
+                       class="font-serif-news font-semibold text-lg leading-snug hover:text-[var(--color-accent)] transition-colors">
                       {item.title}
                     </a>
-                    <p class="text-sm text-[var(--color-text-secondary)] mt-1">
+                    <p class="text-sm text-[var(--color-text-secondary)] leading-relaxed mt-1">
                       {item.summary?.[lang] || item.summary?.el || item.summary?.en || ''}
                     </p>
-                    <div class="flex items-center gap-3 mt-2 text-xs text-[var(--color-text-secondary)]">
-                      <span>{item.source}</span>
+                    <div class="flex flex-wrap items-center gap-x-3 gap-y-1 mt-2 text-xs text-[var(--color-text-secondary)]">
+                      {#if item.sentiment === 'positive'}
+                        <span class="inline-flex items-center gap-1" style="color: var(--sent-pos)">
+                          <span class="inline-block w-1.5 h-1.5 rounded-full" style="background: var(--sent-pos)"></span>
+                          {lang === 'el' ? 'θετικό' : 'positive'}
+                        </span>
+                      {:else if item.sentiment === 'negative'}
+                        <span class="inline-flex items-center gap-1" style="color: var(--sent-neg)">
+                          <span class="inline-block w-1.5 h-1.5 rounded-full" style="background: var(--sent-neg)"></span>
+                          {lang === 'el' ? 'αρνητικό' : 'negative'}
+                        </span>
+                      {/if}
+                      {#if item.author && item.author !== 'Καθημερινή'}
+                        <span>{item.author}</span>
+                      {/if}
                       {#if item.published}
                         <span>{new Date(item.published).toLocaleTimeString(lang === 'el' ? 'el-GR' : 'en-US', { hour: '2-digit', minute: '2-digit' })}</span>
                       {/if}
                       {#each (item.tags?.[lang] || item.tags?.el || []).slice(0, 3) as tag}
-                        <span class="px-1.5 py-0.5 rounded bg-[var(--color-bg-secondary)] border border-[var(--color-border)]">{tag}</span>
+                        <span class="px-1.5 py-0.5 rounded border border-[var(--color-border)]">{tag}</span>
                       {/each}
                     </div>
                   </div>
-                  <div class="flex-shrink-0">
-                    <span class="inline-block px-2 py-0.5 rounded text-xs font-medium
-                      {item.importance >= 80 ? 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200' :
-                       item.importance >= 60 ? 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200' :
-                       'bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400'}">
+                  <div class="flex-shrink-0 text-right w-10">
+                    <span class="font-serif-news text-lg font-semibold" style="color: {impColor(item.importance)}">
                       {item.importance}
                     </span>
+                    <div class="h-0.5 rounded-full mt-1 bg-[var(--color-border)]">
+                      <div class="h-0.5 rounded-full" style="width: {item.importance}%; background: {impColor(item.importance)}"></div>
+                    </div>
                   </div>
                 </div>
               </article>
@@ -215,12 +287,10 @@
     {/each}
   </section>
 
-  <!-- Stats -->
-  {#if summary.stats}
-    <div class="mt-8 pt-6 border-t border-[var(--color-border)] text-sm text-[var(--color-text-secondary)]">
-      {lang === 'el' ? 'Συλλέχθηκαν' : 'Collected'}: {summary.stats.total || 0} {lang === 'el' ? 'άρθρα' : 'articles'}
-      &middot;
-      {lang === 'el' ? 'Κόστος' : 'Cost'}: ${summary.cost?.total_usd?.toFixed(4) || '0.00'}
-    </div>
+  <!-- Source note -->
+  {#if summary.source_note}
+    <p class="rule-thin pt-4 mt-2 text-xs text-[var(--color-text-secondary)]">
+      {summary.source_note}
+    </p>
   {/if}
 {/if}
