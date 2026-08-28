@@ -1,188 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini</title>
+  <title>Greek News Aggregator — Daily Digest</title>
+  <subtitle>Top stories from kathimerini.gr, 2026-08-28</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-08-27T11:12:54.734004+00:00</updated>
+  <updated>2026-08-28T11:17:47Z</updated>
   <entry>
-    <title>Γιαγιόι Κουσάμα: Πέθανε στα 97 της η Γιαπωνέζα που μετέτρεψε τις παραισθήσεις σε τέχνη</title>
-    <link href="https://www.kathimerini.gr/world/564422884/giagioi-koysama-pethane-sta-97-tis-i-giaponeza-poy-metetrepse-tis-paraisthiseis-se-techni/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:c284e26febd3</id>
-    <updated>2026-08-27T08:04:35+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="culture"/>
-    <summary type="text">Πέθανε στις 14 Αυγούστου 2026 σε νοσοκομείο του Τόκιο, σε ηλικία 97 ετών, η Γιαπωνέζα εικαστικός Γιαγιόι Κουσάμα, που μετέτρεψε τις παιδικές της παραισθήσεις με κουκκίδες και φώτα σε παγκόσμιο εικαστικό λεξιλόγιο. Από τη φυγή της στη Νέα Υόρκη το 1957 και τα happenings κατά του πολέμου του Βιετνάμ, έως τα «Infinity Mirror Rooms» του 1965, τις κολοκύθες και την πρώτη συμμετοχή Γιαπωνέζας καλλιτέχνιδας στη Μπιενάλε Βενετίας το 1993, έχτισε μια όψιμη αλλά καθολική αναγνώριση. Ζούσε εθελοντικά σε ψυχιατρικό νοσοκομείο του Τόκιο από το 1977 και ζωγράφιζε καθημερινά μέχρι τις τελευταίες της ημέρες.</summary>
-  </entry>
-  <entry>
-    <title>Ντόλι Πάρτον: Από μια φτωχή αγροτική οικογένεια, βασίλισσα της κάντρι</title>
-    <link href="https://www.kathimerini.gr/culture/564420760/ntoli-parton-apo-mia-ftochi-agrotiki-oikogeneia-vasilissa-tis-kantri/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:03a297a4b967</id>
-    <updated>2026-08-26T21:40:42+00:00</updated>
-    <author><name>Ελένη Σαμπάνη</name></author>
-    <category term="culture"/>
-    <summary type="text">Πέθανε σε ηλικία 80 ετών η Ντόλι Πάρτον, όπως ανακοίνωσε ο ανιψιός της Μπράιαν Σίβερ, κλείνοντας μια πορεία έξι δεκαετιών από τα Απαλάχια Ορη του Τενεσί ώς την κορυφή της κάντρι. Εγραψε πάνω από 3.000 τραγούδια, μεταξύ των οποίων τα «Jolene» και «I Will Always Love You» του 1973 που εκτόξευσε η ερμηνεία της Γουίτνεϊ Χιούστον στο «The Bodyguard», πούλησε πάνω από 100 εκατ. δίσκους και κέρδισε 11 Grammy. Δημιούργησε το θεματικό πάρκο Dollywood και την Imagination Library, ενώ στην αρχή της πανδημίας δώρισε 1 εκατ. δολάρια στο Vanderbilt για την έρευνα του εμβολίου.</summary>
-  </entry>
-  <entry>
-    <title>«Θα είναι σαν σεισμός»: Το Ιράν απειλεί με αντίποινα στην οικονομική «D-Day» του Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564422938/tha-einai-san-seismos-to-iran-apeilei-me-antipoina-stin-oikonomiki-d-day-toy-tramp/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:ae3c77d768e2</id>
-    <updated>2026-08-27T08:53:05+00:00</updated>
+    <title>NY Times: Η μυστική αποστολή του αρχηγού της CIA στη Μόσχα και το «ζοφερό» μήνυμα προς το Κρεμλίνο</title>
+    <link href="https://www.kathimerini.gr/world/564425482/ny-times-i-mystiki-apostoli-toy-archigoy-tis-cia-sti-moscha-kai-to-zofero-minyma-pros-to-kremlino/"/>
+    <id>urn:kathimerini:0ca4f0f61555</id>
+    <updated>2026-08-28T13:57:39+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Το Ιράν απειλεί με αντίποινα «σαν σεισμός» στη νέα εκστρατεία οικονομικής ασφυξίας που ανακοίνωσε τη Δευτέρα ο Αμερικανός υπουργός Οικονομικών Σκοτ Μπέσεντ, με δευτερογενείς κυρώσεις σε ψηφιακά περιουσιακά στοιχεία, τεχνολογία και ναυτιλία. Ο επικεφαλής του Ανώτατου Συμβουλίου Εθνικής Ασφαλείας Μοχσέν Ρεζαεΐ προειδοποίησε ότι «ούτε μία σταγόνα πετρελαίου» δεν θα εξάγεται από τον Κόλπο, ενώ η Τεχεράνη δημοσιοποίησε λίστα με 45 πλοία και απείλησε ακόμη και τη Βουλγαρία, μέλος Ε.Ε. και ΝΑΤΟ, για τα αμερικανικά αεροσκάφη ανεφοδιασμού. Η Σαουδική Αραβία έχει εκτρέψει περίπου 5 εκατ. βαρέλια ημερησίως μέσω του αγωγού Ανατολής-Δύσης, ενώ το ιρανικό Κοινοβούλιο εξετάζει νομοσχέδιο για αποχώρηση από τη Συνθήκη Μη Διάδοσης μετά τη δολοφονία του Αλί Χαμενεΐ.</summary>
+    <summary>Σύμφωνα με τους New York Times, η μυστική επίσκεψη του διευθυντή της CIA Τζον Ράτκλιφ στη Μόσχα είχε στόχο να μεταφέρει στον επικεφαλής της FSB Αλεξάντρ Μπορτνίκοφ τη ζοφερή αμερικανική εκτίμηση για την πορεία του πολέμου στην Ουκρανία και να πιέσει το Κρεμλίνο για ειρηνευτική συμφωνία πριν επιδεινωθεί η στρατιωτική και οικονομική του θέση. Ο δίαυλος λειτουργεί παράλληλα με τις επαφές Γουίτκοφ και Κούσνερ. / According to the New York Times, CIA Director John Ratcliffe&#x27;s secret Moscow visit aimed to convey to FSB chief Alexander Bortnikov the grim American assessment of the Ukraine war&#x27;s trajectory and press the Kremlin toward a peace deal before its military and economic position deteriorates further. The channel runs parallel to the Witkoff and Kushner contacts.</summary>
   </entry>
   <entry>
-    <title>Εξι μήνες πολέμου: Λαβωμένο, αλλά όχι ηττημένο το Ιράν – Το τίμημα για Τραμπ</title>
-    <link href="https://www.kathimerini.gr/world/564423076/exi-mines-polemoy-lavomeno-alla-ochi-ittimeno-to-iran-to-timima-gia-tramp/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:65f5cf1df3d2</id>
-    <updated>2026-08-27T12:08:08+00:00</updated>
+    <title>Τι περιείχε η ατζέντα του Ράτκλιφ στη Μόσχα</title>
+    <link href="https://www.kathimerini.gr/world/564424366/ti-perieiche-i-atzenta-toy-ratklif-sti-moscha/"/>
+    <id>urn:kathimerini:c0052ce9e00c</id>
+    <updated>2026-08-28T12:42:52+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Εξι μήνες μετά την έναρξη της αμερικανοϊσραηλινής επίθεσης κατά του Ιράν, ο πόλεμος που ο Ντόναλντ Τραμπ αποκαλούσε «μικρή εκδρομή» έχει μετατραπεί σε τέλμα, με τη δημοτικότητά του να πέφτει από 40% σε 33% και μόλις 31% των Αμερικανών να εγκρίνει τη σύγκρουση. Το Ιράν έχει υποστεί σοβαρές απώλειες –161 πολεμικά πλοία και το 82% της αντιαεροπορικής άμυνας– αλλά κρατά κλειστά τα Στενά του Ορμούζ, ενώ ο πληθωρισμός στα τρόφιμα έφτασε το 128%. Οι ΗΠΑ έχουν χάσει 42 στρατιωτικά αεροσκάφη, έχουν αναλώσει περίπου το 65% των πυραύλων Patriot και ο ΔΟΑΕ δεν μπορεί να επαληθεύσει πού βρίσκονται 440 κιλά ουρανίου εμπλουτισμένου στο 60%.</summary>
+    <summary>Σύμφωνα με CBS και WSJ, το ταξίδι Ράτκλιφ στη Μόσχα περιλάμβανε προειδοποίηση προς τη Ρωσία να μην επιτεθεί σε κράτος-μέλος του ΝΑΤΟ, εν μέσω αναφορών για ρωσικό σχέδιο δοκιμής της ετοιμότητας της Συμμαχίας. Συζητήθηκε και ο πόλεμος στο Ιράν, με προειδοποίηση νέων κυρώσεων αν δεν ανοίξουν τα Στενά του Ορμούζ· το Κίεβο κλήθηκε να απόσχει από επιθέσεις κατά τη διάρκεια της επίσκεψης. / According to CBS and the WSJ, Ratcliffe&#x27;s Moscow trip included a warning to Russia not to attack a NATO member state, amid intelligence reports of a Russian plan to test the Alliance&#x27;s readiness. The Iran war was also discussed, with a warning of new sanctions if the Strait of Hormuz doesn&#x27;t reopen; Kyiv was asked to refrain from attacks during the visit.</summary>
   </entry>
   <entry>
-    <title>Κομισιόν: «Πράσινο φως» για το ελληνικό Κοινωνικό Κλιματικό Σχέδιο των 4,77 δισ. ευρώ</title>
-    <link href="https://www.kathimerini.gr/world/564423355/komision-prasino-fos-gia-to-elliniko-koinoniko-klimatiko-schedio-ton-4-77-dis-eyro/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:3fcdd793b510</id>
-    <updated>2026-08-27T13:43:34+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <title>Οι έξι μήνες του πολέμου που άλλαξαν τις αγορές</title>
+    <link href="https://www.kathimerini.gr/economy/564424744/oi-exi-mines-toy-polemoy-poy-allaxan-tis-agores/"/>
+    <id>urn:kathimerini:0b44d25d4e73</id>
+    <updated>2026-08-28T11:49:16+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Η Ευρωπαϊκή Επιτροπή ενέκρινε το ελληνικό Κοινωνικό Κλιματικό Σχέδιο ύψους 4,77 δισ. ευρώ, το μεγαλύτερο εθνικό σχέδιο που έχει εγκριθεί μέχρι σήμερα από το Κοινωνικό Ταμείο για το Κλίμα, με 3,579 δισ. ευρώ από ευρωπαϊκούς πόρους και 1,2 δισ. από εθνική χρηματοδότηση έως το 2032. Προβλέπονται στήριξη 460.000 ευάλωτων νοικοκυριών, έως 62.000 ενεργειακές ανακαινίσεις, 200.000 αντλίες θερμότητας και ηλιακά, 2.800 νέες κοινωνικές κατοικίες, 200 ηλεκτρικά λεωφορεία, 22 συρμοί για το Μετρό και social leasing ηλεκτρικών αυτοκινήτων για 15.000 νοικοκυριά. Η Κομισιόν εντόπισε όμως αδυναμίες στα συστήματα εσωτερικού ελέγχου και ζητεί πρόσθετα μέτρα πριν από την πρώτη εκταμίευση.</summary>
+    <summary>Έξι μήνες μετά την επίθεση ΗΠΑ-Ισραήλ στο Ιράν, το Reuters αποτιμά τις αλλαγές στις αγορές: το Brent ξεπέρασε πρόσκαιρα τα 120 δολάρια τον Απρίλιο και σταθεροποιείται γύρω στα 90, με ελλείψεις σε ντίζελ και αεροπορικά καύσιμα. Τα χρηματιστήρια ωστόσο στηρίχθηκαν από το ράλι της τεχνητής νοημοσύνης, ενώ ο ερχόμενος χειμώνας απειλεί με νέες πληθωριστικές πιέσεις. / Six months after the US-Israel strike on Iran, Reuters assesses the market shifts: Brent briefly topped $120 in April and now hovers around $90, with diesel and jet fuel shortages. Stock markets were nonetheless propped up by the AI rally, while the coming winter threatens renewed inflationary pressure.</summary>
   </entry>
   <entry>
-    <title>Γυναικοκτονία στη Ροδόπη: Το ιστορικό βίας και οι καβγάδες λόγω ζήλιας</title>
-    <link href="https://www.kathimerini.gr/society/564422149/gynaikoktonia-sti-rodopi-to-istoriko-vias-kai-oi-kavgades-logo-zilias/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:28fe046e5829</id>
-    <updated>2026-08-27T07:44:32+00:00</updated>
-    <author><name>Ελένη Καρανικόλα - Κοντορούση</name></author>
-    <category term="society"/>
-    <summary type="text">Νέα στοιχεία για τη γυναικοκτονία της 44χρονης στον οικισμό Διαλαμπή Ροδόπης δείχνουν ότι το θύμα επρόκειτο την επομένη να καταθέσει αίτηση διαζυγίου, έχοντας μιλήσει το προηγούμενο βράδυ με τη δικηγόρο της Ευαγγελία Κόλα. Το ζευγάρι είχε ιστορικό ενδοοικογενειακής βίας – το 2022 η γυναίκα είχε υποβάλει μήνυση για απειλή στο Ηράκλειο – ενώ ο 53χρονος σύζυγος παρακολουθούνταν επί τριετία από ψυχίατρο για παθολογική ζήλια. Τα δύο από τα τρία παιδιά, 16 και 19 ετών, βρίσκονταν στο σπίτι τη στιγμή της επίθεσης, ενώ ο δράστης αυτοτραυματίστηκε και νοσηλεύεται φρουρούμενος.</summary>
+    <title>Ελληνικά F-16 αναχαίτισαν τουρκικό drone βορειοδυτικά της Σαμοθράκης</title>
+    <link href="https://www.kathimerini.gr/politics/564425281/zeygos-f-16-anachaitise-toyrkiko-drone-voreiodytika-tis-samothrakis/"/>
+    <id>urn:kathimerini:81a160130b99</id>
+    <updated>2026-08-28T12:38:51+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary>Τουρκικό UAV παραβίασε τον εθνικό εναέριο χώρο μεταξύ Σαμοθράκης και Λήμνου, κινούμενο κοντά στον αεροδιάδρομο της Αλεξανδρούπολης τη στιγμή απογείωσης επιβατικού αεροσκάφους της Aegean. Ζεύγος ελληνικών F-16 απογειώθηκε και αναχαίτισε το drone, ενώ το επιβατικό άλλαξε προληπτικά πορεία χωρίς να επηρεαστεί η ασφάλειά του. / A Turkish UAV violated Greek national airspace between Samothrace and Lemnos, flying near the Alexandroupolis airport corridor just as an Aegean passenger plane was taking off. A pair of Greek F-16s scrambled to intercept the drone, while the passenger flight took a precautionary alternate route without its safety being affected.</summary>
   </entry>
   <entry>
-    <title>Εκατόμβες νεκρών στο Νεπάλ – Αγώνας δρόμου για τον εντοπισμό αγνοουμένων</title>
-    <link href="https://www.kathimerini.gr/world/564423232/ekatomves-nekron-sto-nepal-agonas-dromoy-gia-ton-entopismo-agnooymenon/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:92d3cf03ff4c</id>
-    <updated>2026-08-27T12:33:11+00:00</updated>
+    <title>Ωρα υπογραφών για την «Ασπίδα»</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564424309/ora-ypografon-gia-tin-aspida/"/>
+    <id>urn:kathimerini:8d616c152bc7</id>
+    <updated>2026-08-28T07:06:00+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary>Τη Δευτέρα υπογράφονται στο Τελ Αβίβ οι συμφωνίες ΓΔΑΕΕ–SIBAT για την «Ασπίδα του Αχιλλέα», το αντιαεροπορικό/αντι-drone σύστημα κόστους 3,1 δισ. ευρώ με παράδοση σε 35 μήνες. Εξασφαλίστηκε ελληνική συμμετοχή 25% (άνω των 700 εκατ. ευρώ για 12 ελληνικές εταιρείες) και ο έλεγχος του πηγαίου κώδικα από τις Ένοπλες Δυνάμεις. / On Monday in Tel Aviv, the GDAEE–SIBAT agreements for the &#x27;Achilles Shield&#x27; will be signed — the €3.1bn anti-aircraft/anti-drone system to be delivered within 35 months. A 25% Greek industrial share was secured (over €700m for 12 Greek companies) along with Armed Forces control of the source code.</summary>
+  </entry>
+  <entry>
+    <title>Μήνυμα Αραγκτσί στις ΗΠΑ για επανέναρξη της διπλωματίας μετά τις νέες κυρώσεις</title>
+    <link href="https://www.kathimerini.gr/world/564425332/minyma-aragtsi-stis-ipa-gia-epanenarxi-tis-diplomatias-meta-tis-nees-kyroseis/"/>
+    <id>urn:kathimerini:e5cb649e06c8</id>
+    <updated>2026-08-28T13:05:42+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Οι Αρχές του Νεπάλ έχουν εντοπίσει 270 σορούς μετά τη φονική ξαφνική πλημμύρα στις παραμεθόριες περιοχές των Ιμαλαΐων, ενώ πάνω από 1.300 άτομα αγνοούνται σε Νεπάλ και Θιβέτ και είναι «αδύνατη η επικοινωνία» με 288 ξένους υπηκόους. Δορυφορικές εικόνες του Planet Labs δείχνουν ότι το κατώτερο τμήμα παγετώνα αποσπάστηκε σε υψόμετρο περίπου 5.200 μέτρων και έπεσε 1.200 μέτρα χαμηλότερα στην κοιλάδα, ενώ οι αρχές του Θιβέτ ανακοίνωσαν τουλάχιστον 558 αγνοούμενους στην περιοχή Γκιρόνγκ. Ειδικοί συνδέουν την καταστροφή με την κλιματική αλλαγή, καθώς οι παγετώνες του Νεπάλ έχουν χάσει σχεδόν το ένα τρίτο των πάγων τους σε 30 χρόνια.</summary>
+    <summary>Ο Ιρανός ΥΠΕΞ Αμπάς Αραγκτσί δήλωσε ότι η επανέναρξη της διπλωματίας με τις ΗΠΑ «δεν είναι αδύνατη», αρκεί η Ουάσιγκτον να αντιληφθεί ότι «η πίεση δεν λειτουργεί», μετά τις νέες αμερικανικές κυρώσεις. Το Κατάρ μεσολαβεί, ενώ η Τεχεράνη επιμένει ότι τα Στενά του Ορμούζ θα παραμείνουν κλειστά μέχρι να τηρηθούν οι αμερικανικές δεσμεύσεις. / Iranian FM Abbas Araghchi said restarting diplomacy with the US &#x27;is not impossible&#x27; provided Washington realizes &#x27;pressure doesn&#x27;t work&#x27;, following new American sanctions. Qatar is mediating, while Tehran insists the Strait of Hormuz will stay closed until US commitments are honored.</summary>
+  </entry>
+  <entry>
+    <title>Νεπάλ: Αναστέλλονται οι επιχειρήσεις διάσωσης υπό τον φόβο νέας πλημμύρας</title>
+    <link href="https://www.kathimerini.gr/world/564425026/nepal-anastellontai-oi-epicheiriseis-diasosis-ypo-ton-fovo-neas-plimmyras/"/>
+    <id>urn:kathimerini:13e71748adb9</id>
+    <updated>2026-08-28T09:57:17+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Τουλάχιστον 472 νεκροί και 1.400 αγνοούμενοι είναι ο απολογισμός της καταστροφικής κατολίσθησης στο βόρειο Νεπάλ στα σύνορα με την Κίνα. Οι επιχειρήσεις διάσωσης ανεστάλησαν προσωρινά όταν η λίμνη που σχηματίστηκε από την κατάρρευση παγετώνα άρχισε να υπερχειλίζει προς το πέρασμα Γκιρόνγκ, με κατοίκους να καταφεύγουν σε υψώματα. / At least 472 dead and 1,400 missing is the toll of the catastrophic landslide in northern Nepal on the Chinese border. Rescue operations were temporarily suspended when the lake formed by a glacier collapse began overflowing toward the Gyirong pass, with residents fleeing to higher ground.</summary>
+  </entry>
+  <entry>
+    <title>Ετοιμάζουν φόρμουλα για το καλώδιο</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564422344/etoimazoyn-formoyla-gia-to-kalodio/"/>
+    <id>urn:kathimerini:c68d839d3ba4</id>
+    <updated>2026-08-27T19:45:01+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary>Ο γαλλικός όμιλος Meridiam, πλειοψηφικός πλέον στη διασύνδεση Ελλάδας–Κύπρου, βρίσκεται στο επίκεντρο φόρμουλας για την υπέρβαση των τουρκικών ενστάσεων: θα αποστείλει επιστολή ενημέρωσης προς Ελλάδα, Τουρκία και Κύπρο πριν την επανέναρξη εργασιών. Ζητούμενο αν η Άγκυρα θα θεωρήσει ότι έτσι ικανοποιούνται οι όροι της. / French group Meridiam, now majority stakeholder in the Greece–Cyprus electricity interconnection, is central to a formula for overcoming Turkish objections: it would send an informational letter to Greece, Turkey and Cyprus before works resume. The question is whether Ankara will consider its conditions satisfied.</summary>
+  </entry>
+  <entry>
+    <title>Δρ Αμπντουλαζίζ Σάγκερ στην «Κ»: Η συμφωνία της Μέκκας δεν είναι «ισλαμικό ΝΑΤΟ»</title>
+    <link href="https://www.kathimerini.gr/opinion/interviews/564424378/dr-ampntoylaziz-sagker-stin-k-i-symfonia-tis-mekkas-den-einai-islamiko-nato/"/>
+    <id>urn:kathimerini:5992575e9532</id>
+    <updated>2026-08-28T13:29:51+00:00</updated>
+    <author><name>Αθανάσιος Κατσικίδης</name></author>
+    <category term="world"/>
+    <summary>Ο Σαουδάραβας δρ Αμπντουλαζίζ Σάγκερ, πρόεδρος του Gulf Research Center, εξηγεί στην «Κ» ότι η Συμφωνία Κοινής Άμυνας της Μέκκας μεταξύ Σαουδικής Αραβίας, Τουρκίας και Πακιστάν δεν συνιστά «ισλαμικό ΝΑΤΟ», καθώς στερείται θεσμικών δομών. Η συνέντευξη έρχεται ενώ το ΚΥΣΕΑ κρίνει την τύχη της ελληνικής πυροβολαρχίας Patriot που προστατεύει εγκαταστάσεις της Aramco. / Saudi scholar Dr. Abdulaziz Sager, head of the Gulf Research Center, tells Kathimerini the Mecca Joint Defense Agreement between Saudi Arabia, Turkey and Pakistan is not an &#x27;Islamic NATO&#x27;, as it lacks institutional structures. The interview comes as Greece&#x27;s security council weighs the fate of the Greek Patriot battery protecting Aramco facilities.</summary>
   </entry>
   <entry>
     <title>Αγκυρα για Ρόδο: «Αν γίνει βάση UAV, θα βλάψει την ειρήνη και τη σταθερότητα στο Αιγαίο»</title>
     <link href="https://www.kathimerini.gr/politics/564423238/agkyra-gia-rodo-an-ginei-vasi-uav-tha-vlapsei-tin-eirini-kai-ti-statherotita-sto-aigaio/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:400fd2d8ef41</id>
+    <id>urn:kathimerini:400fd2d8ef41</id>
     <updated>2026-08-27T12:49:34+00:00</updated>
     <author><name>Μανώλης Κωστίδης</name></author>
     <category term="politics"/>
-    <summary type="text">Το τουρκικό υπουργείο Άμυνας προειδοποίησε ότι η εγκατάσταση βάσης μη επανδρωμένων αεροχημάτων στη Ρόδο θα «έβλαπτε την ειρήνη και τη σταθερότητα στο Αιγαίο» και τις σχέσεις καλής γειτονίας, επικαλούμενο εκ νέου το «αποστρατιωτικοποιημένο καθεστώς» του νησιού. Η Άγκυρα δήλωσε ότι θα προστατεύσει «αποφασιστικά» τα δικαιώματά της βάσει διεθνών συνθηκών και θα λάβει τα απαραίτητα μέτρα. Παράλληλα χαρακτήρισε «θετικό βήμα» την απόφαση μεταφοράς των Patriot από την Κάρπαθο στην Κρήτη.</summary>
+    <summary>Το τουρκικό υπουργείο Άμυνας χαρακτήρισε την προοπτική βάσης UAV στη Ρόδο κίνηση που «θα έβλαπτε την ειρήνη και τη σταθερότητα στο Αιγαίο», επικαλούμενο εκ νέου το «αποστρατιωτικοποιημένο καθεστώς» του νησιού. Χαρακτήρισε πάντως «θετικό βήμα» τη μεταφορά των Patriot από την Κάρπαθο στην Κρήτη. / Turkey&#x27;s Defense Ministry called the prospect of a UAV base on Rhodes a move that &#x27;would harm peace and stability in the Aegean&#x27;, again invoking the island&#x27;s &#x27;demilitarized status&#x27;. It did, however, call the transfer of Patriots from Karpathos to Crete a &#x27;positive step&#x27;.</summary>
   </entry>
   <entry>
-    <title>Γιατί πήγε ο Ράτκλιφ στη Ρωσία; Το διπλό μήνυμα στο Κρεμλίνο</title>
-    <link href="https://www.kathimerini.gr/world/564422950/giati-pige-o-ratklif-sti-rosia-to-diplo-minyma-sto-kremlino/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:4e6b0a94e1b4</id>
-    <updated>2026-08-27T09:44:57+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ο διευθυντής της CIA Τζον Ράτκλιφ προειδοποίησε αυτή την εβδομάδα Ρώσους αξιωματούχους στη Μόσχα να μην κλιμακώσουν τη σύγκρουση με χώρες του ΝΑΤΟ, ιδίως την Εσθονία, τη Λετονία και τη Λιθουανία, ενώ ζήτησε και μείωση της ρωσικής στρατιωτικής και οικονομικής στήριξης προς το Ιράν, σύμφωνα με το Politico. Η μυστική επίσκεψη, η πρώτη επικεφαλής της CIA επί προεδρίας Τραμπ, επιβεβαιώθηκε επισήμως μόλις την Τετάρτη και πυροδότησε εικασίες, με τη Wall Street Journal να αναφέρει ότι ο Πούτιν ίσως εξαπολύσει «περιορισμένη επίθεση» κατά του ΝΑΤΟ τα επόμενα χρόνια. Ο Τραμπ χαρακτήρισε το ταξίδι «μισο-ρουτίνα» με επίκεντρο την Ουκρανία, ενώ ο Πεσκόφ είπε ότι ο Ράτκλιφ δεν συναντήθηκε με τον Πούτιν.</summary>
-  </entry>
-  <entry>
-    <title>Eγκαίνια Μετρό Θεσσαλονίκης – Κυρ. Μητσοτάκης: «Κάθε έργο που εγκαινιάζουμε, σφραγίδα στο διαβατήριο αξιοπιστίας»</title>
-    <link href="https://www.kathimerini.gr/politics/564423019/live-ta-egkainia-tis-epektasis-toy-metro-tis-thessalonikis-pros-kalamaria/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:c7a2b5f6715a</id>
-    <updated>2026-08-27T10:05:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Κυριάκος Μητσοτάκης εγκαινίασε την επέκταση του μετρό Θεσσαλονίκης προς την Καλαμαριά στον σταθμό «Μίκρα», με πέντε νέους σταθμούς και σχεδόν 5 χλμ. γραμμής που άνοιξαν για το κοινό στις 15:00. Ο πρωθυπουργός μίλησε για «σφραγίδα στο διαβατήριο αξιοπιστίας» και θύμισε ότι χρειάστηκαν σχεδόν 40 χρόνια για να ολοκληρωθεί η βασική γραμμή, προαναγγέλλοντας τον σχεδιασμό επέκτασης στις βορειοδυτικές συνοικίες. Ο επίτροπος Απόστολος Τζιτζικώστας ανέφερε 63.000 επιβάτες ημερησίως και 12.000 λιγότερα αυτοκίνητα στους δρόμους.</summary>
-  </entry>
-  <entry>
-    <title>Καρκίνος του μαστού: Κίνδυνος απόσυρσης σημαντικής θεραπείας από την Ελλάδα</title>
-    <link href="https://www.kathimerini.gr/society/reportaz/564420019/karkinos-toy-mastoy-kindynos-aposyrsis-simantikis-therapeias-apo-tin-ellada/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:89b1509efa18</id>
-    <updated>2026-08-27T12:40:40+00:00</updated>
-    <author><name>Σοφία Χρήστου</name></author>
-    <category term="society"/>
-    <summary type="text">Η Gilead έχει ενημερώσει τον ΕΟΦ και την ΕΛΛΟΚ για πιθανή απόσυρση του Trodelvy (sacituzumab govitecan) από την ελληνική αγορά, με βασική αιτία το υψηλό clawback, ενώ οι διαπραγματεύσεις με την Επιτροπή Διαπραγμάτευσης Τιμών του ΕΟΠΥΥ συνεχίζονται. Ογκολόγοι όπως ο Αλέξανδρος Αρδαβάνης του «Αγίου Σάββα» χαρακτηρίζουν το φάρμακο «αναντικατάστατο» για ασθενείς με μεταστατικό και τριπλά αρνητικό καρκίνο του μαστού, ενώ η ΕΟΠΕ με επιστολή της στις 4 Αυγούστου ζητεί λύσεις, σημειώνοντας ότι προηγήθηκε και η απόσυρση του Panitumumab. Το υπουργείο Υγείας εμφανίζεται καθησυχαστικό, με εναλλακτικές τη διάθεση μέσω ΙΦΕΤ ή ατομικής παραγγελίας.</summary>
-  </entry>
-  <entry>
-    <title>Νίκος Δεσύλλας (1943-2026): Πορτρετίστας μιας Ελλάδας που χάνεται</title>
-    <link href="https://www.kathimerini.gr/culture/564420790/nikos-desyllas-1943-2026-portretistas-mias-elladas-poy-chanetai/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:66c00816b5d7</id>
-    <updated>2026-08-26T22:27:12+00:00</updated>
-    <author><name>Τασούλα Επτακοίλη</name></author>
-    <category term="culture"/>
-    <summary type="text">Εφυγε από τη ζωή σε ηλικία 83 ετών ο φωτογράφος Νίκος Δεσύλλας (1943-2026), ο «ήρεμος γίγαντας της ελληνικής φωτογραφίας», που επί πάνω από 50 χρόνια διέσχιζε την Ελλάδα καταγράφοντας ανθρώπους της υπαίθρου, ξωκκλήσια και τοπία μιας χώρας που άλλαζε ραγδαία. Σπούδασε στη Σχολή Δοξιάδη, συνεργάστηκε με τον ΕΟΤ, την Εκδοτική Αθηνών και την Οργανωτική Επιτροπή «Αθήνα 2004», κόσμησε το στούντιο του CBS στους Ολυμπιακούς και άφησε 16 φωτογραφικά λευκώματα. Η θετή του κόρη Σοφία Πέρπερα λέει στην «Κ» ότι πρόλαβε να ολοκληρώσει τη φωτογράφιση για το «κύκνειο άσμα» του, ένα βιβλίο για το ελληνικό κρασί.</summary>
-  </entry>
-  <entry>
-    <title>Η Τουρκία, η κυβέρνηση και η αντιπολίτευση</title>
-    <link href="https://www.kathimerini.gr/opinion/564422494/i-toyrkia-i-kyvernisi-kai-i-antipoliteysi/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:621be09cc418</id>
-    <updated>2026-08-27T08:29:00+00:00</updated>
-    <author><name>Αθανάσιος Έλλις</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Έλλις προειδοποιεί ότι ο Μητσοτάκης, θεωρώντας την εξωτερική πολιτική προνομιακό του πεδίο, φαίνεται αποφασισμένος να κρατήσει την Τουρκία ψηλά στην ατζέντα και να πάει στις κάλπες με το δίλημμα της αποτελεσματικότερης αντιμετώπισης της Άγκυρας. Θεωρεί ότι αυτό εγκυμονεί εθνικά επικίνδυνο αυτοεγκλωβισμό, καθώς ο πρωθυπουργός δέχεται πυρά από όλο το φάσμα, ακόμη και εντός Ν.Δ., για τα «ήρεμα νερά», και θα πρέπει να ισορροπήσει ανάμεσα στον ρεαλισμό και τη σκληρή στάση απέναντι στον τουρκικό αναθεωρητισμό. Με τα τουρκικά θαλάσσια πάρκα και τη διασύνδεση Ελλάδας-Κύπρου να δοκιμάζουν τις σχέσεις, ζητεί αρραγές εθνικό μέτωπο: ούτε λαϊκίστικες κορώνες από την αντιπολίτευση ούτε κομματική εκμετάλλευση από την κυβέρνηση.</summary>
-  </entry>
-  <entry>
-    <title>Η πρώτη επέμβαση εγκεφάλου στον κόσμο με «ζωντανή» βοήθεια AI – Αφαιρέθηκε όγκος από 48χρονο</title>
-    <link href="https://www.kathimerini.gr/world/564423010/i-proti-epemvasi-egkefaloy-ston-kosmo-me-zontani-voitheia-ai-afairethike-ogkos-apo-48chrono/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:a4dfd8996abc</id>
-    <updated>2026-08-27T10:03:27+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Χειρουργοί του University College London Hospital αφαίρεσαν με επιτυχία όγκο 11 χιλιοστών από την υπόφυση του 48χρονου Ρις Χίμπερτ, στην πρώτη παγκοσμίως επέμβαση εγκεφάλου με «ζωντανή» υποστήριξη τεχνητής νοημοσύνης. Το σύστημα, εκπαιδευμένο σε εκατοντάδες βίντεο επεμβάσεων, ανέλυε σε πραγματικό χρόνο την εικόνα του ενδοσκοπίου και επισήμαινε κρίσιμα αγγεία και νεύρα κρυμμένα πίσω από ιστούς – σε επεμβάσεις όπου ο κίνδυνος τραυματισμού μεγάλου αγγείου φτάνει το 0,5%-2%. Ο καθηγητής Νευροχειρουργικής Χάνι Μάρκους το περιέγραψε ως «δεύτερο, εξειδικευμένο ζευγάρι ματιών» και η ομάδα, χρηματοδοτούμενη από το NIHR και την Google, προετοιμάζει μεγαλύτερη κλινική δοκιμή.</summary>
-  </entry>
-  <entry>
-    <title>Τελευταία ευκαιρία μετάβασης στο ευρώ δανείων σε ελβετικό φράγκο</title>
-    <link href="https://www.kathimerini.gr/economy/local/564422749/teleytaia-eykairia-metavasis-sto-eyro-daneion-se-elvetiko-fragko/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:a7e049dd2a0f</id>
-    <updated>2026-08-27T11:54:18+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <category term="economy"/>
-    <summary type="text">Στις 30 Σεπτεμβρίου λήγει η προθεσμία για την ένταξη στη ρύθμιση του υπουργείου Εθνικής Οικονομίας για τα δάνεια σε ελβετικό φράγκο, χωρίς να εξετάζεται νέα παράταση. Η ρύθμιση αφορά 20.625 ενήμερα δάνεια ύψους 2,5 δισ. που παραμένουν σε τράπεζες, ενώ άλλα 17.442 δάνεια αξίας 3 δισ. στα χέρια servicers μπορούν να ρυθμιστούν μέσω του εξωδικαστικού μηχανισμού. Περίπου το 60% των δικαιούχων έχει εκδηλώσει ενδιαφέρον, με το 75%-80% να κατευθύνεται στην τέταρτη κατηγορία που δίνει βελτίωση ισοτιμίας 15% και σταθερό επιτόκιο 2,30%-2,90%.</summary>
-  </entry>
-  <entry>
-    <title>Η περιοχή σε αναβρασμό</title>
-    <link href="https://www.kathimerini.gr/opinion/564422230/i-periochi-se-anavrasmo/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:fab78b059d95</id>
-    <updated>2026-08-27T12:57:00+00:00</updated>
-    <author><name>Κώστας Ιορδανίδης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Ιορδανίδης παίρνει αφορμή από την ομιλία Ερντογάν για τα 955 χρόνια από τη μάχη του Μαντζικέρτ, όπου ο Τούρκος πρόεδρος δήλωσε ότι «η ιστορία ξαναγράφεται» στην περιοχή. Υποστηρίζει ότι ο πραγματικός καταλύτης της αποδιοργάνωσης ήταν η αναποτελεσματική επίθεση ΗΠΑ-Ισραήλ κατά του Ιράν, την οποία ο Ερντογάν απέφυγε επιμελώς να αναφέρει, και ότι κύριος αντίπαλος της Άγκυρας είναι πλέον το Ισραήλ, όχι η Ελλάδα – εξού και η απουσία αναφορών σε Αθήνα και Λευκωσία. Προειδοποιεί ότι η «στρατηγική συμμαχία» Ελλάδας-Κύπρου-Ισραήλ και η επίσκεψη Χούπη στο Τελ Αβίβ ενοχλούν τους Τούρκους επιτελείς και μπορεί να φέρουν δυσάρεστες εκπλήξεις.</summary>
-  </entry>
-  <entry>
-    <title>Περιοδείες και εξαγγελίες ενόψει ΔΕΘ</title>
-    <link href="https://www.kathimerini.gr/politics/government/564422326/periodeies-kai-exaggelies-enopsei-deth/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:8c3cfbbc5bb2</id>
-    <updated>2026-08-27T12:59:10+00:00</updated>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">Από τη Δευτέρα και για όλη την εβδομάδα που καταλήγει στη ΔΕΘ, κυβερνητικά κλιμάκια θα περιοδεύσουν σε όλους τους νομούς της Βόρειας Ελλάδας με πλάνο που κατάρτισε ο γραμματέας της Ν.Δ. Κωνσταντίνος Κυρανάκης. Ο Μιχάλης Χρυσοχοΐδης εγκαινιάζει δύο αστυνομικές εγκαταστάσεις στον Έβρο, ο Άδωνις Γεωργιάδης επισκέπτεται δώδεκα δομές υγείας σε πέντε νομούς (1-3 Σεπτεμβρίου), ενώ ο Νίκος Δένδιας παρουσιάζει στην Ξάνθη τη δεύτερη μονάδα παραγωγής drones της χώρας, με δυνατότητα έως 1.000 FPV drones τον μήνα. Ακολουθούν το Θεραπευτήριο Χρονίων Παθήσεων Κιλκίς (4,28 εκατ. ευρώ δημόσια χρηματοδότηση συν δωρεά 690.000 ευρώ) και η ολοκλήρωση των έργων αποκατάστασης της Δαδιάς ύψους 86 εκατ. ευρώ.</summary>
-  </entry>
-  <entry>
-    <title>Κρεμλίνο για τα περί ρωσικής επίθεσης κατά του ΝΑΤΟ – «Ιστορίες τρόμου»</title>
-    <link href="https://www.kathimerini.gr/world/564423301/kremlino-gia-ta-peri-rosikis-epithesis-kata-toy-nato-istories-tromoy/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:eb03af853cd7</id>
-    <updated>2026-08-27T13:06:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Το Κρεμλίνο απέρριψε ως «ιστορίες τρόμου» τα δημοσιεύματα αμερικανικών μέσων ότι η Ρωσία ενδέχεται να επιτεθεί σε χώρα-μέλος του ΝΑΤΟ και ότι αυτός ήταν ο λόγος της επίσκεψης του διευθυντή της CIA Τζον Ράτκλιφ στη Μόσχα. Ο εκπρόσωπος Ντμίτρι Πεσκόφ είπε ότι τα δημοσιεύματα δεν έχουν «καμιά σχέση με τις προθέσεις της Ρωσικής Ομοσπονδίας», ενώ ο επικεφαλής της SVR μίλησε για «συνάντηση εργασίας» με τον Ράτκλιφ. Παράλληλα η Μόσχα ανακοίνωσε προσφυγή στα δικαστήρια κατά κάθε νέου σχεδίου της Ε.Ε. να αξιοποιήσει τα παγωμένα ρωσικά περιουσιακά στοιχεία υπέρ της Ουκρανίας, απαντώντας σε δημοσίευμα των Financial Times για πρωτοβουλία Σουηδίας, Ολλανδίας, Ισπανίας και Πολωνίας.</summary>
-  </entry>
-  <entry>
-    <title>Ακραίος κίνδυνος πυρκαγιάς την Παρασκευή (28/08) σε Κρήτη, Νότιο Αιγαίο</title>
-    <link href="https://www.kathimerini.gr/society/564423346/akraios-kindynos-pyrkagias-tin-paraskeyi-28-08-se-kriti-notio-aigaio/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:d376420ff95b</id>
-    <updated>2026-08-27T13:39:23+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">Ο Χάρτης Πρόβλεψης Κινδύνου Πυρκαγιάς της Πολιτικής Προστασίας προβλέπει για την Παρασκευή 28/08 ακραίο κίνδυνο (κατηγορία 5) στις Περιφέρειες Κρήτης και Νοτίου Αιγαίου, ενώ πέντε ακόμη περιφέρειες βρίσκονται σε πολύ υψηλό κίνδυνο (κατηγορία 4). Η Γενική Γραμματεία Πολιτικής Προστασίας έθεσε σε αυξημένη ετοιμότητα υπηρεσίες, περιφέρειες και δήμους και συνιστά αποφυγή εργασιών που προκαλούν σπινθήρες, υπενθυμίζοντας την απαγόρευση καύσης αγρών και τον αριθμό 199.</summary>
-  </entry>
-  <entry>
-    <title>Δύο νέα προγράμματα απασχόλησης για 35.500 ανέργους</title>
-    <link href="https://www.kathimerini.gr/economy/local/564420955/dyo-nea-programmata-apascholisis-gia-35-500-anergoys/"/>
-    <id>urn:greek-news-aggregator:2026-08-27:5ecd08495c10</id>
-    <updated>2026-08-26T22:48:15+00:00</updated>
+    <title>Αυξήσεις για χιλιάδες συνταξιούχους από το 2027</title>
+    <link href="https://www.kathimerini.gr/economy/local/564422719/ayxiseis-gia-chiliades-syntaxioychoys-apo-to-2027/"/>
+    <id>urn:kathimerini:6ba4024dce48</id>
+    <updated>2026-08-27T18:43:16+00:00</updated>
     <author><name>Ρούλα Σαλούρου</name></author>
     <category term="economy"/>
-    <summary type="text">Η ΔΥΠΑ σχεδιάζει δύο νέα προγράμματα απασχόλησης έως το τέλος του έτους για 35.500 ανέργους: ένα για 5.500 νέους 18-29 ετών με 12μηνη επιδότηση που μπορεί να καλύπτει το 100% του κόστους, και ένα δεύτερο για έως 30.000 ανέργους άνω των 30 με επιχορήγηση περίπου 80% του μισθολογικού κόστους και έμφαση στις γυναίκες και τους άνω των 50. Παράλληλα παραμένουν ανοιχτές πέντε δράσεις, μεταξύ των οποίων πρόγραμμα για 10.000 άνεργες γυναίκες και άνω των 45.000 θέσεων εργασιακής εμπειρίας. Από τον Αύγουστο του 2019 έως τον Ιούλιο του 2026 ωφελήθηκαν 298.408 άτομα, με τις γυναίκες στο 64%.</summary>
+    <summary>Από την 1η Ιανουαρίου 2027 καταργείται πλήρως η προσωπική διαφορά του νόμου Κατρούγκαλου, επιτρέποντας σε εκατοντάδες χιλιάδες παλαιούς συνταξιούχους να δουν πραγματικές αυξήσεις 36-50 ευρώ. Με εκτιμώμενη αύξηση κοντά στο 2,6%, οι ετήσιες αναπροσαρμογές θα περνούν πλέον ολόκληρες στο εισόδημα των δικαιούχων. / From January 1, 2027, the Katrougalos law&#x27;s &#x27;personal difference&#x27; is fully abolished, allowing hundreds of thousands of older pensioners to see real increases of €36-50. With an estimated adjustment near 2.6%, annual raises will now pass fully into beneficiaries&#x27; income.</summary>
+  </entry>
+  <entry>
+    <title>Νεπάλ: Ξανάρχισαν οι διασώσεις υπό τον φόβο νέων πλημμυρών</title>
+    <link href="https://www.kathimerini.gr/world/564425200/nepal-xanarchisan-oi-diasoseis-ypo-ton-fovo-neon-plimmyron/"/>
+    <id>urn:kathimerini:a380c8a4f8fa</id>
+    <updated>2026-08-28T12:04:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Επανεκκίνησαν οι επιχειρήσεις διάσωσης στο βόρειο Νεπάλ μετά από ολιγόωρη διακοπή λόγω υπερχείλισης τεχνητής λίμνης 1,5-2 εκατ. κυβικών μέτρων που σχηματίστηκε από συντρίμμια. Ομάδες προσπαθούν να απεγκλωβίσουν περίπου 100 εργαζομένους από σήραγγα υδροηλεκτρικού εργοταξίου, ενώ 350 άνθρωποι έχουν ήδη απομακρυνθεί. / Rescue operations resumed in northern Nepal after a brief halt due to the overflow of a 1.5-2 million cubic meter debris-dammed lake. Teams are trying to free about 100 workers trapped in a hydroelectric site tunnel, while 350 people have already been evacuated.</summary>
+  </entry>
+  <entry>
+    <title>Πολιτική ένταση με επίκεντρο την υποψηφιότητα Ακρίτα</title>
+    <link href="https://www.kathimerini.gr/politics/parliament/564424306/politiki-entasi-me-epikentro-tin-ypopsifiotita-akrita/"/>
+    <id>urn:kathimerini:6328a4bd97fd</id>
+    <updated>2026-08-28T10:11:33+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary>Συνεχίζεται η κόντρα για την πρόταση του ΣΥΡΙΖΑ να αναλάβει η Έλενα Ακρίτα τη θέση Ε΄ αντιπροέδρου της Βουλής, με τη Ν.Δ. να αρνείται να την ψηφίσει. Η Ρένα Δούρου εμμένει στην υποψηφιότητα παρότι χωρίς 75 «ναι» ο ΣΥΡΙΖΑ χάνει το δικαίωμα πρότασης, ενώ το ΠΑΣΟΚ δηλώνει ότι θα τη στηρίξει «θεσμικά». Η ψηφοφορία θα γίνει την Τετάρτη. / The standoff continues over SYRIZA&#x27;s nomination of Elena Akrita for Parliament&#x27;s fifth deputy speaker post, with New Democracy refusing to back her. Rena Dourou insists on the candidacy even though without 75 votes SYRIZA loses its right to nominate, while PASOK says it will support her &#x27;institutionally&#x27;. The vote is set for Wednesday.</summary>
+  </entry>
+  <entry>
+    <title>Απλησίαστα τα ακίνητα για το εισόδημα των Ελλήνων, εκτιμά η Moody’s</title>
+    <link href="https://www.kathimerini.gr/economy/local/564422728/aplisiasta-ta-akinita-gia-to-eisodima-ton-ellinon-ektima-i-moody-s/"/>
+    <id>urn:kathimerini:4d507a37769c</id>
+    <updated>2026-08-27T21:12:34+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>Η Moody&#x27;s διαπιστώνει ότι το εξαετές ράλι των ελληνικών ακινήτων έχει εκτινάξει τον δείκτη τιμών/εισοδημάτων, καθιστώντας τις κατοικίες απλησίαστες για τα ελληνικά νοικοκυριά. Ο οίκος προβλέπει ηπιότερες αυξήσεις στο μέλλον λόγω δημογραφικού, σημειώνοντας όμως ότι τα χαμηλά εισοδήματα και αποταμιεύσεις περιορίζουν την ανθεκτικότητα των νοικοκυριών. / Moody&#x27;s finds that Greece&#x27;s six-year property rally has sent the price-to-income ratio soaring, making homes unaffordable for Greek households. The agency forecasts milder price increases ahead due to demographics, but notes low incomes and savings limit households&#x27; resilience.</summary>
+  </entry>
+  <entry>
+    <title>Ρόδος: Εισαγγελική έρευνα για τα λύματα στη θάλασσα</title>
+    <link href="https://www.kathimerini.gr/society/564425449/rodos-eisaggeliki-ereyna-gia-ta-lymata-sti-thalassa/"/>
+    <id>urn:kathimerini:eced7bb0b1fd</id>
+    <updated>2026-08-28T13:36:18+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary>Εισαγγελική έρευνα βρίσκεται σε εξέλιξη για τη ρύπανση της θάλασσας στο Ακρωτήρι Βόδι της Ρόδου, κοντά στον υποθαλάσσιο αγωγό του βιολογικού καθαρισμού. Τρεις εκθέσεις του Γενικού Χημείου κατέγραψαν ακραία κοπρανώδη μόλυνση, με E. coli έως 200.000 αποικίες ανά 100 ml, και ζητούνται εξηγήσεις από πέντε υπηρεσίες. / A prosecutor-ordered investigation is under way into sea pollution at Cape Vodi, Rhodes, near the municipal sewage plant&#x27;s underwater outflow pipe. Three State Chemical Laboratory reports recorded extreme fecal contamination, with E. coli up to 200,000 colonies per 100 ml, and five agencies have been asked for explanations.</summary>
+  </entry>
+  <entry>
+    <title>Γλυπτά του Παρθενώνα: «Κάνει πίσω» ο Μπέρναμ – Τι απέγινε το «στείλτε τα πίσω χωρίς όρους»</title>
+    <link href="https://www.kathimerini.gr/world/564425074/glypta-toy-parthenona-kanei-piso-o-mpernam-ti-apegine-to-steilte-ta-piso-choris-oroys/"/>
+    <id>urn:kathimerini:07f2092b24e6</id>
+    <updated>2026-08-28T10:35:39+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary>Ο Βρετανός πρωθυπουργός Άντι Μπέρναμ, που ως δήμαρχος Μάντσεστερ ζητούσε την επιστροφή των Γλυπτών του Παρθενώνα «χωρίς όρους», εμφανίζεται πλέον συγκρατημένος: σε συνέντευξη στους FT παραπέμπει το ζήτημα στο Βρετανικό Μουσείο. Η μεταστροφή ψυχραίνει τις προσδοκίες που είχε καλλιεργήσει στην Αθήνα η άνοδός του στην Ντάουνινγκ Στριτ. / British PM Andy Burnham, who as Manchester mayor demanded the Parthenon Marbles be &#x27;sent back, no conditions&#x27;, now sounds restrained: in an FT interview he defers the matter to the British Museum. The shift dampens the expectations his rise to Downing Street had raised in Athens.</summary>
+  </entry>
+  <entry>
+    <title>Μαρκ Ζούκερμπεργκ: Ομηρία</title>
+    <link href="https://www.kathimerini.gr/opinion/564424630/mark-zoykermpergk-omiria/"/>
+    <id>urn:kathimerini:20411549cd35</id>
+    <updated>2026-08-28T12:58:00+00:00</updated>
+    <author><name>Μιχάλης Τσιντσίνης</name></author>
+    <category term="opinion"/>
+    <summary>Ο Μιχάλης Τσιντσίνης αναλύει τον συμβιβασμό των 17 δισ. δολαρίων της Meta με 47 αμερικανικές πολιτείες: ποσό «ανώδυνο» για εταιρεία με τζίρο 200 δισ., αλλά ηθικά συντριπτική ομολογία ότι οι πλατφόρμες ήταν κουρδισμένες να εθίζουν ανηλίκους. Τα μέτρα που δεσμεύτηκε να λάβει —όριο δύο ωρών, μπλόκο ειδοποιήσεων σε σχολικές ώρες— περιγράφουν εξ αντιδιαστολής τον μηχανισμό. / Michalis Tsintsinis analyzes Meta&#x27;s $17bn settlement with 47 US states: &#x27;painless&#x27; for a company with $200bn revenue, but a morally crushing admission that the platforms were tuned to addict minors. The committed measures — two-hour limits, notification bans during school hours — describe the mechanism by contrast.</summary>
+  </entry>
+  <entry>
+    <title>Γιαγιόι Κουσάμα (1929 – 2026): Από την τελεία στο άπειρο</title>
+    <link href="https://www.kathimerini.gr/culture/arts/564424495/giagioi-koysama-1929-2026-apo-tin-teleia-sto-apeiro/"/>
+    <id>urn:kathimerini:84c844253cd8</id>
+    <updated>2026-08-28T08:18:44+00:00</updated>
+    <author><name>Ξένια Γεωργιάδου</name></author>
+    <category term="culture"/>
+    <summary>Πέθανε στα 97 της η Γιαγιόι Κουσάμα, η «αιρετική της τέχνης» που αποτύπωσε το άπειρο με τελείες, λίγες ημέρες πριν από τη μεγάλη αναδρομική της στο Stedelijk του Άμστερνταμ (11/9). Η «Κ» ανατρέχει στη διαδρομή της από το Ματσουμότο της Ιαπωνίας στη Νέα Υόρκη και στην κορυφή της σύγχρονης τέχνης. / Yayoi Kusama, art&#x27;s &#x27;heretic&#x27; who rendered infinity in polka dots, died at 97, just days before her major retrospective at Amsterdam&#x27;s Stedelijk Museum (Sept 11). Kathimerini traces her journey from Matsumoto, Japan, to New York and the summit of contemporary art.</summary>
+  </entry>
+  <entry>
+    <title>Τρεις ώρες εξοικονομούν κάθε εβδομάδα οι εργαζόμενοι με την ΑΙ</title>
+    <link href="https://www.kathimerini.gr/economy/564422830/treis-ores-exoikonomoyn-kathe-evdomada-oi-ergazomenoi-me-tin-ai/"/>
+    <id>urn:kathimerini:0880e0daf91d</id>
+    <updated>2026-08-27T15:29:08+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary>Ανάλυση της ΕΚΤ δείχνει ότι ο μέσος εργαζόμενος που χρησιμοποιεί AI εξοικονομεί τρεις ώρες την εβδομάδα, με τη χρήση να διπλασιάζεται σε δύο χρόνια (από 26% το 2024 σε 52% το 2026). Η διείσδυση ευνοεί νεότερους και πιο μορφωμένους εργαζομένους, όμως η ΕΚΤ προειδοποιεί ότι η εξοικονόμηση χρόνου δεν μεταφράζεται αυτόματα σε αύξηση παραγωγικότητας. / An ECB analysis shows the average AI-using worker saves three hours weekly, with usage doubling in two years (from 26% in 2024 to 52% in 2026). Adoption favors younger and more educated workers, but the ECB warns time savings don&#x27;t automatically translate into productivity gains.</summary>
+  </entry>
+  <entry>
+    <title>Καιρός: «Αγριεύει» το μελτέμι – Ριπές έως 120 χλμ. την ώρα, ποιες περιοχές θα χτυπήσει</title>
+    <link href="https://www.kathimerini.gr/society/564425425/kairos-agrieyei-to-meltemi-ripes-eos-120-chlm-tin-ora-poies-perioches-tha-chtypisei/"/>
+    <id>urn:kathimerini:8c5e0d062c29</id>
+    <updated>2026-08-28T13:23:33+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary>Ενισχύεται σημαντικά το μελτέμι στο Αιγαίο με κορύφωση το Σάββατο, όταν οι ριπές στην ανατολική Κρήτη θα φτάσουν τα 110-120 χλμ./ώρα, σύμφωνα με το meteo.gr. Άνεμοι έως 8 μποφόρ στο νοτιοανατολικό Αιγαίο και ριπές 70 χλμ./ώρα ακόμη και στην Αττική. / The meltemi winds are strengthening significantly in the Aegean, peaking Saturday when gusts in eastern Crete will reach 110-120 km/h, according to meteo.gr. Winds up to 8 Beaufort in the southeastern Aegean and 70 km/h gusts even in Attica.</summary>
   </entry>
 </feed>
