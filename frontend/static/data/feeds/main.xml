@@ -1,18 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Digest</title>
-  <subtitle>Top stories from kathimerini.gr, 2026-08-30</subtitle>
+  <title>Greek News Digest</title>
+  <subtitle>Daily digest of Greek news from kathimerini.gr</subtitle>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
   <id>urn:greek-news-aggregator:feed</id>
-  <updated>2026-08-30T13:17:17Z</updated>
+  <updated>2026-08-31T11:16:02Z</updated>
   <entry>
-    <title>Ανετράπη επιβατικό πλοίο με 279 άτομα ανοιχτά της Κερύνειας – Εξι νεκροί</title>
-    <link href="https://www.kathimerini.gr/world/564428596/kypros-anapodogyrise-epivatiko-ploio-me-279-atoma-anoichta-tis-keryneias-anafores-gia-traymaties/"/>
-    <id>urn:kathimerini:55f4cbacdbac</id>
-    <updated>2026-08-30T14:17:12+00:00</updated>
+    <title>«Ασπίδα του Αχιλλέα»: Υπεγράφη η αμυντική συμφωνία 3 δισ. ευρώ μεταξύ Ελλάδας και Ισραήλ</title>
+    <link href="https://www.kathimerini.gr/politics/564429256/aspida-toy-achillea-epesan-oi-ypografes-gia-ton-elliniko-tholo/"/>
+    <id>urn:kathimerini:4b81e9dc12ef</id>
+    <updated>2026-08-31T11:50:15+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Υπεγράφη στο Τελ Αβίβ η αμυντική συμφωνία «Ασπίδα του Αχιλλέα» μεταξύ Ελλάδας και Ισραήλ, συνολικού προϋπολογισμού 3,035 δισ. ευρώ, για πολυεπίπεδο σύστημα αεράμυνας. Τη συμφωνία υπέγραψαν ο υποστράτηγος Ιωάννης Μπούρας και κορυφαίοι Ισραηλινοί αξιωματούχοι, με συμμετοχή των Rafael και IAI. Προβλέπεται ευρεία συμμετοχή του ελληνικού αμυντικού οικοσυστήματος, με 19 ελληνικές εταιρείες ήδη στις διαδικασίες.</summary>
+    <content type="text" xml:lang="en">Greece and Israel signed the &#x27;Achilles Shield&#x27; defense agreement in Tel Aviv, a €3.035 billion program for a multi-layered air defense system. Maj. Gen. Ioannis Bouras signed for Greece alongside senior Israeli officials, with Rafael and IAI involved. The program provides for broad participation of the Greek defense industry, with 19 Greek companies already engaged.</content>
+  </entry>
+  <entry>
+    <title>Μείωση τιμών: Σε ποια προϊόντα μειώνονται οι τιμές – Τα ποσοστά έκπτωσης ανά κωδικό</title>
+    <link href="https://www.kathimerini.gr/economy/local/564429262/meiosi-timon-se-poia-proionta-meionontai-oi-times-ta-pososta-ekptosis-ana-kodiko/"/>
+    <id>urn:kathimerini:ddba04a4926b</id>
+    <updated>2026-08-31T12:08:09+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Από σήμερα περνούν στο ράφι οι μειώσεις τιμών σε περισσότερους από 1.740 κωδικούς προϊόντων, με μέσο όρο έκπτωσης έως 9,5%, στο πλαίσιο της Εθνικής Πρωτοβουλίας Μείωσης Τιμών. Συμμετέχουν πάνω από 100 προμηθευτές, 12 αλυσίδες σούπερ μάρκετ και τρεις αλυσίδες παιχνιδιών και σχολικών ειδών. Τα σχολικά είδη έχουν μέση μείωση 12% και το κρέας περίπου 7,5%, ενώ αναμένονται νέες προσθήκες μέσα στην εβδομάδα.</summary>
+    <content type="text" xml:lang="en">Price cuts on more than 1,740 product codes hit shelves today, averaging up to 9.5%, under the National Price Reduction Initiative. Over 100 suppliers, 12 supermarket chains and three toy/school-supply chains participate. School supplies see an average 12% cut and meat about 7.5%, with more additions expected during the week.</content>
+  </entry>
+  <entry>
+    <title>«Ασπίδα του Αχιλλέα»: Σήμερα στο Ισραήλ οι υπογραφές</title>
+    <link href="https://www.kathimerini.gr/politics/564428962/aspida-toy-achillea-simera-sto-israil-oi-ypografes/"/>
+    <id>urn:kathimerini:d52ddb71f2c0</id>
+    <updated>2026-08-31T07:40:39+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Στο Τελ Αβίβ υπογράφηκε η συμφωνία για την «Ασπίδα του Αχιλλέα», το πολυεπίπεδο σύστημα αεράμυνας ύψους 3,1 δισ. ευρώ που θα ενισχύσει τις ελληνικές Ένοπλες Δυνάμεις. Το σύστημα θα τεθεί σε πλήρη λειτουργία σε 35 μήνες, με ελληνική βιομηχανική συμμετοχή 25% και εκχώρηση πηγαίου κώδικα ώστε η Ελλάδα να ελέγχει το λογισμικό του αντιαεροπορικού θόλου.</summary>
+    <content type="text" xml:lang="en">The &#x27;Achilles Shield&#x27; agreement was set for signature in Tel Aviv: a €3.1 billion multi-layered air defense system for the Greek Armed Forces. Full operation is expected within 35 months, with 25% Greek industrial participation and source-code transfer giving Greece control over the air-defense dome&#x27;s software.</content>
+  </entry>
+  <entry>
+    <title>Κρας τεστ στην Κάσο</title>
+    <link href="https://www.kathimerini.gr/politics/564426871/kras-test-stin-kaso/"/>
+    <id>urn:kathimerini:9d3b39c3f55d</id>
+    <updated>2026-08-31T09:23:50+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Η επανέναρξη των εργασιών για το καλώδιο Ελλάδας–Κύπρου ανοικτά της Κάσου δοκιμάζει τις ελληνοτουρκικές σχέσεις, μετά την ανακήρυξη τουρκικών θαλάσσιων πάρκων με προεδρικά διατάγματα Ερντογάν. Η Αθήνα απέστειλε διάβημα διαμαρτυρίας, εκτιμώντας ότι πρόκειται για ολική επιστροφή της Άγκυρας στην αναθεωρητική ατζέντα. Ο Γιώργος Γεραπετρίτης μεταφέρει το ζήτημα στην άτυπη σύνοδο Gymnich της Ε.Ε.</summary>
+    <content type="text" xml:lang="en">The resumption of work on the Greece–Cyprus electricity interconnector off Kasos is testing Greek-Turkish relations after Erdogan&#x27;s presidential decrees declaring Turkish marine parks in the Aegean. Athens delivered a formal protest, judging that Ankara has fully returned to a revisionist agenda, and FM Gerapetritis will raise the issue at the EU&#x27;s informal Gymnich summit.</content>
+  </entry>
+  <entry>
+    <title>Ναυάγιο στην Κερύνεια: Αγωνία για τους 18 αγνοουμένους – Συνεχίζονται οι έρευνες</title>
+    <link href="https://www.kathimerini.gr/world/564429040/nayagio-stin-keryneia-agonia-gia-toys-18-agnooymenoys-synechizontai-oi-ereynes/"/>
+    <id>urn:kathimerini:02b8e4fcc365</id>
+    <updated>2026-08-31T08:30:33+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>Επιβατικό πλοίο με 279 επιβαίνοντες ανετράπη και βυθίζεται λίγο μετά την αναχώρησή του από το λιμάνι της κατεχόμενης Κερύνειας, με τουλάχιστον έξι νεκρούς και 172 διασωθέντες σύμφωνα με τον ηγέτη του ψευδοκράτους. Η Κυπριακή Δημοκρατία, μέσω ΚΣΕΔ και ΟΥΝΦΙΚΥΠ, δήλωσε έτοιμη να συνδράμει ή και να αναλάβει την επιχείρηση διάσωσης με τα αεροναυτικά της μέσα. / A passenger ship carrying 279 people capsized and is sinking shortly after departing the port of occupied Kyrenia, with at least six dead and 172 rescued according to the Turkish-Cypriot leader. The Republic of Cyprus, via its rescue center and UNFICYP, declared readiness to assist or even take over the rescue operation with its air-sea assets.</summary>
+    <summary xml:lang="el">Συνεχίζονται αδιάκοπα οι έρευνες για τους 18 αγνοουμένους του ναυαγίου του καταμαράν «Filo Jet» ανοικτά της Κερύνειας, με αεροσκάφη, drones, ελικόπτερα νυχτερινής όρασης και πλοία. Ο απολογισμός: οκτώ νεκροί και 241 διασωθέντες από τους 267 επιβαίνοντες. Στα Κατεχόμενα κηρύχθηκε τριήμερο πένθος έως τις 2 Σεπτεμβρίου.</summary>
+    <content type="text" xml:lang="en">Search operations continue around the clock for the 18 missing from the &#x27;Filo Jet&#x27; catamaran wreck off Kyrenia, with aircraft, drones, night-vision helicopters and ships scouring the area. The toll stands at eight dead and 241 rescued of 267 aboard. A three-day mourning period was declared in the occupied north through September 2.</content>
+  </entry>
+  <entry>
+    <title>Θρήνος χωρίς τέλος στο Νεπάλ: Στους 903 οι νεκροί, ξεπέρασαν τις 4.200 οι αγνοούμενοι</title>
+    <link href="https://www.kathimerini.gr/world/564429037/thrinos-choris-telos-sto-nepal-stoys-903-oi-nekroi-xeperasan-toys-4-200-oi-agnooymenoi/"/>
+    <id>urn:kathimerini:ec5723974b8e</id>
+    <updated>2026-08-31T08:53:32+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Στους 903 οι νεκροί από την καταστροφική κατολίσθηση της Τετάρτης στο Νεπάλ στα σύνορα με την Κίνα, με 4.247 αγνοουμένους, ενώ στο Θιβέτ καταγράφονται 16 νεκροί και 546 αγνοούμενοι. Τουλάχιστον 933 εργάτες πιστεύεται ότι είναι παγιδευμένοι σε σήραγγες υδροηλεκτρικών έργων, καθώς συνεχίζονται ταφές θυμάτων που δεν έχουν καν ταυτοποιηθεί.</summary>
+    <content type="text" xml:lang="en">The death toll from Wednesday&#x27;s catastrophic landslide in Nepal on the Chinese border reached 903, with 4,247 missing; Tibet reports 16 dead and 546 missing. At least 933 workers are believed trapped in hydropower tunnels as burials continue, many victims still unidentified.</content>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης προς Αούν: «Αναβάθμιση των σχέσεων Ελλάδας-Λιβάνου – Στεκόμαστε σταθερά δίπλα σας»</title>
+    <link href="https://www.kathimerini.gr/politics/564429370/mitsotakis-pros-aoyn-anavathmisi-ton-scheseon-elladas-livanoy-stekomaste-stathera-dipla-sas/"/>
+    <id>urn:kathimerini:89b65220bca7</id>
+    <updated>2026-08-31T13:34:13+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary xml:lang="el">Ο Κυριάκος Μητσοτάκης υποδέχθηκε στο Μαξίμου τον πρόεδρο του Λιβάνου Ζοζέφ Αούν, ανακοινώνοντας αναβάθμιση των διμερών σχέσεων σε στρατηγική εταιρική σχέση. Ο πρωθυπουργός τόνισε την αδιαπραγμάτευτη στήριξη της Ελλάδας στην κυριαρχία και ενότητα του Λιβάνου και χαιρέτισε την απόφαση της Βηρυτού για απευθείας διάλογο με το Ισραήλ με αμερικανική διαμεσολάβηση. Αναφέρθηκε επίσης σε ενεργειακές γέφυρες που συνδέουν την Ανατολική Μεσόγειο με την Ευρώπη.</summary>
+    <content type="text" xml:lang="en">PM Kyriakos Mitsotakis hosted Lebanese President Joseph Aoun in Athens, announcing an upgrade of bilateral ties to a strategic partnership. He stressed Greece&#x27;s unconditional support for Lebanon&#x27;s sovereignty and unity and welcomed Beirut&#x27;s decision to pursue direct dialogue with Israel under US mediation, while highlighting energy links binding the Eastern Mediterranean to Europe.</content>
+  </entry>
+  <entry>
+    <title>Κυψέλη: Εξετάζεται εγκληματική ενέργεια για τον θάνατο του βρέφους – Τα νέα ευρήματα</title>
+    <link href="https://www.kathimerini.gr/society/564429229/kypseli-exetazetai-egklimatiki-energeia-gia-ton-thanato-toy-vrefoys-ta-nea-eyrimata/"/>
+    <id>urn:kathimerini:00c3261c0043</id>
+    <updated>2026-08-31T11:19:28+00:00</updated>
+    <author><name>Ελένη Καρανικόλα - Κοντορούση</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Το ενδεχόμενο εγκληματικής ενέργειας εξετάζουν οι Αρχές για τον θάνατο του βρέφους που βρέθηκε κατεψυγμένο σε βαλίτσα στην Κυψέλη, μετά τον εντοπισμό σημαδιών στο σώμα του από τον ιατροδικαστή. Ανησυχία προκαλεί και το εύρημα ότι τα δύο ανήλικα αγόρια της οικογένειας, 12 και 9 ετών, πάσχουν από αφροδίσιο νόσημα· τα παιδιά νοσηλεύονται προστατευτικά στο Παίδων.</summary>
+    <content type="text" xml:lang="en">Authorities are now treating the death of the infant found frozen in a suitcase in Kypseli as a possible crime, after the coroner identified marks on the body. Alarm deepened when medical checks found the family&#x27;s two boys, aged 12 and 9, suffer from a venereal disease; both are in protective hospital care.</content>
+  </entry>
+  <entry>
+    <title>Σε ισχύ από αύριο η συμφωνία για μείωση τιμών</title>
+    <link href="https://www.kathimerini.gr/economy/564427345/se-ischy-apo-ayrio-i-symfonia-gia-meiosi-timon/"/>
+    <id>urn:kathimerini:f659cace0628</id>
+    <updated>2026-08-30T21:00:45+00:00</updated>
+    <author><name>Δήμητρα Μανιφάβα</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Σε ισχύ τίθεται το δεύτερο και κυριότερο μέρος της «συμφωνίας κυρίων» κυβέρνησης, βιομηχανίας και σούπερ μάρκετ για τον περιορισμό της ακρίβειας, με μειώσεις σε περίπου 1.500 κωδικούς — πάνω από τον αρχικό στόχο των 1.000. Το ύψος των μειώσεων διαμορφώνεται στο 7%-8%, κοντά στο κάτω όριο του στόχου, με τις γεωπολιτικές εξελίξεις να επηρεάζουν καύσιμα και κόστος παραγωγής.</summary>
+    <content type="text" xml:lang="en">The second and main phase of the &#x27;gentlemen&#x27;s agreement&#x27; between government, industry and supermarkets to curb inflation takes effect, cutting prices on roughly 1,500 product codes — above the initial 1,000 target. Reductions average 7-8%, near the lower bound of the goal, with geopolitics still weighing on fuel and production costs.</content>
+  </entry>
+  <entry>
+    <title>ΗΠΑ – Ιράν: Με AI βίντεο οι νέες απειλές Τραμπ – «Η νήσος Χαργκ γίνεται συντρίμμια»</title>
+    <link href="https://www.kathimerini.gr/world/564429061/ipa-iran-me-ai-vinteo-oi-nees-apeiles-tramp-i-nisos-chargk-ginetai-syntrimmia/"/>
+    <id>urn:kathimerini:42829f7c1b64</id>
+    <updated>2026-08-31T10:34:46+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary xml:lang="el">Ο Ντόναλντ Τραμπ ανήρτησε βίντεο δημιουργημένο με τεχνητή νοημοσύνη που δείχνει τη νήσο Χαργκ να καταστρέφεται, λίγες ώρες μετά τη νέα ανταλλαγή επιθέσεων ΗΠΑ–Ιράν — την πρώτη από τον Ιούλιο. Δεν κατέστη σαφές αν επρόκειτο για απειλή ή υπαινιγμό πραγματικής επίθεσης· ώρες μετά δεν υπήρχε ένδειξη πλήγματος και η ιρανική πλευρά χαρακτήρισε «γελοίες» τις αναρτήσεις.</summary>
+    <content type="text" xml:lang="en">Donald Trump posted an AI-generated video depicting Iran&#x27;s Kharg Island being destroyed, hours after a new exchange of strikes between Washington and Tehran — the first since July. It was unclear whether the post was a threat or implied a real attack; hours later there was no sign of a strike, and Iran&#x27;s national oil company chief called the posts &#x27;ridiculous&#x27;.</content>
+  </entry>
+  <entry>
+    <title>Μαφίες χωρίς τιμωρία</title>
+    <link href="https://www.kathimerini.gr/society/564427072/mafies-choris-timoria/"/>
+    <id>urn:kathimerini:3c48dd4d2356</id>
+    <updated>2026-08-31T12:44:07+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Ρεπορτάζ της «Κ» για τις πολύκροτες υποθέσεις οργανωμένου εγκλήματος που εξιχνίασε το «ελληνικό FBI» αλλά παραμένουν χωρίς δίκη: βαρόνοι ναρκωτικών, λαθραία τσιγάρα, συμβόλαια θανάτου και κυκλώματα μαστροπείας. Λόγω των ρυθμών της Δικαιοσύνης, κατηγορούμενοι συμπληρώνουν το ανώτατο όριο προφυλάκισης και αποφυλακίζονται πριν δικαστούν.</summary>
+    <content type="text" xml:lang="en">A Kathimerini investigation into headline organized-crime cases cracked by the &#x27;Greek FBI&#x27; that still await trial: drug barons, contraband cigarettes, contract killings and prostitution rings. Because of the justice system&#x27;s pace, defendants reach the maximum pre-trial detention limit and walk free before ever facing a court.</content>
+  </entry>
+  <entry>
+    <title>Περιορίζεται η προκαταβολή φόρου σε βάθος 4ετίας</title>
+    <link href="https://www.kathimerini.gr/economy/564427306/periorizetai-i-prokatavoli-foroy-se-vathos-4etias/"/>
+    <id>urn:kathimerini:8938eec4928c</id>
+    <updated>2026-08-31T07:43:18+00:00</updated>
+    <author><name>Θάνος Τσίρος</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Πολυετές «συμβόλαιο» σταδιακής μείωσης φορολογικών βαρών για ελεύθερους επαγγελματίες και αυτοαπασχολούμενους αναμένεται να εξαγγείλει ο πρωθυπουργός στη ΔΕΘ. Έχει «κλειδώσει» η μείωση των συντελεστών προκαταβολής φόρου για φυσικά πρόσωπα, που μπορεί να ξεδιπλωθεί σε βάθος 4ετίας, ωφελώντας 700.000 αυτοαπασχολούμενους την περίοδο 2027-2031, μαζί με διορθώσεις στο τεκμαρτό εισόδημα.</summary>
+    <content type="text" xml:lang="en">The PM is expected to announce at the Thessaloniki International Fair a multi-year &#x27;contract&#x27; gradually easing the tax burden on freelancers and the self-employed. A cut in advance-tax rates for individuals is reportedly locked in, potentially phased over four years to benefit 700,000 self-employed from 2027-2031, alongside corrections to imputed income rules.</content>
+  </entry>
+  <entry>
+    <title>Συναγερμός στην Κυψέλη: Εμβρυο βρέθηκε κατεψυγμένο σε διαμέρισμα βραχυχρόνιας μίσθωσης</title>
+    <link href="https://www.kathimerini.gr/economy/business/564428914/synagermos-stin-kypseli-emvryo-vrethike-katepsygmeno-se-diamerisma-vrachychronias-misthosis/"/>
+    <id>urn:kathimerini:0979457ecb47</id>
+    <updated>2026-08-30T21:50:34+00:00</updated>
+    <author><name>Ελένη Καρανικόλα - Κοντορούση</name></author>
+    <category term="society"/>
+    <summary xml:lang="el">Συναγερμός στην Κυψέλη όπου αστυνομικοί εντόπισαν κατεψυγμένο έμβρυο σε δοχείο μέσα σε βαλίτσα, σε διαμέρισμα βραχυχρόνιας μίσθωσης στην οδό Θάσου. Στο διαμέρισμα διέμενε οικογένεια με τρία παιδιά και 26χρονος Αφγανός, φερόμενος σύντροφος της 15χρονης κόρης· όλοι οι ένοικοι προσήχθησαν και η υπόθεση διερευνάται.</summary>
+    <content type="text" xml:lang="en">Police in Kypseli found a frozen embryo in a container inside a suitcase at a short-term rental flat on Thasou Street, after the owner reported squatting tenants. A family with three children was staying there along with a 26-year-old Afghan man, reportedly the partner of the 15-year-old daughter; all occupants were detained as the investigation unfolds.</content>
+  </entry>
+  <entry>
+    <title>Πετρέλαιο κίνησης: Παρατείνεται και τον Σεπτέμβριο η επιδότηση των 10 λεπτών ανά λίτρο</title>
+    <link href="https://www.kathimerini.gr/economy/564429298/petrelaio-kinisis-parateinetai-kai-ton-septemvrio-i-epidotisi-ton-10-lepton-ana-litro/"/>
+    <id>urn:kathimerini:859d2a29359a</id>
+    <updated>2026-08-31T12:04:32+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Το υπουργείο Εθνικής Οικονομίας παρατείνει και τον Σεπτέμβριο την επιδότηση 10 λεπτών ανά λίτρο στο πετρέλαιο κίνησης, καθώς οι διεθνείς τιμές καυσίμων παραμένουν υψηλές. Το κόστος της μηνιαίας παράτασης υπολογίζεται σε 30 εκατ. ευρώ, ενώ από τον Απρίλιο το μέτρο έχει κοστίσει 211 εκατ. ευρώ. Στόχος είναι να συγκρατηθούν οι έμμεσες επιπτώσεις στην εφοδιαστική αλυσίδα και στις τελικές τιμές.</summary>
+    <content type="text" xml:lang="en">The Finance Ministry is extending the 10-cent-per-liter diesel subsidy through September as international fuel prices stay elevated. The one-month extension costs about €30 million, bringing the measure&#x27;s total cost since April to €211 million. The aim is to contain knock-on effects on the supply chain and final consumer prices.</content>
+  </entry>
+  <entry>
+    <title>Μείωση τεκμαρτού για συνεπείς φορολογουμένους</title>
+    <link href="https://www.kathimerini.gr/economy/564427309/meiosi-tekmartoy-gia-synepeis-forologoymenoys/"/>
+    <id>urn:kathimerini:c0b690145523</id>
+    <updated>2026-08-30T18:49:43+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary xml:lang="el">Το οικονομικό επιτελείο εξετάζει νέα παρέμβαση στο ελάχιστο τεκμαρτό εισόδημα των ελευθέρων επαγγελματιών: όχι κατάργηση, αλλά ευνοϊκότερη κλίμακα για τους φορολογικά συνεπείς. Ο Κ. Χατζηδάκης ξεκαθάρισε ότι το σύστημα διατηρείται, με τα έτη δραστηριότητας ως βάση και τη φορολογική συνέπεια να επηρεάζει την κλίμακα επιβάρυνσης.</summary>
+    <content type="text" xml:lang="en">The economic team is weighing a new tweak to the minimum imputed income regime for the self-employed: not abolition, but a more favorable scale for tax-compliant professionals. Deputy PM Hatzidakis confirmed the system stays, with years of activity as the base and tax compliance influencing the applicable bracket.</content>
   </entry>
   <entry>
     <title>Ναρκοπέδιο για δύο η Συρία</title>
@@ -21,79 +163,38 @@
     <updated>2026-08-30T11:28:49+00:00</updated>
     <author><name>Βασίλης Κωστούλας</name></author>
     <category term="politics"/>
-    <summary>Ανάλυση της «Κ» για το ενδεχόμενο ευθείας σύγκρουσης Τουρκίας – Ισραήλ στη Συρία, μετά τα ισραηλινά πλήγματα της 17ης Αυγούστου στη βάση Αμπού αλ-Ντουχούρ που είχαν επισκεφθεί Τούρκοι αξιωματικοί. Αναλυτές εκτιμούν ότι η Αγκυρα επιδιώκει σταθερότητα, εμπόριο και περιφερειακή πρόσβαση, ενώ η αποδυνάμωση του Ιράν ανοίγει χώρο στον Ερντογάν. Η διάλυση των SDF και η ενσωμάτωσή τους στη Δαμασκό αλλάζουν τα δεδομένα για το κουρδικό. / Kathimerini analysis on a possible direct Turkey–Israel confrontation in Syria, after the August 17 Israeli strikes on the Abu al-Duhur airbase previously visited by Turkish officers. Analysts say Ankara seeks stability, trade and regional access, while Iran's weakening opens space for Erdogan. The SDF's dissolution and integration into Damascus reshapes the Kurdish question.</summary>
+    <summary xml:lang="el">Ανάλυση για το ενδεχόμενο ευθείας σύγκρουσης Τουρκίας–Ισραήλ στη Συρία, μετά τα ισραηλινά πλήγματα της 17ης Αυγούστου στη βάση Αμπού αλ-Ντουχούρ που είχαν επισκεφθεί Τούρκοι αξιωματικοί. Αναλυτές εξηγούν στην «Κ» ότι η Άγκυρα επιδιώκει σταθερότητα, εμπόριο και πρόσβαση στην περιοχή, ενώ το ενδιαφέρον της για την κουρδική παρουσία στη βόρεια Συρία παραμένει ισχυρό.</summary>
+    <content type="text" xml:lang="en">An analysis of whether Turkey and Israel could clash directly in Syria, after Israeli strikes on August 17 hit the Abu al-Duhur airbase recently visited by Turkish officers. Analysts tell Kathimerini that Ankara seeks stability, trade and regional access, while its focus on the Kurdish presence in northern Syria remains strong.</content>
   </entry>
   <entry>
-    <title>Ρωσία: Προαναγγέλλει «μαζικές επιθέσεις» στις ενεργειακές υποδομές της Ουκρανίας</title>
-    <link href="https://www.kathimerini.gr/world/564428563/rosia-proanaggellei-mazikes-epitheseis-stis-energeiakes-ypodomes-tis-oykranias/"/>
-    <id>urn:kathimerini:87875c91a1b4</id>
-    <updated>2026-08-30T13:23:20+00:00</updated>
+    <title>Καλοί οι εξοπλισμοί, αλλά…</title>
+    <link href="https://www.kathimerini.gr/opinion/564427147/kaloi-oi-exoplismoi-alla/"/>
+    <id>urn:kathimerini:40f1c603392b</id>
+    <updated>2026-08-30T20:13:22+00:00</updated>
+    <author><name>Αλέξης Παπαχελάς</name></author>
+    <category term="opinion"/>
+    <summary xml:lang="el">Ο Αλέξης Παπαχελάς σημειώνει ότι ο τρόπος διεξαγωγής των πολέμων έχει αλλάξει θεαματικά: λίγοι καλά εκπαιδευμένοι χειριστές drones φυλάσσουν πλέον τεράστιες περιοχές, όπως έδειξαν Ουκρανία και Ιράν. Οι εξοπλισμοί είναι καλοί, προειδοποιεί, αλλά χωρίς εκσυγχρονισμό δομών, νέες τεχνολογίες και αξιοποίηση του ανθρώπινου δυναμικού δεν αρκούν.</summary>
+    <content type="text" xml:lang="en">Alexis Papachelas observes that warfare has changed dramatically: a few dozen well-trained drone operators can now guard vast areas, as Ukraine and Iran showed. Buying weapons is fine, he cautions — including Greece&#x27;s new systems — but without structural modernization, new technologies and better use of personnel, armaments alone are not enough.</content>
+  </entry>
+  <entry>
+    <title>Ναυάγιο στην Κερύνεια: Τι κατέθεσε ο καπετάνιος του «Filo Jet» – «Εσπασε η πλώρη από τα κύματα»</title>
+    <link href="https://www.kathimerini.gr/world/564429307/nayagio-stin-keryneia-ti-katethese-o-kapetanios-toy-filo-jet-espase-i-plori-apo-ta-kymata/"/>
+    <id>urn:kathimerini:380f11f03518</id>
+    <updated>2026-08-31T12:29:04+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary>Το ρωσικό υπουργείο Αμυνας ανακοίνωσε ότι προετοιμάζει «μαζικές επιθέσεις» στις ενεργειακές υποδομές της Ουκρανίας, ως αντίποινα στα ουκρανικά πλήγματα σε ρωσικές πετρελαϊκές εγκαταστάσεις. Οι εκατέρωθεν επιθέσεις μεγάλης εμβέλειας έχουν ενταθεί, με πλήγματα σε αποθήκες, λιμάνια και πλοία και επανειλημμένες απώλειες αμάχων. / Russia's defense ministry announced it is preparing 'massive strikes' on Ukraine's energy infrastructure, framed as retaliation for Ukrainian attacks on Russian oil facilities. Long-range strikes by both sides have intensified, hitting warehouses, ports and ships, with repeated civilian casualties.</summary>
+    <summary xml:lang="el">Ενώπιον του «δικαστηρίου» της κατεχόμενης Κερύνειας οδηγήθηκαν ο καπετάνιος, επτά μέλη πληρώματος και υπάλληλος της εταιρείας του «Filo Jet» μετά το πολύνεκρο ναυάγιο. Ο καπετάνιος κατέθεσε ότι η πλώρη έσπασε από τα κύματα, υποστηρίζοντας ότι οι καιρικές συνθήκες δεν απαγόρευαν τον απόπλου και ότι το πλοίο διέθετε άδειες. Οκτώ νεκροί, 18 αγνοούμενοι.</summary>
+    <content type="text" xml:lang="en">The captain, seven crew members and a company employee of the &#x27;Filo Jet&#x27; appeared before the &#x27;court&#x27; in occupied Kyrenia after the deadly shipwreck. The captain testified the bow broke under the waves, insisting weather at departure posed no problem and the vessel was licensed. Eight are dead and 18 remain missing.</content>
   </entry>
   <entry>
-    <title>Αντιμέτωπες με έξι κρίσιμα μέτωπα οι αγορές το φθινόπωρο</title>
-    <link href="https://www.kathimerini.gr/economy/564426715/antimetopes-me-exi-krisima-metopa-oi-agores-to-fthinoporo/"/>
-    <id>urn:kathimerini:dd1efa822d21</id>
-    <updated>2026-08-30T07:14:01+00:00</updated>
+    <title>ΗΠΑ: Στόχος η περαιτέρω οικονομική απομόνωση του Ιράν μέσω G20</title>
+    <link href="https://www.kathimerini.gr/economy/international/564429064/ipa-stochos-i-peraitero-oikonomiki-apomonosi-toy-iran-meso-g20/"/>
+    <id>urn:kathimerini:0bec1fd5ead9</id>
+    <updated>2026-08-31T09:36:25+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary>Το Reuters καταγράφει έξι κρίσιμα μέτωπα για τις αγορές τον Σεπτέμβριο: ο πόλεμος στο Ιράν και οι συνομιλίες Ιράν-Ομάν για τα Στενά του Ορμούζ, οι συνεδριάσεις Fed και Τράπεζας της Ιαπωνίας την ίδια εβδομάδα (με 40% πιθανότητα αύξησης επιτοκίων από τη Fed του Κέβιν Γουόρς), τα υψηλά κρατικά χρέη και ο επίμονος πληθωρισμός. Τα «μαξιλάρια» που απορρόφησαν το αρχικό σοκ εξαντλούνται. / Reuters maps six critical fronts for markets in September: the Iran war and Iran-Oman talks over the Strait of Hormuz, the Fed and Bank of Japan meeting the same week (markets price a 40% chance of a hike by Kevin Warsh's Fed), high sovereign debt and stubborn inflation. The buffers that absorbed the initial shock are running out.</summary>
-  </entry>
-  <entry>
-    <title>Νεπάλ: Ξεπέρασαν τους 730 οι νεκροί – Μετ’ εμποδίων η παροχή βοήθειας</title>
-    <link href="https://www.kathimerini.gr/world/564428389/nepal-xeperasan-toys-730-oi-nekroi-met-empodion-i-parochi-voitheias/"/>
-    <id>urn:kathimerini:9e6053577254</id>
-    <updated>2026-08-30T07:43:05+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Στους 734 οι νεκροί από τις πλημμύρες και κατολισθήσεις στο Νεπάλ, που το USGS αποδίδει σε κατάρρευση παγετώνα στα σύνορα με την Κίνα. Οι αρχές κάλεσαν τα συνεργεία διάσωσης σε «σύνεση» καθώς η στάθμη του ποταμού Μποτεκόσι στη Ρασούβα ανεβαίνει ξανά, ενώ η βροχή θα συνεχιστεί τουλάχιστον έως τη Δευτέρα, δυσχεραίνοντας την παροχή βοήθειας. / The death toll from Nepal's floods and landslides has reached 734, which the USGS attributes to a glacier collapse on the China border. Authorities urged rescue crews to exercise 'caution' as the Bhotekoshi river in Rasuwa rises again, while rain is forecast to continue at least through Monday, hampering aid delivery.</summary>
-  </entry>
-  <entry>
-    <title>Η τεχνητή νοημοσύνη στηρίζει τη διεθνή οικονομία</title>
-    <link href="https://www.kathimerini.gr/economy/international/564426649/i-techniti-noimosyni-stirizei-ti-diethni-oikonomia/"/>
-    <id>urn:kathimerini:9e3c65c35514</id>
-    <updated>2026-08-29T23:55:24+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>Η μαζική επένδυση στην τεχνητή νοημοσύνη λειτουργεί ως στήριγμα της παγκόσμιας οικονομίας παρά τον πόλεμο και το αυξημένο κόστος δανεισμού. Το ΔΝΤ προβλέπει ανάπτυξη 3% το 2026 και 3,4% το 2027· οι αμερικανικές επενδύσεις σε εξοπλισμό πληροφορικής αυξήθηκαν 16,5% το γ΄ τρίμηνο του 2025, ενώ η ζήτηση για data centers και ημιαγωγούς διαχέεται στην ασιατική εφοδιαστική αλυσίδα, προσθέτοντας έως 0,3% στην παγκόσμια παραγωγή. / Massive AI investment is propping up the global economy despite war and higher borrowing costs. The IMF projects 3% growth in 2026 and 3.4% in 2027; US investment in information-processing equipment rose 16.5% year-on-year in Q3 2025, while demand for data centers and semiconductors flows through the Asian supply chain, adding up to 0.3% to global output.</summary>
-  </entry>
-  <entry>
-    <title>Κυρ. Μητσοτάκης: Η Θεσσαλονίκη έχει ένα «χρωστούμενο» λιγότερο με την επέκταση του μετρό – Η Καλαμαριά δεν είναι το τέλος</title>
-    <link href="https://www.kathimerini.gr/politics/564428467/kyr-mitsotakis-i-thessaloniki-echei-ena-chrostoymeno-ligotero-me-tin-epektasi-toy-metro-i-kalamaria-den-einai-to-telos/"/>
-    <id>urn:kathimerini:bc1f18f50d1b</id>
-    <updated>2026-08-30T10:51:29+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary>Στην εβδομαδιαία ανασκόπησή του, ο Κυριάκος Μητσοτάκης εστίασε στην επέκταση του Μετρό Θεσσαλονίκης προς την Καλαμαριά, την οποία χαρακτήρισε «ένα χρωστούμενο λιγότερο»: πέντε νέοι σταθμοί, 4,78 χλμ. νέας γραμμής και 63.000 επιπλέον επιβιβάσεις ημερησίως. Ανακοίνωσε ότι οι μελέτες για την επέκταση προς τη δυτική Θεσσαλονίκη ξεκινούν άμεσα, ενώ αναφέρθηκε στην ανάπλαση της ΔΕΘ, στη μεταλιγνιτική μετάβαση της Δυτικής Μακεδονίας και στην ολοκλήρωση του Ταμείου Ανάκαμψης. / In his weekly review, PM Kyriakos Mitsotakis focused on the Thessaloniki Metro extension to Kalamaria, calling it 'one less debt owed': five new stations, 4.78 km of new line and 63,000 additional daily boardings. He announced that studies for the western Thessaloniki extension begin immediately, and also touched on the TIF redevelopment, Western Macedonia's post-lignite transition and the completion of the Recovery Fund.</summary>
-  </entry>
-  <entry>
-    <title>Οι Ισλανδοί απέρριψαν το σχέδιο για ένταξη στην Ε.Ε.</title>
-    <link href="https://www.kathimerini.gr/world/564428458/oi-islandoi-aperripsan-to-schedio-gia-entaxi-stin-e-e/"/>
-    <id>urn:kathimerini:5e32f1467899</id>
-    <updated>2026-08-30T10:37:56+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Οι Ισλανδοί απέρριψαν στο δημοψήφισμα την επανέναρξη των ενταξιακών διαπραγματεύσεων με την Ε.Ε.: με 188.500 ψήφους καταμετρημένες, το «όχι» επικράτησε με 52,5% έναντι 47,5%. Η εκστρατεία ανέδειξε το δίλημμα ανάμεσα στην οικονομική ασφάλεια που υπόσχεται η ένταξη και στις ανησυχίες για την κυριαρχία και τα αλιευτικά ύδατα του νησιού. / Icelanders rejected resuming EU accession negotiations in the referendum: with 188,500 votes counted, 'No' prevailed 52.5% to 47.5%. The campaign highlighted the dilemma between the economic security membership promises and concerns over the island's sovereignty and fishing waters.</summary>
-  </entry>
-  <entry>
-    <title>Μείωση τιμών σε περισσότερα από 1.660 προϊόντα – Πώς θα ενημερώνονται οι καταναλωτές</title>
-    <link href="https://www.kathimerini.gr/economy/local/564428410/meiosi-timon-se-perissotera-apo-1-660-proionta-pos-tha-enimeronontai-oi-katanalotes/"/>
-    <id>urn:kathimerini:83d95f5133b0</id>
-    <updated>2026-08-30T08:29:23+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>Με πάνω από 1.660 κωδικούς προϊόντων και μέση μείωση τιμών περίπου 7% ξεκινά τη Δευτέρα 31 Αυγούστου η διευρυμένη Εθνική Πρωτοβουλία Μείωσης Τιμών: 900 επώνυμοι κωδικοί (μειώσεις 5%-30%), 450+ σχολικά είδη (-10%), 250 προϊόντα ιδιωτικής ετικέτας και 60 κωδικοί κρέατος (-7,2%). Συμμετέχουν 90+ προμηθευτές, 12 αλυσίδες σούπερ μάρκετ και 3 αλυσίδες σχολικών ειδών· ο Τάκης Θεοδωρικάκος μιλά για «εθνική κοινωνική συμφωνία». / With over 1,660 product codes and an average price cut of about 7%, the expanded National Price Reduction Initiative launches Monday, August 31: 900 branded items (cuts of 5%-30%), 450+ school supplies (-10%), 250 private-label products and 60 meat codes (-7.2%). Over 90 suppliers, 12 supermarket chains and 3 school-supply chains participate; Minister Takis Theodorikakos calls it a 'national social pact'.</summary>
-  </entry>
-  <entry>
-    <title>Μόνος αντίπαλος ο Μητσοτάκης, λέει ο Τσίπρας</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564426148/monos-antipalos-o-mitsotakis-leei-o-tsipras/"/>
-    <id>urn:kathimerini:cc92d8f5a89d</id>
-    <updated>2026-08-30T09:04:27+00:00</updated>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics"/>
-    <summary>Σε προεκλογικό συναγερμό έθεσε την Ελληνική Αριστερή Συμπαράταξη ο Αλέξης Τσίπρας, μιλώντας στους τομεάρχες του κόμματος ενόψει ΔΕΘ. Παρουσίασε το τρίπτυχο «έντιμη διακυβέρνηση, δίκαιη ανάπτυξη, παραγωγική ανασυγκρότηση» και όρισε ως μοναδικό αντίπαλο την κυβέρνηση Μητσοτάκη, υποβαθμίζοντας την κόντρα με το ΠΑΣΟΚ για τη δεύτερη θέση. «Ετοιμαζόμαστε όχι μόνο να δώσουμε τη μάχη, αλλά να κυβερνήσουμε», τόνισε. / Alexis Tsipras put the Hellenic Left Coalition (ELAS) on pre-election footing, addressing party sector heads ahead of the Thessaloniki International Fair. He presented a platform of 'honest governance, fair growth, productive reconstruction' and named the Mitsotakis government as the party's only opponent, downplaying the rivalry with PASOK for second place. 'We are preparing not just to fight, but to govern,' he said.</summary>
+    <summary xml:lang="el">Οι υπουργοί Οικονομικών της G20 συνεδριάζουν στην Άσβιλ της Βόρειας Καρολίνας υπό αμερικανική προεδρία, με την Ουάσιγκτον να επιδιώκει περαιτέρω οικονομική απομόνωση του Ιράν. Ο Σκοτ Μπέσεντ και ο επικεφαλής της Fed Κέβιν Γουόρς ενορχηστρώνουν συνομιλίες για ανάπτυξη και απορρύθμιση, όμως ο πόλεμος στη Μέση Ανατολή και η ενεργειακή κρίση που προκάλεσε αναμένεται να κυριαρχήσουν στο παρασκήνιο.</summary>
+    <content type="text" xml:lang="en">G20 finance ministers meet in Asheville, North Carolina under the US presidency, with Washington pushing for further economic isolation of Iran. Treasury Secretary Scott Bessent and Fed chief Kevin Warsh will steer talks on growth and deregulation, but the Middle East war and the energy crisis it triggered are expected to dominate the corridors.</content>
   </entry>
   <entry>
     <title>Αναζητούν εργαζομένους σε δομές</title>
@@ -102,87 +203,7 @@
     <updated>2026-08-30T12:47:52+00:00</updated>
     <author><name>Ρούλα Σαλούρου</name></author>
     <category term="economy"/>
-    <summary>Με έλλειμμα εργατικού δυναμικού 200.000-250.000 θέσεων, ολοένα περισσότερες ελληνικές επιχειρήσεις σε βιομηχανία, logistics, κατασκευές και τουρισμό στρέφονται στους αιτούντες άσυλο που βρίσκονται ήδη στη χώρα. Το 2025 έφτασαν στην Ελλάδα πάνω από 41.000 άνθρωποι· 60 ημέρες μετά την αίτηση ασύλου αποκτούν δικαίωμα εργασίας μέσω ΠΑΑΥΠΑ και «Εργάνη», προσφέροντας ταχύτερη λύση από τις γραφειοκρατικές μετακλήσεις. / Facing a labor shortage of 200,000-250,000 jobs, more and more Greek companies in industry, logistics, construction and tourism are turning to asylum seekers already in the country. Over 41,000 people arrived in Greece in 2025; 60 days after filing for asylum they gain the right to work via the PAAYPA number and the Ergani system — a faster route than bureaucratic third-country recruitment.</summary>
-  </entry>
-  <entry>
-    <title>Η Βενεζουέλα διατηρεί την ιδιοκτησία του πετρελαίου της, διαβεβαιώνει η πρόεδρος της χώρας</title>
-    <link href="https://www.kathimerini.gr/world/564428446/i-venezoyela-diatirei-tin-idioktisia-toy-petrelaioy-tis-diavevaionei-i-proedros-tis-choras/"/>
-    <id>urn:kathimerini:56a3d82b8739</id>
-    <updated>2026-08-30T09:59:24+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Η υπηρεσιακή πρόεδρος της Βενεζουέλας Ντέλσι Ροντρίγκες διαβεβαίωσε ότι η χώρα «διατηρεί την ιδιοκτησία και την κυριαρχία των πόρων της», μετά την ανακοίνωση Τραμπ ότι οι ΗΠΑ αποκτούν τον «έλεγχο» 65 δισ. βαρελιών πετρελαίου — τη «μεγαλύτερη πετρελαϊκή συμφωνία στην ιστορία» — εννέα μήνες μετά την αιχμαλωσία του Μαδούρο σε αμερικανική στρατιωτική επιχείρηση. Η απουσία λεπτομερειών τροφοδοτεί σεναριολογία. / Venezuela's acting president Delcy Rodriguez insisted the country 'retains ownership and sovereignty over its resources', after Trump announced the US gains 'control' of 65 billion barrels of oil — 'the biggest oil deal in history' — nine months after Maduro's capture in a US military operation. The lack of detail is fueling speculation.</summary>
-  </entry>
-  <entry>
-    <title>Ισχυρότερες άμυνες</title>
-    <link href="https://www.kathimerini.gr/economy/564426562/ischyroteres-amynes/"/>
-    <id>urn:kathimerini:f821bf4f674b</id>
-    <updated>2026-08-29T22:28:56+00:00</updated>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <category term="economy"/>
-    <summary>Ανάλυση του Νίκου Φιλιππίδη: η ενεργειακή κρίση προσέφερε απρόσμενη στήριξη στην ελληνική οικονομία το β΄ τρίμηνο του 2026, καθώς οι διαταραχές στα διυλιστήρια Μέσης Ανατολής και Ρωσίας εκτόξευσαν τις ελληνικές εξαγωγές πετρελαιοειδών. Το εμπορικό έλλειμμα μειώθηκε 72% (321 εκατ. από 1,148 δισ. ευρώ), με τη συμβολή των εξαγωγών στο ΑΕΠ να εκτιμάται σε 2,2 μονάδες, υπερδιπλάσια του α΄ τριμήνου. / Analysis by Nikos Filippidis: the energy crisis gave Greece's economy unexpected support in Q2 2026, as refinery disruptions in the Middle East and Russia sent Greek fuel exports soaring. The trade deficit shrank 72% (€321m from €1.148bn), with exports' contribution to GDP estimated at 2.2 points, more than double Q1.</summary>
-  </entry>
-  <entry>
-    <title>Νεπάλ: Εντοπίστηκε ζωντανό 5χρονο κοριτσάκι κάτω από τα συντρίμμια – Οι διασώστες νόμιζαν ότι άκουγαν γάτα</title>
-    <link href="https://www.kathimerini.gr/world/564428617/nepal-entopistike-zontano-5chrono-koritsaki-kato-apo-ta-syntrimmia-oi-diasostes-nomizan-oti-akoygan-gata/"/>
-    <id>urn:kathimerini:aafc282ebe23</id>
-    <updated>2026-08-30T14:43:13+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Πεντάχρονο κοριτσάκι, η Μανίσα, εντοπίστηκε ζωντανό κάτω από συντρίμμια κοντά στο Σιαμπρουμπέσι της Ρασούβα, δύο ημέρες μετά τις φονικές πλημμύρες στο Νεπάλ — οι διασώστες αρχικά νόμιζαν ότι άκουγαν γάτα. Ο απεγκλωβισμός πήρε δύο ώρες· η κακοκαιρία δεν επέτρεψε αεροδιακομιδή και το παιδί νοσηλεύεται πλέον σε σταθερή κατάσταση στο Κατμαντού. / A five-year-old girl, Manisha, was found alive under debris near Syabrubesi in Rasuwa, two days after Nepal's deadly floods — rescuers initially thought they were hearing a cat. Extraction took two hours; bad weather ruled out a helicopter evacuation and the child is now in stable condition in a Kathmandu hospital.</summary>
-  </entry>
-  <entry>
-    <title>Ο δασμός των 3 ευρώ μείωσε έως 40% τα δέματα από την Κίνα</title>
-    <link href="https://www.kathimerini.gr/economy/international/564426670/o-dasmos-ton-3-eyro-meiose-eos-40-ta-demata-apo-tin-kina/"/>
-    <id>urn:kathimerini:6b5a5fe2b8b8</id>
-    <updated>2026-08-29T23:00:54+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>Ο δασμός των 3 ευρώ που επέβαλε η Ε.Ε. την 1η Ιουλίου στα μικροδέματα κάτω των 150 ευρώ μείωσε τις εισαγωγές από την Κίνα κατά 30%-40%, σύμφωνα με τα γαλλικά τελωνεία. Το 2025 είχαν εισέλθει 5,9 δισ. είδη χαμηλής αξίας (16 εκατ. δέματα/ημέρα). Οι πωλήσεις Temu έπεσαν 50% και AliExpress 37%, ενώ η Shein περιορίστηκε στο -15% χάρη σε αποθήκη στην Πολωνία που παρακάμπτει τον δασμό. / The €3 duty the EU imposed on July 1 on small parcels under €150 cut imports from China by 30%-40%, per French customs data. In 2025, 5.9 billion low-value items entered the EU (16 million parcels/day). Temu's volumes fell 50% and AliExpress 37%, while Shein limited losses to -15% thanks to a Polish warehouse that sidesteps the duty.</summary>
-  </entry>
-  <entry>
-    <title>Ενοπλη επίθεση στην Ελβετία: Μεγάλη αστυνομική επιχείρηση για τον εντοπισμό των δραστών – Νεκρή 22χρονη</title>
-    <link href="https://www.kathimerini.gr/world/564428527/enopli-epithesi-stin-elvetia-megali-astynomiki-epicheirisi-gia-ton-entopismo-ton-draston-nekri-22chroni/"/>
-    <id>urn:kathimerini:f739715bd219</id>
-    <updated>2026-08-30T12:37:12+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Νεκρή 22χρονη και πέντε τραυματίες 24-27 ετών ο απολογισμός της ένοπλης επίθεσης στο rave party του Ααράου. Μεγάλη αστυνομική επιχείρηση για τον εντοπισμό των αγνώστων δραστών έχει επεκταθεί πέρα από το καντόνι του Ααργκάου· κίνητρα και συνθήκες παραμένουν αδιευκρίνιστα. Αυτόπτες μάρτυρες πέρασαν αρχικά τους πυροβολισμούς για πυροτεχνήματα. / A 22-year-old woman dead and five people aged 24-27 injured is the toll of the armed attack at the Aarau rave. A major police operation to find the unknown perpetrators has spread beyond the canton of Aargau; motive and circumstances remain unclear. Witnesses initially mistook the shots for fireworks.</summary>
-  </entry>
-  <entry>
-    <title>Αύξηση πληθωρισμού στο 4,5% στην Ισπανία λόγω ενέργειας</title>
-    <link href="https://www.kathimerini.gr/economy/international/564426652/ayxisi-plithorismoy-sto-4-5-stin-ispania-logo-energeias/"/>
-    <id>urn:kathimerini:8d164c4f87fa</id>
-    <updated>2026-08-29T23:40:19+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>Στο 4,5% εκτινάχθηκε ο πληθωρισμός στην Ισπανία τον Αύγουστο — υπερδιπλάσιος του στόχου 2% της ΕΚΤ και ο υψηλότερος από το 2023 — με κύρια αιτία την ενέργεια λόγω του πολέμου στη Μέση Ανατολή και τη σταδιακή απόσυρση των φοροελαφρύνσεων. Ο δομικός πληθωρισμός αναμένεται πάνω από 3% έως το τέλος του έτους. Οι αγορές προεξοφλούν πλήρως νέα αύξηση επιτοκίων της ΕΚΤ κατά 25 μ.β. τον Σεπτέμβριο. / Spanish inflation surged to 4.5% in August — more than double the ECB's 2% target and the highest since 2023 — driven mainly by energy amid the Middle East war and the phase-out of tax relief. Core inflation is expected above 3% through year-end. Markets fully price another 25bp ECB rate hike in September.</summary>
-  </entry>
-  <entry>
-    <title>Αρθρο του Γιώργου Ψαράκη στην «Κ»: Οι αλλαγές στον εξωδικαστικό μηχανισμό</title>
-    <link href="https://www.kathimerini.gr/economy/564426628/arthro-toy-giorgoy-psaraki-stin-k-oi-allages-ston-exodikastiko-michanismo/"/>
-    <id>urn:kathimerini:01e874c20d5a</id>
-    <updated>2026-08-30T11:22:03+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary>Ο δικηγόρος Γιώργος Ψαράκης αναλύει στην «Κ» τις αλλαγές του ν. 5313/2026 στον εξωδικαστικό μηχανισμό: η «διάσωση» της κύριας κατοικίας με ρευστοποίηση της λοιπής περιουσίας εμφανίστηκε ως ευνοϊκή ρύθμιση, αλλά καταλήγει δυσμενής, αφού η επιλογή και η τιμή ρευστοποίησης περνούν στον servicer με διαδικασίες fast track, χωρίς δυνατότητα δικαστικής διόρθωσης της εκτίμησης από τον οφειλέτη. / Lawyer Giorgos Psarakis analyzes in Kathimerini the changes law 5313/2026 makes to the out-of-court workout mechanism: 'saving' the primary residence by liquidating other assets was presented as debtor-friendly, but ends up unfavorable, since the choice and liquidation price shift to the servicer via fast-track procedures, with no judicial recourse for the debtor on valuation.</summary>
-  </entry>
-  <entry>
-    <title>Πυροβολισμοί σε rave party στην Ελβετία – Ενας νεκρός και πέντε τραυματίες</title>
-    <link href="https://www.kathimerini.gr/world/564428413/pyrovolismoi-se-rave-party-stin-elvetia/"/>
-    <id>urn:kathimerini:4fbc9d28006c</id>
-    <updated>2026-08-30T08:37:16+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary>Ενας νεκρός και πέντε τραυματίες, ορισμένοι σοβαρά, από πυροβολισμούς τη νύχτα στο ετήσιο «Aarauer Rave» με 3.500 συμμετέχοντες στο ιπποδρόμιο του Ααράου της βόρειας Ελβετίας. Οι δράστες αναζητούνται· η αστυνομία απέκλεισε την περιοχή και ζητά φωτογραφίες και βίντεο από παρευρισκόμενους. / One dead and five injured, some seriously, in overnight gunfire at the annual 'Aarauer Rave' attended by 3,500 people at the Aarau racecourse in northern Switzerland. The perpetrators are being sought; police cordoned off the area and appealed for photos and videos from attendees.</summary>
-  </entry>
-  <entry>
-    <title>Πολύ υψηλός κίνδυνος πυρκαγιάς αύριο (31/08) σε Κρήτη, Κάρπαθο, Κάσο – Οι περιοχές σε «κόκκινο συναγερμό»</title>
-    <link href="https://www.kathimerini.gr/society/564428632/poly-ypsilos-kindynos-pyrkagias-ayrio-31-08-se-kriti-karpatho-kaso-oi-perioches-se-kokkino-synagermo/"/>
-    <id>urn:kathimerini:3b2e84136217</id>
-    <updated>2026-08-30T15:04:22+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary>Πολύ υψηλός κίνδυνος πυρκαγιάς (κατηγορία 4) προβλέπεται για τη Δευτέρα 31/08 σε περιοχές της Κρήτης, την Κάρπαθο και την Κάσο, σύμφωνα με τη Γενική Γραμματεία Πολιτικής Προστασίας. Οι περιοχές τίθενται σε κινητοποίηση «Red Code» με πλήρη ενεργοποίηση του Εθνικού Μηχανισμού, ενώ δήμοι και περιφέρειες καλούνται να συγκαλέσουν άμεσα τα τοπικά συντονιστικά όργανα. / Very high fire risk (category 4) is forecast for Monday 31/08 in parts of Crete, Karpathos and Kasos, per the Civil Protection authority. The areas go into 'Red Code' mobilization with the National Mechanism fully activated, while municipalities and regions are called to immediately convene local coordination bodies.</summary>
+    <summary xml:lang="el">Με το έλλειμμα εργατικού δυναμικού στις 200.000-250.000 θέσεις, ολοένα περισσότερες ελληνικές επιχειρήσεις σε βιομηχανία, logistics, κατασκευές και τουρισμό στρέφονται σε μετανάστες και αιτούντες άσυλο που βρίσκονται ήδη στη χώρα. Η «Κ» αποκαλύπτει ότι η σύζευξη των αναγκών της βιομηχανίας με το δυναμικό των προσφύγων μπορεί να αποβεί αμοιβαία επωφελής, με δεκάδες ήδη απασχολούμενους σε μεγάλες επιχειρήσεις.</summary>
+    <content type="text" xml:lang="en">With Greece&#x27;s labor shortage estimated at 200,000-250,000 jobs, more and more companies in industry, logistics, construction and tourism are turning to migrants and asylum seekers already in the country. Kathimerini reports that matching industry needs with refugee potential can be mutually beneficial, with dozens already employed at major Greek and multinational firms.</content>
   </entry>
 </feed>
