@@ -1,209 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Digest — Kathimerini</title>
-  <subtitle>Top 20 stories of 2026-09-09 by importance</subtitle>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <link rel="self" href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml"/>
-  <id>urn:greek-news-aggregator:main</id>
-  <updated>2026-09-09T13:28:21+00:00</updated>
+  <title>Greek News Aggregator — Daily Top Stories</title>
+  <subtitle>Top stories scraped from kathimerini.gr</subtitle>
+  <link href="https://github.com/zoetzikra/greek-news-aggregator" rel="alternate"/>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
+  <id>urn:greek-news-aggregator:2026-09-10</id>
+  <updated>2026-09-10T11:28:38.847414+00:00</updated>
+  <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Στο 3,8% αυξήθηκε ο πληθωρισμός τον Αύγουστο – Στα ύψη ενέργεια και στέγαση</title>
-    <link href="https://www.kathimerini.gr/economy/564447493/sto-3-8-ayxithike-o-plithorismos-ton-aygoysto-sta-ypsi-energeia-kai-stegasi/"/>
-    <id>urn:kathimerini:12e3e8dc6b51</id>
-    <updated>2026-09-09T13:13:45+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Ανοδος του πληθωρισμού λόγω ράλι τιμών ενέργειας</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564448987/anodos-toy-plithorismoy-logo-rali-timon-energeias/"/>
+    <id>urn:greek-news-aggregator:da4a2345cfd8</id>
+    <updated>2026-09-10T11:06:00+03:00</updated>
+    <published>2026-09-10T11:06:00+03:00</published>
+    <author><name>Δήμητρα Μανιφάβα</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Στο 3,8% επιτάχυνε ο πληθωρισμός τον Αύγουστο, από 3,4% τον Ιούλιο και 2,9% πέρυσι, με μηνιαία άνοδο 0,4%, σύμφωνα με την ΕΛΣΤΑΤ. Την άνοδο οδηγεί η ενέργεια: πετρέλαιο θέρμανσης +53,2%, φυσικό αέριο +40,2%, πετρέλαιο κίνησης +30,6%, βενζίνη +15,3%, ενώ ο ηλεκτρισμός υποχώρησε 1,2%. Ανατιμήσεις και σε ενοίκια (+6,2%), ξενοδοχεία (+14,1%), αεροπορικά εισιτήρια (+17,4%) και μοσχάρι (+13,5%), ενώ ελαιόλαδο (-15%) και φρούτα (-7,1%) φθήνυναν.</summary>
-    <content type="text" xml:lang="en">Inflation accelerated to 3.8% in August from 3.4% in July and 2.9% a year earlier, with a 0.4% monthly rise, ELSTAT reported. Energy drives the increase: heating oil +53.2%, natural gas +40.2%, diesel +30.6%, petrol +15.3%, while electricity fell 1.2%. Rents (+6.2%), hotels (+14.1%), air fares (+17.4%) and beef (+13.5%) also rose, whereas olive oil (-15%) and fruit (-7.1%) got cheaper.</content>
+    <summary type="text">Inflation accelerated to 3.8% in August from 3.4% in July, driven mainly by the oil and gas rally that eroded the benefit of the fuel subsidy. The outlook is grim: after the flare-up of the Iran war, Brent topped 100 dollars and European gas 80 euros/MWh (+137% year on year), with winter approaching. / Ο πληθωρισμός επιταχύνθηκε στο 3,8% τον Αύγουστο από 3,4% τον Ιούλιο, κυρίως λόγω του ράλι πετρελαίου και αερίου που «ροκάνισε» το όφελος από την επιδότηση καυσίμων. Η προοπτική είναι δυσοίωνη: μετά την αναζωπύρωση του πολέμου στο Ιράν, το Brent ξεπέρασε τα 100 δολάρια και το ευρωπαϊκό αέριο τα 80 ευρώ/MWh (+137% ετησίως), ενώ πλησιάζει ο χειμώνας.</summary>
   </entry>
   <entry>
-    <title>Παραμένει στρατηγική η σχέση Αθήνας – Καΐρου</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564446275/paramenei-stratigiki-i-schesi-athinas-ka-roy/"/>
-    <id>urn:kathimerini:8c50464a80fc</id>
-    <updated>2026-09-09T06:33:00+00:00</updated>
+    <title>Κυβέρνηση: Αποστάσεις από τα σενάρια κρίσης με την Τουρκία</title>
+    <link href="https://www.kathimerini.gr/politics/government/564448573/kyvernisi-apostaseis-apo-ta-senaria-krisis-me-tin-toyrkia/"/>
+    <id>urn:greek-news-aggregator:84b1b4d87bea</id>
+    <updated>2026-09-10T08:46:00+00:00</updated>
+    <published>2026-09-10T08:46:00+00:00</published>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">The government is distancing itself from remarks by ministers Georgiadis and Floridis, who linked a possible post-election deadlock to Turkish threats, citing Imia and Evros. PASOK accuses the government of 'sliding down dangerous paths' and playing with national issues, while Mitsotakis frames the election around the dilemma of a single-party majority. / Η κυβέρνηση παίρνει αποστάσεις από τις δηλώσεις Γεωργιάδη και Φλωρίδη που συνέδεσαν πιθανή μετεκλογική ακυβερνησία με τουρκική επιβουλή, επικαλούμενοι τα Ιμια και τον Εβρο. Το ΠΑΣΟΚ καταγγέλλει ότι «η κυβέρνηση διολισθαίνει σε επικίνδυνα μονοπάτια» και παίζει με τα εθνικά θέματα, ενώ ο Μητσοτάκης θέτει το δίλημμα της αυτοδυναμίας στον δρόμο προς τις κάλπες.</summary>
+  </entry>
+  <entry>
+    <title>To ράλι του πετρελαίου βάζει φωτιά σε χρηματιστήρια, ομόλογα</title>
+    <link href="https://www.kathimerini.gr/economy/international/564449077/to-rali-toy-petrelaioy-vazei-fotia-se-chrimatistiria-omologa/"/>
+    <id>urn:greek-news-aggregator:b807d3f84fa6</id>
+    <updated>2026-09-10T06:51:44+00:00</updated>
+    <published>2026-09-10T06:51:44+00:00</published>
+    <author><name>Ελευθερία Κούρταλη</name></author>
+    <category term="economy"/>
+    <summary type="text">Brent crossed 100 dollars for the first time since late July after the US–Iran escalation, European gas spiked above 80 euros/MWh to its highest since January 2023, and stocks and bonds sold off. The ECB is widely expected to raise rates again today on inflation pressures. / Το Brent ξεπέρασε τα 100 δολάρια για πρώτη φορά από τα τέλη Ιουλίου μετά την κλιμάκωση ΗΠΑ–Ιράν, το ευρωπαϊκό αέριο εκτινάχθηκε πάνω από 80 ευρώ/MWh στα υψηλότερα επίπεδα από τον Ιανουάριο 2023, και μετοχές και ομόλογα οδηγήθηκαν σε sell-off. Η ΕΚΤ αναμένεται σήμερα να αυξήσει εκ νέου τα επιτόκια λόγω πληθωριστικών πιέσεων.</summary>
+  </entry>
+  <entry>
+    <title>ΔΕΘ: Η συνέντευξη Τύπου του Αλέξη Τσίπρα στη Θεσσαλονίκη</title>
+    <link href="https://www.kathimerini.gr/politics/564447937/deth-2026-deite-live-ti-synenteyxi-typoy-toy-alexi-tsipra-sti-thessaloniki/"/>
+    <id>urn:greek-news-aggregator:2643da0618f3</id>
+    <updated>2026-09-09T17:14:58+00:00</updated>
+    <published>2026-09-09T17:14:58+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">At the ELAS press conference at the Thessaloniki International Fair, Alexis Tsipras called his speech 'the most left-wing and documented' he has ever given and attacked the government over the cost of living. He admitted he cannot quantify the 'patriotic levy' on the richest 1% without a wealth registry and dismissed New Democracy's costing of his programme as a 'surrealist painting'. / Ο Αλέξης Τσίπρας, στη συνέντευξη Τύπου της ΕΛΑΣ στη ΔΕΘ, χαρακτήρισε την ομιλία του «την πιο αριστερή και τεκμηριωμένη» που έχει κάνει ποτέ και εξαπέλυσε πυρά κατά της κυβέρνησης για την ακρίβεια. Παραδέχθηκε ότι δεν μπορεί να προσδιορίσει το ύψος της «πατριωτικής εισφοράς» στο πλουσιότερο 1% ελλείψει περιουσιολογίου και χαρακτήρισε «σουρεαλιστικό πίνακα» την κοστολόγηση της ΝΔ.</summary>
+  </entry>
+  <entry>
+    <title>Το άλμα στις τιμές αερίου πιέζει ξανά την Ευρώπη</title>
+    <link href="https://www.kathimerini.gr/economy/564449071/to-alma-stis-times-aerioy-piezei-xana-tin-eyropi/"/>
+    <id>urn:greek-news-aggregator:2d314046eeb2</id>
+    <updated>2026-09-10T10:27:00+00:00</updated>
+    <published>2026-09-10T10:27:00+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">European gas prices climbed to 75 euros/MWh, more than double last year and the highest since late 2022, as the Hormuz closure removed 20% of global LNG supply. EU storage is only 67% full, just as Europe tries to rearm and invest in AI. / Οι τιμές φυσικού αερίου στην Ευρώπη σκαρφάλωσαν στα 75 ευρώ/MWh, υπερδιπλάσιες από πέρυσι και στο υψηλότερο επίπεδο από τα τέλη του 2022, λόγω του κλεισίματος του Ορμούζ που αφαίρεσε το 20% του παγκόσμιου LNG. Οι ευρωπαϊκές αποθήκες είναι μόλις στο 67%, την ώρα που η Ευρώπη προσπαθεί να επανεξοπλιστεί και να επενδύσει στην ΑΙ.</summary>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης – Μακρόν: Στην ατζέντα το καλώδιο με Κύπρο</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564448582/mitsotakis-makron-stin-atzenta-to-kalodio-me-kypro/"/>
+    <id>urn:greek-news-aggregator:c5e8ab00f679</id>
+    <updated>2026-09-10T07:02:15+00:00</updated>
+    <published>2026-09-10T07:02:15+00:00</published>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Η συνάντηση Μητσοτάκη–Σίσι στο Ελ Αλαμέιν και η τριμερής με τον Χριστοδουλίδη επιβεβαίωσαν τον στρατηγικό χαρακτήρα της σχέσης Αθήνας–Καΐρου, ανεξάρτητα από νέα σχήματα όπως η συμφωνία της Μέκκας Τουρκίας–Σαουδικής Αραβίας–Πακιστάν. Ο πρωθυπουργός έστειλε μήνυμα στην Αγκυρα ότι «η Ελλάδα δεν απειλεί κανέναν» αλλά «σταθερότητα δεν σημαίνει υποχωρητικότητα ούτε ανοχή σε τετελεσμένα». Ο Σίσι έδωσε έμφαση στη διασύνδεση GREGY και το φυσικό αέριο, ενώ η κοινή διακήρυξη τονίζει ότι συμφωνίες οριοθέτησης πρέπει να συνάπτονται σύμφωνα με το διεθνές δίκαιο.</summary>
-    <content type="text" xml:lang="en">The Mitsotakis–Sisi meeting at El Alamein and the trilateral with Christodoulides confirmed the strategic character of Athens–Cairo ties regardless of new formations such as the Mecca pact between Turkey, Saudi Arabia and Pakistan. The PM told Ankara that 'Greece threatens no one' but 'stability does not mean concession or tolerance of faits accomplis'. Sisi stressed the GREGY interconnector and gas cooperation, while the joint declaration insists that delimitation agreements must comply with international law.</content>
+    <summary type="text">Mitsotakis and Macron discussed in Paris the next steps for the Greece–Cyprus electricity interconnector after Meridiam's entry as majority shareholder in GSI. According to Kathimerini, Nexans is preparing to resume seabed surveys with a French-flagged ship and French crew – a move with clear geopolitical weight. / Μητσοτάκης και Μακρόν συζήτησαν στο Παρίσι τα επόμενα βήματα της ηλεκτρικής διασύνδεσης Ελλάδας–Κύπρου μετά την είσοδο της Meridiam ως πλειοψηφικού μετόχου στην GSI. Σύμφωνα με πληροφορίες της «Κ», η Nexans ετοιμάζεται να επανεκκινήσει τις έρευνες βυθού με γαλλικό πλοίο, σημαία και πλήρωμα – κίνηση με σαφή γεωπολιτική διάσταση.</summary>
   </entry>
   <entry>
-    <title>Πόλεμος στο Ιράν: Τα Στενά του Ορμούζ μετατρέπονται σε περιβαλλοντική πυριτιδαποθήκη</title>
-    <link href="https://www.kathimerini.gr/world/564447703/polemos-sto-iran-ta-stena-toy-ormoyz-metatrepontai-se-perivallontiki-pyritidapothiki/"/>
-    <id>urn:kathimerini:dad93d71aa14</id>
-    <updated>2026-09-09T15:40:17+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary xml:lang="el">Τα Στενά του Ορμούζ μετατρέπονται σε περιβαλλοντική πυριτιδαποθήκη, καθώς ο πόλεμος ΗΠΑ–Ισραήλ κατά του Ιράν μεταφέρεται στη θάλασσα. Στις 8 Σεπτεμβρίου οι ΗΠΑ έπληξαν πέντε ιρανικά πετρελαιοφόρα, προκαλώντας αντεπίθεση στη βάση Αλ Αζράκ της Ιορδανίας, τρεις μέρες μετά το πλήγμα σε τρία τάνκερ που ακολούθησε ιρανικούς βαλλιστικούς πυραύλους κατά αμερικανικού αεροπλανοφόρου. Το Ιράν στόχευσε πλοία σε «μη εξουσιοδοτημένη διαδρομή». Κατά τη MarineTraffic 42 δεξαμενόπλοια περίμεναν να διέλθουν, 18 με πετρέλαιο, και ένα επιτυχημένο πλήγμα θα μπορούσε να προκαλέσει τεράστια πετρελαιοκηλίδα.</summary>
-    <content type="text" xml:lang="en">The Strait of Hormuz is becoming an environmental powder keg as the US–Israel war on Iran moves to sea. On 8 September the US struck five Iranian tankers, prompting a counter-attack on Jordan's Al Azraq base, three days after hitting three tankers following Iranian ballistic missiles fired at a US carrier. Iran said it targeted ships on an 'unauthorised route'. MarineTraffic showed 42 tankers waiting to transit, 18 carrying oil, and a successful strike could cause a massive oil spill.</content>
-  </entry>
-  <entry>
-    <title>Δίκη για Τέμπη: «Δυστυχώς το παιδί μας το σκοτώσανε πολλές φορές» – Ολοκληρώθηκαν οι καταθέσεις των οικογενειών των μηχανοδηγών</title>
-    <link href="https://www.kathimerini.gr/society/564447784/diki-gia-tempi-dystychos-to-paidi-mas-to-skotosane-polles-fores-oloklirothikan-oi-katatheseis-ton-oikogeneion-ton-michanodigon/"/>
-    <id>urn:kathimerini:f557feee746f</id>
-    <updated>2026-09-09T15:59:32+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Ολοκληρώθηκαν στη δίκη για τα Τέμπη οι καταθέσεις των συγγενών των δύο νεκρών μηχανοδηγών της εμπορικής, Δημητρίου Μασσαλή και Σπύρου Βούλγαρη. Οι οικογένειες επικαλέστηκαν την πραγματογνωμοσύνη του καθηγητή ΕΜΠ Πέτρου Τσακιρίδη, που απέδωσε τις αλλοιώσεις στα συντρίμμια της δεύτερης καμπίνας στη σφοδρότητα της σύγκρουσης και όχι σε έκρηξη, καθώς και βίντεο και συνομιλίες που αποκλείουν παράνομο φορτίο. «Δυστυχώς το παιδί μας το σκοτώσανε πολλές φορές», είπε ο Αγγελος Μασσαλής, καταγγέλλοντας ότι ακόμη και αρχηγοί κομμάτων στη Βουλή τους αντιμετώπισαν ως λαθρέμπορους.</summary>
-    <content type="text" xml:lang="en">Testimony by relatives of the two freight-train drivers killed at Tempi, Dimitrios Massalis and Spyros Voulgaris, concluded at the trial. The families cited NTUA professor Petros Tsakiridis's expert report, which attributed damage to the second cab's wreckage to the violence of the collision rather than an explosion, plus video and conversations ruling out illegal cargo. 'Sadly our child was killed many times over', said Angelos Massalis, complaining that even party leaders in parliament treated them as smugglers.</content>
-  </entry>
-  <entry>
-    <title>«Ζυγίζοντας» έναν πολιτικό μαραθώνιο</title>
-    <link href="https://www.kathimerini.gr/politics/564440038/zygizontas-enan-politiko-marathonio/"/>
-    <id>urn:kathimerini:8de23be419ce</id>
-    <updated>2026-09-08T20:03:22+00:00</updated>
-    <author><name>Κωστής Π. Παπαδιόχος</name></author>
+    <title>«Παράθυρο» Τσίπρα για συνεργασία με το ΠΑΣΟΚ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564448597/parathyro-tsipra-gia-synergasia-me-to-pasok/"/>
+    <id>urn:greek-news-aggregator:10687a21444c</id>
+    <updated>2026-09-10T07:11:19+00:00</updated>
+    <published>2026-09-10T07:11:19+00:00</published>
+    <author><name>Αντώνης Αντζολέτος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Η ΔΕΘ σηματοδοτεί την έναρξη ενός πολιτικού μαραθωνίου, καθώς ο Μητσοτάκης προκρίνει την εξάντληση της τετραετίας με εκλογές την άνοιξη. Για τη ΝΔ ο μακρύς χρόνος επιτρέπει να πιστωθεί το πακέτο παροχών (ορατό στους λογαριασμούς τον Ιανουάριο), τη νέα αύξηση κατώτατου μισθού τον Απρίλιο, να αξιοποιήσει το «όλοι εναντίον όλων» της αντιπολίτευσης και να εκτονώσει τη δυναμική Σαμαρά. Για την ΕΛΑΣ Τσίπρα υπάρχουν πλεονεκτήματα αλλά και παγίδες, ενώ για το ΠΑΣΟΚ κρίσιμη είναι η εικόνα του τέλους Σεπτεμβρίου και ο ρεαλισμός του στόχου της δεύτερης θέσης.</summary>
-    <content type="text" xml:lang="en">TIF marks the start of a political marathon, with Mitsotakis opting to run out the four-year term and hold elections in spring. For ND the long runway lets it bank the benefits package (visible in bills by January), the April minimum-wage rise, exploit the 'everyone against everyone' opposition and defuse Samaras's momentum. For Tsipras's ELAS there are advantages but also traps, while for PASOK what matters is its standing at end-September and whether second place is realistic.</content>
+    <summary type="text">Tsipras left a 'window' open for post-election cooperation with PASOK ('we are not opponents, we are competitors'), saying that if ELAS comes first it will approach the democratic opposition, otherwise new elections. He defended the patriotic levy with the 'two-room flat in Peristeri' example, drawing criticism from PASOK and Marinakis. / Ο Τσίπρας άφησε ανοιχτό «παράθυρο» μετεκλογικής συνεργασίας με το ΠΑΣΟΚ («δεν είμαστε αντίπαλοι, είμαστε ανταγωνιστές»), λέγοντας ότι αν η ΕΛΑΣ είναι πρώτη θα απευθυνθεί στη δημοκρατική αντιπολίτευση, αλλιώς νέες εκλογές. Υπερασπίστηκε την πατριωτική εισφορά με το παράδειγμα του «δυαριού στο Περιστέρι», δεχόμενος κριτική από Χαριλάου Τρικούπη και Μαρινάκη.</summary>
   </entry>
   <entry>
-    <title>Μερτς: Τα σχέδια της Ακροδεξιάς για «επαναπατρισμό» συνιστούν εθνοκάθαρση</title>
-    <link href="https://www.kathimerini.gr/world/564447625/merts-ta-schedia-tis-akrodexias-gia-epanapatrismo-synistoyn-ethnokatharsi/"/>
-    <id>urn:kathimerini:46e4b6d8073c</id>
-    <updated>2026-09-09T14:06:51+00:00</updated>
+    <title>Πώς αυξήθηκε στα 2,2 δισ. ευρώ το πακέτο της ΔΕΘ</title>
+    <link href="https://www.kathimerini.gr/economy/local/564448999/pos-ayxithike-sta-2-2-dis-eyro-to-paketo-tis-deth/"/>
+    <id>urn:greek-news-aggregator:f7ca26b663cb</id>
+    <updated>2026-09-10T09:13:00+00:00</updated>
+    <published>2026-09-10T09:13:00+00:00</published>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary type="text">The TIF package for 2027 grew from 1 billion in April to 2.2 billion euros, fitting within the 3.1% net-expenditure growth ceiling agreed with the Commission. The space was widened with new permanent revenue sources such as the digital work card extension, active revenue measures and the energy escape clause. / Το πακέτο της ΔΕΘ για το 2027 ανέβηκε από 1 δισ. τον Απρίλιο σε 2,2 δισ. ευρώ, «κουμπώνοντας» στο όριο του 3,1% αύξησης καθαρών δαπανών που έχει συμφωνηθεί με την Κομισιόν. Ο χώρος διευρύνθηκε με νέες μόνιμες πηγές εσόδων, όπως η επέκταση της ψηφιακής κάρτας εργασίας, τα ενεργητικά μέτρα εσόδων και τη ρήτρα διαφυγής για την ενέργεια.</summary>
+  </entry>
+  <entry>
+    <title>Θάνατος Μαζωνάκη: «Η θεραπεία δεν πρόλαβε να ξεκινήσει» – Τι κατέθεσε η γιατρός</title>
+    <link href="https://www.kathimerini.gr/society/564449698/thanatos-mazonaki-i-therapeia-den-prolave-na-xekinisei-ti-katethese-i-giatros/"/>
+    <id>urn:greek-news-aggregator:4cc265553a09</id>
+    <updated>2026-09-10T12:20:55+00:00</updated>
+    <published>2026-09-10T12:20:55+00:00</published>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society"/>
+    <summary type="text">The doctor treating Giorgos Mazonakis testified that the singer arrived at her practice highly agitated and disoriented, seeking help to make his concert on the 20th. By her account she proposed plasmapheresis but treatment had not begun when he lost consciousness; a haematologist from Evangelismos is also testifying. / Η γιατρός που παρακολουθούσε τον Γιώργο Μαζωνάκη κατέθεσε ότι ο τραγουδιστής έφτασε στο ιατρείο με έντονη υπερδιέγερση και αποπροσανατολισμό, ζητώντας βοήθεια για να ανταποκριθεί στη συναυλία της 20ής του μήνα. Σύμφωνα με την εκδοχή της, του πρότεινε πλασμαφαίρεση αλλά η θεραπεία δεν είχε αρχίσει όταν έχασε τις αισθήσεις του· καταθέτει και αιματολόγος του «Ευαγγελισμού».</summary>
+  </entry>
+  <entry>
+    <title>NY Times: Η Ουκρανία λέει ότι χρειάζεται ακόμη 27 δισ. δολάρια – Η Ευρώπη θέλει να μάθει το γιατί</title>
+    <link href="https://www.kathimerini.gr/world/564449485/ny-times-i-oykrania-leei-oti-chreiazetai-akomi-27-dis-dolaria-i-eyropi-thelei-na-mathei-to-giati/"/>
+    <id>urn:greek-news-aggregator:7f89d9518433</id>
+    <updated>2026-09-10T13:21:41+00:00</updated>
+    <published>2026-09-10T13:21:41+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Ο Φρίντριχ Μερτς εξαπέλυσε στη Bundestag την πιο σφοδρή επίθεσή του κατά της AfD, λίγες μέρες μετά τη σαρωτική νίκη της στη Σαξονία-Ανχαλτ: «Ο επαναπατρισμός δεν είναι τίποτα περισσότερο από συνώνυμο της εθνοκάθαρσης με βάση την καταγωγή και το χρώμα του δέρματος». Προειδοποίησε ότι ένας στους έξι εργαζόμενους σε τεχνικά επαγγέλματα έχει ξένο διαβατήριο και ότι χωρίς αυτούς δεν θα λειτουργεί ούτε νοσοκομείο, οίκος ευγηρίας ή εστιατόριο. Ο υποψήφιος της AfD Ούλριχ Ζίγκμουντ είχε συμμετάσχει στη συνάντηση του 2023 όπου συζητήθηκε μαζική απέλαση «μη αφομοιωμένων» πολιτών.</summary>
-    <content type="text" xml:lang="en">Friedrich Merz launched his fiercest attack yet on the AfD in the Bundestag, days after its sweeping win in Saxony-Anhalt: 'Remigration is nothing more than a synonym for ethnic cleansing based on origin and skin colour'. He warned that one in six skilled-trade workers holds a foreign passport and that without them no hospital, care home or restaurant would function. AfD lead candidate Ulrich Siegmund attended the 2023 meeting where mass deportation of 'unassimilated' citizens was discussed.</content>
-  </entry>
-  <entry>
-    <title>Ο νέος επενδυτικός «κουμπαράς» για παιδιά – Πώς θα λειτουργήσει</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564446656/o-neos-ependytikos-koymparas-gia-paidia-pos-tha-leitoyrgisei/"/>
-    <id>urn:kathimerini:d511ecb8e661</id>
-    <updated>2026-09-09T10:20:33+03:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Ο νέος επενδυτικός «κουμπαράς» για παιδιά δεν θα είναι απλός αποταμιευτικός λογαριασμός αλλά μακροχρόνιος επενδυτικός λογαριασμός τύπου life cycle, με μεγαλύτερο ρίσκο στα πρώτα χρόνια και συντηρητικότερη σύνθεση προς τα 18. Για παιδί που γεννήθηκε το 2026, με πλήρη αξιοποίηση του ανώτατου ποσού (αρχικά 1.200 ευρώ) οι καταβολές γονέων και Δημοσίου θα φτάσουν τις 49.304 ευρώ έως το 2044, που με αποδόσεις 3%, 5% ή 7% γίνονται 64.109, 77.062 ή 93.173 ευρώ. Διαχειριστές θεωρούν ρεαλιστικές τις αποδόσεις, τονίζοντας ότι κρίσιμη είναι η διαχείριση κινδύνου.</summary>
-    <content type="text" xml:lang="en">The new children's investment 'piggy bank' will not be a simple savings account but a long-term life-cycle investment account, riskier in the early years and more conservative approaching 18. For a child born in 2026, fully using the cap (initially 1,200 euros) parents' and state contributions reach 49,304 euros by 2044, which at 3%, 5% or 7% returns becomes 64,109, 77,062 or 93,173 euros. Fund managers call the returns realistic, stressing that risk management will be key.</content>
-  </entry>
-  <entry>
-    <title>Το Ελ Νίνιο βάζει φωτιά στις τιμές των τροφίμων – Οι αλλαγές στον αγροτικό χάρτη</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564446242/to-el-ninio-vazei-fotia-stis-times-ton-trofimon-oi-allages-ston-agrotiko-charti/"/>
-    <id>urn:kathimerini:46bc1307a484</id>
-    <updated>2026-09-09T13:21:24+03:00</updated>
-    <author><name>Τάνια Γεωργιοπούλου</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Η κλιματική κρίση θα επανασχεδιάσει τον αγροτικό χάρτη της Ελλάδας, με Θεσσαλία και Κεντρική Μακεδονία να πλήττονται περισσότερο και τις δενδρώδεις καλλιέργειες να αντιμετωπίζουν μεγάλη μείωση παραγωγής, σύμφωνα με μελέτη του Εθνικού Αστεροσκοπείου υπό την Ελενα Γεωργοπούλου που παρουσιάζει η «Κ». Η αξία της πρωτογενούς παραγωγής μπορεί να μειωθεί έως 1 δισ. ευρώ ετησίως έως το 2060 – οι ζημιές από τον Daniel ξεπέρασαν τα 2 δισ. Παράλληλα, το ισχυρό Ελ Νίνιο του 2026-27 απειλεί την παραγωγή ζάχαρης, καφέ, σιταριού και κακάο, πυροδοτώντας ντόμινο ανατιμήσεων.</summary>
-    <content type="text" xml:lang="en">The climate crisis will redraw Greece's agricultural map, with Thessaly and Central Macedonia hit hardest and tree crops facing steep production losses, according to a National Observatory study led by Elena Georgopoulou presented by Kathimerini. The value of primary production could fall by up to 1 billion euros a year by 2060 – Daniel's damage alone exceeded 2 billion. Meanwhile the strong 2026-27 El Niño threatens sugar, coffee, wheat and cocoa output, setting off a domino of price rises.</content>
-  </entry>
-  <entry>
-    <title>Το επικίνδυνο αδιέξοδο στα Στενά του Ορμούζ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564446752/to-epikindyno-adiexodo-sta-stena-toy-ormoyz/"/>
-    <id>urn:kathimerini:d588b8594ea2</id>
-    <updated>2026-09-09T11:45:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary xml:lang="el">Εξι και πλέον μήνες μετά την έναρξη του πολέμου, τα Στενά του Ορμούζ παραμένουν σε θανατηφόρο αδιέξοδο: το Ιράν δεν μπορεί να τα κλείσει, οι ΗΠΑ δεν μπορούν να τα ανοίξουν πλήρως. Ο Αύγουστος ήταν ο πιο φονικός μήνας για ναυτικούς από τον Μάρτιο με τουλάχιστον 23 επιθέσεις σε πλοία, ενώ το Σάββατο οι ΗΠΑ έπληξαν τρία ιρανικά τάνκερ. Η ημερήσια διέλευση πετρελαίου έπεσε στα 6,7 εκατ. βαρέλια (-60%), το Ιράν επιδιώκει τέλη διέλευσης και η ασφάλιση κοστίζει επιπλέον 4-7% της αξίας πλοίου και φορτίου.</summary>
-    <content type="text" xml:lang="en">More than six months into the war, the Strait of Hormuz remains a deadly stalemate: Iran cannot close it and the US cannot fully open it. August was the deadliest month for seafarers since March with at least 23 ships attacked, and on Saturday the US struck three Iranian tankers. Daily oil transit has fallen to 6.7 million barrels (-60%), Iran is seeking transit fees, and insurance costs an extra 4-7% of hull and cargo value.</content>
+    <summary type="text">Zelensky told European allies that Kyiv needs another 27 billion dollars to cover defence needs through year-end, months after the EU's 100-billion-plus loan. The size of the gap, amid relentless Russian strikes and air-defence shortages, surprised European governments now asking how it arose. / Ο Ζελένσκι ενημέρωσε τους Ευρωπαίους συμμάχους ότι το Κίεβο χρειάζεται επιπλέον 27 δισ. δολάρια για να καλύψει τις αμυντικές του ανάγκες έως το τέλος του έτους, λίγους μήνες μετά το δάνειο άνω των 100 δισ. από την ΕΕ. Το μέγεθος του κενού, εν μέσω αδιάκοπων ρωσικών επιθέσεων και ελλείψεων αεράμυνας, αιφνιδίασε τις ευρωπαϊκές κυβερνήσεις που αναζητούν πώς προέκυψε.</summary>
   </entry>
   <entry>
     <title>Παντελής Τζωρτζάκης στην «Κ»: Γιατί καθυστερεί η ανάπτυξη των εξοπλισμών</title>
     <link href="https://www.kathimerini.gr/politics/amyna/564440005/pantelis-tzortzakis-stin-k-giati-kathysterei-i-anaptyxi-ton-exoplismon/"/>
-    <id>urn:kathimerini:f37681f235e2</id>
+    <id>urn:greek-news-aggregator:f37681f235e2</id>
     <updated>2026-09-09T11:42:33+00:00</updated>
+    <published>2026-09-09T11:42:33+00:00</published>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Ο πρόεδρος του ΕΛΚΑΚ Παντελής Τζωρτζάκης προειδοποιεί στην «Κ» ότι η κατάχρηση ενστάσεων και ασφαλιστικών μέτρων από εταιρείες απειλεί να καθυστερήσει επί χρόνια κρίσιμα καινοτόμα έργα των Ενόπλων Δυνάμεων, όπως το σύστημα C2 των Ειδικών Δυνάμεων. Το επόμενο διάστημα προχωρούν δύο τύποι μη επανδρωμένων σκαφών επιφανείας (τεχνικές λεπτομέρειες 21/9, σύμβαση τον Οκτώβριο), ενώ έως το τέλος του έτους πρέπει να υπογραφούν συμβάσεις για cargo UAV, το Cyber SOC του ΓΕΕΘΑ και έναν εξ ολοκλήρου ελληνικό δορυφόρο SAR. Μόνο ο «Κένταυρος», τα περιφερόμενα πυρομαχικά και τα αντι-drone προχώρησαν χωρίς εμπλοκές.</summary>
-    <content type="text" xml:lang="en">ELKAK chief Pantelis Tzortzakis warns in Kathimerini that companies' abuse of objections and injunctions threatens to delay critical armed-forces innovation projects by years, such as the Special Forces C2 system. Two types of unmanned surface vessels move next (technical details on 21 September, contract in October), while contracts for a cargo UAV, the HNDGS Cyber SOC and a fully Greek SAR satellite must be signed by year-end. Only 'Kentavros', loitering munitions and anti-drone systems went ahead without snags.</content>
+    <summary type="text">ELKAK chief Pantelis Tzortzakis warns in Kathimerini that companies' abuse of appeals and injunctions threatens to delay critical innovative defence programmes by years. Appeals have already been filed over the Special Forces' C2 system, with delays hinging on the courts' workload. / Ο πρόεδρος του ΕΛΚΑΚ Παντελής Τζωρτζάκης προειδοποιεί στην «Κ» ότι η κατάχρηση προσφυγών και ασφαλιστικών μέτρων από εταιρείες απειλεί να καθυστερήσει για χρόνια κρίσιμα καινοτόμα εξοπλιστικά προγράμματα. Προσφυγές έχουν ήδη κατατεθεί για το σύστημα C2 των Ειδικών Δυνάμεων, με τις καθυστερήσεις να εξαρτώνται από τον φόρτο της Δικαιοσύνης.</summary>
   </entry>
   <entry>
-    <title>Η παγίδα της υπερβολικής έκθεσης</title>
-    <link href="https://www.kathimerini.gr/opinion/564446188/i-pagida-tis-ypervolikis-ekthesis/"/>
-    <id>urn:kathimerini:899ab93b582d</id>
-    <updated>2026-09-09T12:59:00+00:00</updated>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary xml:lang="el">Ο Αλέξης Παπαχελάς προειδοποιεί πολιτικούς, δημοσιολογούντες και «σελέμπριτις» ότι «η υπερβολική οικειότητα καλλιεργεί την απέχθεια». Κατανοητή η προβολή έργου ή ανθρώπινης πλευράς, αλλά όχι η χρήση παιδιών ως εργαλείων επικοινωνίας και οι σκηνοθετημένες «χαλαρές στιγμές» που μαζεύουν λάικ σε αυτοαναφορικά κυκλώματα οπαδών. Οσοι πάσχουν από το σύνδρομο της «πρώτης σελίδας» πέφτουν σε μαύρη τρύπα: όσο υποχωρεί η δημοτικότητά τους, εκτίθενται περισσότερο, ενώ η συνετή πλειονότητα απεχθάνεται το μη αυθεντικό.</summary>
-    <content type="text" xml:lang="en">Alexis Papachelas warns politicians, pundits and 'celebrities' that 'familiarity breeds contempt'. Promoting one's work or human side is understandable, but not using children as communication tools or staging 'relaxed moments' that harvest likes in self-referential fan circuits. Those suffering from 'front-page syndrome' fall into a black hole: as their popularity wanes, they overexpose themselves, while the sensible majority loathes the inauthentic.</content>
-  </entry>
-  <entry>
-    <title>«Φρένο» σε Airbnb και αγορά δεύτερης κατοικίας από Κομισιόν</title>
-    <link href="https://www.kathimerini.gr/world/564447598/freno-se-airbnb-kai-agora-deyteris-katoikias-apo-komision/"/>
-    <id>urn:kathimerini:3c5cf8bd74a3</id>
-    <updated>2026-09-09T13:44:54+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <title>Περίμ: Eνα μικρό νησί της Υεμένης, στρατηγικό έπαθλο στον πόλεμο με το Ιράν</title>
+    <link href="https://www.kathimerini.gr/world/564449299/perim-ena-mikro-nisi-tis-yemenis-stratigiko-epathlo-ston-polemo-me-to-iran/"/>
+    <id>urn:greek-news-aggregator:3a7a7b6bfd4b</id>
+    <updated>2026-09-10T13:57:22+00:00</updated>
+    <published>2026-09-10T13:57:22+00:00</published>
+    <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Η Κομισιόν παρουσίασε την Πράξη για Προσιτή Στέγη, που δημιουργεί για πρώτη φορά κοινό ευρωπαϊκό πλαίσιο ώστε εθνικές και τοπικές αρχές να περιορίζουν βραχυχρόνιες μισθώσεις τύπου Airbnb και ακόμη την αγορά ή χρήση δεύτερης κατοικίας, εφόσον αποδεικνύουν σοβαρή στεγαστική «πίεση». Ο επίτροπος Νταν Γιόργκενσεν διευκρίνισε ότι δεν υπάρχει λίστα μέτρων από τις Βρυξέλλες: μια πόλη θα μπορεί π.χ. να περιορίζει τις ημέρες μίσθωσης, τον αριθμό τουριστικών καταλυμάτων, να προστατεύει κατοικίες για μόνιμους κατοίκους ή να αντιμετωπίζει τα μακροχρόνια κενά ακίνητα, με αναλογικότητα.</summary>
-    <content type="text" xml:lang="en">The Commission unveiled the Affordable Housing Act, creating for the first time a common EU framework allowing national and local authorities to restrict Airbnb-style short-term rentals and even the purchase or use of second homes, provided they prove serious housing 'pressure'. Commissioner Dan Jørgensen stressed there is no Brussels-imposed list: a city could cap rental days or tourist accommodation numbers, reserve housing for permanent residents or tackle long-vacant properties, subject to proportionality.</content>
+    <summary type="text">Perim, a small volcanic Yemeni island in the Bab al-Mandab strait, is becoming a strategic prize as the Houthis advance and Hormuz is effectively closed by the Trump–Iran war. Saudi Arabia has shifted oil flows to the Red Sea, with consequences reaching oil prices and the US elections. / Το Περίμ, μικρό ηφαιστειογενές νησί της Υεμένης στα Στενά Μπαμπ αλ Μαντάμπ, μετατρέπεται σε στρατηγικό έπαθλο καθώς οι Χούθι προελαύνουν και το Ορμούζ έχει ουσιαστικά κλείσει λόγω του πολέμου Τραμπ–Ιράν. Η Σαουδική Αραβία έχει μεταφέρει ροές πετρελαίου προς την Ερυθρά Θάλασσα, με συνέπειες που φτάνουν στις τιμές του πετρελαίου και τις αμερικανικές εκλογές.</summary>
   </entry>
   <entry>
-    <title>Με «ελληνικό πηγαίο κώδικα» η «Ασπίδα του Αχιλλέα»</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564445834/dieykriniseis-apo-to-israilino-ypoyrgeio-amynas-gia-ton-pigaio-kodika/"/>
-    <id>urn:kathimerini:6a380d7028a1</id>
-    <updated>2026-09-08T19:09:48+00:00</updated>
+    <title>Μητσοτάκης – Μακρόν: Στο τραπέζι τα επόμενα βήματα για το καλώδιο Ελλάδας – Κύπρου</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564448387/mitsotakis-makron-sto-trapezi-ta-epomena-vimata-gia-to-kalodio-elladas-kyproy/"/>
+    <id>urn:greek-news-aggregator:b6231dc340df</id>
+    <updated>2026-09-09T22:06:37+00:00</updated>
+    <published>2026-09-09T22:06:37+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">The Mitsotakis–Macron meeting at the Élysée covered next steps for the Greece–Cyprus cable after Meridiam's entry, developments in the Eastern Mediterranean, Iran and the Middle East, the energy-cost impact of the Hormuz crisis, and joint initiatives to ban social media for under-15s. / Στη συνάντηση Μητσοτάκη–Μακρόν στα Ηλύσια τέθηκαν τα επόμενα βήματα για το καλώδιο Ελλάδας–Κύπρου μετά την είσοδο της Meridiam, οι εξελίξεις σε Ανατολική Μεσόγειο, Ιράν και Μέση Ανατολή, οι επιπτώσεις της κρίσης στο Ορμούζ στο ενεργειακό κόστος και οι κοινές πρωτοβουλίες για απαγόρευση των social media σε παιδιά κάτω των 15.</summary>
+  </entry>
+  <entry>
+    <title>Ποιος(-α) θα λύσει την εξίσωση της PISA;</title>
+    <link href="https://www.kathimerini.gr/opinion/564448762/poios-a-tha-lysei-tin-exisosi-tis-pisa/"/>
+    <id>urn:greek-news-aggregator:4ce2c96e56f7</id>
+    <updated>2026-09-10T08:27:00+00:00</updated>
+    <published>2026-09-10T08:27:00+00:00</published>
+    <author><name>Απόστολος Λακασάς</name></author>
+    <category term="opinion"/>
+    <summary type="text">Apostolos Lakasas points out that one in two Greek pupils finishes lower secondary school unable to perform simple mathematical reasoning and four in ten cannot understand simple texts, per PISA 2025. The 'shock' is not the results, mediocre since 2000, but that since then there have been only declarations and no action. / Ο Απόστολος Λακασάς επισημαίνει ότι ένας στους δύο Ελληνες μαθητές τελειώνει το γυμνάσιο χωρίς απλούς μαθηματικούς συλλογισμούς και τέσσερις στους δέκα χωρίς κατανόηση απλών κειμένων, σύμφωνα με την PISA 2025. Το «σοκ» δεν είναι τα αποτελέσματα, μέτρια από το 2000, αλλά ότι από τότε υπάρχουν μόνο διακηρύξεις και καμία πράξη.</summary>
+  </entry>
+  <entry>
+    <title>«Μέδουσα»: Πολυεθνική άσκηση νοτίως της Κρήτης – UAV και αμφίβιες επιχειρήσεις</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564448195/medoysa-polyethniki-askisi-notios-tis-kritis-uav-kai-amfivies-epicheiriseis/"/>
+    <id>urn:greek-news-aggregator:02c45a9c1e1c</id>
+    <updated>2026-09-09T19:15:33+00:00</updated>
+    <published>2026-09-09T19:15:33+00:00</published>
     <author><name>Σταύρος Ιωαννίδης</name></author>
     <category term="politics"/>
-    <summary xml:lang="el">Ο εκπρόσωπος του ισραηλινού υπουργείου Αμυνας διευκρίνισε ότι το Ισραήλ θα προσφέρει τεχνογνωσία ώστε ελληνικές εταιρείες να αναπτύξουν «ελληνικό πηγαίο κώδικα» για την «Ασπίδα του Αχιλλέα», που θα διασυνδέει Spider AIO, Barak MX και David's Sling σε ενιαίο κέντρο C2 υπό αποκλειστικά ελληνικό έλεγχο. Η δήλωση δεν αντιφάσκει με όσα είπε ο Μοσέ Πατέλ στην «Κ», που διαχώριζε το Iron Dome από το ελληνικό πρόγραμμα. Το έργο αναλαμβάνει η SCYTALYS με τη Rafael, μετά τη σύμβαση που υπογράφηκε στο Τελ Αβίβ στις 31 Αυγούστου.</summary>
-    <content type="text" xml:lang="en">Israel's defence ministry spokesman clarified that Israel will provide know-how so Greek firms develop a 'Greek source code' for the 'Achilles Shield', linking Spider AIO, Barak MX and David's Sling into a single C2 centre under exclusive Greek control. The statement does not contradict Moshe Patel's remarks to Kathimerini separating Iron Dome from the Greek programme. SCYTALYS with Rafael will deliver the work, following the contract signed in Tel Aviv on 31 August.</content>
+    <summary type="text">The multinational 'Medusa-15' exercise starts Thursday south of Crete and Karpathos with Greece, Egypt, France, Italy and Cyprus, running ten days with fighter jets, warships, drones and amphibious operations. Sources stress the UNCLOS-based message of legality against the 'Blue Homeland' narrative and the close Athens–Cairo relationship. / Η πολυεθνική άσκηση «Μέδουσα-15» ξεκινά την Πέμπτη νοτίως της Κρήτης και της Καρπάθου με τη συμμετοχή Ελλάδας, Αιγύπτου, Γαλλίας, Ιταλίας και Κύπρου, για δέκα ημέρες με μαχητικά, πλοία, drones και αμφίβιες επιχειρήσεις. Πηγές τονίζουν το μήνυμα νομιμότητας βάσει UNCLOS απέναντι στο αφήγημα της «Γαλάζιας Πατρίδας» και τη στενή σχέση Αθήνας–Καΐρου.</summary>
   </entry>
   <entry>
-    <title>Κυριάκος Πιερρακάκης: Αυχένες</title>
-    <link href="https://www.kathimerini.gr/opinion/564446587/kyriakos-pierrakakis-aychenes/"/>
-    <id>urn:kathimerini:1166550363b8</id>
-    <updated>2026-09-09T12:57:00+00:00</updated>
-    <author><name>Μιχάλης Τσιντσίνης</name></author>
-    <category term="opinion"/>
-    <summary xml:lang="el">Ο Μιχάλης Τσιντσίνης βλέπει το πακέτο της ΔΕΘ ως «λίγο από το ένα και λίγο από το άλλο»: προεκλογικό «πάρε, κόσμε» και ζυγισμένη προστασία εισοδημάτων, με έμπνευση τον επενδυτικό λογαριασμό για παιδιά. Η κυβέρνηση θεωρεί τη «διανομή» απαραίτητη δημοκρατική νομιμοποίηση για μεταρρυθμίσεις – «είμαστε η ΝΔ και όχι το Ποτάμι» – ενώ αποσιωπά τις κοινωνικές μεταρρυθμίσεις όπως ο γάμος για όλους. Ο Πιερρακάκης, πολιτικό ζώο αυτής της μεσότητας, «κινδυνεύει με αυχενικό» κοιτάζοντας δυτικά ως πρόεδρος του Eurogroup και ταυτόχρονα στο εσωτερικό.</summary>
-    <content type="text" xml:lang="en">Michalis Tsintsinis sees the TIF package as 'a bit of both': a pre-election handout and a measured defence of incomes, with the children's investment account as its inspired touch. The government regards 'distribution' as necessary democratic legitimacy for reforms – 'we are ND, not To Potami' – while keeping quiet about social reforms such as marriage for all. Pierrakakis, a political animal of this middle way, 'risks a stiff neck' looking west as Eurogroup president and inward at the same time.</content>
+    <title>Νέοι κανόνες για τις δημόσιες συμβάσεις με ευρωπαϊκή προτίμηση</title>
+    <link href="https://www.kathimerini.gr/economy/564448957/neoi-kanones-gia-tis-dimosies-symvaseis-me-eyropaiki-protimisi/"/>
+    <id>urn:greek-news-aggregator:92177b60a826</id>
+    <updated>2026-09-10T07:36:00+00:00</updated>
+    <published>2026-09-10T07:36:00+00:00</published>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="economy"/>
+    <summary type="text">The Commission unveiled the new Public Procurement Act, replacing three directives with a single regulation for a 2.6-trillion-euro-a-year market. A unified digital ecosystem will link national platforms, with a European preference and easier access for SMEs. / Η Κομισιόν παρουσίασε τη νέα Πράξη για τις Δημόσιες Συμβάσεις, που αντικαθιστά τρεις οδηγίες με έναν ενιαίο κανονισμό για αγορά 2,6 τρισ. ευρώ ετησίως. Δημιουργείται ενιαίο ψηφιακό οικοσύστημα που διασυνδέει τις εθνικές πλατφόρμες, με ευρωπαϊκή προτίμηση και διευκολύνσεις για μικρομεσαίες επιχειρήσεις.</summary>
   </entry>
   <entry>
-    <title>Μέση Ανατολή: Drone έπληξε ελληνόκτητο τάνκερ με 2 εκατ. βαρέλια ιρακινού μαζούτ</title>
-    <link href="https://www.kathimerini.gr/world/564447640/mesi-anatoli-drone-eplixe-tanker-ellinikon-symferonton-me-2-ekat-varelia-irakinoy-mazoyt/"/>
-    <id>urn:kathimerini:567942b0228e</id>
-    <updated>2026-09-09T14:21:51+00:00</updated>
+    <title>Τέμπη: Στις 6 Νοεμβρίου η δίκη για τα βίντεο της εμπορικής αμαξοστοιχίας</title>
+    <link href="https://www.kathimerini.gr/society/564449626/tempi-stis-6-noemvrioy-i-diki-gia-ta-vinteo-tis-emporikis-amaxostoichias/"/>
+    <id>urn:greek-news-aggregator:d3c395e4b5e7</id>
+    <updated>2026-09-10T11:53:51+00:00</updated>
+    <published>2026-09-10T11:53:51+00:00</published>
+    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <category term="society"/>
+    <summary type="text">The trial over the handling of video footage from the Tempi freight train was set for 6 November, with the OSE chairman on the night of the crash, his successor and the Interstar Security representative as defendants. The trial had been adjourned indefinitely in April after the presiding judge recused herself and will restart from scratch. / Για τις 6 Νοεμβρίου προσδιορίστηκε η δίκη για τη διαχείριση του βιντεοληπτικού υλικού της εμπορικής αμαξοστοιχίας των Τεμπών, με κατηγορούμενους τον πρόεδρο του ΟΣΕ το βράδυ του δυστυχήματος, τον διάδοχό του και τον εκπρόσωπο της Interstar Security. Η δίκη είχε αναβληθεί αορίστως τον Απρίλιο μετά την αποχή της προέδρου του δικαστηρίου και θα ξεκινήσει από την αρχή.</summary>
+  </entry>
+  <entry>
+    <title>Σουηδία: «Δημοψήφισμα» για τη συμμετοχή ακροδεξιών Δημοκρατών στην κυβέρνηση οι βουλευτικές εκλογές</title>
+    <link href="https://www.kathimerini.gr/world/564449965/soyidia-dimopsifisma-gia-ti-symmetochi-akrodexion-dimokraton-stin-kyvernisi-oi-voyleytikes-ekloges/"/>
+    <id>urn:greek-news-aggregator:d51c1f275b4b</id>
+    <updated>2026-09-10T14:08:21+00:00</updated>
+    <published>2026-09-10T14:08:21+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary xml:lang="el">Το ελληνικών συμφερόντων δεξαμενόπλοιο New Andros, σημαίας Παναμά, δέχθηκε επίθεση από drone ενώ έπλεε σε ιρακινά χωρικά ύδατα μεταφέροντας περίπου 2 εκατ. βαρέλια ιρακινού μαζούτ. Ιρακινά σκάφη έσβησαν τη φωτιά και όλο το πλήρωμα, μαζί με τους δύο Ελληνες ναυτικούς (πλοίαρχος και Α΄ μηχανικός), είναι καλά, σύμφωνα με το υπουργείο Ναυτιλίας. Η UKMTO ανέφερε ότι αρκετά εμπορικά πλοία στον Κόλπο δέχθηκαν πυρά τη νύχτα, ενώ δεν έχει αποδοθεί ευθύνη για το πλήγμα.</summary>
-    <content type="text" xml:lang="en">The Greek-owned, Panama-flagged tanker New Andros was hit by a drone while sailing in Iraqi territorial waters carrying around 2 million barrels of Iraqi fuel oil. Iraqi vessels put out the fire and the entire crew, including the two Greek seafarers (master and chief engineer), is safe, the shipping ministry said. UKMTO reported that several merchant ships in the Gulf came under fire overnight, and no one has been blamed for the strike.</content>
+    <summary type="text">Swedes vote Sunday in an election seen as a referendum on bringing the far-right Sweden Democrats (around 19%) into government, which Ulf Kristersson has accepted to secure a second term. The result will decide whether the shift toward stricter integration, citizenship and border policies deepens. / Οι Σουηδοί ψηφίζουν την Κυριακή σε εκλογές που θεωρούνται δημοψήφισμα για την είσοδο των ακροδεξιών Σουηδών Δημοκρατών (περίπου 19%) στην κυβέρνηση, κάτι που ο Ουλφ Κρίστερσον έχει αποδεχθεί για να εξασφαλίσει δεύτερη θητεία. Το αποτέλεσμα θα κρίνει αν θα βαθύνει η στροφή προς αυστηρότερες πολιτικές ένταξης, ιθαγένειας και συνόρων.</summary>
   </entry>
   <entry>
-    <title>Χρυσοχοΐδης: «Ηλεκτρονικό βραχιολάκι σε κατηγορουμένους για ενδοοικογενειακή βία»</title>
-    <link href="https://www.kathimerini.gr/society/564447487/chrysocho-dis-ilektroniko-vrachiolaki-se-katigoroymenoys-gia-endooikogeneiaki-via/"/>
-    <id>urn:kathimerini:eb839db08dac</id>
-    <updated>2026-09-09T12:53:05+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary xml:lang="el">Ο Μιχάλης Χρυσοχοΐδης προανήγγειλε στον ΑΝΤ1 ηλεκτρονικό «βραχιολάκι» για όλους τους κατηγορούμενους για ενδοοικογενειακή βία που αφήνονται ελεύθεροι με περιοριστικούς όρους, ώστε να ελέγχεται αν πλησιάζουν το θύμα, με φυλάκιση για τους υπότροπους. Χαρακτήρισε τη δολοφονία της Κυριακής Γρίβα τον Απρίλιο του 2024 σημείο καμπής για την Αστυνομία («τόσο πολλή αδράνεια, τόσο πολλά λάθη μέσα σε ελάχιστα λεπτά»), σημειώνοντας ότι λειτουργούν πλέον 63 Γραφεία Ενδοοικογενειακής Βίας και safe houses, και ανακοίνωσε διεθνές φόρουμ με στόχο Διεθνή Διακήρυξη.</summary>
-    <content type="text" xml:lang="en">Michalis Chrysochoidis told ANT1 that electronic tagging will be introduced for all domestic-violence defendants released under restrictive conditions, so breaches of no-contact orders can be detected, with repeat offenders jailed. He called the April 2024 murder of Kyriaki Griva a turning point for the police ('so much inertia, so many mistakes in a few minutes'), noting that 63 domestic-violence offices and safe houses now operate, and announced an international forum aimed at an international declaration.</content>
-  </entry>
-  <entry>
-    <title>Θα αντέξουν τα θεσμικά τείχη;</title>
-    <link href="https://www.kathimerini.gr/politics/564440077/tha-antexoyn-ta-thesmika-teichi-k/"/>
-    <id>urn:kathimerini:82c83e5bd682</id>
-    <updated>2026-09-08T21:14:19+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <category term="politics"/>
-    <summary xml:lang="el">Ο Ηλίας Κασιδιάρης αποφυλακίζεται στις 15 Σεπτεμβρίου με λήξη ποινής και χωρίς όρους, όπως λέει η συνήγορός του, και τα σενάρια για το πολιτικό του βήμα ενόψει εκλογών 2027 πληθαίνουν. Πληροφορίες της «Κ» αναφέρουν ότι δεν θα ιδρύσει νέο κόμμα, γνωρίζοντας ότι δεν θα περνούσε τον έλεγχο του Αρείου Πάγου, αλλά θα στηρίξει άλλο σχηματισμό χωρίς να συμμετέχει. Νομικοί κύκλοι εκτιμούν ότι δύο τροπολογίες του 2023, δύο αποφάσεις του Α1 Τμήματος του Αρείου Πάγου και μία του Εκλογοδικείου του 2025 συνιστούν αδιαπέραστο εμπόδιο.</summary>
-    <content type="text" xml:lang="en">Ilias Kasidiaris leaves prison on 15 September at the end of his sentence and without conditions, his lawyer says, and speculation about his political move ahead of the 2027 elections is mounting. Kathimerini's sources say he will not found a new party, knowing it would fail the Supreme Court's vetting, but will back another formation without joining it. Legal circles judge that two 2023 amendments, two Supreme Court A1 section rulings and a 2025 Electoral Court decision form an impassable barrier.</content>
-  </entry>
-  <entry>
-    <title>Ο Λυσένκο στην Εκτη Δημοτικού</title>
-    <link href="https://www.kathimerini.gr/opinion/564446404/o-lysenko-stin-ekti-dimotikoy/"/>
-    <id>urn:kathimerini:16964d93d436</id>
-    <updated>2026-09-09T12:55:00+00:00</updated>
-    <author><name>Πάσχος Μανδραβέλης</name></author>
+    <title>Η αχίλλειος πτέρνα της «Ασπίδας»</title>
+    <link href="https://www.kathimerini.gr/opinion/564448759/i-achilleios-pterna-tis-aspidas/"/>
+    <id>urn:greek-news-aggregator:b07e55c429a9</id>
+    <updated>2026-09-10T12:56:00+00:00</updated>
+    <published>2026-09-10T12:56:00+00:00</published>
+    <author><name>Ξένια Κουναλάκη</name></author>
     <category term="opinion"/>
-    <summary xml:lang="el">Ο Πάσχος Μανδραβέλης παραλληλίζει με τον Λυσένκο τη δήλωση Μητσοτάκη ότι «αν σε κάποιο βιβλίο υπάρχει κάτι που θεωρούμε ότι δημιουργεί δικαιολογημένη αντίδραση, θα το διορθώσουμε». Τα «σφάλματα» τα ελέγχει το Ινστιτούτο Εκπαιδευτικής Πολιτικής με επιστημονικά δεδομένα, όχι ο πρωθυπουργός, ενώ δεν υπάρχει «δικαιολογημενόμετρο»: στον αμερικανικό Νότο αντιδρούν και στη Θεωρία της Εξέλιξης. Φοβάται ότι το βιβλίο Κοινωνικής και Πολιτικής Αγωγής της ΣΤ΄ Δημοτικού θα «διορθωθεί» σύμφωνα με τις δοξασίες Σαμαρά.</summary>
-    <content type="text" xml:lang="en">Paschos Mandravelis likens to Lysenko Mitsotakis's statement that 'if a book contains something we consider provokes a justified reaction, we will correct it'. 'Errors' are checked by the Institute of Educational Policy on scientific grounds, not by the prime minister, and there is no 'justification meter': the American South objects even to the theory of evolution. He fears the sixth-grade civics textbook will be 'corrected' to suit Samaras's beliefs.</content>
+    <summary type="text">Xenia Kounalaki argues the real Achilles' heel of the 'Achilles Shield' is the broader defence partnership with Netanyahu's Israel, internationally isolated after what the UN committee calls genocide in Gaza, just as France and Britain sanction settlers. She asks with whom, and at what moment, Greece is choosing to ally. / Η Ξένια Κουναλάκη υποστηρίζει ότι η αληθινή αχίλλειος πτέρνα της «Ασπίδας του Αχιλλέα» είναι η ευρύτερη αμυντική συνεργασία με το Ισραήλ της κυβέρνησης Νετανιάχου, διεθνώς απομονωμένης και μετά τη γενοκτονία στη Γάζα κατά τον ΟΗΕ, την ώρα που Γαλλία και Βρετανία επιβάλλουν κυρώσεις σε εποίκους. Ρωτά με ποιον και σε ποια συγκυρία επιλέγει να συμμαχήσει η Ελλάδα.</summary>
   </entry>
   <entry>
-    <title>Παιδιά χωρίς παιδική ηλικία</title>
-    <link href="https://www.kathimerini.gr/opinion/564446422/paidia-choris-paidiki-ilikia/"/>
-    <id>urn:kathimerini:ee3899ada9d8</id>
-    <updated>2026-09-09T12:56:00+00:00</updated>
-    <author><name>Τασούλα Επτακοίλη</name></author>
-    <category term="opinion"/>
-    <summary xml:lang="el">Η Τασούλα Επτακοίλη γράφει ότι ο αποτροπιασμός για την υπόθεση της Κυψέλης θα ξεθωριάσει, κανείς δεν θα λογοδοτήσει και τα παιδιά θα καταλήξουν, όπως δεκάδες άλλα, σε παιδιατρικά νοσοκομεία-«αποθετήρια ψυχών» χωρίς δίχτυ ασφαλείας – όπως έδειξε η απαρατήρητη αρπαγή τριών παιδιών από το Παίδων. «Παιδική προστασία στη χώρα μας δεν υπάρχει», ούτε λέξη δεν ακούστηκε στη ΔΕΘ· το κράτος παρεμβαίνει μόνο μετά την κακοποίηση και αδυνατεί να προσφέρει ασφάλεια, σταθερότητα και προοπτική.</summary>
-    <content type="text" xml:lang="en">Tasoula Eptakoili writes that outrage over the Kypseli case will fade, no one will be held accountable, and the children will end up, like dozens of others, in paediatric hospitals that serve as 'warehouses of souls' with no safety net – as shown by the unnoticed abduction of three children from the Children's Hospital. 'Child protection does not exist in our country', not a word was said at TIF; the state intervenes only after abuse and fails to offer safety, stability and prospects.</content>
-  </entry>
-  <entry>
-    <title>Παραμένουν χαμηλές οι ιδιωτικές επενδύσεις</title>
-    <link href="https://www.kathimerini.gr/economy/local/564446644/paramenoyn-chamiles-oi-idiotikes-ependyseis/"/>
-    <id>urn:kathimerini:182d81daed79</id>
-    <updated>2026-09-09T08:52:00+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Στα 34 δισ. ευρώ η αγορά αμοιβαίων κεφαλαίων</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564449002/sta-34-dis-eyro-i-agora-amoivaion-kefalaion/"/>
+    <id>urn:greek-news-aggregator:8f07af852509</id>
+    <updated>2026-09-10T09:24:15+03:00</updated>
+    <published>2026-09-10T09:24:15+03:00</published>
+    <author><name>Ευγενία Τζώρτζη</name></author>
     <category term="economy"/>
-    <summary xml:lang="el">Οι ιδιωτικές επενδύσεις στην Ελλάδα παραμένουν στο 8,48% του ΑΕΠ έναντι 12,69% στην ΕΕ, σύμφωνα με μελέτη του ΚΕΦίΜ, ενώ οι δημόσιες έχουν φτάσει το ευρωπαϊκό επίπεδο (3,71% έναντι 3,68%). Το χάσμα προϋπήρχε της κρίσης, άρα είναι διαρθρωτικό: επενδύσεις σε κατοικίες 2,56% έναντι 5,09%, σε άυλο κεφάλαιο 2,8% έναντι 4,14%. Θετική εξαίρεση ο εξοπλισμός πληροφορικής (1,51%, υπερδιπλάσιο του μέσου όρου). Ο Νίκος Ρώμπαπας ζητεί προτεραιότητα στις κατοικίες για προσιτή στέγη.</summary>
-    <content type="text" xml:lang="en">Private investment in Greece stands at 8.48% of GDP versus 12.69% in the EU, a KEFiM study finds, while public investment has reached the European level (3.71% vs 3.68%). The gap predates the debt crisis and is structural: housing investment 2.56% vs 5.09%, intangibles 2.8% vs 4.14%. ICT equipment is a positive exception (1.51%, over double the average). Nikos Rompapas calls for priority on housing to deliver affordable homes.</content>
+    <summary type="text">Greece's mutual fund market has reached 34 billion euros, just 500 million short of the 1999 record, more than tripling since 2022 as low deposit rates push savers into funds. Net sales in the first eight months reached 2.6 billion, with NBG, Eurobank, Piraeus and Alpha accounting for 96%. / Η ελληνική αγορά αμοιβαίων κεφαλαίων έφτασε τα 34 δισ. ευρώ, μόλις 500 εκατ. από το ιστορικό ρεκόρ του 1999, υπερτριπλασιάζοντας το μέγεθός της από το 2022 καθώς τα χαμηλά επιτόκια καταθέσεων στρέφουν τους αποταμιευτές στα αμοιβαία. Στο οκτάμηνο οι καθαρές πωλήσεις ανήλθαν σε 2,6 δισ., με Εθνική, Eurobank, Πειραιώς και Alpha να συγκεντρώνουν το 96%.</summary>
   </entry>
 </feed>
