@@ -4,207 +4,207 @@
   <subtitle>Top stories scraped from kathimerini.gr</subtitle>
   <link href="https://github.com/zoetzikra/greek-news-aggregator" rel="alternate"/>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>urn:greek-news-aggregator:2026-09-14</id>
-  <updated>2026-09-14T11:34:55.711927+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-09-15</id>
+  <updated>2026-09-15T11:54:42.537120+00:00</updated>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>ΑΙ: Κερδοφορία εναντίον ασφάλειας – Η σύγκρουση που οδήγησε στην πρωτοφανή κρίση</title>
-    <link href="https://www.kathimerini.gr/world/564456757/ai-kerdoforia-enantion-asfaleias-i-sygkroysi-poy-odigise-stin-protofani-krisi/"/>
-    <id>urn:greek-news-aggregator:1c068d4dca6e</id>
-    <updated>2026-09-14T13:36:39+00:00</updated>
-    <published>2026-09-14T13:36:39+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">A Wall Street Journal analysis of the &#x27;unprecedented crisis&#x27; in AI: OpenAI and Anthropic, in fierce competition with each other and with China and on the verge of going public, admit they may lose control of their systems. OpenAI&#x27;s euphoria over solving a major mathematical problem coincided with the departure of Anthropic researcher Jacob Coxon, who fears self-improving tools, and Evan Hubinger&#x27;s estimate of a more than 10% chance of AI wiping out humanity. / Ανάλυση της Wall Street Journal για την «πρωτοφανή κρίση» στην ΤΝ: OpenAI και Anthropic, σε σκληρό ανταγωνισμό μεταξύ τους και με την Κίνα και στο κατώφλι του χρηματιστηρίου, παραδέχονται ότι μπορεί να χάσουν τον έλεγχο των συστημάτων τους. Η ευφορία της OpenAI για την επίλυση ενός μεγάλου μαθηματικού προβλήματος συνέπεσε με την αποχώρηση του ερευνητή της Anthropic Τζέικομπ Κόξον, που φοβάται αυτοβελτιούμενα εργαλεία, και με την εκτίμηση του Έβαν Χάμπινγκερ για πιθανότητα άνω του 10% αφανισμού της ανθρωπότητας.</summary>
-  </entry>
-  <entry>
-    <title>Ανδρουλάκης στη ΔΕΘ: Στόχος η 1η θέση – «Οχι» σε συνεργασία με ΝΔ, διμέτωπος κατά Μητσοτάκη-Τσίπρα</title>
-    <link href="https://www.kathimerini.gr/politics/564456037/androylakis-sti-deth-stochos-i-1i-thesi-ochi-se-synergasia-me-nd-dimetopos-kata-mitsotaki-tsipra/"/>
-    <id>urn:greek-news-aggregator:9e0112dac790</id>
-    <updated>2026-09-13T14:41:27+00:00</updated>
-    <published>2026-09-13T14:41:27+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">At his TIF press conference Nikos Androulakis repeated that PASOK&#x27;s goal is first place and ruled out any cooperation with ND even without Mitsotakis, citing the unanimous congress decisions. He attacked both Mitsotakis and Tsipras, called the &#x27;Mitsotakis or chaos&#x27; dilemma blackmail and &#x27;Mitsotakis or Erdogan&#x27; a sign of arrogance, and insisted &#x27;there will be no ungovernability&#x27;. / Ο Νίκος Ανδρουλάκης, στη συνέντευξη Τύπου της ΔΕΘ, επανέλαβε ότι στόχος του ΠΑΣΟΚ είναι η πρώτη θέση και απέρριψε κάθε συνεργασία με τη ΝΔ ακόμη και χωρίς τον Μητσοτάκη, επικαλούμενος τις ομόφωνες αποφάσεις του συνεδρίου. Κινήθηκε σε διμέτωπο κατά Μητσοτάκη και Τσίπρα, χαρακτήρισε το δίλημμα «Μητσοτάκης ή χάος» εκβιασμό και το «Μητσοτάκης ή Ερντογάν» δείγμα αλαζονείας, και διαβεβαίωσε ότι «ακυβερνησία δεν θα υπάρξει».</summary>
-  </entry>
-  <entry>
-    <title>Πτώση στις τιμές μετοχών που συνδέονται με την τεχνητή νοημοσύνη</title>
-    <link href="https://www.kathimerini.gr/world/564456607/ptosi-stis-times-metochon-poy-syndeontai-me-tin-techniti-noimosyni/"/>
-    <id>urn:greek-news-aggregator:43421931b535</id>
-    <updated>2026-09-14T10:45:40+00:00</updated>
-    <published>2026-09-14T10:45:40+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">AI-linked stocks fell sharply on Monday, with Nasdaq futures down 1.3%, SoftBank down as much as 13.2%, Kioxia -9.8% and Tokyo Electron -3.7%. The drop followed Anthropic CEO Dario Amodei&#x27;s post on X calling on companies to slow capability development – with Musk and Altman agreeing – warning that within 6–12 months models &#x27;could be able to take control of the entire internet&#x27;, while Altman announced OpenAI will not IPO this year. / Ισχυρές απώλειες κατέγραψαν τη Δευτέρα οι μετοχές που συνδέονται με την ΤΝ, με τα futures του Nasdaq -1,3%, τη SoftBank έως -13,2%, την Kioxia -9,8% και την Tokyo Electron -3,7%. Η πτώση ήρθε μετά το κείμενο του Ντάριο Αμοντέι της Anthropic στο Χ, που κάλεσε τις εταιρείες να επιβραδύνουν την ανάπτυξη δυνατοτήτων –με τη συμφωνία Μασκ και Άλτμαν– προειδοποιώντας ότι σε 6-12 μήνες μοντέλα «θα μπορούσαν να καταλάβουν τον έλεγχο ολόκληρου του Διαδικτύου», ενώ ο Άλτμαν ανακοίνωσε ότι η OpenAI δεν θα κάνει IPO φέτος.</summary>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης από Καστελλόριζο: Κίνητρα εγκατάστασης 5.000 ευρώ ετησίως – Δεν δεχόμαστε απειλές, το μήνυμα προς Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/564456010/mitsotakis-apo-kastellorizo-kinitra-egkatastasis-5-000-eyro-etisios-den-dechomaste-apeiles-to-minyma-pros-agkyra/"/>
-    <id>urn:greek-news-aggregator:b46fd266de3d</id>
-    <updated>2026-09-13T11:56:23+00:00</updated>
-    <published>2026-09-13T11:56:23+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">From Kastellorizo, on the anniversary of the island&#x27;s liberation, Kyriakos Mitsotakis announced a permanent 5,000-euro annual pay incentive for civil servants, security forces and military serving there, plus a tax-free 5,000-euro annual residence incentive per household and 1,000 euros per child. He told Ankara that Greece &#x27;threatens no one but accepts no threats or dictates&#x27; and contrasted today&#x27;s picture with Papandreou&#x27;s 2010 bailout address. / Από το Καστελλόριζο, στην επέτειο της απελευθέρωσης του νησιού, ο Κυριάκος Μητσοτάκης ανακοίνωσε μόνιμο μισθολογικό κίνητρο 5.000 ευρώ ετησίως για δημοσίους υπαλλήλους, Σώματα Ασφαλείας και Ένοπλες Δυνάμεις που υπηρετούν εκεί, καθώς και αφορολόγητο κίνητρο εγκατάστασης 5.000 ευρώ ετησίως ανά νοικοκυριό συν 1.000 ευρώ ανά παιδί. Έστειλε μήνυμα στην Άγκυρα ότι η Ελλάδα «δεν απειλεί κανέναν, αλλά δεν δέχεται απειλές και υποδείξεις» και αντιδιέστειλε τη σημερινή εικόνα με το διάγγελμα Παπανδρέου του 2010.</summary>
-  </entry>
-  <entry>
-    <title>Κυριάκος Πιερρακάκης στην «Κ»: Χάρτης για επενδύσεις 20 δισ.</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564454309/kyriakos-pierrakakis-stin-k-chartis-gia-ependyseis-20-dis/"/>
-    <id>urn:greek-news-aggregator:e11030808ec1</id>
-    <updated>2026-09-13T13:54:07+00:00</updated>
-    <published>2026-09-13T13:54:07+00:00</published>
-    <author><name>Ειρήνη Χρυσολωρά</name></author>
-    <category term="politics"/>
-    <summary type="text">Economy Minister Kyriakos Pierrakakis tells Kathimerini he will soon present 30 specific investment opportunities (&#x27;Invest Ahead&#x27;) that could bring up to 20 billion euros in new investment, from island desalination to luxury-yacht shipyards. He acknowledges that changing the production model requires larger firms, mergers and exports, notes investment has risen to 17.7% of GDP from 11% in 2019, and says 2% growth &#x27;is not a ceiling&#x27;. / Ο υπουργός Εθνικής Οικονομίας Κυριάκος Πιερρακάκης προαναγγέλλει στην «Κ» την παρουσίαση 30 συγκεκριμένων επενδυτικών ευκαιριών («Invest Ahead») που μπορούν να φέρουν έως 20 δισ. νέες επενδύσεις, από την αφαλάτωση στα νησιά μέχρι ναυπηγεία σκαφών πολυτελείας. Αναγνωρίζει ότι η αλλαγή παραγωγικού μοντέλου απαιτεί μεγαλύτερες επιχειρήσεις, συγχωνεύσεις και εξαγωγές, σημειώνει ότι οι επενδύσεις έφτασαν στο 17,7% του ΑΕΠ από 11% το 2019 και λέει ότι το 2% ανάπτυξη «δεν είναι ταβάνι».</summary>
-  </entry>
-  <entry>
-    <title>Θάνατος Μαζωνάκη: Στον ανακριτή σήμερα οι δύο γιατροί</title>
-    <link href="https://www.kathimerini.gr/society/564456421/thanatos-mazonaki-ston-anakriti-simera-oi-dyo-giatroi/"/>
-    <id>urn:greek-news-aggregator:8d8d4cf196a4</id>
-    <updated>2026-09-14T10:01:51+00:00</updated>
-    <published>2026-09-14T10:01:51+00:00</published>
+    <title>Θάνατος Μαζωνάκη: Απολογούνται σήμερα οι δύο κατηγορούμενοι γιατροί</title>
+    <link href="https://www.kathimerini.gr/society/564458677/thanatos-mazonaki-apologoyntai-simera-oi-dyo-katigoroymenoi-giatroi/"/>
+    <id>urn:greek-news-aggregator:b4945cc9e3f2</id>
+    <updated>2026-09-15T08:47:45+00:00</updated>
+    <published>2026-09-15T08:47:45+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary type="text">The two doctors charged with fatal exposure over Giorgos Mazonakis&#x27;s death give their pleas today before the Evelpidon magistrate, asked to describe what happened at the Kolonaki clinic from the singer&#x27;s arrival on 9 September until EKAB paramedics entered. The family is seeking a homicide-with-possible-intent charge, while histological and lab results are considered crucial. / Οι δύο γιατροί που κατηγορούνται για θανατηφόρα έκθεση στον θάνατο του Γιώργου Μαζωνάκη απολογούνται σήμερα στον ανακριτή της Ευελπίδων, καλούμενοι να περιγράψουν τι συνέβη στο ιατρείο του Κολωνακίου από την άφιξη του τραγουδιστή στις 9 Σεπτεμβρίου μέχρι την είσοδο του ΕΚΑΒ. Η οικογένεια ζητά κατηγορία ανθρωποκτονίας με ενδεχόμενο δόλο, ενώ κρίσιμα θεωρούνται τα αποτελέσματα των ιστολογικών και εργαστηριακών εξετάσεων.</summary>
+    <summary type="text">The two doctors charged over Giorgos Mazonakis&#x27;s death give their pleas to the magistrate today, now facing homicide with possible intent, which carries a life sentence. The forensic report, drawn from the plasmapheresis machine&#x27;s log, shows the first alarm (&#x27;Alarm 9&#x27;, venous pressure exceeding the limit) came just 11 minutes after treatment began, the procedure continued despite repeated alarms, and the ambulance service was called almost two hours later.</summary>
   </entry>
   <entry>
-    <title>To στοίχημα της πραγματικής αύξησης των μισθών</title>
-    <link href="https://www.kathimerini.gr/economy/564454696/to-stoichima-tis-pragmatikis-ayxisis-ton-misthon/"/>
-    <id>urn:greek-news-aggregator:6767464e129b</id>
-    <updated>2026-09-14T11:31:04+00:00</updated>
-    <published>2026-09-14T11:31:04+00:00</published>
-    <author><name>Θάνος Τσίρος</name></author>
-    <category term="economy"/>
-    <summary type="text">2026 ends with a fall in real income for millions, as inflation of up to 3.8% wipes out recent support measures. For 2027, with inflation forecast at 2.5%, only minimum-wage earners (one in five private employees) and low-paid civil servants can expect a net rise of around 4%; the rest depend on collective agreements, while pensioners risk again falling below inflation. / Το 2026 κλείνει με μείωση πραγματικού εισοδήματος για εκατομμύρια πολίτες, καθώς με πληθωρισμό έως 3,8% οι πρόσφατες ενισχύσεις δεν αντισταθμίζουν τις απώλειες. Για το 2027, με πρόβλεψη πληθωρισμού 2,5%, καθαρή αύξηση γύρω στο 4% μπορούν να περιμένουν μόνο οι αμειβόμενοι με τον κατώτατο μισθό (ένας στους πέντε) και οι χαμηλόμισθοι δημόσιοι υπάλληλοι· οι υπόλοιποι εξαρτώνται από συλλογικές συμβάσεις, ενώ οι συνταξιούχοι κινδυνεύουν να μείνουν ξανά κάτω από τον πληθωρισμό.</summary>
-  </entry>
-  <entry>
-    <title>Ο πρώην επικεφαλής της CIA βρισκόταν σε σταθμό της Ουκρανίας όταν ρωσικό drone έπληξε τρένο</title>
-    <link href="https://www.kathimerini.gr/world/564456562/o-proin-epikefalis-tis-cia-vriskotan-se-stathmo-tis-oykranias-otan-rosiko-drone-eplixe-treno/"/>
-    <id>urn:greek-news-aggregator:20d8a7db06f3</id>
-    <updated>2026-09-14T10:16:17+00:00</updated>
-    <published>2026-09-14T10:16:17+00:00</published>
+    <title>Ο Τραμπ βλέπει «αρρωστημένη συνωμοσία» κατά της τεχνητής νοημοσύνης</title>
+    <link href="https://www.kathimerini.gr/world/564459148/o-tramp-vlepei-arrostimeni-synomosia-kata-tis-technitis-noimosynis/"/>
+    <id>urn:greek-news-aggregator:f40da6d9c494</id>
+    <updated>2026-09-15T12:32:42+00:00</updated>
+    <published>2026-09-15T12:32:42+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Former CIA director David Petraeus was at Yahodyn station, two kilometres from the Polish border, when a Russian drone struck a passenger train on Sunday, shortly after a diplomatic train carrying Boris Johnson and European officials had passed through. Ukrainian Railways considers it &#x27;quite likely&#x27; the attack was targeted, while Andrii Sybiha spoke of &#x27;Putin&#x27;s terrorism at the doors of the EU and NATO&#x27;. / Ο πρώην διευθυντής της CIA Ντέιβιντ Πετρέους βρισκόταν στον σιδηροδρομικό σταθμό Γιαχόντιν, δύο χιλιόμετρα από τα πολωνικά σύνορα, όταν ρωσικό drone έπληξε επιβατική αμαξοστοιχία την Κυριακή, λίγο μετά τη διέλευση διπλωματικού τρένου με τον Μπόρις Τζόνσον και Ευρωπαίους αξιωματούχους. Οι Ουκρανικοί Σιδηρόδρομοι θεωρούν «αρκετά πιθανό» η επίθεση να ήταν στοχευμένη, ενώ ο Αντρίι Σιμπίχα μίλησε για «τρομοκρατία του Πούτιν στις πόρτες της ΕΕ και του ΝΑΤΟ».</summary>
+    <summary type="text">Donald Trump rejected in six angry posts the calls by AI leaders for stricter regulation and a global slowdown, speaking of a &#x27;sick conspiracy&#x27; and branding fears of losing control a &#x27;HOAX&#x27;, like &#x27;climate change&#x27;. He phoned Nvidia&#x27;s Jensen Huang, who put the call on speaker at a conference, to declare that &#x27;robots are not going to take over&#x27;, placing supremacy over China above public concerns.</summary>
   </entry>
   <entry>
-    <title>Σ. Αραβία: Στερεύουν οι εξαγωγές πετρελαίου όσο μένει κλειστός ο αγωγός προς την Ερυθρά Θάλασσα</title>
-    <link href="https://www.kathimerini.gr/economy/international/564456139/s-aravia-stereyoyn-oi-exagoges-petrelaioy-oso-menei-kleistos-o-agogos-pros-tin-erythra-thalassa/"/>
-    <id>urn:greek-news-aggregator:b3ce7eb27424</id>
-    <updated>2026-09-13T16:54:47+00:00</updated>
-    <published>2026-09-13T16:54:47+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Saudi Arabia will run out of oil for export unless the East-West pipeline to the Red Sea, shut on 11 September after drone attacks, reopens within days, removing over 4% of global supply. The supply crisis has already pushed prices to records and US bond yields above 2008 levels, with Reuters sources estimating five to six weeks of repairs. / Η Σαουδική Αραβία θα μείνει χωρίς αποθέματα πετρελαίου προς εξαγωγή αν δεν επαναλειτουργήσει μέσα σε λίγες ημέρες ο αγωγός Ανατολής-Δύσης προς την Ερυθρά Θάλασσα, που έκλεισε στις 11 Σεπτεμβρίου μετά από επιθέσεις drones, με απώλεια άνω του 4% του παγκόσμιου εφοδιασμού. Η παγκόσμια κρίση προσφοράς έχει ήδη οδηγήσει τις τιμές σε ρεκόρ και τις αποδόσεις των αμερικανικών ομολόγων πάνω από τα επίπεδα του 2008, ενώ πηγές του Reuters εκτιμούν επισκευές πέντε με έξι εβδομάδων.</summary>
-  </entry>
-  <entry>
-    <title>Σε εξέλιξη οι έρευνες για 25 αγνοούμενους ανοιχτά της Γαύδου μετά την ανατροπή λέμβου</title>
-    <link href="https://www.kathimerini.gr/society/564456400/se-exelixi-oi-ereynes-gia-25-agnooymenoys-anoichta-tis-gavdoy-meta-tin-anatropi-lemvoy/"/>
-    <id>urn:greek-news-aggregator:9bb7d52ec63b</id>
-    <updated>2026-09-14T07:54:57+00:00</updated>
-    <published>2026-09-14T07:54:57+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">A search is under way 38 nautical miles south of Gavdos for 25 people missing after a boat carrying 77, according to testimonies, capsized. One person was found dead and 51 were rescued and will be taken to Paleochora and Agia Galini. Four ships, Frontex assets and a coastguard helicopter are involved, with 5-Beaufort winds hampering the search. / Σε εξέλιξη βρίσκονται οι έρευνες 38 ναυτικά μίλια νότια της Γαύδου για 25 αγνοούμενους μετά την ανατροπή λέμβου στην οποία, σύμφωνα με μαρτυρίες, επέβαιναν 77 άτομα. Ένας άνθρωπος εντοπίστηκε νεκρός και 51 διασώθηκαν και θα μεταφερθούν σε Παλαιόχωρα και Αγία Γαλήνη. Στην επιχείρηση συμμετέχουν τέσσερα πλοία, μέσα της Frontex και ελικόπτερο του Λιμενικού, με τους ανέμους 5 μποφόρ να δυσχεραίνουν τις έρευνες.</summary>
-  </entry>
-  <entry>
-    <title>Επέκταση στα 12 μίλια: Πότε και πώς;</title>
-    <link href="https://www.kathimerini.gr/opinion/564454324/epektasi-sta-12-milia-pote-kai-pos/"/>
-    <id>urn:greek-news-aggregator:a8f6cf7a9e22</id>
-    <updated>2026-09-14T12:20:00+00:00</updated>
-    <published>2026-09-14T12:20:00+00:00</published>
-    <author><name>Κωνσταντίνος Φίλης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Konstantinos Filis analyses the &#x27;when and how&#x27; of extending territorial waters to 12 nautical miles, after the right was explicitly cited in the démarche to Turkey, which has maintained its casus belli since 1995. He argues that not exercising the right erodes Greece&#x27;s standing, but a one-off extension across the whole territory would be counterproductive; he proposes phased extension, as in the Ionian, noting Greece has completed two delimitations (Italy, Egypt) instead of five or six. / Ο Κωνσταντίνος Φίλης αναλύει το «πότε και πώς» της επέκτασης των χωρικών υδάτων στα 12 ναυτικά μίλια, μετά τη ρητή αναφορά του δικαιώματος στο διάβημα προς την Τουρκία, που διατηρεί από το 1995 το casus belli. Υποστηρίζει ότι η μη άσκηση του δικαιώματος εξασθενεί το κύρος της Ελλάδας, αλλά η επέκταση «μια κι έξω» σε όλη την επικράτεια είναι αντιπαραγωγική· προτείνει τμηματική επέκταση σε φάσεις, όπως έγινε στο Ιόνιο, σημειώνοντας ότι η χώρα έχει ολοκληρώσει δύο οριοθετήσεις (Ιταλία, Αίγυπτος) αντί για πέντε ή έξι.</summary>
-  </entry>
-  <entry>
-    <title>Θεωρείο: Πίεση στη Βρετανία για τα Γλυπτά</title>
-    <link href="https://www.kathimerini.gr/politics/564454384/theoreio-piesi-sti-vretania-gia-ta-glypta/"/>
-    <id>urn:greek-news-aggregator:b0d9a6662955</id>
-    <updated>2026-09-14T07:20:24+00:00</updated>
-    <published>2026-09-14T07:20:24+00:00</published>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">The Theoreio column reports that Mitsotakis will considerably harden pressure on Britain for the reunification of the Parthenon Marbles after meeting UNESCO chief Khaled el-Enany, while Mareva Grabowski laid out Greece&#x27;s case to the Goodwill Ambassadors. The government is trying to keep its cool toward Samaras, and first post-TIF polls show gains for ND and PASOK and losses for Tsipras, Karystianou and Konstantopoulou. / Το Θεωρείο γράφει ότι ο Μητσοτάκης θα σκληρύνει σημαντικά την πίεση προς τη Βρετανία για την επανένωση των Γλυπτών του Παρθενώνα, μετά τη συνάντησή του με τον γενικό διευθυντή της UNESCO Χαλέντ ελ Ενάνι, ενώ η Μαρέβα Γκραμπόφσκι ανέπτυξε την ελληνική επιχειρηματολογία στους Πρέσβεις Καλής Θελήσεως. Η κυβέρνηση επιχειρεί να κρατήσει ψυχραιμία απέναντι στον Σαμαρά, ενώ οι πρώτες μετρήσεις μετά τη ΔΕΘ δείχνουν άνοδο για ΝΔ και ΠΑΣΟΚ και πτώση για Τσίπρα, Καρυστιανού και Κωνσταντοπούλου.</summary>
-  </entry>
-  <entry>
-    <title>Δίκη για Τέμπη: «Τριτοκοσμικές συνθήκες στον σιδηρόδρομο, καμία δικλίδα ασφαλείας»</title>
-    <link href="https://www.kathimerini.gr/society/564456691/diki-gia-tempi-tritokosmikes-synthikes-ston-sidirodromo-kamia-dikleida-asfaleias/"/>
-    <id>urn:greek-news-aggregator:f9ef936e8f40</id>
-    <updated>2026-09-14T12:13:53+00:00</updated>
-    <published>2026-09-14T12:13:53+00:00</published>
+    <title>«Θέλω να μάθω πώς πέθανε το παιδί μου, τι προκάλεσε τη φωτιά» – Σε εξέλιξη οι καταθέσεις συγγενών θυμάτων</title>
+    <link href="https://www.kathimerini.gr/society/dikastiko/564459160/thelo-na-matho-pos-pethane-to-paidi-moy-ti-prokalese-ti-fotia-se-exelixi-oi-katatheseis-syggenon-thymaton/"/>
+    <id>urn:greek-news-aggregator:69c55cb29a12</id>
+    <updated>2026-09-15T12:47:30+00:00</updated>
+    <published>2026-09-15T12:47:30+00:00</published>
     <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
     <category term="society"/>
-    <summary type="text">Prosecution witness testimony continued at the Larissa appeals court in the Tempi trial. A passenger from the fifth carriage described the collision &#x27;like a bomb going off&#x27; and a &#x27;ring of fire&#x27; above the train, while the father of driver Dimitrios Oikos, a retired train driver himself, testified the railway was &#x27;deliberately degraded&#x27; since 2010 and &#x27;there was no safety valve&#x27;. / Στο Τριμελές Εφετείο Κακουργημάτων Λάρισας συνεχίστηκαν οι καταθέσεις μαρτύρων υποστήριξης της κατηγορίας για τα Τέμπη. Επιβάτισσα του πέμπτου βαγονιού περιέγραψε τη σύγκρουση «σαν να έσκασε βόμβα» και το «στεφάνι φωτιάς» πάνω από το τρένο, ενώ ο πατέρας του μηχανοδηγού Δημητρίου Οικού, συνταξιούχος μηχανοδηγός, κατέθεσε ότι ο σιδηρόδρομος «απαξιώθηκε σκόπιμα» από το 2010 και ότι «δεν υπήρχε καμία δικλίδα ασφαλείας».</summary>
+    <summary type="text">At the Tempi trial in Larissa the relatives of Francesca Beza testified; she survived the collision but died in the fire, as captured in the audio where she says &#x27;I have no oxygen&#x27;. Her father complained that the case file does not state the cause of death of those burned, her brother demanded scientific investigation of the fireball and the &#x27;backfilling&#x27; of the site, and her mother said &#x27;if it weren&#x27;t for the fire, she would be here&#x27;.</summary>
   </entry>
   <entry>
-    <title>Η Φινλανδία θα ενταχθεί στην πυρηνική αποτροπή του Μακρόν</title>
-    <link href="https://www.kathimerini.gr/world/564456853/i-finlandia-tha-entachthei-stin-pyriniki-apotropi-toy-makron/"/>
-    <id>urn:greek-news-aggregator:2b4a91f9b0a6</id>
-    <updated>2026-09-14T13:41:39+00:00</updated>
-    <published>2026-09-14T13:41:39+00:00</published>
+    <title>Θάνατος Μαζωνάκη: Δόκτωρ με πτυχίο από τη Χονολουλού</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564457936/thanatos-mazonaki-doktor-me-ptychio-apo-ti-chonoloyloy/"/>
+    <id>urn:greek-news-aggregator:27bd119a9b4b</id>
+    <updated>2026-09-15T12:30:05+00:00</updated>
+    <published>2026-09-15T12:30:05+00:00</published>
+    <author><name>Κωνσταντίνος Μανωλόπουλος</name></author>
+    <category term="society"/>
+    <summary type="text">A Kathimerini investigation into the CV of Giorgos Mazonakis&#x27;s doctor: the &#x27;master&#x27;s in Quantum Medicine from the University of Hawaii&#x27; cannot be found at the public university but points to Quantum University in Honolulu, an unaccredited private online platform for alternative medicine where Gregg Braden teaches. Its founder, Paul Drouin, was found guilty in 1997 by Quebec&#x27;s College of Physicians of using unrecognised diagnostic techniques, while the IKPI institute, which hosted her as a speaker in 2023, says it could not vet speakers&#x27; CVs.</summary>
+  </entry>
+  <entry>
+    <title>Ζελένσκι: Σταματούμε τα πλήγματα στη Ρωσία αν η Μόσχα πάψει να πλήττει τις υποδομές μας</title>
+    <link href="https://www.kathimerini.gr/world/564458923/zelenski-stamatoyme-ta-pligmata-sti-rosia-an-i-moscha-papsei-na-plittei-tis-ypodomes-mas/"/>
+    <id>urn:greek-news-aggregator:60ce0904c5ef</id>
+    <updated>2026-09-15T11:03:16+00:00</updated>
+    <published>2026-09-15T11:03:16+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Finland joins the &#x27;advanced&#x27; nuclear deterrence Macron proposed in March, bringing the French initiative&#x27;s European members to ten; a nuclear pilot group will be set up in the coming months. Alexander Stubb clarified the initiative does not replace NATO and that Finland does not want nuclear weapons stationed on its soil in peacetime, while the final decision on use remains with the French president. / Η Φινλανδία εντάσσεται στην «προηγμένη» πυρηνική αποτροπή που πρότεινε ο Μακρόν τον Μάρτιο, ανεβάζοντας σε δέκα τις ευρωπαϊκές χώρες της γαλλικής πρωτοβουλίας· μια πυρηνική πιλοτική ομάδα θα συσταθεί τους επόμενους μήνες. Ο Αλεξάντερ Στουμπ διευκρίνισε ότι η πρωτοβουλία δεν υποκαθιστά το ΝΑΤΟ και ότι η Φινλανδία δεν θέλει πυρηνικά όπλα στο έδαφός της σε καιρό ειρήνης, ενώ η τελική απόφαση χρήσης παραμένει στον Γάλλο πρόεδρο.</summary>
+    <summary type="text">Zelensky said Ukraine is ready to halt strikes on Russian territory if allies secure a meaningful commitment from Moscow not to hit Ukraine&#x27;s critical infrastructure, calling the US proposal a &#x27;first de-escalatory step&#x27;. The statement followed Trump&#x27;s claim that both sides agreed not to strike energy infrastructure, a day after he asked Kyiv to stop hitting Russian refineries which, he says, are driving up diesel prices ahead of the midterms.</summary>
   </entry>
   <entry>
-    <title>Εκλογές του φόβου</title>
-    <link href="https://www.kathimerini.gr/opinion/564454261/ekloges-toy-fovoy/"/>
-    <id>urn:greek-news-aggregator:7423aaa7e2cd</id>
-    <updated>2026-09-13T20:13:00+00:00</updated>
-    <published>2026-09-13T20:13:00+00:00</published>
+    <title>Διεθνείς αγορές: Σε υψηλό 19ετίας η απόδοση του αμερικανικού 10ετούς ομολόγου – Υποχωρούν τα χρηματιστήρια</title>
+    <link href="https://www.kathimerini.gr/economy/564459280/diethneis-agores-se-ypsilo-19etias-i-apodosi-toy-amerikanikoy-10etoys-omologoy-ypochoroyn-ta-chrimatistiria/"/>
+    <id>urn:greek-news-aggregator:337c41f7e85d</id>
+    <updated>2026-09-15T13:46:58+00:00</updated>
+    <published>2026-09-15T13:46:58+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">The US 10-year Treasury yield reached 5.03%, a 19-year high going back to July 2007, amid inflationary pressures ahead of the Fed&#x27;s two-day meeting, with the German 10-year at 3.55% and the French at 4.53%. Brent rose to 107.57 dollars and WTI to 103.26, while European stock markets fell (Milan -1.35%) on the combination of expensive oil, high yields and a tech sell-off.</summary>
+  </entry>
+  <entry>
+    <title>«Η AI θα μπορούσε να σκοτώσει όλους τους ανθρώπους» – Νέα προειδοποίηση από επιστήμονα</title>
+    <link href="https://www.kathimerini.gr/world/564459055/i-ai-tha-mporoyse-na-skotosei-oloys-toys-anthropoys-nea-proeidopoiisi-apo-epistimona/"/>
+    <id>urn:greek-news-aggregator:37437a360dd9</id>
+    <updated>2026-09-15T12:20:22+00:00</updated>
+    <published>2026-09-15T12:20:22+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Bilal Chughtai, a former AI safety researcher at Google DeepMind, announced his departure saying &#x27;AI has the potential to kill us all and we may be running out of time&#x27;. The warning follows the resignations and statements of Anthropic researchers Jacob Coxon and Evan Hubinger (over 10% chance of human extinction within a decade) and Amodei&#x27;s call to slow down backed by Musk and Altman, while Chughtai calls for regulating development at a pace that allows it to be understood.</summary>
+  </entry>
+  <entry>
+    <title>Χρυσοχοΐδης: «Εχουμε στροφή προς τη βία και την Ακροδεξιά – Δεν έρχονται, είναι εδώ»</title>
+    <link href="https://www.kathimerini.gr/world/564458926/chrysocho-dis-echoyme-strofi-pros-ti-via-kai-tin-akrodexia-den-erchontai-einai-edo/"/>
+    <id>urn:greek-news-aggregator:191539710b26</id>
+    <updated>2026-09-15T10:59:17+00:00</updated>
+    <published>2026-09-15T10:59:17+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Michalis Chrysochoidis, speaking on SKAI on the day of Ilias Kasidiaris&#x27;s release, spoke of a real &#x27;turn towards violence and the far right&#x27; that &#x27;is not coming, it is here&#x27;, citing the Spartans&#x27; 5% in western Athens without a single rally and the rise of the AfD in Germany. He declined to prejudge whether Kasidiaris can run, saying judges will decide under the 2023 Voridis law, and was also asked about the Mazonakis case and Alket Rizai.</summary>
+  </entry>
+  <entry>
+    <title>Ασπίδα στα F-35 με drones</title>
+    <link href="https://www.kathimerini.gr/politics/amyna/564457975/aspida-sta-f-35-me-drones/"/>
+    <id>urn:greek-news-aggregator:cca5b861b29d</id>
+    <updated>2026-09-15T10:50:54+00:00</updated>
+    <published>2026-09-15T10:50:54+00:00</published>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary type="text">The Hellenic Air Force is in talks with two companies for unmanned &#x27;loyal wingman&#x27; aircraft (CCA) to escort its F-35s: Boeing&#x27;s MQ-28 Ghost Bat and Shield AI&#x27;s X-BAT, still in development. The aim is for the 20 F-35s, arriving at Andravida from 2029 (290 million euros in works), to act as flying command centres with five to six CCAs each, while planning extends to 2045 to avoid mistakes like the Rafale contract that lacked support provisions.</summary>
+  </entry>
+  <entry>
+    <title>Πρωταθλητισμός απαισιοδοξίας</title>
+    <link href="https://www.kathimerini.gr/economy/local/564458344/protathlitismos-apaisiodoxias/"/>
+    <id>urn:greek-news-aggregator:36e82a372c5e</id>
+    <updated>2026-09-15T13:40:23+00:00</updated>
+    <published>2026-09-15T13:40:23+00:00</published>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary type="text">Core inflation rose to 3.5% in August from 2.5% in July, showing price rises spreading into services and broader categories, while the Bank of Greece sees energy inflation of 11% for 2026. Greek consumers expect 5.6% inflation over the next 12 months (2.9% in the eurozone) and 5.5% over three years, a &#x27;championship of pessimism&#x27; that, the columnist argues, will not be fixed by cutting the diesel excise duty but by wage increases above prices.</summary>
+  </entry>
+  <entry>
+    <title>Χούθι: Συνεδριάζει εκτάκτως το ΣΑ του ΟΗΕ για το Μπαμπ ελ Μάντεμπ</title>
+    <link href="https://www.kathimerini.gr/world/564459088/choythi-synedriazei-ektaktos-to-sa-toy-oie-gia-to-mpamp-el-mantemp/"/>
+    <id>urn:greek-news-aggregator:42dc7a443fd7</id>
+    <updated>2026-09-15T12:19:21+00:00</updated>
+    <published>2026-09-15T12:19:21+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">The UN Security Council is holding an emergency session, at France&#x27;s request, on the situation in the Bab el-Mandeb strait, where Yemen&#x27;s Houthis have consolidated control after a lightning offensive, inflicting blows on government forces and the Saudi-led coalition. Yemen and Saudi Arabia are expected to address the meeting, as the strait is a critical passage for Europe-Asia shipping.</summary>
+  </entry>
+  <entry>
+    <title>Νίκος Ανδρουλάκης: Δισ.</title>
+    <link href="https://www.kathimerini.gr/opinion/564458311/nikos-androylakis-dis/"/>
+    <id>urn:greek-news-aggregator:37dd7a056d3d</id>
+    <updated>2026-09-15T12:58:15+00:00</updated>
+    <published>2026-09-15T12:58:15+00:00</published>
     <author><name>Μιχάλης Τσιντσίνης</name></author>
     <category term="opinion"/>
-    <summary type="text">Michalis Tsintsinis sees &#x27;elections of fear&#x27;: PASOK is selling its past (1981), Tsipras attempts &#x27;political plasmapheresis&#x27; without explaining the numbers (2015), and Samaras returns with a &#x27;denunciatory delirium&#x27; (1993). Against them ND presents itself as the only road to stability, but its fatigue shows in a third-term promise reduced to a timetable of handouts; the election will be decided by fear of the worst, not by expectation. / Ο Μιχάλης Τσιντσίνης βλέπει «εκλογές του φόβου»: το ΠΑΣΟΚ πουλά το παρελθόν του (1981), ο Τσίπρας επιχειρεί «πολιτική πλασμαφαίρεση» χωρίς να εξηγεί τα νούμερα (2015) και ο Σαμαράς επιστρέφει με «καταγγελτικό ντελίριο» (1993). Απέναντί τους η ΝΔ προβάλλει ως μονόδρομος σταθερότητας, αλλά η κόπωσή της φαίνεται στο ότι η επαγγελία της τρίτης θητείας εξαντλείται σε χρονοδιάγραμμα παροχών· οι εκλογές θα κριθούν από τον φόβο για το χειρότερο, όχι από την προσδοκία.</summary>
+    <summary type="text">Michalis Tsintsinis totals PASOK&#x27;s costing: 1.27 billion for a 13th public-sector salary, 840 million for one instalment of a 13th pension, 540 million for a new EKAS, 2.65 billion in all plus 200 euros per child, a VAT cut and abolition of deemed income – &#x27;it will give but not take&#x27;. The bigger problem is strategy: with cooperation ruled out and a 15-point gap, Androulakis answers &#x27;who, with whom?&#x27; with incantations and tautologies.</summary>
   </entry>
   <entry>
-    <title>Τα διλήμματα για τη μείωση του ΦΠΑ</title>
-    <link href="https://www.kathimerini.gr/economy/564454705/ta-dilimmata-gia-ti-meiosi-toy-fpa/"/>
-    <id>urn:greek-news-aggregator:890c1b79ed04</id>
-    <updated>2026-09-14T08:58:26+00:00</updated>
-    <published>2026-09-14T08:58:26+00:00</published>
-    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <title>Παραμένει ο στόχος της πρώτης θέσης για το ΠΑΣΟΚ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564457957/paramenei-o-stochos-tis-protis-thesis-gia-to-pasok/"/>
+    <id>urn:greek-news-aggregator:8de0dcbf8584</id>
+    <updated>2026-09-15T09:18:32+00:00</updated>
+    <published>2026-09-15T09:18:32+00:00</published>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">At the Thessaloniki Fair Nikos Androulakis restated first place as the precondition for political change, with the slogan &#x27;A country with room for all of us&#x27; and seven bills for the first six months in government. PASOK invokes its historic reforms (ESY, ASEP, Diavgeia) to prove it can govern, denounces a &#x27;new oligarchic caste&#x27; and insists on an autonomous course.</summary>
+  </entry>
+  <entry>
+    <title>«Καμπανάκι» για το χρέος των ΗΠΑ</title>
+    <link href="https://www.kathimerini.gr/economy/international/564458488/kampanaki-gia-to-chreos-ton-ipa/"/>
+    <id>urn:greek-news-aggregator:a456b5071345</id>
+    <updated>2026-09-15T12:40:12+00:00</updated>
+    <published>2026-09-15T12:40:12+00:00</published>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Kathimerini examines the dilemmas around cutting VAT on basic goods, demanded by the market and the opposition while the government rejects it as ineffective and skewed toward high earners. KEPE&#x27;s Giorgos Ioannidis notes studies across 21 EU states show 70–100% pass-through to prices, while economists are divided and VAT remains a core pillar of state revenue. / Η «Κ» εξετάζει τα διλήμματα γύρω από τη μείωση του ΦΠΑ στα βασικά αγαθά, που ζητούν αγορά και αντιπολίτευση ενώ η κυβέρνηση την απορρίπτει ως αναποτελεσματική και ευνοϊκή για τα υψηλά εισοδήματα. Ο Γιώργος Ιωαννίδης του ΚΕΠΕ επισημαίνει ότι μελέτες σε 21 κράτη της ΕΕ δείχνουν μετακύλιση 70-100% στις τιμές, ενώ η επιστημονική κοινότητα διχάζεται, με τον ΦΠΑ να παραμένει βασικός πυλώνας των κρατικών εσόδων.</summary>
+    <summary type="text">US public debt has passed 40 trillion dollars, the 30-year bond yield has touched 5.25% (highest since 2004) and the deficit, at 5.8% of GDP, is projected by the CBO to average 6.1% over the next decade. The analysis warns the US is reaching a point of borrowing to pay interest, with debt projected at 150% of GDP between 2040 and 2048.</summary>
   </entry>
   <entry>
-    <title>Θάνατος Μαζωνάκη: Πιθανή η αναβάθμιση του κατηγορητηρίου για τους γιατρούς</title>
-    <link href="https://www.kathimerini.gr/society/564456721/thanatos-mazonaki-pithani-i-anavathmisi-toy-katigoritirioy-gia-toys-giatroys/"/>
-    <id>urn:greek-news-aggregator:0c27aa8a24e4</id>
-    <updated>2026-09-14T12:16:00+00:00</updated>
-    <published>2026-09-14T12:16:00+00:00</published>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <category term="society"/>
-    <summary type="text">The possibility remains open of upgrading the charges against the two doctors over Giorgos Mazonakis&#x27;s death from fatal exposure to homicide with possible intent. The investigating magistrate awaits new digital evidence from the police and, if a supplementary prosecution follows, the defendants may request a new deadline for their pleas. / Ανοικτό παραμένει το ενδεχόμενο αναβάθμισης του κατηγορητηρίου κατά των δύο γιατρών για τον θάνατο του Γιώργου Μαζωνάκη από θανατηφόρα έκθεση σε ανθρωποκτονία με ενδεχόμενο δόλο. Ο ανακριτής αναμένει νέα ψηφιακά πειστήρια από την ΕΛ.ΑΣ. και, αν υπάρξει συμπληρωματική δίωξη, οι κατηγορούμενοι ενδέχεται να ζητήσουν νέα προθεσμία για τις απολογίες τους.</summary>
-  </entry>
-  <entry>
-    <title>Δίκη για τα Τέμπη: Σήμερα η πρόταση της εισαγγελέως επί αιτήματος για τον έλεγχο του κινητού του σταθμάρχη</title>
-    <link href="https://www.kathimerini.gr/society/dikastiko/564456409/diki-gia-ta-tempi-simera-i-protasi-tis-eisaggeleos-epi-aitimatos-gia-ton-elegcho-toy-kinitoy-toy-stathmarchi/"/>
-    <id>urn:greek-news-aggregator:7cf87ac4fa54</id>
-    <updated>2026-09-14T08:13:30+00:00</updated>
-    <published>2026-09-14T08:13:30+00:00</published>
+    <title>Αποφυλακίστηκε ο Ηλίας Κασιδιάρης – Προανήγγειλε κόμμα</title>
+    <link href="https://www.kathimerini.gr/society/564459106/apofylakistike-o-ilias-kasidiaris-proaniggeile-komma/"/>
+    <id>urn:greek-news-aggregator:5931e98d0810</id>
+    <updated>2026-09-15T12:19:40+00:00</updated>
+    <published>2026-09-15T12:19:40+00:00</published>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary type="text">The Tempi trial continues in Larissa with the prosecutor&#x27;s recommendation on a request to examine the station master&#x27;s seized phone (calls, messages, Viber, SIM card). The request followed testimony by the daughter of driver Georgios Koutsoumbas, who pointed to tampering with the station recorder audio and an &#x27;eleven-minute gap&#x27; in communications after departure from Larissa. / Η δίκη για τα Τέμπη συνεχίζεται στη Λάρισα με την πρόταση της εισαγγελέως επί του αιτήματος για έλεγχο του κατασχεθέντος κινητού του σταθμάρχη (κλήσεις, μηνύματα, viber, κάρτα SIM). Το αίτημα προέκυψε μετά την κατάθεση της κόρης του μηχανοδηγού Γεώργιου Κουτσούμπα, που επεσήμανε παρέμβαση στα ηχητικά του καταγραφικού και το «εντεκάλεπτο κενό» στις συνομιλίες μετά την αναχώρηση από τη Λάρισα.</summary>
+    <summary type="text">Ilias Kasidiaris was released from Domokos prison after serving his Golden Dawn sentence and, before supporters, declared he is returning &#x27;to the front line of national struggles&#x27; with &#x27;a new, strong national party, like those dominating across Europe&#x27;. He called the current government &#x27;the most corrupt since 1974&#x27; and said the judge is &#x27;the sovereign Greek people&#x27;, not the politicians demanding he not return to parliament.</summary>
   </entry>
   <entry>
-    <title>Ενα καίριο δίλημμα για τους Ευρωπαίους</title>
-    <link href="https://www.kathimerini.gr/opinion/564454537/ena-kairio-dilimma-gia-toys-eyropaioys/"/>
-    <id>urn:greek-news-aggregator:78ff193976b9</id>
-    <updated>2026-09-13T20:13:00+00:00</updated>
-    <published>2026-09-13T20:13:00+00:00</published>
-    <author><name>Αλέξης Παπαχελάς</name></author>
+    <title>Ούρσουλα φον ντερ Λάιεν: Τα επτά «κλειδιά» της ετήσιας ομιλίας της</title>
+    <link href="https://www.kathimerini.gr/world/564459049/oyrsoyla-fon-nter-laien-ta-epta-kleidia-tis-etisias-omilias-tis/"/>
+    <id>urn:greek-news-aggregator:116d6417cb19</id>
+    <updated>2026-09-15T11:55:38+00:00</updated>
+    <published>2026-09-15T11:55:38+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Ursula von der Leyen delivers her sixth State of the Union address tomorrow, with climate taking centre stage after a nightmarish summer and a resilience plan with a common climate scenario due in October. According to Politico, she will address AI&#x27;s impact on jobs, a &#x27;radical clean-up&#x27; of regulation, strengthening Frontex after the Ceuta crisis and possible funding of border fences, while no new probe against China is expected.</summary>
+  </entry>
+  <entry>
+    <title>Ζυγοστάθμιση μετά τη ΔΕΘ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564454273/zygostathmisi-meta-ti-deth/"/>
+    <id>urn:greek-news-aggregator:ad62e4a7c99f</id>
+    <updated>2026-09-14T21:15:30+00:00</updated>
+    <published>2026-09-14T21:15:30+00:00</published>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">After the Thessaloniki Fair the government is seeking balance: the bitter feud with Antonis Samaras divides Maximos Mansion, with one camp arguing the attacks &#x27;feed&#x27; him, while towards Tsipras the prime minister appears &#x27;relaxed&#x27; and sees a &#x27;ceiling&#x27;. Pressure will focus mainly on PASOK as a &#x27;small SYRIZA&#x27;, ND distances itself from the Floridis–Georgiadis remarks about &#x27;national danger&#x27;, and extends a hand to Karamanlis to keep him neutral.</summary>
+  </entry>
+  <entry>
+    <title>ΠΑΣΟΚ: Διμέτωπος μέχρι το τέλος</title>
+    <link href="https://www.kathimerini.gr/politics/564454303/pasok-dimetopos-mechri-to-telos/"/>
+    <id>urn:greek-news-aggregator:a11f28268db5</id>
+    <updated>2026-09-14T20:43:03+00:00</updated>
+    <published>2026-09-14T20:43:03+00:00</published>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">PASOK is fighting on two fronts against Mitsotakis and Tsipras, seeking to make Androulakis the main pole against the prime minister, with the wiretapping affair, OPEKEPE, private debt and housing as spearheads. Party headquarters admits Mitsotakis spoke convincingly to PASOK&#x27;s former centrist voters and sees the &#x27;green SYRIZA&#x27; label as an attempt to discredit the party.</summary>
+  </entry>
+  <entry>
+    <title>Σαουδική Αραβία: Προειδοποιήσεις για την απειλή επιθέσεων στη Μέκκα</title>
+    <link href="https://www.kathimerini.gr/world/564459298/saoydiki-aravia-proeidopoiiseis-gia-apeiles-epithesis-sti-mekka/"/>
+    <id>urn:greek-news-aggregator:63f56d91c64a</id>
+    <updated>2026-09-15T13:55:54+00:00</updated>
+    <published>2026-09-15T13:55:54+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Saudi Arabia issued brief warnings of possible attacks on Mecca, Jeddah and Taif – the first for Mecca since the Middle East war began – which were promptly withdrawn. They followed a series of ballistic missile and drone attacks by the Iran-backed Houthis that injured 13 people in the south of the kingdom.</summary>
+  </entry>
+  <entry>
+    <title>Η μαγεία κοστίζει όσο η ζωή</title>
+    <link href="https://www.kathimerini.gr/opinion/564458308/i-mageia-kostizei-oso-i-zoi/"/>
+    <id>urn:greek-news-aggregator:2040a64279ea</id>
+    <updated>2026-09-15T12:59:15+00:00</updated>
+    <published>2026-09-15T12:59:15+00:00</published>
+    <author><name>Τάκης Θεοδωρόπουλος</name></author>
     <category term="opinion"/>
-    <summary type="text">Alexis Papachelas poses the Europeans&#x27; dilemma: a strong Europe with an equal geopolitical seat requires Germany to play the central role, with a strong army and arms industry. Germany, the &#x27;ambivalent hegemon&#x27; that built its post-war system to avoid relapse, will feel the need to rearm as the certainty of American protection collapses. The question is what it would mean if, after rearming, it acquired a far-right strongman – a scenario not unrealistic after Saxony-Anhalt. / Ο Αλέξης Παπαχελάς θέτει το δίλημμα των Ευρωπαίων: μια ισχυρή Ευρώπη με ισότιμη γεωπολιτική θέση προϋποθέτει κεντρικό ρόλο της Γερμανίας, με ισχυρό στρατό και πολεμική βιομηχανία. Η Γερμανία, ο «αμφίθυμος ηγεμόνας» που έχτισε το μεταπολεμικό της σύστημα για να μην ξανακυλήσει, θα νιώσει την ανάγκη να επανεξοπλιστεί καθώς καταρρέει η βεβαιότητα της αμερικανικής προστασίας. Το ερώτημα είναι τι θα σήμαινε αν μετά τον επανεξοπλισμό αποκτούσε ακροδεξιό ισχυρό ηγέτη – σενάριο όχι εξωπραγματικό μετά τη Σαξονία-Άνχαλτ.</summary>
-  </entry>
-  <entry>
-    <title>Θεοδωρόπουλος: «Η συμφωνία κυρίων ισχύει μέχρι τα τέλη Οκτωβρίου»</title>
-    <link href="https://www.kathimerini.gr/economy/564456463/theodoropoylos-i-symfonia-kyrion-ischyei-mechri-ta-teli-oktovrioy/"/>
-    <id>urn:greek-news-aggregator:40208add6196</id>
-    <updated>2026-09-14T09:06:52+00:00</updated>
-    <published>2026-09-14T09:06:52+00:00</published>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <category term="economy"/>
-    <summary type="text">SEV president Spyros Theodoropoulos tells Kathimerini that the &#x27;gentlemen&#x27;s agreement&#x27; on price cuts covers only September and October and industry has made no commitment beyond that, even though the Consumer Authority and minister Theodorikakos spoke of a run until end-December. The new Gulf flare-up and energy-transport costs are narrowing margins, with the minister admitting the government &#x27;cannot impose it on the market&#x27;. / Ο πρόεδρος του ΣΕΒ Σπύρος Θεοδωρόπουλος δηλώνει στην «Κ» ότι η «συμφωνία κυρίων» για μειώσεις τιμών αφορά μόνο Σεπτέμβριο και Οκτώβριο και ότι η βιομηχανία δεν έχει δεσμευτεί για μετά, παρότι η Αρχή Καταναλωτή και ο Θεοδωρικάκος μιλούσαν για διάρκεια έως τέλος Δεκεμβρίου. Η νέα ανάφλεξη στον Περσικό Κόλπο και το ενεργειακό-μεταφορικό κόστος στενεύουν τα περιθώρια, με τον υπουργό να παραδέχεται ότι η κυβέρνηση «δεν μπορεί να το επιβάλει στην αγορά».</summary>
+    <summary type="text">Takis Theodoropoulos observes that the Kolonaki clinic with its plasmapheresis machine was no secret: it advertised online and at medical conferences as &#x27;quantum medicine&#x27;, with no colleague asking what that means or why plasmapheresis was done outside a hospital. Beyond patients&#x27; desperation, there is a primitive faith in magic that gains prestige because it is expensive – and sometimes proves as expensive as life itself.</summary>
   </entry>
 </feed>
