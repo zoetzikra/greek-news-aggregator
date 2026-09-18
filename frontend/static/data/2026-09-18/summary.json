@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T13:03:20.179917+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 82 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ειδησεογραφία της ημέρας κυριαρχείται από τη νέα κλιμάκωση στα ελληνοτουρκικά: η Άγκυρα επιμένει στη ρητορική περί «απειλής» από τη στρατιωτικοποίηση των νησιών και την επίσκεψη Μητσοτάκη στο Καστελλόριζο, ενώ η Αθήνα προχωρά σε πυκνό πρόγραμμα εξοπλισμών — από τη φρεγάτα «Νέαρχος» και την «Ασπίδα του Αχιλλέα» έως τη διεθνή άσκηση «Medusa» στην Κρήτη. Το θέμα διατρέχει τόσο την πολιτική επικαιρότητα όσο και τη σελίδα των απόψεων.\n\nΠαράλληλα, η ακρίβεια και η συρρίκνωση των εισοδημάτων επανέρχονται στο επίκεντρο: στοιχεία της Eurostat δείχνουν το διαθέσιμο εισόδημα των Ελλήνων χαμηλότερο από το 2010 και την ιδιοκατοίκηση να υποχωρεί, ενώ το ενεργειακό ράλι επαναφέρει στην Ε.Ε. τη συζήτηση για φόρο στα υπερκέρδη και ο πρωθυπουργός εξαγγέλλει παρεμβάσεις στο πετρέλαιο θέρμανσης. Στο βάθος, οι διεθνείς αγορές ανησυχούν για τις τιμές τροφίμων και για «ρωγμές» στην οικονομική κυριαρχία των ΗΠΑ.\n\nΣε πλήρη εξέλιξη είναι και ο προεκλογικός βηματισμός, με νέες δημοσκοπήσεις, την αναζήτηση δύο εκατομμυρίων «χαμένων» ψηφοφόρων και μια «περιστρεφόμενη πόρτα» στελεχών ανάμεσα σε ΠΑΣΟΚ, ΕΛΑΣ και ΣΥΡΙΖΑ. Η υπόθεση του θανάτου του Γιώργου Μαζωνάκη συνεχίζει να δονεί τη δημόσια σφαίρα, με πολιτικές προεκτάσεις για τον υπουργό Πλεύρη και την ανακοίνωση της πλατφόρμας «Medwatch» για τον έλεγχο των ιδιωτικών ιατρείων.\n\nΣτο διεθνές μέτωπο ξεχωρίζουν το σχέδιο του Πενταγώνου για δραστική μείωση της αμερικανικής παρουσίας στην Ευρώπη, η προοπτική στενότερης σχέσης Ε.Ε.–Καναδά και η στροφή της τεχνητής νοημοσύνης προς τον πραγματικό κόσμο — από το νέο βιολογικό εργαστήριο της Anthropic έως τα κινεζικά ανθρωποειδή ρομπότ. Στον πολιτισμό, η «Οδύσσεια» του Νόλαν σπάει ρεκόρ εισιτηρίων, ενώ η Eurovision και ο πόλεμος στη Γάζα συνεχίζουν να διχάζουν.",
+    "en": "The day's news is dominated by renewed Greek-Turkish tension: Ankara is doubling down on rhetoric about a 'threat' from island militarization and Mitsotakis's visit to Kastellorizo, while Athens presses ahead with a dense armaments program — from the frigate Nearchos and the 'Achilles Shield' to the international 'Medusa' exercise off Crete. The theme runs through both the political news and the opinion pages.\n\nAt the same time, the cost of living and shrinking incomes are back at the center: Eurostat data show Greeks' disposable income below 2010 levels and home ownership falling, while the energy rally revives the EU debate over a windfall-profits tax and the PM announces heating-oil relief. In the background, international markets are worried about food prices and 'cracks' in US economic dominance.\n\nPre-election maneuvering is in full swing, with new polls, the hunt for two million 'missing' voters and a 'revolving door' of officials among PASOK, ELAS and SYRIZA. The death of singer Giorgos Mazonakis continues to shake the public sphere, with political fallout for Minister Plevris and the unveiling of the AI-powered 'Medwatch' platform to police private clinics.\n\nInternationally, the standouts are the Pentagon's plan for a drastic cut to the US presence in Europe, the prospect of a closer EU-Canada relationship, and AI's turn toward the real world — from Anthropic's new biology lab to Chinese humanoid robots. In culture, Nolan's 'Odyssey' is breaking ticket records, while Eurovision and the Gaza war keep dividing opinion."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Ελληνοτουρκική ένταση και εξοπλισμοί",
+        "en": "Greek-Turkish tension and rearmament"
+      },
+      "description": {
+        "el": "Η Άγκυρα κλιμακώνει τη ρητορική περί «απειλής» από τα νησιά, ενώ η Αθήνα προχωρά σε πυκνό πρόγραμμα εξοπλισμών και ασκήσεων.",
+        "en": "Ankara escalates its rhetoric of a 'threat' from the islands while Athens presses on with a dense program of armaments and exercises."
+      },
+      "related_items": [
+        "10e7dd235eee",
+        "5d3f521b97fa",
+        "5fab420ac696",
+        "c1b9807e89b1",
+        "7a337bf2f07a",
+        "7193f7549244"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Ακρίβεια, εισοδήματα και ενέργεια",
+        "en": "Cost of living, incomes and energy"
+      },
+      "description": {
+        "el": "Το διαθέσιμο εισόδημα των Ελλήνων παραμένει κάτω από το 2010 και η στέγη ακριβαίνει, ενώ το ενεργειακό ράλι φέρνει ξανά τον φόρο υπερκερδών.",
+        "en": "Greeks' disposable income stays below 2010 and housing grows costlier, while the energy rally revives talk of a windfall tax."
+      },
+      "related_items": [
+        "6486458f0a90",
+        "9890e62c65c0",
+        "457c0ff2e0a2",
+        "8fcaf5d28800",
+        "f1c3ceffd085"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Προεκλογική σκακιέρα",
+        "en": "The pre-election chessboard"
+      },
+      "description": {
+        "el": "Δημοσκοπήσεις, «χαμένοι» ψηφοφόροι και μετακινήσεις στελεχών διαμορφώνουν το σκηνικό ενόψει των εκλογών της άνοιξης.",
+        "en": "Polls, 'missing' voters and defections are shaping the scene ahead of the spring elections."
+      },
+      "related_items": [
+        "411854cfdd86",
+        "5cbc0e3373a1",
+        "a1034bea9030",
+        "903c6cc10086",
+        "5d3f521b97fa"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Διατλαντική αναδιάταξη",
+        "en": "Transatlantic realignment"
+      },
+      "description": {
+        "el": "Το Πεντάγωνο εξετάζει μεγάλη αποχώρηση δυνάμεων από την Ευρώπη, την ώρα που η Ε.Ε. σφυρηλατεί στενότερη σχέση με τον Καναδά.",
+        "en": "The Pentagon weighs a large withdrawal of forces from Europe as the EU forges a closer relationship with Canada."
+      },
+      "related_items": [
+        "3693946288d2",
+        "cbda5b013a27",
+        "c5b13ad1a3b5",
+        "59ad4624d171",
+        "d7075ee18c62"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Η υπόθεση Μαζωνάκη και τα ιατρεία",
+        "en": "The Mazonakis case and the clinics"
+      },
+      "description": {
+        "el": "Ο θάνατος του τραγουδιστή γεννά πολιτικές προεκτάσεις και οδηγεί σε νέους μηχανισμούς ελέγχου των ιδιωτικών ιατρείων.",
+        "en": "The singer's death spawns political fallout and drives new mechanisms to oversee private clinics."
+      },
+      "related_items": [
+        "2a1127ee8399",
+        "162fd8c46331",
+        "1f3f90531c51",
+        "c2fb978b027d"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Η τεχνητή νοημοσύνη στον πραγματικό κόσμο",
+        "en": "AI's turn to the real world"
+      },
+      "description": {
+        "el": "Από το βιολογικό εργαστήριο της Anthropic έως τα κινεζικά ανθρωποειδή ρομπότ και τους ελέγχους με AI στην υγεία.",
+        "en": "From Anthropic's biology lab to Chinese humanoid robots and AI-driven oversight in health."
+      },
+      "related_items": [
+        "b65ed17c1851",
+        "d1c93f5f586f",
+        "162fd8c46331",
+        "3333fe5215c8"
+      ],
+      "importance": 66
+    }
+  ],
+  "article_count": 82,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "10e7dd235eee",
+        "411854cfdd86",
+        "5d3f521b97fa",
+        "2a1127ee8399",
+        "8fcaf5d28800"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "6486458f0a90",
+        "9890e62c65c0",
+        "457c0ff2e0a2",
+        "b8d877a3480e",
+        "c5b13ad1a3b5"
+      ]
+    },
+    "society": {
+      "item_count": 13,
+      "top_items": [
+        "611bee5954b2",
+        "964c22d665d0",
+        "162fd8c46331",
+        "e39e5e0207a9",
+        "211c7da91ee0"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "3693946288d2",
+        "20d15de773e4",
+        "b65ed17c1851",
+        "c08e874f0749",
+        "be37dc4ea29d"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "7a337bf2f07a",
+        "7193f7549244",
+        "1f3f90531c51",
+        "df6a6da557e7",
+        "d7075ee18c62"
+      ]
+    },
+    "culture": {
+      "item_count": 13,
+      "top_items": [
+        "4a13ee4527e7",
+        "87f21cac1150",
+        "7a6cea9969de",
+        "ccb96c85c66c",
+        "7ba0cef1ca0a"
+      ]
+    },
+    "ai": {
+      "item_count": 8,
+      "top_items": [
+        {
+          "id": "a1034bea9030",
+          "title": "Εντός και Εκτός: H περιστρεφόμενη πόρτα μεταξύ ΠΑΣΟΚ – ΕΛΑΣ – ΣΥΡΙΖΑ",
+          "url": "https://www.kathimerini.gr/politics/564464908/entos-kai-ektos-h-peristrefomeni-porta-metaxy-pasok-elas-syriza/",
+          "source": "Kathimerini",
+          "published": "2026-09-18T07:45:42+00:00",
+          "category": "politics",
+          "importance": 66,
+          "summary": {
+            "el": "Ανοιχτή «περιστρεφόμενη πόρτα» στελεχών λειτουργεί στον χώρο της Κεντροαριστεράς, με τη δήλωση Γεροβασίλη να εκλαμβάνεται ως προάγγελος προσχώρησης στην ΕΛΑΣ του Τσίπρα και την παραίτηση της Ρόζας Βρεττού από το ΠΑΣΟΚ. Οι κινήσεις οξύνουν το ντέρμπι για τη δεύτερη θέση ανάμεσα σε ΠΑΣΟΚ και ΕΛΑΣ.",
+            "en": "A revolving door of officials is spinning on the center-left, with Olga Gerovasili's statement read as a prelude to joining Tsipras's ELAS and Roza Vrettou quitting PASOK. The moves sharpen the derby for second place between PASOK and ELAS."
+          },
+          "tags": {
+            "el": [
+              "ΠΑΣΟΚ",
+              "ΕΛΑΣ",
+              "ΣΥΡΙΖΑ",
+              "μετακινήσεις στελεχών"
+            ],
+            "en": [
+              "PASOK",
+              "ELAS",
+              "SYRIZA",
+              "defections"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "c5b13ad1a3b5",
+          "title": "Ρωγμές στην οικονομική κυριαρχία των ΗΠΑ",
+          "url": "https://www.kathimerini.gr/economy/international/564465352/rogmes-stin-oikonomiki-kyriarchia-ton-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-09-18T10:15:02+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Επενδυτές πωλούν αμερικανικά ομόλογα και ξένες κυβερνήσεις αποσύρουν τον χρυσό τους από τη Fed, καθώς η παγκόσμια οικονομία παίρνει αποστάσεις από την Αμερική. Οι ανησυχίες για το χρέος των 40 τρισ. δολαρίων, η υπερβολική χρήση κυρώσεων και η στάση Τραμπ απέναντι στο κράτος δικαίου αμφισβητούν τη θέση των ΗΠΑ ως επενδυτικού προορισμού.",
+            "en": "Investors are selling US bonds and foreign governments are pulling gold from the Fed as the global economy distances itself from America. Worries over the $40-trillion debt, overuse of sanctions and Trump's approach to the rule of law are questioning the US as an investment destination."
+          },
+          "tags": {
+            "el": [
+              "ΗΠΑ",
+              "δολάριο",
+              "ομόλογα",
+              "χρυσός"
+            ],
+            "en": [
+              "USA",
+              "dollar",
+              "bonds",
+              "gold"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "b65ed17c1851",
+          "title": "Η Anthropic δημιούργησε βιολογικό εργαστήριο για την τεχνητή νοημοσύνη",
+          "url": "https://www.kathimerini.gr/world/564466513/i-anthropic-epekteinei-tin-ai-sti-viologia-me-neo-ergastirio-sto-san-fransisko/",
+          "source": "Kathimerini",
+          "published": "2026-09-18T15:29:32+00:00",
+          "category": "world",
+          "importance": 66,
+          "summary": {
+            "el": "Η εταιρεία τεχνητής νοημοσύνης Anthropic, δημιουργός του Claude, δημιούργησε «υγρό» εργαστήριο βιολογίας στην περιοχή του Σαν Φρανσίσκο, περνώντας από τα υπολογιστικά μοντέλα σε πραγματικά πειράματα. Στόχος είναι η αξιοποίηση της AI στις βιοεπιστήμες και, μακροπρόθεσμα, η αναζήτηση θεραπειών για σπάνιες ασθένειες.",
+            "en": "AI company Anthropic, maker of Claude, has set up a 'wet' biology lab in the San Francisco Bay Area, moving from computational models to real experiments. The aim is to harness AI in the life sciences and, in the long run, to search for treatments for rare diseases."
+          },
+          "tags": {
+            "el": [
+              "Anthropic",
+              "τεχνητή νοημοσύνη",
+              "βιολογία",
+              "Σαν Φρανσίσκο"
+            ],
+            "en": [
+              "Anthropic",
+              "artificial intelligence",
+              "biology",
+              "San Francisco"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "3333fe5215c8",
+          "title": "H αναχαίτιση της απειλής της τεχνητής νοημοσύνης",
+          "url": "https://www.kathimerini.gr/economy/international/564465409/h-anachaitisi-tis-apeilis-tis-technitis-noimosynis/",
+          "source": "Kathimerini",
+          "published": "2026-09-18T12:15:20+00:00",
+          "category": "economy",
+          "importance": 64,
+          "summary": {
+            "el": "Το άρθρο περιγράφει ένα «φεστιβάλ πολιτικής ασυνέπειας» γύρω από την τεχνητή νοημοσύνη, καθώς οι ψηφιακοί πράκτορες αψηφούν τους δημιουργούς τους και κακόβουλοι χρήστες αξιοποιούν συστήματα AI για επικίνδυνους σκοπούς. Υποστηρίζει ότι ο έλεγχος των μοντέλων από ΗΠΑ και Κίνα δεν αρκεί, καθώς οι πραγματικές προκλήσεις έρχονται από ανεξέλεγκτα μοντέλα.",
+            "en": "The piece describes a 'festival of policy inconsistency' around artificial intelligence, as AI agents defy their creators and malicious users exploit systems for dangerous ends. It argues that US and Chinese control of models is not enough, since the real threats come from uncontrolled models."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "ρύθμιση",
+              "Τραμπ",
+              "Κίνα"
+            ],
+            "en": [
+              "artificial intelligence",
+              "regulation",
+              "Trump",
+              "China"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "cbda5b013a27",
+          "title": "Σύνοδος Κορυφής Ε.Ε. – Καναδά θα πραγματοποιηθεί στο τέλος Οκτωβρίου",
+          "url": "https://www.kathimerini.gr/world/564466309/synodos-koryfis-e-e-kanada-tha-pragmatopoiithei-sto-telos-oktovrioy/",
+          "source": "Kathimerini",
+          "published": "2026-09-18T13:33:19+00:00",
+          "category": "world",
+          "importance": 64,
+          "summary": {
+            "el": "Σύνοδος Κορυφής Ε.Ε.–Καναδά θα πραγματοποιηθεί στα τέλη Οκτωβρίου, στον απόηχο της πρότασης της φον ντερ Λάιεν να γίνει ο Καναδάς το πρώτο «συνδεδεμένο μέλος» της Ε.Ε. Ο πρωθυπουργός Μαρκ Κάρνεϊ χαιρέτισε τη «Συμμαχία για το Μέλλον», αν και το τι σημαίνει το καθεστώς παραμένει ανοιχτό.",
+            "en": "An EU-Canada summit will be held in late October, following von der Leyen's proposal for Canada to become the EU's first 'associate member.' PM Mark Carney welcomed the 'Alliance for the Future,' though what the status would mean remains open."
+          },
+          "tags": {
+            "el": [
+              "Ε.Ε.",
+              "Καναδάς",
+              "σύνοδος κορυφής",
+              "φον ντερ Λάιεν"
+            ],
+            "en": [
+              "EU",
+              "Canada",
+              "summit",
+              "von der Leyen"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

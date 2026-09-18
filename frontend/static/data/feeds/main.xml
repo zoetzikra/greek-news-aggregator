@@ -4,207 +4,207 @@
   <subtitle>Top stories scraped from kathimerini.gr</subtitle>
   <link href="https://github.com/zoetzikra/greek-news-aggregator" rel="alternate"/>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>urn:greek-news-aggregator:2026-09-17</id>
-  <updated>2026-09-17T11:24:17.464047+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-09-18</id>
+  <updated>2026-09-18T13:04:22.918574+00:00</updated>
   <author><name>Greek News Aggregator</name></author>
   <entry>
-    <title>Ελληνοτουρκικά: Νησιά χωρίς ασπίδα θέλει η Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/564462616/ellinotoyrkika-nisia-choris-aspida-thelei-i-agkyra/"/>
-    <id>urn:greek-news-aggregator:79ec126b41c9</id>
-    <updated>2026-09-17T07:14:08+00:00</updated>
-    <published>2026-09-17T07:14:08+00:00</published>
+    <title>Το Πεντάγωνο εξετάζει απόσυρση έως και 40.000 Αμερικανών στρατιωτών από την Ευρώπη</title>
+    <link href="https://www.kathimerini.gr/world/564466102/to-pentagono-exetazei-aposyrsi-eos-kai-40-000-amerikanon-stratioton-apo-tin-eyropi/"/>
+    <id>urn:greek-news-aggregator:3693946288d2</id>
+    <updated>2026-09-18T13:21:09+00:00</updated>
+    <published>2026-09-18T13:21:09+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">The Pentagon is weighing a drastic cut to the US military presence in Europe that could reach as high as 40,000 troops — up to 50% of the current force. If carried out, it would be the biggest drawdown since the 1990s and the end of the Cold War.</summary>
+  </entry>
+  <entry>
+    <title>Τουρκία για Μητσοτάκη: Η επίσκεψη στο Καστελλόριζο «δεν συμβάλλει στην ειρήνη»</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564464923/toyrkia-gia-mitsotaki-i-episkepsi-sto-kastellorizo-den-symvallei-stin-eirini/"/>
+    <id>urn:greek-news-aggregator:10e7dd235eee</id>
+    <updated>2026-09-18T06:44:46+00:00</updated>
+    <published>2026-09-18T06:44:46+00:00</published>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Vassilis Nedos reads Fidan&#x27;s claim that militarising the islands is a &#x27;threat to Turkey&#x27; as an escalation strategy aimed at the restart of the Great Sea Interconnector under French flag and, above all, at the arms deals with Israel (&#x27;Achilles&#x27; Shield&#x27;, PULS launchers from 2027). Foreign ministry spokesman Giannakoulias called labelling defensive fortification a &#x27;threat&#x27; &#x27;baseless and oxymoronic&#x27; while Turkey maintains a casus belli.</summary>
+    <summary type="text">Ankara is doubling down on rhetoric about a &#x27;threat&#x27; from the eastern Aegean islands and the Greece-Israel partnership, focusing on Mitsotakis&#x27;s Kastellorizo visit, which it says &#x27;does not serve peace.&#x27; Turkey&#x27;s defense ministry confirmed commando movements to Söke, opposite Samos.</summary>
   </entry>
   <entry>
-    <title>Οι άνθρωποι πίσω από τον νέο πολιτικό φορέα του Κασιδιάρη</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564462610/oi-anthropoi-piso-apo-ton-neo-politiko-forea-toy-kasidiari/"/>
-    <id>urn:greek-news-aggregator:066c6cae1766</id>
-    <updated>2026-09-17T10:08:00+00:00</updated>
-    <published>2026-09-17T10:08:00+00:00</published>
-    <author><name>Γιάννης Σουλιώτης</name></author>
-    <category term="politics"/>
-    <summary type="text">Leaving Domokos prison, Ilias Kasidiaris pledged to announce next Monday, via a YouTube address, the name, programme and sitting MPs of his new party, and the reasons it &#x27;cannot be excluded from the elections&#x27;. Kathimerini reveals preparations began in summer 2025, with independent MP Giannis Dimitrokallis (ex-Spartans, a close associate of Kasidiaris) filing with the Supreme Court, helped by two more sitting MPs including Giorgos Manousos.</summary>
-  </entry>
-  <entry>
-    <title>Βουλή: «Πρόβα εκλογών» με φόντο το Σύνταγμα</title>
-    <link href="https://www.kathimerini.gr/politics/parliament/564462577/voyli-prova-eklogon-me-fonto-to-syntagma/"/>
-    <id>urn:greek-news-aggregator:c685c8f009af</id>
-    <updated>2026-09-17T06:59:00+00:00</updated>
-    <published>2026-09-17T06:59:00+00:00</published>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">The parliamentary debate on constitutional revision turned into an &#x27;election rehearsal&#x27;, a head-on Mitsotakis–Androulakis clash in a highly polarised tone. None of the 33 articles reached 180 votes (158–161), so the next parliament will need a supermajority, while PASOK voted &#x27;present&#x27;. The PM leaned on stability and a third term, Androulakis pushed &#x27;A Greece for all&#x27;, and Mitsotakis pointedly left Tsipras &#x27;out of the frame&#x27;.</summary>
-  </entry>
-  <entry>
-    <title>Νέα κλιμάκωση από Τουρκία για τα νησιά – Επιμένει στα περί αποστρατιωτικοποίησης</title>
-    <link href="https://www.kathimerini.gr/world/564463837/nea-klimakosi-apo-toyrkia-gia-ta-nisia-epimenei-sta-peri-apostratiotikopoiisis/"/>
-    <id>urn:greek-news-aggregator:8ae7b529fa93</id>
-    <updated>2026-09-17T12:59:50+00:00</updated>
-    <published>2026-09-17T12:59:50+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">A day after Fidan, Turkish defence ministry spokesman Zeki Aktürk said actions creating faits accomplis in breach of Kastellorizo&#x27;s demilitarised status &#x27;will not be tolerated&#x27;. He described Mitsotakis&#x27;s visit to the island and the display of military elements and a warship as incompatible with the 1947 Paris Treaty and as not contributing &#x27;to peace and stability&#x27;, pressing the demilitarisation narrative.</summary>
-  </entry>
-  <entry>
-    <title>Το κυνήγι της μαγικής θεραπείας</title>
-    <link href="https://www.kathimerini.gr/opinion/564460081/to-kynigi-tis-magikis-therapeias/"/>
-    <id>urn:greek-news-aggregator:c4b2f4377d1d</id>
-    <updated>2026-09-16T12:59:00+00:00</updated>
-    <published>2026-09-16T12:59:00+00:00</published>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary type="text">Alexis Papachelas sees in Mazonakis&#x27;s death the absence of state and professional oversight, where &#x27;anyone can advertise anything&#x27;, but is more shocked by the profile of those who sought out the &#x27;wizard doctors&#x27;: serious, powerful, &#x27;savvy&#x27; cosmopolitans who believed someone could cleanse their blood or make them 20–30 years younger. The Karneadou Street clinic, he writes, was Kolonaki&#x27;s most widely shared &#x27;secret&#x27;, driven by vanity and naivety, with no one checking the &#x27;miracles&#x27;.</summary>
-  </entry>
-  <entry>
-    <title>Απάντηση ΥΠΕΞ σε Φιντάν: Η Ελλάδα δικαιούται να λάβει όλα τα μέτρα για να διασφαλίσει τη νόμιμη άμυνά της</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564462244/apantisi-ypex-se-fintan-i-ellada-dikaioytai-na-lavei-ola-ta-metra-gia-na-diasfalisei-tin-nomimi-amyna-tis/"/>
-    <id>urn:greek-news-aggregator:8d20051f56e6</id>
-    <updated>2026-09-16T19:58:24+00:00</updated>
-    <published>2026-09-16T19:58:24+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Foreign ministry spokesman Panagiotis Giannakoulias flatly rejected Fidan&#x27;s claims, stressing that Turkish demilitarisation arguments &#x27;lack any legal basis&#x27; and that Greece &#x27;shapes its foreign policy sovereignly and is not dictated to&#x27;. He called branding defensive fortification a &#x27;threat&#x27; &#x27;baseless and oxymoronic&#x27; while Turkey maintains a casus belli, and underlined the country&#x27;s right to lawful self-defence.</summary>
-  </entry>
-  <entry>
-    <title>Καύσιμα: Κοντά στα 2,20 ευρώ το λίτρο η μέση τιμή της αμόλυβδης</title>
-    <link href="https://www.kathimerini.gr/economy/564463339/kaysima-konta-sta-2-20-eyro-to-litro-i-mesi-timi-tis-amolyvdis/"/>
-    <id>urn:greek-news-aggregator:ad193ff7fd8a</id>
-    <updated>2026-09-17T09:12:41+00:00</updated>
-    <published>2026-09-17T09:12:41+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">The national average price of unleaded hit 2.17 euros a litre on Wednesday (+6 cents in a week) and diesel 2.14 euros (+7 cents), with prices expected to keep rising. Government meetings are weighing intervention, with any measures due in early October, while the Eurogroup meets Friday in Dublin on the new energy crisis.</summary>
-  </entry>
-  <entry>
-    <title>Η Ολομέλεια του ΣτΕ θα αποφασίσει για τα μη κρατικά ΑΕΙ</title>
-    <link href="https://www.kathimerini.gr/society/ekpaideysi/564462622/i-olomeleia-toy-ste-tha-apofasisei-gia-ta-mi-kratika-aei/"/>
-    <id>urn:greek-news-aggregator:6c825eb62890</id>
-    <updated>2026-09-17T10:35:00+00:00</updated>
-    <published>2026-09-17T10:35:00+00:00</published>
-    <author><name>Απόστολος Λακασάς</name></author>
-    <category term="society"/>
-    <summary type="text">A new round in the legal battle over non-state universities: first-year students at the Keele, York and Anatolia branches are preparing third-party challenges at the Council of State against rulings 1167–1172/2026 of its Third Section, which annulled licences and programme accreditations. Although licences were &#x27;restored&#x27; after EOPPEP&#x27;s lapses were cured, the annulment of accreditations for unspecified ETHAAE criteria left the 600 students in limbo despite minister Zacharaki&#x27;s assurances. The plenary will decide.</summary>
-  </entry>
-  <entry>
-    <title>Οι «ολιστικοί» RFK Juniors της Ελλάδας</title>
-    <link href="https://www.kathimerini.gr/opinion/564462754/oi-olistikoi-rfk-juniors-tis-elladas/"/>
-    <id>urn:greek-news-aggregator:a9613568d9c1</id>
-    <updated>2026-09-17T12:56:00+00:00</updated>
-    <published>2026-09-17T12:56:00+00:00</published>
-    <author><name>Ξένια Κουναλάκη</name></author>
-    <category term="opinion"/>
-    <summary type="text">Xenia Kounalaki compares Greece&#x27;s &#x27;holistic&#x27; set to RFK Jr., prompted by Migration minister Thanasis Plevris&#x27;s admission that he visited the doctor now prosecuted over Mazonakis&#x27;s death, who prescribed him &#x27;a diet with supplements&#x27;. She recalls Adonis Georgiadis&#x27;s &#x27;nanobionic vests&#x27; of 2017 and Athina Linou&#x27;s claim that Covid does not spread at Holy Communion, concluding that the metaphysical should stay out of public health.</summary>
-  </entry>
-  <entry>
-    <title>ΟΗΕ: Δεν μπορούμε να αγνοήσουμε τους κινδύνους της τεχνητής νοημοσύνης</title>
-    <link href="https://www.kathimerini.gr/life/techniti-noimosyni/564462217/oie-den-mporoyme-na-agnoisoyme-toys-kindynoys-tis-technitis-noimosynis/"/>
-    <id>urn:greek-news-aggregator:bb9b25d4e401</id>
-    <updated>2026-09-16T20:05:45+00:00</updated>
-    <published>2026-09-16T20:05:45+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">António Guterres warned leaders that &#x27;rapidly developing&#x27; AI carries risks that cannot be ignored, &#x27;especially when they come from those on the front line&#x27;, in contrast to Trump, who deems existing safeguards sufficient. Concern rose after an Anthropic researcher resigned saying those building the systems &#x27;believe it could kill us all by the end of the decade&#x27;. Guterres will make AI oversight central to his General Assembly talks.</summary>
-  </entry>
-  <entry>
-    <title>Η χώρα δεν έχει την πολυτέλεια</title>
-    <link href="https://www.kathimerini.gr/economy/local/564462952/i-chora-den-echei-tin-polyteleia/"/>
-    <id>urn:greek-news-aggregator:2c590eff1819</id>
-    <updated>2026-09-17T13:48:24+00:00</updated>
-    <published>2026-09-17T13:48:24+00:00</published>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <category term="economy"/>
-    <summary type="text">Nikos Filippidis warns the world economy is entering a crisis of &#x27;unknown depth&#x27; – at once an energy and a bond crisis – while elections in Israel, the US and France and a possible fall of the Merz government after the AfD&#x27;s Saxony triumph presage political instability, complicating the next EU budget and Lagarde&#x27;s succession at the ECB. The &#x27;most dangerous&#x27; domestic development, he writes, is the unprecedented toxicity among Greece&#x27;s big business players, which the country cannot afford mid-crisis.</summary>
-  </entry>
-  <entry>
-    <title>Ηράκλειο: Απολογείται σήμερα η 18χρονη μητέρα για τον τραυματισμό του 17 ημερών βρέφους</title>
-    <link href="https://www.kathimerini.gr/society/564463492/irakleio-apologeitai-simera-i-18chroni-mitera-gia-ton-traymatismo-toy-17-imeron-vrefoys/"/>
-    <id>urn:greek-news-aggregator:922f394d6b73</id>
-    <updated>2026-09-17T10:31:55+00:00</updated>
-    <published>2026-09-17T10:31:55+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">The 18-year-old mother from Chania appears before the investigating magistrate today over the serious injury of her 17-day-old infant, who is in the neonatal ICU of Venizeleio hospital with severe head trauma, stable but critical, pending a decisive MRI. She first claimed the baby fell but then admitted striking it on the head, while the Smile of the Child said she had herself suffered abuse since the age of four.</summary>
-  </entry>
-  <entry>
-    <title>Αδωνις Γεωργιάδης: Μαζί</title>
-    <link href="https://www.kathimerini.gr/opinion/564462919/adonis-georgiadis-mazi/"/>
-    <id>urn:greek-news-aggregator:c2fb978b027d</id>
-    <updated>2026-09-17T12:58:00+00:00</updated>
-    <published>2026-09-17T12:58:00+00:00</published>
-    <author><name>Μιχάλης Τσιντσίνης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Michalis Tsintsinis reads the &#x27;volcanic&#x27; mourning for Mazonakis in Nikaia – a crowd singing and dancing around the coffin – as a rare concentration of emotion that political professionals rushed not to leave &#x27;unclaimed&#x27;. Adonis Georgiadis, he writes, appeared as the &#x27;system&#x27; itself to apologise and divert the grief from flowing into political anger, but the source of the mass reaction was people&#x27;s need for a shared experience.</summary>
-  </entry>
-  <entry>
-    <title>Δημοσκόπηση Pulse: Οριακή άνοδος για δύο μετά τις παρουσίες στη ΔΕΘ</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564462601/dimoskopisi-pulse-oriaki-anodos-gia-dyo-meta-tis-paroysies-sti-deth/"/>
-    <id>urn:greek-news-aggregator:5863627bf56c</id>
-    <updated>2026-09-17T06:35:00+03:00</updated>
-    <published>2026-09-17T06:35:00+03:00</published>
-    <author><name>Αντώνης Αντζολέτος</name></author>
-    <category term="politics"/>
-    <summary type="text">The Pulse poll for SKAI has ND at 26.5% (+0.5 since July), Tsipras&#x27;s ELAS flat at 15% and PASOK at 10.5% (+0.5). Greek Solution rose to 7.5%, Karystianou&#x27;s party fell two and a half points to 5%, KKE is at 6% and Plefsi at 5%, with nine parties entering parliament. Antzoletos notes the &#x27;needle&#x27; barely moved after the fair, as voters wait to see results in their pockets.</summary>
-  </entry>
-  <entry>
-    <title>Τραγωδία στη Γλυφάδα: Τρεις νεκροί μετά από τροχαίο στην Ποσειδώνος</title>
-    <link href="https://www.kathimerini.gr/society/564463285/glyfada-treis-nekroi-meta-apo-to-sovaro-trochaio-stin-poseidonos/"/>
-    <id>urn:greek-news-aggregator:1241c4aaae4c</id>
-    <updated>2026-09-17T08:22:26+00:00</updated>
-    <published>2026-09-17T08:22:26+00:00</published>
-    <author><name>Αλκης Παππάς</name></author>
-    <category term="society"/>
-    <summary type="text">Three people died in a crash shortly after 2 a.m. on the coastal Poseidonos avenue at Kalypsous Street in Glyfada, in the Athens-bound lane. The car carrying five people veered off the road; all were seriously injured and taken to Asklipieio hospital in Voula, where three died. The cause is unclear and traffic police are investigating whether another vehicle was involved.</summary>
-  </entry>
-  <entry>
-    <title>Μαρκ Κάρνεϊ: «Ισχυρότεροι μαζί» Ευρώπη και Καναδάς</title>
-    <link href="https://www.kathimerini.gr/world/564463990/karnei-e-e-kai-kanadas-einai-ischyroteroi-enomenoi/"/>
-    <id>urn:greek-news-aggregator:aef0357c3dcc</id>
-    <updated>2026-09-17T13:29:54+00:00</updated>
-    <published>2026-09-17T13:29:54+00:00</published>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world"/>
-    <summary type="text">Canadian PM Mark Carney, addressing the European Parliament plenary, welcomed von der Leyen&#x27;s proposal of &#x27;associate member&#x27; status for the EU – an &#x27;Alliance for the Future&#x27; – declaring that &#x27;Europe and Canada are stronger together&#x27; and calling for deeper cooperation on defence, critical raw materials and technology. With barbs aimed at Trump&#x27;s Washington, he clarified he is not proposing a &#x27;third bloc&#x27; but resilience, so that no one can threaten their sovereignty and democracies.</summary>
-  </entry>
-  <entry>
-    <title>Microsoft: «Μια ανεξέλεγκτη ΑΙ μπορεί να γίνει ανταγωνιστική προς τον άνθρωπο»</title>
-    <link href="https://www.kathimerini.gr/world/564463792/microsoft-mia-anexelegkti-ai-mporei-na-ginei-antagonistiki-pros-ton-anthropo/"/>
-    <id>urn:greek-news-aggregator:018cbdf59700</id>
-    <updated>2026-09-17T12:47:44+00:00</updated>
-    <published>2026-09-17T12:47:44+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Microsoft AI chief Mustafa Suleyman warned on the BBC that, without safeguards, AI could become &#x27;a new species made of silicon&#x27; competing with humans for resources &#x27;no matter how much it loves us&#x27;. He criticised as &#x27;wrong&#x27; Anthropic&#x27;s approach of treating Claude as if it had human attributes, while praising Dario Amodei as &#x27;honest&#x27;, and urged the industry not to build systems that set their own goals, earn money or own assets.</summary>
-  </entry>
-  <entry>
-    <title>AI: Ο κόσμος ανησυχεί, η Ευρώπη απουσιάζει</title>
-    <link href="https://www.kathimerini.gr/opinion/564462757/ai-o-kosmos-anisychei-i-eyropi-apoysiazei/"/>
-    <id>urn:greek-news-aggregator:73f533876050</id>
-    <updated>2026-09-17T08:30:00+00:00</updated>
-    <published>2026-09-17T08:30:00+00:00</published>
-    <author><name>Αθανάσιος Έλλις</name></author>
-    <category term="opinion"/>
-    <summary type="text">Athanasios Ellis welcomes that the debate on AI&#x27;s dangers has finally opened, and by the technology&#x27;s own pioneers, who can no longer ignore whether humans will keep control. Europe, however, is absent: last year the US produced 59 major models and China 35, the EU just two, and it lags badly in data centres, with the conversation effectively confined to the US and China.</summary>
-  </entry>
-  <entry>
-    <title>Δημοσκόπηση: Πώς κρίνουν οι πολίτες τις εξαγγελίες στη ΔΕΘ</title>
-    <link href="https://www.kathimerini.gr/politics/564462229/dimoskopisi-pos-krinoyn-oi-polites-tis-exaggelies-sti-deth/"/>
-    <id>urn:greek-news-aggregator:b181dcf1a8c0</id>
-    <updated>2026-09-16T20:33:12+00:00</updated>
-    <published>2026-09-16T20:33:12+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">An Opinion Poll survey for Action 24 puts ND at 25.7%, ELAS second and PASOK third, with the cost of living and inflation dominating public anxiety. Mitsotakis&#x27;s overall fair plan is rated positively by 29.6% (45.6% not at all satisfied); the most popular measures are zero tax for families with three children (42.8%) and the minimum wage rise (39.1%). Androulakis&#x27;s presentation gets just 16.4% approval, with the 13th salary and pension his top-rated pledge.</summary>
-  </entry>
-  <entry>
-    <title>Με πιστωτική κάρτα ή δανεικά πληρώνει λογαριασμούς το 56% των Ευρωπαίων</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564462970/me-pistotiki-karta-i-daneika-plironei-logariasmoys-to-56-ton-eyropaion/"/>
-    <id>urn:greek-news-aggregator:e35d72275c08</id>
-    <updated>2026-09-17T11:12:00+03:00</updated>
-    <published>2026-09-17T11:12:00+03:00</published>
+    <title>Χαμηλότερο από το 2010 το εισόδημα των Ελλήνων το 2025</title>
+    <link href="https://www.kathimerini.gr/economy/local/564465295/chamilotero-apo-to-2010-to-eisodima-ton-ellinon-to-2025/"/>
+    <id>urn:greek-news-aggregator:6486458f0a90</id>
+    <updated>2026-09-18T09:35:44+00:00</updated>
+    <published>2026-09-18T09:35:44+00:00</published>
     <author><name>Δήμητρα Μανιφάβα</name></author>
     <category term="economy"/>
-    <summary type="text">According to Intrum&#x27;s Consumer Payment Report of 20,000 people in 20 countries, 29% of Europeans paid at least one bill late in the past 12 months (up from 24%), with Greece at 37%, third highest. The share borrowing or paying bills by credit card jumped to 56% from 45%, and to 60% in Greece, while BNPL and a return to the small shopkeeper&#x27;s &#x27;tab&#x27; gain ground as energy prices since late February eat into incomes.</summary>
+    <summary type="text">According to Eurostat, Greeks&#x27; median disposable income in 2025 was 22.3% lower than in 2010, while across the EU it was 25.4% higher. Greece and France are the only EU-27 states with income below 2010 levels, with Greece&#x27;s third-lowest in purchasing-power terms.</summary>
+  </entry>
+  <entry>
+    <title>Κάθε χρόνο και χειρότερο το στεγαστικό πρόβλημα</title>
+    <link href="https://www.kathimerini.gr/economy/local/564465298/kathe-chrono-kai-cheirotero-to-stegastiko-provlima/"/>
+    <id>urn:greek-news-aggregator:9890e62c65c0</id>
+    <updated>2026-09-18T15:44:40+00:00</updated>
+    <published>2026-09-18T15:44:40+00:00</published>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
+    <category term="economy"/>
+    <summary type="text">Greece&#x27;s housing squeeze is worsening: home ownership fell to 69.4% in 2025 from 75.1% in 2015, and one in four Greeks spends at least 40% of income on housing — the worst rate in Europe. Rents outpace meager income gains, with real wages stagnant in 2025.</summary>
+  </entry>
+  <entry>
+    <title>Αναζητούνται 2 εκατομμύρια εξαφανισμένοι ψηφοφόροι</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564464905/anazitoyntai-2-ekatommyria-exafanismenoi-psifoforoi/"/>
+    <id>urn:greek-news-aggregator:411854cfdd86</id>
+    <updated>2026-09-18T12:09:34+00:00</updated>
+    <published>2026-09-18T12:09:34+00:00</published>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary type="text">Party machines are hunting for the more than two million voters who &#x27;vanished&#x27; from the ballot box between 2004 and 2023, as turnout fell from 76% to a record low of 53%. Veteran pollsters say high abstention traditionally favors the leading party and will be a key factor in the spring elections.</summary>
+  </entry>
+  <entry>
+    <title>«Mόνη λύση η αυτοδυναμία»</title>
+    <link href="https://www.kathimerini.gr/politics/government/564464887/moni-lysi-i-aytodynamia/"/>
+    <id>urn:greek-news-aggregator:5d3f521b97fa</id>
+    <updated>2026-09-18T06:32:33+00:00</updated>
+    <published>2026-09-18T06:32:33+00:00</published>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">In an ERT interview, Kyriakos Mitsotakis called a single-party majority a &#x27;realistic proposal,&#x27; ruling out cooperation with Velopoulos or Latinopoulou while making a fresh overture to Karamanlis. He announced heating-oil relief kicking in below €1.75 and said the interconnector cable would be laid &#x27;soon.&#x27;</summary>
+  </entry>
+  <entry>
+    <title>Ενεργειακό ράλι: Επιστρέφει στην Ε.Ε. η συζήτηση για φόρο στα υπερκέρδη</title>
+    <link href="https://www.kathimerini.gr/economy/international/564466240/energeiako-rali-epistrefei-stin-e-e-i-syzitisi-gia-foro-sta-yperkerdi/"/>
+    <id>urn:greek-news-aggregator:457c0ff2e0a2</id>
+    <updated>2026-09-18T13:00:03+00:00</updated>
+    <published>2026-09-18T13:00:03+00:00</published>
+    <author><name>Αλεξάνδρα Βουδούρη</name></author>
+    <category term="economy"/>
+    <summary type="text">A sharp rise in oil and fuel prices is reviving the EU debate on a windfall-profits tax, with six countries (Germany, Spain, Italy, Poland, Portugal, Austria) asking the Commission to examine energy firms&#x27; profits. The issue tops the agenda of the informal ECOFIN in Dublin.</summary>
+  </entry>
+  <entry>
+    <title>ΠΑΣΟΚ για Πλεύρη: Γνώριζε τους γιατρούς του Μαζωνάκη από το 2012 – Ηταν μαζί στη διοίκηση σωματείου</title>
+    <link href="https://www.kathimerini.gr/politics/564466450/pasok-gia-pleyri-gnorize-toys-giatroys-toy-mazonaki-apo-to-2012-itan-mazi-sti-dioikisi-somateioy/"/>
+    <id>urn:greek-news-aggregator:2a1127ee8399</id>
+    <updated>2026-09-18T14:49:47+00:00</updated>
+    <published>2026-09-18T14:49:47+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">PASOK is demanding explanations from Migration Minister Thanos Plevris, claiming he knew the two jailed doctors in the Mazonakis case since 2012, when they were co-founders of a professional association. It accuses him of lying about when the acquaintance began and asks whether he knew of the illegal medical practices.</summary>
+  </entry>
+  <entry>
+    <title>Μητσοτάκης σε Τασούλα: Δύσκολος χειμώνας σε περιβάλλον πρωτοφανών γεωπολιτικών αναταράξεων</title>
+    <link href="https://www.kathimerini.gr/politics/564465931/mitsotakis-se-tasoyla-dyskolos-cheimonas-se-perivallon-protofanon-geopolitikon-anataraxeon/"/>
+    <id>urn:greek-news-aggregator:8fcaf5d28800</id>
+    <updated>2026-09-18T11:34:37+00:00</updated>
+    <published>2026-09-18T11:34:37+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">PM Kyriakos Mitsotakis warned President Tasoulas of a &#x27;difficult winter&#x27; amid unprecedented geopolitical turmoil, making heating oil a priority. The plan foresees a twin intervention — a subsidy plus a higher heating allowance — while the fuel excise tax will be raised at the European Council.</summary>
+  </entry>
+  <entry>
+    <title>Πέθανε η Μαργαρίτα Παπανδρέου</title>
+    <link href="https://www.kathimerini.gr/society/564465979/pethane-i-margarita-papandreoy/"/>
+    <id>urn:greek-news-aggregator:611bee5954b2</id>
+    <updated>2026-09-18T11:42:29+00:00</updated>
+    <published>2026-09-18T11:42:29+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Margarita Chant-Papandreou, the US-born wife of Andreas Papandreou and mother of Giorgos Papandreou, has died at 103. She was central to laws that advanced Greek women&#x27;s status, including abolishing the dowry, legalizing abortion and instituting civil marriage.</summary>
+  </entry>
+  <entry>
+    <title>Aρση της ασυλίας Αβραμόπουλου για το Qatargate</title>
+    <link href="https://www.kathimerini.gr/politics/564464878/arsi-tis-asylias-avramopoyloy-gia-to-qatargate/"/>
+    <id>urn:greek-news-aggregator:693392cf90a0</id>
+    <updated>2026-09-18T06:31:31+00:00</updated>
+    <published>2026-09-18T06:31:31+00:00</published>
+    <author><name>Δώρα Αντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">Parliament&#x27;s plenary lifted the immunity of former EU Commissioner and ND MP Dimitris Avramopoulos over Qatargate, 264 in favor of 266 present. In a memo he says he took part in no illegal activity and will appear voluntarily before Belgian authorities; Zoi Konstantopoulou&#x27;s immunity was also lifted.</summary>
+  </entry>
+  <entry>
+    <title>Δημοσκόπηση: Τι κυβέρνηση προτιμούν οι πολίτες</title>
+    <link href="https://www.kathimerini.gr/politics/564464599/dimoskopisi-ti-kyvernisi-protimoyn-oi-polites/"/>
+    <id>urn:greek-news-aggregator:5cbc0e3373a1</id>
+    <updated>2026-09-17T21:11:03+00:00</updated>
+    <published>2026-09-17T21:11:03+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">A new Marc poll for ANT1 shows a narrow edge for a single-party ND (27.8%) over an ELAS-PASOK-led left coalition (27.1%). Some 55% rate Mitsotakis&#x27;s TIF announcements negatively, while 12.1% say they might vote for a possible Samaras party.</summary>
+  </entry>
+  <entry>
+    <title>Τέλος εποχής: Ο Γουόρεν Μπάφετ παραιτήθηκε από την προεδρία της Berkshire Hathaway</title>
+    <link href="https://www.kathimerini.gr/world/564466348/telos-epochis-o-goyoren-mpafet-paraitithike-apo-tin-proedria-tis-berkshire-hathaway/"/>
+    <id>urn:greek-news-aggregator:20d15de773e4</id>
+    <updated>2026-09-18T13:57:08+00:00</updated>
+    <published>2026-09-18T13:57:08+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Warren Buffett, 96, resigned as chairman of Berkshire Hathaway, taking the role of chairman emeritus, with his son Howard becoming chairman. &#x27;Time always wins,&#x27; he wrote to shareholders, completing a broad transition at the company&#x27;s top.</summary>
+  </entry>
+  <entry>
+    <title>Θεωρείο: Παρτίδα πόκερ</title>
+    <link href="https://www.kathimerini.gr/politics/564464857/theoreio-partida-poker/"/>
+    <id>urn:greek-news-aggregator:85f985817a73</id>
+    <updated>2026-09-18T07:53:23+00:00</updated>
+    <published>2026-09-18T07:53:23+00:00</published>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
+    <category term="politics"/>
+    <summary type="text">The Theoreio column reads the &#x27;high-stakes poker&#x27; between Mitsotakis and Karamanlis, with the PM trying to pull his predecessor away from Samaras by calling him &#x27;identified with New Democracy.&#x27; It also notes MEP Afroditi Latinopoulou&#x27;s viral broadside against von der Leyen.</summary>
+  </entry>
+  <entry>
+    <title>Εντός και Εκτός: H περιστρεφόμενη πόρτα μεταξύ ΠΑΣΟΚ – ΕΛΑΣ – ΣΥΡΙΖΑ</title>
+    <link href="https://www.kathimerini.gr/politics/564464908/entos-kai-ektos-h-peristrefomeni-porta-metaxy-pasok-elas-syriza/"/>
+    <id>urn:greek-news-aggregator:a1034bea9030</id>
+    <updated>2026-09-18T07:45:42+00:00</updated>
+    <published>2026-09-18T07:45:42+00:00</published>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary type="text">A revolving door of officials is spinning on the center-left, with Olga Gerovasili&#x27;s statement read as a prelude to joining Tsipras&#x27;s ELAS and Roza Vrettou quitting PASOK. The moves sharpen the derby for second place between PASOK and ELAS.</summary>
+  </entry>
+  <entry>
+    <title>ΔΥΠΑ: Συνολικά 717.926 εγγεγραμμένοι άνεργοι τον περασμένο Αύγουστο</title>
+    <link href="https://www.kathimerini.gr/society/564466537/dypa-synolika-717-926-eggegrammenoi-anergoi-ton-perasmeno-aygoysto/"/>
+    <id>urn:greek-news-aggregator:b8d877a3480e</id>
+    <updated>2026-09-18T15:28:44+00:00</updated>
+    <published>2026-09-18T15:28:44+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">Registered jobless at labor agency DYPA reached 717,926 in August 2026, down 9.2% year on year but up a marginal 0.4% from July. Women make up 69.4% of the unemployed and the 30-44 age group is the largest category.</summary>
+  </entry>
+  <entry>
+    <title>Ρωγμές στην οικονομική κυριαρχία των ΗΠΑ</title>
+    <link href="https://www.kathimerini.gr/economy/international/564465352/rogmes-stin-oikonomiki-kyriarchia-ton-ipa/"/>
+    <id>urn:greek-news-aggregator:c5b13ad1a3b5</id>
+    <updated>2026-09-18T10:15:02+00:00</updated>
+    <published>2026-09-18T10:15:02+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">Investors are selling US bonds and foreign governments are pulling gold from the Fed as the global economy distances itself from America. Worries over the $40-trillion debt, overuse of sanctions and Trump&#x27;s approach to the rule of law are questioning the US as an investment destination.</summary>
+  </entry>
+  <entry>
+    <title>Εφικτή, αλλά όχι εγγυημένη η συνέχεια της ανάκαμψης στην Ελλάδα</title>
+    <link href="https://www.kathimerini.gr/economy/local/564465277/efikti-alla-ochi-eggyimeni-i-synecheia-tis-anakampsis-stin-ellada/"/>
+    <id>urn:greek-news-aggregator:08134bdc5487</id>
+    <updated>2026-09-18T09:10:38+00:00</updated>
+    <published>2026-09-18T09:10:38+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">JPMorgan judges the continuation of Greece&#x27;s recovery feasible but not guaranteed, with the key being a shift to a productivity-based growth model. It notes GDP is growing faster than the euro area, unemployment fell from 28% to 8% and debt is dropping, but durability hinges on private investment.</summary>
+  </entry>
+  <entry>
+    <title>Η Anthropic δημιούργησε βιολογικό εργαστήριο για την τεχνητή νοημοσύνη</title>
+    <link href="https://www.kathimerini.gr/world/564466513/i-anthropic-epekteinei-tin-ai-sti-viologia-me-neo-ergastirio-sto-san-fransisko/"/>
+    <id>urn:greek-news-aggregator:b65ed17c1851</id>
+    <updated>2026-09-18T15:29:32+00:00</updated>
+    <published>2026-09-18T15:29:32+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">AI company Anthropic, maker of Claude, has set up a &#x27;wet&#x27; biology lab in the San Francisco Bay Area, moving from computational models to real experiments. The aim is to harness AI in the life sciences and, in the long run, to search for treatments for rare diseases.</summary>
+  </entry>
+  <entry>
+    <title>MI5: Παραδέχθηκε ότι έδωσε στοιχεία που βασίζονταν σε ψέματα σε τρία δικαστήρια για νεοναζί πληροφοριοδότη</title>
+    <link href="https://www.kathimerini.gr/world/564466492/mi5-paradechthike-oti-edose-stoicheia-poy-vasizontan-se-psemata-se-tria-dikastiria-gia-neonazi-pliroforiodoti/"/>
+    <id>urn:greek-news-aggregator:c08e874f0749</id>
+    <updated>2026-09-18T15:03:18+00:00</updated>
+    <published>2026-09-18T15:03:18+00:00</published>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Britain&#x27;s MI5 admitted presenting evidence based on lies to three courts and that its officials were repeatedly untruthful in the case of a violent neo-Nazi informant, whose conduct the BBC had exposed. It is the first time the agency has formally accepted that lies were told to courts.</summary>
   </entry>
 </feed>
