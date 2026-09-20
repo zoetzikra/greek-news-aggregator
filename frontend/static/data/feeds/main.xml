@@ -1,210 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Daily Top Stories</title>
-  <subtitle>Top stories scraped from kathimerini.gr</subtitle>
-  <link href="https://github.com/zoetzikra/greek-news-aggregator" rel="alternate"/>
-  <link href="https://zoetzikra.github.io/greek-news-aggregator/data/feeds/main.xml" rel="self"/>
-  <id>urn:greek-news-aggregator:2026-09-19</id>
-  <updated>2026-09-19T17:37:35.158700+00:00</updated>
-  <author><name>Greek News Aggregator</name></author>
+  <title>Greek News Aggregator — Top stories 2026-09-20</title>
+  <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
+  <id>urn:greek-news-aggregator:2026-09-20</id>
+  <updated>2026-09-20T13:18:35+00:00</updated>
   <entry>
-    <title>Το Ιράν διαβίβασε τους όρους για επανέναρξη διαπραγματεύσεων με τις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564469495/to-iran-diavivase-toys-oroys-gia-epanenarxi-diapragmateyseon-me-tis-ipa/"/>
-    <id>urn:greek-news-aggregator:47997b2fec33</id>
-    <updated>2026-09-19T19:24:00+00:00</updated>
-    <published>2026-09-19T19:24:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Iran conveyed to mediators its terms for resuming talks with the US aimed at ending the war. The conditions include a ceasefire on all fronts, the release of Iranian funds and lifting the naval blockade.</summary>
-  </entry>
-  <entry>
-    <title>Τουρκική υπερπτήση πάνω από τη Ρω – Drone και στη Ζουράφα</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564466966/toyrkiki-yperptisi-pano-apo-ti-ro-drone-kai-sti-zoyrafa/"/>
-    <id>urn:greek-news-aggregator:5847323a9b0c</id>
-    <updated>2026-09-18T19:36:00+00:00</updated>
-    <published>2026-09-18T19:36:00+00:00</published>
+    <title>Κυρ. Μητσοτάκης: Οριζόντια αύξηση του επιδόματος θέρμανσης, επέκταση της επιδότησης στο diesel για τον Οκτώβριο</title>
+    <link href="https://www.kathimerini.gr/politics/564469657/kyr-mitsotakis-orizontia-ayxisi-toy-epidomatos-thermansis-epektasi-tis-epidotisis-sto-diesel-gia-ton-oktovrio/"/>
+    <id>https://www.kathimerini.gr/politics/564469657/kyr-mitsotakis-orizontia-ayxisi-toy-epidomatos-thermansis-epektasi-tis-epidotisis-sto-diesel-gia-ton-oktovrio/</id>
+    <updated>2026-09-20T10:41:48+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary type="text">Turkish aircraft committed 13 air-traffic violations and seven national-airspace infringements over the Aegean, most by drones. Two overflights were recorded above the islets of Ro and Zourafa.</summary>
+    <summary type="text">Ο Κυριάκος Μητσοτάκης στην εβδομαδιαία ανάρτησή του προαναγγέλλει παρέμβαση κυβέρνησης και διυλιστηρίων ώστε η τιμή εκκίνησης του πετρελαίου θέρμανσης να πέσει κάτω από 1,75 ευρώ το λίτρο, οριζόντια αύξηση του επιδόματος θέρμανσης για όλες τις μορφές ενέργειας και επέκταση της επιδότησης του diesel για όλο τον Οκτώβριο. Επιμένει σε ευρωπαϊκή παρέμβαση και αφήνει ανοιχτή προσωρινή μείωση της φορολογίας καυσίμων αν η ΕΕ εξαιρέσει τις έκτακτες δαπάνες από τα δημοσιονομικά όρια. Επικρίνει την αντιπολίτευση για τη στάση της στη Συνταγματική Αναθεώρηση.</summary>
+    <content type="text">In his weekly post, Kyriakos Mitsotakis announces a government–refinery intervention to bring the starting price of heating oil below 1.75 euros per litre, a horizontal increase in the heating allowance covering all energy sources, and an extension of the diesel subsidy through October. He insists on a European response and leaves open a temporary fuel-tax cut if the EU exempts emergency spending from fiscal limits, while criticising the opposition&#x27;s stance on the constitutional revision.</content>
   </entry>
   <entry>
-    <title>Στουρνάρας: Πιθανή μια αύξηση των επιτοκίων από την ΕΚΤ τον Οκτώβριο</title>
-    <link href="https://www.kathimerini.gr/economy/564469357/stoyrnaras-pithani-mia-ayxisi-ton-epitokion-apo-tin-ekt-ton-oktovrio/"/>
-    <id>urn:greek-news-aggregator:520bf3204b9d</id>
-    <updated>2026-09-19T17:06:00+00:00</updated>
-    <published>2026-09-19T17:06:00+00:00</published>
-    <author><name>Newsroom</name></author>
+    <title>Φιντάν: «Δεν αποδεχόμαστε» τη στρατιωτικοποίηση νησιών του Αιγαίου</title>
+    <link href="https://www.kathimerini.gr/world/564469567/fintan-den-apodechomaste-tin-stratiotikopoiisi-nision-sto-aigaio/"/>
+    <id>https://www.kathimerini.gr/world/564469567/fintan-den-apodechomaste-tin-stratiotikopoiisi-nision-sto-aigaio/</id>
+    <updated>2026-09-19T22:25:19+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο Χακάν Φιντάν δήλωσε στο NTV ότι η Τουρκία «δεν αποδέχεται σε καμία περίπτωση» τη στρατιωτικοποίηση των νησιών του Αιγαίου με αποστρατιωτικοποιημένο καθεστώς, προσθέτοντας ότι η Άγκυρα κάνει «επίμονες ενέργειες» συχνά χωρίς δημοσιοποίηση. Απέδωσε τη στάση της Αθήνας σε προεκλογικό κλίμα, μίλησε για «στενούς φίλους» μεταξύ Ελλήνων πολιτικών και προειδοποίησε ότι σε «τυχοδιωκτικές ενέργειες» η «ισχύς της Τουρκίας είναι γνωστή σε όλους».</summary>
+    <content type="text">Hakan Fidan told NTV that Turkey &#x27;in no way accepts&#x27; the militarisation of Aegean islands with demilitarised status, adding that Ankara takes &#x27;persistent actions&#x27; often without publicising them. He attributed Athens&#x27;s stance to a pre-election climate, spoke of &#x27;close friends&#x27; among Greek politicians and warned that in the event of &#x27;adventurous actions&#x27; Turkey&#x27;s &#x27;power is known to all&#x27;.</content>
+  </entry>
+  <entry>
+    <title>Η Ευρώπη μπροστά σε έναν πολύ δύσκολο χειμώνα</title>
+    <link href="https://www.kathimerini.gr/economy/564468421/i-eyropi-mprosta-se-enan-poly-dyskolo-cheimona/"/>
+    <id>https://www.kathimerini.gr/economy/564468421/i-eyropi-mprosta-se-enan-poly-dyskolo-cheimona/</id>
+    <updated>2026-09-20T14:59:46+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
     <category term="economy"/>
-    <summary type="text">Bank of Greece Governor Yannis Stournaras said an ECB rate hike in October cannot be ruled out if inflation or energy costs spike. He called the absence of second-round wage effects 'good news' but not guaranteed.</summary>
+    <summary type="text">Η Χρύσα Λιάγγου προειδοποιεί για έναν πολύ δύσκολο χειμώνα στην Ευρώπη: η διακοπή του αγωγού Ανατολής-Δύσης της Σαουδικής Αραβίας εκτόξευσε το Brent στα 108 δολάρια, το TTF κινείται στα 80 ευρώ/MWh και παραμένει πάνω από 76 ευρώ έως το α΄ τρίμηνο 2027 (έναντι 31 ευρώ πριν τον πόλεμο στο Ιράν). Τα γερμανικά προθεσμιακά ρεύματος Νοεμβρίου έκλεισαν στα 193 ευρώ/MWh, ενώ τα δημοσιονομικά περιθώρια στήριξης νοικοκυριών και επιχειρήσεων είναι περιορισμένα.</summary>
+    <content type="text">Chryssa Liaggou warns of a very hard European winter: the shutdown of Saudi Arabia&#x27;s East-West pipeline pushed Brent to 108 dollars, TTF gas trades around 80 euros/MWh and stays above 76 euros through Q1 2027 (versus 31 euros before the Iran war). German November power futures closed at 193 euros/MWh, while fiscal room to support households and firms is limited.</content>
   </entry>
   <entry>
-    <title>ΗΠΑ: Ο Τραμπ επικύρωσε το νέο πακέτο κυρώσεων κατά της Ρωσίας</title>
-    <link href="https://www.kathimerini.gr/world/564469180/ipa-o-tramp-epikyrose-to-neo-paketo-kyroseon-kata-tis-rosias/"/>
-    <id>urn:greek-news-aggregator:445097c2f667</id>
-    <updated>2026-09-19T14:15:47+00:00</updated>
-    <published>2026-09-19T14:15:47+00:00</published>
-    <author><name>Newsroom</name></author>
+    <title>Η Ρωσίδα της Καρνεάδου και τα «ιατρεία» σε σπίτια</title>
+    <link href="https://www.kathimerini.gr/society/reportaz/564466555/i-rosida-tis-karneadoy-kai-ta-iatreia-se-spitia/"/>
+    <id>https://www.kathimerini.gr/society/reportaz/564466555/i-rosida-tis-karneadoy-kai-ta-iatreia-se-spitia/</id>
+    <updated>2026-09-20T12:03:25+00:00</updated>
+    <author><name>Νίνα Μαρία Πασχαλίδου</name></author>
+    <category term="society"/>
+    <summary type="text">Η Νίνα Μαρία Πασχαλίδου αποκαλύπτει, με μαρτυρία της «Ρ.» στην «Κ», ότι γυναίκα ρωσικής καταγωγής που εργαζόταν ως βοηθός στο ιατρείο της Καρνεάδου, όπου πέθανε ο Γιώργος Μαζωνάκης, έκανε επί πληρωμή αιμοληψίες, φυγοκεντρήσεις και ενέσεις πλάσματος (PRP) και βιταμινών σε σαλόνια σπιτιών στο Χαλάνδρι, υποσχόμενη αναζωογόνηση και ανακούφιση από αυτοάνοσα. Η ίδια συστηνόταν ως νοσηλεύτρια εκπαιδευμένη στη Ρωσία — κάτι που η μάρτυρας πλέον αμφισβητεί.</summary>
+    <content type="text">Nina Maria Paschalidou reveals, through the testimony of &#x27;R.&#x27; to Kathimerini, that a Russian-born woman who worked as an assistant at the Karneadou Street practice where Giorgos Mazonakis died performed paid blood draws, centrifugation and plasma (PRP) and vitamin injections in living rooms in Chalandri, promising rejuvenation and relief from autoimmune conditions. She introduced herself as a Russian-trained nurse — a claim the witness now doubts.</content>
+  </entry>
+  <entry>
+    <title>Τι, αλήθεια, θέλει η Big-Tech;</title>
+    <link href="https://www.kathimerini.gr/world/564468160/ti-alitheia-thelei-i-big-tech/"/>
+    <id>https://www.kathimerini.gr/world/564468160/ti-alitheia-thelei-i-big-tech/</id>
+    <updated>2026-09-20T08:27:54+00:00</updated>
+    <author><name>Γιάννης Παλαιολόγος</name></author>
     <category term="world"/>
-    <summary type="text">Donald Trump signed a law imposing new sanctions on Russia, targeting for the first time its 'shadow fleet' and Putin himself. Named after the late Senator Lindsey Graham, it focuses mainly on the energy sector.</summary>
+    <summary type="text">Ο Γιάννης Παλαιολόγος εξετάζει τη στάση της Big Tech μετά τις αναρτήσεις Τραμπ ότι οι μόνες «δικλίδες ασφαλείας» που χρειάζεται η ΤΝ είναι ένας «δυνατός και έξυπνος πρόεδρος» και ότι η καταστροφολογία είναι «άρρωστη συνωμοσία» υπέρ της Κίνας. Μετά την παραίτηση του ερευνητή της Anthropic Τζέικομπ Κόξον, ο Ντάριο Αμοντέι προειδοποίησε σε δοκίμιο ότι αυτόνομοι AI agents θα μπορούσαν να «καταλάβουν το Διαδίκτυο», ενώ Άλτμαν, Μασκ και Χασάμπης συμμερίζονται τους φόβους αλλά διαφωνούν στη λύση.</summary>
+    <content type="text">Yannis Palaiologos examines Big Tech&#x27;s stance after Trump posted that the only &#x27;safeguards&#x27; AI needs are a &#x27;strong and smart president&#x27; and that doomsaying is a &#x27;sick conspiracy&#x27; benefiting China. After the resignation of Anthropic researcher Jacob Coxon, Dario Amodei warned in an essay that autonomous AI agents could &#x27;take over the internet&#x27;, while Altman, Musk and Hassabis share the fears but disagree on the remedy.</content>
   </entry>
   <entry>
-    <title>Βριλήσσια: Στο νοσοκομείο 14χρονος μετά από επίθεση συμμαθητή του – Κινδυνεύει να χάσει το νεφρό του</title>
-    <link href="https://www.kathimerini.gr/society/564469513/vrilissia-sto-nosokomeio-14chronos-meta-apo-epithesi-symmathiti-toy-kindyneyei-na-chasei-to-nefro-toy/"/>
-    <id>urn:greek-news-aggregator:462fa67e7884</id>
-    <updated>2026-09-19T19:53:26+00:00</updated>
-    <published>2026-09-19T19:53:26+00:00</published>
+    <title>Χαλκιδική: Κατέληξε o 17χρονος που υπέστη ανακοπή έξω από σχολείο στο Πευκοχώρι</title>
+    <link href="https://www.kathimerini.gr/society/564469699/chalkidiki-katelixe-o-17chronos-poy-ypesti-anakopi-exo-apo-scholeio-sto-peykochori/"/>
+    <id>https://www.kathimerini.gr/society/564469699/chalkidiki-katelixe-o-17chronos-poy-ypesti-anakopi-exo-apo-scholeio-sto-peykochori/</id>
+    <updated>2026-09-20T12:00:00+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary type="text">A 14-year-old is hospitalized in serious condition after an attack by a classmate in Vrilissia, at risk of losing a kidney. Authorities arrested the assailant and his mother.</summary>
+    <summary type="text">Κατέληξε το πρωί της Κυριακής στο Ιπποκράτειο Θεσσαλονίκης ο 17χρονος μαθητής που υπέστη καρδιακή ανακοπή έξω από το σχολείο του στο Πευκοχώρι Χαλκιδικής την Παρασκευή. Γιατρός του KIDS SAVE LIVES έφτασε σε τρία λεπτά και ξεκίνησε ΚΑΡΠΑ με απινιδωτή· η προσπάθεια αναζωογόνησης κράτησε 50 λεπτά με επτά απινιδώσεις, αλλά ο μαθητής υπέστη νέα ανακοπή και εγκεφαλικό οίδημα.</summary>
+    <content type="text">The 17-year-old student who suffered cardiac arrest outside his school in Pefkochori, Halkidiki on Friday died on Sunday morning at Thessaloniki&#x27;s Ippokrateio hospital. A KIDS SAVE LIVES doctor arrived within three minutes and began CPR with a defibrillator; resuscitation lasted 50 minutes with seven shocks, but the student suffered a second arrest and cerebral oedema.</content>
   </entry>
   <entry>
-    <title>Ισχυρό μήνυμα Ελλάδας – Κύπρου – Αιγύπτου</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564467293/ischyro-minyma-elladas-kyproy-aigyptoy/"/>
-    <id>urn:greek-news-aggregator:b567d06351e3</id>
-    <updated>2026-09-19T07:09:52+00:00</updated>
-    <published>2026-09-19T07:09:52+00:00</published>
-    <author><name>Σταύρος Ιωαννίδης</name></author>
-    <category term="politics"/>
-    <summary type="text">From the frigate 'Hydra', the Greek defense chief stressed the steady strategic cooperation of Greece, Egypt and Cyprus during the final phase of the 'Medusa-15' exercise. Emphasis was placed on modern technologies such as UAVs.</summary>
-  </entry>
-  <entry>
-    <title>Σαουδική Αραβία: Στις φλόγες δεξαμενή καυσίμων της Aramco κοντά στο αεροδρόμιο του Ριάντ</title>
-    <link href="https://www.kathimerini.gr/world/564469240/saoydiki-aravia-floges-kai-kapnos-ypsonontai-konta-sto-aerodromio-toy-riant/"/>
-    <id>urn:greek-news-aggregator:c2b6ed8ee47d</id>
-    <updated>2026-09-19T14:46:53+00:00</updated>
-    <published>2026-09-19T14:46:53+00:00</published>
+    <title>AI Force και «Τσάρο» για την Τεχνητή Νοημοσύνη θέλει ο Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564469627/ai-force-kai-tsaro-gia-tin-techniti-noimosyni-thelei-o-tramp/"/>
+    <id>https://www.kathimerini.gr/world/564469627/ai-force-kai-tsaro-gia-tin-techniti-noimosyni-thelei-o-tramp/</id>
+    <updated>2026-09-20T09:12:25+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">An Aramco fuel depot near Riyadh airport caught fire after explosions and air-raid warning sirens. Firefighters were battling the blaze.</summary>
+    <summary type="text">Ο Ντόναλντ Τραμπ ανακοίνωσε το Σάββατο τη δημιουργία «AI Force» στα πρότυπα της Space Force και τον επικείμενο διορισμό νέου «τσάρου» για την τεχνητή νοημοσύνη, χωρίς λεπτομέρειες για ρόλο ή προϋπολογισμό. Δήλωσε ότι η κυβέρνηση «δεν θα παρεμποδίσει» την ανάπτυξη της ΤΝ και ότι «κακές» πρακτικές θα αντιμετωπίζονται από τα υπάρχοντα δικαστήρια, παρά τις εκκλήσεις Αμοντέι, Άλτμαν, Μασκ και Χασάμπις για αυστηρότερους κανόνες.</summary>
+    <content type="text">Donald Trump announced on Saturday the creation of an &#x27;AI Force&#x27; modelled on the Space Force and the imminent appointment of a new AI &#x27;czar&#x27;, with no details on role or budget. He said the government &#x27;will not impede&#x27; AI development and that &#x27;bad&#x27; practices will be handled by existing courts, despite calls from Amodei, Altman, Musk and Hassabis for stricter rules.</content>
   </entry>
   <entry>
-    <title>Νέα κίνητρα για άμεσες ξένες επενδύσεις</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564467689/nea-kinitra-gia-ameses-xenes-ependyseis/"/>
-    <id>urn:greek-news-aggregator:b48ed347e560</id>
-    <updated>2026-09-19T19:07:36+03:00</updated>
-    <published>2026-09-19T19:07:36+03:00</published>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <category term="economy"/>
-    <summary type="text">The government aims to introduce, for the first time, an incentives regime exclusively for foreign direct investment, including easier residence permits and guaranteed loans. Energy, tourism and real-estate management are excluded from the scheme.</summary>
-  </entry>
-  <entry>
-    <title>Αύξηση 110% σε 10 χρόνια στις τιμές των κατοικιών</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564467692/ayxisi-110-se-10-chronia-stis-times-ton-katoikion/"/>
-    <id>urn:greek-news-aggregator:94a211a168f5</id>
-    <updated>2026-09-19T13:50:34+03:00</updated>
-    <published>2026-09-19T13:50:34+03:00</published>
-    <author><name>Νίκος Ρουσάνογλου</name></author>
-    <category term="economy"/>
-    <summary type="text">House prices have risen 110% over the past decade, but the pace is slowing: +5.5% in Q2 versus 8.3% for all of 2025. The slowdown is linked to the winding down of the 'My Home 2' scheme.</summary>
-  </entry>
-  <entry>
-    <title>Απαγορεύτηκε η είσοδος σε δημοσιογράφους των CNN και MS NOW: Σε ισχύ η «έξωση» από τον Λευκό Οίκο</title>
-    <link href="https://www.kathimerini.gr/world/564469426/apagoreytike-i-eisodos-se-dimosiografoys-ton-cnn-kai-ms-now-se-ischy-i-exosi-apo-ton-leyko-oiko/"/>
-    <id>urn:greek-news-aggregator:eddc933fb6bc</id>
-    <updated>2026-09-19T18:21:27+00:00</updated>
-    <published>2026-09-19T18:21:27+00:00</published>
+    <title>Μαργαρίτα Παπανδρέου: Σε κλίμα συγκίνησης το τελευταίο «αντίο»</title>
+    <link href="https://www.kathimerini.gr/society/564469729/margarita-papandreoy-se-klima-sygkinisis-to-teleytaio-antio/"/>
+    <id>https://www.kathimerini.gr/society/564469729/margarita-papandreoy-se-klima-sygkinisis-to-teleytaio-antio/</id>
+    <updated>2026-09-20T12:46:28+00:00</updated>
     <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Σε κλίμα συγκίνησης έγινε στο Α΄ Νεκροταφείο Αθηνών η πολιτική κηδεία της Μαργαρίτας Παπανδρέου, που πέθανε την Παρασκευή σε ηλικία 103 ετών· η σορός θα αποτεφρωθεί στη Ριτσώνα. Επικήδειους εκφώνησαν οι γιοι της Γιώργος και Νίκος Παπανδρέου, η Άννα Διαμαντοπούλου εκ μέρους του ΠΑΣΟΚ και η Φωτεινή Σιανού. «Δεν γεννήθηκε Ελληνίδα, έγινε Ελληνίδα», είπε ο Γιώργος Παπανδρέου για την ακτιβίστρια του γυναικείου κινήματος.</summary>
+    <content type="text">An emotional civil funeral was held at Athens First Cemetery for Margarita Papandreou, who died on Friday aged 103; she will be cremated at Ritsona. Eulogies were delivered by her sons George and Nikos Papandreou, Anna Diamantopoulou for PASOK and Fotini Sianou. &#x27;She wasn&#x27;t born Greek, she became Greek,&#x27; George Papandreou said of the women&#x27;s-movement activist.</content>
+  </entry>
+  <entry>
+    <title>Ναρκοθετημένη καγκελαρία</title>
+    <link href="https://www.kathimerini.gr/world/564468100/narkothetimeni-kagkelaria/"/>
+    <id>https://www.kathimerini.gr/world/564468100/narkothetimeni-kagkelaria/</id>
+    <updated>2026-09-19T21:37:04+00:00</updated>
+    <author><name>Ξένια Κουναλάκη</name></author>
     <category term="world"/>
-    <summary type="text">CNN and MS NOW journalists were denied access to the White House, a day after Donald Trump announced a ban on three outlets. The president cited displeasure over their reporting.</summary>
+    <summary type="text">Η Ξένια Κουναλάκη αναλύει πώς οι εκλογές σε Βερολίνο και Μεκλεμβούργο-Δυτική Πομερανία, μετά τον θρίαμβο της AfD στη Σαξονία-Άνχαλτ, μπορεί να στοιχίσουν την καγκελαρία στον Φρίντριχ Μερτς. Η CDU κινδυνεύει να μείνει κάτω από το 5% στο Μεκλεμβούργο, όπου η AfD αγγίζει το 37% και έχει αχρηστεύσει το Brandmauer. Τρία σενάρια διαδοχής, με τους Χέντρικ Βιστ και Μάρκους Ζέντερ να μπλοκάρουν ο ένας τον άλλον.</summary>
+    <content type="text">Xenia Kounalaki analyses how the Berlin and Mecklenburg-Western Pomerania elections, after the AfD&#x27;s triumph in Saxony-Anhalt, could cost Friedrich Merz the chancellorship. The CDU risks falling below 5% in Mecklenburg, where the AfD nears 37% and has neutralised the Brandmauer. Three succession scenarios circulate, with Hendrik Wüst and Markus Söder blocking each other.</content>
   </entry>
   <entry>
-    <title>CNN: Εκθεση από ΑΙ παραλίγο να οδηγήσει σε σύγκρουση ΗΠΑ-Κίνας</title>
-    <link href="https://www.kathimerini.gr/world/564468937/cnn-ekthesi-apo-ai-paraligo-na-odigisei-se-sygkroysi-ipa-kinas/"/>
-    <id>urn:greek-news-aggregator:f64b17f2e23d</id>
-    <updated>2026-09-19T10:04:24+00:00</updated>
-    <published>2026-09-19T10:04:24+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">According to CNN, an AI-generated intelligence report nearly triggered a US-China clash amid the war with Iran. The US military prepared to intercept a Chinese ship allegedly carrying nuclear-related components.</summary>
-  </entry>
-  <entry>
-    <title>Γιατί μίλησε τώρα ο Μητσοτάκης</title>
-    <link href="https://www.kathimerini.gr/economy/local/564467662/giati-milise-tora-o-mitsotakis/"/>
-    <id>urn:greek-news-aggregator:d7f07a526a44</id>
-    <updated>2026-09-19T12:45:00+00:00</updated>
-    <published>2026-09-19T12:45:00+00:00</published>
-    <author><name>Νίκος Φιλιππίδης</name></author>
-    <category term="economy"/>
-    <summary type="text">An analysis of Mitsotakis's early announcement of heating-oil subsidies frames it as recognition of the energy risk. It cites a JPMorgan report describing a deadlock in the oil market amid the Iran conflict.</summary>
-  </entry>
-  <entry>
-    <title>Το ντίζελ γίνεται η αχίλλειος πτέρνα του Τραμπ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564467737/to-ntizel-ginetai-i-achilleios-pterna-toy-tramp/"/>
-    <id>urn:greek-news-aggregator:134894bdb655</id>
-    <updated>2026-09-19T10:52:00+00:00</updated>
-    <published>2026-09-19T10:52:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">European diesel prices hit a record $210/barrel and topped $6/gallon in the US, posing a fresh inflation risk. Diesel powers transport, shipping, farming and industry, making its rise more dangerous than gasoline's.</summary>
-  </entry>
-  <entry>
-    <title>«Σεμινάρια» ΑΙ στο Μαξίμου</title>
-    <link href="https://www.kathimerini.gr/politics/government/564467263/seminaria-ai-sto-maximoy/"/>
-    <id>urn:greek-news-aggregator:1e5a3098bcd4</id>
-    <updated>2026-09-19T10:56:22+00:00</updated>
-    <published>2026-09-19T10:56:22+00:00</published>
-    <author><name>Σταύρος Παπαντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">Officials at the Maximos Mansion quietly attended seminars on using AI tools, run by the UAE firm Inception (part of the G42 group). The stated aim was more effective government operations and higher productivity.</summary>
-  </entry>
-  <entry>
-    <title>Τουρισμός: Οι αυξημένες αφίξεις και οι πίεσεις στις τιμές</title>
-    <link href="https://www.kathimerini.gr/economy/local/564467698/toyrismos-oi-ayximenes-afixeis-kai-oi-pieseis-stis-times/"/>
-    <id>urn:greek-news-aggregator:89f66b63a690</id>
-    <updated>2026-09-19T11:18:00+00:00</updated>
-    <published>2026-09-19T11:18:00+00:00</published>
+    <title>Αγάπη Σμπώκου στην «Κ»: Πώς θα συνεχιστεί η επιτυχία στον τουρισμό</title>
+    <link href="https://www.kathimerini.gr/economy/564468445/agapi-smpokoy-stin-k-pos-tha-synechistei-i-epitychia-ston-toyrismo/"/>
+    <id>https://www.kathimerini.gr/economy/564468445/agapi-smpokoy-stin-k-pos-tha-synechistei-i-epitychia-ston-toyrismo/</id>
+    <updated>2026-09-20T11:18:18+00:00</updated>
     <author><name>Ηλίας Μπέλλος</name></author>
     <category term="economy"/>
-    <summary type="text">European tourism faces a 'Great Repricing', as record revenues no longer easily convert into profit. In Greece, despite rising arrivals, average spend per trip fell, squeezing margins.</summary>
+    <summary type="text">Η πρόεδρος του ΣΕΤΕ Αγάπη Σμπώκου, σε συνέντευξη στην «Κ», χαρακτηρίζει τον τουρισμό «αδιαπραγμάτευτη επιτυχία» και εργαλείο soft power, αλλά ζητά μετατόπιση από τους αριθμούς αφίξεων στην παραγωγικότητα και την ποιότητα. Προτεραιότητες: κατάρτιση του ανθρώπινου δυναμικού, ευελιξία απέναντι στην εποχικότητα, ανταποδοτικότητα του τέλους κλιματικής ανθεκτικότητας σε τοπικές επενδύσεις και DMOs, και Ειδικό Χωροταξικό που κατευθύνει αντί να αποτρέπει την ανάπτυξη.</summary>
+    <content type="text">SETE president Agapi Sbokou, interviewed by Kathimerini, calls tourism a &#x27;non-negotiable success&#x27; and soft-power tool but urges a shift from arrival numbers to productivity and quality. Priorities: workforce training, flexibility against seasonality, channelling the climate-resilience levy into local investment and DMOs, and a spatial framework that guides rather than blocks development.</content>
   </entry>
   <entry>
-    <title>Αχμάντ Αγουάντ μπιν Μουμπάρακ στην «Κ»: Ο λαός της Υεμένης δεν στηρίζει τη δράση των Χούθι</title>
-    <link href="https://www.kathimerini.gr/opinion/interviews/564467413/achmant-agoyant-mpin-moymparak-stin-k-o-laos-tis-yemenis-den-stirizei-ti-drasi-ton-choythi/"/>
-    <id>urn:greek-news-aggregator:9d09e815e4e3</id>
-    <updated>2026-09-19T18:53:43+00:00</updated>
-    <published>2026-09-19T18:53:43+00:00</published>
-    <author><name>Αθανάσιος Κατσικίδης</name></author>
-    <category term="world"/>
-    <summary type="text">In an interview with Kathimerini, Yemen's former PM Ahmed Awad bin Mubarak argues the people do not support the Houthis. He warns their advance toward the Bab al-Mandeb strait is reshaping the strategic reality in the Red Sea.</summary>
-  </entry>
-  <entry>
-    <title>Δανία: Η Γροιλανδία δεν απεμπολεί την κυριαρχία της μετά τη συμφωνία με τις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/world/564469126/dania-i-groilandia-den-apempolei-tin-kyriarchia-tis-meta-ti-symfonia-me-tis-ipa/"/>
-    <id>urn:greek-news-aggregator:8aed7abd2b16</id>
-    <updated>2026-09-19T13:26:55+00:00</updated>
-    <published>2026-09-19T13:26:55+00:00</published>
+    <title>Ιράν: Ενημερώθηκε πως οι ΗΠΑ ετοιμάζονται να επαναλάβουν τις επιχειρήσεις εναντίον του</title>
+    <link href="https://www.kathimerini.gr/world/564469948/iran-enimerothike-pos-oi-ipa-etoimazontai-na-epanalavoyn-tis-epicheiriseis-enantion-toy/"/>
+    <id>https://www.kathimerini.gr/world/564469948/iran-enimerothike-pos-oi-ipa-etoimazontai-na-epanalavoyn-tis-epicheiriseis-enantion-toy/</id>
+    <updated>2026-09-20T15:31:33+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Denmark welcomed a 'binding' deal with the US that, per Trump, grants 'permanent control' over Greenland's security and bars Russian or Chinese bases. Denmark and Greenland stress they are not surrendering sovereignty.</summary>
+    <summary type="text">Η κεντρική διοίκηση του ιρανικού στρατού ανακοίνωσε ότι η Τεχεράνη ενημερώθηκε πως οι ΗΠΑ, με στήριξη περιφερειακών χωρών, ετοιμάζονται να επαναλάβουν τις επιχειρήσεις εναντίον του Ιράν. Προειδοποίησε ότι κάθε επίθεση θα απαντηθεί με συνεχή πλήγματα σε αμερικανικές βάσεις και ότι όποια χώρα της περιοχής τη στηρίξει θα θεωρηθεί συμμέτοχος στη σύγκρουση.</summary>
+    <content type="text">Iran&#x27;s army central command said Tehran has been informed that the US, backed by some regional states, is preparing to resume operations against Iran. It warned that any attack would be met with continuous strikes on US bases and that any regional country supporting it would be treated as a party to the conflict.</content>
   </entry>
   <entry>
-    <title>Μητσοτάκης για οίκους αξιολόγησης: Οι αναβαθμίσεις επιβεβαιώνουν την ορθότητα της οικονομικής πολιτικής</title>
-    <link href="https://www.kathimerini.gr/politics/564468967/mitsotakis-gia-oikoys-axiologisis-oi-anavathmiseis-epivevaionoyn-tin-orthotita-tis-oikonomikis-politikis/"/>
-    <id>urn:greek-news-aggregator:98e832e51c3e</id>
-    <updated>2026-09-19T10:38:00+00:00</updated>
-    <published>2026-09-19T10:38:00+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Kyriakos Mitsotakis welcomed a double upgrade of Greece's economic outlook by Moody's and of its credit rating by Scope within 24 hours. He called them confirmation that the government's economic policy is sound and the country stable.</summary>
+    <title>Ομηροι των ατάκτων</title>
+    <link href="https://www.kathimerini.gr/world/564468169/omiroi-ton-atakton/"/>
+    <id>https://www.kathimerini.gr/world/564468169/omiroi-ton-atakton/</id>
+    <updated>2026-09-20T10:28:43+00:00</updated>
+    <author><name>Βασίλης Κωστούλας</name></author>
+    <category term="world"/>
+    <summary type="text">Ο Βασίλης Κωστούλας εξηγεί πώς οι Χούθι αντεπιτέθηκαν και άλλαξαν τις ισορροπίες στον Κόλπο υπέρ του Ιράν: επιθέσεις με drones σε σαουδαραβικές πετρελαϊκές εγκαταστάσεις, κατάληψη του λιμανιού της Μόχα και της νήσου Περίμ στην είσοδο του Μπαμπ ελ Μαντέμπ. Με την Ερυθρά Θάλασσα να αποτελεί την εναλλακτική του Ορμούζ για το σαουδαραβικό πετρέλαιο, το «μπλοκ» Τεχεράνης-Χούθι απειλεί να στερήσει και τα τελευταία περάσματα.</summary>
+    <content type="text">Vassilis Kostoulas explains how the Houthis counterattacked and shifted the Gulf balance in Iran&#x27;s favour: drone strikes on Saudi oil facilities, the capture of Mocha port and Perim island at the mouth of Bab el-Mandeb. With the Red Sea serving as the alternative to Hormuz for Saudi oil, the Tehran–Houthi bloc threatens to choke off the last remaining passages.</content>
   </entry>
   <entry>
-    <title>Ολοκληρώθηκε η πολυεθνική διακλαδική άσκηση «Medusa 15/2026» [εικόνες – βίντεο]</title>
-    <link href="https://www.kathimerini.gr/politics/amyna/564467056/oloklirothike-i-polyethniki-diakladiki-askisi-medusa-15-2026-eikones-vinteo/"/>
-    <id>urn:greek-news-aggregator:94da9c7880ac</id>
-    <updated>2026-09-18T20:34:24+00:00</updated>
-    <published>2026-09-18T20:34:24+00:00</published>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">The multinational joint exercise 'Medusa 15/2026' concluded off Crete and the Myrtoan Sea, involving Greece, Egypt, Cyprus, France and Italy. Its aim was to boost cooperation and interoperability of the armed forces.</summary>
+    <title>Βουλιαγμένη: Πέθανε μετά από ξυλοδαρμό για μία ξαπλώστρα</title>
+    <link href="https://www.kathimerini.gr/society/564469780/voyliagmeni-pethane-meta-apo-xylodarmo-gia-mia-xaplostra/"/>
+    <id>https://www.kathimerini.gr/society/564469780/voyliagmeni-pethane-meta-apo-xylodarmo-gia-mia-xaplostra/</id>
+    <updated>2026-09-20T12:31:00+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society"/>
+    <summary type="text">Ένας 82χρονος πέθανε στο Ασκληπιείο Βούλας μετά από ξυλοδαρμό που δέχθηκε από 76χρονο και 21χρονη με αφορμή μία ξαπλώστρα στην ακτή Βουλιαγμένης. Το περιστατικό έγινε λίγο πριν τις 10 το πρωί· ο 82χρονος κατέληξε στις 11. Οι δύο δράστες και ο υπάλληλος ασφαλείας προσήχθησαν στο ΑΤ Βάρης-Βούλας-Βουλιαγμένης.</summary>
+    <content type="text">An 82-year-old died at Asklipieio hospital in Voula after being beaten by a 76-year-old man and a 21-year-old woman in a dispute over a sunbed at Vouliagmeni beach. The incident occurred shortly before 10 a.m.; he died at 11. The two assailants and a security guard were taken to the Vari-Voula-Vouliagmeni police station.</content>
   </entry>
   <entry>
-    <title>AfD και Μόσχα προετοιμάζουν επαφές για το ρωσικό αέριο στη Γερμανία</title>
-    <link href="https://www.kathimerini.gr/world/564466900/poytin-kai-afd-proetoimazoyn-synomilies-gia-tin-epistrofi-toy-rosikoy-fysikoy-aerioy-sti-germania/"/>
-    <id>urn:greek-news-aggregator:f429e692be02</id>
-    <updated>2026-09-18T18:52:16+00:00</updated>
-    <published>2026-09-18T18:52:16+00:00</published>
+    <title>Γιατί ο Τραμπ θέλει τα «κλειδιά» της Γροιλανδίας</title>
+    <link href="https://www.kathimerini.gr/world/564469402/giati-o-tramp-thelei-ta-kleidia-tis-groilandias/"/>
+    <id>https://www.kathimerini.gr/world/564469402/giati-o-tramp-thelei-ta-kleidia-tis-groilandias/</id>
+    <updated>2026-09-19T21:19:01+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Putin's economic envoy and the far-right AfD leadership are preparing a meeting on resuming Russian gas supplies to Germany, according to Reuters. It would happen only if a Russia–Ukraine peace framework precedes it.</summary>
+    <category term="world"/>
+    <summary type="text">Οι ΗΠΑ και η Δανία κατέληξαν σε συμφωνία για διεύρυνση της αμερικανικής στρατιωτικής παρουσίας στη Γροιλανδία, μακριά από την εξαγορά ή προσάρτηση που αξίωνε ο Τραμπ. Ο Τραμπ μιλά για «μόνιμο έλεγχο» σε ζητήματα ασφαλείας και βέτο σε βάσεις και επενδύσεις αντιπάλων, ενώ η Μέτε Φρεντέρικσεν τονίζει ότι το κείμενο αναγνωρίζει πλήρως τη δανική κυριαρχία. Πίσω από την «εμμονή»: η Κίνα και οι σπάνιες γαίες.</summary>
+    <content type="text">The US and Denmark reached a deal to expand the American military presence in Greenland, far short of the purchase or annexation Trump demanded. Trump speaks of &#x27;permanent control&#x27; over security matters and a veto on rival bases and investments, while Mette Frederiksen stresses the text fully recognises Danish sovereignty. Behind the &#x27;obsession&#x27;: China and rare earths.</content>
+  </entry>
+  <entry>
+    <title>Στρεβλώσεις στη φορολογία των ακινήτων</title>
+    <link href="https://www.kathimerini.gr/economy/564468544/strevloseis-sti-forologia-ton-akiniton/"/>
+    <id>https://www.kathimerini.gr/economy/564468544/strevloseis-sti-forologia-ton-akiniton/</id>
+    <updated>2026-09-20T10:55:50+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary type="text">Ο Προκόπης Χατζηνικολάου καταγράφει τις στρεβλώσεις της φορολογίας ακινήτων εν μέσω στεγαστικής κρίσης: μεγάλο απόθεμα κλειστών κατοικιών, «παγωμένοι» έως το 2030 ο ΦΠΑ στα νεόδμητα και ο φόρος υπεραξίας, μαύρο χρήμα στην οικοδομή, και πολιτική που δίνει κίνητρα χωρίς αντικίνητρα. Παραδείγματα από Γαλλία (φόρος κενών κατοικιών 17-34%) και Ισπανία (δημοτικές προσαυξήσεις).</summary>
+    <content type="text">Prokopis Hatzinikolaou catalogues distortions in property taxation amid the housing crisis: a large stock of closed homes, VAT on new builds and capital-gains tax &#x27;frozen&#x27; until 2030, black money in construction, and a policy of incentives with no disincentives. He cites France&#x27;s vacant-home tax (17–34%) and Spain&#x27;s municipal surcharges.</content>
+  </entry>
+  <entry>
+    <title>Να απαγορευθεί η AfD;</title>
+    <link href="https://www.kathimerini.gr/world/564468106/na-apagoreythei-i-afd/"/>
+    <id>https://www.kathimerini.gr/world/564468106/na-apagoreythei-i-afd/</id>
+    <updated>2026-09-20T11:29:19+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Δοκίμιο για το αν πρέπει να απαγορευθεί η AfD μετά τη νίκη της στη Σαξονία-Άνχαλτ: «επειδή είναι η Γερμανία» — λόγω Χίτλερ, δύο δικτατοριών και του ρόλου της ως κεντρικής δύναμης της Ευρώπης. Η Άλις Βάιντελ υπόσχεται έξοδο από ευρώ και Σένγκεν μετά το 2029. Ο συγγραφέας θυμάται τον Ραλφ Ντάρεντορφ: η γερμανική δημοκρατία θα δοκιμαστεί πραγματικά μόνο σε μεγάλη οικονομική κρίση — και η χώρα πλησιάζει σε μία.</summary>
+    <content type="text">An essay on whether the AfD should be banned after its Saxony-Anhalt win: &#x27;because it&#x27;s Germany&#x27; — Hitler, two dictatorships and its role as Europe&#x27;s central power. Alice Weidel promises to leave the euro and Schengen after 2029. The author recalls Ralf Dahrendorf&#x27;s view that German democracy would be truly tested only by a major economic crisis — and the country is nearing one.</content>
+  </entry>
+  <entry>
+    <title>Η Ελλάδα στον χάρτη της βιοτεχνολογίας</title>
+    <link href="https://www.kathimerini.gr/economy/564468535/i-ellada-ston-charti-tis-viotechnologias/"/>
+    <id>https://www.kathimerini.gr/economy/564468535/i-ellada-ston-charti-tis-viotechnologias/</id>
+    <updated>2026-09-20T12:56:52+00:00</updated>
+    <author><name>Δέσποινα Κόντη</name></author>
+    <category term="economy"/>
+    <summary type="text">Ρεπορτάζ από το πάρκο βιοτεχνολογίας ALTP της ELPEN στα Σπάτα, όπου η νεοφυής Anacalypsis Therapeutics της Αλεξίας-Βικτώριας Πολυσίδη και του Χάρντι Ραΐνταουτ ξεκινά προκλινικές δοκιμές πεπτιδίου που αναστρέφει τη νευροεκφύλιση σε κυτταρικά μοντέλα της νόσου Πάρκινσον. Στόχος ένα φάρμακο που επιβραδύνει ή αναστρέφει τη νόσο, αναπτυγμένο εξ ολοκλήρου στην Ελλάδα.</summary>
+    <content type="text">A report from ELPEN&#x27;s ALTP biotech park in Spata, where the startup Anacalypsis Therapeutics of Alexia-Victoria Polissidis and Hardy Rideout begins preclinical trials of a peptide that reverses neurodegeneration in cell models of Parkinson&#x27;s. The goal is a disease-modifying drug developed entirely in Greece.</content>
+  </entry>
+  <entry>
+    <title>Ρωσία: Σήμερα η τελευταία μέρα των βουλευτικών εκλογών</title>
+    <link href="https://www.kathimerini.gr/world/564469639/rosia-simera-i-teleytaia-mera-ton-voyleytikon-eklogon/"/>
+    <id>https://www.kathimerini.gr/world/564469639/rosia-simera-i-teleytaia-mera-ton-voyleytikon-eklogon/</id>
+    <updated>2026-09-20T09:24:23+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Τρίτη και τελευταία ημέρα των βουλευτικών εκλογών στη Ρωσία για τα 450 μέλη της Δούμας, των πρώτων μετά την εισβολή στην Ουκρανία, με διεξαγωγή και στα προσαρτημένα ουκρανικά εδάφη και το αντιπολεμικό Γιάμπλοκο αποκλεισμένο. Η ημέρα ξημέρωσε με «άνευ προηγουμένου» επίθεση 1.600+ ουκρανικών drones, 450 προς τη Μόσχα· δύο νεκροί στην περιφέρεια και ζημιές σε διυλιστήριο της πρωτεύουσας.</summary>
+    <content type="text">Third and final day of Russia&#x27;s parliamentary elections for the 450-seat Duma, the first since the invasion of Ukraine, held also in annexed Ukrainian territories with the anti-war Yabloko party barred. The day opened with an &#x27;unprecedented&#x27; attack of 1,600+ Ukrainian drones, 450 aimed at Moscow; two dead in the region and damage to a refinery in the capital.</content>
+  </entry>
+  <entry>
+    <title>Πλησιάζουμε όλο και πιο κοντά στην κόλαση</title>
+    <link href="https://www.kathimerini.gr/culture/564468739/plisiazoyme-olo-kai-pio-konta-stin-kolasi/"/>
+    <id>https://www.kathimerini.gr/culture/564468739/plisiazoyme-olo-kai-pio-konta-stin-kolasi/</id>
+    <updated>2026-09-20T10:16:55+00:00</updated>
+    <author><name>Αιμίλιος Χαρμπής</name></author>
+    <category term="culture"/>
+    <summary type="text">Ο Ίλια Κρζανόφσκι, Αργυρός Λέων σκηνοθεσίας στη Βενετία για το «Dau», μιλά στην «Κ»: η ταινία, εμπνευσμένη από τη σοβιετική πρωτοπορία και τοποθετημένη στην Αγία Πετρούπολη της δεκαετίας του 1930, «στέκεται ενάντια στον ολοκληρωτισμό». Απαντά στις κατηγορίες της ουκρανικής κυβέρνησης για σχέσεις με ρωσικά δίκτυα επιρροής ως «παρεξήγηση», επικαλούμενος την Εβραία μητέρα του από την Ουκρανία, και κατηγορεί τον Πούτιν για την πορεία της Ρωσίας.</summary>
+    <content type="text">Ilya Khrzhanovsky, Silver Lion for directing at Venice for &#x27;Dau&#x27;, talks to Kathimerini: the film, inspired by the Soviet avant-garde and set in 1930s St Petersburg, &#x27;stands against totalitarianism&#x27;. He calls the Ukrainian government&#x27;s accusations of ties to Russian influence networks a &#x27;misunderstanding&#x27;, citing his Ukrainian-born Jewish mother, and blames Putin for Russia&#x27;s course.</content>
+  </entry>
+  <entry>
+    <title>Ξαναζεσταμένα μπράτσα</title>
+    <link href="https://www.kathimerini.gr/opinion/564467260/xanazestamena-mpratsa/"/>
+    <id>https://www.kathimerini.gr/opinion/564467260/xanazestamena-mpratsa/</id>
+    <updated>2026-09-19T12:56:00+00:00</updated>
+    <author><name>Άρης Αλεξανδρής</name></author>
+    <category term="opinion"/>
+    <summary type="text">Ο Άρης Αλεξανδρής βλέπει στην αποφυλάκιση και το νέο κόμμα του Ηλία Κασιδιάρη «ξαναζεσταμένα μπράτσα» χωρίς τίποτα επαναστατικό: ένας καταδικασμένος που ψάχνει νομικό παραθυράκι δεν εμπνέει δέος. Παραμένει επικίνδυνος και δηλητηριώδης, αλλά έχει γίνει μέρος του συστήματος που διαθέτει πλέον αντισώματα· η κουβέντα για την επάνοδό του έχει περισσότερη δυναμική από την ίδια την επάνοδο.</summary>
+    <content type="text">Aris Alexandris sees in Ilias Kasidiaris&#x27;s release and new party &#x27;reheated biceps&#x27; with nothing revolutionary: a convicted man hunting for a legal loophole inspires no awe. He remains dangerous and toxic, but has become part of a system that now has antibodies; the talk of his comeback has more momentum than the comeback itself.</content>
   </entry>
 </feed>
