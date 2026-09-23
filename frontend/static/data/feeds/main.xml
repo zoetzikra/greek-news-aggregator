@@ -1,207 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top stories 2026-09-22</title>
+  <title>Greek News Aggregator — Top stories 2026-09-23</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <id>urn:greek-news-aggregator:2026-09-22</id>
-  <updated>2026-09-22T13:39:09+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-09-23</id>
+  <updated>2026-09-23T11:15:46+00:00</updated>
   <entry>
-    <title>Μαρινάκης: Μέτρα για τα καύσιμα τις επόμενες ημέρες – Πρώτη παρέμβαση στο πετρέλαιο θέρμανσης</title>
-    <link href="https://www.kathimerini.gr/politics/564473014/marinakis-metra-gia-ta-kaysima-tis-epomenes-imeres-proti-paremvasi-sto-petrelaio-thermansis/"/>
-    <id>https://www.kathimerini.gr/politics/564473014/marinakis-metra-gia-ta-kaysima-tis-epomenes-imeres-proti-paremvasi-sto-petrelaio-thermansis/</id>
-    <updated>2026-09-22T11:25:31+00:00</updated>
+    <title>Μετωπική για τα καύσιμα</title>
+    <link href="https://www.kathimerini.gr/politics/government/564474478/metopiki-gia-ta-kaysima/"/>
+    <id>https://www.kathimerini.gr/politics/government/564474478/metopiki-gia-ta-kaysima/</id>
+    <updated>2026-09-23T07:11:24+00:00</updated>
+    <author><name>Αντώνης Αντζολέτος</name></author>
+    <category term="politics"/>
+    <summary type="text">Η άνοδος των τιμών των καυσίμων φουντώνει την πολιτική αντιπαράθεση: ο Κυριάκος Μητσοτάκης, από το Σαν Φρανσίσκο, προειδοποίησε ότι η πρόοδος είναι «εύθραυστη» και ότι η υπερβολική δαπάνη θα προκαλούσε αντίδραση των αγορών ομολόγων. Ο Αλέξης Τσίπρας ζητά πλαφόν στα διυλιστήρια, έκτακτη φορολόγηση υπερκερδών άνω του 1,5 δισ., μείωση του ΕΦΚ στο μισό και ΦΠΑ 13%, με όριο 1,40 ευρώ στο πετρέλαιο θέρμανσης. Ο Παύλος Μαρινάκης απάντησε σκωπτικά ότι «όλη η Ευρώπη περίμενε ένα βίντεο του κ. Τσίπρα».</summary>
+    <content type="text">Rising fuel prices are fuelling a political clash: from San Francisco Kyriakos Mitsotakis warned that Greece&#x27;s progress is «fragile» and overspending would provoke the bond markets. Alexis Tsipras demands a margin cap on refineries, a windfall tax on refinery profits above 1.5 billion euros, halving excise duty and a 13% VAT rate, with heating oil capped at 1.40 euros a litre. Spokesman Pavlos Marinakis retorted that «all of Europe was waiting for a video from Mr Tsipras».</content>
+  </entry>
+  <entry>
+    <title>Αλ. Τσίπρας: Μόνο η ΕΛΑΣ μπορεί να νικήσει τον Κυριάκο Μητσοτάκη</title>
+    <link href="https://www.kathimerini.gr/politics/564475363/al-tsipras-mono-i-elas-mporei-na-nikisei-ton-kyriako-mitsotaki/"/>
+    <id>https://www.kathimerini.gr/politics/564475363/al-tsipras-mono-i-elas-mporei-na-nikisei-ton-kyriako-mitsotaki/</id>
+    <updated>2026-09-23T11:06:15+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary type="text">Ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης προανήγγειλε στον ΣΚΑΪ ότι το οικονομικό επιτελείο θα ανακοινώσει τις επόμενες ημέρες πακέτο μέτρων για τα καύσιμα, με πρώτη παρέμβαση στο πετρέλαιο θέρμανσης ώστε «να ανοίξει χαμηλότερα από ό,τι έκλεισε φέτος», δηλαδή κάτω από 1,75 ευρώ, ενώ οι προβλέψεις το τοποθετούν πάνω από 2 ευρώ. Παραδέχθηκε ότι «έχουν δίκιο οι πολίτες που ζητάνε παραπάνω», αλλά επέμεινε ότι οι αποφάσεις πρέπει να σέβονται τα δημοσιονομικά περιθώρια. Απέρριψε τις προτάσεις Τσίπρα για τον ΕΦΚ, αντιπαραβάλλοντάς τες με τη φορολογική πολιτική της περιόδου ΣΥΡΙΖΑ.</summary>
-    <content type="text">Government spokesman Pavlos Marinakis told SKAI that the economic team will announce a fuel-relief package in the coming days, starting with heating oil so that it opens the season below this year&#x27;s closing price of 1.75 euros a litre, against forecasts above 2 euros. He conceded that citizens «are right to ask for more», but insisted decisions must respect fiscal limits. He dismissed Alexis Tsipras&#x27;s excise-duty proposals by contrasting them with SYRIZA-era tax policy.</content>
+    <summary type="text">Σε συνέντευξη στον ΣΚΑΪ, ο Αλέξης Τσίπρας, πρόεδρος της Ελληνικής Αριστερής Συμπαράταξης (ΕΛΑΣ), εκτίμησε ότι το πιθανότερο είναι ο Κυριάκος Μητσοτάκης να μην κάνει τρίτη θητεία και έθεσε το δίλημμα «ή εμείς ή κανείς», υποστηρίζοντας ότι μόνο η ΕΛΑΣ μπορεί να τον νικήσει. Είπε ότι η «βελόνα ήταν κολλημένη» για το ΠΑΣΟΚ του Ανδρουλάκη και ότι οι δεύτερες εκλογές θα μοιάζουν με εκείνες του Ιουνίου 2012 και θα δώσουν λύση. Στόχος της ΕΛΑΣ, είπε, είναι η πολιτική αλλαγή.</summary>
+    <content type="text">In a SKAI TV interview, Alexis Tsipras, leader of the Greek Left Alliance (ELAS), said Kyriakos Mitsotakis will most likely not win a third term and framed the choice as «us or no one», arguing only ELAS can beat him. He said the needle «was stuck» for Nikos Androulakis&#x27;s PASOK and predicted that a second election would resemble June 2012 and deliver a result. ELAS&#x27;s goal, he said, is political change.</content>
   </entry>
   <entry>
-    <title>Κυρ. Μητσοτάκης από Σαν Φρανσίσκο:  Η Ελλάδα δεν είναι πια το «μαύρο πρόβατο» της Ευρώπης – Στόχος η τρίτη θητεία</title>
-    <link href="https://www.kathimerini.gr/politics/564473380/kyr-mitsotakis-apo-san-fransisko-i-ellada-den-einai-pia-to-mayro-provato-tis-eyropis-stochos-i-triti-thiteia/"/>
-    <id>https://www.kathimerini.gr/politics/564473380/kyr-mitsotakis-apo-san-fransisko-i-ellada-den-einai-pia-to-mayro-provato-tis-eyropis-stochos-i-triti-thiteia/</id>
-    <updated>2026-09-22T14:54:19+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Χαμηλοί τόνοι από τον Ερντογάν στη Γενική Συνέλευση του ΟΗΕ</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564474460/chamiloi-tonoi-apo-ton-erntogan-sti-geniki-syneleysi-toy-oie/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564474460/chamiloi-tonoi-apo-ton-erntogan-sti-geniki-syneleysi-toy-oie/</id>
+    <updated>2026-09-23T06:30:44+00:00</updated>
+    <author><name>Μανώλης Κωστίδης</name></author>
     <category term="politics"/>
-    <summary type="text">Από το Σαν Φρανσίσκο, σε συζήτηση με την Connie Loizos του TechCrunch στην εκδήλωση της Endeavor Greece «The Future of AI Elsewhere», ο Κυριάκος Μητσοτάκης δήλωσε ότι η Ελλάδα «δεν είναι πια το μαύρο πρόβατο της Ευρώπης», επικαλούμενος ανάπτυξη, μείωση χρέους και κόστος δανεισμού, και ότι θα διεκδικήσει τρίτη θητεία με ορίζοντα την «Ελλάδα του 2030». Εδωσε έμφαση στην προσέλκυση επενδύσεων, στην επιστροφή Ελλήνων του εξωτερικού και στη σύνδεση με τη Σίλικον Βάλεϊ. Για το Ταμείο Ανάκαμψης ανέφερε το gov.gr ως παράδειγμα ψηφιακού μετασχηματισμού.</summary>
-    <content type="text">Speaking in San Francisco with TechCrunch&#x27;s Connie Loizos at the Endeavor Greece event «The Future of AI Elsewhere», Kyriakos Mitsotakis said Greece is «no longer Europe&#x27;s black sheep», citing growth, falling debt and borrowing costs, and confirmed he will seek a third term around a plan for «Greece 2030». He stressed attracting investment, bringing back Greeks working abroad and tying the country closer to Silicon Valley. On the Recovery Fund he pointed to gov.gr as proof of digital transformation.</content>
+    <summary type="text">Ο Ρετζέπ Ταγίπ Ερντογάν χαμήλωσε τους τόνους στη Γενική Συνέλευση του ΟΗΕ, ζητώντας επίλυση των ζητημάτων σε Αιγαίο και Ανατολική Μεσόγειο «στη βάση καλής γειτονίας και διεθνούς δικαίου» και επαναφέροντας την πρόταση για «Διάσκεψη για την Ανατολική Μεσόγειο». Κάλεσε όμως τη διεθνή κοινότητα να αναγνωρίσει το ψευδοκράτος στην Κύπρο και υποστήριξε ότι η Ευρώπη δεν μπορεί να είναι ασφαλής χωρίς την Τουρκία. Ηταν σκληρός απέναντι στο Ισραήλ, κάνοντας λόγο για «γενοκτονική νοοτροπία».</summary>
+    <content type="text">Recep Tayyip Erdogan lowered the tone at the UN General Assembly, calling for Aegean and Eastern Mediterranean issues to be resolved «on the basis of good neighbourliness and international law» and reviving his proposal for an «Eastern Mediterranean Conference». Yet he urged recognition of the breakaway Turkish Cypriot state and argued Europe cannot be secure without Turkey. He was harsh on Israel, speaking of a «genocidal mentality».</content>
   </entry>
   <entry>
-    <title>Δίκη για τα Τέμπη: «Πολλοί άνθρωποι δεν έκαναν σωστά τη δουλειά τους»</title>
-    <link href="https://www.kathimerini.gr/society/564473617/diki-gia-ta-tempi-polloi-anthropoi-den-kanane-sosta-tin-doyleia-toys/"/>
-    <id>https://www.kathimerini.gr/society/564473617/diki-gia-ta-tempi-polloi-anthropoi-den-kanane-sosta-tin-doyleia-toys/</id>
-    <updated>2026-09-22T15:50:28+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
-    <category term="society"/>
-    <summary type="text">Στη δίκη για τα Τέμπη κατέθεσε η Μαρία Ντόλκα, μητέρα της 18χρονης Αναστασίας Παπαγγελή: «Περίμενα 3,5 χρόνια. Το παιδί μου είχε ασφυκτικό θάνατο, χαροπάλευε για τέσσερα λεπτά κάτω από τα συντρίμμια». Κατηγόρησε τη Hellenic Train ότι «έστειλε σαπάκια», είπε ότι «το τρένο ήταν ένα κινούμενο φέρετρο» και ότι «αν υπήρχαν αυτά τα συστήματα, τώρα δεν θα ήμουν εδώ», κλείνοντας με την ευχή να πει στον τάφο της κόρης της «μπήκαν φυλακή, Αναστασία». Οι καταθέσεις συγγενών συνεχίζονται αύριο.</summary>
-    <content type="text">At the Tempi rail-disaster trial, Maria Dolka, mother of 18-year-old Anastasia Papangeli, testified: «I waited 3.5 years. My child died of asphyxiation, fighting for life for four minutes under the wreckage». She accused Hellenic Train of sending «wrecks», called the train «a moving coffin» and said «if those safety systems had existed I would not be here», ending with the wish to tell her daughter&#x27;s grave «they went to prison, Anastasia». Relatives&#x27; testimony continues tomorrow.</content>
-  </entry>
-  <entry>
-    <title>Ε.Ε.: Ανησυχία για την επάρκεια και τις τιμές των καυσίμων – Στο τραπέζι έκτακτο Συμβούλιο</title>
-    <link href="https://www.kathimerini.gr/world/564473605/e-e-anisychia-gia-tin-eparkeia-kai-tis-times-ton-kaysimon-sto-trapezi-ektakto-symvoylio/"/>
-    <id>https://www.kathimerini.gr/world/564473605/e-e-anisychia-gia-tin-eparkeia-kai-tis-times-ton-kaysimon-sto-trapezi-ektakto-symvoylio/</id>
-    <updated>2026-09-22T15:51:00+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="world"/>
-    <summary type="text">Ο επίτροπος Μεταφορών Απόστολος Τζιτζικώστας χαρακτήρισε «πρωτόγνωρη» την ενεργειακή κρίση στο Συμβούλιο υπουργών Μεταφορών στο Δουβλίνο και προειδοποίησε ότι θα ζητήσει έκτακτο Συμβούλιο αν επιδεινωθεί η κατάσταση, την οποία περιέγραψε ως «εξαιρετικά επικίνδυνη για την παγκόσμια οικονομία», τόσο για τις τιμές του αργού όσο και για τις τιμές και την επάρκεια των αεροπορικών καυσίμων. «Δεν έχουμε χρόνο για χάσιμο», τόνισε. Στο θέμα παρενέβη και ο Εμανουέλ Μακρόν.</summary>
-    <content type="text">EU Transport Commissioner Apostolos Tzitzikostas called the energy crisis «unprecedented» at the Transport Council in Dublin and warned he will request an emergency Council meeting if conditions worsen, describing the situation as «extremely dangerous for the global economy», both for crude prices and for the price and availability of jet fuel. «We have no time to lose», he said. French President Emmanuel Macron also weighed in.</content>
-  </entry>
-  <entry>
-    <title>«Η Ελλάδα δεν δέχεται απειλές»</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564472117/i-ellada-den-dechetai-apeiles/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564472117/i-ellada-den-dechetai-apeiles/</id>
-    <updated>2026-09-22T07:26:25+00:00</updated>
+    <title>«Συλλογική αντίδραση σε πηγές απειλών στις τρεις χώρες»</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564474490/syllogiki-antidrasi-se-piges-apeilon-stis-treis-chores/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564474490/syllogiki-antidrasi-se-piges-apeilon-stis-treis-chores/</id>
+    <updated>2026-09-23T06:56:28+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Διπλωματικές πηγές απαντούν στις νέες απειλές του Χακάν Φιντάν παραπέμποντας στη φράση Μητσοτάκη «δεν απειλούμε κανέναν, αλλά δεν δεχόμαστε κανείς να μας απειλεί». Ο Φιντάν επανέλαβε ότι η «στρατιωτικοποίηση» των νησιών του Ανατολικού Αιγαίου και η επικείμενη επανεκκίνηση ερευνών για την ηλεκτρική διασύνδεση Ελλάδας-Κύπρου βρίσκουν τις τουρκικές ένοπλες δυνάμεις «σε εξαιρετικά ευαίσθητη κατάσταση», ελπίζοντας «να μην προχωρήσει κανείς σε παράτολμη ενέργεια». Ο Βασίλης Νέδος βλέπει αρκετές ενδείξεις περαιτέρω επιδείνωσης των ελληνοτουρκικών σχέσεων.</summary>
-    <content type="text">Diplomatic sources answer Hakan Fidan&#x27;s latest threats by pointing to Mitsotakis&#x27;s line that Greece «threatens no one but accepts no threats». Fidan repeated that the «militarisation» of the eastern Aegean islands and the imminent restart of surveys for the Greece-Cyprus electricity interconnector leave Turkey&#x27;s armed forces «in an extremely sensitive state», hoping no one in Greece takes «a reckless step». Vassilis Nedos sees several signs that Greek-Turkish relations are set to deteriorate further.</content>
+    <summary type="text">Οι υπουργοί Αμυνας Ελλάδας, Αιγύπτου και Κύπρου (Δένδιας, Ζαχέρ, Πάλμας) υπέγραψαν στο Κάιρο κοινή δήλωση που δεσμεύει τις τρεις χώρες σε «ταχεία και ενιαία αντίδραση» σε πηγές απειλών κατά οποιασδήποτε από αυτές, με εντατικοποίηση της ανταλλαγής πληροφοριών και συντονισμό δυνατοτήτων. Ο Νίκος Δένδιας έγινε δεκτός από τον Αμπντέλ Φατάχ αλ Σίσι. Συζητήθηκαν η άσκηση «Μέδουσα» και συνεργασία στους εξοπλισμούς, ενώ η επόμενη τριμερής θα γίνει στην Ελλάδα.</summary>
+    <content type="text">The defence ministers of Greece, Egypt and Cyprus (Dendias, Zaher, Palmas) signed a joint declaration in Cairo committing to a «rapid and unified response» to threats against any of the three, with more intelligence sharing and coordinated capabilities. Nikos Dendias was received by President Abdel Fattah al-Sisi. They discussed the «Medusa» exercise and defence-industrial cooperation; the next trilateral will be held in Greece.</content>
   </entry>
   <entry>
-    <title>Απειλούν με αντίμετρα στην «Ασπίδα του Αχιλλέα»</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564467968/apeiloyn-me-antimetra-stin-aspida-toy-achillea/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564467968/apeiloyn-me-antimetra-stin-aspida-toy-achillea/</id>
-    <updated>2026-09-21T21:26:03+00:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
+    <title>Με σφραγίδα από την Ε.Ε. τα δύο θαλάσσια πάρκα</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564474493/me-sfragida-apo-tin-e-e-ta-dyo-thalassia-parka/"/>
+    <id>https://www.kathimerini.gr/visual/infographics/564474493/me-sfragida-apo-tin-e-e-ta-dyo-thalassia-parka/</id>
+    <updated>2026-09-23T12:15:40+03:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Τουρκική πηγή δηλώνει στην «Κ» ότι το ζήτημα των οπλικών συστημάτων στα νησιά και η επέκταση της ελληνοϊσραηλινής συνεργασίας θα κυριαρχήσουν στην ελληνοτουρκική ατζέντα, μετά τις δηλώσεις Φιντάν ότι «η στρατιωτικοποίηση νησιών με αποστρατιωτικοποιημένο καθεστώς αποτελεί για εμάς απειλή». Αναλυτές θεωρούν αναμενόμενο να εξετάσει η Αγκυρα «στρατιωτικά αντίμετρα». Ο πρώην πρέσβης Χασάν Γκιουγούς μιλά για «νέο αρνητικό παράγοντα»: ισραηλινά όπλα, «Ασπίδα του Αχιλλέα», γαλλικά συστήματα και αυξανόμενη στρατιωτικοποίηση.</summary>
-    <content type="text">A Turkish source tells Kathimerini that weapons systems on the islands and Greece&#x27;s expanding cooperation with Israel will dominate the Greek-Turkish agenda, after Foreign Minister Fidan called the militarisation of demilitarised islands «a threat to us». Analysts expect Ankara to weigh «military countermeasures» against what it perceives as a threat. Former ambassador Hasan Gogus speaks of a «new negative factor»: Israeli arms, the «Achilles Shield» air-defence programme, French systems and growing militarisation of the islands.</content>
+    <summary type="text">Το υπουργείο Οικονομικών εντάσσει τα δύο εθνικά θαλάσσια πάρκα, Ιονίου και Νοτίου Αιγαίου, στο πρόγραμμα «Περιβάλλον και κλιματική αλλαγή 2021-2027» του ΕΤΠΑ, δίνοντάς τους ουσιαστικά ευρωπαϊκή σφραγίδα. Η απόφαση Παπαθανάση προβλέπει παραρτήματα σε Κύθηρα, Μήλο και Αμοργό και δράσεις διαχείρισης. Ο Βασίλης Νέδος σημειώνει ότι προηγείται της έκδοσης των Προεδρικών Διαταγμάτων, που η Αθήνα αναμένει να προκαλέσουν αντίδραση της Αγκυρας.</summary>
+    <content type="text">The Finance Ministry has placed Greece&#x27;s two national marine parks, in the Ionian and South Aegean, under the EU-funded «Environment and Climate Change 2021-2027» programme, effectively giving them a European stamp. Deputy Minister Nikos Papathanasis&#x27;s decision provides for branch offices on Kythera, Milos and Amorgos and initial management actions. Vassilis Nedos notes it precedes the presidential decrees that Athens expects to trigger a reaction from Ankara.</content>
   </entry>
   <entry>
-    <title>Σε νέο κύκλο νομισματικής σύσφιγξης εισέρχονται οι μεγάλες οικονομίες</title>
-    <link href="https://www.kathimerini.gr/economy/564472528/se-neo-kyklo-nomismatikis-sysfigxis-eiserchontai-oi-megales-oikonomies/"/>
-    <id>https://www.kathimerini.gr/economy/564472528/se-neo-kyklo-nomismatikis-sysfigxis-eiserchontai-oi-megales-oikonomies/</id>
-    <updated>2026-09-22T10:20:05+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Μετά τις αυξήσεις επιτοκίων από Fed, ΕΚΤ και Τράπεζα της Ιαπωνίας την περασμένη εβδομάδα, οι μεγάλες οικονομίες εισέρχονται σε νέο κύκλο νομισματικής σύσφιγξης για να συγκρατήσουν τον πληθωρισμό που πυροδοτεί ο πόλεμος στο Ιράν. Ο κύκλος ξεκινά από υψηλότερη βάση από το 2022, με τις αποδόσεις μακροπρόθεσμων ομολόγων στα υψηλότερα επίπεδα δεκαετιών. Η Τράπεζα της Αγγλίας κράτησε αμετάβλητα τα επιτόκια, αλλά προειδοποίησε ότι μπορεί να χρειαστούν περαιτέρω μέτρα, με κοινή ανησυχία μια νέα κρίση ακρίβειας από το ενεργειακό κόστος.</summary>
-    <content type="text">After last week&#x27;s rate hikes by the Fed, the ECB and the Bank of Japan, major economies are entering a new monetary tightening cycle to contain inflation fuelled by the Iran war. This cycle starts from a higher base than 2022, with long-term bond yields at multi-decade highs and markets pressing central bankers to show resolve. The Bank of England held rates but warned further action may be needed, amid shared fears that energy costs are seeding a new cost-of-living crisis.</content>
-  </entry>
-  <entry>
-    <title>Τσίπρας: Πλαφόν τώρα 1,4 ευρώ για το πετρέλαιο θέρμανσης – 1,8 ευρώ για το πετρέλαιο κίνησης</title>
-    <link href="https://www.kathimerini.gr/politics/564472747/tsipras-plafon-tora-1-4-eyro-gia-to-petrelaio-thermansis-1-8-eyro-gia-to-petrelaio-kinisis/"/>
-    <id>https://www.kathimerini.gr/politics/564472747/tsipras-plafon-tora-1-4-eyro-gia-to-petrelaio-thermansis-1-8-eyro-gia-to-petrelaio-kinisis/</id>
-    <updated>2026-09-22T08:30:08+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Αλέξης Τσίπρας, με βιντεοσκοπημένη δήλωση, πρότεινε πλαφόν 1,40 ευρώ το λίτρο στο πετρέλαιο θέρμανσης και 1,80 στο πετρέλαιο κίνησης, κατηγορώντας τον Κυριάκο Μητσοτάκη ότι «είπε ψέματα» πως η Ε.Ε. δεν επιτρέπει μείωση του ΕΦΚ και ότι το 1,75 που υποσχέθηκε είναι ήδη 50% ακριβότερο από πέρυσι. Πρότεινε τέσσερα εργαλεία: πλαφόν περιθωρίου κέρδους και στα διυλιστήρια, έκτακτη φορολόγηση υπερκερδών άνω του 1,5 δισ., μείωση του ΕΦΚ στο μισό και μείωση ΦΠΑ. Ζήτησε «κυβέρνηση που θα συγκρουστεί με τα καρτέλ».</summary>
-    <content type="text">In a video statement Alexis Tsipras proposed a price cap of 1.40 euros a litre on heating oil and 1.80 on diesel, accusing Kyriakos Mitsotakis of «lying» that the EU forbids an excise-duty cut and noting that the promised 1.75 is already 50% dearer than last October. He listed four tools: a profit-margin cap on refineries as well as petrol stations, a windfall tax on refinery profits that exceeded 1.5 billion euros in the last half-year, halving excise duty to the EU minimum, and cutting VAT. He called for «a government that will take on the cartels».</content>
-  </entry>
-  <entry>
-    <title>Σαουδική Αραβία: Επαναλειτουργεί ο αγωγός πετρελαίου Ανατολής – Δύσης</title>
-    <link href="https://www.kathimerini.gr/world/564473455/saoydiki-aravia-epanaleitoyrgei-o-agogos-petrelaioy-anatolis-dysis/"/>
-    <id>https://www.kathimerini.gr/world/564473455/saoydiki-aravia-epanaleitoyrgei-o-agogos-petrelaioy-anatolis-dysis/</id>
-    <updated>2026-09-22T15:23:08+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Η Σαουδική Αραβία επανεκκίνησε τον αγωγό Ανατολής-Δύσης, που είχε κλείσει στις 13 Σεπτεμβρίου μετά από επιθέσεις drones, και μπορεί να επαναλάβει τις εξαγωγές από το λιμάνι Γιανμπού στην Ερυθρά Θάλασσα, σύμφωνα με τρεις πηγές. Το Brent υποχώρησε πάνω από δύο δολάρια το βαρέλι, στο χαμηλότερο επίπεδο από τις 8 Σεπτεμβρίου. Μετά τη διαταραχή στα Στενά του Ορμούζ λόγω του πολέμου ΗΠΑ-Ισραήλ κατά του Ιράν, το Ριάντ επαναδρομολογούσε μέσω του αγωγού 4 εκατ. βαρέλια ημερησίως, περίπου 4% του παγκόσμιου εφοδιασμού· η Aramco επιδιώκει να επιστρέψει σε αυτό το επίπεδο.</summary>
-    <content type="text">Saudi Arabia has restarted its East-West pipeline, shut on 13 September after drone attacks, and may resume exports from the Red Sea port of Yanbu later today, three sources said. Brent futures fell more than two dollars a barrel to the lowest since 8 September. Since the disruption to Hormuz flows caused by the US-Israeli war on Iran, Riyadh had been rerouting 4 million barrels a day, about 4% of global supply, through the line; Aramco aims to return to that rate.</content>
-  </entry>
-  <entry>
-    <title>Στη Συμμαχία Ελλήνων παραπέμπει ενόψει κάλπης ο Κασιδιάρης</title>
-    <link href="https://www.kathimerini.gr/politics/564472093/sti-symmachia-ellinon-parapempei-enopsei-kalpis-o-kasidiaris/"/>
-    <id>https://www.kathimerini.gr/politics/564472093/sti-symmachia-ellinon-parapempei-enopsei-kalpis-o-kasidiaris/</id>
-    <updated>2026-09-22T07:00:00+00:00</updated>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Ηλίας Κασιδιάρης γνωστοποίησε ότι το κόμμα «Συμμαχία Ελλήνων» ήδη υπάρχει από το 2025, με καταστατικό κατατεθειμένο στον Αρειο Πάγο και τριμελή Κ.Ο. (Δημητροκάλλης, Βαλτογιάννης, Μανούσος), χωρίς να διευκρινίσει τη δική του σχέση με αυτό ή αν θα είναι υποψήφιος. Υποστήριξε ότι δεν μπορεί να αποκλειστεί, επικαλούμενος αλληλογραφία με τον ΟΑΣΕ και ότι οι προηγούμενες αποφάσεις «αφορούν έτερο νομικό πρόσωπο». Η Δώρα Αντωνίου σημειώνει ότι έτσι επιβεβαιώνεται πως ο καταδικασμένος για τη Χρυσή Αυγή εκπροσωπούνταν στη Βουλή ακόμη και από τη φυλακή.</summary>
-    <content type="text">Ilias Kasidiaris revealed that the «Alliance of Greeks» party has existed since 2025, with statutes filed at the Supreme Court and a three-member parliamentary group (Dimitrokallis, Valtogiannis, Manousos), without clarifying his own relationship to it or whether he will run. He argued it cannot be barred, citing correspondence with the OSCE and claiming earlier exclusion rulings «concern a different legal entity». Dora Antoniou notes this confirms the Golden Dawn convict was represented in parliament even from prison.</content>
-  </entry>
-  <entry>
-    <title>Ανατιμήσεις στη φέτα λόγω έλλειψης γάλακτος</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564472486/anatimiseis-sti-feta-logo-elleipsis-galaktos/"/>
-    <id>https://www.kathimerini.gr/visual/infographics/564472486/anatimiseis-sti-feta-logo-elleipsis-galaktos/</id>
-    <updated>2026-09-22T12:11:00+03:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
-    <category term="economy"/>
-    <summary type="text">Η φέτα κινδυνεύει να γίνει είδος πολυτελείας με λιανική τιμή έως 16 ευρώ το κιλό, αν επιβεβαιωθεί η προβλεπόμενη μείωση παραδόσεων πρόβειου γάλακτος κατά 80.000 τόνους φέτος, δηλαδή 20.000 τόνοι λιγότερη φέτα. Ο Μιχάλης Σαράντης, πρόεδρος της Διεπαγγελματικής Φέτας, προειδοποίησε στο συνέδριο του ΠΣΕ ότι τα αποθέματα ίσως δεν επαρκέσουν έως το τέλος του χρόνου, θέτοντας σε κίνδυνο τις εξαγωγές. Αιτία η ευλογιά (493.194 αιγοπρόβατα θανατώθηκαν έως 21 Αυγούστου) και ο αφθώδης πυρετός στη Λέσβο (80.151).</summary>
-    <content type="text">Feta risks becoming a luxury item with retail prices up to 16 euros a kilo if the forecast 80,000-tonne drop in sheep-milk deliveries this year materialises, meaning 20,000 tonnes less cheese. Michalis Sarantis, head of the Feta interprofessional body, warned at the Panhellenic Exporters&#x27; conference that stocks may not last to year-end, endangering exports. The cause is the culling of 493,194 sheep and goats for sheep pox by 21 August plus 80,151 for foot-and-mouth disease on Lesvos.</content>
-  </entry>
-  <entry>
-    <title>Μάρκο Ρούμπιο: «Οι ΗΠΑ είναι ανοιχτές σε συνομιλίες με το Ιράν στον ΟΗΕ»</title>
-    <link href="https://www.kathimerini.gr/world/564473470/marko-roympio-oi-ipa-einai-anoichtes-se-synomilies-me-to-iran-ston-oie/"/>
-    <id>https://www.kathimerini.gr/world/564473470/marko-roympio-oi-ipa-einai-anoichtes-se-synomilies-me-to-iran-ston-oie/</id>
-    <updated>2026-09-22T15:24:15+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ο Μάρκο Ρούμπιο επανέλαβε ότι οι ΗΠΑ είναι ανοιχτές σε συνομιλίες με το Ιράν στο περιθώριο της Γενικής Συνέλευσης του ΟΗΕ, χωρίς προγραμματισμένη συνάντηση, με στόχο να μην αποκτήσει ποτέ η Τεχεράνη πυρηνικό όπλο. Νωρίτερα το Ιράν πρότεινε, μέσω διαμεσολαβητών, την επαναλειτουργία των Στενών του Ορμούζ εντός επτά ημερών, εφόσον οι ΗΠΑ κάνουν αρχικά βήματα χαλάρωσης της στρατιωτικής πίεσης, στο πλαίσιο προσπάθειας αναζωογόνησης των διαπραγματεύσεων.</summary>
-    <content type="text">Marco Rubio reiterated that the US is open to talks with Iran on the sidelines of the UN General Assembly, with no meeting yet scheduled, the aim being that Tehran never obtains a nuclear weapon. Earlier, Iran proposed through mediators to reopen the Strait of Hormuz within seven days if the US takes initial steps to ease military pressure, as part of an effort to revive negotiations with Washington.</content>
-  </entry>
-  <entry>
-    <title>Επίδειξη ισχύος με τον «Θαλασσόλυκο» από την Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564472111/epideixi-ischyos-me-ton-thalassolyko-apo-tin-agkyra/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564472111/epideixi-ischyos-me-ton-thalassolyko-apo-tin-agkyra/</id>
-    <updated>2026-09-22T07:14:19+00:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="politics"/>
-    <summary type="text">Η Τουρκία ξεκίνησε την αεροναυτική άσκηση Denizkurdu-I/2026 («Θαλασσόλυκος») με 100 πλοία, 50 εναέρια μέσα και περίπου 14.000 στελέχη, ταυτόχρονα σε Μαύρη Θάλασσα, Αιγαίο και Ανατολική Μεσόγειο, έως τις 25 Σεπτεμβρίου, με πραγματικά πυρά. Αναλυτές τη διαβάζουν ως μήνυμα ισχύος προς Ελλάδα και Κύπρο, που εμβαθύνουν τις σχέσεις τους με το Ισραήλ, ενώ τουρκικά μαχητικά, ιπτάμενα τάνκερ και ραντάρ πέταξαν νοτίως της Κύπρου. Ο Ερντογάν έφτασε στη Νέα Υόρκη για τη Γενική Συνέλευση του ΟΗΕ.</summary>
-    <content type="text">Turkey launched its Denizkurdu-I/2026 («Sea Wolf») air-naval exercise with 100 ships, 50 aircraft and some 14,000 personnel, running simultaneously in the Black Sea, the Aegean and the Eastern Mediterranean until 25 September with live fire. Analysts read it as a show of force toward Greece and Cyprus, which are deepening ties with Israel, while Turkish fighters, tankers and AWACS flew south of Cyprus. Erdogan meanwhile arrived in New York for the UN General Assembly.</content>
-  </entry>
-  <entry>
-    <title>Ε.Ε.: Στη «μάχη» για τον νέο ευρωπαϊκό προϋπολογισμό – Η ελληνική πρόταση και οι διαφωνίες των «27»</title>
-    <link href="https://www.kathimerini.gr/economy/564473086/e-e-sti-machi-gia-ton-neo-eyropaiko-proypologismo-me-elliniki-protasi-gia-neoys-poroys/"/>
-    <id>https://www.kathimerini.gr/economy/564473086/e-e-sti-machi-gia-ton-neo-eyropaiko-proypologismo-me-elliniki-protasi-gia-neoys-poroys/</id>
-    <updated>2026-09-22T11:58:23+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="economy"/>
-    <summary type="text">Η Ελλάδα καταθέτει στο Συμβούλιο Γενικών Υποθέσεων πρόταση, που επεξεργάστηκε ο Κυριάκος Πιερρακάκης, να αξιοποιηθεί μέρος των εσόδων από τις δημοπρασίες ραδιοφάσματος (5G και μελλοντικά 6G) ως νέος ίδιος πόρος του επταετούς προϋπολογισμού της Ε.Ε. Οι «27» πιέζονται να κλείσουν τη διαπραγμάτευση έως το τέλος του έτους, όπως ζητά ο Αντόνιο Κόστα, πριν από τον κρίσιμο εκλογικό κύκλο του 2027, ενώ η Γερμανία και οι βόρειοι σύμμαχοί της ζητούν περικοπές εκατοντάδων δισ. Η Αλεξάνδρα Βουδούρη καταγράφει τις διαφωνίες.</summary>
-    <content type="text">Greece is tabling at the General Affairs Council a proposal drafted by Finance Minister Kyriakos Pierrakakis to channel part of the revenue from radio-spectrum auctions (5G and later 6G) into the EU&#x27;s seven-year budget as a new own resource. The 27 are under pressure to close the talks by year-end, as Council President Antonio Costa urges, ahead of the critical 2027 election cycle, while Germany and its northern allies demand cuts of hundreds of billions. Alexandra Voudouri maps the divisions.</content>
-  </entry>
-  <entry>
-    <title>Περισσότεροι από 20 εκατ. τουρίστες στην Ελλάδα το επτάμηνο Ιανουαρίου – Ιουλίου 2026</title>
-    <link href="https://www.kathimerini.gr/economy/564473461/perissoteroi-apo-20-ekat-toyristes-stin-ellada-to-eptamino-ianoyarioy-ioylioy-2026/"/>
-    <id>https://www.kathimerini.gr/economy/564473461/perissoteroi-apo-20-ekat-toyristes-stin-ellada-to-eptamino-ianoyarioy-ioylioy-2026/</id>
-    <updated>2026-09-22T15:20:59+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="economy"/>
-    <summary type="text">Πάνω από 20 εκατ. τουρίστες επισκέφθηκαν την Ελλάδα το επτάμηνο Ιανουαρίου-Ιουλίου 2026, αύξηση 8,6%, με τα έσοδα να ανεβαίνουν 12% στα 13,5 δισ. ευρώ. Οι εισπράξεις από την Ε.Ε. αυξήθηκαν 6,9% στα 7,094 δισ. και από τρίτες χώρες 18,3% στα 5,783 δισ. Ανοδος 23,3% από το Ηνωμένο Βασίλειο (2,91 δισ.), 31,6% από την Ιταλία και 7,9% από τις ΗΠΑ, ενώ η Γαλλία υποχώρησε 16,8% και η Γερμανία 0,7%.</summary>
-    <content type="text">More than 20 million tourists visited Greece in January-July 2026, up 8.6%, with receipts rising 12% to 13.5 billion euros. Revenue from EU residents grew 6.9% to 7.094 billion and from non-EU visitors 18.3% to 5.783 billion. Britain was up 23.3% (2.91 billion), Italy 31.6% and the US 7.9%, while France fell 16.8% and Germany slipped 0.7%.</content>
-  </entry>
-  <entry>
-    <title>Δίκη Τεμπών: Αίτημα για εξέταση του κινητού του βοηθού μηχανοδηγού και για κλήτευση Γεωργιάδη, Μαρκόπουλου</title>
-    <link href="https://www.kathimerini.gr/society/564473038/diki-tempon-aitima-gia-exetasi-toy-kinitoy-toy-voithoy-michanodigoy-kai-na-kliteysis-georgiadi-markopoyloy/"/>
-    <id>https://www.kathimerini.gr/society/564473038/diki-tempon-aitima-gia-exetasi-toy-kinitoy-toy-voithoy-michanodigoy-kai-na-kliteysis-georgiadi-markopoyloy/</id>
-    <updated>2026-09-22T11:32:18+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <title>ΟΠΕΚΕΠΕ: Η ασάφεια γεννάει ανησυχία</title>
+    <link href="https://www.kathimerini.gr/society/564474511/opekepe-i-asafeia-gennaei-anisychia/"/>
+    <id>https://www.kathimerini.gr/society/564474511/opekepe-i-asafeia-gennaei-anisychia/</id>
+    <updated>2026-09-23T10:22:22+00:00</updated>
+    <author><name>Γιάννης Σουλιώτης</name></author>
     <category term="society"/>
-    <summary type="text">Στη δίκη για τα Τέμπη η οικογένεια του βοηθού μηχανοδηγού Νικολάου Ναλμπάντη ζήτησε έλεγχο του υπηρεσιακού κινητού του, για να διαπιστωθεί αν υπήρξαν αναπάντητες κλήσεις προς τον σταθμάρχη πριν από τη σύγκρουση, καθώς και κλήτευση των Αδωνι Γεωργιάδη και Μαρκόπουλου. Ο νονός του κατέθεσε ότι ο μηχανοδηγός φοβόταν την κατάσταση στον σιδηρόδρομο: «θα γίνει κάτι μεγάλο και θα προσπαθήσουν να κατηγορήσουν τους μηχανοδηγούς». Το κινητό είχε παραδοθεί από την Αστυνομία στην αρραβωνιαστικιά του λίγες μέρες μετά.</summary>
-    <content type="text">At the Tempi trial the family of assistant train driver Nikolaos Nalbantis asked for his work phone to be examined, to establish whether he made unanswered calls to the stationmaster before the collision, and for Adonis Georgiadis and Markopoulos to be summoned. His godfather testified that he feared conditions on the railway: «something big will happen and they will try to blame the drivers». Police had handed the phone to his fiancée a few days after the crash.</content>
+    <summary type="text">Ανησυχία ότι ανοίγει τον δρόμο για αμνήστευση υποθέσεων του σκανδάλου ΟΠΕΚΕΠΕ προκαλεί το άρθρο 74 που εισήχθη αιφνιδίως στο νομοσχέδιο για την αλιεία, για την εκκαθάριση αιτήσεων ενίσχυσης 2018-2022. Ο Αντώνης Βαγιάνος, νομικός εκπρόσωπος της ελέγκτριας Παρασκευής Τυχεροπούλου, καταγγέλλει ότι νομιμοποιείται η «φάμπρικα» με την οποία «παραγωγοί του καναπέ» εισέπρατταν επιδοτήσεις για βοσκοτόπια χωρίς ζώα.</summary>
+    <content type="text">Article 74, slipped into a fisheries bill to settle 2018-2022 farm-subsidy applications, is raising fears it could amnesty those facing charges in the OPEKEPE subsidy scandal. Antonis Vagianos, lawyer for auditor Paraskevi Tycheropoulou, who helped expose the fraud, says it legitimises the «racket» through which «couch farmers» collected subsidies for pastures with no animals.</content>
   </entry>
   <entry>
-    <title>Συμφωνία Τραμπ με Δανία και Γροιλανδία – Πώς φιλοδοξεί να βάλει τέλος στην αντιπαράθεση για την Αρκτική</title>
-    <link href="https://www.kathimerini.gr/world/564473272/symfonia-tramp-me-dania-kai-groilandia-pos-filodoxei-na-valei-telos-stin-antiparathesi-gia-tin-arktiki/"/>
-    <id>https://www.kathimerini.gr/world/564473272/symfonia-tramp-me-dania-kai-groilandia-pos-filodoxei-na-valei-telos-stin-antiparathesi-gia-tin-arktiki/</id>
-    <updated>2026-09-22T13:29:30+00:00</updated>
+    <title>ΗΠΑ-Κίνα: Μεγαλειώδη υποδοχή για τον Σι ετοιμάζει ο Τραμπ</title>
+    <link href="https://www.kathimerini.gr/world/564475459/ipa-kina-megaleiodi-ypodochi-gia-ton-si-etoimazei-o-tramp/"/>
+    <id>https://www.kathimerini.gr/world/564475459/ipa-kina-megaleiodi-ypodochi-gia-ton-si-etoimazei-o-tramp/</id>
+    <updated>2026-09-23T12:04:33+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Ο Ντόναλντ Τραμπ αναμένεται να υπογράψει σήμερα με τους ηγέτες Δανίας και Γροιλανδίας συμφωνία που διευρύνει τη στρατιωτική παρουσία των ΗΠΑ στο νησί για πρώτη φορά μετά τον Ψυχρό Πόλεμο, ανοίγοντας δύο νέες εγκαταστάσεις, στη Ναρσαρσουάκ και στη Μέστεσβιγκ, πέρα από τη βάση Πίτουφικ, σύμφωνα με τρεις πηγές του Reuters. Η συμφωνία φιλοδοξεί να κλείσει την αντιπαράθεση που ξέσπασε τον Ιανουάριο, όταν ο Τραμπ αρνήθηκε να αποκλείσει τη χρήση βίας για την απόκτηση του πλούσιου σε ορυκτά νησιού.</summary>
-    <content type="text">Donald Trump is expected to sign a deal today with the leaders of Denmark and Greenland expanding the US military footprint on the island for the first time since the Cold War, opening two new facilities at Narsarsuaq and Mestersvig alongside the existing Pituffik Space Base, three sources told Reuters. The agreement aims to end the standoff that erupted in January when Trump refused to rule out force to acquire the mineral-rich, strategically located territory.</content>
+    <summary type="text">Ο Σι Τζινπίνγκ φτάνει στην Ουάσιγκτον για την πρώτη επίσημη επίσκεψή του στις ΗΠΑ εδώ και πάνω από μία δεκαετία, και ο Ντόναλντ Τραμπ θα τον υποδεχθεί αυτοπροσώπως στη στρατιωτική βάση Αντριους αντί να τον περιμένει στον Λευκό Οίκο. Κατά το AP, η ασυνήθιστη αυτή κίνηση δείχνει πόσο θέλει να τιμήσει τον Κινέζο ηγέτη. Ο Λευκός Οίκος δεν έχει δώσει πολλές λεπτομέρειες για την υποδοχή.</summary>
+    <content type="text">Xi Jinping arrives in Washington for his first state visit to the US in over a decade, and Donald Trump will greet him in person at Joint Base Andrews rather than wait at the White House. According to AP, the unusual gesture shows how keen he is to honour the Chinese leader. The White House has released few details of the ceremony.</content>
   </entry>
   <entry>
-    <title>Βρετανία: Από το Ακρωτήρι της Κύπρου η υποστήριξη προς τη Σαουδική Αραβία</title>
-    <link href="https://www.kathimerini.gr/world/564473308/vretania-meso-tis-vasis-toy-akrotirioy-stin-kypro-i-ypostirixi-pros-ti-saoydiki-aravia/"/>
-    <id>https://www.kathimerini.gr/world/564473308/vretania-meso-tis-vasis-toy-akrotirioy-stin-kypro-i-ypostirixi-pros-ti-saoydiki-aravia/</id>
-    <updated>2026-09-22T14:02:26+00:00</updated>
+    <title>Γκουτέρες από ΟΗΕ: «Οι μάχες πρέπει να σταματήσουν» – Το τελευταίο μήνυμα πριν από την αποχώρησή του</title>
+    <link href="https://www.kathimerini.gr/world/564473992/gkoyteres-apo-oie-oi-maches-prepei-na-stamatisoyn-to-teleytaio-minyma-prin-apo-tin-apochorisi-toy/"/>
+    <id>https://www.kathimerini.gr/world/564473992/gkoyteres-apo-oie-oi-maches-prepei-na-stamatisoyn-to-teleytaio-minyma-prin-apo-tin-apochorisi-toy/</id>
+    <updated>2026-09-22T19:43:09+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Στην τελευταία του ομιλία ως γενικός γραμματέας στη Γενική Συνέλευση του ΟΗΕ, ο Αντόνιο Γκουτέρες κάλεσε τους ηγέτες να σταματήσουν τους πολέμους, να επιταχύνουν τη δράση για την κλιματική αλλαγή και να θέσουν διεθνείς κανόνες και εποπτεία για την τεχνητή νοημοσύνη. Προειδοποίησε ότι ο ΟΗΕ δυσκολεύεται να ανταποκριθεί στις προκλήσεις και χρειάζεται μεταρρύθμιση. Η θητεία του λήγει στις 31 Δεκεμβρίου.</summary>
+    <content type="text">In his last speech as Secretary-General to the UN General Assembly, Antonio Guterres urged leaders to stop the wars, accelerate climate action and set international rules and oversight for artificial intelligence. He warned that the UN is struggling to meet growing global challenges and needs reform. His second five-year term ends on 31 December.</content>
+  </entry>
+  <entry>
+    <title>«Συμβούλιο Ειρήνης» Τραμπ: Σχέδιο 2,45 δισ. δολ. για την ανοικοδόμηση της Γάζας</title>
+    <link href="https://www.kathimerini.gr/world/564475621/symvoylio-eirinis-tramp-schedio-2-45-dis-dol-gia-tin-anoikodomisi-tis-gazas/"/>
+    <id>https://www.kathimerini.gr/world/564475621/symvoylio-eirinis-tramp-schedio-2-45-dis-dol-gia-tin-anoikodomisi-tis-gazas/</id>
+    <updated>2026-09-23T12:45:18+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Το «Συμβούλιο Ειρήνης» του Ντόναλντ Τραμπ, με 28 κράτη-μέλη, παρουσιάζει σχέδιο ανάκαμψης 2,45 δισ. δολαρίων για τη Γάζα με 66 έργα: προσωρινή στέγαση, απομάκρυνση ερειπίων, επισκευή νοσοκομείων και πολυεθνική δύναμη ασφαλείας, σύμφωνα με το Axios. Χρειάζεται όμως τη συνεργασία Ισραήλ και Χαμάς: η κυβέρνηση Νετανιάχου αρνείται να ξεκινήσει την εφαρμογή πριν από τις εκλογές της 27ης Οκτωβρίου, ενώ η δέσμευση της Χαμάς για αφοπλισμό δεν έχει δοκιμαστεί.</summary>
+    <content type="text">Donald Trump&#x27;s 28-member «Board of Peace» is presenting a 2.45-billion-dollar recovery plan for Gaza with 66 projects covering temporary housing, rubble removal, hospital repairs and a multinational security force, Axios reports. It needs Israeli and Hamas cooperation: Netanyahu&#x27;s government refuses to start implementation before the 27 October election, and Hamas&#x27;s in-principle disarmament pledge is untested.</content>
+  </entry>
+  <entry>
+    <title>Προστασία για την ενέργεια</title>
+    <link href="https://www.kathimerini.gr/opinion/564474406/prostasia-gia-tin-energeia/"/>
+    <id>https://www.kathimerini.gr/opinion/564474406/prostasia-gia-tin-energeia/</id>
+    <updated>2026-09-23T13:00:00+00:00</updated>
+    <author><name>Κύριο Αρθρο</name></author>
+    <category term="opinion"/>
+    <summary type="text">Το κύριο άρθρο της «Κ» σημειώνει ότι η ανεξέλεγκτη άνοδος των τιμών της ενέργειας πλήττει καίρια κάθε νοικοκυριό και επιχείρηση στην Ελλάδα. Υποστηρίζει ότι η παραγωγική βάση της χώρας δεν μπορεί να αφεθεί έρμαιο στο αυξανόμενο κόστος λειτουργίας και ότι απαιτείται επειγόντως δίχτυ προστασίας.</summary>
+    <content type="text">Kathimerini&#x27;s editorial says the uncontrolled rise in energy prices is hitting every household and business in Greece hard. It argues that the country&#x27;s productive base cannot be left at the mercy of rising operating costs and that a protective safety net is urgently needed.</content>
+  </entry>
+  <entry>
+    <title>Το βρετανικό fund Hg απέκτησε το 70% της Entersoftone</title>
+    <link href="https://www.kathimerini.gr/visual/infographics/564474889/to-vretaniko-fund-hg-apektise-to-70-tis-entersoftone/"/>
+    <id>https://www.kathimerini.gr/visual/infographics/564474889/to-vretaniko-fund-hg-apektise-to-70-tis-entersoftone/</id>
+    <updated>2026-09-23T08:47:00+03:00</updated>
+    <author><name>Ματίνα Χαρκοφτάκη</name></author>
+    <category term="economy"/>
+    <summary type="text">Το λονδρέζικο fund Hg απέκτησε το 70% της Entersoftone (ES1) σε συμφωνία που αποτιμά την εταιρεία λογισμικού σε λίγο πάνω από 1 δισ. ευρώ. Η αγορά πληροφορικής τη θεωρεί σχεδόν αναμενόμενη, καθώς πίσω από την εταιρεία βρίσκεται ο όμιλος Olympia του Πάνου Γερμανού, που εισήλθε στη SoftOne το 2016 με 33,34% με στόχο τη διεθνή επέκταση.</summary>
+    <content type="text">London-based investment firm Hg has acquired 70% of Entersoftone (ES1) in a deal valuing the software company at just over 1 billion euros. The IT market sees it as almost predictable, since the company is backed by Panos Germanos&#x27;s Olympia Group, which entered SoftOne in 2016 with a 33.34% stake aiming at international expansion.</content>
+  </entry>
+  <entry>
+    <title>Τι έδειξαν οι πρώτοι έλεγχοι σε χώρους παροχής ιατρικών υπηρεσιών</title>
+    <link href="https://www.kathimerini.gr/society/564475327/ti-edeixan-oi-protoi-elegchoi-se-choroys-parochis-iatrikon-ypiresion/"/>
+    <id>https://www.kathimerini.gr/society/564475327/ti-edeixan-oi-protoi-elegchoi-se-choroys-parochis-iatrikon-ypiresion/</id>
+    <updated>2026-09-23T10:33:39+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Ο υπουργός Υγείας Αδωνις Γεωργιάδης δημοσιοποίησε τα πρώτα ευρήματα της Εθνικής Αρχής Διαφάνειας από ελέγχους σε 118 δομές και παρόχους ιατρικών υπηρεσιών, με οκτώ ελέγχους σε εξέλιξη και ξεχωριστό πρόγραμμα για 17 παρόχους με καταγγελίες. Σε εργαστήριο βιοπαθολόγου βρέθηκαν στο ψυγείο, δίπλα σε δείγματα αίματος, ενέσιμα σκευάσματα αισθητικής (υαλουρονικά, fillers, εξωσώματα) χωρίς παραστατικά, ενώ η υπεύθυνη απουσίαζε.</summary>
+    <content type="text">Health Minister Adonis Georgiadis released the first findings of National Transparency Authority inspections covering 118 medical service providers, with eight under way and a separate programme for 17 providers facing complaints. At one biopathology lab, inspectors found injectable aesthetic products (hyaluronic acid, fillers, exosomes) stored next to blood samples without purchase invoices, while the scientist in charge was absent.</content>
+  </entry>
+  <entry>
+    <title>Μήνυμα του Κρεμλίνου για την Ουκρανία ενόψει της συνάντησης Λαβρόφ – Ρούμπιο</title>
+    <link href="https://www.kathimerini.gr/world/564475717/minyma-toy-kremlinoy-gia-tin-oykrania-enopsei-tis-synantisis-lavrof-roympio/"/>
+    <id>https://www.kathimerini.gr/world/564475717/minyma-toy-kremlinoy-gia-tin-oykrania-enopsei-tis-synantisis-lavrof-roympio/</id>
+    <updated>2026-09-23T13:28:52+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Το Κρεμλίνο δήλωσε ότι δεν υπάρχουν ακόμη προϋποθέσεις για ειρηνευτικές συνομιλίες για την Ουκρανία, αν και παραμένει ανοιχτό σε αυτές, ενόψει της συνάντησης Μάρκο Ρούμπιο-Σεργκέι Λαβρόφ στη Νέα Υόρκη. Ο Ντμίτρι Πεσκόφ ανέφερε ότι δεν υπάρχουν συγκεκριμένα σχέδια για συναντήσεις υψηλού επιπέδου με την Ουάσιγκτον ή το Κίεβο.</summary>
+    <content type="text">The Kremlin said conditions for Ukraine peace talks do not yet exist, though it remains open to them, ahead of a meeting between Marco Rubio and Sergei Lavrov in New York. Spokesman Dmitry Peskov said there are no concrete plans for high-level meetings with Washington or Kyiv on a possible peace deal.</content>
+  </entry>
+  <entry>
+    <title>Explainer: Τι φέρνει η συμφωνία Τραμπ για τη Γροιλανδία;</title>
+    <link href="https://www.kathimerini.gr/world/564475534/explainer-ti-fernei-i-symfonia-tramp-gia-ti-groilandia/"/>
+    <id>https://www.kathimerini.gr/world/564475534/explainer-ti-fernei-i-symfonia-tramp-gia-ti-groilandia/</id>
+    <updated>2026-09-23T12:12:55+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Οκτώ μήνες αφότου ο Ντόναλντ Τραμπ απείλησε να προσαρτήσει τη Γροιλανδία, υπεγράφη στον ΟΗΕ συμφωνία ΗΠΑ, Δανίας και Γροιλανδίας για την ασφάλεια στην Αρκτική και τον Βόρειο Ατλαντικό, που τροποποιεί τη συμφωνία του 1951 και πρέπει να επικυρωθεί από τα κοινοβούλια Δανίας και Γροιλανδίας. Εστιάζει στην πρόσβαση αμερικανικού προσωπικού και σε δύο «νέες» βάσεις, που όμως δεν είναι εξ ολοκλήρου νέες. Βασική διαφορά: η Γροιλανδία είναι πλέον συμβαλλόμενο μέρος.</summary>
+    <content type="text">Eight months after Donald Trump threatened to annex Greenland, the US, Denmark and Greenland signed an Arctic and North Atlantic security agreement at the UN, amending a 1951 accord and subject to ratification by the Danish and Greenlandic parliaments. It focuses on US personnel access and two «new» bases that are not entirely new sites. The key difference: Greenland itself is now a party, Politico explains.</content>
+  </entry>
+  <entry>
+    <title>Συνάντηση Γεραπετρίτη – Αραγκτσί: «Συζητήθηκαν προοπτικές αποκλιμάκωσης»</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564475078/synantisi-gerapetriti-aragtsi-syzitithikan-prooptikes-apoklimakosis/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564475078/synantisi-gerapetriti-aragtsi-syzitithikan-prooptikes-apoklimakosis/</id>
+    <updated>2026-09-23T07:46:36+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="politics"/>
-    <summary type="text">Η Βρετανία θα αναπτύξει από τη βάση Ακρωτηρίου της Κύπρου αεροσκάφος εναέριου ανεφοδιασμού Voyager της RAF για την υποστήριξη σαουδαραβικών μαχητικών που αναχαιτίζουν drones και πυραύλους των Χούθι, μετά από επίσημο αίτημα του Ριάντ. Ο υπουργός Αμυνας Λουκ Πόλαρντ διευκρίνισε ότι η αποστολή θα είναι «αμιγώς αμυντική», δεν θα συμμετέχει σε πλήγματα στην Υεμένη και θα διαρκέσει αρχικά μερικές εβδομάδες. Η απόφαση ακολουθεί την κλιμάκωση επιθέσεων κατά του Ριάντ και ενεργειακών εγκαταστάσεων στην Ερυθρά Θάλασσα.</summary>
-    <content type="text">Britain will operate an RAF Voyager air-to-air refuelling aircraft from its Akrotiri base in Cyprus to support Saudi fighter jets intercepting Houthi drones and missiles, following a formal request from Riyadh. Defence Secretary Luke Pollard said the mission is «purely defensive», will not take part in strikes on Yemen and is expected to last a few weeks initially. The move follows escalating Houthi attacks on Riyadh and Red Sea energy facilities.</content>
+    <summary type="text">Ο Γιώργος Γεραπετρίτης συναντήθηκε στη Νέα Υόρκη με τον Ιρανό ομόλογό του Αμπάς Αραγκτσί, με τον οποίο συζήτησαν τις εξελίξεις στη Μέση Ανατολή και τις προοπτικές αποκλιμάκωσης. Ο Ελληνας υπουργός υπογράμμισε τη σημασία του διαλόγου, του διεθνούς δικαίου, της θαλάσσιας ασφάλειας και της ελευθερίας της ναυσιπλοΐας. Η Αθήνα διατηρεί δίαυλο επικοινωνίας με την Τεχεράνη και δήλωσε έτοιμη να προσφέρει τις καλές της υπηρεσίες.</summary>
+    <content type="text">Foreign Minister Giorgos Gerapetritis met his Iranian counterpart Abbas Araghchi in New York to discuss the Middle East and prospects for de-escalation. He stressed dialogue, international law, maritime security and freedom of navigation. Athens keeps a channel open to Tehran and said it is ready to offer its good offices for regional peace.</content>
   </entry>
   <entry>
-    <title>Σε ισχύ το νέο πλαίσιο για τη διάσωση της α΄ κατοικίας</title>
-    <link href="https://www.kathimerini.gr/economy/local/564472510/se-ischy-to-neo-plaisio-gia-ti-diasosi-tis-a-katoikias/"/>
-    <id>https://www.kathimerini.gr/economy/local/564472510/se-ischy-to-neo-plaisio-gia-ti-diasosi-tis-a-katoikias/</id>
-    <updated>2026-09-22T10:29:19+00:00</updated>
-    <author><name>Ευγενία Τζώρτζη</name></author>
+    <title>Η συνάντηση Τραμπ – Σι και η υπόγεια μάχη ΗΠΑ – Κίνας</title>
+    <link href="https://www.kathimerini.gr/economy/564474970/i-synantisi-tramp-si-kai-i-ypogeia-machi-ipa-kinas/"/>
+    <id>https://www.kathimerini.gr/economy/564474970/i-synantisi-tramp-si-kai-i-ypogeia-machi-ipa-kinas/</id>
+    <updated>2026-09-23T13:06:00+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="economy"/>
-    <summary type="text">Τέθηκε σε ισχύ το νέο πλαίσιο του εξωδικαστικού μηχανισμού που διαχωρίζει για πρώτη φορά την κύρια κατοικία από τα υπόλοιπα ακίνητα: ο οφειλέτης διατηρεί το σπίτι του, συναινώντας στη ρευστοποίηση της λοιπής ακίνητης περιουσίας του με απλοποιημένη διαδικασία πλειστηριασμού, και η μακροχρόνια ρύθμιση υπολογίζεται μόνο με βάση την αξία της κατοικίας, μειώνοντας τη μηνιαία δόση. Για ευάλωτους και επιλέξιμους οφειλέτες οι πιστωτές υποχρεούνται να υποβάλλουν και αυτή την εναλλακτική πρόταση.</summary>
-    <content type="text">The revamped out-of-court debt mechanism is now in force, separating for the first time the primary residence from other property: the debtor keeps the home while consenting to the liquidation of other real estate through a simplified auction, and the long-term repayment plan is calculated solely on the home&#x27;s value, lowering monthly instalments. For vulnerable and eligible debtors, creditors are obliged to also submit this alternative offer.</content>
+    <summary type="text">Ενόψει της συνάντησης Σι Τζινπίνγκ-Ντόναλντ Τραμπ στην Ουάσιγκτον, οι διαπραγματευτές προετοιμάζουν την επέκταση της εμπορικής εκεχειρίας που συμφωνήθηκε στη Νότια Κορέα πριν από έναν χρόνο, όταν οι ΗΠΑ ανακάλεσαν δασμούς και η Κίνα δεσμεύτηκε να συνεχίσει τις εξαγωγές κρίσιμων ορυκτών. Στην ατζέντα η τεχνητή νοημοσύνη και το εμπόριο σε μη ευαίσθητους τομείς όπως η ενέργεια, όμως η εκεχειρία παραμένει πιο ασταθής απ&#x27; όσο φαίνεται.</summary>
+    <content type="text">Ahead of the Xi Jinping-Donald Trump meeting in Washington, negotiators are preparing to extend the trade truce agreed in South Korea a year ago, when the US withdrew tariffs and China pledged to keep exporting critical minerals. Artificial intelligence and trade in non-sensitive sectors such as energy are on the agenda, but the truce is shakier than it looks.</content>
   </entry>
   <entry>
-    <title>Μαρία Καρυστιανού: «Απαντήσεις σε εμάς που δεν τρώμε το κουτόχορτο των ελαίων σιλικόνης»</title>
-    <link href="https://www.kathimerini.gr/society/564473167/maria-karystianoy-apantiseis-se-mas-poy-den-trome-to-koytochorto-ton-elaion-silikonis/"/>
-    <id>https://www.kathimerini.gr/society/564473167/maria-karystianoy-apantiseis-se-mas-poy-den-trome-to-koytochorto-ton-elaion-silikonis/</id>
-    <updated>2026-09-22T12:50:34+00:00</updated>
-    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <title>Χάκαραν τη Skroutz Last Mile: Επηρεάστηκαν ονοματεπώνυμα, διευθύνσεις και τηλέφωνα – Η ανακοίνωση της εταιρείας</title>
+    <link href="https://www.kathimerini.gr/society/564475399/chakaran-ti-skroutz-last-mile-epireastikan-onomateponyma-dieythynseis-kai-tilefona-i-anakoinosi-tis-etaireias/"/>
+    <id>https://www.kathimerini.gr/society/564475399/chakaran-ti-skroutz-last-mile-epireastikan-onomateponyma-dieythynseis-kai-tilefona-i-anakoinosi-tis-etaireias/</id>
+    <updated>2026-09-23T11:26:49+00:00</updated>
+    <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary type="text">Η Μαρία Καρυστιανού, μητέρα της Μάρθης Ψαροπούλου, εξέφρασε στην κατάθεσή της στη δίκη για τα Τέμπη το παράπονο ότι ο ανακριτής Σωτήρης Μπακαΐμης δεν έλαβε υπόψη τις εκθέσεις για τα αίτια της πυρόσφαιρας και έκλεισε «άρον άρον» την ανάκριση, ζητώντας από το δικαστήριο «την πρέπουσα έρευνα» και «απαντήσεις σε εμάς που δεν τρώμε το κουτόχορτο των ελαίων σιλικόνης». Χαρακτήρισε «αδιανόητη» τη διαδικασία «μπάζωμα-ξεμπάζωμα» και επανέλαβε τις αμφιβολίες της για το περιεχόμενο του φερέτρου της κόρης της, για το οποίο έχει ζητήσει εκταφή.</summary>
-    <content type="text">Maria Karystianou, mother of Marthi Psaropoulou, complained in her testimony at the Tempi trial that investigating magistrate Sotiris Bakaimis ignored expert reports on the cause of the fireball and closed the inquiry «in a rush», demanding the court conduct «a proper investigation» and give «answers to those of us who don&#x27;t swallow the silicone-oil fairy tale». She called the backfilling of the crash site «unthinkable» and repeated her doubts about the contents of her daughter&#x27;s coffin, for which she has requested exhumation.</content>
+    <summary type="text">Η Skroutz Last Mile ανακοίνωσε περιστατικό μη εξουσιοδοτημένης πρόσβασης σε πληροφοριακό της σύστημα, από το οποίο επηρεάστηκαν ονοματεπώνυμα, διευθύνσεις και τηλέφωνα που αφορούν αποστολές δεμάτων. Η εταιρεία διαβεβαιώνει ότι δεν υπήρξε πρόσβαση σε στοιχεία καρτών, πληρωμών ή κωδικούς, που δεν αποθηκεύονται στα συστήματά της, και ότι έλαβε μέτρα σε συνεργασία με τις αρμόδιες αρχές.</summary>
+    <content type="text">Skroutz Last Mile disclosed unauthorised access to one of its information systems, exposing names, addresses and phone numbers linked to parcel deliveries. The company says no card, payment data or passwords were accessed, as these are not stored on its systems, and that it took protective measures together with the competent authorities.</content>
+  </entry>
+  <entry>
+    <title>Προβληματίζει ο αριθμός των αναποφάσιστων</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564472096/provlimatizei-o-arithmos-ton-anapofasiston/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564472096/provlimatizei-o-arithmos-ton-anapofasiston/</id>
+    <updated>2026-09-22T20:45:44+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <category term="politics"/>
+    <summary type="text">Το υψηλό ποσοστό αναποφάσιστων στις δημοσκοπήσεις του Σεπτεμβρίου (11%-18%) επιβεβαιώνει τη χαλάρωση των κομματικών ταυτίσεων, σημειώνει ο Γιώργος Αράπογλου της Pulse, επισημαίνοντας τις διαρκείς εναλλαγές στη δεύτερη θέση. Ο Γιώργος Σεφερτζής μιλά για «αποκαρδιωμένη και απαξιωτική» ψήφο και επιστροφή στη λογική της αρνητικής ψήφου, με πιθανή αύξηση της συμμετοχής. Ο Πάνος Σταθόπουλος υπενθυμίζει ότι στις βουλευτικές εκλογές οι Ελληνες ψηφίζουν «σοβαρά», με κριτήριο τη διακυβέρνηση.</summary>
+    <content type="text">The high share of undecided voters in September polls (11%-18%) confirms the loosening of party loyalties, says Pulse director Giorgos Arapoglou, pointing to the constant reshuffling of second place over the past year. Political scientist Giorgos Sefertzis calls it a «disheartened, dismissive» vote and a return to negative voting that could lift turnout. Panos Stathopoulos notes that in general elections Greeks traditionally vote «seriously», with government in mind.</content>
+  </entry>
+  <entry>
+    <title>Οικονομικοί αναθεωρητές</title>
+    <link href="https://www.kathimerini.gr/economy/international/564474832/oikonomikoi-anatheorites/"/>
+    <id>https://www.kathimerini.gr/economy/international/564474832/oikonomikoi-anatheorites/</id>
+    <updated>2026-09-23T13:48:00+00:00</updated>
+    <author><name>Νίκος Φιλιππίδης</name></author>
+    <category term="economy"/>
+    <summary type="text">Ο Νίκος Φιλιππίδης γράφει ότι «οικονομικοί αναθεωρητές» των αγορών και των ευρωπαϊκών κανόνων κερδίζουν έδαφος, με τη Γερμανία να προηγείται και τη Γαλλία να ακολουθεί. Η εκλογική αποδυνάμωση του Φρίντριχ Μερτς δυσκολεύει συμφωνία για τον προϋπολογισμό της Ε.Ε. 2028-2034 ύψους 2 τρισ. ευρώ, από τον οποίο εξαρτάται η Ελλάδα, ενώ η AfD αντιτίθεται σε σχεδόν όλη τη φιλοσοφία της πρότασης της Κομισιόν.</summary>
+    <content type="text">Nikos Filippidis writes that «economic revisionists» challenging markets and EU rules are gaining ground, led by Germany with France to follow. Friedrich Merz&#x27;s electoral weakening makes it much harder to agree the EU&#x27;s 2-trillion-euro 2028-2034 budget, on which Greece depends, while the AfD opposes almost the entire philosophy of the Commission&#x27;s proposal.</content>
+  </entry>
+  <entry>
+    <title>Η Ε.Ε. πρότεινε την αποδέσμευση 4,2 δισ. ευρώ για την Ουγγαρία</title>
+    <link href="https://www.kathimerini.gr/world/564475486/i-e-e-proteine-tin-apodesmeysi-4-2-dis-eyro-gia-tin-oyggaria/"/>
+    <id>https://www.kathimerini.gr/world/564475486/i-e-e-proteine-tin-apodesmeysi-4-2-dis-eyro-gia-tin-oyggaria/</id>
+    <updated>2026-09-23T11:50:15+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Η Κομισιόν πρότεινε την αποδέσμευση 4,2 δισ. ευρώ από τα ταμεία συνοχής για την Ουγγαρία, επικαλούμενη τα μέτρα της νέας ουγγρικής κυβέρνησης για το κράτος δικαίου. Το ποσό είναι μέρος των 16,4 δισ. που η Ε.Ε. είχε ανακοινώσει τον Μάιο ότι θα αποδεσμεύσει. Αποκαθίσταται επίσης η πρόσβαση Ούγγρων φοιτητών και ερευνητών στα Erasmus+ και Horizon Europe.</summary>
+    <content type="text">The European Commission proposed releasing 4.2 billion euros in cohesion funds to Hungary, citing the new Hungarian government&#x27;s rule-of-law measures. The sum is part of 16.4 billion euros the EU said in May it would unfreeze. Access for Hungarian students and researchers to Erasmus+ and Horizon Europe is also being restored.</content>
   </entry>
 </feed>
