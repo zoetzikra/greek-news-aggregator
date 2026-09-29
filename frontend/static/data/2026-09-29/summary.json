@@ -1,0 +1,257 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T11:15:13+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 82 articles over 24h.",
+  "executive_summary": {
+    "el": "Η πολιτική επικαιρότητα κυριαρχείται από την παραπομπή του Χρήστου Τριαντόπουλου στο Ειδικό Δικαστήριο για το «μπάζωμα» στα Τέμπη και την απόφασή του να μην είναι υποψήφιος με τη ΝΔ στη Μαγνησία. Παράλληλα, το δημοσίευμα της WSJ για φερόμενη αντιπαράθεση της πρέσβειρας των ΗΠΑ Κίμπερλι Γκίλφοϊλ με τον υπουργό Ενέργειας πυροδότησε αντιπαράθεση, με την κυβέρνηση να διαψεύδει κάθε απειλή.\n\nΣτην οικονομία, το κόστος των μέτρων στήριξης λόγω του ενεργειακού ράλι φτάνει το 1 δισ. ευρώ για το 2026, με νέα παρέμβαση 200 εκατ. τους επόμενους μήνες, ενώ η ακτοπλοΐα ζητά στήριξη λόγω των καυσίμων. Στην Ευρώπη οι «φειδωλές» χώρες πιέζουν για περικοπές στον επταετή προϋπολογισμό και η Γαλλία καταγράφει χρέος 119% του ΑΕΠ. Θετική εξέλιξη το κλείσιμο του κενού ΦΠΑ κάτω από 9%.\n\nΔιεθνώς, η ένταση ΗΠΑ–Ιράν παραμένει υψηλή, με τους Φρουρούς της Επανάστασης να επιτίθενται στον Τραμπ, ενώ οι τελευταίες αμερικανικές δυνάμεις αποχωρούν από το Ιράκ έως τις 30 Σεπτεμβρίου. Η Κομισιόν προωθεί νέο μηχανισμό έκτακτης ανάγκης στο μεταναστευτικό, και η Anthropic προειδοποιεί στο IPO της για υπαρξιακούς κινδύνους της ΤΝ.\n\nΣτην κοινωνία, η υπόθεση Μαζωνάκη προχωρά με άρση τηλεφωνικού απορρήτου, το Εφετείο αρνείται ελαφρυντικά στους καταδικασμένους για το Μάτι, και στον πολιτισμό ξεχωρίζει η συναυλία της Άννας Βίσση με 95.000 θεατές και η ανταλλαγή οστών του Τσάρου Σαμουήλ με κειμήλια από τη Βουλγαρία.",
+    "en": "Political news is dominated by Christos Triantopoulos's referral to the Special Court over the Tempi site 'rubble' handling and his decision not to run on New Democracy's ballot in Magnesia. A WSJ report on an alleged clash between US ambassador Kimberly Guilfoyle and the energy minister also sparked a row, with the government denying any threat.\n\nIn the economy, the cost of energy-crisis support measures reaches €1bn for 2026, with a new €200m package planned, while coastal shipping seeks help with fuel costs. In Europe, 'frugal' states push for cuts to the seven-year EU budget and France records debt at 119% of GDP. A positive note: Greece's VAT gap has fallen below 9%.\n\nInternationally, US–Iran tension stays high with the IRGC attacking Trump, while the last US troops leave Iraq by 30 September. The Commission pushes a new migration emergency mechanism, and Anthropic warns of existential AI risks in its IPO prospectus.\n\nIn society, the Mazonakis case advances with phone privacy lifted, the appeals court denies mitigation to those convicted over the Mati fire, and in culture Anna Vissi's 95,000-strong concert and the exchange of Tsar Samuel's remains for relics with Bulgaria stand out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Τέμπη: παραπομπή Τριαντόπουλου",
+        "en": "Tempi: Triantopoulos referral"
+      },
+      "description": {
+        "el": "Παραπομπή στο Ειδικό Δικαστήριο και αποχώρηση από τα ψηφοδέλτια της ΝΔ.",
+        "en": "Referral to the Special Court and withdrawal from ND ballots."
+      },
+      "related_items": [
+        "2298a227b154",
+        "31ee12aa6bfd"
+      ],
+      "importance": 92
+    },
+    {
+      "name": {
+        "el": "Δημοσίευμα WSJ και Γκίλφοϊλ",
+        "en": "WSJ report and Guilfoyle"
+      },
+      "description": {
+        "el": "Πολιτική αντιπαράθεση για φερόμενη απειλή της πρέσβειρας των ΗΠΑ.",
+        "en": "Political row over the US ambassador's alleged threat."
+      },
+      "related_items": [
+        "041df1f8d265",
+        "a4dc802f27b1",
+        "9acf2f679be1"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση και μέτρα στήριξης",
+        "en": "Energy crisis and support measures"
+      },
+      "description": {
+        "el": "Κόστος ~1 δισ. για το 2026, νέα μέτρα 200 εκατ., πίεση σε ακτοπλοΐα.",
+        "en": "About €1bn cost in 2026, new €200m measures, pressure on ferries."
+      },
+      "related_items": [
+        "f59cc9a2d5a8",
+        "6dbc5f131f5a",
+        "f0c53ca96a0e"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "ΗΠΑ–Ιράν και αποχώρηση από το Ιράκ",
+        "en": "US–Iran and Iraq withdrawal"
+      },
+      "description": {
+        "el": "Κλιμάκωση ρητορικής και τελική αποχώρηση αμερικανικών δυνάμεων.",
+        "en": "Escalating rhetoric and final US troop exit."
+      },
+      "related_items": [
+        "c6dae29a29ca",
+        "4e53e7c175b6",
+        "1d28378334ea"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Προϋπολογισμός ΕΕ και μεταναστευτικό",
+        "en": "EU budget and migration"
+      },
+      "description": {
+        "el": "Πιέσεις για περικοπές και νέος μηχανισμός έκτακτης ανάγκης.",
+        "en": "Pressure for cuts and a new emergency mechanism."
+      },
+      "related_items": [
+        "c264fc53e527",
+        "c1999df3a27d",
+        "c8ebac3fb89e"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Υπόθεση Μαζωνάκη",
+        "en": "Mazonakis case"
+      },
+      "description": {
+        "el": "Άρση απορρήτου για κινητά, δίσκο και USB.",
+        "en": "Privacy lifted for phones, hard drive and USB."
+      },
+      "related_items": [
+        "f4a5658906f2",
+        "92f10dc65cce"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 82,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "2298a227b154",
+        "31ee12aa6bfd",
+        "041df1f8d265",
+        "a4dc802f27b1",
+        "9fb8fce2c216"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "f59cc9a2d5a8",
+        "c264fc53e527",
+        "6dbc5f131f5a",
+        "d939c80b8911",
+        "f0c53ca96a0e"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "603c28e0c1a6",
+        "f4a5658906f2",
+        "92f10dc65cce",
+        "f9aa025186f9",
+        "afb1cdb61ec8"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "c6dae29a29ca",
+        "4e53e7c175b6",
+        "1d28378334ea",
+        "c9eb138df242",
+        "c1999df3a27d"
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        "441a0f6b6fdf",
+        "e541fbbe805f",
+        "f2e2fddc5fba",
+        "dc34ba9ee764",
+        "834a7aac85b8"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "b6b720163b67",
+        "b653437378fa",
+        "7e492609fd97",
+        "323598d53cdc",
+        "70c7e8e92648"
+      ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "388919e268f3",
+          "title": "Anthropic: Η τεχνητή νοημοσύνη μπορεί να αποτελέσει «υπαρξιακή απειλή για την ανθρωπότητα»",
+          "url": "https://www.kathimerini.gr/world/564487846/antrhopic-i-techniti-noimosyni-mporei-na-apotelesei-yparxiaki-apeili-gia-tin-anthropotita/",
+          "source": "Kathimerini",
+          "published": "2026-09-29T10:58:43+00:00",
+          "category": "world",
+          "importance": 66,
+          "summary": {
+            "el": "Η Anthropic προειδοποιεί στο ενημερωτικό δελτίο για το IPO της ότι η τεχνολογία της ενδέχεται να δημιουργήσει «υπαρξιακούς κινδύνους για την ανθρωπότητα», μια ασυνήθιστη προειδοποίηση κατά το Reuters.",
+            "en": "Anthropic warns investors in its IPO prospectus that its technology could pose 'existential risks to humanity', an unusual warning according to Reuters."
+          },
+          "tags": {
+            "el": [
+              "Anthropic",
+              "Τεχνητή νοημοσύνη",
+              "IPO",
+              "Υπαρξιακός κίνδυνος"
+            ],
+            "en": [
+              "Anthropic",
+              "Artificial intelligence",
+              "IPO",
+              "Existential risk"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "be4a9025791d",
+          "title": "Aλεξ Πάνας: Επιταχυντής για την ελληνική οικονομία η AI",
+          "url": "https://www.kathimerini.gr/economy/564483295/alex-panas-epitachyntis-gia-tin-elliniki-oikonomia-i-ai/",
+          "source": "Kathimerini",
+          "published": "2026-09-29T13:55:00+00:00",
+          "category": "economy",
+          "importance": 48,
+          "summary": {
+            "el": "Ο Άλεξ Πάνας της McKinsey εκτιμά ότι η τεχνητή νοημοσύνη μπορεί να γίνει επιταχυντής για την ελληνική οικονομία και να δημιουργήσει περιφερειακούς πρωταθλητές, αν και οι επιχειρήσεις δεν τη βλέπουν ακόμη στο EBITDA.",
+            "en": "McKinsey's Alex Panas argues AI can accelerate the Greek economy and create regional champions, though companies do not yet see it in EBITDA."
+          },
+          "tags": {
+            "el": [
+              "Τεχνητή νοημοσύνη",
+              "McKinsey",
+              "Ελληνική οικονομία",
+              "Επιχειρήσεις"
+            ],
+            "en": [
+              "Artificial intelligence",
+              "McKinsey",
+              "Greek economy",
+              "Business"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "f41e4bbdaa36",
+          "title": "Το πανεπιστήμιο του Τζορτζ Ουάσιγκτον «κοιτάζει» Ελλάδα",
+          "url": "https://www.kathimerini.gr/visual/infographics/564487024/to-panepistimio-toy-tzortz-oyasigkton-koitazei-ellada/",
+          "source": "Kathimerini",
+          "published": "2026-09-29T11:22:21+00:00",
+          "category": "society",
+          "importance": 34,
+          "summary": {
+            "el": "Το αμερικανικό πανεπιστήμιο William & Mary συναντά την υπουργό Παιδείας Σ. Ζαχαράκη για διεύρυνση συνεργασιών με ελληνικά πανεπιστήμια και εξέταση παραρτήματος στην Ελλάδα.",
+            "en": "The US university William & Mary meets Education Minister Sofia Zacharaki to expand cooperation with Greek universities and explore a branch campus in Greece."
+          },
+          "tags": {
+            "el": [
+              "Πανεπιστήμια",
+              "William & Mary",
+              "Ζαχαράκη",
+              "Ανώτατη εκπαίδευση"
+            ],
+            "en": [
+              "Universities",
+              "William & Mary",
+              "Zacharaki",
+              "Higher education"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+}
