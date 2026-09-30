@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:51:51+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 80 articles over 24h.",
+  "executive_summary": {
+    "el": "Η μέρα κυριαρχείται από την παραπομπή του πρώην υφυπουργού Χρήστου Τριαντόπουλου στο Ειδικό Δικαστήριο για το «μπάζωμα» στα Τέμπη. Το βούλευμα 204 σελίδων ανοίγει τον δρόμο για δίκη έως τους πρώτους μήνες του 2027, ο ίδιος δεν θα είναι υποψήφιος στις εκλογές, και κυβέρνηση και αντιπολίτευση ανταλλάσσουν πολιτικά μηνύματα, με τον Αλ. Τσίπρα να ζητά την παραίτηση του υπουργού Δικαιοσύνης.\n\nΔεύτερος άξονας είναι η ενεργειακή κρίση και η ακρίβεια. Ο πρωθυπουργός ανακοίνωσε στο υπουργικό επιδότηση diesel 15 λεπτών και έως 120 δόσεις για οφειλές, ενώ ο λογαριασμός της Ε.Ε. για εισαγωγές καυσίμων ξεπερνά τα 100 δισ. ευρώ. Παράλληλα ολοκληρώθηκε η υποβολή των τελευταίων αιτημάτων του Ταμείου Ανάκαμψης (6,75 δισ.).\n\nΤρίτος άξονας είναι η ασφάλεια και τα ελληνοτουρκικά: η άσκηση «Αλέξανδρος», η τουρκική προετοιμασία αγωγού προς τα Κατεχόμενα με NAVTEX για το «Ορούτς Ρέις», και η προώθηση Σινιρλίογλου για τον ΟΗΕ. Στην Ευρώπη, ρωσικές υβριδικές απειλές και νέα πλήγματα στο Κίεβο τροφοδοτούν προειδοποιήσεις για «σκοτεινό χειμώνα».\n\nΔιεθνώς, οι μαθητικές κινητοποιήσεις στη Γαλλία με πάνω από 440 προσαγωγές, η προεκλογική περιοδεία Τραμπ και τα πενιχρά αποτελέσματα της συνόδου Τραμπ–Σι συμπληρώνουν την εικόνα.",
+    "en": "The day is dominated by the referral of former deputy minister Christos Triantopoulos to the Special Court over the Tempi site 'cover-up'. The 204-page ruling paves the way for a trial by early 2027, he will not run in the elections, and government and opposition trade political messages, with Alexis Tsipras demanding the justice minister's resignation.\n\nA second axis is the energy crisis and cost of living. The prime minister announced a 15-cent diesel subsidy and up to 120 instalments for debts at cabinet, while the EU's extra fuel import bill tops €100bn. Greece also filed its final Recovery Fund payment requests (€6.75bn).\n\nA third axis is security and Greek-Turkish relations: the 'Alexandros' exercise, Turkey's preparations for a pipeline to the occupied north of Cyprus with a NAVTEX for the Oruc Reis, and Ankara's push of Sinirlioglu for UN secretary-general. Across Europe, Russian hybrid threats and fresh strikes on Kyiv feed warnings of a 'dark winter'.\n\nInternationally, French student protests with more than 440 detentions, Trump's campaign tour and the meagre outcome of the Trump–Xi summit round out the picture."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Τέμπη: παραπομπή Τριαντόπουλου",
+        "en": "Tempi: Triantopoulos referral"
+      },
+      "description": {
+        "el": "Βούλευμα του Αρείου Πάγου, πολιτικές αντιδράσεις και συνέχιση της δίκης στη Λάρισα.",
+        "en": "Supreme Court ruling, political reactions and the continuing Larissa trial."
+      },
+      "related_items": [
+        "8ec8e51845b8",
+        "aadf9471477e",
+        "e88be4bc0a92",
+        "c60f209b5379",
+        "1a7737af23f7"
+      ],
+      "importance": 93
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση και μέτρα στήριξης",
+        "en": "Energy crisis and support measures"
+      },
+      "description": {
+        "el": "Επιδότηση diesel, δόσεις οφειλών και ευρωπαϊκό κόστος άνω των 100 δισ.",
+        "en": "Diesel subsidy, debt instalments and an EU cost above €100bn."
+      },
+      "related_items": [
+        "857214bb7a21",
+        "6c0c7ea47f86",
+        "4923d6c83e62"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Ελληνοτουρκικά και ασφάλεια",
+        "en": "Greek-Turkish relations and security"
+      },
+      "description": {
+        "el": "Άσκηση «Αλέξανδρος», αγωγός προς τα Κατεχόμενα, υποψηφιότητα Σινιρλίογλου και υβριδικές απειλές.",
+        "en": "Exercise Alexandros, pipeline to the occupied north, Sinirlioglu candidacy and hybrid threats."
+      },
+      "related_items": [
+        "a6ff981e428e",
+        "900dd7e6fa2f",
+        "a9ff23008c5c",
+        "bab73fb36022",
+        "c30d785f567c"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Ταμείο Ανάκαμψης: τελικά αιτήματα",
+        "en": "Recovery Fund: final requests"
+      },
+      "description": {
+        "el": "Υποβολή αιτημάτων 6,75 δισ. και συζήτηση για την επόμενη γενιά έργων.",
+        "en": "Submission of €6.75bn in requests and debate on the next generation of projects."
+      },
+      "related_items": [
+        "ccae845152cb",
+        "07c73e1e233c"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Ρωσική απειλή και Ουκρανία",
+        "en": "Russian threat and Ukraine"
+      },
+      "description": {
+        "el": "Πλήγματα στο Κίεβο και προειδοποιήσεις για υβριδικό πόλεμο στην Ευρώπη.",
+        "en": "Strikes on Kyiv and warnings of hybrid war in Europe."
+      },
+      "related_items": [
+        "89c4648ee55e",
+        "211a7eb55d98",
+        "876fece777a2",
+        "e77b14838dcf"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Μαθητικές κινητοποιήσεις στη Γαλλία",
+        "en": "French student protests"
+      },
+      "description": {
+        "el": "Πάνω από 440 προσαγωγές και δεκάδες τραυματίες.",
+        "en": "More than 440 detentions and dozens injured."
+      },
+      "related_items": [
+        "57f87f3bbf0b",
+        "28805c82486f"
+      ],
+      "importance": 62
+    }
+  ],
+  "article_count": 80,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "8ec8e51845b8",
+        "857214bb7a21",
+        "aadf9471477e",
+        "ccae845152cb",
+        "900dd7e6fa2f"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "6c0c7ea47f86",
+        "f3cddba1d33d",
+        "4923d6c83e62",
+        "de5f6547fbb3",
+        "ae50a2a8b016"
+      ]
+    },
+    "society": {
+      "item_count": 13,
+      "top_items": [
+        "c60f209b5379",
+        "1a7737af23f7",
+        "f1f84e001a40",
+        "cba425b96306",
+        "7f7e4eb55396"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "89c4648ee55e",
+        "57f87f3bbf0b",
+        "211a7eb55d98",
+        "28805c82486f",
+        "c052edf209d2"
+      ]
+    },
+    "opinion": {
+      "item_count": 12,
+      "top_items": [
+        "b336dbb6ca6e",
+        "9270487db04c",
+        "e541fbbe805f",
+        "dc34ba9ee764",
+        "eb9489553e56"
+      ]
+    },
+    "culture": {
+      "item_count": 13,
+      "top_items": [
+        "19d10fffd078",
+        "49a8e6ed2ef9",
+        "fe1ebdb573c0",
+        "e9ac7b0ccf58",
+        "f7880165d973"
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "44142b41a523",
+          "title": "Politico: Η Κομισιόν κατηγορείται ότι αποκρύπτει τις περιβαλλοντικές επιπτώσεις των data centers",
+          "url": "https://www.kathimerini.gr/world/564490558/politico-i-komision-katigoreitai-oti-apokryptei-tis-perivallontikes-epiptoseis-ton-data-centers/",
+          "source": "Kathimerini",
+          "published": "2026-09-30T11:18:51+00:00",
+          "category": "world",
+          "importance": 40,
+          "summary": {
+            "el": "Η ΜΚΟ Lighthouse Reports καταγγέλλει την Κομισιόν ότι περιορίζει την πρόσβαση σε στοιχεία για την κατανάλωση ενέργειας και νερού των data centers.",
+            "en": "NGO Lighthouse Reports accuses the Commission of restricting access to data on data centres' energy and water use."
+          },
+          "tags": {
+            "el": [
+              "data centers",
+              "Κομισιόν",
+              "περιβάλλον"
+            ],
+            "en": [
+              "data centers",
+              "Commission",
+              "environment"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "98b854bad3af",
+          "title": "Περί αλόγων και προβλέψεων",
+          "url": "https://www.kathimerini.gr/opinion/564489673/peri-alogon-kai-provlepseon/",
+          "source": "Kathimerini",
+          "published": "2026-09-30T08:27:00+00:00",
+          "category": "opinion",
+          "importance": 38,
+          "summary": {
+            "el": "Ο αρθρογράφος, φοβισμένος από την τεχνητή νοημοσύνη, θυμάται ότι οι προβλέψεις της Ιστορίας (π.χ. κοπριά αλόγων) συχνά διαψεύστηκαν.",
+            "en": "The columnist, frightened by AI, recalls that history's predictions (e.g. horse manure) were often wrong."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "προβλέψεις"
+            ],
+            "en": [
+              "artificial intelligence",
+              "predictions"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "ea89d3ba9297",
+          "title": "Ο μετασχηματισμός της τεχνολογίας σε εφαρμογές με πραγματικό επιχειρηματικό αντίκτυπο",
+          "url": "https://www.kathimerini.gr/economy/business/564486397/o-metaschimatismos-tis-technologias-se-efarmoges-me-pragmatiko-epicheirimatiko-antiktypo/",
+          "source": "Kathimerini",
+          "published": "2026-09-30T11:41:37+00:00",
+          "category": "economy",
+          "importance": 36,
+          "summary": {
+            "el": "Στο Siemens Tech Summit Athens 2026 τονίστηκε η μετατροπή της AI, των δεδομένων και του cloud σε εφαρμογές με επιχειρηματικό αντίκτυπο. Η Ελλάδα προβάλλεται ως data hub για τη ΝΑ Ευρώπη.",
+            "en": "The Siemens Tech Summit Athens 2026 stressed turning AI, data and cloud into real business applications. Greece was promoted as a data hub for Southeast Europe."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "data centers",
+              "Siemens"
+            ],
+            "en": [
+              "artificial intelligence",
+              "data centers",
+              "Siemens"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ed0cef83c8bc",
+          "title": "Λυρισμός με δόντια",
+          "url": "https://www.kathimerini.gr/opinion/564489475/lyrismos-me-dontia/",
+          "source": "Kathimerini",
+          "published": "2026-09-30T08:26:00+00:00",
+          "category": "opinion",
+          "importance": 20,
+          "summary": {
+            "el": "Σατιρικό σχόλιο για το φεστιβάλ της Ζ. Κωνσταντοπούλου και το βίντεο τεχνητής νοημοσύνης που το προαναγγέλλει.",
+            "en": "Satirical note on Zoe Konstantopoulou's festival and the AI-made video promoting it."
+          },
+          "tags": {
+            "el": [
+              "σάτιρα",
+              "Κωνσταντοπούλου"
+            ],
+            "en": [
+              "satire",
+              "Konstantopoulou"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
