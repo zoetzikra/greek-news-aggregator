@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T09:10:47.314261+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 81 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχείται από την ελληνοτουρκική ένταση για το καλώδιο GSI, με την Άγκυρα να επαναλαμβάνει ότι απαιτείται η δική της άδεια για κάθε δραστηριότητα στην «τουρκική υφαλοκρηπίδα» και με φόντο την παράταση της παρουσίας των Patriot στη Σαουδική Αραβία και την ελληνική προεδρία στο Συμβούλιο Ασφαλείας του ΟΗΕ.\n\nΣτο διεθνές οικονομικό πεδίο, το sell-off στα κρατικά ομόλογα σε ΗΠΑ, Ευρώπη και Ιαπωνία οδηγεί το κόστος δανεισμού σε πολυετή υψηλά, ενώ οι τιμές τροφίμων φτάνουν σε υψηλό σχεδόν τεσσάρων ετών και η ενεργειακή κρίση κυριαρχεί στη συζήτηση. Στην Ελλάδα, κυβέρνηση και βιομηχανία πλησιάζουν σε συμφωνία για μέτρα μείωσης του ενεργειακού κόστους, ενώ οι εισηγμένες εμφανίζουν άνοδο κερδών 32,7% στο α΄ εξάμηνο.\n\nΣτη διεθνή σκηνή, ο Πούτιν προειδοποιεί ότι θα χρησιμοποιήσει «όλα τα όπλα» για το Καλίνινγκραντ, η Ρωσία φέρεται να ετοιμάζει μεγάλο πλήγμα στο ουκρανικό ενεργειακό δίκτυο, ο Τραμπ ξεκινά προεκλογική περιοδεία ενόψει των ενδιάμεσων εκλογών και η Γαλλία παραμένει σε πολιτική και δημοσιονομική αβεβαιότητα.\n\nΣτο εσωτερικό, ξεκινά και αναβάλλεται η δίκη της Κατερίνας Παπακώστα για τον ΟΠΕΚΕΠΕ, το περιστατικό ενδοοικογενειακής βίας στο Λαύριο φέρνει στο φως προηγούμενες καταγγελίες και η κακοκαιρία πλήττει την Κρήτη και το νότιο Αιγαίο, ενώ οι στήλες γνώμης επικεντρώνονται σε παιδεία, PISA και Τέμπη.",
+    "en": "The day is dominated by Greek-Turkish tension over the GSI cable, with Ankara repeating that its permission is required for any activity on its claimed continental shelf, against the backdrop of the extension of the Patriot deployment in Saudi Arabia and Greece's UN Security Council presidency.\n\nOn the international economic front, the sell-off in government bonds across the US, Europe and Japan has pushed borrowing costs to multi-year highs, global food prices hit a near four-year peak and the energy crisis dominates debate. In Greece, the government and industry are close to a package cutting energy costs, while listed companies report a 32.7% rise in first-half profits.\n\nInternationally, Putin warns he will use 'all weapons' to defend Kaliningrad, Russia is reportedly preparing a major strike on Ukraine's power grid, Trump begins a midterm campaign tour and France remains in political and fiscal uncertainty.\n\nDomestically, the trial of Katerina Papakosta in the OPEKEPE case opens and is postponed, the Lavrio domestic-violence attack exposes earlier complaints, and bad weather batters Crete and the southern Aegean, while opinion columns focus on education, PISA and Tempi."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Ελληνοτουρκική ένταση για το καλώδιο GSI",
+        "en": "Greek-Turkish tension over the GSI cable"
+      },
+      "description": {
+        "el": "Η Άγκυρα επιμένει ότι κάθε πόντιση στην «τουρκική υφαλοκρηπίδα» απαιτεί τη δική της άδεια, απειλώντας με «νέα Κάσο», ενώ προτάσεις για τεχνητά νησιά στο Αιγαίο φιλοξενούνται σε τουρκικά μέσα.",
+        "en": "Ankara insists any cable-laying on its claimed continental shelf needs Turkish permission, warning of a 'new Kasos', while proposals for artificial islands in the Aegean appear in Turkish media."
+      },
+      "related_items": [
+        "6738c2e027f7",
+        "baebe508334c",
+        "e2dd961bae6a"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Σοκ στις αγορές ομολόγων και ενεργειακή κρίση",
+        "en": "Bond-market shock and the energy crisis"
+      },
+      "description": {
+        "el": "Οι αποδόσεις κρατικών ομολόγων σε ΗΠΑ, Ευρώπη και Ιαπωνία φτάνουν πολυετή υψηλά, ενώ οι τιμές τροφίμων ανεβαίνουν και κυβέρνηση και βιομηχανία κλείνουν πακέτο για το ενεργειακό κόστος.",
+        "en": "Government bond yields in the US, Europe and Japan hit multi-year highs, food prices rise, and the government and industry near a package on energy costs."
+      },
+      "related_items": [
+        "c9bb29b8baff",
+        "7cc32d7319ba",
+        "b1c061e2f73f",
+        "ba90ae6c41ad",
+        "7de9f4990f63"
+      ],
+      "importance": 84
+    },
+    {
+      "name": {
+        "el": "Πούτιν, Ουκρανία και κλιμάκωση",
+        "en": "Putin, Ukraine and escalation"
+      },
+      "description": {
+        "el": "Ο Πούτιν απειλεί με «όλα τα όπλα» για το Καλίνινγκραντ και η Ρωσία φέρεται να σχεδιάζει μεγάλο πλήγμα στο ουκρανικό δίκτυο ηλεκτρισμού τον χειμώνα.",
+        "en": "Putin threatens 'all weapons' over Kaliningrad and Russia is reportedly planning a major strike on Ukraine's power grid this winter."
+      },
+      "related_items": [
+        "02892cd8ed25",
+        "8a854e460b48",
+        "9b43d28a7ff1"
+      ],
+      "importance": 86
+    },
+    {
+      "name": {
+        "el": "Δικαιοσύνη και λογοδοσία: ΟΠΕΚΕΠΕ και Τέμπη",
+        "en": "Justice and accountability: OPEKEPE and Tempi"
+      },
+      "description": {
+        "el": "Ξεκινά και αναβάλλεται η δίκη της Κ. Παπακώστα για ΟΠΕΚΕΠΕ, ενώ προχωρά η συγκρότηση Ειδικού Δικαστηρίου για τον Χ. Τριαντόπουλο και ο σχολιασμός για τη στάση του υπουργού Δικαιοσύνης.",
+        "en": "Katerina Papakosta's OPEKEPE trial opens and is postponed, the Special Court for Christos Triantopoulos is being formed, and columnists react to the justice minister's stance."
+      },
+      "related_items": [
+        "2ce13c90707d",
+        "edd94c62362b",
+        "399f132c724e",
+        "28feefd805e9"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Ελληνική προεδρία στο ΣΑ του ΟΗΕ",
+        "en": "Greece's UN Security Council presidency"
+      },
+      "description": {
+        "el": "Η Ελλάδα προεδρεύει τον Οκτώβριο με έμφαση στην ΑΙ, τη θαλάσσια ασφάλεια και την επιλογή νέου Γενικού Γραμματέα.",
+        "en": "Greece presides in October focusing on AI, maritime security and the selection of the next Secretary-General."
+      },
+      "related_items": [
+        "0de183e1e737",
+        "b6d86d0066d0"
+      ],
+      "importance": 78
+    }
+  ],
+  "article_count": 81,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "6738c2e027f7",
+        "0de183e1e737",
+        "2ce13c90707d",
+        "e2dd961bae6a",
+        "588db4968025"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "02892cd8ed25",
+        "8a854e460b48",
+        "b316df4c0c45",
+        "c80e69b65540",
+        "cefbb3088cb3"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "c9bb29b8baff",
+        "7cc32d7319ba",
+        "668d4a4f9e04",
+        "ba90ae6c41ad",
+        "b1c061e2f73f"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "59cc5f07e4fd",
+        "05bfc3bfdeeb",
+        "fa06a10ffe9b",
+        "989cfe3ad818",
+        "edd94c62362b"
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        "3a7eb4ef102b",
+        "8f0ecf8a1360",
+        "8a6ab0ea9126",
+        "a47a587ab14a",
+        "e6fc26ae9d6e"
+      ]
+    },
+    "opinion": {
+      "item_count": 13,
+      "top_items": [
+        "28feefd805e9",
+        "4a821f6526e3",
+        "ef0d7f506682",
+        "399afc3899f0",
+        "6e8b04a00cbb"
+      ]
+    },
+    "ai": {
+      "item_count": 6,
+      "top_items": [
+        {
+          "id": "0de183e1e737",
+          "title": "Η Ελλάδα στο τιμόνι του ΣΑ του ΟΗΕ: Στην ατζέντα ΑΙ, θαλάσσια ασφάλεια και η κούρσα για τον επόμενο ΓΓ",
+          "url": "https://www.kathimerini.gr/world/564495373/i-ellada-sto-timoni-toy-sa-toy-oie-stin-atzenta-ai-thalassia-asfaleia-kai-i-koyrsa-gia-ton-epomeno-gg/",
+          "source": "Kathimerini",
+          "published": "2026-10-02T07:37:02+00:00",
+          "category": "politics",
+          "importance": 80,
+          "summary": {
+            "el": "Η Ελλάδα προεδρεύει τον Οκτώβριο του Συμβουλίου Ασφαλείας του ΟΗΕ και θα δώσει έμφαση στις αναδυόμενες τεχνολογίες και την τεχνητή νοημοσύνη, τη θαλάσσια ασφάλεια, τα παιδιά σε ένοπλες συγκρούσεις και την ατζέντα «Γυναίκες, Ειρήνη και Ασφάλεια». Στις 29 Οκτωβρίου θα προεδρεύσει ο πρωθυπουργός.",
+            "en": "Greece holds the UN Security Council presidency in October, focusing on emerging technologies and AI, maritime security, children in armed conflict and Women, Peace and Security. The prime minister will chair a session on 29 October."
+          },
+          "tags": {
+            "el": [
+              "ΟΗΕ",
+              "Συμβούλιο Ασφαλείας",
+              "Τεχνητή νοημοσύνη",
+              "Διπλωματία"
+            ],
+            "en": [
+              "UN",
+              "Security Council",
+              "Artificial intelligence",
+              "Diplomacy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "0bf2a56d5baf",
+          "title": "Αμυντικές δαπάνες 8 τρισ. δολ. ενισχύουν την τεχνητή νοημοσύνη",
+          "url": "https://www.kathimerini.gr/economy/international/564495256/amyntikes-dapanes-8-tris-dol-enischyoyn-tin-techniti-noimosyni/",
+          "source": "Kathimerini",
+          "published": "2026-10-02T10:41:00+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Οι σχεδιαζόμενες αμυντικές δαπάνες των χωρών του G7 εκτιμώνται σε 8 τρισ. δολάρια την επόμενη δεκαετία και αναμένεται να ενισχύσουν την ανάπτυξη, αλλά και να επηρεάσουν πληθωρισμό και χρέη, με ώθηση και για την τεχνητή νοημοσύνη.",
+            "en": "Planned G7 defence spending is estimated at $8tn over the next decade, expected to support growth but also affect inflation and debt, with a boost for AI."
+          },
+          "tags": {
+            "el": [
+              "Άμυνα",
+              "G7",
+              "Τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "Defence",
+              "G7",
+              "Artificial intelligence"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "247791583795",
+          "title": "Προειδοποίηση για την AI από την Τράπεζα της Αγγλίας",
+          "url": "https://www.kathimerini.gr/economy/international/564495208/proeidopoiisi-gia-tin-ai-apo-tin-trapeza-tis-agglias/",
+          "source": "Kathimerini",
+          "published": "2026-10-02T08:18:00+00:00",
+          "category": "economy",
+          "importance": 56,
+          "summary": {
+            "el": "Ο διοικητής της Τράπεζας της Αγγλίας Άντριου Μπέιλι προειδοποίησε ότι η τεχνητή νοημοσύνη θα μπορούσε να προκαλέσει σοκ στις αγορές, καθώς οι τεράστιες επενδύσεις «δεν κερδίζουν πάντα όλους».",
+            "en": "Bank of England governor Andrew Bailey warned that AI could trigger market shocks, noting that the vast sums invested 'don't always win for everyone'."
+          },
+          "tags": {
+            "el": [
+              "Τεχνητή νοημοσύνη",
+              "Τράπεζα της Αγγλίας",
+              "Αγορές"
+            ],
+            "en": [
+              "Artificial intelligence",
+              "Bank of England",
+              "Markets"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6da83d812a29",
+          "title": "BMW: Σχέδιο αναδιάρθρωσης με 8.000 απολύσεις, AI και δύο νέα μοντέλα έως το 2028",
+          "url": "https://www.kathimerini.gr/world/564495799/bmw-schedio-anadiarthrosis-me-8-000-apolyseis-ai-kai-dyo-nea-montela-eos-to-2028/",
+          "source": "Kathimerini",
+          "published": "2026-10-02T10:34:27+00:00",
+          "category": "world",
+          "importance": 54,
+          "summary": {
+            "el": "Η BMW παρουσίασε σχέδιο αναδιάρθρωσης με 8.000 απολύσεις, έμφαση στην τεχνητή νοημοσύνη και δύο νέα μοντέλα έως το 2028, στοχεύοντας περιθώριο κέρδους 3%–5% στον βασικό κλάδο.",
+            "en": "BMW unveiled a restructuring plan with 8,000 job cuts, an AI focus and two new models by 2028, targeting a 3%–5% margin in its core car business."
+          },
+          "tags": {
+            "el": [
+              "BMW",
+              "Απολύσεις",
+              "Αυτοκινητοβιομηχανία",
+              "AI"
+            ],
+            "en": [
+              "BMW",
+              "Layoffs",
+              "Carmaking",
+              "AI"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "6fe91b99d22a",
+          "title": "Κάτω οι αυθεντίες",
+          "url": "https://www.kathimerini.gr/opinion/564491920/kato-oi-aythenties/",
+          "source": "Kathimerini",
+          "published": "2026-10-01T12:57:00+00:00",
+          "category": "opinion",
+          "importance": 36,
+          "summary": {
+            "el": "Ο Νίκος Βατόπουλος σχολιάζει την άνοδο της δυσπιστίας προς τις «αυθεντίες» και τον ρόλο της μειοψηφίας που ενημερώνεται από αξιόπιστες πηγές.",
+            "en": "Nikos Vatopoulos comments on rising distrust of 'authorities' and the role of the minority who inform themselves from reliable sources."
+          },
+          "tags": {
+            "el": [
+              "Αυθεντίες",
+              "Κοινωνία"
+            ],
+            "en": [
+              "Authority",
+              "Society"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
