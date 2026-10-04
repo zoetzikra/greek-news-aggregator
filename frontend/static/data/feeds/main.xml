@@ -1,207 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top stories 2026-10-03</title>
+  <title>Greek News Aggregator — Top stories 2026-10-04</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <id>urn:greek-news-aggregator:2026-10-03</id>
-  <updated>2026-10-03T09:10:05+00:00</updated>
+  <id>urn:greek-news-aggregator:2026-10-04</id>
+  <updated>2026-10-04T16:49:45+00:00</updated>
   <entry>
-    <title>Κακοκαιρία: Νύχτα με προβλήματα και απεγκλωβισμούς στην Κρήτη – Εκτακτο δελτίο ΕΜΥ</title>
-    <link href="https://www.kathimerini.gr/society/564499135/kakokairia-nychta-me-provlimata-kai-apegklovismoys-stin-kriti-ektakto-deltio-emy/"/>
-    <id>https://www.kathimerini.gr/society/564499135/kakokairia-nychta-me-provlimata-kai-apegklovismoys-stin-kriti-ektakto-deltio-emy/</id>
-    <updated>2026-10-03T07:20:47+00:00</updated>
+    <title>Ανυπολόγιστη καταστροφή στην Κρήτη – Η κακοκαιρία σάρωσε σπίτια, δρόμους και καλλιέργειες</title>
+    <link href="https://www.kathimerini.gr/society/564500275/anypologisti-katastrofi-stin-kriti-i-kakokairia-sarose-spitia-dromoys-kai-kalliergeies/"/>
+    <id>https://www.kathimerini.gr/society/564500275/anypologisti-katastrofi-stin-kriti-i-kakokairia-sarose-spitia-dromoys-kai-kalliergeies/</id>
+    <updated>2026-10-04T18:10:25+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="society"/>
-    <summary type="text">Η κακοκαιρία συνεχίζεται στην Κρήτη με σοβαρά προβλήματα στην Ιεράπετρα, τα Φέρμα και τον Μακρύ Γιαλό, όπου η Πυροσβεστική απεγκλώβισε 23 άτομα από αυτοκίνητα και σπίτια. Σε ισχύ είναι επικαιροποιημένο έκτακτο δελτίο της ΕΜΥ.</summary>
-    <content type="text">The storm continues in Crete with serious problems in Ierapetra, Ferma and Makry Gialos, where the Fire Service rescued 23 people from cars and homes. An updated EMY emergency bulletin is in force.</content>
+    <summary type="text">Η κακοκαιρία στην Κρήτη προκάλεσε υπερχειλίσεις ποταμών, πλημμύρες και κατολισθήσεις με εκτεταμένες ζημιές σε σπίτια, δρόμους και καλλιέργειες. Οι υπηρεσίες παραμένουν επί ποδός σε Ιεράπετρα, Ζωνιανά και Μαλεβίζι.</summary>
+    <content type="text">The storm in Crete caused river overflows, floods and landslides, with extensive damage to homes, roads and crops. Emergency services remain on alert in Ierapetra, Zoniana and Malevizi.</content>
   </entry>
   <entry>
-    <title>ΗΑΕ: Με τσεκούρι επιτέθηκε ο συγκυβερνήτης στον πιλότο της flydubai</title>
-    <link href="https://www.kathimerini.gr/world/564499267/iae-me-tsekoyri-epitethike-o-sygkyvernitis-ston-piloto-tis-flydubai/"/>
-    <id>https://www.kathimerini.gr/world/564499267/iae-me-tsekoyri-epitethike-o-sygkyvernitis-ston-piloto-tis-flydubai/</id>
-    <updated>2026-10-03T10:30:26+00:00</updated>
+    <title>Μητσοτάκης: Η ενεργειακή αναταραχή δεν αντιμετωπίζεται μόνο με συμβουλές για περιορισμό της κατανάλωσης</title>
+    <link href="https://www.kathimerini.gr/society/564499942/mitsotakis-i-energeiaki-anatarachi-den-antimetopizetai-mono-me-symvoyles-gia-periorismo-tis-katanalosis/"/>
+    <id>https://www.kathimerini.gr/society/564499942/mitsotakis-i-energeiaki-anatarachi-den-antimetopizetai-mono-me-symvoyles-gia-periorismo-tis-katanalosis/</id>
+    <updated>2026-10-04T10:21:47+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Τα ΗΑΕ μιλούν για «τρομοκρατική ενέργεια» στην πτήση της flydubai από το Ντουμπάι προς το Τελ Αβίβ, όπου ο συγκυβερνήτης, Ομανός υπήκοος, επιτέθηκε στον κυβερνήτη με το τσεκούρι έκτακτης ανάγκης του πιλοτηρίου. Επιχείρησε να θέσει το αεροσκάφος υπό τον έλεγχό του.</summary>
-    <content type="text">The UAE call the flydubai flight from Dubai to Tel Aviv a &#x27;terrorist act&#x27;: the co-pilot, an Omani national, attacked the captain with the cockpit emergency axe and tried to take control of the aircraft.</content>
+    <category term="politics"/>
+    <summary type="text">Στην εβδομαδιαία ανάρτησή του ο Μητσοτάκης τονίζει ότι η ενεργειακή αναταραχή δεν αντιμετωπίζεται μόνο με συμβουλές περιορισμού κατανάλωσης. Αναφέρεται στα μέτρα για τα καύσιμα, την κακοκαιρία στην Κρήτη, τις 120 δόσεις και τους servicers, και προτείνει χρήση των υπερεσόδων ΦΠΑ για τα νοικοκυριά.</summary>
+    <content type="text">In his weekly post, Mitsotakis stresses that the energy turmoil cannot be tackled by advice to cut consumption alone. He covers fuel measures, the Crete storm, the 120 instalments and servicers, and proposes using VAT overperformance to relieve households.</content>
   </entry>
   <entry>
-    <title>Προετοιμασίες για νέο γύρο επιχειρήσεων κατά του Ιράν</title>
-    <link href="https://www.kathimerini.gr/world/564497734/proetoimasies-gia-neo-gyro-epicheiriseon-kata-toy-iran/"/>
-    <id>https://www.kathimerini.gr/world/564497734/proetoimasies-gia-neo-gyro-epicheiriseon-kata-toy-iran/</id>
-    <updated>2026-10-03T06:47:40+00:00</updated>
+    <title>Κακοκαιρία στην Κρήτη: Τεράστια η έκταση της καταστροφής – Νέο 112 και αγωνία για εγκλωβισμένους</title>
+    <link href="https://www.kathimerini.gr/society/564499978/kakokairia-stin-kriti-terastia-i-ektasi-tis-katastrofis-neo-112-kai-agonia-gia-egklovismenoys/"/>
+    <id>https://www.kathimerini.gr/society/564499978/kakokairia-stin-kriti-terastia-i-ektasi-tis-katastrofis-neo-112-kai-agonia-gia-egklovismenoys/</id>
+    <updated>2026-10-04T12:19:30+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ενισχύονται οι φόβοι για νέο γύρο επιχειρήσεων κατά του Ιράν, αφού ο Τραμπ απέρριψε τις τελευταίες ειρηνευτικές προτάσεις της Τεχεράνης. Το Πεντάγωνο στέλνει τρίτο αεροπλανοφόρο, το «Theodore Roosevelt», και 9.000 επιπλέον άνδρες στους 50.000 που ήδη βρίσκονται στη Μέση Ανατολή.</summary>
-    <content type="text">Fears grow of a new round of operations against Iran after Trump rejected Tehran&#x27;s latest peace proposals. The Pentagon is sending a third carrier, the Theodore Roosevelt, and 9,000 more troops to the 50,000 already in the Middle East.</content>
+    <category term="society"/>
+    <summary type="text">Η κακοκαιρία στην Κρήτη συνεχίζεται για τέταρτο 24ωρο με εκτεταμένες ζημιές σε υποδομές, καλλιέργειες και ζωικό κεφάλαιο. Νέο 112 στην Ιεράπετρα, αγωνία για εγκλωβισμένους στη Σαμαριά και 79 διασώσεις από το Σάββατο.</summary>
+    <content type="text">The storm in Crete enters its fourth day with extensive damage to infrastructure, crops and livestock. A new 112 alert was issued in Ierapetra, anxiety over people trapped at Samaria, and 79 rescues since Saturday.</content>
   </entry>
   <entry>
-    <title>Αλμα 25,4% στις τιμές ενέργειας τον Σεπτέμβριο</title>
-    <link href="https://www.kathimerini.gr/visual/infographics/564498025/alma-25-4-stis-times-energeias-ton-septemvrio/"/>
-    <id>https://www.kathimerini.gr/visual/infographics/564498025/alma-25-4-stis-times-energeias-ton-septemvrio/</id>
-    <updated>2026-10-03T07:03:46+03:00</updated>
-    <author><name>Δήμητρα Μανιφάβα</name></author>
+    <title>Προϋπολογισμός στη σκιά της ενεργειακής κρίσης</title>
+    <link href="https://www.kathimerini.gr/economy/564498712/proypologismos-sti-skia-tis-energeiakis-krisis/"/>
+    <id>https://www.kathimerini.gr/economy/564498712/proypologismos-sti-skia-tis-energeiakis-krisis/</id>
+    <updated>2026-10-04T16:43:43+00:00</updated>
+    <author><name>Θάνος Τσίρος</name></author>
     <category term="economy"/>
-    <summary type="text">Ο πληθωρισμός εκτινάχθηκε στο 5,1% τον Σεπτέμβριο, το υψηλότερο επίπεδο από το 2023, με τις τιμές ενέργειας αυξημένες 25,4% σε ετήσια βάση. Ο φόβος είναι ότι η ενεργειακή αύξηση θα μεταδοθεί στα υπόλοιπα προϊόντα.</summary>
-    <content type="text">Inflation jumped to 5.1% in September, the highest since 2023, with energy prices up 25.4% year on year. The fear is that the energy rise will spread to other goods.</content>
+    <summary type="text">Το προσχέδιο του προϋπολογισμού 2027 κατατίθεται αύριο στη Βουλή με εναλλακτικά σενάρια, καθώς αναμένεται αναθεώρηση ως τον Νοέμβριο. Ο πληθωρισμός αναθεωρήθηκε προς τα πάνω, ενώ προβλέπεται ανάπτυξη 2% παρά την ενεργειακή κρίση και το τέλος του Ταμείου Ανάκαμψης.</summary>
+    <content type="text">The draft 2027 budget is submitted to Parliament tomorrow with alternative scenarios, and is likely to be revised by November. Inflation forecasts were raised, while 2% growth is projected despite the energy crisis and the end of the Recovery Fund.</content>
   </entry>
   <entry>
-    <title>Θεσσαλονίκη: Συμφωνία πολιτιστικής ανταλλαγής Ελλάδας – Βουλγαρίας, παρουσία Μητσοτάκη-Ράντεφ</title>
-    <link href="https://www.kathimerini.gr/culture/564499279/thessaloniki-symfonia-politistikis-antallagis-elladas-voylgarias-paroysia-mitsotaki-rantef/"/>
-    <id>https://www.kathimerini.gr/culture/564499279/thessaloniki-symfonia-politistikis-antallagis-elladas-voylgarias-paroysia-mitsotaki-rantef/</id>
-    <updated>2026-10-03T10:39:28+00:00</updated>
+    <title>«Δραματική κατάσταση» στο Κίεβο μετά το μπαράζ πληγμάτων σε γέφυρες – «Κρίσιμες εβδομάδες», βλέπει ο Μερτς</title>
+    <link href="https://www.kathimerini.gr/world/564500002/dramatiki-katastasi-sto-kievo-meta-to-mparaz-pligmaton-se-gefyres-krisimes-evdomades-vlepei-o-merts/"/>
+    <id>https://www.kathimerini.gr/world/564500002/dramatiki-katastasi-sto-kievo-meta-to-mparaz-pligmaton-se-gefyres-krisimes-evdomades-vlepei-o-merts/</id>
+    <updated>2026-10-04T13:27:35+00:00</updated>
     <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Στο Μουσείο Βυζαντινού Πολιτισμού της Θεσσαλονίκης υπογράφηκαν, παρουσία Μητσοτάκη και Ράντεφ, τα πρωτόκολλα ανταλλαγής εκκλησιαστικών κειμηλίων και των οστών του τσάρου Σαμουήλ. 48 ιερά κειμήλια επιστρέφουν στην Ελλάδα έναν αιώνα μετά την αφαίρεσή τους.</summary>
-    <content type="text">At the Museum of Byzantine Culture in Thessaloniki, protocols for exchanging church relics and the remains of Tsar Samuel were signed in the presence of Mitsotakis and Radev. Forty-eight sacred relics return to Greece over a century after their removal.</content>
+    <category term="world"/>
+    <summary type="text">Η Ρωσία έπληξε για τέταρτη μέρα γέφυρες του Κιέβου, ενώ ο Μερτς επισκέφθηκε αιφνιδιαστικά την πόλη. Το πλήγμα στη γέφυρα Πίβνιτσνι έβλαψε αγωγό θέρμανσης και ο Γερμανός καγκελάριος μιλά για «κρίσιμες εβδομάδες».</summary>
+    <content type="text">Russia struck Kyiv&#x27;s bridges for a fourth consecutive day as Merz made a surprise visit. The hit on the Pivnichnyi bridge damaged a heating pipeline, and the German chancellor spoke of &#x27;critical weeks&#x27;.</content>
   </entry>
   <entry>
-    <title>Εντός και Εκτός: Το πρόγραμμα Ρούμπιο στην Αθήνα</title>
-    <link href="https://www.kathimerini.gr/politics/564497638/entos-kai-ektos-to-programma-roympio-stin-athina/"/>
-    <id>https://www.kathimerini.gr/politics/564497638/entos-kai-ektos-to-programma-roympio-stin-athina/</id>
-    <updated>2026-10-03T07:43:50+00:00</updated>
-    <author><name>Βασίλης Νέδος</name></author>
-    <category term="politics"/>
-    <summary type="text">Ο Μάρκο Ρούμπιο θα φτάσει στην Αθήνα το βράδυ της Τρίτης 6 Οκτωβρίου και θα αναχωρήσει νωρίς την Πέμπτη 8 Οκτωβρίου, με το επίσημο πρόγραμμα στις 7 Οκτωβρίου στο ΥΠΕΞ και στο Μαξίμου. Το τελικό πρόγραμμα θα οριστικοποιηθεί τη Δευτέρα και ο Αμερικανός ΥΠΕΞ θέλει να δώσει ομιλία.</summary>
-    <content type="text">Marco Rubio will arrive in Athens on the evening of Tuesday 6 October and leave early on Thursday 8 October, with the official programme on 7 October at the Foreign Ministry and Maximos Mansion. The final schedule is set for Monday and he wants to give a speech.</content>
-  </entry>
-  <entry>
-    <title>Οι επιπτώσεις ενός πιθανού μπλόκου στις αμερικανικές εξαγωγές ντίζελ</title>
-    <link href="https://www.kathimerini.gr/economy/international/564498079/oi-epiptoseis-enos-pithanoy-mplokoy-stis-amerikanikes-exagoges-ntizel/"/>
-    <id>https://www.kathimerini.gr/economy/international/564498079/oi-epiptoseis-enos-pithanoy-mplokoy-stis-amerikanikes-exagoges-ntizel/</id>
-    <updated>2026-10-03T09:18:00+00:00</updated>
+    <title>Ζελένσκι: Ο Πούτιν επιτίθεται σε πόλεις για να κάμψει την ουκρανική αντίσταση</title>
+    <link href="https://www.kathimerini.gr/world/564500074/zelenski-o-poytin-epitithetai-se-poleis-gia-na-kampsei-tin-oykraniki-antistasi/"/>
+    <id>https://www.kathimerini.gr/world/564500074/zelenski-o-poytin-epitithetai-se-poleis-gia-na-kampsei-tin-oykraniki-antistasi/</id>
+    <updated>2026-10-04T15:51:49+00:00</updated>
     <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Ο Ζελένσκι δήλωσε ότι ο Πούτιν κλιμακώνει τους βομβαρδισμούς σε Κίεβο και άλλες πόλεις για να κάμψει την αντίσταση, με πλήγματα σε γέφυρες. Μίλησε σε συνέντευξη Τύπου μαζί με τον Γερμανό καγκελάριο Μερτς.</summary>
+    <content type="text">Zelensky said Putin is escalating air strikes on Kyiv and other cities to break Ukrainian resistance, including hits on bridges. He spoke at a press conference with German Chancellor Merz.</content>
+  </entry>
+  <entry>
+    <title>Ιράν: Το Ορμούζ θα ανοίξει όταν εκπληρωθούν οι όροι</title>
+    <link href="https://www.kathimerini.gr/world/564499963/iran-to-ormoyz-tha-anoixei-otan-ekplirothoyn-oi-oroi/"/>
+    <id>https://www.kathimerini.gr/world/564499963/iran-to-ormoyz-tha-anoixei-otan-ekplirothoyn-oi-oroi/</id>
+    <updated>2026-10-04T11:21:23+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Ο πρόεδρος του ιρανικού Κοινοβουλίου Καλιμπάφ δήλωσε ότι τα Στενά του Ορμούζ δεν θα ανοίξουν ξανά μέχρι να εκπληρωθούν οι επτά όροι του Ιράν στο πλαίσιο της προσωρινής συμφωνίας του Ιουνίου με τις ΗΠΑ.</summary>
+    <content type="text">Iranian parliament speaker Ghalibaf said the Strait of Hormuz will not reopen until Iran&#x27;s seven conditions under the June interim deal with the US are met.</content>
+  </entry>
+  <entry>
+    <title>Ζελένσκι: «Θα απαντήσουμε στις επιθέσεις της Ρωσίας με πλήγματα σε διυλιστήρια»</title>
+    <link href="https://www.kathimerini.gr/world/564499900/zelenski-tha-apantisoyme-stis-epitheseis-tis-rosias-me-pligmata-se-diylistiria/"/>
+    <id>https://www.kathimerini.gr/world/564499900/zelenski-tha-apantisoyme-stis-epitheseis-tis-rosias-me-pligmata-se-diylistiria/</id>
+    <updated>2026-10-04T07:44:16+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Ο Ζελένσκι δήλωσε ότι η Ουκρανία θα εντείνει τα πλήγματα σε ρωσικά διυλιστήρια, ως απάντηση στη ρωσική στρατηγική που στοχεύει να εξαναγκάσει αμάχους να εγκαταλείψουν το Κίεβο, διαβεβαιώνοντας ότι δεν θα στοχοποιηθούν άμαχοι.</summary>
+    <content type="text">Zelensky said Ukraine will step up strikes on Russian refineries in response to Moscow&#x27;s strategy of forcing civilians out of Kyiv, assuring that civilians will not be targeted.</content>
+  </entry>
+  <entry>
+    <title>«Αδεια» για μέτρα 700 εκατ. ευρώ ζητεί η Αθήνα από την Ε.Ε.</title>
+    <link href="https://www.kathimerini.gr/economy/564498727/adeia-gia-metra-700-ekat-eyro-zitei-i-athina-apo-tin-e-e/"/>
+    <id>https://www.kathimerini.gr/economy/564498727/adeia-gia-metra-700-ekat-eyro-zitei-i-athina-apo-tin-e-e/</id>
+    <updated>2026-10-04T12:43:57+00:00</updated>
+    <author><name>Θέλμα Χατζηαθανασίου</name></author>
     <category term="economy"/>
-    <summary type="text">Η παγκόσμια αγορά ντίζελ βιώνει πρωτοφανή κρίση λόγω των συγκρούσεων σε Μέση Ανατολή και Ουκρανία, που μπλοκάρουν σχεδόν το ένα τρίτο των εξαγωγών. Ένα αμερικανικό μπλόκο στις εξαγωγές θα μπορούσε να υποβαθμίσει προσωρινά τις τιμές στις ΗΠΑ, αλλά τελικά να ακριβύνει όλα τα καύσιμα.</summary>
-    <content type="text">The global diesel market faces an unprecedented crisis as conflicts in the Middle East and Ukraine block nearly a third of exports. A US export block could temporarily lower prices in the US but ultimately make all fuels dearer.</content>
+    <summary type="text">Η κυβέρνηση ζητά από την ΕΕ να μην προσμετρηθούν στο όριο δαπανών του Συμφώνου Σταθερότητας περίπου 700 εκατ. ευρώ φορολογικών υπερεσόδων για νέα μέτρα απέναντι στην ενεργειακή κρίση. Το οικονομικό επιτελείο διαβεβαιώνει ότι υπάρχουν εφεδρείες για το τελευταίο τρίμηνο.</summary>
+    <content type="text">The government is asking the EU to exclude around €700m of tax overperformance from the Stability Pact&#x27;s spending limit so it can fund new energy-crisis measures. The economic team says reserves exist for the final quarter.</content>
   </entry>
   <entry>
-    <title>ΠΑΣΟΚ, ΕΛΑΣ και η σύγκρουση για τη δεύτερη θέση στην κάλπη</title>
-    <link href="https://www.kathimerini.gr/politics/parties/564494734/pasok-elas-kai-i-sygkroysi-gia-ti-deyteri-thesi-stin-kalpi/"/>
-    <id>https://www.kathimerini.gr/politics/parties/564494734/pasok-elas-kai-i-sygkroysi-gia-ti-deyteri-thesi-stin-kalpi/</id>
-    <updated>2026-10-02T21:07:15+00:00</updated>
-    <author><name>Αγγελική Σπανού</name></author>
-    <category term="politics"/>
-    <summary type="text">Η Αγγελική Σπανού αναλύει τη μάχη ΠΑΣΟΚ και ΕΛΑΣ για τη δεύτερη θέση, με το κόμμα του Τσίπρα να προηγείται σε τρίτο κύμα δημοσκοπήσεων αλλά χωρίς το προβάδισμα να έχει «κλειδώσει». Όποιος χάσει λιγότερο θα πρωταγωνιστήσει στην ανασύνθεση του προοδευτικού χώρου, κατά την Pulse.</summary>
-    <content type="text">Angeliki Spanou analyses the PASOK–ELAS fight for second place, with Tsipras&#x27;s party ahead in a third wave of polls but its lead not &#x27;locked in&#x27;. According to Pulse, whoever loses less will lead the next-day realignment of the progressive camp.</content>
-  </entry>
-  <entry>
-    <title>ΗΠΑ και Ιράν: Θέλουν διπλωματία, αλλά διαφωνούν ακόμη και στο τι σημαίνει συμφωνία</title>
-    <link href="https://www.kathimerini.gr/world/564496942/ipa-kai-iran-theloyn-diplomatia-alla-diafonoyn-akomi-kai-sto-ti-simainei-symfonia/"/>
-    <id>https://www.kathimerini.gr/world/564496942/ipa-kai-iran-theloyn-diplomatia-alla-diafonoyn-akomi-kai-sto-ti-simainei-symfonia/</id>
-    <updated>2026-10-02T22:45:48+00:00</updated>
+    <title>Πόλεμος στην Ουκρανία: Στο Κίεβο ο Μερτς</title>
+    <link href="https://www.kathimerini.gr/world/564499915/polemos-stin-oykrania-sto-kievo-o-merts/"/>
+    <id>https://www.kathimerini.gr/world/564499915/polemos-stin-oykrania-sto-kievo-o-merts/</id>
+    <updated>2026-10-04T08:28:42+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Σύμφωνα με ανάλυση του Axios, ΗΠΑ και Ιράν δηλώνουν ότι προτιμούν τη διπλωματία, αλλά διαφωνούν ακόμη και στο τι σημαίνει διαπραγμάτευση: διάρκεια, φιλοδοξία και εμπιστοσύνη. Όσο περισσότερο συνομιλούν, τόσο πιο μακρινή μοιάζει η συμφωνία.</summary>
-    <content type="text">According to an Axios analysis, the US and Iran say they prefer diplomacy but disagree even on what negotiation means: duration, ambition and trust. The more they talk, the more distant a deal looks.</content>
+    <summary type="text">Ο Μερτς έφτασε στο Κίεβο με επικεφαλής γερμανικών αμυντικών εταιρειών. Αναμένεται να ανακοινώσει αποδέσμευση 1 δισ. ευρώ σε στρατιωτική βοήθεια και 350 εκατ. ευρώ για επισκευές ενεργειακών υποδομών.</summary>
+    <content type="text">Merz arrived in Kyiv accompanied by heads of German defence firms. He is expected to announce €1bn in military aid and €350m for energy-infrastructure repairs.</content>
   </entry>
   <entry>
-    <title>Γαλλία: Οργή μαθητών «πνίγει» τον Μακρόν</title>
-    <link href="https://www.kathimerini.gr/world/564497746/gallia-orgi-mathiton-pnigei-ton-makron/"/>
-    <id>https://www.kathimerini.gr/world/564497746/gallia-orgi-mathiton-pnigei-ton-makron/</id>
-    <updated>2026-10-03T06:32:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Στη Γαλλία οι μαζικές κινητοποιήσεις μαθητών συνοδεύτηκαν από συγκρούσεις με την αστυνομία και πάνω από 2.000 συλλήψεις, στη μεγαλύτερη κρίση των τελευταίων μηνών για την κυβέρνηση Μακρόν. Η χώρα οδεύει προς προεδρικές εκλογές τον Μάιο.</summary>
-    <content type="text">In France mass student mobilisations brought clashes with police and over 2,000 arrests, in the biggest crisis in months for Macron&#x27;s government. The country heads to presidential elections in May.</content>
-  </entry>
-  <entry>
-    <title>Δένδιας: Μήνυμα ενότητας από τον Αλιμο – «Υπηρέτησα με τη ψυχή μου Καραμανλή, Σαμαρά και Μητσοτάκη»</title>
-    <link href="https://www.kathimerini.gr/politics/564499237/dendias-minyma-enotitas-apo-ton-alimo-ypiretisa-me-ti-psychi-moy-karamanli-samara-kai-mitsotaki/"/>
-    <id>https://www.kathimerini.gr/politics/564499237/dendias-minyma-enotitas-apo-ton-alimo-ypiretisa-me-ti-psychi-moy-karamanli-samara-kai-mitsotaki/</id>
-    <updated>2026-10-03T09:54:16+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Στην πρώτη του πολιτική συγκέντρωση, στον Άλιμο, ο Νίκος Δένδιας εμφανίστηκε ενωτικός απέναντι στη Ν.Δ., λέγοντας ότι υπηρέτησε «με την ψυχή του» Καραμανλή, Σαμαρά και Μητσοτάκη. Έστειλε μήνυμα συσπείρωσης και προς τους εσωκομματικούς «αντάρτες».</summary>
-    <content type="text">At his first political rally, in Alimos, Nikos Dendias presented a unifying image toward New Democracy, saying he served Karamanlis, Samaras and Mitsotakis &#x27;with all his heart&#x27;. He sent a rallying message, including to intra-party &#x27;rebels&#x27;.</content>
-  </entry>
-  <entry>
-    <title>Θάνατος Μαζωνάκη: «Αρνούμαι την κατηγορία κατηγορηματικά» – Τι υποστήριξε ο 58χρονος γιατρός</title>
-    <link href="https://www.kathimerini.gr/society/dikastiko/564497230/thanatos-mazonaki-arnoymai-tin-katigoria-katigorimatika-ti-ypostirixe-o-58chronos-giatros/"/>
-    <id>https://www.kathimerini.gr/society/dikastiko/564497230/thanatos-mazonaki-arnoymai-tin-katigoria-katigorimatika-ti-ypostirixe-o-58chronos-giatros/</id>
-    <updated>2026-10-02T19:05:22+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <category term="society"/>
-    <summary type="text">Ο 58χρονος γιατρός στην υπόθεση του θανάτου του Γιώργου Μαζωνάκη δήλωσε στην απολογία του «Αρνούμαι την κατηγορία κατηγορηματικά» και ότι είναι συντετριμμένος. Απάντησε για τα μηχανήματα, τον απινιδωτή και τα ραντεβού στο ιατρείο.</summary>
-    <content type="text">The 58-year-old doctor in the Mazonakis death case told his defence hearing &#x27;I categorically deny the charge&#x27; and said he is devastated. He addressed questions on equipment, the defibrillator and appointments at the clinic.</content>
-  </entry>
-  <entry>
-    <title>Μητσοτάκης για γλυπτά Παρθενώνα: Δε θα δεχτούμε διευθετήσεις που δηλώνουν ξένη κυριαρχία</title>
-    <link href="https://www.kathimerini.gr/culture/564499336/mitsotakis-gia-glypta-parthenona-de-tha-dechtoyme-dieythetiseis-poy-dilonoyn-xeni-kyriarcheia/"/>
-    <id>https://www.kathimerini.gr/culture/564499336/mitsotakis-gia-glypta-parthenona-de-tha-dechtoyme-dieythetiseis-poy-dilonoyn-xeni-kyriarcheia/</id>
-    <updated>2026-10-03T11:47:14+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Μιλώντας στην τελετή με τη Βουλγαρία, ο Μητσοτάκης επανέλαβε το αίτημα επιστροφής των Γλυπτών του Παρθενώνα και δήλωσε ότι δεν θα δεχθεί διευθετήσεις που δηλώνουν ξένη κυριαρχία. Τόνισε ότι τα μνημεία δεν μπορούν να αντιμετωπίζονται ως απλά αντικείμενα.</summary>
-    <content type="text">Speaking at the ceremony with Bulgaria, Mitsotakis reiterated Greece&#x27;s demand for the return of the Parthenon Marbles and said he would not accept arrangements implying foreign sovereignty. He stressed monuments cannot be treated as mere objects.</content>
-  </entry>
-  <entry>
-    <title>Υπόθεση Μαζωνάκη: «Αντέδρασα ακαριαία – Ολα έγιναν μέσα σε ένα λεπτό» υποστηρίζει η γιατρός</title>
-    <link href="https://www.kathimerini.gr/society/dikastiko/564497227/ypothesi-mazonaki-antedrasa-akariaia-ola-eginan-mesa-se-ena-lepto-ypostirizei-i-giatros/"/>
-    <id>https://www.kathimerini.gr/society/dikastiko/564497227/ypothesi-mazonaki-antedrasa-akariaia-ola-eginan-mesa-se-ena-lepto-ypostirizei-i-giatros/</id>
-    <updated>2026-10-02T19:00:03+00:00</updated>
-    <author><name>Σοφία Σπίγγου</name></author>
-    <category term="society"/>
-    <summary type="text">Στην 18σέλιδη απολογία της, η 56χρονη γιατρός για την υπόθεση Μαζωνάκη υποστηρίζει ότι αντέδρασε ακαριαία: έβαλε μάσκα οξυγόνου, ζήτησε αδρεναλίνη και κάλεσε αμέσως το ΕΚΑΒ. Όπως λέει, όλα έγιναν μέσα σε ένα λεπτό.</summary>
-    <content type="text">In her 18-page defence in the Mazonakis case, the 56-year-old doctor says she reacted instantly: she put on an oxygen mask, asked for adrenaline and called EKAB at once. She says everything happened within a minute.</content>
-  </entry>
-  <entry>
-    <title>Λαύριο: Οι πέντε καταγγελίες της 32χρονης δεν ήταν αρκετές</title>
-    <link href="https://www.kathimerini.gr/society/564497695/layrio-oi-pente-kataggelies-tis-32chronis-den-itan-arketes/"/>
-    <id>https://www.kathimerini.gr/society/564497695/layrio-oi-pente-kataggelies-tis-32chronis-den-itan-arketes/</id>
-    <updated>2026-10-03T07:10:00+00:00</updated>
-    <author><name>Ηλιάνα Μάγρα</name></author>
-    <category term="society"/>
-    <summary type="text">Πριν από την επίθεση στο Λαύριο, ο 32χρονος είχε καταγγελθεί πέντε φορές για ενδοοικογενειακή βία και απειλές, χωρίς αυτό να αρκεί για να τον σταματήσει. Μπήκε στο σπίτι της πρώην συντρόφου του με βαριοπούλα και τραυμάτισε σοβαρά την ίδια και τον νυν σύντροφό της με μαχαίρι.</summary>
-    <content type="text">Before the attack in Lavrio the 32-year-old had been reported five times for domestic violence and threats, which was not enough to stop him. He broke into his ex-partner&#x27;s home with a sledgehammer and seriously wounded her and her current partner with a knife.</content>
-  </entry>
-  <entry>
-    <title>Κρίστα Πάικ: Διασωληνωμένη σε σοβαρή κατάσταση στο νοσοκομείο του Τενεσί</title>
-    <link href="https://www.kathimerini.gr/world/564499321/krista-paik-diasolinomeni-se-sovari-katastasi-sto-nosokomeio-toy-tenesi/"/>
-    <id>https://www.kathimerini.gr/world/564499321/krista-paik-diasolinomeni-se-sovari-katastasi-sto-nosokomeio-toy-tenesi/</id>
-    <updated>2026-10-03T11:26:59+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Η Κρίστα Πάικ, που επέζησε από δύο θανατηφόρες ενέσεις, νοσηλεύεται διασωληνωμένη, χωρίς τις αισθήσεις της και σε σοβαρή κατάσταση σε νοσοκομείο του Τενεσί, σύμφωνα με τους δικηγόρους της. Η 50χρονη υπέστη αποτυχημένη εκτέλεση την Τετάρτη.</summary>
-    <content type="text">Christa Pike, who survived two lethal injections, is in a Tennessee hospital intubated, unconscious and in serious condition, her lawyers said. The 50-year-old underwent a failed execution on Wednesday.</content>
-  </entry>
-  <entry>
-    <title>Μονή Σινά: Ημερομηνία – κλειδί η 24η Οκτωβρίου</title>
-    <link href="https://www.kathimerini.gr/politics/foreign-policy/564494767/imerominia-kleidi-i-24i-oktovrioy-gia-ti-moni-sina/"/>
-    <id>https://www.kathimerini.gr/politics/foreign-policy/564494767/imerominia-kleidi-i-24i-oktovrioy-gia-ti-moni-sina/</id>
-    <updated>2026-10-02T10:51:00+00:00</updated>
-    <author><name>Δώρα Αντωνίου</name></author>
-    <category term="politics"/>
-    <summary type="text">Για τη Μονή Σινά η 24η Οκτωβρίου είναι ημερομηνία-κλειδί, καθώς λήγει η αναβολή για την απόφαση του αιγυπτιακού Ανωτάτου Δικαστηρίου για το ιδιοκτησιακό καθεστώς. Πηγή με γνώση των εξελίξεων εκτιμά ότι συμφωνία έως τότε θα γινόταν «μόνο με θαύμα».</summary>
-    <content type="text">For Sinai Monastery, 24 October is the key date, when the postponement of the Egyptian Supreme Court ruling on its property status expires. A well-informed source says an agreement by then would need &#x27;a miracle&#x27;.</content>
-  </entry>
-  <entry>
-    <title>Οι αγορές βρήκαν λύσεις για τις ροές πετρελαίου, αλλά δεν αρκούν</title>
-    <link href="https://www.kathimerini.gr/economy/international/564498076/oi-agores-vrikan-lyseis-gia-tis-roes-petrelaioy-alla-den-arkoyn/"/>
-    <id>https://www.kathimerini.gr/economy/international/564498076/oi-agores-vrikan-lyseis-gia-tis-roes-petrelaioy-alla-den-arkoyn/</id>
-    <updated>2026-10-03T09:37:00+00:00</updated>
-    <author><name>Βασίλης Κωστούλας</name></author>
+    <title>Ρεύμα: Στροφή στα μπλε τιμολόγια, μετά τις μεγάλες αυξήσεις στα πράσινα</title>
+    <link href="https://www.kathimerini.gr/economy/564498031/reyma-strofi-sta-mple-timologia-meta-tis-megales-ayxiseis-sta-prasina/"/>
+    <id>https://www.kathimerini.gr/economy/564498031/reyma-strofi-sta-mple-timologia-meta-tis-megales-ayxiseis-sta-prasina/</id>
+    <updated>2026-10-03T19:46:53+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
     <category term="economy"/>
-    <summary type="text">Παρά το κλείσιμο των Στενών του Ορμούζ, οι προβλέψεις για πετρέλαιο στα 150–200 δολάρια διαψεύστηκαν, επειδή η αγορά ήταν ήδη πλημμυρισμένη και προσαρμόστηκε. Ωστόσο οι τιμές στην αντλία παραμένουν υψηλές και οι λύσεις δεν αρκούν.</summary>
-    <content type="text">Despite the closure of the Strait of Hormuz, forecasts of $150–200 oil were not borne out because the market was already oversupplied and adapted. Pump prices nevertheless stay high and the solutions are not enough.</content>
+    <summary type="text">Οι πάροχοι ανακοίνωσαν αυξήσεις από 6,7% έως 27% στα πράσινα τιμολόγια του Οκτωβρίου, με εξαίρεση την Ήρων, και ωθούν πάνω από 3 εκατ. καταναλωτές προς τα σταθερά μπλε τιμολόγια.</summary>
+    <content type="text">Suppliers announced increases of 6.7% to 27% on October green tariffs, except Heron, and are nudging over 3 million consumers towards fixed blue tariffs.</content>
   </entry>
   <entry>
-    <title>Λαύριο: Δίωξη για κακούργημα στον 32χρονο που επιτέθηκε στην πρώην σύντροφό του</title>
-    <link href="https://www.kathimerini.gr/society/564497353/layrio-dioxi-gia-kakoyrgima-ston-32chrono-poy-epitethike-stin-proin-syntrofo-toy/"/>
-    <id>https://www.kathimerini.gr/society/564497353/layrio-dioxi-gia-kakoyrgima-ston-32chrono-poy-epitethike-stin-proin-syntrofo-toy/</id>
-    <updated>2026-10-02T20:13:00+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="society"/>
-    <summary type="text">Ασκήθηκε ποινική δίωξη για κακούργημα και τέσσερα πλημμελήματα στον 32χρονο που επιτέθηκε με βιαιότητα στην πρώην σύντροφό του και σε φίλο της στο Λαύριο. Κατηγορείται για απόπειρα ανθρωποκτονίας, παράνομη οπλοφορία και παραβίαση περιοριστικών όρων.</summary>
-    <content type="text">A criminal prosecution for one felony and four misdemeanours was brought against the 32-year-old who violently attacked his ex-partner and a friend of hers in Lavrio. He is charged with attempted homicide, illegal weapon carrying and breach of restrictive terms.</content>
-  </entry>
-  <entry>
-    <title>Η Ελλάδα επιταχύνει τις αποπληρωμές δανείων</title>
-    <link href="https://www.kathimerini.gr/economy/local/564498013/i-ellada-epitachynei-tis-apopliromes-daneion/"/>
-    <id>https://www.kathimerini.gr/economy/local/564498013/i-ellada-epitachynei-tis-apopliromes-daneion/</id>
-    <updated>2026-10-03T07:18:35+00:00</updated>
+    <title>Στέφαν Ινγκβες στην «Κ»: «Καμπανάκι» για το υψηλό δημόσιο χρέος</title>
+    <link href="https://www.kathimerini.gr/economy/international/564498070/stefan-ingkves-stin-k-kampanaki-gia-to-ypsilo-dimosio-chreos/"/>
+    <id>https://www.kathimerini.gr/economy/international/564498070/stefan-ingkves-stin-k-kampanaki-gia-to-ypsilo-dimosio-chreos/</id>
+    <updated>2026-10-03T17:59:22+00:00</updated>
     <author><name>Ελευθερία Κούρταλη</name></author>
     <category term="economy"/>
-    <summary type="text">Η Ελλάδα επιταχύνει τις αποπληρωμές δανείων και δεν χρειάζεται να δανειστεί από τις αγορές, ενώ οι διεθνείς οίκοι μιλούν για κρίση στη Γαλλία που μεταδίδεται στα ομόλογα της Ευρωζώνης. Οι αποδόσεις κρατικών ομολόγων διεθνώς βρίσκονται σε πολυετή υψηλά.</summary>
-    <content type="text">Greece is accelerating loan repayments and does not need to borrow from markets, while major agencies speak of a French crisis spreading to eurozone bonds. Sovereign bond yields internationally stand at multi-decade highs.</content>
+    <summary type="text">Ο Στέφαν Ινγκβες, πρώην διοικητής της Riksbank, χτυπά «καμπανάκι» για το πολύ υψηλό δημόσιο χρέος διεθνώς και την ανεπαρκή δράση. Αναγνωρίζει το άλμα της Ελλάδας και τονίζει ότι η μακροοικονομική σταθερότητα πρέπει να διατηρηθεί.</summary>
+    <content type="text">Stefan Ingves, former Riksbank governor, sounds the alarm on very high global public debt and insufficient action. He acknowledges Greece&#x27;s big leap forward and stresses that macroeconomic stability must be preserved.</content>
+  </entry>
+  <entry>
+    <title>Μεγάλη φωτιά στα Μεταξάτα Κεφαλονιάς – 112 για εκκένωση</title>
+    <link href="https://www.kathimerini.gr/society/564500329/megali-fotia-sta-metaxata-kefalonias-112-gia-ekkenosi/"/>
+    <id>https://www.kathimerini.gr/society/564500329/megali-fotia-sta-metaxata-kefalonias-112-gia-ekkenosi/</id>
+    <updated>2026-10-04T18:35:38+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="society"/>
+    <summary type="text">Μεγάλη πυρκαγιά σε αγροτοδασική έκταση στα Μεταξάτα Κεφαλονιάς, με μήνυμα 112 για προληπτική εκκένωση των Κουρκουμελάτων, Μεταξάτων και Λακήθρας. Επιχειρούν 25 πυροσβέστες με 7 οχήματα, δύο αεροσκάφη και ένα ελικόπτερο.</summary>
+    <content type="text">A large fire broke out in farmland and forest at Metaxata, Kefalonia, with a 112 alert for precautionary evacuation of Kourkoumelata, Metaxata and Lakithra. 25 firefighters with 7 vehicles, two aircraft and a helicopter are fighting it.</content>
+  </entry>
+  <entry>
+    <title>«Κυκλώνουν» την 26η Οκτωβρίου για το καλώδιο</title>
+    <link href="https://www.kathimerini.gr/politics/564498241/kyklonoyn-tin-26i-oktovrioy-gia-to-kalodio/"/>
+    <id>https://www.kathimerini.gr/politics/564498241/kyklonoyn-tin-26i-oktovrioy-gia-to-kalodio/</id>
+    <updated>2026-10-04T08:09:07+00:00</updated>
+    <author><name>Βασίλης Νέδος</name></author>
+    <category term="politics"/>
+    <summary type="text">Αθήνα και Παρίσι είναι κοντά σε φόρμουλα που θα επιτρέψει την πρόοδο του καλωδίου Ελλάδας–Κύπρου (GSI), με ενημέρωση της Άγκυρας από τη Nexans για τα σχέδιά της. Στο παρασκήνιο ξεχωρίζει η ημερομηνία της 26ης Οκτωβρίου.</summary>
+    <content type="text">Athens and Paris are close to a formula allowing the Greece–Cyprus cable (GSI) to advance, with Nexans informing Ankara of its plans. 26 October stands out as a key date.</content>
+  </entry>
+  <entry>
+    <title>Οι κίνδυνοι από την κρίση ομολόγων</title>
+    <link href="https://www.kathimerini.gr/economy/564498877/oi-kindynoi-apo-tin-krisi-omologon-k/"/>
+    <id>https://www.kathimerini.gr/economy/564498877/oi-kindynoi-apo-tin-krisi-omologon-k/</id>
+    <updated>2026-10-04T19:17:14+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">Οι αγορές κρατικών ομολόγων, παραδοσιακά «βαρετές», βρίσκονται σε έντονη αναστάτωση τους τελευταίους μήνες, με ανησυχία για τα υψηλά χρέη και τις αποδόσεις. Αναλυτές προειδοποιούν για κινδύνους για την παγκόσμια οικονομία και τα δημόσια οικονομικά.</summary>
+    <content type="text">Government bond markets, traditionally &#x27;boring&#x27;, have been in turmoil in recent months amid concern over high debts and yields. Analysts warn of risks for the global economy and public finances.</content>
+  </entry>
+  <entry>
+    <title>Μ. Ρούμπιο: Η Κ. Γκίλφοϊλ προωθεί τα ελληνοαμερικανικά συμφέροντα στην Ευρώπη</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564499696/m-roympio-i-k-gkilfoil-proothei-ta-ellinoamerikanika-symferonta-stin-eyropi/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564499696/m-roympio-i-k-gkilfoil-proothei-ta-ellinoamerikanika-symferonta-stin-eyropi/</id>
+    <updated>2026-10-03T17:14:48+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο Μάρκο Ρούμπιο εξήρε την πρέσβειρα Κίμπερλι Γκίλφοϊλ ως «εξαιρετικά αποτελεσματική» υποστηρίκτρια της ατζέντας Τραμπ, ενόψει της επίσκεψής του στην Αθήνα την επόμενη εβδομάδα.</summary>
+    <content type="text">Marco Rubio praised Ambassador Kimberly Guilfoyle as an &#x27;incredibly effective&#x27; advocate of the Trump agenda, ahead of his visit to Athens next week.</content>
+  </entry>
+  <entry>
+    <title>Η κουλτούρα των 120 δόσεων</title>
+    <link href="https://www.kathimerini.gr/economy/564498697/i-koyltoyra-ton-120-doseon/"/>
+    <id>https://www.kathimerini.gr/economy/564498697/i-koyltoyra-ton-120-doseon/</id>
+    <updated>2026-10-04T14:19:14+00:00</updated>
+    <author><name>Κώστας Καλλίτσης</name></author>
+    <category term="economy"/>
+    <summary type="text">Η στήλη σχολιάζει την ευρεία ρύθμιση 120 δόσεων για οφειλές προς το Δημόσιο, με την αντιπολίτευση να λέει ότι η κυβέρνηση υιοθέτησε μια πρόταση που επί μήνες απέρριπτε. Επισημαίνεται η αντίφαση με την «κουλτούρα πληρωμών».</summary>
+    <content type="text">The column examines the broad 120-instalment scheme for debts to the state, noting the opposition&#x27;s claim that the government adopted a proposal it had rejected for months. It highlights the contradiction with the &#x27;payment culture&#x27;.</content>
+  </entry>
+  <entry>
+    <title>Ιεράπετρα: Σε εξέλιξη η μεταφορά 47 ατόμων σε ασφαλές σημείο λόγω των ισχυρών βροχοπτώσεων</title>
+    <link href="https://www.kathimerini.gr/society/564499966/ierapetra-se-exelixi-i-metafora-47-atomon-se-asfales-simeio-logo-ton-ischyron-vrochoptoseon/"/>
+    <id>https://www.kathimerini.gr/society/564499966/ierapetra-se-exelixi-i-metafora-47-atomon-se-asfales-simeio-logo-ton-ischyron-vrochoptoseon/</id>
+    <updated>2026-10-04T11:29:03+00:00</updated>
+    <author><name>Αλκης Παππάς</name></author>
+    <category term="society"/>
+    <summary type="text">Στην Ιεράπετρα μεταφέρονται 47 άτομα από ξενοδοχεία και καταλύματα στα Φέρμα και Κουτσουνάρι λόγω των ισχυρών βροχοπτώσεων. Το 112 καλεί τους πολίτες να περιορίσουν τις μετακινήσεις.</summary>
+    <content type="text">In Ierapetra, 47 people are being moved to safety from hotels and rentals in Ferma and Koutsounari because of heavy rain. The 112 alert urges residents to limit movement.</content>
+  </entry>
+  <entry>
+    <title>Νηπιαγωγείο σαν ναρκοπέδιο</title>
+    <link href="https://www.kathimerini.gr/society/564498487/nipiagogeio-san-narkopedio/"/>
+    <id>https://www.kathimerini.gr/society/564498487/nipiagogeio-san-narkopedio/</id>
+    <updated>2026-10-04T16:17:22+00:00</updated>
+    <author><name>Κώστας Κουκουμάκας</name></author>
+    <category term="society"/>
+    <summary type="text">Ρεπορτάζ για το βίαιο επεισόδιο σε νηπιαγωγείο των Άνω Λιοσίων με τον ξυλοδαρμό της διευθύντριας από οικογένεια Ρομά. Εκπαιδευτικοί σε «δύσκολα» σχολεία της περιοχής περιγράφουν τις συνθήκες εργασίας τους.</summary>
+    <content type="text">A report on the violent incident at a kindergarten in Ano Liosia in which the principal was beaten by a Roma family. Teachers at &#x27;difficult&#x27; schools in the area describe their working conditions.</content>
+  </entry>
+  <entry>
+    <title>Νέο πλήγμα σε δεξαμενόπλοιο στα Στενά του Ορμούζ</title>
+    <link href="https://www.kathimerini.gr/world/564499957/neo-pligma-se-dexamenoploio-sta-stena-toy-ormoyz/"/>
+    <id>https://www.kathimerini.gr/world/564499957/neo-pligma-se-dexamenoploio-sta-stena-toy-ormoyz/</id>
+    <updated>2026-10-04T10:58:29+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Δεξαμενόπλοιο χτυπήθηκε από βλήμα άγνωστης προέλευσης στα Στενά του Ορμούζ, με ζημιές στο μηχανοστάσιο, σύμφωνα με τον UKMTO. Το πλήρωμα είναι ασφαλές και δεν υπάρχουν περιβαλλοντικές επιπτώσεις.</summary>
+    <content type="text">A tanker was hit by a projectile of unknown origin in the Strait of Hormuz, damaging its engine room, UKMTO said. The crew is safe and no environmental impact has been seen.</content>
   </entry>
 </feed>

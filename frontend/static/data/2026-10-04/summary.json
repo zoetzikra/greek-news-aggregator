@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T16:49:45+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 47 articles over 24h.",
+  "executive_summary": {
+    "el": "Η Κρήτη βρέθηκε στο επίκεντρο της επικαιρότητας, καθώς η κακοκαιρία συνεχίζεται για τέταρτο 24ωρο με πλημμύρες, κατολισθήσεις και εκτεταμένες καταστροφές σε σπίτια, δρόμους και καλλιέργειες. Σε Ιεράπετρα και Φέρμα μεταφέρθηκαν δεκάδες άνθρωποι σε ασφαλές σημείο, ενώ σημειώθηκαν 79 διασώσεις από το Σάββατο και νέο μήνυμα 112. Παράλληλα, νέα πυρκαγιά στην Κεφαλονιά οδήγησε σε προληπτική εκκένωση οικισμών και άλλη φωτιά στον Ασπρόπυργο διέκοψε τον Προαστιακό.\n\nΣτην οικονομία και την πολιτική κυριαρχεί η ενεργειακή κρίση. Το προσχέδιο του προϋπολογισμού 2027 κατατίθεται αύριο με αναθεωρημένο πληθωρισμό και ανάπτυξη 2%, ενώ η κυβέρνηση ζητά από την ΕΕ περιθώριο για περίπου 700 εκατ. ευρώ μέτρων από φορολογικά υπερέσοδα. Ο πρωθυπουργός τόνισε ότι η κρίση δεν αντιμετωπίζεται μόνο με συμβουλές περιορισμού κατανάλωσης, ενώ οι πάροχοι αυξάνουν τα πράσινα τιμολόγια ρεύματος έως 27%. Η συζήτηση για τις 120 δόσεις και το διεθνές χρέος συμπληρώνει την εικόνα.\n\nΣτον διεθνή χώρο, ο πόλεμος στην Ουκρανία κλιμακώνεται με τέταρτη μέρα πληγμάτων σε γέφυρες του Κιέβου, την αιφνιδιαστική επίσκεψη Μερτς με βοήθεια 1 δισ. ευρώ και την απειλή Ζελένσκι για περισσότερα πλήγματα σε ρωσικά διυλιστήρια. Στον Κόλπο, το Ιράν συνδέει το άνοιγμα των Στενών του Ορμούζ με την εκπλήρωση των όρων του, ενώ νέο δεξαμενόπλοιο χτυπήθηκε.\n\nΆλλα θέματα της ημέρας ήταν οι εκλογές στη Βραζιλία, η στεγαστική κρίση στην Ισπανία, η επέτειος των 52 χρόνων της Ν.Δ., η προγραμματισμένη επίσκεψη Ρούμπιο στην Αθήνα και η πρόοδος στο ζήτημα του καλωδίου Ελλάδας–Κύπρου.",
+    "en": "Crete was at the centre of the news as the storm entered its fourth day with floods, landslides and extensive damage to homes, roads and crops. Dozens of people were moved to safety in Ierapetra and Ferma, there have been 79 rescues since Saturday, and a new 112 alert was issued. Meanwhile a new wildfire in Kefalonia triggered precautionary evacuations, and another fire in Aspropyrgos disrupted the Suburban Railway.\n\nEconomy and politics were dominated by the energy crisis. The draft 2027 budget is submitted tomorrow with higher inflation forecasts and 2% growth, while the government asks the EU for room to spend about €700m of tax overperformance on measures. The prime minister stressed that the crisis cannot be met with advice to cut consumption alone, and suppliers raised green electricity tariffs by up to 27%. The 120-instalment debate and global public debt concerns complete the picture.\n\nInternationally, the war in Ukraine escalated with a fourth day of strikes on Kyiv's bridges, Merz's surprise visit with €1bn in aid, and Zelensky's threat of more strikes on Russian refineries. In the Gulf, Iran ties the reopening of the Strait of Hormuz to its conditions, while another tanker was hit.\n\nOther topics included Brazil's election, Spain's housing crisis, New Democracy's 52nd anniversary, Rubio's planned visit to Athens, and progress on the Greece–Cyprus cable."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Κακοκαιρία και καταστροφές στην Κρήτη",
+        "en": "Storm and destruction in Crete"
+      },
+      "description": {
+        "el": "Τέταρτο 24ωρο κακοκαιρίας με πλημμύρες, κατολισθήσεις, εκκενώσεις και 79 διασώσεις.",
+        "en": "Fourth day of storms with floods, landslides, evacuations and 79 rescues."
+      },
+      "related_items": [
+        "eabebf40c2fb",
+        "844c0e4ea788",
+        "cfc4857b22ca"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση και δημοσιονομικά",
+        "en": "Energy crisis and fiscal policy"
+      },
+      "description": {
+        "el": "Προϋπολογισμός 2027, αίτημα προς ΕΕ για 700 εκατ. ευρώ και αυξήσεις στο ρεύμα.",
+        "en": "2027 budget, EU request for €700m and electricity price rises."
+      },
+      "related_items": [
+        "7b081f924fb5",
+        "a1b4db9d4f26",
+        "155ca68ad3f6",
+        "e1d51a906d13",
+        "18746bf45917"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Κλιμάκωση του πολέμου στην Ουκρανία",
+        "en": "Escalation of the war in Ukraine"
+      },
+      "description": {
+        "el": "Πλήγματα σε γέφυρες του Κιέβου, επίσκεψη Μερτς και απειλές για διυλιστήρια.",
+        "en": "Strikes on Kyiv's bridges, Merz's visit and threats to refineries."
+      },
+      "related_items": [
+        "aaf90dd40725",
+        "b7b73c55abcf",
+        "313abeff59fe",
+        "bfaf72be924d"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Ορμούζ και Ιράν",
+        "en": "Hormuz and Iran"
+      },
+      "description": {
+        "el": "Το Ιράν θέτει όρους για το άνοιγμα των Στενών ενώ δεξαμενόπλοιο χτυπήθηκε.",
+        "en": "Iran sets conditions for reopening the Strait while a tanker was hit."
+      },
+      "related_items": [
+        "8a7dedd439f8",
+        "8fe8d3c275ae"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Πυρκαγιές σε Κεφαλονιά και Αττική",
+        "en": "Wildfires in Kefalonia and Attica"
+      },
+      "description": {
+        "el": "Εκκένωση οικισμών στην Κεφαλονιά και φωτιά στον Ασπρόπυργο.",
+        "en": "Evacuations in Kefalonia and a fire in Aspropyrgos."
+      },
+      "related_items": [
+        "e8cfec7817c4",
+        "8cb5fa8e0a05",
+        "e98e49fcd594"
+      ],
+      "importance": 66
+    }
+  ],
+  "article_count": 47,
+  "categories": {
+    "politics": {
+      "item_count": 5,
+      "top_items": [
+        "155ca68ad3f6",
+        "e92b3122b55a",
+        "26d4aff6b7e4",
+        "eacba267dec0",
+        "397797ed8910"
+      ]
+    },
+    "economy": {
+      "item_count": 9,
+      "top_items": [
+        "7b081f924fb5",
+        "a1b4db9d4f26",
+        "e1d51a906d13",
+        "c79a42d40c8d",
+        "624096ded4c6"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "eabebf40c2fb",
+        "844c0e4ea788",
+        "e8cfec7817c4",
+        "cfc4857b22ca",
+        "cffb3cdc99af"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "aaf90dd40725",
+        "b7b73c55abcf",
+        "8a7dedd439f8",
+        "bfaf72be924d",
+        "313abeff59fe"
+      ]
+    },
+    "opinion": {
+      "item_count": 0,
+      "top_items": []
+    },
+    "culture": {
+      "item_count": 5,
+      "top_items": [
+        "be732b00bb8a",
+        "04a0d19f956a",
+        "772791c1ec53",
+        "98e528e0c159",
+        "f75ad85d85c4"
+      ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "a8fe08ff565d",
+          "title": "Λούλα vs Μπολσονάρο 2.0 – Τα πέντε «κλειδιά» των εκλογών στη Βραζιλία",
+          "url": "https://www.kathimerini.gr/world/564500017/loyla-vs-mpolsonaro-2-0-ta-pente-kleidia-ton-eklogon-sti-vrazilia/",
+          "source": "Kathimerini",
+          "published": "2026-10-04T14:11:49+00:00",
+          "category": "world",
+          "importance": 57,
+          "summary": {
+            "el": "Οι Βραζιλιάνοι ψηφίζουν για πρόεδρο, με τον Λούλα να αντιμετωπίζει 11 υποψηφίους, κυρίως τον Φλάβιο Μπολσονάρο. Η καταδίκη του Ζαΐρ Μπολσονάρο για συνωμοσία εξακολουθεί να επηρεάζει την πολιτική ζωή.",
+            "en": "Brazilians vote for president, with Lula facing 11 candidates, chiefly Flávio Bolsonaro. Jair Bolsonaro's conviction for conspiracy still shapes the country's politics."
+          },
+          "tags": {
+            "el": [
+              "Βραζιλία",
+              "Λούλα",
+              "Μπολσονάρο",
+              "εκλογές"
+            ],
+            "en": [
+              "Brazil",
+              "Lula",
+              "Bolsonaro",
+              "election"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e95a7af701b2",
+          "title": "Οι εταιρείες δεν έχουν πια «υπομονή» να εκπαιδεύσουν νέους εργαζόμενους",
+          "url": "https://www.kathimerini.gr/economy/business/564500281/oi-ergodotes-den-echoyn-pia-ypomoni-na-ekpaideysoyn-neoys-ergazomenoys/",
+          "source": "Kathimerini",
+          "published": "2026-10-04T17:36:00+00:00",
+          "category": "economy",
+          "importance": 40,
+          "summary": {
+            "el": "Νέοι απόφοιτοι αναφέρουν ότι οι εταιρείες ανεβάζουν τον πήχη ακόμη και για θέσεις εισαγωγικού επιπέδου και δεν επενδύουν πια στην εκπαίδευση νεοεισερχομένων. Η περίπτωση μιας 22χρονης αποφοίτου δείχνει τη δυσκολία απόκτησης πρώτης εμπειρίας.",
+            "en": "Recent graduates say companies are raising the bar even for entry-level jobs and no longer invest in training newcomers. A 22-year-old graduate's case illustrates the difficulty of getting a first work experience."
+          },
+          "tags": {
+            "el": [
+              "αγορά εργασίας",
+              "απόφοιτοι",
+              "πρώτη εργασία",
+              "εκπαίδευση"
+            ],
+            "en": [
+              "job market",
+              "graduates",
+              "entry-level jobs",
+              "training"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "04a0d19f956a",
+          "title": "Ο «Απόλλων» συμπληρώνει τα κενά",
+          "url": "https://www.kathimerini.gr/culture/564497824/o-apollon-symplironei-ta-kena/",
+          "source": "Kathimerini",
+          "published": "2026-10-03T23:53:22+00:00",
+          "category": "culture",
+          "importance": 34,
+          "summary": {
+            "el": "Η εφαρμογή AI «Απόλλων» της Αυστριακής Ακαδημίας Επιστημών είναι το πρώτο μεγάλο γλωσσικό μοντέλο για τα αρχαία ελληνικά. Διαβάζει σπαράγματα παπύρων και επιγραφών και προτείνει πιθανές συμπληρώσεις των κενών.",
+            "en": "The Austrian Academy of Sciences' AI app 'Apollo' is the first large language model built for Ancient Greek. It reads fragments of papyri and inscriptions and proposes likely restorations for the gaps."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "αρχαία ελληνικά",
+              "παπύροι",
+              "Απόλλων"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Ancient Greek",
+              "papyri",
+              "Apollo"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+}
