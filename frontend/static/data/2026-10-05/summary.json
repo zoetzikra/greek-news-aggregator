@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T09:09:19+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 64 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ενεργειακή κρίση και η ακρίβεια κυριαρχούν: ο πόλεμος με το Ιράν κρατά το Brent πάνω από τα 100 δολάρια, νέα επίθεση έπληξε τον αγωγό Ανατολής-Δύσης και ο ΟΠΕΚ+ κρατά σταθερή την παραγωγή. Στην Αθήνα κατατίθεται το προσχέδιο προϋπολογισμού 2027 με πληθωρισμό 3,6%-3,8%, ενώ η κυβέρνηση ζητά από την ΕΕ ευελιξία για μέτρα 700 εκατ. ευρώ.\n\nΣτην πολιτική σκηνή, η ΝΔ γιορτάζει 52 χρόνια με τις απουσίες Καραμανλή, Σαμαρά και Μεϊμαράκη, η αντιπολίτευση επιτίθεται για τα υπερπλεονάσματα και η προεκλογική δίνη βαραίνει. Η επίσκεψη Ρούμπιο θεωρείται επιβεβαίωση της ελληνοαμερικανικής σχέσης εν μέσω έντασης με την Τουρκία.\n\nΣτο εσωτερικό, η κακοκαιρία στην Κρήτη, η πυρκαγιά στο Σουφλί, οι κινητοποιήσεις των αλιέων και η δίκη των Τεμπών κρατούν την επικαιρότητα. Διεθνώς, ο Σάντσεθ προκήρυξε εκλογές για τις 29 Νοεμβρίου, η ΕΕ διχάζεται για τον προϋπολογισμό 2028-2034 και καταγράφηκαν μαζική διαρροή δεδομένων στη Δανία και αύξηση υλικού κακοποίησης παιδιών με AI.",
+    "en": "The energy crisis and the cost of living dominate: the Iran war keeps Brent above $100, a new attack hit Saudi Arabia's East-West pipeline and OPEC+ is holding output steady. In Athens the draft 2027 budget is tabled assuming 3.6%-3.8% inflation, while the government asks the EU for flexibility for €700m of measures.\n\nPolitically, New Democracy marks 52 years with Karamanlis, Samaras and Meimarakis absent, the opposition attacks the fiscal surpluses and a pre-election spiral looms. Marco Rubio's visit is read as confirming Greek-US ties amid tension with Turkey.\n\nAt home, the Crete storm, the Soufli wildfire, fishermen's protests and the Tempi trial stay in the news. Abroad, Sánchez called elections for 29 November, the EU is split over its 2028-2034 budget, and Denmark suffered a mass data breach while AI-generated child-abuse material surged."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση και ακρίβεια",
+        "en": "Energy crisis and cost of living"
+      },
+      "description": {
+        "el": "Ο πόλεμος με το Ιράν, ο ΟΠΕΚ+ και οι επιθέσεις σε υποδομές ανεβάζουν τις τιμές και πιέζουν τα μέτρα.",
+        "en": "The Iran war, OPEC+ and attacks on infrastructure push prices up and pressure government measures."
+      },
+      "related_items": [
+        "155ca68ad3f6",
+        "6d66271da799",
+        "3c47e127fdb8",
+        "a1b4db9d4f26"
+      ],
+      "importance": 90
+    },
+    {
+      "name": {
+        "el": "Προϋπολογισμός 2027 και δημοσιονομικός χώρος",
+        "en": "2027 budget and fiscal space"
+      },
+      "description": {
+        "el": "Προσχέδιο με πληθωρισμό 3,6%-3,8% και αίτημα προς ΕΕ για 700 εκατ. ευρώ.",
+        "en": "Draft assumes 3.6%-3.8% inflation and Athens asks the EU for €700m of leeway."
+      },
+      "related_items": [
+        "3d5398f75218",
+        "a1b4db9d4f26",
+        "8c5d4e9e4276",
+        "18746bf45917"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Ρούμπιο στην Αθήνα και ελληνοτουρκικά",
+        "en": "Rubio in Athens and Greek-Turkish ties"
+      },
+      "description": {
+        "el": "Επίσκεψη σε κρίσιμη στιγμή, με GSI και «Γαλάζια Πατρίδα» στο παρασκήνιο.",
+        "en": "A visit at a critical moment, with GSI and 'Blue Homeland' in the background."
+      },
+      "related_items": [
+        "900be6025f2b",
+        "5a4eea76aa45"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "ΝΔ 52 χρόνια και προεκλογική δίνη",
+        "en": "ND at 52 and pre-election spiral"
+      },
+      "description": {
+        "el": "Απουσίες στελεχών, ψηφοδέλτια και πίεση για ρουσφέτια.",
+        "en": "Absences, electoral lists and patronage pressure."
+      },
+      "related_items": [
+        "408bad79e23a",
+        "397797ed8910",
+        "e31542081a6c",
+        "f85fcd3b6279"
+      ],
+      "importance": 64
+    },
+    {
+      "name": {
+        "el": "Πρόωρες εκλογές στην Ισπανία",
+        "en": "Snap elections in Spain"
+      },
+      "description": {
+        "el": "Ο Σάντσεθ προκήρυξε εκλογές για 29 Νοεμβρίου εν μέσω στεγαστικής κρίσης.",
+        "en": "Sánchez called elections for 29 November amid the housing crisis."
+      },
+      "related_items": [
+        "b87739f9d77a",
+        "aa9c080a810d"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Κακοκαιρία και πυρκαγιές",
+        "en": "Storm and wildfires"
+      },
+      "description": {
+        "el": "Καταστροφές στην Κρήτη και πυρκαγιά στο Σουφλί.",
+        "en": "Damage in Crete and a wildfire in Soufli."
+      },
+      "related_items": [
+        "ffbc2a0fb685",
+        "9d0acf60547b",
+        "2cba991195e9"
+      ],
+      "importance": 68
+    }
+  ],
+  "article_count": 64,
+  "categories": {
+    "politics": {
+      "item_count": 9,
+      "top_items": [
+        "155ca68ad3f6",
+        "3d5398f75218",
+        "900be6025f2b",
+        "8c5d4e9e4276",
+        "408bad79e23a"
+      ]
+    },
+    "economy": {
+      "item_count": 6,
+      "top_items": [
+        "a1b4db9d4f26",
+        "6d66271da799",
+        "624096ded4c6",
+        "18746bf45917",
+        "e95a7af701b2"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "ffbc2a0fb685",
+        "f2ad9a3df4b9",
+        "9d0acf60547b",
+        "17351ed41480",
+        "dc08f9979b3e"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "3c47e127fdb8",
+        "b87739f9d77a",
+        "965191f8e43f",
+        "b8cfa1133395",
+        "543d794bab35"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "5a4eea76aa45",
+        "f85fcd3b6279",
+        "6ec14fb9b4ab",
+        "4dbaf0333b79",
+        "f3eb6e4d2f72"
+      ]
+    },
+    "culture": {
+      "item_count": 7,
+      "top_items": [
+        "be732b00bb8a",
+        "b6fb7005b9d9",
+        "e46267a82b8c",
+        "9379b8ef7e32",
+        "5f8a856e6467"
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "00d62d1819f9",
+          "title": "Συναγερμός για την αύξηση υλικού παιδικής κακοποίησης με τεχνητή νοημοσύνη",
+          "url": "https://www.kathimerini.gr/world/564500830/synagermos-gia-tin-ayxisi-ylikoy-paidikis-kakopoiisis-me-techniti-noimosyni/",
+          "source": "Kathimerini",
+          "published": "2026-10-05T10:56:41+00:00",
+          "category": "world",
+          "importance": 48,
+          "summary": {
+            "el": "Το IWF κατέγραψε στο α' εξάμηνο του 2026 περισσότερες φωτορεαλιστικές εικόνες κακοποίησης παιδιών από AI απ' όσες όλο το 2025 (6.310, +40%).",
+            "en": "The IWF recorded more photorealistic AI-generated child abuse images in H1 2026 than in all of 2025 (6,310, up 40%)."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "IWF",
+              "παιδική προστασία"
+            ],
+            "en": [
+              "artificial intelligence",
+              "IWF",
+              "child safety"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "177bc4cf8564",
+          "title": "«Ζούμε δεύτερο Big Bang»",
+          "url": "https://www.kathimerini.gr/society/564498469/zoyme-deytero-big-bang/",
+          "source": "Kathimerini",
+          "published": "2026-10-05T08:17:53+00:00",
+          "category": "society",
+          "importance": 46,
+          "summary": {
+            "el": "Στο Athens Democracy Forum κυριάρχησαν η τεχνητή νοημοσύνη και η ανάγκη διεθνούς συνεργασίας για τον έλεγχό της, με «δεύτερο Big Bang» ως περιγραφή. Συζητήθηκαν και κλιματική αλλαγή, μετανάστευση και αμερικανικές εκλογές.",
+            "en": "At the Athens Democracy Forum, AI and the need for international cooperation to govern it dominated, described as a 'second Big Bang'. Climate, migration and the US elections were also discussed."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Athens Democracy Forum",
+              "δημοκρατία"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Athens Democracy Forum",
+              "democracy"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "e95a7af701b2",
+          "title": "Οι εταιρείες δεν έχουν πια «υπομονή» να εκπαιδεύσουν νέους εργαζόμενους",
+          "url": "https://www.kathimerini.gr/economy/business/564500281/oi-ergodotes-den-echoyn-pia-ypomoni-na-ekpaideysoyn-neoys-ergazomenoys/",
+          "source": "Kathimerini",
+          "published": "2026-10-04T17:36:00+00:00",
+          "category": "economy",
+          "importance": 38,
+          "summary": {
+            "el": "Νέοι απόφοιτοι αντιμετωπίζουν υψηλότερες απαιτήσεις για θέσεις εισαγωγικού επιπέδου, καθώς οι εταιρείες δεν θέλουν πια να εκπαιδεύσουν νέους. Η 22χρονη Ρέιτσελ Γκράντις, παρά την εμπειρία της, δυσκολεύτηκε να βρει δουλειά.",
+            "en": "Recent graduates face rising demands for entry-level jobs as firms lose patience to train newcomers. 22-year-old Rachel Gradis, despite experience, struggled to find a job."
+          },
+          "tags": {
+            "el": [
+              "αγορά εργασίας",
+              "νέοι",
+              "απόφοιτοι",
+              "εργασία"
+            ],
+            "en": [
+              "job market",
+              "young people",
+              "graduates",
+              "employment"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "9379b8ef7e32",
+          "title": "Ποιος θα πάρει το Μπούκερ;",
+          "url": "https://www.kathimerini.gr/culture/564499051/poios-tha-parei-to-mpoyker/",
+          "source": "Kathimerini",
+          "published": "2026-10-04T23:51:11+00:00",
+          "category": "culture",
+          "importance": 24,
+          "summary": {
+            "el": "Ο Δημήτρης Δουλγερίδης παρουσιάζει τα έξι μυθιστορήματα της βραχείας λίστας του Μπούκερ, που απονέμεται 9 Νοεμβρίου.",
+            "en": "Dimitris Doulgeridis reviews the six Booker shortlist novels; the prize is awarded on 9 November."
+          },
+          "tags": {
+            "el": [
+              "Μπούκερ",
+              "βιβλία"
+            ],
+            "en": [
+              "Booker Prize",
+              "books"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
