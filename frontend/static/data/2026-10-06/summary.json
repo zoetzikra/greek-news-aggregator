@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T13:14:52+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 82 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επίσκεψη του Αμερικανού υπουργού Εξωτερικών Μάρκο Ρούμπιο στην Αθήνα κυριαρχεί στην ατζέντα, με συμφωνίες για F-35 και F-16, ενέργεια και φόντο την ένταση με την Τουρκία. Παράλληλα, ο πρωθυπουργός επανέλαβε ότι η Ελλάδα θα ενισχύσει τις απαιτήσεις για τα Γλυπτά του Παρθενώνα.\n\nΣτην οικονομία, το προσχέδιο προϋπολογισμού 2027 προβλέπει χρέος 128,8% του ΑΕΠ, αύξηση συντάξεων 2,8% και φορολογικά έσοδα υψηλότερα του στόχου λόγω ακρίβειας. Η φον ντερ Λάιεν υπόσχεται ευελιξία αλλά «όχι οριζόντιες ενισχύσεις», ενώ το sell-off στα ευρωπαϊκά ομόλογα αναζωπυρώνει τα σενάρια παρέμβασης της ΕΚΤ.\n\nΣτο εσωτερικό, η έρευνα για το κύκλωμα Καμπούρη (25 εταιρείες, ζημία άνω των 5 εκατ. ευρώ) και οι συγκλονιστικές καταθέσεις στη δίκη των Τεμπών κρατούν την επικαιρότητα, με φόντο τα 52α γενέθλια της ΝΔ.\n\nΔιεθνώς, οι συνομιλίες ΗΠΑ–Ιράν συνεχίζονται μέσω Κατάρ, η Ισπανία πηγαίνει σε εκλογές, η Λεπέν προειδοποιεί για στάση πληρωμών και η Κένυα επιβεβαίωσε τον πρώτο θάνατο από Έμπολα.",
+    "en": "US Secretary of State Marco Rubio's visit to Athens dominates the agenda, with F-35 and F-16 deals, energy, and tension with Turkey in the background. The prime minister also said Greece will step up its demands over the Parthenon Marbles.\n\nOn the economy, the draft 2027 budget projects debt at 128.8% of GDP, a 2.8% pension rise and tax revenue above target thanks to inflation. Von der Leyen promises flexibility but 'no horizontal support', while the European bond sell-off revives talk of ECB intervention.\n\nAt home, the Kabouris ring probe (25 firms, losses over €5m) and harrowing testimony at the Tempi trial stay in focus, alongside ND's 52nd birthday.\n\nAbroad, US-Iran talks continue via Qatar, Spain heads to elections, Le Pen warns of a payments default and Kenya confirmed its first Ebola death."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Επίσκεψη Ρούμπιο στην Αθήνα",
+        "en": "Rubio's visit to Athens"
+      },
+      "description": {
+        "el": "Ο Αμερικανός υπουργός Εξωτερικών φθάνει με ατζέντα άμυνας, F-35/F-16 και ενέργειας, με φόντο την ένταση με την Τουρκία.",
+        "en": "The US Secretary of State arrives with a defence, F-35/F-16 and energy agenda, against the backdrop of tension with Turkey."
+      },
+      "related_items": [
+        "a119f7a3f6b0",
+        "e5db9cb23557",
+        "82fc768c010f",
+        "797f58b41788",
+        "a5f338162b7d",
+        "92aa5aa46037"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Προϋπολογισμός 2027, συντάξεις και φόροι",
+        "en": "2027 budget, pensions and taxes"
+      },
+      "description": {
+        "el": "Μείωση χρέους στο 128,8% του ΑΕΠ, αύξηση συντάξεων 2,8% και υπεραπόδοση φορολογικών εσόδων λόγω ακρίβειας.",
+        "en": "Debt falling to 128.8% of GDP, a 2.8% pension rise and tax revenue overshooting due to inflation."
+      },
+      "related_items": [
+        "f8bb7184778e",
+        "6b19c163959d",
+        "f36343aa84c0",
+        "d3e207c7070f"
+      ],
+      "importance": 82
+    },
+    {
+      "name": {
+        "el": "Υπόθεση Καμπούρη και ξέπλυμα",
+        "en": "Kabouris case and money laundering"
+      },
+      "description": {
+        "el": "Κύκλωμα με 25 εταιρείες και ζημία άνω των 5 εκατ. ευρώ, με έρευνα της Αρχής για το Ξέπλυμα.",
+        "en": "A ring of 25 firms and over €5m in losses, with an AML authority probe."
+      },
+      "related_items": [
+        "58294a4ed67f",
+        "21b4cefc49d6"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Δίκη Τεμπών",
+        "en": "Tempi trial"
+      },
+      "description": {
+        "el": "Συγκλονιστικές καταθέσεις συγγενών: «κυβερνητικό έγκλημα».",
+        "en": "Harrowing relatives' testimony: 'a government crime'."
+      },
+      "related_items": [
+        "79c08f0b4dbf"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Πόλεμος Ιράν και Μέση Ανατολή",
+        "en": "Iran war and the Middle East"
+      },
+      "description": {
+        "el": "Συνεχίζονται οι διαπραγματεύσεις μέσω Κατάρ, πλήγματα στη Σαουδική Αραβία και αντιδράσεις για δήλωση Τραμπ.",
+        "en": "Talks continue via Qatar, strikes hit Saudi Arabia and Trump's remark triggers outrage."
+      },
+      "related_items": [
+        "05f8c194ab32",
+        "8f244c65a7e9",
+        "76bf9d42ae40",
+        "bf393af54b23"
+      ],
+      "importance": 76
+    },
+    {
+      "name": {
+        "el": "Ευρωπαϊκή πολιτική και δημοσιονομική αναταραχή",
+        "en": "European political and fiscal turbulence"
+      },
+      "description": {
+        "el": "Sell-off ομολόγων, πρόωρες εκλογές στην Ισπανία, Λεπέν και AfD.",
+        "en": "Bond sell-off, snap elections in Spain, Le Pen and the AfD."
+      },
+      "related_items": [
+        "3243cfd55b55",
+        "f4c4328a4aca",
+        "da9c30b547b2",
+        "3867e0b8ce9d",
+        "6395c99bfded"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "ΝΔ στα 52 και εσωκομματικό κλίμα",
+        "en": "ND at 52 and party mood"
+      },
+      "description": {
+        "el": "Γιορτή, μηνύματα Μητσοτάκη και αιχμές για τις απουσίες.",
+        "en": "Celebration, Mitsotakis's messages and barbs over absences."
+      },
+      "related_items": [
+        "115f8879e1db",
+        "caa130f8be34",
+        "d035f28bd94f",
+        "2c3258a24847"
+      ],
+      "importance": 68
+    }
+  ],
+  "article_count": 82,
+  "categories": {
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "79c08f0b4dbf",
+        "58294a4ed67f",
+        "21b4cefc49d6",
+        "03a7c4026b47",
+        "9f31cf59cd99"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "05f8c194ab32",
+        "76bf9d42ae40",
+        "f4c4328a4aca",
+        "8f244c65a7e9",
+        "6c2cceacd603"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "580a55d59656",
+        "28782599146b",
+        "46a5fb44d705",
+        "83e9ce08a111",
+        "dc402bfd8d8b"
+      ]
+    },
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "a119f7a3f6b0",
+        "e5db9cb23557",
+        "115f8879e1db",
+        "caa130f8be34",
+        "b72ea1d3c03a"
+      ]
+    },
+    "economy": {
+      "item_count": 15,
+      "top_items": [
+        "3243cfd55b55",
+        "f8bb7184778e",
+        "d3e207c7070f",
+        "6b19c163959d",
+        "f36343aa84c0"
+      ]
+    },
+    "opinion": {
+      "item_count": 11,
+      "top_items": [
+        "797f58b41788",
+        "a5f338162b7d",
+        "2c3258a24847",
+        "78c930a59542",
+        "36e498640327"
+      ]
+    },
+    "ai": {
+      "item_count": 5,
+      "top_items": [
+        {
+          "id": "03a7c4026b47",
+          "title": "Στο στόχαστρο 18 influencers για παράνομο τζόγο – Πρόστιμα έως 50.000 ευρώ",
+          "url": "https://www.kathimerini.gr/society/564503890/sto-stochastro-18-influencers-gia-paranomo-tzogo-prostima-eos-50-000-eyro/",
+          "source": "Kathimerini",
+          "published": "2026-10-06T15:45:51+00:00",
+          "category": "society",
+          "importance": 66,
+          "summary": {
+            "el": "Κατατέθηκαν μηνύσεις σε βάρος 18 influencers για παράνομη προώθηση τυχερών παιχνιδιών, με πρόστιμα έως 50.000 ευρώ. Η παράνομη αγορά άγγιξε τα 1,8 δισ. ευρώ το 2025 και η τεχνητή νοημοσύνη μπαίνει στο κυνήγι των δικτύων.",
+            "en": "Complaints were filed against 18 influencers over illegal gambling promotion, with fines up to €50,000. The illegal market reached €1.8bn in 2025 and AI is being deployed to hunt the networks."
+          },
+          "tags": {
+            "el": [
+              "παράνομος τζόγος",
+              "influencers",
+              "Πιερρακάκης",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "illegal gambling",
+              "influencers",
+              "Pierrakakis",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "fac143c1c640",
+          "title": "Ρομπότ θα πολεμούν στον βυθό",
+          "url": "https://www.kathimerini.gr/politics/amyna/564501661/rompot-tha-polemoyn-ston-vytho/",
+          "source": "Kathimerini",
+          "published": "2026-10-05T16:38:42+00:00",
+          "category": "politics",
+          "importance": 50,
+          "summary": {
+            "el": "Το Πολεμικό Ναυτικό αποκτά ρομποτικά ναρκοθηρευτικά και σύντομα πλήρως αυτόνομα συστήματα ναρκοθηρίας. Περιλαμβάνονται η αναβάθμιση των Pluto Plus, το ισραηλινό UUV «BlueWhale» και η νέα Διοίκηση Αυτόνομων Συστημάτων.",
+            "en": "The Hellenic Navy is acquiring robotic mine-hunters and soon fully autonomous mine-countermeasure systems, including upgraded Pluto Plus, the Israeli 'BlueWhale' UUV and a new Autonomous Systems Command."
+          },
+          "tags": {
+            "el": [
+              "αυτόνομα συστήματα",
+              "Πολεμικό Ναυτικό",
+              "ρομποτική"
+            ],
+            "en": [
+              "autonomous systems",
+              "Navy",
+              "robotics"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "533eb12eefa9",
+          "title": "H Ευρώπη μπορεί να είναι κερδισμένη από την AI",
+          "url": "https://www.kathimerini.gr/economy/international/564502777/h-eyropi-mporei-na-einai-kerdismeni-apo-tin-ai/",
+          "source": "Kathimerini",
+          "published": "2026-10-06T11:47:00+00:00",
+          "category": "economy",
+          "importance": 50,
+          "summary": {
+            "el": "Ανάλυση υποστηρίζει ότι η Ευρώπη μπορεί να βγει κερδισμένη από την τεχνητή νοημοσύνη, παρά την κριτική ότι «η Αμερική καινοτομεί, η Κίνα αντιγράφει, η Ευρώπη ρυθμίζει». Το ΑΕΠ της Ευρωζώνης έπεσε κάτω από το 60% του αμερικανικού, αλλά η Ευρώπη διατηρεί πλεονεκτήματα.",
+            "en": "An analysis argues Europe could be a winner from AI despite the jibe that 'America innovates, China copies, Europe regulates'. Eurozone GDP fell below 60% of the US level, but Europe retains advantages."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Ευρώπη",
+              "ανταγωνιστικότητα"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Europe",
+              "competitiveness"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ab66e15b81f1",
+          "title": "Τα παιδιά είναι αγράμματα, αυτά φταίνε;",
+          "url": "https://www.kathimerini.gr/opinion/564503509/ta-paidia-einai-agrammata-ayta-ftaine/",
+          "source": "Kathimerini",
+          "published": "2026-10-06T12:56:00+00:00",
+          "category": "opinion",
+          "importance": 38,
+          "summary": {
+            "el": "Η Β. Στεργίου απορρίπτει το ότι «η νεολαία δεν διαβάζει»: οι τεχνολογικοί κολοσσοί διεκδικούν το μυαλό των νέων και οι εκδότες αρνούνται να προσαρμόσουν τη στρατηγική τους.",
+            "en": "V. Stergiou rejects the claim that 'youth don't read': tech giants are fighting for young minds while publishers refuse to adapt."
+          },
+          "tags": {
+            "el": [
+              "νεολαία",
+              "βιβλίο",
+              "τεχνολογία"
+            ],
+            "en": [
+              "youth",
+              "books",
+              "technology"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "fd9a96b4aa6d",
+          "title": "Η «Αρχειοθήκη» ψηφιοποιεί 100 εκατ. σελίδες τον χρόνο",
+          "url": "https://www.kathimerini.gr/economy/business/564502687/i-archeiothiki-psifiopoiei-100-ekat-selides-ton-chrono/",
+          "source": "Kathimerini",
+          "published": "2026-10-06T10:20:00+00:00",
+          "category": "economy",
+          "importance": 34,
+          "summary": {
+            "el": "Η startup «Αρχειοθήκη», στην οποία επένδυσε η EOS Capital Partners, ψηφιοποιεί 100 εκατ. σελίδες τον χρόνο και στρέφεται πλέον σε αγορές του εξωτερικού. Ο συνιδρυτής Ανδρέας Παπαδάκης μιλά για τις εξελίξεις στον κλάδο.",
+            "en": "Startup 'Arheiothiki', backed by EOS Capital Partners, digitises 100m pages a year and now targets foreign markets. Co-founder Andreas Papadakis discusses industry developments."
+          },
+          "tags": {
+            "el": [
+              "ψηφιοποίηση",
+              "startup",
+              "αρχεία"
+            ],
+            "en": [
+              "digitisation",
+              "startup",
+              "archives"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+}
