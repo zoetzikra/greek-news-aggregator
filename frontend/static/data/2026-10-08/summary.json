@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T10:13:31+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 84 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επίσκεψη του Αμερικανού υπουργού Εξωτερικών Μάρκο Ρούμπιο στην Αθήνα και ο 6ος Στρατηγικός Διάλογος κυριάρχησαν στην ειδησεογραφία. Οριστικοποιήθηκαν εξοπλιστικά 4 δισ. δολαρίων για F-16 και F-35, ο Ρούμπιο χαρακτήρασε «αδιανόητη» μια ελληνοτουρκική σύγκρουση, ενώ η αντιπολίτευση και ο Τσίπρας εξέφρασαν επιφυλάξεις για το καλώδιο προς την Κύπρο.\n\nΣτο πολιτικό σκηνικό η κόντρα ΣΥΡΙΖΑ–ΕΛΑΣ οξύνεται, με τελεσίγραφο προς 12 ανεξαρτητοποιημένους βουλευτές, ενώ η Έφη Αχτσιόγλου πλησιάζει το κόμμα Τσίπρα. Στην οικονομία, το ΔΝΤ προειδοποιεί για ενέργεια, χρέος και AI, ενώ στην Ελλάδα προωθούνται φορολόγηση κρυπτονομισμάτων και κατάργηση μετρητών στα κούριερ και καταγράφεται ρεκόρ αιτήσεων συνταξιοδότησης.\n\nΣτην κοινωνία, το Μικτό Ορκωτό αθώωσε τους δύο ψαράδες για τον θάνατο του Σήφη Βαλυράκη, η κακοκαιρία έπληξε το Φαράγγι της Σαμαριάς και επιστρέφει το «Προλαμβάνω». Διεθνώς, η κατάρρευση πολυκατοικίας στην Κωνσταντινούπολη και οι αναφορές του Reuters για ρωσοαμερικανικές συνομιλίες για το Nord Stream ξεχώρισαν.",
+    "en": "Coverage was dominated by US Secretary of State Marco Rubio's Athens visit and the 6th Strategic Dialogue. A $4 billion arms package for F-16s and F-35s was finalised, Rubio called a Greek-Turkish clash 'unthinkable', and the opposition, including Tsipras, voiced reservations over the Cyprus cable.\n\nOn the domestic scene, the SYRIZA-ELAS feud sharpened with an ultimatum to 12 independent MPs, while Effie Achtsioglou moved closer to Tsipras's party. In the economy, the IMF warned about energy, debt and AI risks, while Greece advances crypto taxation and an end to cash on courier deliveries, and retirement applications are at a record.\n\nIn society, the jury court acquitted the two fishermen over Sifis Valyrakis's death, the storm hit the Samaria Gorge and the 'Prolamvano' screening programme returns. Internationally, a building collapse in Istanbul and a Reuters report on US-Russia talks over Nord Stream stood out."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Επίσκεψη Ρούμπιο και εξοπλιστικά",
+        "en": "Rubio visit and arms deal"
+      },
+      "description": {
+        "el": "Στρατηγικός Διάλογος, πακέτο 4 δισ. και ελληνοτουρκικά.",
+        "en": "Strategic Dialogue, $4bn package and Greek-Turkish ties."
+      },
+      "related_items": [
+        "76a9633a3576",
+        "729dde03a414",
+        "bb3bff54fff8",
+        "df441982e97d",
+        "06b6ff493850",
+        "51e9f999b877"
+      ],
+      "importance": 92
+    },
+    {
+      "name": {
+        "el": "Αντιπολίτευση και ΣΥΡΙΖΑ–ΕΛΑΣ",
+        "en": "Opposition and SYRIZA-ELAS"
+      },
+      "description": {
+        "el": "Αντιδράσεις Τσίπρα και τελεσίγραφο προς ανεξάρτητους βουλευτές.",
+        "en": "Tsipras's reaction and an ultimatum to independent MPs."
+      },
+      "related_items": [
+        "64765990c07a",
+        "1b303c4100e7",
+        "4e8f7c5375ff",
+        "74cccd09714c"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Παγκόσμια οικονομία και ενέργεια",
+        "en": "Global economy and energy"
+      },
+      "description": {
+        "el": "Προειδοποίηση ΔΝΤ, ΕΚΤ και Nord Stream.",
+        "en": "IMF warning, ECB and Nord Stream."
+      },
+      "related_items": [
+        "facd11593bce",
+        "5ad9f3270180",
+        "7a30408c3ba0"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Δίκη Βαλυράκη",
+        "en": "Valyrakis trial"
+      },
+      "description": {
+        "el": "Αθώωση των δύο ψαράδων.",
+        "en": "Acquittal of the two fishermen."
+      },
+      "related_items": [
+        "6a600031541d",
+        "0f57bac2eae4"
+      ],
+      "importance": 74
+    }
+  ],
+  "article_count": 84,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "76a9633a3576",
+        "729dde03a414",
+        "bb3bff54fff8",
+        "df441982e97d",
+        "06b6ff493850"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "facd11593bce",
+        "056a20b412bf",
+        "1703616ca046",
+        "5ad9f3270180",
+        "925f68fe7a55"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "6a600031541d",
+        "14b4b28554a1",
+        "1d0e5cec00f3",
+        "bafb50a2deef",
+        "2fbb43ce7543"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "7a30408c3ba0",
+        "dac1af6962f4",
+        "376670df705a",
+        "73b90f6082fc",
+        "398000f7d21a"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "7ceffc825f47",
+        "2b362082d4ea",
+        "ab676e3bcf02",
+        "128bd45f516f",
+        "8b6a1641ab0f"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "9666d851e9b1",
+        "f8adb983749e",
+        "ba3b0fbd53f9",
+        "846048f40af5",
+        "61e4c355b7ab"
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "facd11593bce",
+          "title": "Τριπλή απειλή από ενέργεια, AI και χρέος για την παγκόσμια ανάπτυξη",
+          "url": "https://www.kathimerini.gr/economy/international/564507589/tripli-apeili-apo-energeia-ai-kai-chreos-gia-tin-pagkosmia-anaptyxi/",
+          "source": "Kathimerini",
+          "published": "2026-10-08T10:26:00+00:00",
+          "category": "economy",
+          "importance": 72,
+          "summary": {
+            "el": "Η Κρισταλίνα Γκεοργκίεβα του ΔΝΤ προειδοποίησε για τριπλή απειλή: ενέργεια, χρέος και κίνδυνοι από την έκρηξη επενδύσεων στην τεχνητή νοημοσύνη. Ζήτησε αξιόπιστα μεσοπρόθεσμα σχέδια δημοσιονομικής εξυγίανσης.",
+            "en": "IMF chief Kristalina Georgieva warned of a triple threat: energy prices, record debt and risks from the AI investment boom. She urged credible medium-term fiscal consolidation plans."
+          },
+          "tags": {
+            "el": [
+              "ΔΝΤ",
+              "τεχνητή νοημοσύνη",
+              "χρέος",
+              "ενέργεια"
+            ],
+            "en": [
+              "IMF",
+              "artificial intelligence",
+              "debt",
+              "energy"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "1703616ca046",
+          "title": "Πώς και πότε θα φορολογούνται τα κέρδη από κρυπτονομίσματα",
+          "url": "https://www.kathimerini.gr/economy/local/564507826/pos-kai-pote-tha-forologoyntai-ta-kerdi-apo-kryptonomismata/",
+          "source": "Kathimerini",
+          "published": "2026-10-08T09:15:17+00:00",
+          "category": "economy",
+          "importance": 64,
+          "summary": {
+            "el": "Νομοσχέδιο σε διαβούλευση ορίζει για πρώτη φορά φορολόγηση κερδών από κρυπτονομίσματα, και για παλαιότερα κέρδη. Οι φορολογούμενοι θα μπορούν να δηλώσουν τα παλιά κέρδη.",
+            "en": "A draft law in consultation taxes crypto gains for the first time, including past gains. Taxpayers will be able to declare older profits."
+          },
+          "tags": {
+            "el": [
+              "κρυπτονομίσματα",
+              "φορολογία",
+              "νομοσχέδιο"
+            ],
+            "en": [
+              "crypto",
+              "taxation",
+              "draft law"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "925f68fe7a55",
+          "title": "Στην εποχή της τεχνητής νοημοσύνης η Εθνική Τράπεζα",
+          "url": "https://www.kathimerini.gr/economy/business/564507565/stin-epochi-tis-technitis-noimosynis-i-ethniki-trapeza/",
+          "source": "Kathimerini",
+          "published": "2026-10-08T08:56:03+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Ο CEO της Εθνικής Τράπεζας Παύλος Μυλωνάς δηλώνει ότι η ψηφιοποίηση θα μειώσει τα λειτουργικά έξοδα κατά 200 εκατ. ετησίως. Η τεχνολογική ανασυγκρότηση και η τεχνητή νοημοσύνη ανοίγουν νέες δυνατότητες.",
+            "en": "National Bank CEO Pavlos Mylonas says digitisation will cut operating costs by €200 million a year. The tech overhaul and AI open new possibilities."
+          },
+          "tags": {
+            "el": [
+              "Εθνική Τράπεζα",
+              "τεχνητή νοημοσύνη",
+              "ψηφιοποίηση"
+            ],
+            "en": [
+              "National Bank",
+              "artificial intelligence",
+              "digitisation"
+            ]
+          },
+          "sentiment": "positive"
+        },
+        {
+          "id": "ac3bb20397e3",
+          "title": "Οι νέες ταινίες της εβδομάδας: Η σκοτεινή πλευρά των σόσιαλ μίντια",
+          "url": "https://www.kathimerini.gr/culture/cinema/564507352/oi-nees-tainies-tis-evdomadas-i-skoteini-pleyra-ton-sosial-mintia/",
+          "source": "Kathimerini",
+          "published": "2026-10-08T11:05:00+00:00",
+          "category": "culture",
+          "importance": 14,
+          "summary": {
+            "el": "Οι νέες ταινίες της εβδομάδας περιλαμβάνουν το «The Social Reckoning» του Ααρον Σόρκιν, άτυπο σίκουελ του «The Social Network». Το θρίλερ εξετάζει την αθέατη πλευρά του Facebook.",
+            "en": "This week's new films include Aaron Sorkin's 'The Social Reckoning', an informal sequel to 'The Social Network'. The thriller explores the dark side of Facebook."
+          },
+          "tags": {
+            "el": [
+              "ταινίες",
+              "Σόρκιν",
+              "σόσιαλ μίντια"
+            ],
+            "en": [
+              "films",
+              "Sorkin",
+              "social media"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
