@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:35:44+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 74 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ελληνική επικαιρότητα του Σαββάτου κυριαρχείται από το πολιτικό αποτύπωμα της επίσκεψης του Μάρκο Ρούμπιο στην Αθήνα. Ο Γιώργος Γεραπετρίτης απάντησε στη Βουλή για το δημοσίευμα της WSJ περί της πρέσβειρας Κίμπερλι Γκίλφοϊλ, ο Τραμπ σχολίασε «κρίμα», ενώ ΠΑΣΟΚ και ΕΛΑΣ εντείνουν την κριτική στα εθνικά θέματα, με πρόσθετο γεγονός την εγγραφή της Έφης Αχτσιόγλου στο κόμμα Τσίπρα.\n\nΣτο εσωτερικό, ο Κυριάκος Μητσοτάκης έθεσε για πρώτη φορά αριθμητικό όριο 25% για το ενδεχόμενο αλλαγής αρχηγού, πυροδοτώντας σχόλια για τη διαδοχή. Στην οικονομία, η ρύθμιση έως 120 δόσεων για οφειλές σε ΑΑΔΕ και ΕΦΚΑ αναμένεται να ανοίξει τον Νοέμβριο, ενώ η Αθήνα αναζητά ευελιξία για την ενεργειακή κρίση και η Κομισιόν εξετάζει φόρο υπερκερδών.\n\nΔιεθνώς, η συμφωνία Τραμπ–Πούτιν για το ρωσικό ντίζελ προκαλεί οργή στο Κίεβο και επιφυλάξεις στο Βερολίνο, ο Τραμπ επιτίθεται στη Νορβηγία για το Νόμπελ Ειρήνης που δόθηκε στη Νάβι Πιλάι, και η Ουάσιγκτον στέλνει αντιφατικά μηνύματα για το Ιράν. Η Γαλλία παραμένει σε αναβρασμό με τις μαθητικές κινητοποιήσεις και τις καταγγελίες για αστυνομική βία.\n\nΣτην κοινωνία ξεχωρίζουν η δίωξη για την επίθεση στην Ελευσίνα, η κακοκαιρία που έρχεται και τα δύο κύματα καταιγίδων, ενώ στον πολιτισμό ο αποχαιρετισμός στον συγγραφέα Διονύση Χαριτόπουλο και η επιστροφή 53 κειμηλίων από τη Βουλγαρία.",
+    "en": "Saturday's Greek news is dominated by the political footprint of Marco Rubio's visit to Athens. Foreign Minister George Gerapetritis answered in Parliament over the WSJ report on Ambassador Kimberly Guilfoyle, Trump said 'it's too bad', and PASOK and ELAS are sharpening their criticism on national issues, while Effie Achtsioglou joined Tsipras's party.\n\nDomestically, Kyriakos Mitsotakis for the first time set a numerical 25% threshold for a possible leadership change, sparking commentary on succession. In the economy, the scheme of up to 120 instalments for AADE and EFKA debts is expected to open in November, as Athens seeks flexibility on the energy crisis and the Commission studies a windfall tax.\n\nInternationally, the Trump-Putin Russian diesel deal angers Kyiv and draws reservations in Berlin, Trump lashes out at Norway over the Nobel Peace Prize awarded to Navi Pillay, and Washington sends mixed signals on Iran. France remains in turmoil over student protests and police-violence complaints.\n\nIn society, the prosecution over the Elefsina attack and two incoming waves of storms stand out, while in culture the news is the death of author Dionysis Charitopoulos and the return of 53 relics from Bulgaria."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Επίσκεψη Ρούμπιο, Γκίλφοϊλ και εθνικά",
+        "en": "Rubio visit, Guilfoyle and national issues"
+      },
+      "description": {
+        "el": "Σχολιασμός της επίσκεψης Ρούμπιο, η υπόθεση WSJ για την Κίμπερλι Γκίλφοϊλ και η κριτική ΠΑΣΟΚ–ΕΛΑΣ.",
+        "en": "Analysis of Rubio's visit, the WSJ Guilfoyle affair and PASOK-ELAS criticism."
+      },
+      "related_items": [
+        "dc0b3686a064",
+        "c6e8de4ec16a",
+        "725f81dfe8af",
+        "a2145c2c8fea",
+        "877d16a14735"
+      ],
+      "importance": 88
+    },
+    {
+      "name": {
+        "el": "Το όριο του 25% και η διαδοχή στη Ν.Δ.",
+        "en": "Mitsotakis's 25% threshold and ND succession"
+      },
+      "description": {
+        "el": "Η δήλωση του πρωθυπουργού στον ΣΚΑΪ για αριθμητικό όριο και τα σχόλια για τους επίδοξους διαδόχους.",
+        "en": "The PM's SKAI remark on a numerical threshold and commentary on would-be successors."
+      },
+      "related_items": [
+        "b045082b4c1d",
+        "547f16c467ca",
+        "97f5bd0369e1",
+        "700770d6d556",
+        "4299cc36cd2c"
+      ],
+      "importance": 84
+    },
+    {
+      "name": {
+        "el": "Ρωσικό ντίζελ, Ιράν και Νόμπελ Ειρήνης",
+        "en": "Russian diesel, Iran and the Nobel Prize"
+      },
+      "description": {
+        "el": "Η συμφωνία Τραμπ–Πούτιν, η αμφίσημη στάση για το Ιράν και η οργή Τραμπ για το Νόμπελ.",
+        "en": "The Trump-Putin deal, mixed signals on Iran and Trump's fury over the Nobel."
+      },
+      "related_items": [
+        "ea27cad99333",
+        "65fcef120d41",
+        "5e8a35ee1a0e",
+        "e1bda1c5aac0",
+        "51404e95809c",
+        "492f9c975406"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ενεργειακή κρίση, χρέος και προϋπολογισμός ΕΕ",
+        "en": "Energy crisis, debt and the EU budget"
+      },
+      "description": {
+        "el": "Φόρος υπερκερδών, ρήτρα διαφυγής, περικοπές 159 δισ. και κίνδυνος κρίσης χρέους με επίκεντρο τη Γαλλία.",
+        "en": "Windfall tax, escape clause, €159bn cuts and sovereign-debt risk centred on France."
+      },
+      "related_items": [
+        "39725294ddeb",
+        "4e450fbe4246",
+        "d41ac328c8cb",
+        "64b97e9aa70a",
+        "78a30af028a2",
+        "ece41243af99"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Ρύθμιση 120 δόσεων",
+        "en": "120-instalment debt scheme"
+      },
+      "description": {
+        "el": "Έως 120 δόσεις για οφειλές σε ΑΑΔΕ και ΕΦΚΑ από τον Νοέμβριο.",
+        "en": "Up to 120 instalments for AADE and EFKA debts from November."
+      },
+      "related_items": [
+        "8c21d89bc6dd"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Ελευσίνα και ασφάλεια",
+        "en": "Elefsina attack and safety"
+      },
+      "description": {
+        "el": "Δίωξη για την επίθεση στην Ελευσίνα, συλλήψεις για Motor Oil και κυβερνοεπιθέσεις.",
+        "en": "Charges over Elefsina, Motor Oil arrests and rising cyberattacks."
+      },
+      "related_items": [
+        "aa6a658cb409",
+        "155361c77132",
+        "5864136c9483"
+      ],
+      "importance": 66
+    },
+    {
+      "name": {
+        "el": "Γαλλία σε αναταραχή",
+        "en": "France in turmoil"
+      },
+      "description": {
+        "el": "Μαθητικές κινητοποιήσεις, αστυνομική βία και πίεση στα ομόλογα.",
+        "en": "Student protests, police violence and bond-market pressure."
+      },
+      "related_items": [
+        "7c6bbe8826dc",
+        "7f4065f858ca",
+        "78a30af028a2"
+      ],
+      "importance": 58
+    }
+  ],
+  "article_count": 74,
+  "categories": {
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "aa6a658cb409",
+        "d6db43d5efeb",
+        "155361c77132",
+        "73da85ac5ef1",
+        "7d8cea110757"
+      ]
+    },
+    "culture": {
+      "item_count": 10,
+      "top_items": [
+        "364b749201b0",
+        "79a76bd4d12f",
+        "24da488192c3",
+        "c594e29f3f4d",
+        "0f89de014506"
+      ]
+    },
+    "politics": {
+      "item_count": 12,
+      "top_items": [
+        "b045082b4c1d",
+        "c6e8de4ec16a",
+        "547f16c467ca",
+        "dc0b3686a064",
+        "a2145c2c8fea"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "e1bda1c5aac0",
+        "ea27cad99333",
+        "51404e95809c",
+        "65fcef120d41",
+        "5e8a35ee1a0e"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "8c21d89bc6dd",
+        "d41ac328c8cb",
+        "4e450fbe4246",
+        "5864136c9483",
+        "39725294ddeb"
+      ]
+    },
+    "opinion": {
+      "item_count": 10,
+      "top_items": [
+        "51c2bb324b1d",
+        "97f5bd0369e1",
+        "c4a9ec046b3a",
+        "40025df57672",
+        "9a6cbd3b7ccd"
+      ]
+    },
+    "ai": {
+      "item_count": 4,
+      "top_items": [
+        {
+          "id": "5864136c9483",
+          "title": "Πάνω από 2.000 κυβερνοεπιθέσεις σε επιχειρήσεις κάθε εβδομάδα",
+          "url": "https://www.kathimerini.gr/economy/business/564512722/pano-apo-2-000-kyvernoepitheseis-se-epicheiriseis-kathe-evdomada/",
+          "source": "Kathimerini",
+          "published": "2026-10-10T09:09:00+00:00",
+          "category": "economy",
+          "importance": 60,
+          "summary": {
+            "el": "Οι κυβερνοεπιθέσεις σε επιχειρήσεις στην Ελλάδα αυξήθηκαν κατά 30% τον Σεπτέμβριο σε ετήσια βάση, ξεπερνώντας τις 2.000 την εβδομάδα. Η επίθεση στον βραχίονα ταχυμεταφορών του Skroutz είναι μόνο η κορυφή του παγόβουνου.",
+            "en": "Cyberattacks on Greek businesses rose 30% year on year in September, exceeding 2,000 a week. The attack on Skroutz's courier arm is only the tip of the iceberg."
+          },
+          "tags": {
+            "el": [
+              "κυβερνοασφάλεια",
+              "κυβερνοεπιθέσεις",
+              "Skroutz",
+              "επιχειρήσεις"
+            ],
+            "en": [
+              "cybersecurity",
+              "cyberattacks",
+              "Skroutz",
+              "business"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "64b97e9aa70a",
+          "title": "Επανέρχεται ο κίνδυνος μιας κρίσης δημοσίου χρέους",
+          "url": "https://www.kathimerini.gr/economy/international/564512731/epanerchetai-o-kindynos-mias-krisis-dimosioy-chreoys/",
+          "source": "Kathimerini",
+          "published": "2026-10-10T07:20:10+00:00",
+          "category": "economy",
+          "importance": 58,
+          "summary": {
+            "el": "Ο Economist προειδοποιεί ότι επανέρχεται ο κίνδυνος κρίσης δημοσίου χρέους στις ανεπτυγμένες οικονομίες, με μεγαλύτερη απειλή στην Ευρώπη και ανησυχητική την περίπτωση της Γαλλίας. Η εποχή του φθηνού δανεισμού έχει παρέλθει.",
+            "en": "The Economist warns the risk of a sovereign-debt crisis is returning in advanced economies, with Europe the biggest threat and France worrying. The era of cheap borrowing is over."
+          },
+          "tags": {
+            "el": [
+              "δημόσιο χρέος",
+              "Economist",
+              "Γαλλία",
+              "αποδόσεις ομολόγων"
+            ],
+            "en": [
+              "public debt",
+              "Economist",
+              "France",
+              "bond yields"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "51c2bb324b1d",
+          "title": "ΑΙ-Σκλάβοι κι Ανθρωποι-Προϊόντα",
+          "url": "https://www.kathimerini.gr/opinion/564512476/ai-sklavoi-ki-anthropoi-proionta/",
+          "source": "Kathimerini",
+          "published": "2026-10-10T12:57:00+00:00",
+          "category": "opinion",
+          "importance": 50,
+          "summary": {
+            "el": "Ο Θοδωρής Γεωργακόπουλος εξετάζει το νέο AI app «Muse» της Meta, που εκτελεί αυτόνομα εντολές σε κινητό και υπολογιστή, και τα ηθικά προβλήματα που εγείρει η ιδέα του ψηφιακού «ρομπότ-σκλάβου». Επισημαίνει κοινά μοτίβα στη διαφήμιση τέτοιων εργαλείων.",
+            "en": "Thodoris Georgakopoulos examines Meta's new 'Muse' AI app, which autonomously carries out tasks on phones and computers, and the ethical issues raised by the idea of a digital 'robot slave'. He notes recurring patterns in how such tools are marketed."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Meta",
+              "Muse",
+              "ηθική"
+            ],
+            "en": [
+              "artificial intelligence",
+              "Meta",
+              "Muse",
+              "ethics"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "259d91aeca47",
+          "title": "Κλιματική κρίση και ενέργεια: Μεταμορφώσεις του ενεργειακού χάρτη",
+          "url": "https://www.kathimerini.gr/visual/infographics/564509416/klimatiki-krisi-kai-energeia-metamorfoseis-toy-energeiakoy-charti/",
+          "source": "Kathimerini",
+          "published": "2026-10-09T23:16:24+03:00",
+          "category": "world",
+          "importance": 38,
+          "summary": {
+            "el": "Η ανάλυση του καθ. Γιάννη Μανιάτη δείχνει ότι ο ενεργειακός χάρτης άλλαξε σε 25 χρόνια: οι ΗΠΑ έγιναν ο μεγαλύτερος παραγωγός πετρελαίου και αερίου, ενώ η Κίνα ηγείται στον ηλεκτρισμό χαμηλών εκπομπών αλλά και στην κατανάλωση άνθρακα.",
+            "en": "Prof. Yannis Maniatis's analysis shows the energy map changed over 25 years: the US became the top oil and gas producer, while China leads in low-emission electricity yet also in coal use."
+          },
+          "tags": {
+            "el": [
+              "ενέργεια",
+              "κλιματική κρίση",
+              "ΗΠΑ",
+              "Κίνα"
+            ],
+            "en": [
+              "energy",
+              "climate crisis",
+              "US",
+              "China"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
