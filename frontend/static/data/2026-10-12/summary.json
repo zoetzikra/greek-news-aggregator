@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T09:11:05+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 73 articles over 24h.",
+  "executive_summary": {
+    "el": "Η επίσκεψη του Αμερικανού υπουργού Εξωτερικών Μάρκο Ρούμπιο στην Αθήνα κυριαρχεί στην ατζέντα: ο πρωθυπουργός τη χαρακτηρίζει ευκαιρία εμβάθυνσης των ελληνοαμερικανικών σχέσεων σε ενέργεια και άμυνα, ενώ η Άγκυρα εξετάζει τα μηνύματα για το καλώδιο GSI και αρθρογράφοι σχολιάζουν την ομιλία στην Πνύκα.\n\nΣτην Ευρώπη, η απόφαση του Ισπανού πρωθυπουργού για πρόωρες εκλογές και η άνοδος των αποδόσεων των ομολόγων με επίκεντρο τη Γαλλία εντείνουν την αβεβαιότητα, την ώρα που Γερμανία, Ολλανδία και Σουηδία απορρίπτουν την πρόταση για τον επταετή προϋπολογισμό της Ε.Ε. Η Ε.Ε. υιοθέτησε νέες κυρώσεις σε σχεδόν 1.600 ρωσικές οντότητες.\n\nΣτον πόλεμο της Ουκρανίας, ο Ζελένσκι δηλώνει έτοιμος να στηρίξει «ενεργειακή εκεχειρία» με εγγυήσεις, ενώ Ευρωπαίοι αξιωματούχοι απαντούν στις δηλώσεις Τραμπ για εκλογές. Στη Μέση Ανατολή, οι επιθέσεις των Χούθι στο Ριάντ προκαλούν διεθνείς αντιδράσεις.\n\nΣτο εσωτερικό, τα δημοσιεύματα της WSJ για την πρέσβειρα Γκίλφοϊλ, η αντιπαράθεση ΠΑΣΟΚ–Τσίπρα, οι τηλεφωνικές απάτες, η παρουσίαση του πλαισίου για τα social media και την ηλικία των 15 ετών, καθώς και η έναρξη της ψηφιακής κάρτας εργασίας για νέους κλάδους, συμπληρώνουν την εικόνα της ημέρας.",
+    "en": "Rubio's visit to Athens dominates the agenda: the prime minister frames it as a chance to deepen Greece-US ties in energy and defence, Ankara is parsing the messages on the GSI cable, and columnists are dissecting the Pnyx speech.\n\nIn Europe, the Spanish prime minister's call for early elections and rising bond yields centred on France heighten uncertainty, while Germany, the Netherlands and Sweden reject the proposed seven-year EU budget. The EU adopted new sanctions on nearly 1,600 Russian entities.\n\nOn the Ukraine war, Zelensky says he is ready to back an 'energy ceasefire' with guarantees, while European officials answer Trump's remarks on elections. In the Middle East, Houthi attacks on Riyadh draw regional condemnation.\n\nAt home, the WSJ reporting on Ambassador Guilfoyle, the PASOK-Tsipras clash, phone scams, the unveiling of the under-15 social media framework and the extension of the digital work card complete the day's picture."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Επίσκεψη Ρούμπιο και GSI",
+        "en": "Rubio visit and the GSI cable"
+      },
+      "description": {
+        "el": "Ελληνοαμερικανικές σχέσεις, ενέργεια, άμυνα και επανεκκίνηση του καλωδίου Ελλάδας–Κύπρου.",
+        "en": "Greece-US ties, energy, defence and restart of the Greece-Cyprus cable."
+      },
+      "related_items": [
+        "b013cb756d63",
+        "019bb8454a8d",
+        "a402f8304c44",
+        "cbd308927824",
+        "c835a09e7ce0",
+        "8a335ea0ba95"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Ευρώπη: εκλογές, ομόλογα και προϋπολογισμός",
+        "en": "Europe: elections, bonds and budget"
+      },
+      "description": {
+        "el": "Πρόωρες εκλογές στην Ισπανία, πίεση στα γαλλικά ομόλογα και διχασμός για τον προϋπολογισμό.",
+        "en": "Early Spanish elections, pressure on French bonds and a split over the budget."
+      },
+      "related_items": [
+        "79fb1e9d2d49",
+        "48f19bce4fe5",
+        "01defbab28c1"
+      ],
+      "importance": 78
+    },
+    {
+      "name": {
+        "el": "Ουκρανία και κυρώσεις",
+        "en": "Ukraine and sanctions"
+      },
+      "description": {
+        "el": "Ενεργειακή εκεχειρία, εκλογές και νέες κυρώσεις Ε.Ε. σε 1.600 οντότητες.",
+        "en": "Energy ceasefire, elections and new EU sanctions on 1,600 entities."
+      },
+      "related_items": [
+        "d99fd3317ddb",
+        "2a3ddae7dff3",
+        "44475981141c"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Υπόθεση Γκίλφοϊλ",
+        "en": "Guilfoyle affair"
+      },
+      "description": {
+        "el": "Δημοσιεύματα WSJ και πιέσεις Δημοκρατικών για έρευνα.",
+        "en": "WSJ reports and Democratic calls for an investigation."
+      },
+      "related_items": [
+        "a50e9d881c86"
+      ],
+      "importance": 70
+    }
+  ],
+  "article_count": 73,
+  "categories": {
+    "politics": {
+      "item_count": 10,
+      "top_items": [
+        "79fb1e9d2d49",
+        "b013cb756d63",
+        "a50e9d881c86",
+        "019bb8454a8d",
+        "a402f8304c44"
+      ]
+    },
+    "economy": {
+      "item_count": 9,
+      "top_items": [
+        "48f19bce4fe5",
+        "01defbab28c1",
+        "3e4a6efc96c0",
+        "92d21180846b",
+        "987d984cd4c8"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "e71e8e30fa95",
+        "cf3047dce184",
+        "2e8faa87e13c",
+        "cb8c83414b59",
+        "288be63271c4"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "d99fd3317ddb",
+        "2a3ddae7dff3",
+        "0464b9af090d",
+        "44475981141c",
+        "e41226a2eb5f"
+      ]
+    },
+    "opinion": {
+      "item_count": 14,
+      "top_items": [
+        "cbd308927824",
+        "c835a09e7ce0",
+        "8a335ea0ba95",
+        "650d99228f79",
+        "f2270345a768"
+      ]
+    },
+    "culture": {
+      "item_count": 12,
+      "top_items": [
+        "26f59ea66e99",
+        "06f86c16797b",
+        "90af9b5def4e",
+        "33a74d5ee2a9",
+        "f6bcbc9eea7c"
+      ]
+    },
+    "ai": {
+      "item_count": 3,
+      "top_items": [
+        {
+          "id": "884e177c42a5",
+          "title": "ΗΠΑ: Ο απρόσμενος σύμμαχος στην κούρσα της τεχνητής νοημοσύνης είναι η Κίνα",
+          "url": "https://www.kathimerini.gr/world/564515866/ipa-o-aprosmenos-symmachos-stin-koyrsa-tis-technitis-noimosynis-einai-i-kina/",
+          "source": "Kathimerini",
+          "published": "2026-10-12T11:41:59+00:00",
+          "category": "world",
+          "importance": 56,
+          "summary": {
+            "el": "Παρά τον ανταγωνισμό για την κυριαρχία στην AI, οι αμερικανικές εταιρείες εξαρτώνται ακόμη από κινεζικά μοντέλα και τεχνολογικό εξοπλισμό. Το ρεπορτάζ ξεκινά από τα γραφεία της Moonshot AI στο Πεκίνο.",
+            "en": "Despite fierce competition for AI dominance, US companies still depend on Chinese models and hardware. The report opens at Moonshot AI's Beijing offices."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "Κίνα",
+              "ΗΠΑ",
+              "Moonshot AI"
+            ],
+            "en": [
+              "artificial intelligence",
+              "China",
+              "USA",
+              "Moonshot AI"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "9b028b6e9519",
+          "title": "Στόχος επιθέσεων τα ρομπότ-διανομείς στους δρόμους των ΗΠΑ",
+          "url": "https://www.kathimerini.gr/world/564515698/stochos-epitheseon-ta-rompot-dianomeis-stoys-dromoys-ton-ipa/",
+          "source": "Kathimerini",
+          "published": "2026-10-12T11:00:49+00:00",
+          "category": "world",
+          "importance": 30,
+          "summary": {
+            "el": "Στις ΗΠΑ ρομπότ-διανομείς γίνονται στόχος βανδαλισμών από Λος Άντζελες ως Μαϊάμι. Τα περιστατικά δείχνουν δυσπιστία απέναντι στην τεχνητή νοημοσύνη.",
+            "en": "In the US, delivery robots are being vandalised from Los Angeles to Miami. The incidents point to public distrust of artificial intelligence."
+          },
+          "tags": {
+            "el": [
+              "ρομπότ",
+              "τεχνητή νοημοσύνη",
+              "ΗΠΑ"
+            ],
+            "en": [
+              "robots",
+              "artificial intelligence",
+              "USA"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "e178b1b1ca11",
+          "title": "Αείμνηστη ή αειθαλής;",
+          "url": "https://www.kathimerini.gr/opinion/564513658/aeimnisti-i-aeithalis/",
+          "source": "Kathimerini",
+          "published": "2026-10-11T20:11:00+00:00",
+          "category": "opinion",
+          "importance": 30,
+          "summary": {
+            "el": "Η Μαρία Κατσουνάκη σχολιάζει τη διαφήμιση της SKF με ψηφιακά αναπαραγμένη τη Γκρέτα Γκάρμπο, και τα ηθικά ζητήματα της ψηφιακής ανάστασης.",
+            "en": "Maria Katsounaki comments on the SKF ad with a digitally recreated Greta Garbo and the ethics of digital resurrection."
+          },
+          "tags": {
+            "el": [
+              "ΑΙ",
+              "διαφήμιση",
+              "Γκάρμπο"
+            ],
+            "en": [
+              "AI",
+              "advertising",
+              "Garbo"
+            ]
+          },
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}
