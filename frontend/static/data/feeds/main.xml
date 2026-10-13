@@ -1,99 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Greek News Aggregator — Top stories 2026-10-12</title>
+  <title>Greek News Aggregator — Top stories 2026-10-13</title>
   <link href="https://zoetzikra.github.io/greek-news-aggregator/"/>
-  <id>urn:greek-news-aggregator:2026-10-12</id>
-  <updated>2026-10-12T09:11:05+00:00</updated>
-  <entry>
-    <title>Η… γκιλοτίνα των αγορών πάνω από την Ευρωζώνη</title>
-    <link href="https://www.kathimerini.gr/economy/564513412/i-gkilotina-ton-agoron-pano-apo-tin-eyrozoni/"/>
-    <id>https://www.kathimerini.gr/economy/564513412/i-gkilotina-ton-agoron-pano-apo-tin-eyrozoni/</id>
-    <updated>2026-10-12T07:12:33+00:00</updated>
-    <author><name>Ελευθερία Κούρταλη</name></author>
-    <category term="economy"/>
-    <summary type="text">Η άνοδος των αποδόσεων των ομολόγων αυξάνει το κόστος δανεισμού, με τη Γαλλία στο επίκεντρο μιας νέας κρίσης, ενώ και άλλες οικονομίες της Ευρωζώνης έχουν υψηλό χρέος και έλλειμμα. Δήλωση Στουρνάρα στην «Κ».</summary>
-    <content type="text">Rising bond yields are lifting borrowing costs, with France at the centre of a new crisis while other eurozone economies also carry high debt and deficits. Includes a statement from Stournaras to Kathimerini.</content>
-  </entry>
-  <entry>
-    <title>Ο αιφνιδιασμός Σάντσεθ φέρνει αναταράξεις στην Ευρώπη</title>
-    <link href="https://www.kathimerini.gr/politics/564515218/o-aifnidiasmos-santseth-fernei-anataraxeis-stin-eyropi/"/>
-    <id>https://www.kathimerini.gr/politics/564515218/o-aifnidiasmos-santseth-fernei-anataraxeis-stin-eyropi/</id>
-    <updated>2026-10-11T21:23:47+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="politics"/>
-    <summary type="text">Η απόφαση του Ισπανού πρωθυπουργού για πρόωρες εκλογές επισπεύδει τον ευρωπαϊκό εκλογικό κύκλο, με την Ακροδεξιά σε θέση ισχύος. Οι Βρυξέλλες ανησυχούν για τις επιπτώσεις εν μέσω δύσκολων διαπραγματεύσεων για τον επταετή προϋπολογισμό της Ε.Ε. και της ενεργειακής κρίσης.</summary>
-    <content type="text">The Spanish prime minister&#x27;s decision to call early elections brings forward Europe&#x27;s electoral cycle, with the far right in a position of strength. Brussels worries about the impact amid tough talks on the EU&#x27;s seven-year budget and an energy crisis.</content>
-  </entry>
-  <entry>
-    <title>Κυρ. Μητσοτάκης: Η Ελλάδα εδραιώνεται ως πυλώνας σταθερότητας – Ενισχύει τον ρόλο της ως ενεργειακός κόμβος</title>
-    <link href="https://www.kathimerini.gr/politics/government/564514768/kyr-mitsotakis-i-ellada-edraionetai-os-pylonas-statherotitas-enischyei-ton-rolo-tis-os-energeiakos-komvos/"/>
-    <id>https://www.kathimerini.gr/politics/government/564514768/kyr-mitsotakis-i-ellada-edraionetai-os-pylonas-statherotitas-enischyei-ton-rolo-tis-os-energeiakos-komvos/</id>
-    <updated>2026-10-11T11:38:18+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="politics"/>
-    <summary type="text">Στην εβδομαδιαία ανασκόπησή του ο Κυρ. Μητσοτάκης τονίζει τη στρατηγική σημασία της επίσκεψης του Μάρκο Ρούμπιο και την εμβάθυνση των ελληνοαμερικανικών σχέσεων. Δίνει έμφαση στην ενέργεια, τον Κάθετο Διάδρομο και το αμερικανικό LNG, καθώς και στην άμυνα.</summary>
-    <content type="text">In his weekly review, Kyriakos Mitsotakis stresses the strategic importance of Marco Rubio&#x27;s visit and deepening Greek-US ties. He highlights energy, the Vertical Corridor and US LNG, as well as defence cooperation.</content>
-  </entry>
-  <entry>
-    <title>Ζελένσκι: Είμαστε έτοιμοι να υπογράψουμε εγγυήσεις για την εκεχειρία</title>
-    <link href="https://www.kathimerini.gr/world/564515788/zelenski-eimaste-etoimoi-na-ypograpsoyme-eggyiseis-gia-tin-ekecheiria/"/>
-    <id>https://www.kathimerini.gr/world/564515788/zelenski-eimaste-etoimoi-na-ypograpsoyme-eggyiseis-gia-tin-ekecheiria/</id>
-    <updated>2026-10-12T11:40:55+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Ο Ζελένσκι δηλώνει έτοιμος να στηρίξει την «ενεργειακή εκεχειρία» και να υπογράψει εγγυήσεις, υπό τον όρο ότι η Ρωσία θα πράξει το ίδιο. Ζητά αμερικανικές πιέσεις στη Μόσχα και όχι άρση κυρώσεων.</summary>
-    <content type="text">Zelensky says he is ready to back the &#x27;energy ceasefire&#x27; and sign guarantees, provided Russia does likewise. He asks for US pressure on Moscow rather than sanctions relief.</content>
-  </entry>
-  <entry>
-    <title>Σε κλοιό η Γκίλφοϊλ</title>
-    <link href="https://www.kathimerini.gr/politics/564513019/se-kloio-i-gkilfoil/"/>
-    <id>https://www.kathimerini.gr/politics/564513019/se-kloio-i-gkilfoil/</id>
-    <updated>2026-10-11T21:02:10+00:00</updated>
-    <author><name>Ηλιάνα Μάγρα</name></author>
-    <category term="politics"/>
-    <summary type="text">Ρεπορτάζ της Wall Street Journal υποστηρίζει ότι η πρέσβειρα των ΗΠΑ στην Ελλάδα Κίμπερλι Γκίλφοϊλ ζήτησε 100.000 δολάρια από δωρητή του Τραμπ για να μειωθεί το υπόλοιπο της πιστωτικής της κάρτας, λίγο πριν από την ακρόαση επικύρωσης. Οι Δημοκρατικοί πιέζουν για έρευνα, λίγες εβδομάδες πριν από τις ενδιάμεσες εκλογές των ΗΠΑ.</summary>
-    <content type="text">A Wall Street Journal report alleges that US Ambassador to Greece Kimberly Guilfoyle asked a Trump campaign donor for $100,000 to reduce her credit card balance days before her confirmation hearing. Democrats are pushing for an investigation just weeks before the US midterms.</content>
-  </entry>
-  <entry>
-    <title>Ε.Ε.: «Οχι» από Γερμανία, Ολλανδία και Σουηδία στον νέο προϋπολογισμό</title>
-    <link href="https://www.kathimerini.gr/economy/international/564514786/e-e-ochi-apo-germania-ollandia-kai-soyidia-ston-neo-proypologismo/"/>
-    <id>https://www.kathimerini.gr/economy/international/564514786/e-e-ochi-apo-germania-ollandia-kai-soyidia-ston-neo-proypologismo/</id>
-    <updated>2026-10-11T12:28:18+00:00</updated>
-    <author><name>Αλεξάνδρα Βουδούρη</name></author>
-    <category term="economy"/>
-    <summary type="text">Γερμανία, Ολλανδία και Σουηδία απέρριψαν την πρόταση της ιρλανδικής προεδρίας για τον επταετή προϋπολογισμό της Ε.Ε., ακόμη και μετά το «ψαλίδι» 159 δισ. ευρώ. Προδιαγράφονται σκληρές διαπραγματεύσεις ενόψει Συνόδου Κορυφής.</summary>
-    <content type="text">Germany, the Netherlands and Sweden rejected the Irish presidency&#x27;s proposal for the EU&#x27;s seven-year budget even after a €159bn cut. Tough negotiations loom ahead of the summit.</content>
-  </entry>
-  <entry>
-    <title>Ε.Ε.: Νέες κυρώσεις σε βάρος σχεδόν 1.600 ρωσικών οντοτήτων</title>
-    <link href="https://www.kathimerini.gr/world/564515869/e-e-nees-kyroseis-se-varos-schedon-1-600-rosikon-ontotiton/"/>
-    <id>https://www.kathimerini.gr/world/564515869/e-e-nees-kyroseis-se-varos-schedon-1-600-rosikon-ontotiton/</id>
-    <updated>2026-10-12T11:36:31+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Οι υπουργοί Εξωτερικών της Ε.Ε. υιοθέτησαν νέες κυρώσεις σε σχεδόν 1.600 ρωσικές οντότητες, κυρίως του στρατιωτικο-βιομηχανικού τομέα. Η Κάγια Κάλας μιλά για τη μεγαλύτερη μεμονωμένη επέκταση της λίστας από την έναρξη του πολέμου.</summary>
-    <content type="text">EU foreign ministers adopted new sanctions on nearly 1,600 Russian entities, mainly in the military-industrial sector. Kaja Kallas calls it the largest single expansion of the list since the war began.</content>
-  </entry>
-  <entry>
-    <title>Επιθέσεις των Χούθι στο αεροδρόμιο του Ριάντ – Αντιδράσεις περιφερειακών δυνάμεων</title>
-    <link href="https://www.kathimerini.gr/world/564515689/epitheseis-ton-choythi-sto-aerodromio-toy-riant-antidraseis-perifereiakon-dynameon/"/>
-    <id>https://www.kathimerini.gr/world/564515689/epitheseis-ton-choythi-sto-aerodromio-toy-riant-antidraseis-perifereiakon-dynameon/</id>
-    <updated>2026-10-12T10:33:22+00:00</updated>
-    <author><name>Newsroom</name></author>
-    <category term="world"/>
-    <summary type="text">Μετά τις επιθέσεις των Χούθι στο αεροδρόμιο του Ριάντ, Τουρκία, Πακιστάν και Αίγυπτος τις καταδίκασαν. Τα ΗΑΕ ζητούν αναβίωση της κοινής δράσης του Κόλπου και το Ιράν καλεί σε διπλωματική λύση.</summary>
-    <content type="text">After Houthi attacks on Riyadh airport, Turkey, Pakistan and Egypt condemned them. The UAE called for reviving joint Gulf action and Iran urged a diplomatic resolution.</content>
-  </entry>
-  <entry>
-    <title>«Μήνυμα ελήφθη» στην Αγκυρα</title>
-    <link href="https://www.kathimerini.gr/politics/564512983/minyma-elifthi-stin-agkyra/"/>
-    <id>https://www.kathimerini.gr/politics/564512983/minyma-elifthi-stin-agkyra/</id>
-    <updated>2026-10-11T13:47:45+00:00</updated>
-    <author><name>Μανώλης Κωστίδης</name></author>
-    <category term="politics"/>
-    <summary type="text">Η Άγκυρα εξετάζει προσεκτικά την επίσκεψη Ρούμπιο και τα μηνύματα για το καλώδιο GSI. Οι Τούρκοι μιλούν πλέον για «συντονισμό με τη χώρα σημαίας» και συνειδητοποιούν ότι η «χημεία» Τραμπ–Ερντογάν δεν θα άρει όλα τα εμπόδια.</summary>
-    <content type="text">Ankara is closely examining Rubio&#x27;s Athens visit and his messages on the GSI cable. Turkish officials now speak of &#x27;coordination with the flag state&#x27; and realise the Trump–Erdogan &#x27;chemistry&#x27; will not remove every obstacle.</content>
-  </entry>
+  <id>urn:greek-news-aggregator:2026-10-13</id>
+  <updated>2026-10-13T09:10:00+00:00</updated>
   <entry>
     <title>Το πακέτο των 4 δισ. και τα μηνύματα από την Πνύκα</title>
     <link href="https://www.kathimerini.gr/politics/564512974/to-paketo-ton-4-dis-kai-ta-minymata-apo-tin-pnyka/"/>
@@ -101,107 +11,197 @@
     <updated>2026-10-12T10:23:07+00:00</updated>
     <author><name>Βασίλης Νέδος</name></author>
     <category term="politics"/>
-    <summary type="text">Η επίσκεψη Ρούμπιο μπορεί να αποδειχθεί σημαντικότερη απ&#x27; ό,τι υπολογιζόταν, κυρίως για την επανέναρξη των εργασιών στο GSI. Η συνέντευξη Μητσοτάκη για την επικείμενη έναρξη ερευνών επιβεβαιώνει την εντατικοποίηση των προεργασιών.</summary>
-    <content type="text">Rubio&#x27;s visit may prove far more significant than first thought, chiefly for restarting work on the Greece–Cyprus GSI interconnector. Mitsotakis&#x27;s interview on imminent surveys confirms the intensifying preparatory work.</content>
+    <summary type="text">Η επίσκεψη Ρούμπιο μπορεί να αποδειχθεί πολύ σημαντική, κυρίως για την επανέναρξη των εργασιών στο καλώδιο Ελλάδας–Κύπρου (GSI). Πληροφορίες θέλουν την έναρξη των ερευνών σε εβδομάδες, ενώ διαμορφώνεται νέο τοπίο στα ελληνοτουρκικά.</summary>
+    <content type="text">Rubio&#x27;s visit may prove very significant, mainly for resuming work on the Greece–Cyprus electricity interconnector (GSI). Reports suggest surveys could begin within weeks, shaping a new landscape in Greek-Turkish relations.</content>
   </entry>
   <entry>
-    <title>Βερολίνο: Εκλογές στην Ουκρανία όταν είναι εφικτές σε ολόκληρη την επικράτειά της</title>
-    <link href="https://www.kathimerini.gr/world/564515635/verolino-ekloges-stin-oykrania-otan-einai-efiktes-se-olokliri-tin-epikrateia-tis/"/>
-    <id>https://www.kathimerini.gr/world/564515635/verolino-ekloges-stin-oykrania-otan-einai-efiktes-se-olokliri-tin-epikrateia-tis/</id>
-    <updated>2026-10-12T10:35:56+00:00</updated>
+    <title>Αλ. Τσίπρας: Αντίπαλός μου είναι ο Μητσοτάκης, όχι ο Ανδρουλάκης</title>
+    <link href="https://www.kathimerini.gr/politics/564517051/al-tsipras-antipalos-moy-einai-o-mitsotakis-ochi-o-androylakis/"/>
+    <id>https://www.kathimerini.gr/politics/564517051/al-tsipras-antipalos-moy-einai-o-mitsotakis-ochi-o-androylakis/</id>
+    <updated>2026-10-12T19:45:53+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο Αλέξης Τσίπρας δήλωσε ότι αντίπαλός του είναι ο Κυριάκος Μητσοτάκης και όχι ο Νίκος Ανδρουλάκης, θέτοντας την εκλογική πρωτιά της ΕΛΑΣ και την προγραμματική συνεννόηση ως προϋποθέσεις για προοδευτική κυβέρνηση. Υποστήριξε ότι επτά στις δέκα τοποθετήσεις στελεχών του ΠΑΣΟΚ στρέφονται κατά της ΕΛΑΣ.</summary>
+    <content type="text">Alexis Tsipras said his opponent is Kyriakos Mitsotakis, not Nikos Androulakis, setting first place for his ELAS party and programmatic agreement as preconditions for a progressive government. He claimed seven in ten public statements by PASOK officials target ELAS.</content>
+  </entry>
+  <entry>
+    <title>Η τεχνητή νοημοσύνη πλήττει σαν τσουνάμι την αγορά εργασίας</title>
+    <link href="https://www.kathimerini.gr/economy/international/564517843/i-techniti-noimosyni-plittei-san-tsoynami-tin-agora-ergasias/"/>
+    <id>https://www.kathimerini.gr/economy/international/564517843/i-techniti-noimosyni-plittei-san-tsoynami-tin-agora-ergasias/</id>
+    <updated>2026-10-13T09:09:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">Η Κρισταλίνα Γκεοργκίεβα προειδοποίησε ότι η τεχνητή νοημοσύνη είναι ένα “τσουνάμι σε αργή κίνηση” για την αγορά εργασίας και τα φορολογικά έσοδα. Ζήτησε από τις κυβερνήσεις να μην περιμένουν.</summary>
+    <content type="text">IMF chief Kristalina Georgieva warned AI is a &#x27;slow-moving tsunami&#x27; for the labour market and tax revenues, urging governments not to wait.</content>
+  </entry>
+  <entry>
+    <title>WSJ: Το Ιράν οχυρώνει πυρηνικές εγκαταστάσεις και προετοιμάζει τον πληθυσμό για πόλεμο</title>
+    <link href="https://www.kathimerini.gr/world/564518527/wsj-to-iran-ochyronei-pyrinikes-egkatastaseis-kai-proetoimazei-ton-plithysmo-gia-polemo/"/>
+    <id>https://www.kathimerini.gr/world/564518527/wsj-to-iran-ochyronei-pyrinikes-egkatastaseis-kai-proetoimazei-ton-plithysmo-gia-polemo/</id>
+    <updated>2026-10-13T11:24:22+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Ευρωπαίοι αξιωματούχοι απαντούν στον Τραμπ ότι εκλογές στην Ουκρανία θα γίνουν όταν είναι εφικτές σε όλη την επικράτεια και ότι η στήριξη δεν θα περικοπεί.</summary>
-    <content type="text">European officials respond to Trump that Ukraine will hold elections when feasible across its whole territory and that support will not be cut.</content>
+    <summary type="text">Σύμφωνα με τη WSJ, το Ιράν οχυρώνει πυρηνικές εγκαταστάσεις και προετοιμάζει τον πληθυσμό για πόλεμο, απειλώντας σκληρότερα αντίποινα εναντίον ΗΠΑ και συμμάχων σε νέα πλήγματα.</summary>
+    <content type="text">According to the WSJ, Iran is fortifying nuclear sites and preparing its population for war, threatening harsher retaliation against the US and allies if new strikes occur.</content>
   </entry>
   <entry>
-    <title>Σήμερα η παρουσίαση του πλαισίου για την απαγόρευση των social media στα παιδιά</title>
-    <link href="https://www.kathimerini.gr/society/564515581/simera-i-paroysiasi-toy-plaisioy-gia-tin-apagoreysi-ton-social-media-sta-paidia/"/>
-    <id>https://www.kathimerini.gr/society/564515581/simera-i-paroysiasi-toy-plaisioy-gia-tin-apagoreysi-ton-social-media-sta-paidia/</id>
-    <updated>2026-10-12T09:20:08+00:00</updated>
+    <title>Αποχωρεί από τη θέση του CEO της Aegean o Δημ. Γερογιάννης</title>
+    <link href="https://www.kathimerini.gr/economy/business/564517804/apochorei-apo-ti-thesi-toy-ceo-tis-aegean-o-dim-gerogiannis/"/>
+    <id>https://www.kathimerini.gr/economy/business/564517804/apochorei-apo-ti-thesi-toy-ceo-tis-aegean-o-dim-gerogiannis/</id>
+    <updated>2026-10-13T08:18:00+00:00</updated>
+    <author><name>Ματίνα Χαρκοφτάκη</name></author>
+    <category term="economy"/>
+    <summary type="text">Ο Δημήτρης Γερογιάννης αποχωρεί από CEO της Aegean έπειτα από 20 χρόνια, παραμένοντας ως σύμβουλος διοίκησης για την τεχνική βάση και το εκπαιδευτικό κέντρο. Δήλωσε ότι “ολοκληρώθηκε ένας κύκλος”.</summary>
+    <content type="text">Dimitris Gerogiannis steps down as Aegean CEO after 20 years, remaining as a management adviser overseeing the technical base and training centre. He said &#x27;a cycle has been completed&#x27;.</content>
+  </entry>
+  <entry>
+    <title>Βουλγαρία: 11 αγνοούμενοι μετά τη βύθιση πλοίου στη νέα επίθεση drone</title>
+    <link href="https://www.kathimerini.gr/world/564518662/voylgaria-11-agnooymenoi-meta-ti-vythisi-ploioy-sti-nea-epithesi-drone/"/>
+    <id>https://www.kathimerini.gr/world/564518662/voylgaria-11-agnooymenoi-meta-ti-vythisi-ploioy-sti-nea-epithesi-drone/</id>
+    <updated>2026-10-13T12:01:51+00:00</updated>
     <author><name>Newsroom</name></author>
+    <category term="world"/>
+    <summary type="text">Έντεκα ναυτικοί αγνοούνται μετά τη βύθιση πλοίου από drone ανοικτά της Βουλγαρίας, τη δεύτερη πολύνεκρη βύθιση σε μια εβδομάδα. Η Βουλγαρία κάλεσε τον Ρώσο πρέσβη.</summary>
+    <content type="text">Eleven sailors are missing after a ship was sunk by a drone off Bulgaria, the second deadly sinking in a week. Bulgaria summoned the Russian ambassador.</content>
+  </entry>
+  <entry>
+    <title>Ανοιχτός πόλεμος ΠΑΣΟΚ – ΕΛΑΣ</title>
+    <link href="https://www.kathimerini.gr/politics/parties/564517396/anoichtos-polemos-pasok-elas/"/>
+    <id>https://www.kathimerini.gr/politics/parties/564517396/anoichtos-polemos-pasok-elas/</id>
+    <updated>2026-10-13T06:59:46+00:00</updated>
+    <author><name>Αγγελική Σπανού</name></author>
+    <category term="politics"/>
+    <summary type="text">Κλιμακώνεται η σύγκρουση ΠΑΣΟΚ–ΕΛΑΣ για τη δεύτερη θέση, μετά τις επιθέσεις Καρτερού και Καμμένου κατά του Νίκου Ανδρουλάκη. Το ΠΑΣΟΚ κατηγορεί τον Τσίπρα, ο οποίος λέει ότι αντίπαλός του είναι ο Μητσοτάκης.</summary>
+    <content type="text">The PASOK–ELAS clash over second place is escalating after attacks on Nikos Androulakis by Karteros and Kammenos. PASOK blames Tsipras, who says his opponent is Mitsotakis.</content>
+  </entry>
+  <entry>
+    <title>Ανοίγει τον Νοέμβριο η πλατφόρμα για τη ρύθμιση οφειλών των 120 δόσεων</title>
+    <link href="https://www.kathimerini.gr/economy/local/564517768/anoigei-ton-noemvrio-i-platforma-gia-ti-rythmisi-ofeilon-ton-120-doseon/"/>
+    <id>https://www.kathimerini.gr/economy/local/564517768/anoigei-ton-noemvrio-i-platforma-gia-ti-rythmisi-ofeilon-ton-120-doseon/</id>
+    <updated>2026-10-13T10:41:07+00:00</updated>
+    <author><name>Προκόπης Χατζηνικολάου</name></author>
+    <category term="economy"/>
+    <summary type="text">Η πλατφόρμα για τη ρύθμιση των 120 δόσεων αναμένεται να ανοίξει το πρώτο δεκαήμερο Νοεμβρίου, με ελάχιστη δόση 30 ευρώ. Η προθεσμία αιτήσεων αναμένεται να παραταθεί έως τα μέσα του 2027.</summary>
+    <content type="text">The platform for the 120-instalment debt scheme is expected to open in the first ten days of November, with a €30 minimum payment. The application deadline is expected to be extended to mid-2027.</content>
+  </entry>
+  <entry>
+    <title>Τραμπ για Γκίλφοϊλ: «Εξετάζουμε την απομάκρυνσή της, δεν είμαστε ευχαριστημένοι»</title>
+    <link href="https://www.kathimerini.gr/politics/564517894/tramp-gia-gkilfoil-exetazoyme-tin-apomakrynsi-tis-den-eimaste-eycharistimenoi/"/>
+    <id>https://www.kathimerini.gr/politics/564517894/tramp-gia-gkilfoil-exetazoyme-tin-apomakrynsi-tis-den-eimaste-eycharistimenoi/</id>
+    <updated>2026-10-13T00:58:38+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="politics"/>
+    <summary type="text">Ο Ντόναλντ Τραμπ δήλωσε ότι εξετάζει την απομάκρυνση της πρέσβειρας των ΗΠΑ στην Ελλάδα Κίμπερλι Γκίλφοϊλ, λέγοντας ότι “δεν είμαστε ευχαριστημένοι”. Η δήλωση ακολουθεί δημοσιεύματα για τη συμπεριφορά της.</summary>
+    <content type="text">Donald Trump said he is considering removing US ambassador to Greece Kimberly Guilfoyle, saying &#x27;we are not happy&#x27;. The remark follows reports on her conduct.</content>
+  </entry>
+  <entry>
+    <title>Νέοι αυστηροί όροι για τις επενδύσεις σε data centers</title>
+    <link href="https://www.kathimerini.gr/economy/business/564517753/neoi-aystiroi-oroi-gia-tis-ependyseis-se-data-centers/"/>
+    <id>https://www.kathimerini.gr/economy/business/564517753/neoi-aystiroi-oroi-gia-tis-ependyseis-se-data-centers/</id>
+    <updated>2026-10-13T11:28:00+00:00</updated>
+    <author><name>Χρύσα Λιάγγου</name></author>
+    <category term="economy"/>
+    <summary type="text">Το υπουργείο Ενέργειας βάζει αυστηρούς όρους για τα data centers, όπως εξασφάλιση της έκτασης για δέκα χρόνια, καθώς τα αιτήματα σύνδεσης πλησιάζουν τα 9 GW. Το νομοσχέδιο βρίσκεται σε διαβούλευση έως 24 Οκτωβρίου.</summary>
+    <content type="text">The energy ministry is imposing strict conditions on data centres, such as securing land for ten years, as connection requests near 9 GW. The bill is in consultation until 24 October.</content>
+  </entry>
+  <entry>
+    <title>Το πλέγμα μέτρων για τον «κόφτη» στα social media</title>
+    <link href="https://www.kathimerini.gr/society/564517411/to-plegma-metron-gia-ton-kofti-sta-social-media/"/>
+    <id>https://www.kathimerini.gr/society/564517411/to-plegma-metron-gia-ton-kofti-sta-social-media/</id>
+    <updated>2026-10-13T07:20:38+00:00</updated>
+    <author><name>Πέννυ Μπουλούτζα</name></author>
     <category term="society"/>
-    <summary type="text">Παρουσιάζεται σήμερα το νέο πλαίσιο για την πρόσβαση ανηλίκων στα social media, με κατώτατο όριο τα 15 έτη από 1η Ιανουαρίου 2027. Το νομοσχέδιο πρόκειται να κατατεθεί στη Βουλή.</summary>
-    <content type="text">The new framework for minors&#x27; access to social media is presented today, with a minimum age of 15 from 1 January 2027. The bill is to be tabled in Parliament.</content>
+    <summary type="text">Το σχέδιο νόμου για “κόφτη” στα social media θέτει όριο ηλικίας 15 ετών από 1/1/2027, με υποχρεωτική επαλήθευση από τις πλατφόρμες. Επικαλείται στοιχεία για την υπερβολική χρήση από ανηλίκους.</summary>
+    <content type="text">The draft law for a social media cut-off sets a minimum age of 15 from 1 January 2027, requiring platforms to verify age. It cites data on excessive use among minors.</content>
   </entry>
   <entry>
-    <title>Σουδάν: Αεροπορική επιδρομή ίσως σκότωσε πάνω από 200 ανθρώπους</title>
-    <link href="https://www.kathimerini.gr/world/564515719/soydan-aeroporiki-epidromi-isos-skotose-pano-apo-200-anthropoys/"/>
-    <id>https://www.kathimerini.gr/world/564515719/soydan-aeroporiki-epidromi-isos-skotose-pano-apo-200-anthropoys/</id>
-    <updated>2026-10-12T11:22:28+00:00</updated>
+    <title>Δίκη για Τέμπη: «Γιατί το σώμα του Κυπριανού είχε εγκαύματα που δεν προκλήθηκαν από έλαια σιλικόνης;»</title>
+    <link href="https://www.kathimerini.gr/society/564518623/diki-gia-tempi-giati-to-soma-toy-kyprianoy-eiche-egkaymata-poy-den-proklithikan-apo-elaia-silikonis/"/>
+    <id>https://www.kathimerini.gr/society/564518623/diki-gia-tempi-giati-to-soma-toy-kyprianoy-eiche-egkaymata-poy-den-proklithikan-apo-elaia-silikonis/</id>
+    <updated>2026-10-13T11:55:28+00:00</updated>
+    <author><name>Κωνσταντίνος Κοντοκώστας</name></author>
+    <category term="society"/>
+    <summary type="text">Στη δίκη για τα Τέμπη, ο πατέρας του Κυπριανού Παπαϊωάννου κατέθεσε ότι το σώμα του γιου του είχε περίεργα εγκαύματα και μύριζε χημικά. Ζητά απαντήσεις για τον θάνατό του.</summary>
+    <content type="text">At the Tempi trial, the father of Kyprianos Papaioannou testified that his son&#x27;s body had strange burns and smelled of chemicals, and demanded answers about his death.</content>
+  </entry>
+  <entry>
+    <title>Ρούτε: «Το ΝΑΤΟ θα συνεχίσει να συνεργάζεται με τους συμμάχους στη Μαύρη Θάλασσα»</title>
+    <link href="https://www.kathimerini.gr/world/564518608/royte-to-nato-tha-synechisei-na-synergazetai-me-toys-symmachoys-sti-mayri-thalassa/"/>
+    <id>https://www.kathimerini.gr/world/564518608/royte-to-nato-tha-synechisei-na-synergazetai-me-toys-symmachoys-sti-mayri-thalassa/</id>
+    <updated>2026-10-13T11:45:24+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Αεροπορική επιδρομή σε περιοχή εξόρυξης χρυσού στο βορειοανατολικό Σουδάν ίσως σκότωσε πάνω από 200 ανθρώπους, σύμφωνα με τη Sudan Tribune. Επιζώντες μιλούν για πυραύλους σε στρατόπεδα ανθρακωρύχων.</summary>
-    <content type="text">An air strike on a gold-mining area in north-eastern Sudan may have killed over 200 people, according to the Sudan Tribune. Survivors describe missiles fired at miners&#x27; camps.</content>
+    <summary type="text">Ο Μαρκ Ρούτε δήλωσε ότι το ΝΑΤΟ θα συνεχίσει να συνεργάζεται με τους συμμάχους στη Μαύρη Θάλασσα και να προσαρμόζει την ανατολική πτέρυγα μετά την επίθεση με drones.</summary>
+    <content type="text">Mark Rutte said NATO will keep working with Black Sea allies and adjust its eastern flank after the drone attack off Bulgaria.</content>
   </entry>
   <entry>
-    <title>Η περίπτωση Ρούμπιο</title>
-    <link href="https://www.kathimerini.gr/opinion/564513235/i-periptosi-roympio/"/>
-    <id>https://www.kathimerini.gr/opinion/564513235/i-periptosi-roympio/</id>
-    <updated>2026-10-11T20:10:00+00:00</updated>
-    <author><name>Κώστας Ιορδανίδης</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Κώστας Ιορδανίδης αναλύει την ομιλία Ρούμπιο στην Πνύκα ως έκκληση αναζωογόνησης του δυτικού πνεύματος και προβολή της αντίληψης Τραμπ, πέραν της κολακείας προς τους Έλληνες.</summary>
-    <content type="text">Kostas Iordanidis reads Rubio&#x27;s Pnyx speech as a call to revive the spirit of the West and a projection of Trump&#x27;s outlook, beyond flattering Greeks.</content>
-  </entry>
-  <entry>
-    <title>Μάικλ Μακόφσκι: Ο Μπάρακ συμπεριφέρεται σαν Τούρκος πρέσβης στις ΗΠΑ</title>
-    <link href="https://www.kathimerini.gr/politics/564513016/maikl-makofski-o-mparak-symperiferetai-san-toyrkos-presvis-stis-ipa/"/>
-    <id>https://www.kathimerini.gr/politics/564513016/maikl-makofski-o-mparak-symperiferetai-san-toyrkos-presvis-stis-ipa/</id>
-    <updated>2026-10-11T10:25:16+00:00</updated>
-    <author><name>Αθανάσιος Κατσικίδης</name></author>
+    <title>Κυβέρνηση: Επενδύει στα μέτρα στήριξης</title>
+    <link href="https://www.kathimerini.gr/politics/government/564517381/kyvernisi-ependyei-sta-metra-stirixis/"/>
+    <id>https://www.kathimerini.gr/politics/government/564517381/kyvernisi-ependyei-sta-metra-stirixis/</id>
+    <updated>2026-10-13T09:46:00+00:00</updated>
+    <author><name>Σταύρος Παπαντωνίου</name></author>
     <category term="politics"/>
-    <summary type="text">Ο Μάικλ Μακόφσκι του JINSA εκτιμά στην «Κ» ότι ο Τραμπ δεν θέλει περαιτέρω αύξηση των τιμών ενέργειας πριν από τις εκλογές, ενώ για το Ιράν συμφωνεί ότι νέα φάση εχθροπραξιών θα περιμένει. Χαρακτηρίζει τον Αμερικανό πρέσβη στην Άγκυρα «αρνητική δύναμη».</summary>
-    <content type="text">JINSA&#x27;s Michael Makovsky tells Kathimerini that Trump wants no further rise in energy prices ahead of elections, and agrees a new phase of hostilities against Iran may wait. He calls the US ambassador in Ankara a &#x27;negative force&#x27;.</content>
+    <summary type="text">Η κυβέρνηση επενδύει στα μέτρα στήριξης, με αυριανές ανακοινώσεις για το πετρέλαιο θέρμανσης και το επίδομα, περιμένοντας μικρή άνοδο στις μετρήσεις. Υπάρχουν φόβοι ότι τα μέτρα θα θεωρηθούν ανεπαρκή.</summary>
+    <content type="text">The government is banking on support measures, with announcements tomorrow on heating oil and the allowance, hoping for a small bump in polls. There are fears the measures may be seen as insufficient.</content>
   </entry>
   <entry>
-    <title>ΗΠΑ: Ο απρόσμενος σύμμαχος στην κούρσα της τεχνητής νοημοσύνης είναι η Κίνα</title>
-    <link href="https://www.kathimerini.gr/world/564515866/ipa-o-aprosmenos-symmachos-stin-koyrsa-tis-technitis-noimosynis-einai-i-kina/"/>
-    <id>https://www.kathimerini.gr/world/564515866/ipa-o-aprosmenos-symmachos-stin-koyrsa-tis-technitis-noimosynis-einai-i-kina/</id>
-    <updated>2026-10-12T11:41:59+00:00</updated>
+    <title>Φον ντερ Λάιεν: Απαράδεκτες οι επιθέσεις κατά εμπορικών πλοίων στη Μαύρη Θάλασσα</title>
+    <link href="https://www.kathimerini.gr/world/564518290/fon-nter-laien-aparadektes-oi-epitheseis-kata-emporikon-ploion-sti-mayri-thalassa/"/>
+    <id>https://www.kathimerini.gr/world/564518290/fon-nter-laien-aparadektes-oi-epitheseis-kata-emporikon-ploion-sti-mayri-thalassa/</id>
+    <updated>2026-10-13T10:19:53+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Παρά τον ανταγωνισμό για την κυριαρχία στην AI, οι αμερικανικές εταιρείες εξαρτώνται ακόμη από κινεζικά μοντέλα και τεχνολογικό εξοπλισμό. Το ρεπορτάζ ξεκινά από τα γραφεία της Moonshot AI στο Πεκίνο.</summary>
-    <content type="text">Despite fierce competition for AI dominance, US companies still depend on Chinese models and hardware. The report opens at Moonshot AI&#x27;s Beijing offices.</content>
+    <summary type="text">Η Ούρσουλα φον ντερ Λάιεν καταδίκασε τις επιθέσεις με drones κατά εμπορικών πλοίων στη Μαύρη Θάλασσα ως «απαράδεκτες» και ζήτησε λογοδοσία.</summary>
+    <content type="text">Ursula von der Leyen condemned the drone attacks on merchant ships in the Black Sea as &#x27;unacceptable&#x27; and demanded accountability.</content>
   </entry>
   <entry>
-    <title>Κάναμε ρούμπο με τον Ρούμπιο</title>
-    <link href="https://www.kathimerini.gr/opinion/564513265/kaname-roympome-ton-roympio/"/>
-    <id>https://www.kathimerini.gr/opinion/564513265/kaname-roympome-ton-roympio/</id>
-    <updated>2026-10-11T20:06:00+00:00</updated>
-    <author><name>Νότης Παπαδόπουλος</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Νότης Παπαδόπουλος κρίνει εξαιρετικά επιτυχημένη την επίσκεψη Ρούμπιο, καθώς η Αθήνα βρήκε υψηλόβαθμο συνομιλητή στον πυρήνα Τραμπ. Σημειώνει τρίωρες συζητήσεις για τα εθνικά θέματα.</summary>
-    <content type="text">Notis Papadopoulos judges Rubio&#x27;s visit highly successful, as Athens gained a senior interlocutor in Trump&#x27;s inner circle. He notes three hours of talks on national issues.</content>
-  </entry>
-  <entry>
-    <title>Αντιδράσεις για την εξαίρεση στελεχών του ΔΕΔΔΗΕ από αυτόφωρο για πυρκαγιές</title>
-    <link href="https://www.kathimerini.gr/politics/government/564514792/antidraseis-gia-tin-exairesi-stelechon-toy-deddie-apo-aytoforo-gia-pyrkagies/"/>
-    <id>https://www.kathimerini.gr/politics/government/564514792/antidraseis-gia-tin-exairesi-stelechon-toy-deddie-apo-aytoforo-gia-pyrkagies/</id>
-    <updated>2026-10-11T12:50:16+00:00</updated>
-    <author><name>Newsroom</name></author>
+    <title>Σκηνικό αδιεξόδου για τη Μονή Σινά</title>
+    <link href="https://www.kathimerini.gr/politics/foreign-policy/564517414/skiniko-adiexodoy-gia-ti-moni-sina/"/>
+    <id>https://www.kathimerini.gr/politics/foreign-policy/564517414/skiniko-adiexodoy-gia-ti-moni-sina/</id>
+    <updated>2026-10-13T09:21:19+00:00</updated>
+    <author><name>Δώρα Αντωνίου</name></author>
     <category term="politics"/>
-    <summary type="text">Αντιδράσεις προκαλεί τροπολογία που εξαιρεί στελέχη του ΔΕΔΔΗΕ από το αυτόφωρο μετά από πυρκαγιές που μπορεί να οφείλονται στο δίκτυο. Φέρει την υπογραφή των υπουργών Δικαιοσύνης και Πολιτικής Προστασίας και ακολουθεί συλλήψεις στελεχών.</summary>
-    <content type="text">An amendment exempting DEDDIE staff from flagrante delicto procedures after fires possibly caused by the grid has sparked reactions. It is signed by the justice and civil protection ministers and follows arrests of company officials.</content>
+    <summary type="text">Εικόνα αδιεξόδου διαμορφώνεται για τη συμφωνία της Μονής Σινά με το Κάιρο, με πηγή να λέει ότι η υπόθεση “πάει στα βράχια”. Η μονή δεν ανταποκρίνεται στις αιγυπτιακές αρχές από τις 10 Αυγούστου και η αναβολή λήγει στις 24 Οκτωβρίου.</summary>
+    <content type="text">A deadlock is emerging over the Sinai Monastery&#x27;s agreement with Cairo, with one source saying the affair is heading for the rocks. The monastery has not responded to Egyptian authorities since 10 August and the deferral expires on 24 October.</content>
   </entry>
   <entry>
-    <title>O Μπέρναμ θα καλέσει όλα τα κόμματα να σκεφτούν νέα συμφωνία με την Ε.Ε.</title>
-    <link href="https://www.kathimerini.gr/world/564515770/o-mpernam-tha-kalesei-ola-ta-kommata-na-skeftoyn-nea-symfonia-me-tin-e-e/"/>
-    <id>https://www.kathimerini.gr/world/564515770/o-mpernam-tha-kalesei-ola-ta-kommata-na-skeftoyn-nea-symfonia-me-tin-e-e/</id>
-    <updated>2026-10-12T11:13:20+00:00</updated>
+    <title>Γαλλία: Οι μαθητές θέλουν 10 δισ., η κυβέρνηση αδυνατεί και τα ομόλογα είναι στο «κόκκινο»</title>
+    <link href="https://www.kathimerini.gr/economy/international/564517825/gallia-oi-mathites-theloyn-10-dis-i-kyvernisi-adynatei-kai-ta-omologa-einai-sto-kokkino/"/>
+    <id>https://www.kathimerini.gr/economy/international/564517825/gallia-oi-mathites-theloyn-10-dis-i-kyvernisi-adynatei-kai-ta-omologa-einai-sto-kokkino/</id>
+    <updated>2026-10-13T10:05:00+00:00</updated>
+    <author><name>Newsroom</name></author>
+    <category term="economy"/>
+    <summary type="text">Η Γαλλία μπαίνει σε περίοδο πολιτικού χάους, με φοιτητικές διαδηλώσεις που ζητούν 10 δισ. ευρώ και ομόλογα στο “κόκκινο”. Οι επενδυτές χάνουν την εμπιστοσύνη τους στη δυνατότητα ελέγχου του χρέους.</summary>
+    <content type="text">France is entering a period of political chaos, with youth protests demanding €10bn and bond yields soaring. Investors are losing confidence in its ability to control debt.</content>
+  </entry>
+  <entry>
+    <title>Η περίπτωση Μεϊμαράκη και η δύσκολη σχέση Μητσοτάκη με την παλαιά φρουρά της Ν.Δ.</title>
+    <link href="https://www.kathimerini.gr/politics/564516919/i-periptosi-meimaraki-kai-i-dyskoli-schesi-mitsotaki-me-tin-palaia-froyra-tis-n-d/"/>
+    <id>https://www.kathimerini.gr/politics/564516919/i-periptosi-meimaraki-kai-i-dyskoli-schesi-mitsotaki-me-tin-palaia-froyra-tis-n-d/</id>
+    <updated>2026-10-12T17:52:46+00:00</updated>
+    <author><name>Βασιλική Σιούτη</name></author>
+    <category term="politics"/>
+    <summary type="text">Η απουσία του Βαγγέλη Μεϊμαράκη από την επετειακή εκδήλωση της Ν.Δ. αναδεικνύει τη δύσκολη σχέση της σημερινής ηγεσίας με την παλαιά φρουρά. Εξετάζεται η προσπάθεια επαναπροσέγγισης στο προεκλογικό κλίμα συστράτευσης.</summary>
+    <content type="text">Vangelis Meimarakis&#x27;s absence from New Democracy&#x27;s anniversary event highlights the leadership&#x27;s difficult relationship with the old guard. The piece examines attempts at rapprochement amid a pre-election push for unity.</content>
+  </entry>
+  <entry>
+    <title>Ξεκινάει η δημόσια εγγραφή της Capital Maritime Finance</title>
+    <link href="https://www.kathimerini.gr/economy/business/564517792/xekinaei-i-dimosia-eggrafi-tis-capital-maritime-finance/"/>
+    <id>https://www.kathimerini.gr/economy/business/564517792/xekinaei-i-dimosia-eggrafi-tis-capital-maritime-finance/</id>
+    <updated>2026-10-13T10:24:00+00:00</updated>
+    <author><name>Ηλίας Μπέλλος</name></author>
+    <category term="economy"/>
+    <summary type="text">Ξεκινά η δημόσια προσφορά της Capital Maritime Finance στο Χρηματιστήριο Αθηνών με στόχο έως 250 εκατ. ευρώ. Το εύρος τιμής είναι 7,00–7,68 ευρώ ανά μετοχή και διαρκεί έως 15 Οκτωβρίου.</summary>
+    <content type="text">The public offering of Capital Maritime Finance on the Athens Exchange begins, targeting up to €250m. The price range is €7.00–7.68 per share and runs until 15 October.</content>
+  </entry>
+  <entry>
+    <title>Κύπρος: Αισιοδοξία Χριστοδουλίδη για τη σημερινή συνάντηση με Ερχιουρμαν</title>
+    <link href="https://www.kathimerini.gr/world/564518407/kypros-aisiodoxia-christodoylidi-gia-ti-simerini-synantisi-me-erchioyrman/"/>
+    <id>https://www.kathimerini.gr/world/564518407/kypros-aisiodoxia-christodoylidi-gia-ti-simerini-synantisi-me-erchioyrman/</id>
+    <updated>2026-10-13T11:18:57+00:00</updated>
     <author><name>Newsroom</name></author>
     <category term="world"/>
-    <summary type="text">Ο Βρετανός πρωθυπουργός Άντι Μπέρναμ αναμένεται να καλέσει τα κόμματα να εξετάσουν στενότερη σχέση με την Ε.Ε. μετά το Brexit, για ανάπτυξη και έλεγχο της μετανάστευσης.</summary>
-    <content type="text">UK Prime Minister Andy Burnham is expected to call on parties to consider a closer post-Brexit relationship with the EU to boost growth and help manage migration.</content>
-  </entry>
-  <entry>
-    <title>Το αξόδευτο απόθεμα της ήπιας ισχύος</title>
-    <link href="https://www.kathimerini.gr/opinion/564513232/to-axodeyto-apothema-tis-ipias-ischyos/"/>
-    <id>https://www.kathimerini.gr/opinion/564513232/to-axodeyto-apothema-tis-ipias-ischyos/</id>
-    <updated>2026-10-11T20:13:00+00:00</updated>
-    <author><name>Αλέξης Παπαχελάς</name></author>
-    <category term="opinion"/>
-    <summary type="text">Ο Αλέξης Παπαχελάς γράφει ότι η Ελλάδα διαθέτει τεράστιο απόθεμα «ήπιας ισχύος», όπως φάνηκε με την ομιλία Ρούμπιο, που όμως παραμένει αναξιοποίητο.</summary>
-    <content type="text">Alexis Papachelas writes that Greece holds a huge stock of &#x27;soft power&#x27;, as the Rubio speech showed, yet leaves it largely unused.</content>
+    <summary type="text">Ο Νίκος Χριστοδουλίδης εμφανίστηκε συγκρατημένα αισιόδοξος για τη 12η συνάντησή του με τον Τουφάν Ερχιουρμάν στη Λευκωσία, για πακέτο μέτρων οικοδόμησης εμπιστοσύνης.</summary>
+    <content type="text">Nikos Christodoulides was cautiously optimistic ahead of his 12th meeting with Tufan Erhürman in Nicosia on a package of confidence-building measures.</content>
   </entry>
 </feed>

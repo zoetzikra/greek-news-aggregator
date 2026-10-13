@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T09:10:00+00:00",
+  "source_note": "Articles scraped from kathimerini.gr. 77 articles over 24h.",
+  "executive_summary": {
+    "el": "Η ημέρα κυριαρχείται από την πολιτική αντιπαράθεση στον χώρο της κεντροαριστεράς. Η σύγκρουση ΠΑΣΟΚ–ΕΛΑΣ για τη δεύτερη θέση κλιμακώθηκε μετά τις επιθέσεις Καρτερού και Καμμένου κατά του Νίκου Ανδρουλάκη, με τον Αλέξη Τσίπρα να δηλώνει ότι αντίπαλός του είναι ο Κυριάκος Μητσοτάκης. Η κυβέρνηση, με φόντο τον προεκλογικό κλίμα, επενδύει στα μέτρα στήριξης (πετρέλαιο θέρμανσης, πλατφόρμα 120 δόσεων τον Νοέμβριο), ενώ τα εσωκομματικά της Ν.Δ. και οι δημοσκοπήσεις απασχολούν τα σχόλια.\n\nΣτο εξωτερικό, η ασφάλεια στη Μαύρη Θάλασσα βρίσκεται στο επίκεντρο: νέα επίθεση με drone βύθισε πλοίο ανοικτά της Βουλγαρίας με 11 αγνοούμενους, ο Ρούτε και η φον ντερ Λάιεν καταδίκασαν τις επιθέσεις και η Σόφια κάλεσε τον Ρώσο πρέσβη. Παράλληλα, η WSJ αναφέρει ότι το Ιράν οχυρώνει πυρηνικές εγκαταστάσεις, ενώ στην Κύπρο ο Χριστοδουλίδης συναντά τον Ερχιουρμάν. Στα ελληνοαμερικανικά, η επίσκεψη Ρούμπιο και η επανεκκίνηση του GSI συνυπάρχουν με την αβεβαιότητα για την πρέσβειρα Γκίλφοϊλ.\n\nΗ τεχνητή νοημοσύνη διατρέχει την οικονομία: το ΔΝΤ προειδοποιεί για «τσουνάμι» στην αγορά εργασίας, η Ελλάδα βάζει αυστηρούς όρους στα data centers και στο Μπατάμ οι κάτοικοι διαμαρτύρονται για το νερό. Στις αγορές, η αναταραχή στα ομόλογα και η πολιτική κρίση στη Γαλλία δημιουργούν ανησυχία, ενώ η Capital Maritime Finance ξεκινά δημόσια εγγραφή και ο Γερογιάννης αποχωρεί από την Aegean.\n\nΣτην κοινωνία κυριαρχούν η δικαιοσύνη και οι δίκες: Τέμπη, Daniel, Marfin και η έφεση για την υπόθεση Βαλυράκη, ενώ το νομοσχέδιο για όριο ηλικίας 15 ετών στα social media και το πάγωμα του μετρό στην Κυψέλη συμπληρώνουν την ατζέντα.",
+    "en": "The day is dominated by political infighting on the centre-left. The PASOK–ELAS clash over second place escalated after attacks on Nikos Androulakis by Karteros and Kammenos, with Alexis Tsipras saying his opponent is Kyriakos Mitsotakis. Against a pre-election backdrop, the government is banking on support measures (heating oil, the 120-instalment platform opening in November), while ND's internal jockeying and the polls fill the commentary.\n\nAbroad, Black Sea security is in focus: a new drone attack sank a ship off Bulgaria leaving 11 missing, Rutte and von der Leyen condemned the attacks and Sofia summoned the Russian ambassador. Meanwhile the WSJ reports Iran is fortifying nuclear sites, and in Cyprus Christodoulides meets Erhürman. On Greek-US ties, Rubio's visit and the restart of the GSI cable coexist with uncertainty over Ambassador Guilfoyle.\n\nArtificial intelligence runs through the economy: the IMF warns of a labour-market 'tsunami', Greece sets strict conditions for data centres, and residents of Batam protest over water. In markets, bond turmoil and France's political crisis raise concern, while Capital Maritime Finance opens its public offering and Gerogiannis leaves Aegean.\n\nIn society, justice and trials dominate: Tempi, Daniel, Marfin and the appeal in the Valyrakis case, while the bill setting a social media age limit of 15 and the stalled Kypseli metro works round out the agenda."
+  },
+  "top_topics": [
+    {
+      "name": {
+        "el": "Σύγκρουση ΠΑΣΟΚ–ΕΛΑΣ",
+        "en": "PASOK–ELAS clash"
+      },
+      "description": {
+        "el": "Επιθέσεις Καρτερού και Καμμένου κατά Ανδρουλάκη, απάντηση Τσίπρα και μάχη για τη δεύτερη θέση.",
+        "en": "Attacks by Karteros and Kammenos on Androulakis, Tsipras's response and the fight for second place."
+      },
+      "related_items": [
+        "39e30fc7f04b",
+        "57bd10dc7f0f",
+        "025023c1c429",
+        "4ce49c768731"
+      ],
+      "importance": 85
+    },
+    {
+      "name": {
+        "el": "Επιθέσεις drone στη Μαύρη Θάλασσα",
+        "en": "Drone attacks in the Black Sea"
+      },
+      "description": {
+        "el": "Βύθιση πλοίου με 11 αγνοούμενους ανοικτά της Βουλγαρίας και αντιδράσεις ΝΑΤΟ και ΕΕ.",
+        "en": "A ship sunk with 11 missing off Bulgaria and reactions from NATO and the EU."
+      },
+      "related_items": [
+        "a7b71225ef0c",
+        "6a828a4e2dbe",
+        "61a107482cd0"
+      ],
+      "importance": 80
+    },
+    {
+      "name": {
+        "el": "Τεχνητή νοημοσύνη και data centers",
+        "en": "AI and data centres"
+      },
+      "description": {
+        "el": "Προειδοποίηση ΔΝΤ, νέοι όροι για data centers και διαμαρτυρία για το νερό στο Μπατάμ.",
+        "en": "IMF warning, new rules for data centres and a water protest in Batam."
+      },
+      "related_items": [
+        "c2a6cd8415fa",
+        "60c561fe86e0",
+        "af0427644ac2"
+      ],
+      "importance": 74
+    },
+    {
+      "name": {
+        "el": "Μέτρα στήριξης και προεκλογικό κλίμα",
+        "en": "Support measures and pre-election climate"
+      },
+      "description": {
+        "el": "Πετρέλαιο θέρμανσης, 120 δόσεις και εσωκομματικά της Ν.Δ.",
+        "en": "Heating oil, 120 instalments and ND's internal dynamics."
+      },
+      "related_items": [
+        "e720bfde84fc",
+        "8c579475fa91",
+        "efd7c5d6fe56",
+        "357b0684766c"
+      ],
+      "importance": 72
+    },
+    {
+      "name": {
+        "el": "Ελληνοαμερικανικά και GSI",
+        "en": "Greek-US ties and the GSI"
+      },
+      "description": {
+        "el": "Επίσκεψη Ρούμπιο, επανεκκίνηση του καλωδίου και αβεβαιότητα για την πρέσβειρα.",
+        "en": "Rubio's visit, restart of the cable and uncertainty over the ambassador."
+      },
+      "related_items": [
+        "a402f8304c44",
+        "a29a3303ea71",
+        "41848e2ae6fd"
+      ],
+      "importance": 70
+    },
+    {
+      "name": {
+        "el": "Ιράν και Μέση Ανατολή",
+        "en": "Iran and the Middle East"
+      },
+      "description": {
+        "el": "Οχύρωση πυρηνικών εγκαταστάσεων και απειλές αντιποίνων.",
+        "en": "Fortification of nuclear sites and threats of retaliation."
+      },
+      "related_items": [
+        "1ac57a65f5f4"
+      ],
+      "importance": 68
+    },
+    {
+      "name": {
+        "el": "Δίκες και δικαιοσύνη",
+        "en": "Trials and justice"
+      },
+      "description": {
+        "el": "Τέμπη, Daniel, Marfin και υπόθεση Βαλυράκη.",
+        "en": "Tempi, Daniel, Marfin and the Valyrakis case."
+      },
+      "related_items": [
+        "27c4e829986e",
+        "c08c28e9225e",
+        "967037b1fff7",
+        "7b33f6725c84"
+      ],
+      "importance": 66
+    }
+  ],
+  "article_count": 77,
+  "categories": {
+    "politics": {
+      "item_count": 14,
+      "top_items": [
+        "a402f8304c44",
+        "39e30fc7f04b",
+        "57bd10dc7f0f",
+        "a29a3303ea71",
+        "e720bfde84fc"
+      ]
+    },
+    "economy": {
+      "item_count": 14,
+      "top_items": [
+        "c2a6cd8415fa",
+        "a9051d5511db",
+        "8c579475fa91",
+        "60c561fe86e0",
+        "c10e283c5e8f"
+      ]
+    },
+    "society": {
+      "item_count": 14,
+      "top_items": [
+        "f5d4e006610e",
+        "27c4e829986e",
+        "b36b813ccb80",
+        "6de0c3d71b9f",
+        "7b33f6725c84"
+      ]
+    },
+    "world": {
+      "item_count": 14,
+      "top_items": [
+        "1ac57a65f5f4",
+        "a7b71225ef0c",
+        "6a828a4e2dbe",
+        "61a107482cd0",
+        "cfd06f4b2687"
+      ]
+    },
+    "opinion": {
+      "item_count": 7,
+      "top_items": [
+        "357b0684766c",
+        "dca37f70d920",
+        "d816f2a3235c",
+        "41848e2ae6fd",
+        "4ce49c768731"
+      ]
+    },
+    "culture": {
+      "item_count": 14,
+      "top_items": [
+        "cf9fdb876846",
+        "dff579044781",
+        "36eda0fdcc40",
+        "a978397aa15a",
+        "c5ac75c3dd89"
+      ]
+    },
+    "ai": {
+      "item_count": 7,
+      "top_items": [
+        {
+          "id": "c2a6cd8415fa",
+          "title": "Η τεχνητή νοημοσύνη πλήττει σαν τσουνάμι την αγορά εργασίας",
+          "url": "https://www.kathimerini.gr/economy/international/564517843/i-techniti-noimosyni-plittei-san-tsoynami-tin-agora-ergasias/",
+          "source": "Kathimerini",
+          "published": "2026-10-13T09:09:00+00:00",
+          "category": "economy",
+          "importance": 72,
+          "summary": {
+            "el": "Η Κρισταλίνα Γκεοργκίεβα προειδοποίησε ότι η τεχνητή νοημοσύνη είναι ένα “τσουνάμι σε αργή κίνηση” για την αγορά εργασίας και τα φορολογικά έσοδα. Ζήτησε από τις κυβερνήσεις να μην περιμένουν.",
+            "en": "IMF chief Kristalina Georgieva warned AI is a 'slow-moving tsunami' for the labour market and tax revenues, urging governments not to wait."
+          },
+          "tags": {
+            "el": [
+              "τεχνητή νοημοσύνη",
+              "ΔΝΤ",
+              "αγορά εργασίας",
+              "Γκεοργκίεβα"
+            ],
+            "en": [
+              "artificial intelligence",
+              "IMF",
+              "labour market",
+              "Georgieva"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "60c561fe86e0",
+          "title": "Νέοι αυστηροί όροι για τις επενδύσεις σε data centers",
+          "url": "https://www.kathimerini.gr/economy/business/564517753/neoi-aystiroi-oroi-gia-tis-ependyseis-se-data-centers/",
+          "source": "Kathimerini",
+          "published": "2026-10-13T11:28:00+00:00",
+          "category": "economy",
+          "importance": 66,
+          "summary": {
+            "el": "Το υπουργείο Ενέργειας βάζει αυστηρούς όρους για τα data centers, όπως εξασφάλιση της έκτασης για δέκα χρόνια, καθώς τα αιτήματα σύνδεσης πλησιάζουν τα 9 GW. Το νομοσχέδιο βρίσκεται σε διαβούλευση έως 24 Οκτωβρίου.",
+            "en": "The energy ministry is imposing strict conditions on data centres, such as securing land for ten years, as connection requests near 9 GW. The bill is in consultation until 24 October."
+          },
+          "tags": {
+            "el": [
+              "data centers",
+              "ΑΔΜΗΕ",
+              "ενέργεια",
+              "νομοσχέδιο",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "data centres",
+              "IPTO",
+              "energy",
+              "bill",
+              "AI"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "f5d4e006610e",
+          "title": "Το πλέγμα μέτρων για τον «κόφτη» στα social media",
+          "url": "https://www.kathimerini.gr/society/564517411/to-plegma-metron-gia-ton-kofti-sta-social-media/",
+          "source": "Kathimerini",
+          "published": "2026-10-13T07:20:38+00:00",
+          "category": "society",
+          "importance": 65,
+          "summary": {
+            "el": "Το σχέδιο νόμου για “κόφτη” στα social media θέτει όριο ηλικίας 15 ετών από 1/1/2027, με υποχρεωτική επαλήθευση από τις πλατφόρμες. Επικαλείται στοιχεία για την υπερβολική χρήση από ανηλίκους.",
+            "en": "The draft law for a social media cut-off sets a minimum age of 15 from 1 January 2027, requiring platforms to verify age. It cites data on excessive use among minors."
+          },
+          "tags": {
+            "el": [
+              "social media",
+              "όριο ηλικίας",
+              "ανήλικοι",
+              "νομοσχέδιο"
+            ],
+            "en": [
+              "social media",
+              "age limit",
+              "minors",
+              "bill"
+            ]
+          },
+          "sentiment": "neutral"
+        },
+        {
+          "id": "dca37f70d920",
+          "title": "Υπέρ των αγορών ομολόγων",
+          "url": "https://www.kathimerini.gr/opinion/564517546/yper-ton-agoron-omologon/",
+          "source": "Kathimerini",
+          "published": "2026-10-13T08:28:00+00:00",
+          "category": "opinion",
+          "importance": 55,
+          "summary": {
+            "el": "Ο αρθρογράφος υπερασπίζεται τις αγορές ομολόγων, επισημαίνοντας ότι το ενεργειακό σοκ από τον πόλεμο στο Ιράν και οι ανάγκες χρηματοδότησης της ΤΝ αυξάνουν το κόστος δανεισμού της Γαλλίας (χρέος 119% του ΑΕΠ).",
+            "en": "The columnist defends bond markets, noting the energy shock from the Iran war and AI financing needs are raising France's borrowing costs (debt at 119% of GDP)."
+          },
+          "tags": {
+            "el": [
+              "ομόλογα",
+              "Γαλλία",
+              "χρέος",
+              "ενεργειακό σοκ"
+            ],
+            "en": [
+              "bonds",
+              "France",
+              "debt",
+              "energy shock"
+            ]
+          },
+          "sentiment": "negative"
+        },
+        {
+          "id": "797f52783691",
+          "title": "Σε τζίρο 1 δισ. ευρώ την επόμενη 5ετία στοχεύει η Ideal Holdings",
+          "url": "https://www.kathimerini.gr/economy/business/564517795/se-tziro-1-dis-eyro-tin-epomeni-5etia-stocheyei-i-ideal-holdings/",
+          "source": "Kathimerini",
+          "published": "2026-10-13T11:12:00+00:00",
+          "category": "economy",
+          "importance": 48,
+          "summary": {
+            "el": "Η Ideal Holdings στοχεύει τζίρο 1 δισ. ευρώ σε πέντε χρόνια. Ο Κωστής Χατζηδάκης προανήγγειλε νέα κίνητρα για συγχωνεύσεις και είπε ότι η τεχνητή νοημοσύνη θα είναι κεντρική στην κυβερνητική ατζέντα.",
+            "en": "Ideal Holdings targets €1bn turnover in five years. Kostis Hatzidakis announced further merger incentives and said AI will be central to the government agenda."
+          },
+          "tags": {
+            "el": [
+              "Ideal Holdings",
+              "συγχωνεύσεις",
+              "Χατζηδάκης",
+              "τεχνητή νοημοσύνη"
+            ],
+            "en": [
+              "Ideal Holdings",
+              "mergers",
+              "Hatzidakis",
+              "artificial intelligence"
+            ]
+          },
+          "sentiment": "positive"
+        }
+      ]
+    }
+  }
+}
